@@ -1,0 +1,1661 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001425,C0496828,TREATS,Adenoidectomy,Malignant neoplasm of lateral wall of bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0001562,C0005684,TREATS,"Administration, Intravesical",Malignant neoplasm of urinary bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0001562,C1336527,TREATS,"Administration, Intravesical","Carcinoma of urinary bladder, superficial",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0001562,C4725841,TREATS,"Administration, Intravesical",Bladder Carcinoma Infiltrating the Muscle of the Bladder Wall,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0001563,C0278704,TREATS,"Administration, Oral",Malignant Childhood Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0001632,C0001624,TREATS,Adrenalectomy,Adrenal Gland Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0001632,C0031511,TREATS,Adrenalectomy,Pheochromocytoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0001632,C0206686,TREATS,Adrenalectomy,Adrenocortical carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0002688,C0008487,TREATS,Amputation,Chordoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0002688,C0029463,TREATS,Amputation,Osteosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0002688,C0037579,TREATS,Amputation,Soft Tissue Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0002766,C0235974,TREATS,Pain management,Pancreatic carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0002766,C0741884,TREATS,Pain management,terminal cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0002903,C0025202,TREATS,Anesthesia procedures,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0002903,C0496828,TREATS,Anesthesia procedures,Malignant neoplasm of lateral wall of bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0002915,C0007137,TREATS,General Anesthesia,Squamous cell carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0004933,C0085669,TREATS,Behavior Therapy,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0005527,C0006826,TREATS,Biological Response Modifier Therapy,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0005527,C0025202,TREATS,Biological Response Modifier Therapy,melanoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0005841,C0006826,TREATS,Blood Transfusion,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0005841,C0009402,TREATS,Blood Transfusion,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0005841,C0023449,TREATS,Blood Transfusion,Acute lymphocytic leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0005841,C0027651,TREATS,Blood Transfusion,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0005841,C0376545,TREATS,Blood Transfusion,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0005841,C0920420,TREATS,Blood Transfusion,cancer recurrence,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0005841,C1266119,TREATS,Blood Transfusion,Solitary fibrous tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0005961,C0006826,TREATS,Bone Marrow Transplantation,Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0005961,C0019829,TREATS,Bone Marrow Transplantation,Hodgkin Disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0005961,C0023418,TREATS,Bone Marrow Transplantation,leukemia,topp,neop,5,TREATS_TOPPtrtsNEOP
+C0005961,C0023434,TREATS,Bone Marrow Transplantation,Chronic Lymphocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0005961,C0023449,TREATS,Bone Marrow Transplantation,Acute lymphocytic leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0005961,C0023467,TREATS,Bone Marrow Transplantation,"Leukemia, Myelocytic, Acute",topp,neop,2,TREATS_TOPPtrtsNEOP
+C0005961,C0024305,TREATS,Bone Marrow Transplantation,"Lymphoma, Non-Hodgkin",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0005961,C0032927,TREATS,Bone Marrow Transplantation,Precancerous Conditions,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0005961,C0085669,TREATS,Bone Marrow Transplantation,Acute leukemia,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0005961,C0376545,TREATS,Bone Marrow Transplantation,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0005961,C0920028,TREATS,Bone Marrow Transplantation,Recurrent Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0005976,C4553416,TREATS,Bone Transplantation,Stage IIB Prostate Cancer AJCC v8,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0005976,C4682751,TREATS,Bone Transplantation,Stage IIC Prostate Cancer AJCC v8,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0006098,C0006826,TREATS,Brachytherapy,Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0006098,C0007103,TREATS,Brachytherapy,Malignant neoplasm of endometrium,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0006098,C0007847,TREATS,Brachytherapy,Malignant tumor of cervix,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0006098,C0018671,TREATS,Brachytherapy,Head and Neck Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0006098,C0220611,TREATS,Brachytherapy,Childhood Rhabdomyosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0006098,C0302592,TREATS,Brachytherapy,Cervix carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0006098,C0376358,TREATS,Brachytherapy,Malignant neoplasm of prostate,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0006098,C0699889,TREATS,Brachytherapy,Malignant Female Reproductive System Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0006098,C4048328,TREATS,Brachytherapy,cervical cancer,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0006098,C4744723,TREATS,Brachytherapy,Locally Advanced Cervical Carcinoma,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0008320,C0153452,TREATS,Cholecystectomy procedure,Malignant neoplasm of gallbladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0008320,C0206655,TREATS,Cholecystectomy procedure,Alveolar rhabdomyosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0009244,C0376545,TREATS,Cognitive Therapy,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0009274,C0007102,TREATS,Colectomy,Malignant tumor of colon,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0009429,C0006826,TREATS,Combined Modality Therapy,Malignant Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0009429,C0007131,TREATS,Combined Modality Therapy,Non-Small Cell Lung Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0009429,C0017636,TREATS,Combined Modality Therapy,Glioblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0009429,C0019829,TREATS,Combined Modality Therapy,Hodgkin Disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0009429,C0023418,TREATS,Combined Modality Therapy,leukemia,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0009429,C0023467,TREATS,Combined Modality Therapy,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0009429,C0024299,TREATS,Combined Modality Therapy,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0009429,C0750977,TREATS,Combined Modality Therapy,Recurrent Brain Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0009429,C0919267,TREATS,Combined Modality Therapy,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0010280,C0006118,TREATS,Craniotomy,Brain Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0010408,C0006142,TREATS,Cryosurgery,Malignant neoplasm of breast,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0010408,C0007124,TREATS,Cryosurgery,Noninfiltrating Intraductal Carcinoma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0010408,C0853879,TREATS,Cryosurgery,Invasive carcinoma of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0010651,C0005684,TREATS,Cystectomy,Malignant neoplasm of urinary bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0010651,C0280218,TREATS,Cystectomy,"stage, bladder cancer",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0010651,C4266454,TREATS,Cystectomy,High grade tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0011079,C0206655,TREATS,Debridement,Alveolar rhabdomyosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0011079,C0345893,TREATS,Debridement,Juvenile polyposis syndrome,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0011121,C0206669,TREATS,Decontamination,Hepatocellular Adenoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0011331,C0027651,TREATS,Dental Procedures,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0011946,C0027627,TREATS,Dialysis procedure,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0012358,C0007097,TREATS,Dilatation and Curettage,Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0012683,C0006826,TREATS,Disinfection,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0012683,C0027627,TREATS,Disinfection,Neoplasm Metastasis,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0013103,C0496828,TREATS,Drainage procedure,Malignant neoplasm of lateral wall of bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0005684,TREATS,Pharmacotherapy,Malignant neoplasm of urinary bladder,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C0005967,TREATS,Pharmacotherapy,Bone neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0006142,TREATS,Pharmacotherapy,Malignant neoplasm of breast,topp,neop,10,TREATS_TOPPtrtsNEOP
+C0013216,C0006413,TREATS,Pharmacotherapy,Burkitt Lymphoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C0006826,TREATS,Pharmacotherapy,Malignant Neoplasms,topp,neop,85,TREATS_TOPPtrtsNEOP
+C0013216,C0007097,TREATS,Pharmacotherapy,Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0007103,TREATS,Pharmacotherapy,Malignant neoplasm of endometrium,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C0007114,TREATS,Pharmacotherapy,Malignant neoplasm of skin,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0007131,TREATS,Pharmacotherapy,Non-Small Cell Lung Carcinoma,topp,neop,18,TREATS_TOPPtrtsNEOP
+C0013216,C0007138,TREATS,Pharmacotherapy,"Carcinoma, Transitional Cell",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0007873,TREATS,Pharmacotherapy,Uterine Cervical Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0009375,TREATS,Pharmacotherapy,Colonic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0009402,TREATS,Pharmacotherapy,Colorectal Carcinoma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0013216,C0017185,TREATS,Pharmacotherapy,Gastrointestinal Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0017636,TREATS,Pharmacotherapy,Glioblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0017638,TREATS,Pharmacotherapy,Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0019618,TREATS,Pharmacotherapy,Histiocytosis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0019829,TREATS,Pharmacotherapy,Hodgkin Disease,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0013216,C0020981,TREATS,Pharmacotherapy,Angioimmunoblastic Lymphadenopathy,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0023418,TREATS,Pharmacotherapy,leukemia,topp,neop,23,TREATS_TOPPtrtsNEOP
+C0013216,C0023448,TREATS,Pharmacotherapy,Lymphoid leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0023449,TREATS,Pharmacotherapy,Acute lymphocytic leukemia,topp,neop,6,TREATS_TOPPtrtsNEOP
+C0013216,C0023467,TREATS,Pharmacotherapy,"Leukemia, Myelocytic, Acute",topp,neop,11,TREATS_TOPPtrtsNEOP
+C0013216,C0023479,TREATS,Pharmacotherapy,Acute myelomonocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0023487,TREATS,Pharmacotherapy,Acute Promyelocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0024299,TREATS,Pharmacotherapy,Lymphoma,topp,neop,12,TREATS_TOPPtrtsNEOP
+C0013216,C0024301,TREATS,Pharmacotherapy,"Lymphoma, Follicular",topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C0024305,TREATS,Pharmacotherapy,"Lymphoma, Non-Hodgkin",topp,neop,11,TREATS_TOPPtrtsNEOP
+C0013216,C0024623,TREATS,Pharmacotherapy,Malignant neoplasm of stomach,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0025500,TREATS,Pharmacotherapy,Mesothelioma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C0026764,TREATS,Pharmacotherapy,Multiple Myeloma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0013216,C0027627,TREATS,Pharmacotherapy,Neoplasm Metastasis,topp,neop,73,TREATS_TOPPtrtsNEOP
+C0013216,C0027651,TREATS,Pharmacotherapy,Neoplasms,topp,neop,23,TREATS_TOPPtrtsNEOP
+C0013216,C0027819,TREATS,Pharmacotherapy,Neuroblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0029463,TREATS,Pharmacotherapy,Osteosarcoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C0079744,TREATS,Pharmacotherapy,Diffuse Large B-Cell Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0079772,TREATS,Pharmacotherapy,T-Cell Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0079773,TREATS,Pharmacotherapy,"Lymphoma, T-Cell, Cutaneous",topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C0079774,TREATS,Pharmacotherapy,Peripheral T-Cell Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0085669,TREATS,Pharmacotherapy,Acute leukemia,topp,neop,8,TREATS_TOPPtrtsNEOP
+C0013216,C0149925,TREATS,Pharmacotherapy,Small cell carcinoma of lung,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0013216,C0153467,TREATS,Pharmacotherapy,Malignant tumor of peritoneum,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0153567,TREATS,Pharmacotherapy,Uterine Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0153661,TREATS,Pharmacotherapy,Malignant neoplasm of thorax,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0205699,TREATS,Pharmacotherapy,Carcinomatosis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0206180,TREATS,Pharmacotherapy,Ki-1+ Anaplastic Large Cell Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0206624,TREATS,Pharmacotherapy,Hepatoblastoma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0013216,C0220630,TREATS,Pharmacotherapy,Adult Liver Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0235974,TREATS,Pharmacotherapy,Pancreatic carcinoma,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0013216,C0242379,TREATS,Pharmacotherapy,Malignant neoplasm of lung,topp,neop,8,TREATS_TOPPtrtsNEOP
+C0013216,C0262584,TREATS,Pharmacotherapy,"Carcinoma, Small Cell",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0268381,TREATS,Pharmacotherapy,Primary amyloidosis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0278480,TREATS,Pharmacotherapy,Stage III Colon Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0278484,TREATS,Pharmacotherapy,Malignant neoplasm of colon stage IV,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0278488,TREATS,Pharmacotherapy,Carcinoma breast stage IV,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0278498,TREATS,Pharmacotherapy,Malignant neoplasm of stomach stage IV,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0278689,TREATS,Pharmacotherapy,Recurrent ovarian cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0278704,TREATS,Pharmacotherapy,Malignant Childhood Neoplasm,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0013216,C0278726,TREATS,Pharmacotherapy,Extensive Stage Lung Small Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0278846,TREATS,Pharmacotherapy,Invasive Thymoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0278883,TREATS,Pharmacotherapy,Metastatic melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0278987,TREATS,Pharmacotherapy,Metastatic non-small cell lung cancer,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0013216,C0279068,TREATS,Pharmacotherapy,Childhood Solid Neoplasm,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C0280100,TREATS,Pharmacotherapy,Solid Neoplasm,topp,neop,7,TREATS_TOPPtrtsNEOP
+C0013216,C0281361,TREATS,Pharmacotherapy,Adenocarcinoma of pancreas,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0282607,TREATS,Pharmacotherapy,Vascular Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0334246,TREATS,Pharmacotherapy,"Squamous cell carcinoma, metastatic",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0345967,TREATS,Pharmacotherapy,Malignant mesothelioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0349532,TREATS,Pharmacotherapy,Gastric lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0376358,TREATS,Pharmacotherapy,Malignant neoplasm of prostate,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0013216,C0376544,TREATS,Pharmacotherapy,Hematopoietic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0376545,TREATS,Pharmacotherapy,Hematologic Neoplasms,topp,neop,31,TREATS_TOPPtrtsNEOP
+C0013216,C0494165,TREATS,Pharmacotherapy,Secondary malignant neoplasm of liver,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0013216,C0677936,TREATS,Pharmacotherapy,Refractory Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0677984,TREATS,Pharmacotherapy,Locally Advanced Malignant Neoplasm,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0013216,C0699889,TREATS,Pharmacotherapy,Malignant Female Reproductive System Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0740345,TREATS,Pharmacotherapy,Germ Cell Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0854778,TREATS,Pharmacotherapy,Resectable Pancreatic Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0854802,TREATS,Pharmacotherapy,Recurrent Chronic Lymphoid Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0860594,TREATS,Pharmacotherapy,"Malignant melanoma, metastatic",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0862847,TREATS,Pharmacotherapy,Stage III Lung Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C0877373,TREATS,Pharmacotherapy,Advanced Malignant Neoplasm,topp,neop,9,TREATS_TOPPtrtsNEOP
+C0013216,C0919267,TREATS,Pharmacotherapy,ovarian neoplasm,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0013216,C1168401,TREATS,Pharmacotherapy,Squamous cell carcinoma of the head and neck,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C1261473,TREATS,Pharmacotherapy,Sarcoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C1279296,TREATS,Pharmacotherapy,Chronic leukemia (category),topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C1292769,TREATS,Pharmacotherapy,Precursor B-cell lymphoblastic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C1306460,TREATS,Pharmacotherapy,Primary malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C1332225,TREATS,Pharmacotherapy,Aggressive Non-Hodgkin Lymphoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C1334008,TREATS,Pharmacotherapy,High Grade Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C1336708,TREATS,Pharmacotherapy,Testicular Germ Cell Tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C1827293,TREATS,Pharmacotherapy,"Carcinoma of urinary bladder, invasive",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C1827434,TREATS,Pharmacotherapy,"Seminoma of testis, stage 1",topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C1882062,TREATS,Pharmacotherapy,Neoplastic disease,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C1961099,TREATS,Pharmacotherapy,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C2239176,TREATS,Pharmacotherapy,Liver carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C2931822,TREATS,Pharmacotherapy,Nasopharyngeal carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C2938924,TREATS,Pharmacotherapy,estrogen receptor-positive breast cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C2945759,TREATS,Pharmacotherapy,aggressive cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C3463824,TREATS,Pharmacotherapy,MYELODYSPLASTIC SYNDROME,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C3472375,TREATS,Pharmacotherapy,Primary malignant adenomatous neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C3887461,TREATS,Pharmacotherapy,Head and Neck Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C4048328,TREATS,Pharmacotherapy,cervical cancer,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0013216,C4302896,TREATS,Pharmacotherapy,Hormone sensitive prostate cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C4528176,TREATS,Pharmacotherapy,High Risk Myelodysplastic Syndrome,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C4528668,TREATS,Pharmacotherapy,Refractory Acute Myeloid Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C4724972,TREATS,Pharmacotherapy,Recurrent Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C4725841,TREATS,Pharmacotherapy,Bladder Carcinoma Infiltrating the Muscle of the Bladder Wall,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C4733095,TREATS,Pharmacotherapy,HER2-negative breast cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013216,C4744723,TREATS,Pharmacotherapy,Locally Advanced Cervical Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013218,C0006826,TREATS,Combination Drug Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013218,C0007131,TREATS,Combination Drug Therapy,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013218,C0023449,TREATS,Combination Drug Therapy,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013218,C0024299,TREATS,Combination Drug Therapy,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013218,C0024305,TREATS,Combination Drug Therapy,"Lymphoma, Non-Hodgkin",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013218,C0025500,TREATS,Combination Drug Therapy,Mesothelioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013218,C0149925,TREATS,Combination Drug Therapy,Small cell carcinoma of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013218,C0235974,TREATS,Combination Drug Therapy,Pancreatic carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013218,C0677932,TREATS,Combination Drug Therapy,Progressive Neoplastic Disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013218,C1377904,TREATS,Combination Drug Therapy,Refractory Malignant Testicular Germ Cell Tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013806,C0027651,TREATS,Electroconvulsive Therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013806,C0376545,TREATS,Electroconvulsive Therapy,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013931,C0153676,TREATS,"Embolization, Therapeutic",Secondary malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013931,C0278775,TREATS,"Embolization, Therapeutic",Recurrent Adult Liver Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013931,C0677932,TREATS,"Embolization, Therapeutic",Progressive Neoplastic Disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0013931,C2239176,TREATS,"Embolization, Therapeutic",Liver carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0014392,C0024299,TREATS,Enucleation procedure,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015250,C0011649,TREATS,Complete excision,Dermoid Cyst,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015250,C0017638,TREATS,Complete excision,Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015250,C0027651,TREATS,Complete excision,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015250,C0086692,TREATS,Complete excision,Benign Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015250,C0334664,TREATS,Complete excision,Mast Cell Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015250,C0431123,TREATS,Complete excision,Solitary neurofibroma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0001418,TREATS,removal technique,Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0005426,TREATS,removal technique,Biliary Tract Neoplasm,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0015252,C0006118,TREATS,removal technique,Brain Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0006142,TREATS,removal technique,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0006826,TREATS,removal technique,Malignant Neoplasms,topp,neop,7,TREATS_TOPPtrtsNEOP
+C0015252,C0007102,TREATS,removal technique,Malignant tumor of colon,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0007113,TREATS,removal technique,Rectal Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0015252,C0007129,TREATS,removal technique,Merkel cell carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0007131,TREATS,removal technique,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0007137,TREATS,removal technique,Squamous cell carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0009402,TREATS,removal technique,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0011649,TREATS,removal technique,Dermoid Cyst,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0017636,TREATS,removal technique,Glioblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0021670,TREATS,removal technique,insulinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0023903,TREATS,removal technique,Liver neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0024121,TREATS,removal technique,Lung Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0024623,TREATS,removal technique,Malignant neoplasm of stomach,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0027086,TREATS,removal technique,Myoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0027627,TREATS,removal technique,Neoplasm Metastasis,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0015252,C0027651,TREATS,removal technique,Neoplasms,topp,neop,8,TREATS_TOPPtrtsNEOP
+C0015252,C0030354,TREATS,removal technique,Papilloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0153426,TREATS,removal technique,Malignant neoplasm of duodenum,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0015252,C0206180,TREATS,removal technique,Ki-1+ Anaplastic Large Cell Lymphoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0015252,C0206698,TREATS,removal technique,Cholangiocarcinoma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0015252,C0206702,TREATS,removal technique,Klatskin Tumor,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0015252,C0220630,TREATS,removal technique,Adult Liver Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0238198,TREATS,removal technique,Gastrointestinal Stromal Tumors,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0242379,TREATS,removal technique,Malignant neoplasm of lung,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0015252,C0262401,TREATS,removal technique,Carcinoma of ampulla of Vater,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0015252,C0278846,TREATS,removal technique,Invasive Thymoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0279000,TREATS,removal technique,Liver and Intrahepatic Biliary Tract Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0015252,C0345904,TREATS,removal technique,Malignant neoplasm of liver,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0494165,TREATS,removal technique,Secondary malignant neoplasm of liver,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0015252,C0555198,TREATS,removal technique,Malignant Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0677984,TREATS,removal technique,Locally Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0685938,TREATS,removal technique,Malignant neoplasm of gastrointestinal tract,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0854778,TREATS,removal technique,Resectable Pancreatic Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0877373,TREATS,removal technique,Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C0919267,TREATS,removal technique,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C1261473,TREATS,removal technique,Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C1275278,TREATS,removal technique,Extraskeletal Myxoid Chondrosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C1306460,TREATS,removal technique,Primary malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C1334411,TREATS,removal technique,Locally Metastatic Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C1337011,TREATS,removal technique,Well Differentiated Pancreatic Endocrine Tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C1510885,TREATS,removal technique,Angiogenic Switch,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015252,C2239176,TREATS,removal technique,Liver carcinoma,topp,neop,13,TREATS_TOPPtrtsNEOP
+C0015252,C4721579,TREATS,removal technique,Secondary malignant neoplasm of colon and/or rectum,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015357,C0153504,TREATS,Extracorporeal Membrane Oxygenation,Malignant tumor of mediastinum,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0015825,C0027651,TREATS,Labyrinth fenestration,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0016419,C0000735,TREATS,"Medicine, Folk",Abdominal Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0016419,C0006826,TREATS,"Medicine, Folk",Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0016419,C0027651,TREATS,"Medicine, Folk",Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0016642,C0027627,TREATS,"Fracture Fixation, Internal",Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0017118,C0027651,TREATS,Gastrectomy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0017296,C0005684,TREATS,gene therapy,Malignant neoplasm of urinary bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0017296,C0006118,TREATS,gene therapy,Brain Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0017296,C0006142,TREATS,gene therapy,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0017296,C0006826,TREATS,gene therapy,Malignant Neoplasms,topp,neop,15,TREATS_TOPPtrtsNEOP
+C0017296,C0007131,TREATS,gene therapy,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0017296,C0017638,TREATS,gene therapy,Glioma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0017296,C0023418,TREATS,gene therapy,leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0017296,C0023903,TREATS,gene therapy,Liver neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0017296,C0025202,TREATS,gene therapy,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0017296,C0027651,TREATS,gene therapy,Neoplasms,topp,neop,5,TREATS_TOPPtrtsNEOP
+C0017296,C0280100,TREATS,gene therapy,Solid Neoplasm,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0017296,C0494165,TREATS,gene therapy,Secondary malignant neoplasm of liver,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0017296,C0877373,TREATS,gene therapy,Advanced Malignant Neoplasm,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0017296,C0919267,TREATS,gene therapy,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0017296,C2239176,TREATS,gene therapy,Liver carcinoma,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0018459,C0027651,TREATS,Habilitation,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0019014,C0027627,TREATS,Hemofiltration,Neoplasm Metastasis,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0019144,C0023903,TREATS,Hepatectomy,Liver neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0019144,C0027651,TREATS,Hepatectomy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0019144,C0153452,TREATS,Hepatectomy,Malignant neoplasm of gallbladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0019144,C0494165,TREATS,Hepatectomy,Secondary malignant neoplasm of liver,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0019144,C0585129,TREATS,Hepatectomy,Retroperitoneal sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0019144,C2239176,TREATS,Hepatectomy,Liver carcinoma,topp,neop,9,TREATS_TOPPtrtsNEOP
+C0020548,C0006826,TREATS,Induced Hyperthermia,Malignant Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0020548,C0027651,TREATS,Induced Hyperthermia,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0020699,C0007847,TREATS,Hysterectomy,Malignant tumor of cervix,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0020699,C0023267,TREATS,Hysterectomy,Fibroid Tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0020699,C0278587,TREATS,Hysterectomy,stage IA cervical cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0020971,C0006826,TREATS,Immunization,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0020971,C0007847,TREATS,Immunization,Malignant tumor of cervix,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0020971,C0027651,TREATS,Immunization,Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0020972,C0235974,TREATS,Immunization Schedule,Pancreatic carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0020972,C0598934,TREATS,Immunization Schedule,tumor growth,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0020975,C0598934,TREATS,Secondary Immunization,tumor growth,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021022,C0206695,TREATS,Immunoglobulin Therapy,"Carcinoma, Neuroendocrine",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021079,C0006826,TREATS,Therapeutic immunosuppression,Malignant Neoplasms,topp,neop,13,TREATS_TOPPtrtsNEOP
+C0021079,C0026764,TREATS,Therapeutic immunosuppression,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021079,C0027651,TREATS,Therapeutic immunosuppression,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0021079,C0279068,TREATS,Therapeutic immunosuppression,Childhood Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021079,C0376544,TREATS,Therapeutic immunosuppression,Hematopoietic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021079,C0376545,TREATS,Therapeutic immunosuppression,Hematologic Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0021083,C0006826,TREATS,Immunotherapy,Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0021083,C0007131,TREATS,Immunotherapy,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021083,C0026764,TREATS,Immunotherapy,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021083,C0235974,TREATS,Immunotherapy,Pancreatic carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021083,C0242379,TREATS,Immunotherapy,Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021083,C0280100,TREATS,Immunotherapy,Solid Neoplasm,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0021083,C0376545,TREATS,Immunotherapy,Hematologic Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0021107,C0005426,TREATS,Implantation procedure,Biliary Tract Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021107,C0009402,TREATS,Implantation procedure,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021107,C0206656,TREATS,Implantation procedure,Embryonal Rhabdomyosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021107,C1168401,TREATS,Implantation procedure,Squamous cell carcinoma of the head and neck,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021439,C0006826,TREATS,Intra-Arterial Infusions,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0021439,C0278484,TREATS,Intra-Arterial Infusions,Malignant neoplasm of colon stage IV,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021440,C0006826,TREATS,Intravenous infusion procedures,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021440,C0278620,TREATS,Intravenous infusion procedures,Refractory Plasma Cell Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021485,C0026764,TREATS,Injection of therapeutic agent,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021485,C0376358,TREATS,Injection of therapeutic agent,Malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021485,C0750974,TREATS,Injection of therapeutic agent,"Brain Tumor, Primary",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021485,C0854867,TREATS,Injection of therapeutic agent,Refractory Non-Hodgkin Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021489,C0006826,TREATS,intradermal injection,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021489,C0032580,TREATS,intradermal injection,Adenomatous Polyposis Coli,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021490,C0235753,TREATS,"Injections, Intralesional",Congenital hemangioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021493,C0025500,TREATS,"Injections, Intraperitoneal",Mesothelioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021493,C0919267,TREATS,"Injections, Intraperitoneal",ovarian neoplasm,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0021931,C1168401,TREATS,"Intubation, Gastrointestinal",Squamous cell carcinoma of the head and neck,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0021932,C0027627,TREATS,"Intubation, Intratracheal",Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0022100,C0206695,TREATS,Irrigation,"Carcinoma, Neuroendocrine",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0022983,C0027627,TREATS,Laminectomy,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0023038,C0027651,TREATS,Laparotomy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0023038,C0206695,TREATS,Laparotomy,"Carcinoma, Neuroendocrine",topp,neop,4,TREATS_TOPPtrtsNEOP
+C0023087,C0006826,TREATS,Laser Surgery,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0023690,C0023434,TREATS,Ligation,Chronic Lymphocytic Leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0023690,C0027651,TREATS,Ligation,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0023911,C0206669,TREATS,Transplantation of liver,Hepatocellular Adenoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0023911,C2239176,TREATS,Transplantation of liver,Liver carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0023928,C0001418,TREATS,Lobectomy,Adenocarcinoma,topp,neop,8,TREATS_TOPPtrtsNEOP
+C0023928,C0007131,TREATS,Lobectomy,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0023928,C0010633,TREATS,Lobectomy,Cystadenoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0023928,C0024121,TREATS,Lobectomy,Lung Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0023928,C0242379,TREATS,Lobectomy,Malignant neoplasm of lung,topp,neop,10,TREATS_TOPPtrtsNEOP
+C0023930,C0001418,TREATS,Lobotomy,Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024128,C0006826,TREATS,Lung Transplantation,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024128,C0152013,TREATS,Lung Transplantation,Adenocarcinoma of lung (disorder),topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024128,C0432487,TREATS,Lung Transplantation,Post-transplant lymphoproliferative disorder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024128,C4727088,TREATS,Lung Transplantation,Advanced Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024203,C0007103,TREATS,Lymph node excision,Malignant neoplasm of endometrium,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024203,C0014859,TREATS,Lymph node excision,Esophageal Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0024203,C0025202,TREATS,Lymph node excision,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024203,C0027651,TREATS,Lymph node excision,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024203,C0153661,TREATS,Lymph node excision,Malignant neoplasm of thorax,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024203,C0376358,TREATS,Lymph node excision,Malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024203,C1334811,TREATS,Lymph node excision,Mucinous neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024881,C0006142,TREATS,Mastectomy,Malignant neoplasm of breast,topp,neop,6,TREATS_TOPPtrtsNEOP
+C0024881,C0007124,TREATS,Mastectomy,Noninfiltrating Intraductal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024881,C0278486,TREATS,Mastectomy,Breast cancer stage II,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024881,C0598934,TREATS,Mastectomy,tumor growth,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024881,C2986665,TREATS,Mastectomy,Early-Stage Breast Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024883,C1134719,TREATS,Modified radical mastectomy,Invasive Ductal Breast Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024883,C1334274,TREATS,Modified radical mastectomy,Invasive Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024884,C0678222,TREATS,"Mastectomy, Radical",Breast Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0024884,C1299258,TREATS,"Mastectomy, Radical",Primary malignant neoplasm of breast,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0027695,C0007134,TREATS,Nephrectomy,Renal Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0027695,C0022665,TREATS,Nephrectomy,Kidney Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0027695,C0027627,TREATS,Nephrectomy,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0027695,C0027651,TREATS,Nephrectomy,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0027695,C0027708,TREATS,Nephrectomy,Nephroblastoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0027695,C0278678,TREATS,Nephrectomy,Metastatic Renal Cell Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0029189,C0153594,TREATS,Orchiectomy,Malignant neoplasm of testis,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0029189,C0376358,TREATS,Orchiectomy,Malignant neoplasm of prostate,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0029189,C0600139,TREATS,Orchiectomy,Prostate carcinoma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0029209,C1168401,TREATS,Organ Preservation,Squamous cell carcinoma of the head and neck,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0029216,C0006826,TREATS,Organ Transplantation,Malignant Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0029216,C0023449,TREATS,Organ Transplantation,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0029216,C0027651,TREATS,Organ Transplantation,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0029216,C0376545,TREATS,Organ Transplantation,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0029468,C1275220,TREATS,Osteotomy,Ceruminous gland adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0030231,C0006826,TREATS,Palliative Care,Malignant Neoplasms,topp,neop,5,TREATS_TOPPtrtsNEOP
+C0030231,C0007131,TREATS,Palliative Care,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0030231,C0007133,TREATS,Palliative Care,"Carcinoma, Papillary",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0030231,C0027627,TREATS,Palliative Care,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0030231,C0027651,TREATS,Palliative Care,Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0030231,C0079773,TREATS,Palliative Care,"Lymphoma, T-Cell, Cutaneous",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0030231,C0220630,TREATS,Palliative Care,Adult Liver Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0030231,C0279000,TREATS,Palliative Care,Liver and Intrahepatic Biliary Tract Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0030231,C0494165,TREATS,Palliative Care,Secondary malignant neoplasm of liver,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0030231,C0877373,TREATS,Palliative Care,Advanced Malignant Neoplasm,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0030231,C1276146,TREATS,Palliative Care,Cutaneous lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0030231,C1328504,TREATS,Palliative Care,Hormone refractory prostate cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0030231,C4288754,TREATS,Palliative Care,Metastatic urothelial carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0030231,C4744712,TREATS,Palliative Care,Advanced Prostate Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0030279,C0001418,TREATS,Pancreatectomy,Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0030279,C0006826,TREATS,Pancreatectomy,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0030547,C0206695,TREATS,Parenteral Nutrition,"Carcinoma, Neuroendocrine",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0030547,C0376545,TREATS,Parenteral Nutrition,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0031006,C0025202,TREATS,In situ perfusion,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0031006,C0278883,TREATS,In situ perfusion,Metastatic melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0031006,C0494165,TREATS,In situ perfusion,Secondary malignant neoplasm of liver,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0031006,C0558356,TREATS,In situ perfusion,Malignant melanoma of eye,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0031740,C0006826,TREATS,Photochemotherapy,Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0031740,C0025500,TREATS,Photochemotherapy,Mesothelioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0031740,C0027651,TREATS,Photochemotherapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0031740,C0153467,TREATS,Photochemotherapy,Malignant tumor of peritoneum,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0031740,C0242379,TREATS,Photochemotherapy,Malignant neoplasm of lung,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0032042,C0001418,TREATS,Placebos,Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0032042,C0206655,TREATS,Placebos,Alveolar rhabdomyosarcoma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0032042,C0278883,TREATS,Placebos,Metastatic melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0032113,C0040100,TREATS,Plasma Exchange,Thymoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0032113,C1266119,TREATS,Plasma Exchange,Solitary fibrous tumor,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0032134,C1136085,TREATS,Plasmapheresis,Monoclonal Gammapathies,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0032202,C0027651,TREATS,Therapeutic plateletpheresis,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0032284,C0242379,TREATS,Pneumonectomy,Malignant neoplasm of lung,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0033144,C0007114,TREATS,Primary Prevention,Malignant neoplasm of skin,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0033144,C0036220,TREATS,Primary Prevention,Kaposi Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0033144,C0220650,TREATS,Primary Prevention,Metastatic malignant neoplasm to brain,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0033573,C1512441,TREATS,Prostatectomy,High-Risk Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0033573,C4744713,TREATS,Prostatectomy,Locally Advanced Prostate Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0033972,C0006826,TREATS,"Psychotherapy, Multiple",Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0033972,C0242379,TREATS,"Psychotherapy, Multiple",Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0033972,C1527390,TREATS,"Psychotherapy, Multiple","Neoplasms, Intracranial",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0034115,C0027627,TREATS,Paracentesis,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0034115,C0206695,TREATS,Paracentesis,"Carcinoma, Neuroendocrine",topp,neop,2,TREATS_TOPPtrtsNEOP
+C0034771,C0334276,TREATS,Recanalization,Adenocarcinoma in Situ,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0035052,C0023449,TREATS,Remission Induction,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0035052,C0023467,TREATS,Remission Induction,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0035110,C0334108,TREATS,Repeat Surgery,Multiple polyps,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0035139,C0238374,TREATS,Surgical Replantation,"PITUITARY ADENOMA, NON-SECRETING",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0035139,C0345904,TREATS,Surgical Replantation,Malignant neoplasm of liver,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0035139,C0431128,TREATS,Surgical Replantation,Papillary craniopharyngioma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0035273,C0006826,TREATS,Resuscitation procedure,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0038288,C0006826,TREATS,Sexual sterilization,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0038903,C0001418,TREATS,Pulmonary Surgical Procedures,Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0038903,C0278504,TREATS,Pulmonary Surgical Procedures,Stage I Lung Non-Small Cell Cancer AJCC v7,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0038903,C2350019,TREATS,Pulmonary Surgical Procedures,Solitary Pulmonary Nodule,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0039989,C0007121,TREATS,Thoracoscopy,Bronchogenic Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0039991,C0006826,TREATS,Thoracotomy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0039991,C0027651,TREATS,Thoracotomy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040044,C0334276,TREATS,Thrombolytic Therapy,Adenocarcinoma in Situ,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040071,C0027651,TREATS,Thymectomy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040071,C0040100,TREATS,Thymectomy,Thymoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040145,C0006826,TREATS,Thyroidectomy,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040145,C0025268,TREATS,Thyroidectomy,Multiple Endocrine Neoplasia Type 2a,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040298,C0006826,TREATS,Tissue Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040590,C0007137,TREATS,Tracheostomy procedure,Squamous cell carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040590,C0153381,TREATS,Tracheostomy procedure,Malignant neoplasm of mouth,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040590,C0153405,TREATS,Tracheostomy procedure,Malignant neoplasm of pharynx,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040590,C0278996,TREATS,Tracheostomy procedure,Malignant Head and Neck Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040597,C0027651,TREATS,Traction,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C0006826,TREATS,Transplantation,Malignant Neoplasms,topp,neop,6,TREATS_TOPPtrtsNEOP
+C0040732,C0023418,TREATS,Transplantation,leukemia,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0040732,C0027651,TREATS,Transplantation,Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0040732,C0027819,TREATS,Transplantation,Neuroblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C0079218,TREATS,Transplantation,"Fibromatosis, Aggressive",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C0085669,TREATS,Transplantation,Acute leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040732,C0206624,TREATS,Transplantation,Hepatoblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C0206702,TREATS,Transplantation,Klatskin Tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C0278704,TREATS,Transplantation,Malignant Childhood Neoplasm,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040732,C0279068,TREATS,Transplantation,Childhood Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C0280100,TREATS,Transplantation,Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C0280803,TREATS,Transplantation,Primary central nervous system lymphoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040732,C0349639,TREATS,Transplantation,Juvenile Myelomonocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C0376545,TREATS,Transplantation,Hematologic Neoplasms,topp,neop,9,TREATS_TOPPtrtsNEOP
+C0040732,C0598934,TREATS,Transplantation,tumor growth,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C1306459,TREATS,Transplantation,Primary malignant neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C1332153,TREATS,Transplantation,Acute Myeloid Leukemia Arising from Previous Myelodysplastic Syndrome,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C2239176,TREATS,Transplantation,Liver carcinoma,topp,neop,8,TREATS_TOPPtrtsNEOP
+C0040732,C2939461,TREATS,Transplantation,Myeloid neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C4287832,TREATS,Transplantation,Metastatic Malignant Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040732,C4727070,TREATS,Transplantation,Advanced Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040736,C0019829,TREATS,"Transplantation, Autologous",Hodgkin Disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040736,C0023418,TREATS,"Transplantation, Autologous",leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040736,C0024305,TREATS,"Transplantation, Autologous","Lymphoma, Non-Hodgkin",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040736,C0026764,TREATS,"Transplantation, Autologous",Multiple Myeloma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040736,C0280100,TREATS,"Transplantation, Autologous",Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040736,C4727071,TREATS,"Transplantation, Autologous",Advanced Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040739,C0006826,TREATS,"Transplantation, Homologous",Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040739,C0027627,TREATS,"Transplantation, Homologous",Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040739,C0085669,TREATS,"Transplantation, Homologous",Acute leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040739,C0376545,TREATS,"Transplantation, Homologous",Hematologic Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040739,C0877373,TREATS,"Transplantation, Homologous",Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040739,C0920028,TREATS,"Transplantation, Homologous",Recurrent Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C0006142,TREATS,Treatment Protocols,Malignant neoplasm of breast,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040808,C0006826,TREATS,Treatment Protocols,Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0040808,C0007131,TREATS,Treatment Protocols,Non-Small Cell Lung Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040808,C0019829,TREATS,Treatment Protocols,Hodgkin Disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C0023434,TREATS,Treatment Protocols,Chronic Lymphocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C0023467,TREATS,Treatment Protocols,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C0024299,TREATS,Treatment Protocols,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C0025202,TREATS,Treatment Protocols,melanoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040808,C0025500,TREATS,Treatment Protocols,Mesothelioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C0026764,TREATS,Treatment Protocols,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C0027627,TREATS,Treatment Protocols,Neoplasm Metastasis,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040808,C0029925,TREATS,Treatment Protocols,Ovarian Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C0079774,TREATS,Treatment Protocols,Peripheral T-Cell Lymphoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040808,C0153690,TREATS,Treatment Protocols,Secondary malignant neoplasm of bone,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C0280209,TREATS,Treatment Protocols,"stage, melanoma",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C0349639,TREATS,Treatment Protocols,Juvenile Myelomonocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C0376545,TREATS,Treatment Protocols,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C0431128,TREATS,Treatment Protocols,Papillary craniopharyngioma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040808,C1168401,TREATS,Treatment Protocols,Squamous cell carcinoma of the head and neck,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040808,C1261473,TREATS,Treatment Protocols,Sarcoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0040808,C2239176,TREATS,Treatment Protocols,Liver carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040861,C0006142,TREATS,Triage,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0040861,C0751571,TREATS,Triage,Cancer of Urinary Tract,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0006826,TREATS,Vaccination,Malignant Neoplasms,topp,neop,8,TREATS_TOPPtrtsNEOP
+C0042196,C0007131,TREATS,Vaccination,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0007847,TREATS,Vaccination,Malignant tumor of cervix,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0009375,TREATS,Vaccination,Colonic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0009402,TREATS,Vaccination,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0024299,TREATS,Vaccination,Lymphoma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0042196,C0024667,TREATS,Vaccination,Animal Mammary Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0025202,TREATS,Vaccination,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0025500,TREATS,Vaccination,Mesothelioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0027627,TREATS,Vaccination,Neoplasm Metastasis,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0042196,C0027651,TREATS,Vaccination,Neoplasms,topp,neop,7,TREATS_TOPPtrtsNEOP
+C0042196,C0032463,TREATS,Vaccination,Polycythemia Vera,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0032580,TREATS,Vaccination,Adenomatous Polyposis Coli,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0242379,TREATS,Vaccination,Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0278883,TREATS,Vaccination,Metastatic melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0343079,TREATS,Vaccination,"Milia, Multiple Eruptive",topp,neop,5,TREATS_TOPPtrtsNEOP
+C0042196,C0376358,TREATS,Vaccination,Malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0376545,TREATS,Vaccination,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0598934,TREATS,Vaccination,tumor growth,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0042196,C0919267,TREATS,Vaccination,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C0936223,TREATS,Vaccination,Metastatic Prostate Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C1261473,TREATS,Vaccination,Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C1275278,TREATS,Vaccination,Extraskeletal Myxoid Chondrosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C3887461,TREATS,Vaccination,Head and Neck Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042196,C4721208,TREATS,Vaccination,Metastatic castration-resistant prostate cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042200,C0006826,TREATS,Influenza vaccination,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0042200,C0278704,TREATS,Influenza vaccination,Malignant Childhood Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042200,C0280100,TREATS,Influenza vaccination,Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0042207,C0006826,TREATS,Vaccination against smallpox,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0043162,C0085669,TREATS,Whole-Body Irradiation,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0043162,C0376545,TREATS,Whole-Body Irradiation,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0079172,C1527390,TREATS,Cranial Irradiation,"Neoplasms, Intracranial",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0079613,C0006826,TREATS,Adoptive Immunotherapy,Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0079613,C0024314,TREATS,Adoptive Immunotherapy,Lymphoproliferative Disorders,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0079613,C0027651,TREATS,Adoptive Immunotherapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0079613,C0220650,TREATS,Adoptive Immunotherapy,Metastatic malignant neoplasm to brain,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0079613,C0278883,TREATS,Adoptive Immunotherapy,Metastatic melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0079613,C0376545,TREATS,Adoptive Immunotherapy,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0079613,C0555198,TREATS,Adoptive Immunotherapy,Malignant Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0079850,C3811653,TREATS,Mohs Surgery,Experimental Organism Basal Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085076,C0006142,TREATS,Mammaplasty,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085076,C0007114,TREATS,Mammaplasty,Malignant neoplasm of skin,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085079,C0006826,TREATS,Bone Marrow Purging,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085162,C0027651,TREATS,Pancreaticoduodenectomy,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0085162,C0281361,TREATS,Pancreaticoduodenectomy,Adenocarcinoma of pancreas,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085198,C0006826,TREATS,Esophagectomy,Malignant Neoplasms,topp,neop,13,TREATS_TOPPtrtsNEOP
+C0085198,C0007097,TREATS,Esophagectomy,Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0085198,C0014859,TREATS,Esophagectomy,Esophageal Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0085198,C0279626,TREATS,Esophagectomy,Squamous cell carcinoma of esophagus,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085198,C0677984,TREATS,Esophagectomy,Locally Advanced Malignant Neoplasm,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0085203,C0006118,TREATS,Radiosurgery,Brain Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085203,C0242379,TREATS,Radiosurgery,Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085405,C0006118,TREATS,Salvage Therapy,Brain Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085405,C0007131,TREATS,Salvage Therapy,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085405,C0027627,TREATS,Salvage Therapy,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085405,C0431128,TREATS,Salvage Therapy,Papillary craniopharyngioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085405,C4528668,TREATS,Salvage Therapy,Refractory Acute Myeloid Leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0085533,C0006826,TREATS,"Chemotherapy, Adjuvant",Malignant Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0085533,C0009402,TREATS,"Chemotherapy, Adjuvant",Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085533,C0039538,TREATS,"Chemotherapy, Adjuvant",Teratoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085533,C0206624,TREATS,"Chemotherapy, Adjuvant",Hepatoblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085533,C0235974,TREATS,"Chemotherapy, Adjuvant",Pancreatic carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085533,C0242379,TREATS,"Chemotherapy, Adjuvant",Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085533,C0278479,TREATS,"Chemotherapy, Adjuvant",Stage II Colon Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085533,C0278480,TREATS,"Chemotherapy, Adjuvant",Stage III Colon Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085533,C0677949,TREATS,"Chemotherapy, Adjuvant",Stage III Colorectal Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085533,C0854778,TREATS,"Chemotherapy, Adjuvant",Resectable Pancreatic Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0085533,C2945759,TREATS,"Chemotherapy, Adjuvant",aggressive cancer,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0086225,C0206695,TREATS,Enteral Feeding,"Carcinoma, Neuroendocrine",topp,neop,2,TREATS_TOPPtrtsNEOP
+C0086252,C0206655,TREATS,Red Blood Cell Transfusion,Alveolar rhabdomyosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0086252,C2939461,TREATS,Red Blood Cell Transfusion,Myeloid neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0086818,C0006826,TREATS,Platelet Transfusion,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0086818,C0376545,TREATS,Platelet Transfusion,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0111197,C0009402,TREATS,CTCb regimen,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0111197,C0376358,TREATS,CTCb regimen,Malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0118004,C0877373,TREATS,FMC protocol,Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0149615,C0023418,TREATS,Allogeneic bone marrow transplantation,leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0149615,C0023467,TREATS,Allogeneic bone marrow transplantation,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0149615,C0024314,TREATS,Allogeneic bone marrow transplantation,Lymphoproliferative Disorders,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0149615,C0085669,TREATS,Allogeneic bone marrow transplantation,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0149615,C0349639,TREATS,Allogeneic bone marrow transplantation,Juvenile Myelomonocytic Leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0149615,C0376545,TREATS,Allogeneic bone marrow transplantation,Hematologic Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0149783,C0006826,TREATS,Steroid therapy,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0149783,C0023434,TREATS,Steroid therapy,Chronic Lymphocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0149783,C0024299,TREATS,Steroid therapy,Lymphoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0149783,C0027651,TREATS,Steroid therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0149783,C0376358,TREATS,Steroid therapy,Malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0149783,C0677932,TREATS,Steroid therapy,Progressive Neoplastic Disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0150133,C0279628,TREATS,Animal Assisted Therapy,Adenocarcinoma Of Esophagus,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0150141,C1261473,TREATS,Bathing,Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0152060,C0006142,TREATS,Transection (procedure),Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0152060,C0006826,TREATS,Transection (procedure),Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0152060,C0025202,TREATS,Transection (procedure),melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0152060,C0027651,TREATS,Transection (procedure),Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0152060,C0343079,TREATS,Transection (procedure),"Milia, Multiple Eruptive",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0152060,C4682751,TREATS,Transection (procedure),Stage IIC Prostate Cancer AJCC v8,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0161906,C0034885,TREATS,Repair of rectum (procedure),Rectal Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0162505,C0006826,TREATS,Boron Neutron Capture Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0162505,C0027651,TREATS,Boron Neutron Capture Therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0162505,C0153633,TREATS,Boron Neutron Capture Therapy,Malignant neoplasm of brain,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0162578,C0334533,TREATS,Thrombectomy,Arteriovenous hemangioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0176751,C2945759,TREATS,Percutaneous endoscopic gastrostomy,aggressive cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0184893,C0006826,TREATS,Emergency operation,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0184893,C0037930,TREATS,Emergency operation,Spinal Cord Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0184918,C0235974,TREATS,Radical excision,Pancreatic carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0185027,C0027651,TREATS,Imbrication (procedure),Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0185027,C0206669,TREATS,Imbrication (procedure),Hepatocellular Adenoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0185027,C1333434,TREATS,Imbrication (procedure),EBV-Related Post-Transplant Lymphoproliferative Disorder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0185027,C1842010,TREATS,Imbrication (procedure),"Glioma of Brain, Familial",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0185027,C1882062,TREATS,Imbrication (procedure),Neoplastic disease,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0185033,C0007113,TREATS,Diversion procedure,Rectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0185115,C0006826,TREATS,Extraction,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0185115,C0024232,TREATS,Extraction,Lymphatic Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0185115,C0027627,TREATS,Extraction,Neoplasm Metastasis,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0185115,C0027651,TREATS,Extraction,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0185115,C0028882,TREATS,Extraction,Odontoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0185115,C0677930,TREATS,Extraction,Primary Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0189149,C0334108,TREATS,Ethmoid sinusectomy,Multiple polyps,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0189231,C0751623,TREATS,Total laryngectomy,Second Primary Cancers,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0189234,C0749163,TREATS,Partial laryngectomy,Supraglottic Squamous Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0189381,C0431128,TREATS,Bronchial Lavage,Papillary craniopharyngioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0192440,C0001418,TREATS,Billroth I Procedure,Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0192440,C0024623,TREATS,Billroth I Procedure,Malignant neoplasm of stomach,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0192861,C0009402,TREATS,Right colectomy,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0192865,C0001418,TREATS,Left colectomy,Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0192964,C0346975,TREATS,Sigmoidostomy,Secondary malignant neoplasm of rectum,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0193011,C0006826,TREATS,Operation on rectum,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0193317,C0024299,TREATS,Parotidectomy,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0193318,C0747273,TREATS,Complete parotidectomy,Malignant tumour of parotid gland,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0193373,C0006826,TREATS,Operation on liver,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0193399,C0023903,TREATS,Lobectomy of liver,Liver neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0193867,C1334274,TREATS,Excision of axillary lymph nodes group,Invasive Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0194037,C0006142,TREATS,Autologous bone marrow transplant,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0194037,C0019829,TREATS,Autologous bone marrow transplant,Hodgkin Disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0194037,C0023449,TREATS,Autologous bone marrow transplant,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0194037,C0023467,TREATS,Autologous bone marrow transplant,"Leukemia, Myelocytic, Acute",topp,neop,2,TREATS_TOPPtrtsNEOP
+C0194037,C0024305,TREATS,Autologous bone marrow transplant,"Lymphoma, Non-Hodgkin",topp,neop,2,TREATS_TOPPtrtsNEOP
+C0194037,C0206743,TREATS,Autologous bone marrow transplant,Rhabdoid Tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0194037,C0278489,TREATS,Autologous bone marrow transplant,Stage IIIA Breast Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0194086,C0740457,TREATS,Partial nephrectomy,Malignant neoplasm of kidney,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0194401,C0005684,TREATS,Complete cystectomy,Malignant neoplasm of urinary bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0194401,C0279680,TREATS,Complete cystectomy,Transitional cell carcinoma of bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0194401,C1512441,TREATS,Complete cystectomy,High-Risk Cancer,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0194401,C1514428,TREATS,Complete cystectomy,Primary peritoneal carcinoma,topp,neop,7,TREATS_TOPPtrtsNEOP
+C0194810,C0001418,TREATS,Radical prostatectomy,Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0194810,C0006826,TREATS,Radical prostatectomy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0194810,C0376358,TREATS,Radical prostatectomy,Malignant neoplasm of prostate,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0194810,C0796563,TREATS,Radical prostatectomy,Localized Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0194810,C1334425,TREATS,Radical prostatectomy,Low Grade Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0195331,C0278587,TREATS,Cervicectomy,stage IA cervical cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0195488,C0011649,TREATS,Removal of ovarian cyst,Dermoid Cyst,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0195775,C0543478,TREATS,Operation on brain,Residual Tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0198482,C0685938,TREATS,Operation on abdominal region,Malignant neoplasm of gastrointestinal tract,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199176,C0006826,TREATS,Prophylactic treatment,Malignant Neoplasms,topp,neop,10,TREATS_TOPPtrtsNEOP
+C0199176,C0007102,TREATS,Prophylactic treatment,Malignant tumor of colon,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0199176,C0023467,TREATS,Prophylactic treatment,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199176,C0024623,TREATS,Prophylactic treatment,Malignant neoplasm of stomach,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199176,C0025500,TREATS,Prophylactic treatment,Mesothelioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199176,C0027627,TREATS,Prophylactic treatment,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199176,C0027651,TREATS,Prophylactic treatment,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0199176,C0153690,TREATS,Prophylactic treatment,Secondary malignant neoplasm of bone,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0199176,C0206733,TREATS,Prophylactic treatment,Strawberry nevus of skin,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199176,C0220630,TREATS,Prophylactic treatment,Adult Liver Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0199176,C0242379,TREATS,Prophylactic treatment,Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199176,C0376545,TREATS,Prophylactic treatment,Hematologic Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0199176,C1266119,TREATS,Prophylactic treatment,Solitary fibrous tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199176,C1333782,TREATS,Prophylactic treatment,Gastric Mucosa-Associated Lymphoid Tissue Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199176,C2939419,TREATS,Prophylactic treatment,Secondary Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199470,C0006826,TREATS,Mechanical ventilation,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0199470,C0027651,TREATS,Mechanical ventilation,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199470,C0039981,TREATS,Mechanical ventilation,Thoracic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199470,C0431128,TREATS,Mechanical ventilation,Papillary craniopharyngioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199939,C0027627,TREATS,"Oncologic procedure, NOS",Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199974,C0006826,TREATS,Cytokine therapy,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0199974,C0027651,TREATS,Cytokine therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199975,C0007134,TREATS,Interleukin-2 therapy,Renal Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0199975,C0278883,TREATS,Interleukin-2 therapy,Metastatic melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0203005,C0027651,TREATS,Transcatheter therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0203028,C0006142,TREATS,Screening mammography,Malignant neoplasm of breast,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0203597,C0007114,TREATS,hyperthermia treatment,Malignant neoplasm of skin,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0204700,C0027627,TREATS,Fluid restriction,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0204727,C0006826,TREATS,Isolation procedure,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0204727,C0009402,TREATS,Isolation procedure,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0204727,C0017638,TREATS,Isolation procedure,Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0204727,C0149978,TREATS,Isolation procedure,Adenocarcinoma of rectum,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0204727,C0206655,TREATS,Isolation procedure,Alveolar rhabdomyosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0204727,C0343079,TREATS,Isolation procedure,"Milia, Multiple Eruptive",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0204727,C1835664,TREATS,Isolation procedure,TYLOSIS WITH ESOPHAGEAL CANCER,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0205918,C0027819,TREATS,"Radiotherapy, Targeted",Neuroblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0205991,C0085136,TREATS,Administration of vaccine to produce active immunity,Central Nervous System Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0206058,C0001418,TREATS,Elective Surgical Procedures,Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0206058,C0006826,TREATS,Elective Surgical Procedures,Malignant Neoplasms,topp,neop,8,TREATS_TOPPtrtsNEOP
+C0206058,C0027651,TREATS,Elective Surgical Procedures,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0206058,C0376545,TREATS,Elective Surgical Procedures,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0206058,C0685938,TREATS,Elective Surgical Procedures,Malignant neoplasm of gastrointestinal tract,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0206058,C1882062,TREATS,Elective Surgical Procedures,Neoplastic disease,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0206058,C2945759,TREATS,Elective Surgical Procedures,aggressive cancer,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0206058,C3887461,TREATS,Elective Surgical Procedures,Head and Neck Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0206074,C0006826,TREATS,Renal Replacement Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0212922,C0079772,TREATS,Cyclophosphamide/Doxorubicin/Etoposide/Prednisone/Vincristine,T-Cell Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0212922,C0079774,TREATS,Cyclophosphamide/Doxorubicin/Etoposide/Prednisone/Vincristine,Peripheral T-Cell Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0237125,C1332225,TREATS,Drugs regimen,Aggressive Non-Hodgkin Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0237125,C4727838,TREATS,Drugs regimen,Advanced Melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0242348,C0006826,TREATS,Serotherapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0242388,C0006142,TREATS,Phytotherapy,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0242602,C0024301,TREATS,Peripheral Stem Cell Transplantation,"Lymphoma, Follicular",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0242602,C0085669,TREATS,Peripheral Stem Cell Transplantation,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0242602,C0279068,TREATS,Peripheral Stem Cell Transplantation,Childhood Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0242602,C0376545,TREATS,Peripheral Stem Cell Transplantation,Hematologic Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0242739,C0027651,TREATS,Nutritional Support,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0242939,C0006142,TREATS,"Radiotherapy, Adjuvant",Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0242939,C1275278,TREATS,"Radiotherapy, Adjuvant",Extraskeletal Myxoid Chondrosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0242939,C1512441,TREATS,"Radiotherapy, Adjuvant",High-Risk Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0242939,C1827434,TREATS,"Radiotherapy, Adjuvant","Seminoma of testis, stage 1",topp,neop,2,TREATS_TOPPtrtsNEOP
+C0242972,C0023418,TREATS,"Diet, Protein-Restricted",leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0278259,C0006826,TREATS,Local excision,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0278259,C0007137,TREATS,Local excision,Squamous cell carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0278348,C0007131,TREATS,Immunotherapy for cancer,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279025,C0006142,TREATS,Hormone Therapy,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279025,C0007103,TREATS,Hormone Therapy,Malignant neoplasm of endometrium,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279025,C0007124,TREATS,Hormone Therapy,Noninfiltrating Intraductal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279025,C0027651,TREATS,Hormone Therapy,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0279025,C0376358,TREATS,Hormone Therapy,Malignant neoplasm of prostate,topp,neop,6,TREATS_TOPPtrtsNEOP
+C0279025,C0677898,TREATS,Hormone Therapy,Invasive Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279025,C3839184,TREATS,Hormone Therapy,Papillary Serous Cystadenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279025,C4745240,TREATS,Hormone Therapy,Hormone Receptor Positive Breast Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279030,C0025202,TREATS,Interferon Therapy,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279033,C0006826,TREATS,Replacement therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279492,C0376358,TREATS,Antiandrogen therapy,Malignant neoplasm of prostate,topp,neop,7,TREATS_TOPPtrtsNEOP
+C0279492,C4759295,TREATS,Antiandrogen therapy,Non-metastatic prostate cancer,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0279495,C0007103,TREATS,Progestogen hormone therapy,Malignant neoplasm of endometrium,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279495,C0027627,TREATS,Progestogen hormone therapy,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279495,C1336905,TREATS,Progestogen hormone therapy,Endometrial Endometrioid Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279694,C1266002,TREATS,Monoclonal Antibody Therapy,Non-small cell carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0279853,C1332977,TREATS,Cisplatin/Doxorubicin/Melphalan/Teniposide regimen,Childhood Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0280274,C0023449,TREATS,Antiviral Therapy,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0280274,C0027651,TREATS,Antiviral Therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0280274,C0085669,TREATS,Antiviral Therapy,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0280274,C0432487,TREATS,Antiviral Therapy,Post-transplant lymphoproliferative disorder,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0280603,C0343079,TREATS,fluorouracil/methotrexate protocol,"Milia, Multiple Eruptive",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0280617,C0149925,TREATS,Carboplatin/Etoposide,Small cell carcinoma of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0281297,C0007131,TREATS,Carboplatin/Paclitaxel,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0281318,C0006826,TREATS,antiangiogenesis therapy,Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0281318,C0027651,TREATS,antiangiogenesis therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0281318,C0085668,TREATS,antiangiogenesis therapy,Secondary carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0281318,C0279068,TREATS,antiangiogenesis therapy,Childhood Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0281318,C0877373,TREATS,antiangiogenesis therapy,Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0281318,C1269955,TREATS,antiangiogenesis therapy,Tumor Cell Invasion,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0281548,C0033822,TREATS,Intraperitoneal chemotherapy,Pseudomyxoma Peritonei,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0282282,C0741884,TREATS,Palliative Surgery,terminal cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0282282,C1261473,TREATS,Palliative Surgery,Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0282402,C0006142,TREATS,Hormone replacement therapy,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0282515,C0032580,TREATS,Chemoprevention,Adenomatous Polyposis Coli,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0282624,C0006142,TREATS,Minimally Invasive Surgical Procedures,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0282624,C0235974,TREATS,Minimally Invasive Surgical Procedures,Pancreatic carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0282624,C1168401,TREATS,Minimally Invasive Surgical Procedures,Squamous cell carcinoma of the head and neck,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0282638,C0280100,TREATS,Antibiotic Prophylaxis,Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0282638,C0376545,TREATS,Antibiotic Prophylaxis,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0302189,C0006826,TREATS,Cell Therapy,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0302189,C0280100,TREATS,Cell Therapy,Solid Neoplasm,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0302189,C0376545,TREATS,Cell Therapy,Hematologic Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0302189,C1332225,TREATS,Cell Therapy,Aggressive Non-Hodgkin Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0376450,C0006118,TREATS,Transplantation Conditioning,Brain Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0376450,C0023473,TREATS,Transplantation Conditioning,"Myeloid Leukemia, Chronic",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0376450,C0024299,TREATS,Transplantation Conditioning,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0376450,C0026764,TREATS,Transplantation Conditioning,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0376450,C0220603,TREATS,Transplantation Conditioning,Childhood Brain Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0376450,C0349639,TREATS,Transplantation Conditioning,Juvenile Myelomonocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0376450,C0855082,TREATS,Transplantation Conditioning,Refractory Hodgkin Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0376518,C0006826,TREATS,Adoptive Transfer,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0376518,C0025202,TREATS,Adoptive Transfer,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0392920,C0005684,TREATS,Chemotherapy Regimen,Malignant neoplasm of urinary bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0392920,C0006826,TREATS,Chemotherapy Regimen,Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0392920,C0007102,TREATS,Chemotherapy Regimen,Malignant tumor of colon,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0392920,C0009402,TREATS,Chemotherapy Regimen,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0392920,C0023434,TREATS,Chemotherapy Regimen,Chronic Lymphocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0392920,C0023449,TREATS,Chemotherapy Regimen,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0392920,C0023470,TREATS,Chemotherapy Regimen,Myeloid Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0392920,C0023903,TREATS,Chemotherapy Regimen,Liver neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0392920,C0024299,TREATS,Chemotherapy Regimen,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0392920,C0027651,TREATS,Chemotherapy Regimen,Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0392920,C0027653,TREATS,Chemotherapy Regimen,Neoplasms by Site,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0392920,C0278488,TREATS,Chemotherapy Regimen,Carcinoma breast stage IV,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0392920,C0280100,TREATS,Chemotherapy Regimen,Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0392920,C1135873,TREATS,Chemotherapy Regimen,"Choriocarcinoma, Non-gestational",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0393005,C0006826,TREATS,chlorodihydroxypyridine/potassium oxonate/tegafur,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0393005,C0007131,TREATS,chlorodihydroxypyridine/potassium oxonate/tegafur,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0396565,C0006826,TREATS,Lung excision,Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0396565,C0007121,TREATS,Lung excision,Bronchogenic Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0396565,C0007131,TREATS,Lung excision,Non-Small Cell Lung Carcinoma,topp,neop,10,TREATS_TOPPtrtsNEOP
+C0396565,C0024121,TREATS,Lung excision,Lung Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0396565,C0027651,TREATS,Lung excision,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0396565,C0039981,TREATS,Lung excision,Thoracic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0396565,C0242379,TREATS,Lung excision,Malignant neoplasm of lung,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0396585,C0027651,TREATS,Sleeve Lobectomy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0396621,C0007107,TREATS,Orotracheal intubation,Malignant neoplasm of larynx,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0396670,C0025202,TREATS,Isolated limb perfusion,melanoma,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0396670,C0151779,TREATS,Isolated limb perfusion,Cutaneous Melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0396670,C1261473,TREATS,Isolated limb perfusion,Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0396670,C4727838,TREATS,Isolated limb perfusion,Advanced Melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0398395,C0025202,TREATS,Neck Dissection,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0398395,C0153381,TREATS,Neck Dissection,Malignant neoplasm of mouth,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0398480,C0027651,TREATS,Drainage of lymphatics,Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0399995,C0003614,TREATS,Interval appendectomy,Appendiceal Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0401181,C0007134,TREATS,Radical nephrectomy,Renal Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0404077,C0008493,TREATS,Abdominal hysterectomy,"Hydatidiform Mole, Invasive",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0405508,C0032019,TREATS,Transsphenoidal hypophysectomy,Pituitary Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0405997,C1384494,TREATS,Talc pleurodesis,Metastatic Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0406025,C0006826,TREATS,Procedure on neck,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0411282,C0334276,TREATS,Endovascular radiological intervention,Adenocarcinoma in Situ,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0413365,C0685938,TREATS,Intravenous chemotherapy,Malignant neoplasm of gastrointestinal tract,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0418981,C0032019,TREATS,Medical therapy,Pituitary Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0418981,C0205875,TREATS,Medical therapy,Papillomatosis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0419073,C0242379,TREATS,Oral chemotherapy,Malignant neoplasm of lung,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0436226,C0006118,TREATS,Proton Therapy,Brain Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436226,C0006826,TREATS,Proton Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436226,C0027651,TREATS,Proton Therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436226,C0085136,TREATS,Proton Therapy,Central Nervous System Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436226,C0278704,TREATS,Proton Therapy,Malignant Childhood Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436307,C0006826,TREATS,Chemoradiotherapy,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0436307,C0007113,TREATS,Chemoradiotherapy,Rectal Carcinoma,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0436307,C0007131,TREATS,Chemoradiotherapy,Non-Small Cell Lung Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0436307,C0007137,TREATS,Chemoradiotherapy,Squamous cell carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436307,C0007847,TREATS,Chemoradiotherapy,Malignant tumor of cervix,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0436307,C0014859,TREATS,Chemoradiotherapy,Esophageal Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436307,C0027651,TREATS,Chemoradiotherapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436307,C0030793,TREATS,Chemoradiotherapy,Pelvic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436307,C0149925,TREATS,Chemoradiotherapy,Small cell carcinoma of lung,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0436307,C0206702,TREATS,Chemoradiotherapy,Klatskin Tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436307,C0278544,TREATS,Chemoradiotherapy,Stage II Rectal Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436307,C0278996,TREATS,Chemoradiotherapy,Malignant Head and Neck Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436307,C0279626,TREATS,Chemoradiotherapy,Squamous cell carcinoma of esophagus,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436307,C1168401,TREATS,Chemoradiotherapy,Squamous cell carcinoma of the head and neck,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436307,C1336159,TREATS,Chemoradiotherapy,Stage IIA Esophagus Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0436307,C4744723,TREATS,Chemoradiotherapy,Locally Advanced Cervical Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0439631,C0007124,TREATS,Primary operation,Noninfiltrating Intraductal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0439631,C0022790,TREATS,Primary operation,Krukenberg Tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0439631,C0151546,TREATS,Primary operation,Oral Cavity Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0439631,C0153381,TREATS,Primary operation,Malignant neoplasm of mouth,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0439631,C0919267,TREATS,Primary operation,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0439631,C2986665,TREATS,Primary operation,Early-Stage Breast Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0439775,C1266129,TREATS,Elevation procedure,Atypical Lipoma,topp,neop,8,TREATS_TOPPtrtsNEOP
+C0439775,C1512409,TREATS,Elevation procedure,Hepatocarcinogenesis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0441516,C0235974,TREATS,Demand (clinical),Pancreatic carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0442969,C0027627,TREATS,Functional surgery,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0444472,C2239176,TREATS,injection therapy,Liver carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0444735,C0009402,TREATS,Intermittent administration,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0445275,C0027627,TREATS,Secondary procedure,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0451615,C0153690,TREATS,Pain relief,Secondary malignant neoplasm of bone,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0455142,C0027627,TREATS,Intravenous therapy,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0455142,C0699889,TREATS,Intravenous therapy,Malignant Female Reproductive System Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0455142,C0919267,TREATS,Intravenous therapy,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0457431,C0206669,TREATS,Percutaneous techniques,Hepatocellular Adenoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0457431,C0496870,TREATS,Percutaneous techniques,Benign neoplasm of liver,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0459914,C0521158,TREATS,Conservative Treatment,Recurrent tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0006118,TREATS,Hemopoietic stem cell transplant,Brain Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0006142,TREATS,Hemopoietic stem cell transplant,Malignant neoplasm of breast,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0472699,C0006826,TREATS,Hemopoietic stem cell transplant,Malignant Neoplasms,topp,neop,6,TREATS_TOPPtrtsNEOP
+C0472699,C0019829,TREATS,Hemopoietic stem cell transplant,Hodgkin Disease,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0472699,C0023418,TREATS,Hemopoietic stem cell transplant,leukemia,topp,neop,8,TREATS_TOPPtrtsNEOP
+C0472699,C0023434,TREATS,Hemopoietic stem cell transplant,Chronic Lymphocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0023449,TREATS,Hemopoietic stem cell transplant,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0023467,TREATS,Hemopoietic stem cell transplant,"Leukemia, Myelocytic, Acute",topp,neop,7,TREATS_TOPPtrtsNEOP
+C0472699,C0023473,TREATS,Hemopoietic stem cell transplant,"Myeloid Leukemia, Chronic",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0023493,TREATS,Hemopoietic stem cell transplant,Adult T-Cell Lymphoma/Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0024299,TREATS,Hemopoietic stem cell transplant,Lymphoma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0472699,C0024305,TREATS,Hemopoietic stem cell transplant,"Lymphoma, Non-Hodgkin",topp,neop,2,TREATS_TOPPtrtsNEOP
+C0472699,C0024314,TREATS,Hemopoietic stem cell transplant,Lymphoproliferative Disorders,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0026764,TREATS,Hemopoietic stem cell transplant,Multiple Myeloma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0472699,C0026987,TREATS,Hemopoietic stem cell transplant,Myelofibrosis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0027627,TREATS,Hemopoietic stem cell transplant,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0027651,TREATS,Hemopoietic stem cell transplant,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0472699,C0079774,TREATS,Hemopoietic stem cell transplant,Peripheral T-Cell Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0085669,TREATS,Hemopoietic stem cell transplant,Acute leukemia,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0472699,C0279068,TREATS,Hemopoietic stem cell transplant,Childhood Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0280100,TREATS,Hemopoietic stem cell transplant,Solid Neoplasm,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0472699,C0376544,TREATS,Hemopoietic stem cell transplant,Hematopoietic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0376545,TREATS,Hemopoietic stem cell transplant,Hematologic Neoplasms,topp,neop,13,TREATS_TOPPtrtsNEOP
+C0472699,C0854866,TREATS,Hemopoietic stem cell transplant,Recurrent Non-Hodgkin Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0855082,TREATS,Hemopoietic stem cell transplant,Refractory Hodgkin Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C0920571,TREATS,Hemopoietic stem cell transplant,lymphatic cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C1882062,TREATS,Hemopoietic stem cell transplant,Neoplastic disease,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0472699,C2939461,TREATS,Hemopoietic stem cell transplant,Myeloid neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C3463824,TREATS,Hemopoietic stem cell transplant,MYELODYSPLASTIC SYNDROME,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0472699,C4288303,TREATS,Hemopoietic stem cell transplant,Recurrent Malignant Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0472699,C4721505,TREATS,Hemopoietic stem cell transplant,"Sarcoma, Myeloid",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0520484,C0025500,TREATS,Xenograft procedure,Mesothelioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0520484,C0027651,TREATS,Xenograft procedure,Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0520484,C0598934,TREATS,Xenograft procedure,tumor growth,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0524811,C0027651,TREATS,Dose Fractionation,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0524811,C0153690,TREATS,Dose Fractionation,Secondary malignant neoplasm of bone,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0524832,C0006826,TREATS,Thoracic Surgical Procedures,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0524832,C0153676,TREATS,Thoracic Surgical Procedures,Secondary malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0524865,C0007137,TREATS,Reconstructive Surgical Procedures,Squamous cell carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0001418,TREATS,Operative Surgical Procedures,Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0006118,TREATS,Operative Surgical Procedures,Brain Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0006142,TREATS,Operative Surgical Procedures,Malignant neoplasm of breast,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0543467,C0006826,TREATS,Operative Surgical Procedures,Malignant Neoplasms,topp,neop,14,TREATS_TOPPtrtsNEOP
+C0543467,C0007102,TREATS,Operative Surgical Procedures,Malignant tumor of colon,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0007107,TREATS,Operative Surgical Procedures,Malignant neoplasm of larynx,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0007114,TREATS,Operative Surgical Procedures,Malignant neoplasm of skin,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0007115,TREATS,Operative Surgical Procedures,Malignant neoplasm of thyroid,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0543467,C0007138,TREATS,Operative Surgical Procedures,"Carcinoma, Transitional Cell",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0007847,TREATS,Operative Surgical Procedures,Malignant tumor of cervix,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0543467,C0009402,TREATS,Operative Surgical Procedures,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0014132,TREATS,Operative Surgical Procedures,Endocrine Gland Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0021432,TREATS,Operative Surgical Procedures,Infratentorial Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0021670,TREATS,Operative Surgical Procedures,insulinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0024121,TREATS,Operative Surgical Procedures,Lung Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0543467,C0024623,TREATS,Operative Surgical Procedures,Malignant neoplasm of stomach,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0543467,C0027651,TREATS,Operative Surgical Procedures,Neoplasms,topp,neop,11,TREATS_TOPPtrtsNEOP
+C0543467,C0029463,TREATS,Operative Surgical Procedures,Osteosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0037930,TREATS,Operative Surgical Procedures,Spinal Cord Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0153381,TREATS,Operative Surgical Procedures,Malignant neoplasm of mouth,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0153452,TREATS,Operative Surgical Procedures,Malignant neoplasm of gallbladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0238463,TREATS,Operative Surgical Procedures,Papillary thyroid carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0242379,TREATS,Operative Surgical Procedures,Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0278704,TREATS,Operative Surgical Procedures,Malignant Childhood Neoplasm,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0543467,C0278996,TREATS,Operative Surgical Procedures,Malignant Head and Neck Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0279000,TREATS,Operative Surgical Procedures,Liver and Intrahepatic Biliary Tract Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0334067,TREATS,Operative Surgical Procedures,Non-Ossifying Fibroma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0346208,TREATS,Operative Surgical Procedures,Vaginal intraepithelial neoplasia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0521158,TREATS,Operative Surgical Procedures,Recurrent tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C0699889,TREATS,Operative Surgical Procedures,Malignant Female Reproductive System Neoplasm,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0543467,C0751571,TREATS,Operative Surgical Procedures,Cancer of Urinary Tract,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0543467,C0863183,TREATS,Operative Surgical Procedures,Recurrent Laryngeal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C1261473,TREATS,Operative Surgical Procedures,Sarcoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0543467,C1336905,TREATS,Operative Surgical Procedures,Endometrial Endometrioid Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C1337011,TREATS,Operative Surgical Procedures,Well Differentiated Pancreatic Endocrine Tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0543467,C5204617,TREATS,Operative Surgical Procedures,Advanced Endometrial Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0545321,C0006826,TREATS,B cell therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0545322,C0006826,TREATS,T cell therapy,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0545322,C0432487,TREATS,T cell therapy,Post-transplant lymphoproliferative disorder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0547070,C0006826,TREATS,Ablation,Malignant Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C0547070,C0920420,TREATS,Ablation,cancer recurrence,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0547070,C1275220,TREATS,Ablation,Ceruminous gland adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0547070,C2239176,TREATS,Ablation,Liver carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0547070,C4745240,TREATS,Ablation,Hormone Receptor Positive Breast Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0556903,C0678222,TREATS,Direct current therapy,Breast Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0557061,C0017638,TREATS,Discussion (procedure),Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0557061,C0027651,TREATS,Discussion (procedure),Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0557061,C0334276,TREATS,Discussion (procedure),Adenocarcinoma in Situ,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0565867,C0006118,TREATS,delivery method,Brain Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0574032,C0027627,TREATS,Infusion procedures,Neoplasm Metastasis,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0574032,C0877373,TREATS,Infusion procedures,Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0585464,C0001418,TREATS,Laparoscopic-assisted right colectomy,Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0589276,C0278996,TREATS,Swallowing exercises,Malignant Head and Neck Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0597409,C0677932,TREATS,retransplantation,Progressive Neoplastic Disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0597815,C0006826,TREATS,crystal healing,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600047,C0027651,TREATS,Patient counseling,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600249,C0006826,TREATS,"Immunotherapy, Passive",Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0600558,C0006142,TREATS,Neoadjuvant Therapy,Malignant neoplasm of breast,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0600558,C0006826,TREATS,Neoadjuvant Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C0007102,TREATS,Neoadjuvant Therapy,Malignant tumor of colon,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C0007113,TREATS,Neoadjuvant Therapy,Rectal Carcinoma,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0600558,C0007131,TREATS,Neoadjuvant Therapy,Non-Small Cell Lung Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0600558,C0014859,TREATS,Neoadjuvant Therapy,Esophageal Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C0023418,TREATS,Neoadjuvant Therapy,leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0600558,C0023449,TREATS,Neoadjuvant Therapy,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C0023467,TREATS,Neoadjuvant Therapy,"Leukemia, Myelocytic, Acute",topp,neop,5,TREATS_TOPPtrtsNEOP
+C0600558,C0025202,TREATS,Neoadjuvant Therapy,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C0026764,TREATS,Neoadjuvant Therapy,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C0027627,TREATS,Neoadjuvant Therapy,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C0085669,TREATS,Neoadjuvant Therapy,Acute leukemia,topp,neop,5,TREATS_TOPPtrtsNEOP
+C0600558,C0278480,TREATS,Neoadjuvant Therapy,Stage III Colon Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C0280100,TREATS,Neoadjuvant Therapy,Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C0854778,TREATS,Neoadjuvant Therapy,Resectable Pancreatic Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C0877373,TREATS,Neoadjuvant Therapy,Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C1332977,TREATS,Neoadjuvant Therapy,Childhood Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C2939419,TREATS,Neoadjuvant Therapy,Secondary Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C2986665,TREATS,Neoadjuvant Therapy,Early-Stage Breast Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C4725841,TREATS,Neoadjuvant Therapy,Bladder Carcinoma Infiltrating the Muscle of the Bladder Wall,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0600558,C5205387,TREATS,Neoadjuvant Therapy,Advanced Esophageal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677850,C0005684,TREATS,Adjuvant Therapy,Malignant neoplasm of urinary bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677850,C0006142,TREATS,Adjuvant Therapy,Malignant neoplasm of breast,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0677850,C0006826,TREATS,Adjuvant Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677850,C0153567,TREATS,Adjuvant Therapy,Uterine Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677850,C0205875,TREATS,Adjuvant Therapy,Papillomatosis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677850,C0242379,TREATS,Adjuvant Therapy,Malignant neoplasm of lung,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0677850,C0278488,TREATS,Adjuvant Therapy,Carcinoma breast stage IV,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677850,C0280631,TREATS,Adjuvant Therapy,Leiomyosarcoma of uterus,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677850,C0345893,TREATS,Adjuvant Therapy,Juvenile polyposis syndrome,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677850,C0346429,TREATS,Adjuvant Therapy,Multiple malignancy,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677850,C0431128,TREATS,Adjuvant Therapy,Papillary craniopharyngioma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0677850,C0677936,TREATS,Adjuvant Therapy,Refractory Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677850,C0848454,TREATS,Adjuvant Therapy,Uterine carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677850,C2938924,TREATS,Adjuvant Therapy,estrogen receptor-positive breast cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677881,C0006142,TREATS,Cytotoxic Chemotherapy,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677881,C0006826,TREATS,Cytotoxic Chemotherapy,Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C0677881,C0007131,TREATS,Cytotoxic Chemotherapy,Non-Small Cell Lung Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0677881,C0023418,TREATS,Cytotoxic Chemotherapy,leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677881,C0023467,TREATS,Cytotoxic Chemotherapy,"Leukemia, Myelocytic, Acute",topp,neop,3,TREATS_TOPPtrtsNEOP
+C0677881,C0027651,TREATS,Cytotoxic Chemotherapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677881,C0085669,TREATS,Cytotoxic Chemotherapy,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677881,C0242379,TREATS,Cytotoxic Chemotherapy,Malignant neoplasm of lung,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0677881,C0376545,TREATS,Cytotoxic Chemotherapy,Hematologic Neoplasms,topp,neop,5,TREATS_TOPPtrtsNEOP
+C0677908,C0026764,TREATS,Maintenance therapy,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0677908,C0027627,TREATS,Maintenance therapy,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0678812,C0006142,TREATS,systemic administration,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0678812,C0006826,TREATS,systemic administration,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0678812,C0027627,TREATS,systemic administration,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0678812,C0027651,TREATS,systemic administration,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0678812,C0034885,TREATS,systemic administration,Rectal Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0678812,C0278584,TREATS,systemic administration,Metastatic Carcinoma to the Uterine Cervix,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0678812,C0334296,TREATS,systemic administration,Solid carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0678812,C0346957,TREATS,systemic administration,Disseminated Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0678823,C0027651,TREATS,parenteral administration,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0679624,C0005684,TREATS,medical treatment method,Malignant neoplasm of urinary bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0679624,C0006826,TREATS,medical treatment method,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0679628,C0006826,TREATS,blood modification,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0679637,C0006826,TREATS,major surgery,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0679637,C0027651,TREATS,major surgery,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0679637,C1882062,TREATS,major surgery,Neoplastic disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0679651,C0006826,TREATS,directive therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0679651,C0206655,TREATS,directive therapy,Alveolar rhabdomyosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0679651,C0376358,TREATS,directive therapy,Malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0679698,C0014859,TREATS,disease prevention,Esophageal Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0679698,C0023418,TREATS,disease prevention,leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0679698,C0027627,TREATS,disease prevention,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0683177,C0006142,TREATS,cutaneous application,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0683465,C0006826,TREATS,novel AODU treatment method,Malignant Neoplasms,topp,neop,7,TREATS_TOPPtrtsNEOP
+C0683465,C0017638,TREATS,novel AODU treatment method,Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0683465,C0023434,TREATS,novel AODU treatment method,Chronic Lymphocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0683465,C0027627,TREATS,novel AODU treatment method,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0683465,C0220630,TREATS,novel AODU treatment method,Adult Liver Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0683465,C0376545,TREATS,novel AODU treatment method,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0683465,C0920028,TREATS,novel AODU treatment method,Recurrent Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0683468,C0206669,TREATS,invasive treatment,Hepatocellular Adenoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0684199,C0302592,TREATS,Homeopathy,Cervix carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0684251,C0006826,TREATS,reproductive system surgery,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0728940,C0006826,TREATS,Excision,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0728940,C0021670,TREATS,Excision,insulinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0728940,C0024667,TREATS,Excision,Animal Mammary Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0728940,C0027651,TREATS,Excision,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0728940,C0036095,TREATS,Excision,Salivary Gland Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0728940,C1527390,TREATS,Excision,"Neoplasms, Intracranial",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0729536,C0023267,TREATS,Uterine Artery Embolization,Fibroid Tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0730400,C0027651,TREATS,Solid organ transplant,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0730400,C0279068,TREATS,Solid organ transplant,Childhood Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0730400,C0376545,TREATS,Solid organ transplant,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0741886,C0006826,TREATS,cancer resection,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0744345,C1168401,TREATS,Placement of gastrostomy tube,Squamous cell carcinoma of the head and neck,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0747053,C0153594,TREATS,Inguinal Orchiectomy,Malignant neoplasm of testis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0747973,C0025286,TREATS,Elective procedure,Meningioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0747973,C0027651,TREATS,Elective procedure,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0747973,C0334533,TREATS,Elective procedure,Arteriovenous hemangioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0747973,C2239176,TREATS,Elective procedure,Liver carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0749390,C0027651,TREATS,throat surgery,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0749736,C0006826,TREATS,tumor removal,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0749736,C0278996,TREATS,tumor removal,Malignant Head and Neck Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0751429,C0009402,TREATS,"Surgical Procedures, Laparoscopic",Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0751616,C1512441,TREATS,"Surgical Procedures, Endoscopic Gastrointestinal",High-Risk Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0752151,C1306460,TREATS,"Thoracic Surgery, Video-Assisted",Primary malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0796679,C0023903,TREATS,Chemoembolization,Liver neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0796679,C0494165,TREATS,Chemoembolization,Secondary malignant neoplasm of liver,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0814360,C3539878,TREATS,targeted prevention,Triple Negative Breast Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0844334,C2314896,TREATS,septoplasty,Familial Atypical Mole Melanoma Syndrome,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0850168,C0235753,TREATS,Laser treatment,Congenital hemangioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0850292,C0023903,TREATS,Radiofrequency Ablation,Liver neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0850292,C0024121,TREATS,Radiofrequency Ablation,Lung Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0850292,C0027651,TREATS,Radiofrequency Ablation,Neoplasms,topp,neop,10,TREATS_TOPPtrtsNEOP
+C0850292,C0029441,TREATS,Radiofrequency Ablation,Osteoid osteoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0850292,C0220630,TREATS,Radiofrequency Ablation,Adult Liver Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0850292,C0345904,TREATS,Radiofrequency Ablation,Malignant neoplasm of liver,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0850292,C0494165,TREATS,Radiofrequency Ablation,Secondary malignant neoplasm of liver,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0850292,C0877373,TREATS,Radiofrequency Ablation,Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0850292,C2239176,TREATS,Radiofrequency Ablation,Liver carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0850292,C4721579,TREATS,Radiofrequency Ablation,Secondary malignant neoplasm of colon and/or rectum,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0851119,C0086692,TREATS,cyst aspiration,Benign Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0851682,C0017638,TREATS,Ovarian Treatment,Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0852216,C0006142,TREATS,Breast Cancer Radiotherapy,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0852216,C0019829,TREATS,Breast Cancer Radiotherapy,Hodgkin Disease,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0852216,C0024299,TREATS,Breast Cancer Radiotherapy,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0852216,C0278486,TREATS,Breast Cancer Radiotherapy,Breast cancer stage II,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0852216,C0376545,TREATS,Breast Cancer Radiotherapy,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0854628,C0278883,TREATS,ex vivo gene therapy,Metastatic melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0854643,C0027651,TREATS,Reinfusion Procedure,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0870303,C0220650,TREATS,cognitive rehabilitation,Metastatic malignant neoplasm to brain,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0870527,C0677932,TREATS,Exposure Therapy,Progressive Neoplastic Disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0870810,C0006826,TREATS,lifesaving,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0871803,C0006826,TREATS,life sustaining treatment,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0872278,C0024299,TREATS,stem cell therapy,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0887947,C0024305,TREATS,"Antiretroviral Therapy, Highly Active","Lymphoma, Non-Hodgkin",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0887947,C0027651,TREATS,"Antiretroviral Therapy, Highly Active",Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0887947,C0036220,TREATS,"Antiretroviral Therapy, Highly Active",Kaposi Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0887947,C0280803,TREATS,"Antiretroviral Therapy, Highly Active",Primary central nervous system lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0887947,C0346429,TREATS,"Antiretroviral Therapy, Highly Active",Multiple malignancy,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0887947,C0431128,TREATS,"Antiretroviral Therapy, Highly Active",Papillary craniopharyngioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0917927,C0006142,TREATS,Breast-Conserving Surgery,Malignant neoplasm of breast,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0917927,C0007124,TREATS,Breast-Conserving Surgery,Noninfiltrating Intraductal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0917927,C2986665,TREATS,Breast-Conserving Surgery,Early-Stage Breast Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920424,C0006142,TREATS,cancer surgery,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920424,C0006826,TREATS,cancer surgery,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0920425,C0006826,TREATS,Cancer Therapeutic Procedure,Malignant Neoplasms,topp,neop,9,TREATS_TOPPtrtsNEOP
+C0920425,C0007131,TREATS,Cancer Therapeutic Procedure,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920425,C0007621,TREATS,Cancer Therapeutic Procedure,Neoplastic Cell Transformation,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0920425,C0023418,TREATS,Cancer Therapeutic Procedure,leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920425,C0025202,TREATS,Cancer Therapeutic Procedure,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920425,C0027651,TREATS,Cancer Therapeutic Procedure,Neoplasms,topp,neop,5,TREATS_TOPPtrtsNEOP
+C0920425,C0027667,TREATS,Cancer Therapeutic Procedure,"Neoplasms, Unknown Primary",topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920425,C0220630,TREATS,Cancer Therapeutic Procedure,Adult Liver Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920425,C0278883,TREATS,Cancer Therapeutic Procedure,Metastatic melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920425,C0346429,TREATS,Cancer Therapeutic Procedure,Multiple malignancy,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920425,C0376545,TREATS,Cancer Therapeutic Procedure,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920425,C4287832,TREATS,Cancer Therapeutic Procedure,Metastatic Malignant Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920467,C0006826,TREATS,disorder control (procedure),Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920467,C0007131,TREATS,disorder control (procedure),Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920619,C0027651,TREATS,neoplasm therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920619,C0685938,TREATS,neoplasm therapy,Malignant neoplasm of gastrointestinal tract,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920687,C0006826,TREATS,cancer care,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920687,C0027627,TREATS,cancer care,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920687,C0027651,TREATS,cancer care,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920687,C0376545,TREATS,cancer care,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920692,C0027651,TREATS,cancer rehabilitation,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920692,C0877373,TREATS,cancer rehabilitation,Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0920746,C0027651,TREATS,neoplasm surgery,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0935576,C0278996,TREATS,treatment guideline,Malignant Head and Neck Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0936077,C0006826,TREATS,Complementary therapies,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0947647,C0242379,TREATS,Manipulation procedure,Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0948173,C0432487,TREATS,intestinal transplant,Post-transplant lymphoproliferative disorder,topp,neop,2,TREATS_TOPPtrtsNEOP
+C0949216,C0006826,TREATS,Alternative Therapies,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0949219,C0024299,TREATS,Antineoplastic Chemotherapy Protocols,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0949266,C0006826,TREATS,"Therapies, Investigational",Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0949266,C0278883,TREATS,"Therapies, Investigational",Metastatic melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0949266,C0686377,TREATS,"Therapies, Investigational",CNS metastases,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0949591,C0029463,TREATS,Limb Salvage,Osteosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C0949634,C0006826,TREATS,Antineoplastic Protocols,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1095969,C0027651,TREATS,Neoplasm Prevention,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1112682,C0153594,TREATS,Retroperitoneal lymph node dissection,Malignant neoplasm of testis,topp,neop,3,TREATS_TOPPtrtsNEOP
+C1135809,C0006826,TREATS,Caloric Restriction,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1136080,C0006826,TREATS,Innovative Therapies,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1136080,C0027651,TREATS,Innovative Therapies,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1136080,C0877373,TREATS,Innovative Therapies,Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1161052,C0027651,TREATS,Radiation education,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1171194,C0006826,TREATS,Fertility Preservation,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1171194,C0027651,TREATS,Fertility Preservation,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1171257,C0006826,TREATS,Delivery care,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1171257,C0278996,TREATS,Delivery care,Malignant Head and Neck Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1261381,C0006826,TREATS,Destructive procedure (surgical),Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1261381,C0023903,TREATS,Destructive procedure (surgical),Liver neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1261381,C0027627,TREATS,Destructive procedure (surgical),Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1261381,C0027651,TREATS,Destructive procedure (surgical),Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C1261381,C0376545,TREATS,Destructive procedure (surgical),Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1272853,C0027651,TREATS,Therapeutic endoscopic procedure,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1273412,C0235974,TREATS,Chinese herbal medicine,Pancreatic carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1273428,C0006826,TREATS,Total mesorectal excision,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1273428,C0007113,TREATS,Total mesorectal excision,Rectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1273428,C0686619,TREATS,Total mesorectal excision,Secondary malignant neoplasm of lymph node,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1273551,C0006142,TREATS,Postoperative chemotherapy,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1276413,C0006826,TREATS,Therapeutic regimen,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1276413,C0376545,TREATS,Therapeutic regimen,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1276413,C4721505,TREATS,Therapeutic regimen,"Sarcoma, Myeloid",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1280903,C0017638,TREATS,Exploration procedure,Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1280903,C0023434,TREATS,Exploration procedure,Chronic Lymphocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1292856,C0027651,TREATS,Stimulation procedure,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1293130,C0026987,TREATS,Stabilization,Myelofibrosis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1293130,C0027651,TREATS,Stabilization,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1298805,C0376545,TREATS,Routine procedure,Hematologic Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1299353,C0740457,TREATS,Outpatient procedure,Malignant neoplasm of kidney,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1299575,C0007131,TREATS,Treatment modification,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1299575,C0027651,TREATS,Treatment modification,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1328050,C0006826,TREATS,High Dose Chemotherapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1328050,C0024299,TREATS,High Dose Chemotherapy,Lymphoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1328050,C0026764,TREATS,High Dose Chemotherapy,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1328050,C0280803,TREATS,High Dose Chemotherapy,Primary central nervous system lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1328050,C0376545,TREATS,High Dose Chemotherapy,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1443861,C1266119,TREATS,Post-Exposure Prophylaxis,Solitary fibrous tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1443867,C0431128,TREATS,Standard precautions,Papillary craniopharyngioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1456094,C0006826,TREATS,allogeneic hematopoietic stem cell transplant with purging,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1456094,C0023467,TREATS,allogeneic hematopoietic stem cell transplant with purging,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1456094,C0023473,TREATS,allogeneic hematopoietic stem cell transplant with purging,"Myeloid Leukemia, Chronic",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1456094,C0376545,TREATS,allogeneic hematopoietic stem cell transplant with purging,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1456587,C0032580,TREATS,Bariatric Surgery,Adenomatous Polyposis Coli,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1504389,C0023418,TREATS,Stem cell transplant,leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1504389,C0023467,TREATS,Stem cell transplant,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1504389,C0026764,TREATS,Stem cell transplant,Multiple Myeloma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1504389,C0220621,TREATS,Stem cell transplant,Childhood Acute Myeloid Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1504389,C0334634,TREATS,Stem cell transplant,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",topp,neop,3,TREATS_TOPPtrtsNEOP
+C1511300,C0877373,TREATS,Breast Cancer Therapeutic Procedure,Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511484,C0023418,TREATS,Consolidation Therapy,leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511484,C0023467,TREATS,Consolidation Therapy,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511484,C0085669,TREATS,Consolidation Therapy,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511484,C0242596,TREATS,Consolidation Therapy,"Neoplasm, Residual",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511484,C0280803,TREATS,Consolidation Therapy,Primary central nervous system lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511484,C0376545,TREATS,Consolidation Therapy,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511484,C0751606,TREATS,Consolidation Therapy,Adult Acute Lymphocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511562,C0006826,TREATS,Curative Surgery,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511562,C0009402,TREATS,Curative Surgery,Colorectal Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1511562,C1334419,TREATS,Curative Surgery,Low Grade Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0006826,TREATS,Detection,Malignant Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C1511790,C0007102,TREATS,Detection,Malignant tumor of colon,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0007131,TREATS,Detection,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0023418,TREATS,Detection,leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1511790,C0023449,TREATS,Detection,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0024299,TREATS,Detection,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0025202,TREATS,Detection,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0025286,TREATS,Detection,Meningioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0025500,TREATS,Detection,Mesothelioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0027651,TREATS,Detection,Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C1511790,C0079731,TREATS,Detection,B-Cell Lymphomas,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0152013,TREATS,Detection,Adenocarcinoma of lung (disorder),topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0206186,TREATS,Detection,"Leukoplakia, Hairy",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0242379,TREATS,Detection,Malignant neoplasm of lung,topp,neop,3,TREATS_TOPPtrtsNEOP
+C1511790,C0278689,TREATS,Detection,Recurrent ovarian cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0280100,TREATS,Detection,Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0334634,TREATS,Detection,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0343079,TREATS,Detection,"Milia, Multiple Eruptive",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0346429,TREATS,Detection,Multiple malignancy,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0376545,TREATS,Detection,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0496870,TREATS,Detection,Benign neoplasm of liver,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C0549463,TREATS,Detection,X-Linked Lymphoproliferative Disorder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C3463824,TREATS,Detection,MYELODYSPLASTIC SYNDROME,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1511790,C4054727,TREATS,Detection,Infant Acute Lymphoblastic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1512034,C0432487,TREATS,Donor Lymphocyte Infusion,Post-transplant lymphoproliferative disorder,topp,neop,3,TREATS_TOPPtrtsNEOP
+C1512034,C0920420,TREATS,Donor Lymphocyte Infusion,cancer recurrence,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1512429,C0024305,TREATS,High-Dose Chemotherapy with Autologous Stem Cell Transplant,"Lymphoma, Non-Hodgkin",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1512429,C0280803,TREATS,High-Dose Chemotherapy with Autologous Stem Cell Transplant,Primary central nervous system lymphoma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C1512814,C0025500,TREATS,"Radiotherapy, Intensity-Modulated",Mesothelioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1512814,C0027651,TREATS,"Radiotherapy, Intensity-Modulated",Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1512814,C0242379,TREATS,"Radiotherapy, Intensity-Modulated",Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1512814,C1266002,TREATS,"Radiotherapy, Intensity-Modulated",Non-small cell carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1513378,C1266129,TREATS,Modest-Temperature Hyperthermia,Atypical Lipoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1513784,C0006826,TREATS,Myeloablative Chemotherapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1514396,C0007124,TREATS,Preoperative Endocrine Therapy,Noninfiltrating Intraductal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1514496,C0149925,TREATS,Prophylactic Cranial Irradiation,Small cell carcinoma of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1514496,C0278725,TREATS,Prophylactic Cranial Irradiation,Limited Stage Lung Small Cell Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1514818,C0919267,TREATS,Regional Chemotherapy,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1514832,C0023418,TREATS,Remission Induction Therapy,leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1514832,C0085669,TREATS,Remission Induction Therapy,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515035,C0006826,TREATS,Suicide Gene Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515035,C0376358,TREATS,Suicide Gene Therapy,Malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515119,C0006142,TREATS,Systemic Therapy,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515119,C0006826,TREATS,Systemic Therapy,Malignant Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C1515119,C0009402,TREATS,Systemic Therapy,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515119,C0027627,TREATS,Systemic Therapy,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515119,C0278484,TREATS,Systemic Therapy,Malignant neoplasm of colon stage IV,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515119,C0278678,TREATS,Systemic Therapy,Metastatic Renal Cell Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515119,C0278996,TREATS,Systemic Therapy,Malignant Head and Neck Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515119,C0280100,TREATS,Systemic Therapy,Solid Neoplasm,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1515119,C0751569,TREATS,Systemic Therapy,Genitourinary Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515119,C0751571,TREATS,Systemic Therapy,Cancer of Urinary Tract,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1515119,C0877373,TREATS,Systemic Therapy,Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515119,C1527390,TREATS,Systemic Therapy,"Neoplasms, Intracranial",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515119,C2239176,TREATS,Systemic Therapy,Liver carcinoma,topp,neop,5,TREATS_TOPPtrtsNEOP
+C1515119,C2938924,TREATS,Systemic Therapy,estrogen receptor-positive breast cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515119,C4727069,TREATS,Systemic Therapy,Advanced Renal Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515119,C4727088,TREATS,Systemic Therapy,Advanced Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515884,C0220630,TREATS,Acupuncture and Oriental Medicine,Adult Liver Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515985,C0006826,TREATS,Androgen Suppression,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515985,C0153690,TREATS,Androgen Suppression,Secondary malignant neoplasm of bone,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1515985,C0376358,TREATS,Androgen Suppression,Malignant neoplasm of prostate,topp,neop,4,TREATS_TOPPtrtsNEOP
+C1516386,C0079744,TREATS,Central Nervous System Prophylaxis,Diffuse Large B-Cell Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1516386,C0242596,TREATS,Central Nervous System Prophylaxis,"Neoplasm, Residual",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1516386,C1961099,TREATS,Central Nervous System Prophylaxis,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1517033,C0006826,TREATS,External Beam Radiation Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1517033,C0007131,TREATS,External Beam Radiation Therapy,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1517033,C0149925,TREATS,External Beam Radiation Therapy,Small cell carcinoma of lung,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1517033,C0278506,TREATS,External Beam Radiation Therapy,Stage III Lung Non-Small Cell Cancer AJCC v7,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1517033,C0796563,TREATS,External Beam Radiation Therapy,Localized Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1517033,C4744723,TREATS,External Beam Radiation Therapy,Locally Advanced Cervical Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1517925,C0023903,TREATS,Local Therapy,Liver neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1517925,C0025202,TREATS,Local Therapy,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1517925,C0027627,TREATS,Local Therapy,Neoplasm Metastasis,topp,neop,3,TREATS_TOPPtrtsNEOP
+C1517925,C0027651,TREATS,Local Therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1517925,C0034885,TREATS,Local Therapy,Rectal Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1517925,C1306459,TREATS,Local Therapy,Primary malignant neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1518010,C0027651,TREATS,Low Dose Radiation Therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1519225,C0007117,TREATS,Seed Implantation,Basal cell carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1519225,C0376358,TREATS,Seed Implantation,Malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1519630,C0005684,TREATS,Transurethral Resection,Malignant neoplasm of urinary bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1519630,C4266454,TREATS,Transurethral Resection,High grade tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1519630,C4725841,TREATS,Transurethral Resection,Bladder Carcinoma Infiltrating the Muscle of the Bladder Wall,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1522449,C0006142,TREATS,Therapeutic radiology procedure,Malignant neoplasm of breast,topp,neop,4,TREATS_TOPPtrtsNEOP
+C1522449,C0006826,TREATS,Therapeutic radiology procedure,Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C1522449,C0007113,TREATS,Therapeutic radiology procedure,Rectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1522449,C0007137,TREATS,Therapeutic radiology procedure,Squamous cell carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1522449,C0009402,TREATS,Therapeutic radiology procedure,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1522449,C0024299,TREATS,Therapeutic radiology procedure,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1522449,C0027651,TREATS,Therapeutic radiology procedure,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1522449,C0085136,TREATS,Therapeutic radiology procedure,Central Nervous System Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1522449,C0278996,TREATS,Therapeutic radiology procedure,Malignant Head and Neck Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1522449,C0555198,TREATS,Therapeutic radiology procedure,Malignant Glioma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1522449,C0855082,TREATS,Therapeutic radiology procedure,Refractory Hodgkin Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1522449,C1168401,TREATS,Therapeutic radiology procedure,Squamous cell carcinoma of the head and neck,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1522449,C4744723,TREATS,Therapeutic radiology procedure,Locally Advanced Cervical Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1533734,C0007134,TREATS,Administration procedure,Renal Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1533734,C0025202,TREATS,Administration procedure,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1541475,C0936223,TREATS,docetaxel/prednisone,Metastatic Prostate Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1562632,C0005684,TREATS,Hoover technique,Malignant neoplasm of urinary bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1563738,C0006826,TREATS,Oncolytic Virotherapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1563738,C0025500,TREATS,Oncolytic Virotherapy,Mesothelioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1563738,C0027627,TREATS,Oncolytic Virotherapy,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1563738,C0027651,TREATS,Oncolytic Virotherapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1563738,C0235974,TREATS,Oncolytic Virotherapy,Pancreatic carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1563738,C0278996,TREATS,Oncolytic Virotherapy,Malignant Head and Neck Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1563738,C2239176,TREATS,Oncolytic Virotherapy,Liver carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1700928,C0027651,TREATS,Endoscopic mucosal resection,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1700929,C0349530,TREATS,Endoscopic Submucosal Dissection,Early gastric cancer,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1700929,C0685938,TREATS,Endoscopic Submucosal Dissection,Malignant neoplasm of gastrointestinal tract,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1704532,C0006826,TREATS,Active Method,Malignant Neoplasms,topp,neop,8,TREATS_TOPPtrtsNEOP
+C1704532,C0017636,TREATS,Active Method,Glioblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1704532,C0024299,TREATS,Active Method,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1704532,C0027627,TREATS,Active Method,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1704532,C0027651,TREATS,Active Method,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1704532,C0242379,TREATS,Active Method,Malignant neoplasm of lung,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1704532,C0376545,TREATS,Active Method,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1705576,C0023467,TREATS,Allogeneic Hematopoietic Stem Cell Transplantation,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1705576,C0023473,TREATS,Allogeneic Hematopoietic Stem Cell Transplantation,"Myeloid Leukemia, Chronic",topp,neop,3,TREATS_TOPPtrtsNEOP
+C1705576,C0023493,TREATS,Allogeneic Hematopoietic Stem Cell Transplantation,Adult T-Cell Lymphoma/Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1705576,C0026987,TREATS,Allogeneic Hematopoietic Stem Cell Transplantation,Myelofibrosis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1705576,C0376545,TREATS,Allogeneic Hematopoietic Stem Cell Transplantation,Hematologic Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1706406,C0034885,TREATS,Debulking Procedure,Rectal Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1706406,C0432487,TREATS,Debulking Procedure,Post-transplant lymphoproliferative disorder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1706406,C0919267,TREATS,Debulking Procedure,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1706406,C1334811,TREATS,Debulking Procedure,Mucinous neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1706721,C1261473,TREATS,Adjuvant Radiation Therapy,Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1707479,C0206655,TREATS,Concomitant Therapy,Alveolar rhabdomyosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0006142,TREATS,First line treatment,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0006826,TREATS,First line treatment,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0007103,TREATS,First line treatment,Malignant neoplasm of endometrium,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0007131,TREATS,First line treatment,Non-Small Cell Lung Carcinoma,topp,neop,4,TREATS_TOPPtrtsNEOP
+C1708063,C0007134,TREATS,First line treatment,Renal Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0007847,TREATS,First line treatment,Malignant tumor of cervix,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1708063,C0023434,TREATS,First line treatment,Chronic Lymphocytic Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0023443,TREATS,First line treatment,Hairy Cell Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0023467,TREATS,First line treatment,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0025202,TREATS,First line treatment,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0026764,TREATS,First line treatment,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0027627,TREATS,First line treatment,Neoplasm Metastasis,topp,neop,10,TREATS_TOPPtrtsNEOP
+C1708063,C0027651,TREATS,First line treatment,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0029463,TREATS,First line treatment,Osteosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0035412,TREATS,First line treatment,Rhabdomyosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0149925,TREATS,First line treatment,Small cell carcinoma of lung,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1708063,C0153381,TREATS,First line treatment,Malignant neoplasm of mouth,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0206695,TREATS,First line treatment,"Carcinoma, Neuroendocrine",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0220650,TREATS,First line treatment,Metastatic malignant neoplasm to brain,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0242379,TREATS,First line treatment,Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0278488,TREATS,First line treatment,Carcinoma breast stage IV,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0278586,TREATS,First line treatment,Metastatic Ewing's Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0278987,TREATS,First line treatment,Metastatic non-small cell lung cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0334634,TREATS,First line treatment,"Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse",topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0376545,TREATS,First line treatment,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0431128,TREATS,First line treatment,Papillary craniopharyngioma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1708063,C0432487,TREATS,First line treatment,Post-transplant lymphoproliferative disorder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0687150,TREATS,First line treatment,Parathyroid Gland Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0861727,TREATS,First line treatment,Metastatic Pancreatic Adenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C0877373,TREATS,First line treatment,Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C2986665,TREATS,First line treatment,Early-Stage Breast Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C3539878,TREATS,First line treatment,Triple Negative Breast Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C3887461,TREATS,First line treatment,Head and Neck Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C4721579,TREATS,First line treatment,Secondary malignant neoplasm of colon and/or rectum,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1708063,C4727069,TREATS,First line treatment,Advanced Renal Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1708063,C5206681,TREATS,First line treatment,Unresectable Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1710038,C0006826,TREATS,Second line treatment,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1710038,C0007131,TREATS,Second line treatment,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1710038,C0023434,TREATS,Second line treatment,Chronic Lymphocytic Leukemia,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1710038,C0149925,TREATS,Second line treatment,Small cell carcinoma of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1710038,C0220630,TREATS,Second line treatment,Adult Liver Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1720823,C0027651,TREATS,Stereotactic Body Radiotherapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1720823,C0376358,TREATS,Stereotactic Body Radiotherapy,Malignant neoplasm of prostate,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1831738,C0006826,TREATS,Exercise Intervention,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831742,C0019829,TREATS,Nonmyeloablative Allogeneic Hematopoietic Stem Cell Transplantation,Hodgkin Disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831786,C0006142,TREATS,Hypofractionated Radiation Therapy,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831786,C0006826,TREATS,Hypofractionated Radiation Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831786,C0007113,TREATS,Hypofractionated Radiation Therapy,Rectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831786,C0007131,TREATS,Hypofractionated Radiation Therapy,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831786,C0007847,TREATS,Hypofractionated Radiation Therapy,Malignant tumor of cervix,topp,neop,4,TREATS_TOPPtrtsNEOP
+C1831786,C0024299,TREATS,Hypofractionated Radiation Therapy,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831786,C0220650,TREATS,Hypofractionated Radiation Therapy,Metastatic malignant neoplasm to brain,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831786,C0278725,TREATS,Hypofractionated Radiation Therapy,Limited Stage Lung Small Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831786,C0278996,TREATS,Hypofractionated Radiation Therapy,Malignant Head and Neck Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831786,C2986665,TREATS,Hypofractionated Radiation Therapy,Early-Stage Breast Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831994,C0006826,TREATS,selective internal radiation therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831994,C0220630,TREATS,selective internal radiation therapy,Adult Liver Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1831994,C2239176,TREATS,selective internal radiation therapy,Liver carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1868801,C0009402,TREATS,Hyperthermic Intraperitoneal Chemotherapy,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1868801,C0033822,TREATS,Hyperthermic Intraperitoneal Chemotherapy,Pseudomyxoma Peritonei,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1868801,C0346990,TREATS,Hyperthermic Intraperitoneal Chemotherapy,Carcinomatosis of peritoneal cavity,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1868801,C0919267,TREATS,Hyperthermic Intraperitoneal Chemotherapy,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1868801,C1334811,TREATS,Hyperthermic Intraperitoneal Chemotherapy,Mucinous neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1880152,C1328504,TREATS,Complementary or Alternative Medical Procedure,Hormone refractory prostate cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1880476,C0007131,TREATS,Etoposide-Platinol Regimen,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1882310,C0007131,TREATS,Pemetrexed-Cisplatin Regimen,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1882454,C0085669,TREATS,Preparative Regimen,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1883256,C0006826,TREATS,Systemic Chemotherapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1883256,C0027627,TREATS,Systemic Chemotherapy,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1883256,C0079731,TREATS,Systemic Chemotherapy,B-Cell Lymphomas,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1883256,C0085669,TREATS,Systemic Chemotherapy,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1883256,C0242379,TREATS,Systemic Chemotherapy,Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1883256,C0271333,TREATS,Systemic Chemotherapy,Orbital lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1883256,C0346989,TREATS,Systemic Chemotherapy,Secondary malignant neoplasm of peritoneum,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1883256,C5204617,TREATS,Systemic Chemotherapy,Advanced Endometrial Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1963724,C0006826,TREATS,Antiretroviral therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1963758,C0026764,TREATS,Immunomodulation,Multiple Myeloma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C1963758,C0027651,TREATS,Immunomodulation,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1964029,C0007114,TREATS,early/brief intervention/therapy (treatment),Malignant neoplasm of skin,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1964029,C0027651,TREATS,early/brief intervention/therapy (treatment),Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C1964029,C4725841,TREATS,early/brief intervention/therapy (treatment),Bladder Carcinoma Infiltrating the Muscle of the Bladder Wall,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2033062,C0006826,TREATS,Pancreatic Surgical Procedure,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2033062,C0027651,TREATS,Pancreatic Surgical Procedure,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2111393,C0007134,TREATS,laparoscopic nephrectomy,Renal Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2188405,C0006826,TREATS,urgent Operation,Malignant Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C2188405,C0030421,TREATS,urgent Operation,Paraganglioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2242529,C0023467,TREATS,Allogeneic Stem Cell Transplantation,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C2242529,C0346429,TREATS,Allogeneic Stem Cell Transplantation,Multiple malignancy,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2242529,C0376544,TREATS,Allogeneic Stem Cell Transplantation,Hematopoietic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2242529,C0376545,TREATS,Allogeneic Stem Cell Transplantation,Hematologic Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C2347900,C0009404,TREATS,Rechallenge,Colorectal Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2348331,C0023449,TREATS,Dose Regimen,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2348331,C0149925,TREATS,Dose Regimen,Small cell carcinoma of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2348331,C0206655,TREATS,Dose Regimen,Alveolar rhabdomyosarcoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C2348331,C0376545,TREATS,Dose Regimen,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2348331,C2939419,TREATS,Dose Regimen,Secondary Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2363923,C0677930,TREATS,Metastasectomy,Primary Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2609147,C0205699,TREATS,Peritonectomy,Carcinomatosis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2699893,C0027651,TREATS,Molecular Targeted Therapy,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C2699893,C0085669,TREATS,Molecular Targeted Therapy,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2718059,C0006826,TREATS,Precision Medicine,Malignant Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C2718059,C0027651,TREATS,Precision Medicine,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C2718059,C0242379,TREATS,Precision Medicine,Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2718059,C0685938,TREATS,Precision Medicine,Malignant neoplasm of gastrointestinal tract,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2718059,C0919267,TREATS,Precision Medicine,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2827774,C0006142,TREATS,Current Therapy,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2827774,C0006826,TREATS,Current Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2827774,C0007131,TREATS,Current Therapy,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2827774,C0025202,TREATS,Current Therapy,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2827774,C0027627,TREATS,Current Therapy,Neoplasm Metastasis,topp,neop,3,TREATS_TOPPtrtsNEOP
+C2827774,C0153467,TREATS,Current Therapy,Malignant tumor of peritoneum,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2827774,C0235974,TREATS,Current Therapy,Pancreatic carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2827774,C0242379,TREATS,Current Therapy,Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2827774,C0555198,TREATS,Current Therapy,Malignant Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2827774,C4725671,TREATS,Current Therapy,High-Risk Neuroblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2827774,C4727088,TREATS,Current Therapy,Advanced Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2936405,C0006142,TREATS,Drug Repositioning,Malignant neoplasm of breast,topp,neop,2,TREATS_TOPPtrtsNEOP
+C2936405,C0006826,TREATS,Drug Repositioning,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C2945704,C0006826,TREATS,Conventional Treatment,Malignant Neoplasms,topp,neop,3,TREATS_TOPPtrtsNEOP
+C2945704,C0009402,TREATS,Conventional Treatment,Colorectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2945704,C0017636,TREATS,Conventional Treatment,Glioblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2945704,C0023467,TREATS,Conventional Treatment,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C2945704,C0025500,TREATS,Conventional Treatment,Mesothelioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2945704,C0026764,TREATS,Conventional Treatment,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2945704,C0027086,TREATS,Conventional Treatment,Myoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2945704,C0346210,TREATS,Conventional Treatment,Vulval intraepithelial neoplasia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2945704,C0346303,TREATS,Conventional Treatment,Thyrotroph adenoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2945704,C0376358,TREATS,Conventional Treatment,Malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2945704,C0376545,TREATS,Conventional Treatment,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2945704,C0677936,TREATS,Conventional Treatment,Refractory Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985391,C0024305,TREATS,Gold Therapy,"Lymphoma, Non-Hodgkin",topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985486,C4331229,TREATS,Stereotactic Injection,Recurrent Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C0006826,TREATS,Targeted Therapy,Malignant Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C2985566,C0007131,TREATS,Targeted Therapy,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C0017638,TREATS,Targeted Therapy,Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C0025202,TREATS,Targeted Therapy,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C0027627,TREATS,Targeted Therapy,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C0027651,TREATS,Targeted Therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C0153676,TREATS,Targeted Therapy,Secondary malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C0206180,TREATS,Targeted Therapy,Ki-1+ Anaplastic Large Cell Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C0238198,TREATS,Targeted Therapy,Gastrointestinal Stromal Tumors,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C0242379,TREATS,Targeted Therapy,Malignant neoplasm of lung,topp,neop,2,TREATS_TOPPtrtsNEOP
+C2985566,C0278504,TREATS,Targeted Therapy,Stage I Lung Non-Small Cell Cancer AJCC v7,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C0278883,TREATS,Targeted Therapy,Metastatic melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C0278987,TREATS,Targeted Therapy,Metastatic non-small cell lung cancer,topp,neop,2,TREATS_TOPPtrtsNEOP
+C2985566,C0280100,TREATS,Targeted Therapy,Solid Neoplasm,topp,neop,3,TREATS_TOPPtrtsNEOP
+C2985566,C0347001,TREATS,Targeted Therapy,Secondary malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C0376545,TREATS,Targeted Therapy,Hematologic Neoplasms,topp,neop,4,TREATS_TOPPtrtsNEOP
+C2985566,C0948750,TREATS,Targeted Therapy,Salivary gland carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C1519670,TREATS,Targeted Therapy,Tumor Angiogenesis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2985566,C3495949,TREATS,Targeted Therapy,Locally advanced breast cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2986423,C0006826,TREATS,Chemoimmunotherapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2986592,C0007114,TREATS,Definitive Treatment,Malignant neoplasm of skin,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2986592,C0007847,TREATS,Definitive Treatment,Malignant tumor of cervix,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2986592,C0014859,TREATS,Definitive Treatment,Esophageal Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2986592,C0278725,TREATS,Definitive Treatment,Limited Stage Lung Small Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2986592,C0376358,TREATS,Definitive Treatment,Malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2986592,C0796563,TREATS,Definitive Treatment,Localized Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C2986605,C0007131,TREATS,Third line treatment,Non-Small Cell Lung Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C2987682,C0007847,TREATS,Radical hysterectomy,Malignant tumor of cervix,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3161031,C0006142,TREATS,Radiotherapy fractionation,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3161031,C0376358,TREATS,Radiotherapy fractionation,Malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3177188,C0023418,TREATS,Early Therapy,leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3178761,C0027651,TREATS,"Chemoradiotherapy, Adjuvant",Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3178775,C0007113,TREATS,Concurrent Chemoradiotherapy,Rectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3178775,C0007131,TREATS,Concurrent Chemoradiotherapy,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3178775,C0007847,TREATS,Concurrent Chemoradiotherapy,Malignant tumor of cervix,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3178775,C0242379,TREATS,Concurrent Chemoradiotherapy,Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3178775,C0278725,TREATS,Concurrent Chemoradiotherapy,Limited Stage Lung Small Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3178775,C0558916,TREATS,Concurrent Chemoradiotherapy,Nasal and nasal-type NK/T-cell lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3179010,C0023418,TREATS,Induction Chemotherapy,leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3179010,C0023449,TREATS,Induction Chemotherapy,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3179010,C0023467,TREATS,Induction Chemotherapy,"Leukemia, Myelocytic, Acute",topp,neop,8,TREATS_TOPPtrtsNEOP
+C3179010,C0026764,TREATS,Induction Chemotherapy,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3179010,C0085669,TREATS,Induction Chemotherapy,Acute leukemia,topp,neop,6,TREATS_TOPPtrtsNEOP
+C3179010,C0376545,TREATS,Induction Chemotherapy,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3179017,C0023449,TREATS,Consolidation Chemotherapy,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3179017,C0023467,TREATS,Consolidation Chemotherapy,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C3179017,C0085669,TREATS,Consolidation Chemotherapy,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3179062,C0006142,TREATS,"Radiotherapy, Image-Guided",Malignant neoplasm of breast,topp,neop,2,TREATS_TOPPtrtsNEOP
+C3179062,C0024121,TREATS,"Radiotherapy, Image-Guided",Lung Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3179062,C0242379,TREATS,"Radiotherapy, Image-Guided",Malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3272275,C0006826,TREATS,Urgent Procedure,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3540512,C0006118,TREATS,Circumferential Supracrestal Fiberotomy,Brain Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3540512,C0376545,TREATS,Circumferential Supracrestal Fiberotomy,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3665674,C0027627,TREATS,Warburg Therapy,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3714726,C0007124,TREATS,Operation on breast,Noninfiltrating Intraductal Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C3814448,C0007113,TREATS,Low Anterior Resection,Rectal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3814448,C0153436,TREATS,Low Anterior Resection,Malignant neoplasm of sigmoid colon,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0006826,TREATS,Cytoreductive Surgery,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0027022,TREATS,Cytoreductive Surgery,Myeloproliferative disease,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0027627,TREATS,Cytoreductive Surgery,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0029463,TREATS,Cytoreductive Surgery,Osteosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0032463,TREATS,Cytoreductive Surgery,Polycythemia Vera,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0033822,TREATS,Cytoreductive Surgery,Pseudomyxoma Peritonei,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0037930,TREATS,Cytoreductive Surgery,Spinal Cord Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0085669,TREATS,Cytoreductive Surgery,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0153467,TREATS,Cytoreductive Surgery,Malignant tumor of peritoneum,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0206655,TREATS,Cytoreductive Surgery,Alveolar rhabdomyosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0278689,TREATS,Cytoreductive Surgery,Recurrent ovarian cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0376545,TREATS,Cytoreductive Surgery,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C0919267,TREATS,Cytoreductive Surgery,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850079,C1336237,TREATS,Cytoreductive Surgery,Stage IIIC Ovarian Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850085,C0027651,TREATS,Prophylactic Surgical Procedures,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3850136,C0278996,TREATS,Robotic Surgical Procedures,Malignant Head and Neck Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3858690,C0431128,TREATS,adjunctive treatment,Papillary craniopharyngioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3887850,C1332225,TREATS,EPOCH protocol,Aggressive Non-Hodgkin Lymphoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C3896609,C0006826,TREATS,Stereotactic Body Radiation Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3896609,C0007131,TREATS,Stereotactic Body Radiation Therapy,Non-Small Cell Lung Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C3896609,C0025202,TREATS,Stereotactic Body Radiation Therapy,melanoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C3896609,C0027627,TREATS,Stereotactic Body Radiation Therapy,Neoplasm Metastasis,topp,neop,2,TREATS_TOPPtrtsNEOP
+C3896609,C0027651,TREATS,Stereotactic Body Radiation Therapy,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C3896609,C0153661,TREATS,Stereotactic Body Radiation Therapy,Malignant neoplasm of thorax,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3896609,C0153676,TREATS,Stereotactic Body Radiation Therapy,Secondary malignant neoplasm of lung,topp,neop,3,TREATS_TOPPtrtsNEOP
+C3896609,C0242379,TREATS,Stereotactic Body Radiation Therapy,Malignant neoplasm of lung,topp,neop,2,TREATS_TOPPtrtsNEOP
+C3896609,C0278504,TREATS,Stereotactic Body Radiation Therapy,Stage I Lung Non-Small Cell Cancer AJCC v7,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3896609,C0279702,TREATS,Stereotactic Body Radiation Therapy,Conventional (Clear Cell) Renal Cell Carcinoma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C3896609,C0345905,TREATS,Stereotactic Body Radiation Therapy,Intrahepatic Cholangiocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3896609,C0376358,TREATS,Stereotactic Body Radiation Therapy,Malignant neoplasm of prostate,topp,neop,4,TREATS_TOPPtrtsNEOP
+C3896609,C0740457,TREATS,Stereotactic Body Radiation Therapy,Malignant neoplasm of kidney,topp,neop,2,TREATS_TOPPtrtsNEOP
+C3896609,C0855002,TREATS,Stereotactic Body Radiation Therapy,Recurrent Lung Carcinoma Cell Type Unspecified,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3896609,C0941053,TREATS,Stereotactic Body Radiation Therapy,Primary malignant colonic tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3896609,C2939419,TREATS,Stereotactic Body Radiation Therapy,Secondary Neoplasm,topp,neop,2,TREATS_TOPPtrtsNEOP
+C3896609,C4287832,TREATS,Stereotactic Body Radiation Therapy,Metastatic Malignant Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3897730,C0026764,TREATS,Reduced-Intensity Transplant Conditioning Procedure,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3897730,C0152267,TREATS,Reduced-Intensity Transplant Conditioning Procedure,"Hodgkin lymphoma, lymphocyte depletion",topp,neop,1,TREATS_TOPPtrtsNEOP
+C3897730,C1333878,TREATS,Reduced-Intensity Transplant Conditioning Procedure,B-cell lymphoma unclassifiable with features intermediate between classical Hodgkin lymphoma and diffuse large B-cell lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3898008,C0027651,TREATS,Palliative Radiation Therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3898008,C0153690,TREATS,Palliative Radiation Therapy,Secondary malignant neoplasm of bone,topp,neop,1,TREATS_TOPPtrtsNEOP
+C3899172,C0006826,TREATS,FGFR Inhibition,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4042855,C0006826,TREATS,RNAi Therapeutics,Malignant Neoplasms,topp,neop,5,TREATS_TOPPtrtsNEOP
+C4042855,C0796563,TREATS,RNAi Therapeutics,Localized Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4047978,C0079731,TREATS,Rituximab therapy,B-Cell Lymphomas,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4087167,C0014474,TREATS,Tumour treating fields therapy,Ependymoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4087167,C0017638,TREATS,Tumour treating fields therapy,Glioma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C4087167,C0555198,TREATS,Tumour treating fields therapy,Malignant Glioma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4255212,C0023267,TREATS,Myomectomy,Fibroid Tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4255274,C0023493,TREATS,allogeneic hematopoietic stem cell transplant,Adult T-Cell Lymphoma/Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4264454,C0006826,TREATS,Chemo-radiotherapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4264454,C0007107,TREATS,Chemo-radiotherapy,Malignant neoplasm of larynx,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4264454,C0007847,TREATS,Chemo-radiotherapy,Malignant tumor of cervix,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4264454,C0017636,TREATS,Chemo-radiotherapy,Glioblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4264454,C0153382,TREATS,Chemo-radiotherapy,Malignant neoplasm of oropharynx,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4274887,C0006142,TREATS,Percutaneous ablation of neoplasm,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4277645,C0345893,TREATS,Phage Therapy,Juvenile polyposis syndrome,topp,neop,4,TREATS_TOPPtrtsNEOP
+C4289797,C0006826,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Malignant Neoplasms,topp,neop,9,TREATS_TOPPtrtsNEOP
+C4289797,C0023418,TREATS,Chimeric Antigen Receptor T-Cell Therapy,leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4289797,C0023449,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Acute lymphocytic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4289797,C0024299,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4289797,C0025500,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Mesothelioma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C4289797,C0027651,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C4289797,C0079731,TREATS,Chimeric Antigen Receptor T-Cell Therapy,B-Cell Lymphomas,topp,neop,4,TREATS_TOPPtrtsNEOP
+C4289797,C0079744,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Diffuse Large B-Cell Lymphoma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C4289797,C0346429,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Multiple malignancy,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4289797,C0376545,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Hematologic Neoplasms,topp,neop,5,TREATS_TOPPtrtsNEOP
+C4289797,C1292769,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Precursor B-cell lymphoblastic leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4289797,C5212315,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Large B-cell lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4302870,C0747273,TREATS,Ipsilateral neck dissection,Malignant tumour of parotid gland,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4304118,C2239176,TREATS,Hepatic arterial infusion chemotherapy,Liver carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4319756,C0079772,TREATS,Myeloablative Conditioning,T-Cell Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4330729,C0023467,TREATS,Myelosuppressive Chemotherapy,"Leukemia, Myelocytic, Acute",topp,neop,2,TREATS_TOPPtrtsNEOP
+C4330729,C0024305,TREATS,Myelosuppressive Chemotherapy,"Lymphoma, Non-Hodgkin",topp,neop,1,TREATS_TOPPtrtsNEOP
+C4330729,C0085669,TREATS,Myelosuppressive Chemotherapy,Acute leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4330729,C0279068,TREATS,Myelosuppressive Chemotherapy,Childhood Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4330729,C1261473,TREATS,Myelosuppressive Chemotherapy,Sarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4330729,C1961099,TREATS,Myelosuppressive Chemotherapy,Precursor T-Cell Lymphoblastic Leukemia-Lymphoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C4330729,C3463824,TREATS,Myelosuppressive Chemotherapy,MYELODYSPLASTIC SYNDROME,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4510392,C0006142,TREATS,Tamoxifen therapy,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4510392,C0007131,TREATS,Tamoxifen therapy,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4528578,C0005967,TREATS,En Bloc Resection,Bone neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4551716,C0940937,TREATS,Cryotherapy,precancerous lesions,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4552477,C0005684,TREATS,intravesical immunotherapy,Malignant neoplasm of urinary bladder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4552905,C0006413,TREATS,R-DA-EPOCH Regimen,Burkitt Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4552905,C0456863,TREATS,R-DA-EPOCH Regimen,High grade B-cell lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4683344,C0376358,TREATS,Robot-Assisted Surgery,Malignant neoplasm of prostate,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4687511,C0278952,TREATS,Salvage Surgery,Recurrent Nasopharyngeal Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4687511,C0521158,TREATS,Salvage Surgery,Recurrent tumor,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4704842,C0006826,TREATS,Radiofrequency Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4721571,C0027651,TREATS,Electrochemotherapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4723833,C0027651,TREATS,vertebral augmentation procedure,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4725029,C0494165,TREATS,Percutaneous Hepatic Perfusion,Secondary malignant neoplasm of liver,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4725719,C0006142,TREATS,Deep Inspiration Breath Hold,Malignant neoplasm of breast,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4727545,C0025202,TREATS,Ipilimumab/Nivolumab Regimen,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4727581,C0007131,TREATS,Dabrafenib/Trametinib Regimen,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4733066,C0432487,TREATS,low-dose chemotherapy,Post-transplant lymphoproliferative disorder,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4733109,C4725024,TREATS,cellular immunotherapy,Refractory Leukemia,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4733115,C0346975,TREATS,PARP inhibitor therapy,Secondary malignant neoplasm of rectum,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4733449,C0205699,TREATS,pressurized intraperitoneal aerosol chemotherapy,Carcinomatosis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4733472,C0006826,TREATS,immune checkpoint inhibitor therapy,Malignant Neoplasms,topp,neop,2,TREATS_TOPPtrtsNEOP
+C4733472,C0007131,TREATS,immune checkpoint inhibitor therapy,Non-Small Cell Lung Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4744452,C0220603,TREATS,Upfront Treatment,Childhood Brain Neoplasm,topp,neop,2,TREATS_TOPPtrtsNEOP
+C4744452,C0278678,TREATS,Upfront Treatment,Metastatic Renal Cell Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4750149,C0029463,TREATS,Resection of innominate bone,Osteosarcoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C0006826,TREATS,Single Agent Therapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C0007131,TREATS,Single Agent Therapy,Non-Small Cell Lung Carcinoma,topp,neop,2,TREATS_TOPPtrtsNEOP
+C4763675,C0017636,TREATS,Single Agent Therapy,Glioblastoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C0023055,TREATS,Single Agent Therapy,Laryngeal neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C0023467,TREATS,Single Agent Therapy,"Leukemia, Myelocytic, Acute",topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C0024299,TREATS,Single Agent Therapy,Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C0024623,TREATS,Single Agent Therapy,Malignant neoplasm of stomach,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C0025202,TREATS,Single Agent Therapy,melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C0027651,TREATS,Single Agent Therapy,Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C0149925,TREATS,Single Agent Therapy,Small cell carcinoma of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C0235974,TREATS,Single Agent Therapy,Pancreatic carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C0278883,TREATS,Single Agent Therapy,Metastatic melanoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C0919267,TREATS,Single Agent Therapy,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C2239176,TREATS,Single Agent Therapy,Liver carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C3495949,TREATS,Single Agent Therapy,Locally advanced breast cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C3839184,TREATS,Single Agent Therapy,Papillary Serous Cystadenocarcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C4329281,TREATS,Single Agent Therapy,Advanced Malignant Solid Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C4727773,TREATS,Single Agent Therapy,Refractory Lung Non-Small Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763675,C4727838,TREATS,Single Agent Therapy,Advanced Melanoma,topp,neop,3,TREATS_TOPPtrtsNEOP
+C4763870,C0007102,TREATS,Colon Resection,Malignant tumor of colon,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763871,C0920420,TREATS,Colorectal Cancer Surgery,cancer recurrence,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763878,C0032000,TREATS,Endoscopic Sinus Surgery,Pituitary Adenoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763898,C3887461,TREATS,Head and Neck Cancer Surgery,Head and Neck Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C4763955,C2239176,TREATS,Pulmonary Metastasectomy,Liver carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5192703,C0037579,TREATS,Wide excision,Soft Tissue Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5202572,C0919267,TREATS,Interval Debulking Surgery,ovarian neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5202766,C0153567,TREATS,Primary Debulking Surgery,Uterine Cancer,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5202766,C0877373,TREATS,Primary Debulking Surgery,Advanced Malignant Neoplasm,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5202843,C0006826,TREATS,Right and Left Lung Irradiation,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5202843,C0153676,TREATS,Right and Left Lung Irradiation,Secondary malignant neoplasm of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5203979,C0006826,TREATS,Concurrent Chemotherapy,Malignant Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5203979,C0007847,TREATS,Concurrent Chemotherapy,Malignant tumor of cervix,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5203979,C1955906,TREATS,Concurrent Chemotherapy,"Lymphoma, Extranodal NK-T-Cell",topp,neop,1,TREATS_TOPPtrtsNEOP
+C5204528,C0079774,TREATS,CHP-Brentuximab Vedotin Regimen,Peripheral T-Cell Lymphoma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5204854,C0027627,TREATS,Cisplatin Regimen,Neoplasm Metastasis,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5204868,C0149925,TREATS,Durvalumab Regimen,Small cell carcinoma of lung,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5204923,C0376545,TREATS,Melphalan Regimen,Hematologic Neoplasms,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5204952,C0024305,TREATS,Rituximab Regimen,"Lymphoma, Non-Hodgkin",topp,neop,1,TREATS_TOPPtrtsNEOP
+C5204952,C0026764,TREATS,Rituximab Regimen,Multiple Myeloma,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5204952,C0079731,TREATS,Rituximab Regimen,B-Cell Lymphomas,topp,neop,1,TREATS_TOPPtrtsNEOP
+C5206430,C0007134,TREATS,Axitinib/Pembrolizumab Regimen,Renal Cell Carcinoma,topp,neop,1,TREATS_TOPPtrtsNEOP

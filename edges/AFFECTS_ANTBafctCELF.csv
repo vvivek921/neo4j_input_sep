@@ -1,0 +1,60 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002680,C0007620,AFFECTS,ampicillin,Cell Survival,antb,celf,1,AFFECTS_ANTBafctCELF
+C0003232,C0007587,AFFECTS,Antibiotics,Cell Death,antb,celf,1,AFFECTS_ANTBafctCELF
+C0003232,C1159339,AFFECTS,Antibiotics,Protein Secretion,antb,celf,1,AFFECTS_ANTBafctCELF
+C0003232,C1326169,AFFECTS,Antibiotics,microglial cell activation,antb,celf,1,AFFECTS_ANTBafctCELF
+C0003232,C4691060,AFFECTS,Antibiotics,export across plasma membrane,antb,celf,1,AFFECTS_ANTBafctCELF
+C0003232,C4759804,AFFECTS,Antibiotics,conjugation,antb,celf,1,AFFECTS_ANTBafctCELF
+C0003240,C0312861,AFFECTS,Macrolide Antibiotics,Neutrophil chemotaxis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0003240,C1523908,AFFECTS,Macrolide Antibiotics,apoptotic cell clearance,antb,celf,1,AFFECTS_ANTBafctCELF
+C0003240,C2610947,AFFECTS,Macrolide Antibiotics,mucus secretion,antb,celf,1,AFFECTS_ANTBafctCELF
+C0004635,C0007587,AFFECTS,bactericide,Cell Death,antb,celf,1,AFFECTS_ANTBafctCELF
+C0007735,C0042774,AFFECTS,cephalothin,Virus Replication,antb,celf,1,AFFECTS_ANTBafctCELF
+C0007738,C0162638,AFFECTS,cephradine,Apoptosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0010572,C0042774,AFFECTS,Cycloheximide,Virus Replication,antb,celf,1,AFFECTS_ANTBafctCELF
+C0013089,C0007595,AFFECTS,doxorubicin,Cell Growth,antb,celf,1,AFFECTS_ANTBafctCELF
+C0013089,C0007620,AFFECTS,doxorubicin,Cell Survival,antb,celf,1,AFFECTS_ANTBafctCELF
+C0013089,C1512772,AFFECTS,doxorubicin,Negative Regulation of Apoptosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0013089,C1720920,AFFECTS,doxorubicin,"Membrane Potential, Mitochondrial",antb,celf,1,AFFECTS_ANTBafctCELF
+C0016875,C1523936,AFFECTS,fusidic acid,cellular biosynthetic process,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026187,C0004391,AFFECTS,minocycline,Autophagy,antb,celf,2,AFFECTS_ANTBafctCELF
+C0026187,C0042774,AFFECTS,minocycline,Virus Replication,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026187,C0334220,AFFECTS,minocycline,Remyelination,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026187,C1326169,AFFECTS,minocycline,microglial cell activation,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C0599814,AFFECTS,monensin,Intracellular Transport,antb,celf,2,AFFECTS_ANTBafctCELF
+C0026408,C1159788,AFFECTS,monensin,transport of virus,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C1326393,AFFECTS,monensin,Golgi vesicle transport,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C1327616,AFFECTS,monensin,Cell secretion,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C2612542,AFFECTS,monensin,glycoprotein transport,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C2612729,AFFECTS,monensin,cellular protein localization,antb,celf,1,AFFECTS_ANTBafctCELF
+C0026408,C3821014,AFFECTS,monensin,viral egress,antb,celf,1,AFFECTS_ANTBafctCELF
+C0027603,C0162638,AFFECTS,neomycin,Apoptosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0052796,C0001272,AFFECTS,azithromycin,Action Potentials,antb,celf,1,AFFECTS_ANTBafctCELF
+C0052796,C0014139,AFFECTS,azithromycin,Endocytosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0052796,C0031308,AFFECTS,azithromycin,Phagocytosis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0052796,C0042774,AFFECTS,azithromycin,Virus Replication,antb,celf,2,AFFECTS_ANTBafctCELF
+C0052796,C1156062,AFFECTS,azithromycin,lysosomal lumen acidification,antb,celf,1,AFFECTS_ANTBafctCELF
+C0054036,C0598953,AFFECTS,Brefeldin A,retrograde transport,antb,celf,1,AFFECTS_ANTBafctCELF
+C0054036,C0599814,AFFECTS,Brefeldin A,Intracellular Transport,antb,celf,1,AFFECTS_ANTBafctCELF
+C0054036,C0599895,AFFECTS,Brefeldin A,protein transport,antb,celf,1,AFFECTS_ANTBafctCELF
+C0055856,C0042774,AFFECTS,clarithromycin,Virus Replication,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C0004391,AFFECTS,sirolimus,Autophagy,antb,celf,5,AFFECTS_ANTBafctCELF
+C0072980,C0007595,AFFECTS,sirolimus,Cell Growth,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C0007613,AFFECTS,sirolimus,Cell physiology,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C0596290,AFFECTS,sirolimus,Cell Proliferation,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C1155065,AFFECTS,sirolimus,T-Cell Activation,antb,celf,1,AFFECTS_ANTBafctCELF
+C0072980,C1516334,AFFECTS,sirolimus,Cell Cycle Progression,antb,celf,1,AFFECTS_ANTBafctCELF
+C0125179,C4231795,AFFECTS,lactacystin,lysosomal proteolysis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0262967,C0007577,AFFECTS,dihydrostreptomycin,Cell Adhesion,antb,celf,1,AFFECTS_ANTBafctCELF
+C0279516,C0004391,AFFECTS,Anti-Bacterial Agents,Autophagy,antb,celf,1,AFFECTS_ANTBafctCELF
+C0279516,C0010813,AFFECTS,Anti-Bacterial Agents,Cytokinesis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0279516,C3157010,AFFECTS,Anti-Bacterial Agents,phagosome maturation,antb,celf,1,AFFECTS_ANTBafctCELF
+C0310367,C0040682,AFFECTS,Today,cell transformation,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C0010813,AFFECTS,NS 5,Cytokinesis,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C0042774,AFFECTS,NS 5,Virus Replication,antb,celf,5,AFFECTS_ANTBafctCELF
+C0614427,C0302167,AFFECTS,NS 5,Cap formation (cell function),antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C0887839,AFFECTS,NS 5,Nuclear Import,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C0887840,AFFECTS,NS 5,Nuclear Export,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C1155342,AFFECTS,NS 5,cellular response to unfolded protein,antb,celf,1,AFFECTS_ANTBafctCELF
+C0614427,C1160701,AFFECTS,NS 5,viral genome replication,antb,celf,2,AFFECTS_ANTBafctCELF
+C0962138,C1327616,AFFECTS,reutericyclin,Cell secretion,antb,celf,1,AFFECTS_ANTBafctCELF

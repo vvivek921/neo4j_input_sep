@@ -1,0 +1,95 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002423,C0015576,TREATS,ambulatory care services,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0009470,C0020052,TREATS,Community Health Education,Households,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0009586,C0015576,TREATS,Comprehensive Health Care,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0009818,C0030551,TREATS,Consultation,parent,hlca,famg,3,TREATS_HLCAtrtsFAMG
+C0009853,C0015576,TREATS,Continuity of Patient Care,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0010210,C0015576,TREATS,Counseling,Family,hlca,famg,5,TREATS_HLCAtrtsFAMG
+C0010210,C0026591,TREATS,Counseling,Mother (person),hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0010210,C0030551,TREATS,Counseling,parent,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0010337,C0086282,TREATS,Care of intensive care unit patient,Family member,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0018747,C0015576,TREATS,Health Services,Family,hlca,famg,2,TREATS_HLCAtrtsFAMG
+C0019993,C0015576,TREATS,Hospitalization,Family,hlca,famg,2,TREATS_HLCAtrtsFAMG
+C0019993,C0020052,TREATS,Hospitalization,Households,hlca,famg,3,TREATS_HLCAtrtsFAMG
+C0019993,C0029039,TREATS,Hospitalization,Is an only child,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0019993,C0037047,TREATS,Hospitalization,Sibling,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0019993,C3844032,TREATS,Hospitalization,Child 2,hlca,famg,2,TREATS_HLCAtrtsFAMG
+C0020043,C0015576,TREATS,Home visit (procedure),Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0021682,C0015576,TREATS,Health Insurance,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0025355,C0026591,TREATS,Mental Health Services,Mother (person),hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0025355,C0682323,TREATS,Mental Health Services,Partner in relationship,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0030685,C0015576,TREATS,Patient Discharge,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0031809,C0337541,TREATS,Physical Examination,adopted child,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0032786,C0015576,TREATS,Postoperative Care,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0033052,C0026591,TREATS,Prenatal care,Mother (person),hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0033333,C0020052,TREATS,Program Development,Households,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0039548,C0086282,TREATS,terminal patient care,Family member,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0085882,C0015576,TREATS,Bereavement Care,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0150270,C0037047,TREATS,Medication Management,Sibling,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0150355,C0015576,TREATS,Spiritual support,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0150577,C0015576,TREATS,Education of family,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0150600,C0015576,TREATS,Advice,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0150600,C0030551,TREATS,Advice,parent,hlca,famg,9,TREATS_HLCAtrtsFAMG
+C0150600,C0682323,TREATS,Advice,Partner in relationship,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0162648,C0015576,TREATS,Telemedicine,Family,hlca,famg,5,TREATS_HLCAtrtsFAMG
+C0178896,C0030551,TREATS,Incident Reporting,parent,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0184643,C0015576,TREATS,Mental health care,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0184666,C0020052,TREATS,Hospital admission,Households,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0200345,C0337547,TREATS,Specimen Collection,Younger child,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0220825,C0015576,TREATS,Evaluation,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0220825,C0020052,TREATS,Evaluation,Households,hlca,famg,4,TREATS_HLCAtrtsFAMG
+C0220825,C0026591,TREATS,Evaluation,Mother (person),hlca,famg,2,TREATS_HLCAtrtsFAMG
+C0220825,C0030551,TREATS,Evaluation,parent,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0220825,C0080103,TREATS,Evaluation,Relative (related person),hlca,famg,3,TREATS_HLCAtrtsFAMG
+C0242963,C0026591,TREATS,Perinatal Care,Mother (person),hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0278329,C0682323,TREATS,Prescribed,Partner in relationship,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0344211,C0015576,TREATS,Supportive care,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0405457,C0026591,TREATS,Breast Milk Expression,Mother (person),hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0441587,C0015576,TREATS,Clinical act of insertion,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0441587,C0870134,TREATS,Clinical act of insertion,Ancestor,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0541653,C0680063,TREATS,Chart evaluation by healthcare professional,Offspring,hlca,famg,2,TREATS_HLCAtrtsFAMG
+C0558005,C0015576,TREATS,Needs Assessment,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0600015,C0015576,TREATS,Emotional support,Family,hlca,famg,13,TREATS_HLCAtrtsFAMG
+C0600015,C0026591,TREATS,Emotional support,Mother (person),hlca,famg,2,TREATS_HLCAtrtsFAMG
+C0600015,C0030551,TREATS,Emotional support,parent,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0600015,C0080103,TREATS,Emotional support,Relative (related person),hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0600015,C0086282,TREATS,Emotional support,Family member,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0600015,C0682323,TREATS,Emotional support,Partner in relationship,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0679841,C0015576,TREATS,treatment program,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0729338,C0015576,TREATS,Care provision regimes,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0805586,C0015576,TREATS,Challenge,Family,hlca,famg,8,TREATS_HLCAtrtsFAMG
+C0805586,C0030551,TREATS,Challenge,parent,hlca,famg,4,TREATS_HLCAtrtsFAMG
+C0805586,C0080103,TREATS,Challenge,Relative (related person),hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0846617,C0015576,TREATS,genetic evaluation,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0846663,C0015576,TREATS,resource education,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C0850397,C0030551,TREATS,health information,parent,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C1171181,C0026591,TREATS,Breastfeeding support,Mother (person),hlca,famg,1,TREATS_HLCAtrtsFAMG
+C1261322,C0015576,TREATS,Evaluation procedure,Family,hlca,famg,3,TREATS_HLCAtrtsFAMG
+C1261322,C0020052,TREATS,Evaluation procedure,Households,hlca,famg,2,TREATS_HLCAtrtsFAMG
+C1261322,C0030551,TREATS,Evaluation procedure,parent,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C1261322,C0041432,TREATS,Evaluation procedure,Monozygotic twins,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C1261322,C0680063,TREATS,Evaluation procedure,Offspring,hlca,famg,3,TREATS_HLCAtrtsFAMG
+C1261322,C0682323,TREATS,Evaluation procedure,Partner in relationship,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C1261322,C3844029,TREATS,Evaluation procedure,Child 5,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C1318493,C0020052,TREATS,Inflation procedure,Households,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C1318955,C0337547,TREATS,Asthma management,Younger child,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C1516879,C0020052,TREATS,Enrollment,Households,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C1522577,C0015576,TREATS,follow-up,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C1522577,C0080103,TREATS,follow-up,Relative (related person),hlca,famg,1,TREATS_HLCAtrtsFAMG
+C1679754,C0015576,TREATS,Asthma education,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C1704289,C0015576,TREATS,Clinical Services,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C2348625,C0870134,TREATS,Sweep,Ancestor,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C2936643,C0015576,TREATS,Standard of Care,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C2958078,C0015576,TREATS,Psychosocial care (regime/therapy),Family,hlca,famg,2,TREATS_HLCAtrtsFAMG
+C3242284,C0080103,TREATS,Population Health,Relative (related person),hlca,famg,2,TREATS_HLCAtrtsFAMG
+C3697360,C0030551,TREATS,Supportive counseling,parent,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C3889687,C0037047,TREATS,Clinical Observation,Sibling,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C3898714,C0030551,TREATS,Internet-Based Intervention,parent,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C4019079,C0015576,TREATS,Patient Transition,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C4036459,C0015576,TREATS,Contacts,Family,hlca,famg,10,TREATS_HLCAtrtsFAMG
+C4036459,C0020052,TREATS,Contacts,Households,hlca,famg,17,TREATS_HLCAtrtsFAMG
+C4036459,C0030551,TREATS,Contacts,parent,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C4036459,C0086282,TREATS,Contacts,Family member,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C4036459,C0162409,TREATS,Contacts,spouse,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C4042889,C0015576,TREATS,Children's Health Insurance Program,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG
+C4542584,C0015576,TREATS,Psychological Services,Family,hlca,famg,1,TREATS_HLCAtrtsFAMG

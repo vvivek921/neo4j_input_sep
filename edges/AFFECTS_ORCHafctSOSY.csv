@@ -1,0 +1,92 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0015967,AFFECTS,acetaminophen,Fever,orch,sosy,2,AFFECTS_ORCHafctSOSY
+C0000970,C0018681,AFFECTS,acetaminophen,Headache,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0000970,C0030193,AFFECTS,acetaminophen,Pain,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0002482,C0030193,AFFECTS,Amides,Pain,orch,sosy,2,AFFECTS_ORCHafctSOSY
+C0002600,C0030193,AFFECTS,amitriptyline,Pain,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0002772,C0009806,AFFECTS,"Analgesics, Opioid",Constipation,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0002772,C0010200,AFFECTS,"Analgesics, Opioid",Coughing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0002772,C0150055,AFFECTS,"Analgesics, Opioid",Chronic pain,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0002772,C0235169,AFFECTS,"Analgesics, Opioid",Excitability,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0004057,C0030193,AFFECTS,aspirin,Pain,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0004259,C0231818,AFFECTS,atropine,Airway constriction,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0005098,C0085631,AFFECTS,benztropine,Agitation,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0006405,C0030193,AFFECTS,buprenorphine,Pain,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0006931,C0010200,AFFECTS,capsaicin,Coughing,orch,sosy,5,AFFECTS_ORCHafctSOSY
+C0007004,C0011991,AFFECTS,Carbohydrates,Diarrhea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0008269,C0000729,AFFECTS,chloroquine,Abdominal Cramps,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0008269,C0011991,AFFECTS,chloroquine,Diarrhea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0008269,C0015967,AFFECTS,chloroquine,Fever,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0008269,C0027497,AFFECTS,chloroquine,Nausea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0008269,C0036572,AFFECTS,chloroquine,Seizures,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0008269,C0042963,AFFECTS,chloroquine,Vomiting,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0008286,C0011991,AFFECTS,chlorpromazine,Diarrhea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0009011,C0085631,AFFECTS,clonazepam,Agitation,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0009014,C0011991,AFFECTS,clonidine,Diarrhea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0009079,C0234133,AFFECTS,clozapine,Extrapyramidal sign,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0009214,C0010200,AFFECTS,codeine,Coughing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0011816,C0010200,AFFECTS,dextromethorphan,Coughing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0012265,C0235169,AFFECTS,digoxin,Excitability,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0012522,C0085631,AFFECTS,diphenhydramine,Agitation,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0017696,C0740903,AFFECTS,Glucans,allergic symptom,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0018546,C0085631,AFFECTS,haloperidol,Agitation,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0019590,C1260880,AFFECTS,Histamine Antagonists,Rhinorrhea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0020336,C0036572,AFFECTS,hydroxychloroquine,Seizures,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0021246,C0020429,AFFECTS,indomethacin,Hyperalgesia,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0023779,C0235169,AFFECTS,Lipids,Excitability,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0023810,C0015967,AFFECTS,Lipopolysaccharides,Fever,orch,sosy,2,AFFECTS_ORCHafctSOSY
+C0023992,C0011991,AFFECTS,loperamide,Diarrhea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0024002,C0085631,AFFECTS,lorazepam,Agitation,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0027396,C0010200,AFFECTS,naproxen,Coughing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0028128,C0231829,AFFECTS,nitric oxide,Gas clearance,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0028908,C0231239,AFFECTS,Oils,Fluctuation,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0030899,C0349410,AFFECTS,pentoxifylline,Single organ dysfunction,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0031264,C0231239,AFFECTS,Petroleum,Fluctuation,orch,sosy,3,AFFECTS_ORCHafctSOSY
+C0031923,C0036572,AFFECTS,pilocarpine,Seizures,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0032950,C0020429,AFFECTS,prednisolone,Hyperalgesia,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0033497,C0011991,AFFECTS,propranolol,Diarrhea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0034272,C0027497,AFFECTS,pyridoxine,Nausea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0034282,C0860603,AFFECTS,pyrilamine,Anxiety symptoms,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0035629,C0917801,AFFECTS,rimantadine,Sleeplessness,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0037556,C0349410,AFFECTS,sodium tetradecyl sulfate,Single organ dysfunction,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0038317,C0231875,AFFECTS,Steroids,Expiratory wheezing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0038317,C0562483,AFFECTS,Steroids,Persistent cough,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0038317,C4285807,AFFECTS,Steroids,Behavioral and psychological symptoms of dementia,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0039294,C0011991,AFFECTS,tannic acid,Diarrhea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0039955,C0085631,AFFECTS,thiothixene,Agitation,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0042523,C0011991,AFFECTS,verapamil,Diarrhea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0047130,C0392513,AFFECTS,3-(2-phenylethyl)-4-methylsydnone,Inanition,orch,sosy,3,AFFECTS_ORCHafctSOSY
+C0047672,C0043144,AFFECTS,3-octanone,Wheezing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0048719,C0037088,AFFECTS,4-toluenesulfonamide,Signs and Symptoms,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0051767,C0010200,AFFECTS,amsonic acid,Coughing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0051767,C0012833,AFFECTS,amsonic acid,Dizziness,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0051767,C0085593,AFFECTS,amsonic acid,Chills,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0051767,C0231528,AFFECTS,amsonic acid,Myalgia,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0069939,C0015967,AFFECTS,paeonol,Fever,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0074992,C0011991,AFFECTS,sphingosine 1-phosphate,Diarrhea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0080356,C0233401,AFFECTS,valproate,Psychiatric symptom,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0081915,C0009806,AFFECTS,carboxymethyl starch,Constipation,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0083433,C0231239,AFFECTS,methylisoamylnitrosamine,Fluctuation,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0086073,C0010200,AFFECTS,cromolyn,Coughing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0086073,C0043144,AFFECTS,cromolyn,Wheezing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0114346,C0015967,AFFECTS,Dimesna,Fever,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0115685,C0015230,AFFECTS,elliptinium,Exanthema,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0216660,C0476273,AFFECTS,zanamivir,Respiratory distress,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0298130,C0043144,AFFECTS,montelukast,Wheezing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0304518,C0036572,AFFECTS,Aglycone,Seizures,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0525678,C1397014,AFFECTS,rasagiline,Imbalance,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0595726,C0043144,AFFECTS,Leukotriene Antagonists,Wheezing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0633482,C0010200,AFFECTS,myrtol,Coughing,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0663241,C0037088,AFFECTS,linezolid,Signs and Symptoms,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0699680,C0026837,AFFECTS,Metric (substance),Muscle Rigidity,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0699680,C1397014,AFFECTS,Metric (substance),Imbalance,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0700580,C1260880,AFFECTS,ipratropium bromide,Rhinorrhea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0874161,C2926602,AFFECTS,oseltamivir,"Discharge, body substance",orch,sosy,1,AFFECTS_ORCHafctSOSY
+C0939937,C0011991,AFFECTS,honey preparation,Diarrhea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C1138226,C0027497,AFFECTS,favipiravir,Nausea,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C2717875,C0009806,AFFECTS,Prebiotics,Constipation,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C2926735,C0015967,AFFECTS,Duration,Fever,orch,sosy,3,AFFECTS_ORCHafctSOSY
+C2926735,C0026837,AFFECTS,Duration,Muscle Rigidity,orch,sosy,1,AFFECTS_ORCHafctSOSY
+C2926735,C0037088,AFFECTS,Duration,Signs and Symptoms,orch,sosy,2,AFFECTS_ORCHafctSOSY
+C2926735,C2926602,AFFECTS,Duration,"Discharge, body substance",orch,sosy,1,AFFECTS_ORCHafctSOSY
+C5139976,C0848237,AFFECTS,CAPTURE,acute stress,orch,sosy,2,AFFECTS_ORCHafctSOSY

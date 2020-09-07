@@ -1,0 +1,76 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003048,C0450442,USES,Animal Experimentation,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0008972,C0011740,USES,Clinical Research,Detergents,resa,chvf,1,USES_RESAusesCHVF
+C0008972,C0243077,USES,Clinical Research,inhibitors,resa,chvf,2,USES_RESAusesCHVF
+C0008972,C0450442,USES,Clinical Research,Agent,resa,chvf,2,USES_RESAusesCHVF
+C0008976,C0038891,USES,Clinical Trials,Chemical Surfactants,resa,chvf,3,USES_RESAusesCHVF
+C0008976,C0243076,USES,Clinical Trials,antagonists,resa,chvf,2,USES_RESAusesCHVF
+C0008976,C0243077,USES,Clinical Trials,inhibitors,resa,chvf,6,USES_RESAusesCHVF
+C0008976,C0450442,USES,Clinical Trials,Agent,resa,chvf,13,USES_RESAusesCHVF
+C0008976,C0682897,USES,Clinical Trials,flavor enhancers,resa,chvf,1,USES_RESAusesCHVF
+C0008976,C1550600,USES,Clinical Trials,Ingredient,resa,chvf,1,USES_RESAusesCHVF
+C0009933,C0450442,USES,Controlled Clinical Trials as Topic,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0016441,C0243077,USES,Follow-Up Studies,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C0016441,C0450442,USES,Follow-Up Studies,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0034656,C0450442,USES,Randomization,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0035170,C0450442,USES,Research and Development,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0038136,C1550600,USES,Standardization,Ingredient,resa,chvf,1,USES_RESAusesCHVF
+C0038136,C4764070,USES,Standardization,Challenge Agent,resa,chvf,1,USES_RESAusesCHVF
+C0150093,C0450442,USES,Case Series,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0150108,C0243077,USES,Blinded,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C0150108,C0450442,USES,Blinded,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0178693,C0243077,USES,human study,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C0178693,C4764070,USES,human study,Challenge Agent,resa,chvf,1,USES_RESAusesCHVF
+C0206034,C0243076,USES,"Clinical Trials, Randomized",antagonists,resa,chvf,1,USES_RESAusesCHVF
+C0242802,C0450442,USES,Patient Selection,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0282334,C0450442,USES,Therapeutic Human Experimentation,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0282461,C0450442,USES,Phase 3 Clinical Trials,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0597634,C0243077,USES,Vaccine Development,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C0597634,C0450442,USES,Vaccine Development,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0679083,C0243077,USES,Simulations,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C0679083,C0450442,USES,Simulations,Agent,resa,chvf,211,USES_RESAusesCHVF
+C0681797,C0450442,USES,paradigm,Agent,resa,chvf,9,USES_RESAusesCHVF
+C0681797,C0597303,USES,paradigm,protein structure function,resa,chvf,1,USES_RESAusesCHVF
+C0681798,C0450442,USES,research agenda,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0681814,C0011740,USES,research study,Detergents,resa,chvf,1,USES_RESAusesCHVF
+C0681814,C0243077,USES,research study,inhibitors,resa,chvf,22,USES_RESAusesCHVF
+C0681814,C0450442,USES,research study,Agent,resa,chvf,21,USES_RESAusesCHVF
+C0681814,C0682897,USES,research study,flavor enhancers,resa,chvf,1,USES_RESAusesCHVF
+C0681814,C1513403,USES,research study,Molecular Target,resa,chvf,1,USES_RESAusesCHVF
+C0681814,C1550600,USES,research study,Ingredient,resa,chvf,1,USES_RESAusesCHVF
+C0681814,C2347609,USES,research study,Chemical Probe,resa,chvf,8,USES_RESAusesCHVF
+C0681829,C0243077,USES,in vivo study,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C0681833,C0243077,USES,Basic Research,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C0681833,C2347609,USES,Basic Research,Chemical Probe,resa,chvf,2,USES_RESAusesCHVF
+C0681854,C0243077,USES,cell culture study,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C0681867,C0038891,USES,Controlled Study,Chemical Surfactants,resa,chvf,1,USES_RESAusesCHVF
+C0683933,C0450442,USES,scientific research,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0683935,C0450442,USES,research program,Agent,resa,chvf,1,USES_RESAusesCHVF
+C0870071,C0243077,USES,Modeling,inhibitors,resa,chvf,2,USES_RESAusesCHVF
+C0870071,C0450442,USES,Modeling,Agent,resa,chvf,3,USES_RESAusesCHVF
+C0870071,C1550600,USES,Modeling,Ingredient,resa,chvf,2,USES_RESAusesCHVF
+C0871424,C0243077,USES,statistical analysis,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C0871424,C2985522,USES,statistical analysis,Odorants,resa,chvf,1,USES_RESAusesCHVF
+C0920317,C1550600,USES,Meta Analysis (statistical procedure),Ingredient,resa,chvf,1,USES_RESAusesCHVF
+C0920472,C1513403,USES,Drug Discovery,Molecular Target,resa,chvf,7,USES_RESAusesCHVF
+C1515653,C0085403,USES,In Vitro Assay,Oxidants,resa,chvf,1,USES_RESAusesCHVF
+C1515653,C0243077,USES,In Vitro Assay,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C1515654,C0243077,USES,In Vitro Model,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C1516634,C0243077,USES,research clinical testing,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C1516769,C0243077,USES,Computational Technique,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C1519941,C0243077,USES,Validation,inhibitors,resa,chvf,4,USES_RESAusesCHVF
+C1519941,C1513403,USES,Validation,Molecular Target,resa,chvf,3,USES_RESAusesCHVF
+C1519941,C2347609,USES,Validation,Chemical Probe,resa,chvf,1,USES_RESAusesCHVF
+C1882358,C0243077,USES,Phase 0 Trial,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C2348164,C0243077,USES,Screening Study,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C2603343,C0016198,USES,Study,Flame Retardants,resa,chvf,1,USES_RESAusesCHVF
+C2603343,C0038891,USES,Study,Chemical Surfactants,resa,chvf,1,USES_RESAusesCHVF
+C2603343,C0243076,USES,Study,antagonists,resa,chvf,2,USES_RESAusesCHVF
+C2603343,C0243077,USES,Study,inhibitors,resa,chvf,15,USES_RESAusesCHVF
+C2603343,C0450442,USES,Study,Agent,resa,chvf,28,USES_RESAusesCHVF
+C2603343,C0920584,USES,Study,metal working fluid,resa,chvf,1,USES_RESAusesCHVF
+C2603343,C1550600,USES,Study,Ingredient,resa,chvf,3,USES_RESAusesCHVF
+C2603343,C2347609,USES,Study,Chemical Probe,resa,chvf,2,USES_RESAusesCHVF
+C3274035,C0243076,USES,Interventional Study,antagonists,resa,chvf,1,USES_RESAusesCHVF
+C4277728,C0243077,USES,Pharmaceutical Research,inhibitors,resa,chvf,1,USES_RESAusesCHVF
+C4277728,C0450442,USES,Pharmaceutical Research,Agent,resa,chvf,1,USES_RESAusesCHVF

@@ -1,0 +1,48 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001111,C0011065,AFFECTS,Acid Rain,Cessation of life,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0001869,C0011065,AFFECTS,Air Pollutants,Cessation of life,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0002073,C0011065,AFFECTS,Alkylating Agents,Cessation of life,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0007022,C0008810,AFFECTS,Carbon Tetrachloride,Circadian Rhythms,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0007090,C0018270,AFFECTS,Carcinogens,Growth,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0012141,C0020967,AFFECTS,Dieldrin,Humoral Immunity,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0014264,C1327413,AFFECTS,Endotoxins,cytokine production,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0014417,C0004048,AFFECTS,Environmental Pollutants,Inspiration function,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0014417,C0035150,AFFECTS,Environmental Pollutants,Reproduction,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0015919,C0018270,AFFECTS,Fertilizers,Growth,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0016564,C0015895,AFFECTS,formaldehyde,Fertility,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0016564,C0035150,AFFECTS,formaldehyde,Reproduction,hops,orgf,4,AFFECTS_HOPSafctORGF
+C0020361,C0013470,AFFECTS,Hydroxyindoleacetic Acid,Eating,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0022108,C0004048,AFFECTS,Irritants,Inspiration function,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0022108,C0678889,AFFECTS,Irritants,Immunoregulation,hops,orgf,2,AFFECTS_HOPSafctORGF
+C0024192,C0009637,AFFECTS,Lye,Conception,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0025800,C0009637,AFFECTS,Methylnitronitrosoguanidine,Conception,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0026879,C0035150,AFFECTS,Mutagens,Reproduction,hops,orgf,3,AFFECTS_HOPSafctORGF
+C0026955,C0018270,AFFECTS,Mycotoxins,Growth,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0026955,C0020966,AFFECTS,Mycotoxins,Cellular Immunity,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0026955,C0678889,AFFECTS,Mycotoxins,Immunoregulation,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0028040,C0013470,AFFECTS,nicotine,Eating,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0028040,C0678889,AFFECTS,nicotine,Immunoregulation,hops,orgf,3,AFFECTS_HOPSafctORGF
+C0031253,C0015895,AFFECTS,Pesticides,Fertility,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0031253,C0032961,AFFECTS,Pesticides,Pregnancy,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0037601,C0011065,AFFECTS,solanine,Cessation of life,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0038777,C0018270,AFFECTS,sulfur dioxide,Growth,hops,orgf,2,AFFECTS_HOPSafctORGF
+C0039536,C0032961,AFFECTS,Teratogens,Pregnancy,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0039635,C0005823,AFFECTS,tetrachlorodibenzodioxin,Blood Pressure,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0039736,C0032961,AFFECTS,thalidomide,Pregnancy,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0039736,C0678889,AFFECTS,thalidomide,Immunoregulation,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0039736,C1327441,AFFECTS,thalidomide,negative regulation of inflammatory response,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0040845,C0005823,AFFECTS,tretinoin,Blood Pressure,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0040845,C0678723,AFFECTS,tretinoin,Biologic Development,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0066256,C0018270,AFFECTS,methyl isocyanate,Growth,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0162787,C1148523,AFFECTS,Chlorofluorocarbons,Childbirth,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0221793,C0019516,AFFECTS,Opiate Alkaloids,Hibernation,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0221793,C0023946,AFFECTS,Opiate Alkaloids,Locomotion,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0242402,C0011065,AFFECTS,Opioids,Cessation of life,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0303927,C0018270,AFFECTS,Algicides,Growth,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0376196,C0013470,AFFECTS,Opiates,Eating,hops,orgf,2,AFFECTS_HOPSafctORGF
+C0376196,C0037313,AFFECTS,Opiates,Sleep,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0444414,C0018270,AFFECTS,Biocides,Growth,hops,orgf,3,AFFECTS_HOPSafctORGF
+C0597329,C0018270,AFFECTS,Pyrethroids,Growth,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0599787,C0278054,AFFECTS,toxicant,Male reproductive function,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0599787,C2936272,AFFECTS,toxicant,Circadian Clocks,hops,orgf,1,AFFECTS_HOPSafctORGF
+C0729417,C0006159,AFFECTS,Mosquito repellant,Breeding,hops,orgf,1,AFFECTS_HOPSafctORGF

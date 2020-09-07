@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0020971,C0011991,NEG_PREVENTS,Immunization,Diarrhea,topp,sosy,1,NEG_PREVENTS_TOPPnprevSOSY
+C0042196,C0011991,NEG_PREVENTS,Vaccination,Diarrhea,topp,sosy,2,NEG_PREVENTS_TOPPnprevSOSY
+C0042196,C0392171,NEG_PREVENTS,Vaccination,Influenza-like symptoms,topp,sosy,1,NEG_PREVENTS_TOPPnprevSOSY
+C0042200,C0392171,NEG_PREVENTS,Influenza vaccination,Influenza-like symptoms,topp,sosy,1,NEG_PREVENTS_TOPPnprevSOSY
+C0189476,C0476273,NEG_PREVENTS,Insertion of pleural tube drain,Respiratory distress,topp,sosy,1,NEG_PREVENTS_TOPPnprevSOSY
+C0349707,C0010200,NEG_PREVENTS,Aspiration-action,Coughing,topp,sosy,1,NEG_PREVENTS_TOPPnprevSOSY
+C0677908,C0043144,NEG_PREVENTS,Maintenance therapy,Wheezing,topp,sosy,1,NEG_PREVENTS_TOPPnprevSOSY
+C1293494,C0003578,NEG_PREVENTS,Mouth closure,Apnea,topp,sosy,1,NEG_PREVENTS_TOPPnprevSOSY

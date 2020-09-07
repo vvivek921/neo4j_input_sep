@@ -1,0 +1,64 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001645,C0273115,CAUSES,Adrenergic beta-Antagonists,Lung Injury,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0003204,C0032343,CAUSES,Anti-Infective Agents,Poisoning,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0003209,C0010957,CAUSES,Anti-Inflammatory Agents,Tissue damage,phsu,inpo,2,CAUSES_PHSUcausINPO
+C0003209,C0242488,CAUSES,Anti-Inflammatory Agents,Acute Lung Injury,phsu,inpo,2,CAUSES_PHSUcausINPO
+C0003209,C0270611,CAUSES,Anti-Inflammatory Agents,Brain Injuries,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0003209,C0273115,CAUSES,Anti-Inflammatory Agents,Lung Injury,phsu,inpo,4,CAUSES_PHSUcausINPO
+C0003211,C0160390,CAUSES,"Anti-Inflammatory Agents, Non-Steroidal",Injury of liver,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0003211,C0160420,CAUSES,"Anti-Inflammatory Agents, Non-Steroidal",Injury of kidney,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0003211,C0595916,CAUSES,"Anti-Inflammatory Agents, Non-Steroidal",Toxic nephropathy,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0003297,C0600688,CAUSES,Antiemetics,Toxic effect,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0003374,C0876994,CAUSES,Antimalarials,Cardiotoxicity,phsu,inpo,2,CAUSES_PHSUcausINPO
+C0003402,C0010957,CAUSES,Antioxidants,Tissue damage,phsu,inpo,2,CAUSES_PHSUcausINPO
+C0003402,C0270611,CAUSES,Antioxidants,Brain Injuries,phsu,inpo,2,CAUSES_PHSUcausINPO
+C0003402,C0600688,CAUSES,Antioxidants,Toxic effect,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0003417,C0032343,CAUSES,Antipruritics,Poisoning,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0003448,C0235378,CAUSES,Antitubercular Agents,Hepatotoxicity,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0003451,C0160420,CAUSES,Antiviral Agents,Injury of kidney,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0003451,C0876994,CAUSES,Antiviral Agents,Cardiotoxicity,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0010858,C0600688,CAUSES,Cytostatic Agents,Toxic effect,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0013162,C0235378,CAUSES,Drug Combinations,Hepatotoxicity,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0033607,C0010957,CAUSES,Protease Inhibitors,Tissue damage,phsu,inpo,2,CAUSES_PHSUcausINPO
+C0033607,C0441718,CAUSES,Protease Inhibitors,Direct trauma,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0242910,C2945681,CAUSES,Excitatory Amino Acid Antagonists,ischemic brain injury,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0243042,C0010957,CAUSES,Inflammation Mediators,Tissue damage,phsu,inpo,3,CAUSES_PHSUcausINPO
+C0243042,C0273115,CAUSES,Inflammation Mediators,Lung Injury,phsu,inpo,2,CAUSES_PHSUcausINPO
+C0243042,C0441718,CAUSES,Inflammation Mediators,Direct trauma,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0243042,C2905612,CAUSES,Inflammation Mediators,Storm NOS,phsu,inpo,4,CAUSES_PHSUcausINPO
+C0243042,C3203359,CAUSES,Inflammation Mediators,Rupture,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0243042,C4552279,CAUSES,Inflammation Mediators,Tissue injury,phsu,inpo,2,CAUSES_PHSUcausINPO
+C0250480,C0876994,CAUSES,piperacillin-tazobactam combination,Cardiotoxicity,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0280077,C0600688,CAUSES,Adrenal Agent,Toxic effect,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0304229,C0600688,CAUSES,Experimental drug,Toxic effect,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0456388,C0242488,CAUSES,Blood product,Acute Lung Injury,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0456388,C0273115,CAUSES,Blood product,Lung Injury,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0599685,C0235378,CAUSES,Anti-Retroviral Agents,Hepatotoxicity,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0935929,C0848174,CAUSES,Antidiabetics,over-exposure,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0939237,C0235378,CAUSES,lopinavir / Ritonavir,Hepatotoxicity,phsu,inpo,1,CAUSES_PHSUcausINPO
+C0949854,C0235378,CAUSES,Plant Preparations,Hepatotoxicity,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1136254,C0600688,CAUSES,Microbicides,Toxic effect,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1445706,C0016479,CAUSES,Microbial agent,Food Poisoning,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1445706,C4552279,CAUSES,Microbial agent,Tissue injury,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1516250,C0600688,CAUSES,Carbohydrate Processing Inhibitor,Toxic effect,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1517498,C0600688,CAUSES,Gene Transduction Agent,Toxic effect,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1520007,C0560617,CAUSES,Viral Vector,knocked out,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1520007,C0600688,CAUSES,Viral Vector,Toxic effect,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1562036,C2609414,CAUSES,Calcineurin inhibitor,Acute kidney injury,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1874451,C0010957,CAUSES,Basis,Tissue damage,phsu,inpo,3,CAUSES_PHSUcausINPO
+C1874451,C0036114,CAUSES,Basis,Salmonella food poisoning,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1874451,C0242488,CAUSES,Basis,Acute Lung Injury,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1874451,C0273115,CAUSES,Basis,Lung Injury,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1874451,C0521819,CAUSES,Basis,Vaccination failure,phsu,inpo,2,CAUSES_PHSUcausINPO
+C1874451,C0549421,CAUSES,Basis,Cartilage damage,phsu,inpo,1,CAUSES_PHSUcausINPO
+C1874451,C0600688,CAUSES,Basis,Toxic effect,phsu,inpo,1,CAUSES_PHSUcausINPO
+C2743371,C0235378,CAUSES,Exilis,Hepatotoxicity,phsu,inpo,1,CAUSES_PHSUcausINPO
+C3539125,C0010957,CAUSES,other medicated shampoos in ATC,Tissue damage,phsu,inpo,1,CAUSES_PHSUcausINPO
+C3539125,C0036601,CAUSES,other medicated shampoos in ATC,Self Mutilation,phsu,inpo,1,CAUSES_PHSUcausINPO
+C3539125,C0160420,CAUSES,other medicated shampoos in ATC,Injury of kidney,phsu,inpo,1,CAUSES_PHSUcausINPO
+C3539125,C0242488,CAUSES,other medicated shampoos in ATC,Acute Lung Injury,phsu,inpo,1,CAUSES_PHSUcausINPO
+C3539125,C0560617,CAUSES,other medicated shampoos in ATC,knocked out,phsu,inpo,1,CAUSES_PHSUcausINPO
+C3539125,C0870679,CAUSES,other medicated shampoos in ATC,iatrogenic effects,phsu,inpo,1,CAUSES_PHSUcausINPO
+C3539125,C1710055,CAUSES,other medicated shampoos in ATC,Serious Injury,phsu,inpo,1,CAUSES_PHSUcausINPO
+C3539125,C2609414,CAUSES,other medicated shampoos in ATC,Acute kidney injury,phsu,inpo,1,CAUSES_PHSUcausINPO
+C3539125,C2905612,CAUSES,other medicated shampoos in ATC,Storm NOS,phsu,inpo,1,CAUSES_PHSUcausINPO

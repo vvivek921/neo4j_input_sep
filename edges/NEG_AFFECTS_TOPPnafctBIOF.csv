@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0020971,C0003261,NEG_AFFECTS,Immunization,Antibody Formation,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0020975,C0003261,NEG_AFFECTS,Secondary Immunization,Antibody Formation,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0021107,C0042765,NEG_AFFECTS,Implantation procedure,Virulence,topp,biof,2,NEG_AFFECTS_TOPPnafctBIOF
+C0021107,C0220781,NEG_AFFECTS,Implantation procedure,Anabolism,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0022100,C0232478,NEG_AFFECTS,Irrigation,Ingestion,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0040732,C0220781,NEG_AFFECTS,Transplantation,Anabolism,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0042196,C0003261,NEG_AFFECTS,Vaccination,Antibody Formation,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0042196,C0242735,NEG_AFFECTS,Vaccination,Germination,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0052712,C0003261,NEG_AFFECTS,doxorubicin/mitomycin/vinblastine protocol,Antibody Formation,topp,biof,2,NEG_AFFECTS_TOPPnafctBIOF
+C0185027,C0013203,NEG_AFFECTS,Imbrication (procedure),Drug resistance,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0185115,C0220781,NEG_AFFECTS,Extraction,Anabolism,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0204727,C0596824,NEG_AFFECTS,Isolation procedure,latent virus infection process,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0204727,C1721019,NEG_AFFECTS,Isolation procedure,Virus Attachment,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0376495,C0042765,NEG_AFFECTS,Retreatments,Virulence,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0418981,C0042765,NEG_AFFECTS,Medical therapy,Virulence,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0547070,C0220781,NEG_AFFECTS,Ablation,Anabolism,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0556570,C0282629,NEG_AFFECTS,Activity analysis,Virus Assembly,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C0556570,C1537068,NEG_AFFECTS,Activity analysis,Virus Internalization,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF
+C1511790,C1721019,NEG_AFFECTS,Detection,Virus Attachment,topp,biof,1,NEG_AFFECTS_TOPPnafctBIOF

@@ -1,0 +1,1470 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000731,C0013604,CAUSES,Abdomen distended,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0003126,C0028778,CAUSES,Anosmia,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0005758,C0274411,CAUSES,Bulla,Subcutaneous emphysema resulting from a procedure,fndg,patf,1,CAUSES_FNDGcausPATF
+C0006905,C0019080,CAUSES,Capillary Fragility,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0007166,C0022116,CAUSES,Low Cardiac Output,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0007166,C0028778,CAUSES,Low Cardiac Output,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0007294,C0019080,CAUSES,Genetic Carriers,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0007294,C0021368,CAUSES,Genetic Carriers,Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C0007294,C3714514,CAUSES,Genetic Carriers,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0009488,C0021368,CAUSES,Comorbidity,Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C0009488,C0021376,CAUSES,Comorbidity,Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0009488,C0041755,CAUSES,Comorbidity,Adverse reaction to drug,fndg,patf,2,CAUSES_FNDGcausPATF
+C0009488,C0161816,CAUSES,Comorbidity,Cardiac complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C0009488,C0242656,CAUSES,Comorbidity,Disease Progression,fndg,patf,1,CAUSES_FNDGcausPATF
+C0009488,C0398353,CAUSES,Comorbidity,Hypercapnic respiratory failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C0009488,C0442856,CAUSES,Comorbidity,Hypoperfusion,fndg,patf,1,CAUSES_FNDGcausPATF
+C0009488,C0452115,CAUSES,Comorbidity,Infection following immunization,fndg,patf,1,CAUSES_FNDGcausPATF
+C0009488,C1373218,CAUSES,Comorbidity,Decreased Immunologic Activity [PE],fndg,patf,2,CAUSES_FNDGcausPATF
+C0009488,C3658208,CAUSES,Comorbidity,Dysbiosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0009940,C3714514,CAUSES,Convalescence,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C0010038,C0155003,CAUSES,Corneal Opacity,"Blindness, Transient",fndg,patf,1,CAUSES_FNDGcausPATF
+C0010840,C0011304,CAUSES,Vacuolation,Demyelination,fndg,patf,3,CAUSES_FNDGcausPATF
+C0010840,C0028778,CAUSES,Vacuolation,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0010840,C0333456,CAUSES,Vacuolation,Primary demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C0014007,C0020564,CAUSES,Employment Termination,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0015663,C0020517,CAUSES,Fasting,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0015663,C0151521,CAUSES,Fasting,Bacterial resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0015663,C0333641,CAUSES,Fasting,Atrophic,fndg,patf,1,CAUSES_FNDGcausPATF
+C0015663,C3714514,CAUSES,Fasting,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0017747,C0021368,CAUSES,Increased glucose level,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0018800,C0013604,CAUSES,Cardiomegaly,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020440,C0001122,CAUSES,Hypercapnia,Acidosis,fndg,patf,2,CAUSES_FNDGcausPATF
+C0020440,C0013604,CAUSES,Hypercapnia,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020440,C0242656,CAUSES,Hypercapnia,Disease Progression,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020461,C0024348,CAUSES,Hyperkalemia,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020461,C0541782,CAUSES,Hyperkalemia,Atrial standstill,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020505,C0021655,CAUSES,Hyperphagia,Insulin Resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020578,C0002064,CAUSES,Hyperventilation,"Alkalosis, Respiratory",fndg,patf,8,CAUSES_FNDGcausPATF
+C0020578,C0022116,CAUSES,Hyperventilation,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020578,C0034065,CAUSES,Hyperventilation,Pulmonary Embolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020578,C0220981,CAUSES,Hyperventilation,Metabolic acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020578,C0268030,CAUSES,Hyperventilation,Acidemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020580,C0342579,CAUSES,Hypesthesia,Electrolyte imbalance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020621,C0013604,CAUSES,Hypokalemia,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020649,C0004144,CAUSES,Hypotension,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020649,C0011071,CAUSES,Hypotension,Sudden death,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020649,C0019080,CAUSES,Hypotension,Hemorrhage,fndg,patf,2,CAUSES_FNDGcausPATF
+C0020649,C0021308,CAUSES,Hypotension,Infarction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020649,C0022116,CAUSES,Hypotension,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020649,C0026766,CAUSES,Hypotension,Multiple Organ Failure,fndg,patf,4,CAUSES_FNDGcausPATF
+C0020649,C0036974,CAUSES,Hypotension,Shock,fndg,patf,3,CAUSES_FNDGcausPATF
+C0020649,C0151763,CAUSES,Hypotension,Liver damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020649,C0232342,CAUSES,Hypotension,Decreased vascular flow,fndg,patf,2,CAUSES_FNDGcausPATF
+C0020649,C0235395,CAUSES,Hypotension,Fluid loss,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020649,C0242184,CAUSES,Hypotension,Hypoxia,fndg,patf,3,CAUSES_FNDGcausPATF
+C0020649,C0442856,CAUSES,Hypotension,Hypoperfusion,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020649,C0920569,CAUSES,Hypotension,hepatic ischemia,fndg,patf,2,CAUSES_FNDGcausPATF
+C0020649,C1155266,CAUSES,Hypotension,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020672,C0541782,CAUSES,"Hypothermia, natural",Atrial standstill,fndg,patf,1,CAUSES_FNDGcausPATF
+C0020672,C0679429,CAUSES,"Hypothermia, natural",platelet dysfunction,fndg,patf,2,CAUSES_FNDGcausPATF
+C0021294,C0011304,CAUSES,"Infant, Premature",Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C0021294,C0019080,CAUSES,"Infant, Premature",Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0021294,C0034088,CAUSES,"Infant, Premature",Pulmonary Valve Insufficiency,fndg,patf,1,CAUSES_FNDGcausPATF
+C0021294,C0036679,CAUSES,"Infant, Premature",Diastasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0021294,C0235063,CAUSES,"Infant, Premature",Respiratory Depression,fndg,patf,1,CAUSES_FNDGcausPATF
+C0021294,C0243069,CAUSES,"Infant, Premature",Hypoplasia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0021294,C0333138,CAUSES,"Infant, Premature",Stasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0021294,C1155266,CAUSES,"Infant, Premature",Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0026635,C0002940,CAUSES,Mouth Breathing,Aneurysm,fndg,patf,1,CAUSES_FNDGcausPATF
+C0026635,C0028778,CAUSES,Mouth Breathing,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0026826,C0031542,CAUSES,Muscle Hypertonia,Phlebitis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0026826,C0683370,CAUSES,Muscle Hypertonia,hypermotility,fndg,patf,1,CAUSES_FNDGcausPATF
+C0029053,C0004144,CAUSES,Decreased translucency,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0029053,C0020564,CAUSES,Decreased translucency,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0029053,C0242781,CAUSES,Decreased translucency,disease transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C0030232,C0022116,CAUSES,Pallor,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0030318,C0036974,CAUSES,Panic,Shock,fndg,patf,2,CAUSES_FNDGcausPATF
+C0030563,C0013604,CAUSES,Parity,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0030563,C0021368,CAUSES,Parity,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0032646,C0004144,CAUSES,Poor compliance,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0032972,C0015927,CAUSES,Pregnancy Outcome,Fetal Death,fndg,patf,1,CAUSES_FNDGcausPATF
+C0032989,C0151526,CAUSES,Multiple Pregnancy,Premature Birth,fndg,patf,1,CAUSES_FNDGcausPATF
+C0033213,C0011304,CAUSES,Problem,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C0033213,C0020517,CAUSES,Problem,Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
+C0033213,C0020963,CAUSES,Problem,Immune Tolerance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0033213,C0021368,CAUSES,Problem,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0033213,C0022116,CAUSES,Problem,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0033213,C0035228,CAUSES,Problem,Respiratory Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
+C0033213,C0036679,CAUSES,Problem,Diastasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0033213,C0036974,CAUSES,Problem,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0033213,C0919691,CAUSES,Problem,Anastomotic Leak,fndg,patf,1,CAUSES_FNDGcausPATF
+C0033213,C1373218,CAUSES,Problem,Decreased Immunologic Activity [PE],fndg,patf,2,CAUSES_FNDGcausPATF
+C0033213,C1383860,CAUSES,Problem,Cardiac Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0033213,C3714514,CAUSES,Problem,Infection,fndg,patf,3,CAUSES_FNDGcausPATF
+C0033687,C0700148,CAUSES,Proteinuria,Congestion,fndg,patf,1,CAUSES_FNDGcausPATF
+C0035232,C0004144,CAUSES,Respiratory Paralysis,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0035232,C0398353,CAUSES,Respiratory Paralysis,Hypercapnic respiratory failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C0035648,C0011164,CAUSES,risk factors,Abnormal degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0035648,C0021368,CAUSES,risk factors,Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C0035648,C0021376,CAUSES,risk factors,Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0035648,C0087086,CAUSES,risk factors,Thrombus,fndg,patf,2,CAUSES_FNDGcausPATF
+C0035648,C0151526,CAUSES,risk factors,Premature Birth,fndg,patf,1,CAUSES_FNDGcausPATF
+C0035648,C0543419,CAUSES,risk factors,Sequela of disorder,fndg,patf,2,CAUSES_FNDGcausPATF
+C0035648,C0854460,CAUSES,risk factors,Indirect Transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C0035648,C0919924,CAUSES,risk factors,pulmonary toxicity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0035648,C1155266,CAUSES,risk factors,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0035648,C3714514,CAUSES,risk factors,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C0037316,C3658208,CAUSES,Sleep Deprivation,Dysbiosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0037420,C0015376,CAUSES,Social Interaction,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0037420,C3714514,CAUSES,Social Interaction,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038002,C0020564,CAUSES,Splenomegaly,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038187,C0028778,CAUSES,Starvation,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038187,C0041582,CAUSES,Starvation,Ulcer,fndg,patf,4,CAUSES_FNDGcausPATF
+C0038187,C0333641,CAUSES,Starvation,Atrophic,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C0001349,CAUSES,Stress,Acute-Phase Reaction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C0011071,CAUSES,Stress,Sudden death,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C0015376,CAUSES,Stress,Extravasation,fndg,patf,3,CAUSES_FNDGcausPATF
+C0038435,C0016059,CAUSES,Stress,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C0020517,CAUSES,Stress,Hypersensitivity,fndg,patf,3,CAUSES_FNDGcausPATF
+C0038435,C0020564,CAUSES,Stress,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C0021368,CAUSES,Stress,Inflammation,fndg,patf,16,CAUSES_FNDGcausPATF
+C0038435,C0021376,CAUSES,Stress,Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C0021655,CAUSES,Stress,Insulin Resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C0025222,CAUSES,Stress,Melena,fndg,patf,2,CAUSES_FNDGcausPATF
+C0038435,C0026766,CAUSES,Stress,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C0030660,CAUSES,Stress,Pathologic Processes,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C0036679,CAUSES,Stress,Diastasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C0036974,CAUSES,Stress,Shock,fndg,patf,2,CAUSES_FNDGcausPATF
+C0038435,C0041582,CAUSES,Stress,Ulcer,fndg,patf,6,CAUSES_FNDGcausPATF
+C0038435,C0161816,CAUSES,Stress,Cardiac complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C0231302,CAUSES,Stress,Physical stress,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C0242184,CAUSES,Stress,Hypoxia,fndg,patf,4,CAUSES_FNDGcausPATF
+C0038435,C0543419,CAUSES,Stress,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C1155266,CAUSES,Stress,Inflammatory Response,fndg,patf,4,CAUSES_FNDGcausPATF
+C0038435,C1373218,CAUSES,Stress,Decreased Immunologic Activity [PE],fndg,patf,15,CAUSES_FNDGcausPATF
+C0038435,C1520005,CAUSES,Stress,Viral Pathogenesis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C1720824,CAUSES,Stress,Sudden Cardiac Arrest,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038435,C3658208,CAUSES,Stress,Dysbiosis,fndg,patf,2,CAUSES_FNDGcausPATF
+C0038435,C3714514,CAUSES,Stress,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C0038435,C4545429,CAUSES,Stress,Perioperative complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038990,C0020517,CAUSES,Sweating,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038999,C0004044,CAUSES,Swelling,Asphyxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0038999,C0036679,CAUSES,Swelling,Diastasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0039231,C0033677,CAUSES,Tachycardia,Protein-Energy Malnutrition,fndg,patf,1,CAUSES_FNDGcausPATF
+C0039231,C0151686,CAUSES,Tachycardia,Growth retardation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0039231,C0520863,CAUSES,Tachycardia,Diastolic dysfunction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0039231,C0546817,CAUSES,Tachycardia,Fluid overload,fndg,patf,1,CAUSES_FNDGcausPATF
+C0039231,C3658220,CAUSES,Tachycardia,Atrial Remodeling,fndg,patf,1,CAUSES_FNDGcausPATF
+C0039446,C0019080,CAUSES,Telangiectasis,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0040509,C0004144,CAUSES,Total Lung Capacity,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0041657,C3714514,CAUSES,Unconscious State,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0041674,C0036974,CAUSES,Unemployment,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0041747,C0032987,CAUSES,Unplanned pregnancy,Ectopic Pregnancy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0043084,C0019123,CAUSES,Weaning,Hemothorax,fndg,patf,1,CAUSES_FNDGcausPATF
+C0043084,C0034063,CAUSES,Weaning,Pulmonary Edema,fndg,patf,2,CAUSES_FNDGcausPATF
+C0043084,C0036974,CAUSES,Weaning,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0043094,C0013604,CAUSES,Weight Gain,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0043094,C0021376,CAUSES,Weight Gain,Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0043094,C0021655,CAUSES,Weight Gain,Insulin Resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0043094,C0920563,CAUSES,Weight Gain,Insulin Sensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0085393,C0007642,CAUSES,Immunocompromised Host,Cellulitis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0085393,C0021368,CAUSES,Immunocompromised Host,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0085393,C0598905,CAUSES,Immunocompromised Host,multiorgan damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0085393,C3714514,CAUSES,Immunocompromised Host,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C0085607,C0015376,CAUSES,Increased blood volume,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0085607,C0034063,CAUSES,Increased blood volume,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0085639,C0036974,CAUSES,Falls,Shock,fndg,patf,3,CAUSES_FNDGcausPATF
+C0085639,C0036983,CAUSES,Falls,Septic Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0085639,C0232342,CAUSES,Falls,Decreased vascular flow,fndg,patf,1,CAUSES_FNDGcausPATF
+C0085639,C0242781,CAUSES,Falls,disease transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C0085988,C1373218,CAUSES,Cephalopelvic Disproportion,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C0086439,C0595938,CAUSES,Hypokinesia,effect increased,fndg,patf,1,CAUSES_FNDGcausPATF
+C0086565,C0001122,CAUSES,Liver Dysfunction,Acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0086565,C0006114,CAUSES,Liver Dysfunction,Cerebral Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0086565,C0019080,CAUSES,Liver Dysfunction,Hemorrhage,fndg,patf,2,CAUSES_FNDGcausPATF
+C0087130,C0020517,CAUSES,Uncertainty,Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
+C0087130,C0242648,CAUSES,Uncertainty,Vertical Disease Transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C0087130,C0424786,CAUSES,Uncertainty,Postoperative fever,fndg,patf,1,CAUSES_FNDGcausPATF
+C0087130,C0543419,CAUSES,Uncertainty,Sequela of disorder,fndg,patf,2,CAUSES_FNDGcausPATF
+C0087130,C1155266,CAUSES,Uncertainty,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0087130,C4061114,CAUSES,Uncertainty,Acute illness,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150034,C0242184,CAUSES,Impaired gas exchange,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0001511,CAUSES,Present,Tissue Adhesions,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0002994,CAUSES,Present,Angioedema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0005417,CAUSES,Present,Biliary Fistula,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0011164,CAUSES,Present,Abnormal degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0011304,CAUSES,Present,Demyelination,fndg,patf,5,CAUSES_FNDGcausPATF
+C0150312,C0013604,CAUSES,Present,Edema,fndg,patf,4,CAUSES_FNDGcausPATF
+C0150312,C0013990,CAUSES,Present,Pathological accumulation of air in tissues,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0019080,CAUSES,Present,Hemorrhage,fndg,patf,2,CAUSES_FNDGcausPATF
+C0150312,C0020507,CAUSES,Present,Hyperplasia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0020517,CAUSES,Present,Hypersensitivity,fndg,patf,20,CAUSES_FNDGcausPATF
+C0150312,C0020581,CAUSES,Present,Hyphema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0020963,CAUSES,Present,Immune Tolerance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0021368,CAUSES,Present,Inflammation,fndg,patf,11,CAUSES_FNDGcausPATF
+C0150312,C0021376,CAUSES,Present,Chronic inflammation,fndg,patf,4,CAUSES_FNDGcausPATF
+C0150312,C0024348,CAUSES,Present,Lysis,fndg,patf,4,CAUSES_FNDGcausPATF
+C0150312,C0027686,CAUSES,Present,Pathologic Neovascularization,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0028778,CAUSES,Present,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0034063,CAUSES,Present,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0034088,CAUSES,Present,Pulmonary Valve Insufficiency,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0036679,CAUSES,Present,Diastasis,fndg,patf,3,CAUSES_FNDGcausPATF
+C0150312,C0036974,CAUSES,Present,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0040038,CAUSES,Present,Thromboembolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0041582,CAUSES,Present,Ulcer,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0087086,CAUSES,Present,Thrombus,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0151521,CAUSES,Present,Bacterial resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0151526,CAUSES,Present,Premature Birth,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0151686,CAUSES,Present,Growth retardation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0162633,CAUSES,Present,Viral Shedding,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0235395,CAUSES,Present,Fluid loss,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0239189,CAUSES,Present,Disaccharide intolerance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0242656,CAUSES,Present,Disease Progression,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0242781,CAUSES,Present,disease transmission,fndg,patf,2,CAUSES_FNDGcausPATF
+C0150312,C0268030,CAUSES,Present,Acidemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0302148,CAUSES,Present,Blood Clot,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0332448,CAUSES,Present,Infiltration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0333355,CAUSES,Present,Inflammatory disease of mucous membrane,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0333641,CAUSES,Present,Atrophic,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0443146,CAUSES,Present,Autoimmune reaction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0854457,CAUSES,Present,Direct disease transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C0854460,CAUSES,Present,Indirect Transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C1155266,CAUSES,Present,Inflammatory Response,fndg,patf,5,CAUSES_FNDGcausPATF
+C0150312,C1262018,CAUSES,Present,Graft failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C1265824,CAUSES,Present,Persistent inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C1373218,CAUSES,Present,Decreased Immunologic Activity [PE],fndg,patf,3,CAUSES_FNDGcausPATF
+C0150312,C1511605,CAUSES,Present,Cystic Change,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C2717792,CAUSES,Present,Airway Remodeling,fndg,patf,1,CAUSES_FNDGcausPATF
+C0150312,C3658208,CAUSES,Present,Dysbiosis,fndg,patf,2,CAUSES_FNDGcausPATF
+C0150312,C3714514,CAUSES,Present,Infection,fndg,patf,11,CAUSES_FNDGcausPATF
+C0150312,C4289744,CAUSES,Present,Contact Transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151667,C0001122,CAUSES,Increased globulin,Acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151667,C0013604,CAUSES,Increased globulin,Edema,fndg,patf,2,CAUSES_FNDGcausPATF
+C0151667,C0151701,CAUSES,Increased globulin,Pulmonary hemorrhage,fndg,patf,2,CAUSES_FNDGcausPATF
+C0151667,C0242184,CAUSES,Increased globulin,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151667,C0341750,CAUSES,Increased globulin,Bladder hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151683,C0700148,CAUSES,Neutrophilia (finding),Congestion,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151683,C1155266,CAUSES,Neutrophilia (finding),Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151692,C0016059,CAUSES,Impaired wound healing,Fibrosis,fndg,patf,2,CAUSES_FNDGcausPATF
+C0151740,C0006114,CAUSES,Intracranial Hypertension,Cerebral Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151740,C0013604,CAUSES,Intracranial Hypertension,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151740,C0151699,CAUSES,Intracranial Hypertension,Intracranial Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151872,C0019080,CAUSES,Prothrombin time increased (finding),Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151878,C0011071,CAUSES,Prolonged QT interval,Sudden death,fndg,patf,2,CAUSES_FNDGcausPATF
+C0151878,C0041755,CAUSES,Prolonged QT interval,Adverse reaction to drug,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151878,C1720824,CAUSES,Prolonged QT interval,Sudden Cardiac Arrest,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151878,C4684772,CAUSES,Prolonged QT interval,Serious Adverse Drug Reaction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151955,C3714514,CAUSES,Decreased tolerance,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0151994,C0878751,CAUSES,Enlarged uterus,late pregnancy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0156543,C0032797,CAUSES,Unspecified Abortion,Postpartum Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0162119,C0242184,CAUSES,Hemoglobin low,Hypoxia,fndg,patf,2,CAUSES_FNDGcausPATF
+C0184512,C0028778,CAUSES,Stabilized (qualifier value),Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205160,C0016059,CAUSES,Negative,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205160,C0017639,CAUSES,Negative,Gliosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205160,C0020517,CAUSES,Negative,Hypersensitivity,fndg,patf,4,CAUSES_FNDGcausPATF
+C0205160,C0021368,CAUSES,Negative,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205160,C0036679,CAUSES,Negative,Diastasis,fndg,patf,3,CAUSES_FNDGcausPATF
+C0205160,C0242184,CAUSES,Negative,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205160,C0242781,CAUSES,Negative,disease transmission,fndg,patf,2,CAUSES_FNDGcausPATF
+C0205160,C0546817,CAUSES,Negative,Fluid overload,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205160,C3714514,CAUSES,Negative,Infection,fndg,patf,10,CAUSES_FNDGcausPATF
+C0205160,C4061114,CAUSES,Negative,Acute illness,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205161,C0021368,CAUSES,Abnormal,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205161,C0027626,CAUSES,Abnormal,Neoplasm Invasiveness,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205161,C0028778,CAUSES,Abnormal,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205400,C0013604,CAUSES,Thickened,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205400,C0016059,CAUSES,Thickened,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205400,C0020564,CAUSES,Thickened,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205400,C0021308,CAUSES,Thickened,Infarction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205400,C0021368,CAUSES,Thickened,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205400,C0022116,CAUSES,Thickened,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205400,C0040053,CAUSES,Thickened,Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205400,C0042300,CAUSES,Thickened,Valvular regurgitation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205400,C0333438,CAUSES,Thickened,Hyaline degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205400,C0334145,CAUSES,Thickened,Fibrous obliteration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0205400,C1261287,CAUSES,Thickened,Stenosis,fndg,patf,3,CAUSES_FNDGcausPATF
+C0205400,C2717792,CAUSES,Thickened,Airway Remodeling,fndg,patf,2,CAUSES_FNDGcausPATF
+C0205557,C0020517,CAUSES,False Positive,Hypersensitivity,fndg,patf,5,CAUSES_FNDGcausPATF
+C0206076,C0242656,CAUSES,Reproductive History,Disease Progression,fndg,patf,1,CAUSES_FNDGcausPATF
+C0206160,C0333276,CAUSES,Reticulocytosis,Acute hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221082,C0019123,CAUSES,adverse effect due to surgery,Hemothorax,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221082,C0021368,CAUSES,adverse effect due to surgery,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221082,C0032788,CAUSES,adverse effect due to surgery,Postoperative Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221082,C3714514,CAUSES,adverse effect due to surgery,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C0221198,C0002940,CAUSES,Lesion,Aneurysm,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0003130,CAUSES,Lesion,Anoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0004372,CAUSES,Lesion,Autolysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0008767,CAUSES,Lesion,Cicatrization,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0011071,CAUSES,Lesion,Sudden death,fndg,patf,2,CAUSES_FNDGcausPATF
+C0221198,C0011304,CAUSES,Lesion,Demyelination,fndg,patf,9,CAUSES_FNDGcausPATF
+C0221198,C0012359,CAUSES,Lesion,Pathological Dilatation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0013418,CAUSES,Lesion,Dystocia,fndg,patf,2,CAUSES_FNDGcausPATF
+C0221198,C0013604,CAUSES,Lesion,Edema,fndg,patf,2,CAUSES_FNDGcausPATF
+C0221198,C0013687,CAUSES,Lesion,effusion,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0013922,CAUSES,Lesion,Embolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0015376,CAUSES,Lesion,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0016059,CAUSES,Lesion,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0019080,CAUSES,Lesion,Hemorrhage,fndg,patf,5,CAUSES_FNDGcausPATF
+C0221198,C0020517,CAUSES,Lesion,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0021308,CAUSES,Lesion,Infarction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0021359,CAUSES,Lesion,Infertility,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0021368,CAUSES,Lesion,Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C0221198,C0022116,CAUSES,Lesion,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0026766,CAUSES,Lesion,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0026846,CAUSES,Lesion,Muscular Atrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0027544,CAUSES,Lesion,Necrotic debris,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0028778,CAUSES,Lesion,Obstruction,fndg,patf,4,CAUSES_FNDGcausPATF
+C0221198,C0034063,CAUSES,Lesion,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0035304,CAUSES,Lesion,Retinal Degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0036974,CAUSES,Lesion,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0041582,CAUSES,Lesion,Ulcer,fndg,patf,4,CAUSES_FNDGcausPATF
+C0221198,C0087086,CAUSES,Lesion,Thrombus,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0151799,CAUSES,Lesion,Skin necrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0162633,CAUSES,Lesion,Viral Shedding,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0240059,CAUSES,Lesion,Ventricular hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0333281,CAUSES,Lesion,Localized hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0333456,CAUSES,Lesion,Primary demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0333549,CAUSES,Lesion,Hemorrhagic infarct,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C0333641,CAUSES,Lesion,Atrophic,fndg,patf,3,CAUSES_FNDGcausPATF
+C0221198,C0543419,CAUSES,Lesion,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C1155266,CAUSES,Lesion,Inflammatory Response,fndg,patf,2,CAUSES_FNDGcausPATF
+C0221198,C1261287,CAUSES,Lesion,Stenosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C1373218,CAUSES,Lesion,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C3672482,CAUSES,Lesion,Soft tissue mineralization,fndg,patf,1,CAUSES_FNDGcausPATF
+C0221198,C3714514,CAUSES,Lesion,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231162,C1155266,CAUSES,Normal general body function,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231170,C0151699,CAUSES,Disability,Intracranial Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231170,C0242656,CAUSES,Disability,Disease Progression,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231172,C0456070,CAUSES,handicapping condition,Growth delay,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231187,C0034063,CAUSES,Decompensation,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231187,C0085611,CAUSES,Decompensation,Atrial arrhythmia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231221,C0011164,CAUSES,Asymptomatic,Abnormal degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231221,C0020517,CAUSES,Asymptomatic,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231221,C0026766,CAUSES,Asymptomatic,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231221,C3714514,CAUSES,Asymptomatic,Infection,fndg,patf,3,CAUSES_FNDGcausPATF
+C0231221,C4061114,CAUSES,Asymptomatic,Acute illness,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231224,C0036974,CAUSES,Crisis,Shock,fndg,patf,18,CAUSES_FNDGcausPATF
+C0231224,C3203358,CAUSES,Crisis,Hypoventilation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231224,C3714514,CAUSES,Crisis,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231337,C0013990,CAUSES,Senility,Pathological accumulation of air in tissues,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231337,C1373218,CAUSES,Senility,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C0231353,C0026846,CAUSES,Deficient Food Intake,Muscular Atrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231441,C0026846,CAUSES,Immobile,Muscular Atrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231441,C0042487,CAUSES,Immobile,Venous Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231441,C0087086,CAUSES,Immobile,Thrombus,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231441,C0232342,CAUSES,Immobile,Decreased vascular flow,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231441,C0333138,CAUSES,Immobile,Stasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231487,C0220981,CAUSES,Increased muscle function,Metabolic acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231819,C0013990,CAUSES,Air trapping,Pathological accumulation of air in tissues,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231819,C0036974,CAUSES,Air trapping,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231901,C0004144,CAUSES,Intraabdominal pressure,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231901,C0031154,CAUSES,Intraabdominal pressure,Peritonitis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231974,C0008767,CAUSES,Anatomical dead space,Cicatrization,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231974,C0012359,CAUSES,Anatomical dead space,Pathological Dilatation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0232115,C0019080,CAUSES,Increased venous pressure,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0232115,C0034063,CAUSES,Increased venous pressure,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0232341,C0020542,CAUSES,Increased vascular flow,Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
+C0232341,C0021368,CAUSES,Increased vascular flow,Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C0232346,C0040046,CAUSES,Reversed vascular flow,Thrombophlebitis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0232350,C0242184,CAUSES,Shunting vascular flow,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0232370,C0021368,CAUSES,Florid red complexion (finding),Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0232370,C1383860,CAUSES,Florid red complexion (finding),Cardiac Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0232389,C0028778,CAUSES,Abnormal keratinization,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0232459,C0151521,CAUSES,Abnormal digestive tract function,Bacterial resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0232567,C0020507,CAUSES,Hypergastrinemia (finding),Hyperplasia,fndg,patf,2,CAUSES_FNDGcausPATF
+C0232567,C0079581,CAUSES,Hypergastrinemia (finding),Hypochlorhydria,fndg,patf,1,CAUSES_FNDGcausPATF
+C0232807,C0001122,CAUSES,Decreased renal function,Acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0233174,C0021368,CAUSES,Synclitism,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0233308,C0024348,CAUSES,Spontaneous rupture of membranes,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0233315,C0340515,CAUSES,Premature birth of newborn,Myocardial dysfunction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0233481,C0036679,CAUSES,Worried,Diastasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0233481,C0036974,CAUSES,Worried,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0233481,C2004491,CAUSES,Worried,Cicatrix,fndg,patf,1,CAUSES_FNDGcausPATF
+C0234708,C0017639,CAUSES,Raised intraocular pressure (finding),Gliosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0234708,C0020564,CAUSES,Raised intraocular pressure (finding),Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0234708,C0035304,CAUSES,Raised intraocular pressure (finding),Retinal Degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0234708,C0520730,CAUSES,Raised intraocular pressure (finding),Optic nerve infarction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0235195,C0235063,CAUSES,Sedated state,Respiratory Depression,fndg,patf,1,CAUSES_FNDGcausPATF
+C0235195,C0333644,CAUSES,Sedated state,Acute atrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0235567,C0004144,CAUSES,Excessive bronchial secretion,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0235874,C0013604,CAUSES,Disease Exacerbation,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0235896,C0013604,CAUSES,Pulmonary Infiltrate,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0237827,C1155266,CAUSES,Social Rejection,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0237849,C0013604,CAUSES,Peeling of skin,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0237849,C0013990,CAUSES,Peeling of skin,Pathological accumulation of air in tissues,fndg,patf,1,CAUSES_FNDGcausPATF
+C0237849,C0026846,CAUSES,Peeling of skin,Muscular Atrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0237849,C0028778,CAUSES,Peeling of skin,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0237849,C0035228,CAUSES,Peeling of skin,Respiratory Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0237849,C0333644,CAUSES,Peeling of skin,Acute atrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0238427,C0151521,CAUSES,SMALL BOWEL BACTERIAL OVERGROWTH,Bacterial resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0238614,C0021368,CAUSES,ALLERGEN EXPOSURE,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0238614,C0021376,CAUSES,ALLERGEN EXPOSURE,Chronic inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C0238983,C0151686,CAUSES,Chest deformity,Growth retardation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0239126,C0029445,CAUSES,corticosteroid use,Bone necrosis,fndg,patf,2,CAUSES_FNDGcausPATF
+C0239302,C0012359,CAUSES,estrogen low,Pathological Dilatation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0239574,C0019080,CAUSES,Low grade fever,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0239997,C0000832,CAUSES,Maternal infection,Abruptio Placentae,fndg,patf,1,CAUSES_FNDGcausPATF
+C0239997,C0021368,CAUSES,Maternal infection,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0239997,C0021386,CAUSES,Maternal infection,Necrotizing granulomatous inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0239997,C0022876,CAUSES,Maternal infection,Premature Obstetric Labor,fndg,patf,1,CAUSES_FNDGcausPATF
+C0239997,C0543419,CAUSES,Maternal infection,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C0239998,C0016059,CAUSES,Recurrent infections,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0240147,C0020581,CAUSES,LACRIMAL DYSFUNCTION,Hyphema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0240186,C0022116,CAUSES,LICORICE INGESTION,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0240231,C0013928,CAUSES,Fractures of the long bones,Fat embolism (disorder),fndg,patf,1,CAUSES_FNDGcausPATF
+C0240320,C3714514,CAUSES,medication use,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0240322,C0750020,CAUSES,Menstrual period late,uterine bleeding heavy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0240341,C0024348,CAUSES,Micrographia,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0240421,C0398353,CAUSES,Progressive muscle weakness,Hypercapnic respiratory failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C0240868,C0013604,CAUSES,RECENT VIRAL ILLNESS,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0241158,C2004491,CAUSES,Scar Tissue,Cicatrix,fndg,patf,1,CAUSES_FNDGcausPATF
+C0241181,C0007642,CAUSES,Fragile skin,Cellulitis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0241224,C0036974,CAUSES,Spinal cord lesion,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0241224,C0161818,CAUSES,Spinal cord lesion,Respiratory complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C0241279,C0151686,CAUSES,SUBCUTANEOUS TUMOR,Growth retardation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0241311,C0259768,CAUSES,post operative (finding),Wound dehiscence,fndg,patf,1,CAUSES_FNDGcausPATF
+C0241889,C0020517,CAUSES,Family history,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0241889,C0162154,CAUSES,Family history,Atrophic scar,fndg,patf,1,CAUSES_FNDGcausPATF
+C0262514,C3714514,CAUSES,HIV exposure,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0262522,C3714514,CAUSES,IMMUNIZATION VISIT,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0262926,C0002994,CAUSES,Medical History,Angioedema,fndg,patf,2,CAUSES_FNDGcausPATF
+C0262926,C1373218,CAUSES,Medical History,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C0264576,C0013687,CAUSES,Mediastinal shift,effusion,fndg,patf,1,CAUSES_FNDGcausPATF
+C0264939,C0015376,CAUSES,Systemic Vasculitis,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0264939,C0161816,CAUSES,Systemic Vasculitis,Cardiac complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C0277610,C0011071,CAUSES,Natural death,Sudden death,fndg,patf,1,CAUSES_FNDGcausPATF
+C0277786,C0034065,CAUSES,Chief complaint (finding),Pulmonary Embolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C0278060,C3203358,CAUSES,Mental state,Hypoventilation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0278252,C0151699,CAUSES,Prognosis bad,Intracranial Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0281800,C0020564,CAUSES,Chronic mouth breathing,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0311277,C0021368,CAUSES,"Obesity, Abdominal",Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C0311394,C0333641,CAUSES,Difficulty walking,Atrophic,fndg,patf,1,CAUSES_FNDGcausPATF
+C0314761,C3714514,CAUSES,Normal flora,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C0332149,C0000786,CAUSES,Possible,Spontaneous abortion,fndg,patf,2,CAUSES_FNDGcausPATF
+C0332149,C0004366,CAUSES,Possible,Autoimmune Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0011071,CAUSES,Possible,Sudden death,fndg,patf,2,CAUSES_FNDGcausPATF
+C0332149,C0011304,CAUSES,Possible,Demyelination,fndg,patf,8,CAUSES_FNDGcausPATF
+C0332149,C0013182,CAUSES,Possible,Drug Allergy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0013418,CAUSES,Possible,Dystocia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0013604,CAUSES,Possible,Edema,fndg,patf,3,CAUSES_FNDGcausPATF
+C0332149,C0015376,CAUSES,Possible,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0015927,CAUSES,Possible,Fetal Death,fndg,patf,2,CAUSES_FNDGcausPATF
+C0332149,C0016059,CAUSES,Possible,Fibrosis,fndg,patf,2,CAUSES_FNDGcausPATF
+C0332149,C0019080,CAUSES,Possible,Hemorrhage,fndg,patf,2,CAUSES_FNDGcausPATF
+C0332149,C0020507,CAUSES,Possible,Hyperplasia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0020517,CAUSES,Possible,Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
+C0332149,C0021359,CAUSES,Possible,Infertility,fndg,patf,2,CAUSES_FNDGcausPATF
+C0332149,C0021368,CAUSES,Possible,Inflammation,fndg,patf,13,CAUSES_FNDGcausPATF
+C0332149,C0022116,CAUSES,Possible,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0024236,CAUSES,Possible,Lymphedema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0027544,CAUSES,Possible,Necrotic debris,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0028778,CAUSES,Possible,Obstruction,fndg,patf,3,CAUSES_FNDGcausPATF
+C0332149,C0032914,CAUSES,Possible,Pre-Eclampsia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0034063,CAUSES,Possible,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0034065,CAUSES,Possible,Pulmonary Embolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0034088,CAUSES,Possible,Pulmonary Valve Insufficiency,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0036679,CAUSES,Possible,Diastasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0036974,CAUSES,Possible,Shock,fndg,patf,3,CAUSES_FNDGcausPATF
+C0332149,C0040053,CAUSES,Possible,Thrombosis,fndg,patf,2,CAUSES_FNDGcausPATF
+C0332149,C0041582,CAUSES,Possible,Ulcer,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0151521,CAUSES,Possible,Bacterial resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0151701,CAUSES,Possible,Pulmonary hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0151763,CAUSES,Possible,Liver damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0161816,CAUSES,Possible,Cardiac complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0162633,CAUSES,Possible,Viral Shedding,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0220981,CAUSES,Possible,Metabolic acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0231176,CAUSES,Possible,Acute failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0242184,CAUSES,Possible,Hypoxia,fndg,patf,3,CAUSES_FNDGcausPATF
+C0332149,C0242648,CAUSES,Possible,Vertical Disease Transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0266811,CAUSES,Possible,Acute lower gastrointestinal hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0282474,CAUSES,Possible,Maternal-Fetal Infection Transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0302295,CAUSES,Possible,Eruptions,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0332448,CAUSES,Possible,Infiltration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0333282,CAUSES,Possible,Occult hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0333396,CAUSES,Possible,Chronic mucous inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0333525,CAUSES,Possible,Maceration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0443146,CAUSES,Possible,Autoimmune reaction,fndg,patf,4,CAUSES_FNDGcausPATF
+C0332149,C0543419,CAUSES,Possible,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C0700148,CAUSES,Possible,Congestion,fndg,patf,2,CAUSES_FNDGcausPATF
+C0332149,C0749225,CAUSES,Possible,Systolic dysfunction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C1155266,CAUSES,Possible,Inflammatory Response,fndg,patf,3,CAUSES_FNDGcausPATF
+C0332149,C1373218,CAUSES,Possible,Decreased Immunologic Activity [PE],fndg,patf,3,CAUSES_FNDGcausPATF
+C0332149,C1520005,CAUSES,Possible,Viral Pathogenesis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C3550269,CAUSES,Possible,Reactive gliosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332149,C3714514,CAUSES,Possible,Infection,fndg,patf,8,CAUSES_FNDGcausPATF
+C0332149,C4061114,CAUSES,Possible,Acute illness,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332155,C0021359,CAUSES,Did not receive therapy or drug for,Infertility,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332155,C0021368,CAUSES,Did not receive therapy or drug for,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332155,C0036983,CAUSES,Did not receive therapy or drug for,Septic Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332155,C0235063,CAUSES,Did not receive therapy or drug for,Respiratory Depression,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332155,C0239293,CAUSES,Did not receive therapy or drug for,Esophageal bleeding,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332155,C0543419,CAUSES,Did not receive therapy or drug for,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332219,C0020517,CAUSES,Easy,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0332461,C0020564,CAUSES,Plaque (lesion),Hypertrophy,fndg,patf,2,CAUSES_FNDGcausPATF
+C0332509,C0242184,CAUSES,Increased size (finding),Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0333361,C0020517,CAUSES,Acute inflammation,Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
+C0333361,C0021368,CAUSES,Acute inflammation,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0333361,C0235063,CAUSES,Acute inflammation,Respiratory Depression,fndg,patf,1,CAUSES_FNDGcausPATF
+C0333574,C0021368,CAUSES,Fatty deposition,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0333574,C0021655,CAUSES,Fatty deposition,Insulin Resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0333574,C0152254,CAUSES,Fatty deposition,Fatty degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0333574,C2362507,CAUSES,Fatty deposition,Metabolic Problems,fndg,patf,1,CAUSES_FNDGcausPATF
+C0337664,C0151763,CAUSES,Smoker,Liver damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0349790,C0021375,CAUSES,Exacerbation of asthma,allergic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0349790,C3714514,CAUSES,Exacerbation of asthma,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0349790,C3826020,CAUSES,Exacerbation of asthma,Medical emergencies,fndg,patf,1,CAUSES_FNDGcausPATF
+C0362060,C0543419,CAUSES,Legal problems,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C0376705,C0021368,CAUSES,Viral Load result,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0376705,C0334096,CAUSES,Viral Load result,Intimal proliferation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0376705,C1155266,CAUSES,Viral Load result,Inflammatory Response,fndg,patf,2,CAUSES_FNDGcausPATF
+C0391852,C0004144,CAUSES,hypomobility,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0392209,C0013604,CAUSES,Nutritional status,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0392209,C0021368,CAUSES,Nutritional status,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0392209,C0333957,CAUSES,Nutritional status,Growth acceleration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0392315,C0001122,CAUSES,SPASM GLOTTIS,Acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0392315,C0242184,CAUSES,SPASM GLOTTIS,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0392691,C0220981,CAUSES,Increased lactic acid level,Metabolic acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0395016,C0679862,CAUSES,Speech problem,treatment error,fndg,patf,1,CAUSES_FNDGcausPATF
+C0422837,C0006114,CAUSES,Neurological observations,Cerebral Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0422837,C0011304,CAUSES,Neurological observations,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C0422837,C0021376,CAUSES,Neurological observations,Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0422837,C0085621,CAUSES,Neurological observations,Spastic paralysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0422837,C1373218,CAUSES,Neurological observations,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C0424589,C0001122,CAUSES,Vitality,Acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0424589,C0001511,CAUSES,Vitality,Tissue Adhesions,fndg,patf,1,CAUSES_FNDGcausPATF
+C0424589,C0020517,CAUSES,Vitality,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0424589,C0024348,CAUSES,Vitality,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0424589,C0036679,CAUSES,Vitality,Diastasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0424589,C0242184,CAUSES,Vitality,Hypoxia,fndg,patf,2,CAUSES_FNDGcausPATF
+C0424594,C0520918,CAUSES,Frailty,Decreased metabolic requirement,fndg,patf,1,CAUSES_FNDGcausPATF
+C0425083,C0036974,CAUSES,Loss of job,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0425152,C0020517,CAUSES,Engaged to be married,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0425152,C1373218,CAUSES,Engaged to be married,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C0425466,C2717957,CAUSES,Respiratory effort,Vasoplegia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0425932,C0040053,CAUSES,Date of last menstrual period,Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0425932,C1261287,CAUSES,Date of last menstrual period,Stenosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0425945,C0002064,CAUSES,Prolonged menses,"Alkalosis, Respiratory",fndg,patf,1,CAUSES_FNDGcausPATF
+C0425945,C0024348,CAUSES,Prolonged menses,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0425945,C1510411,CAUSES,Prolonged menses,metaplastic cell transformation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0425945,C3686799,CAUSES,Prolonged menses,Pneumocyte hyperplasia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0425945,C3714514,CAUSES,Prolonged menses,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0425946,C4061114,CAUSES,Short menstrual periods,Acute illness,fndg,patf,1,CAUSES_FNDGcausPATF
+C0426732,C0028778,CAUSES,Large prostate,Obstruction,fndg,patf,2,CAUSES_FNDGcausPATF
+C0426732,C0333138,CAUSES,Large prostate,Stasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0427515,C0020522,CAUSES,Neutrophil abnormality,Delayed Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0428642,C0015376,CAUSES,Pulmonary artery pressure,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0428642,C0340515,CAUSES,Pulmonary artery pressure,Myocardial dysfunction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0428646,C0004144,CAUSES,Oxygen concentration,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0428646,C1155266,CAUSES,Oxygen concentration,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0428717,C0028778,CAUSES,Gas pressure,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0428720,C0036974,CAUSES,End-expiratory pressure,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0428938,C3658220,CAUSES,Atrial effective refractory period,Atrial Remodeling,fndg,patf,1,CAUSES_FNDGcausPATF
+C0429632,C0235395,CAUSES,Total body water,Fluid loss,fndg,patf,1,CAUSES_FNDGcausPATF
+C0429678,C0004144,CAUSES,Thoracic compliance,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0429774,C0232841,CAUSES,Residual urine volume,Bladder dysfunction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0436331,C3714514,CAUSES,Symptom aggravating factors,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0436343,C1155266,CAUSES,Symptom mild,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0436343,C3714514,CAUSES,Symptom mild,Infection,fndg,patf,3,CAUSES_FNDGcausPATF
+C0436343,C4061114,CAUSES,Symptom mild,Acute illness,fndg,patf,1,CAUSES_FNDGcausPATF
+C0436345,C0206277,CAUSES,Symptom severe,Fatal Outcome,fndg,patf,1,CAUSES_FNDGcausPATF
+C0436539,C0020517,CAUSES,Computed tomography result abnormal,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0011304,CAUSES,Immune,Demyelination,fndg,patf,5,CAUSES_FNDGcausPATF
+C0439662,C0013604,CAUSES,Immune,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0013990,CAUSES,Immune,Pathological accumulation of air in tissues,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0020517,CAUSES,Immune,Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
+C0439662,C0021368,CAUSES,Immune,Inflammation,fndg,patf,6,CAUSES_FNDGcausPATF
+C0439662,C0021376,CAUSES,Immune,Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0026766,CAUSES,Immune,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0028778,CAUSES,Immune,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0031154,CAUSES,Immune,Peritonitis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0043241,CAUSES,Immune,Wound Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0235063,CAUSES,Immune,Respiratory Depression,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0333355,CAUSES,Immune,Inflammatory disease of mucous membrane,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0340515,CAUSES,Immune,Myocardial dysfunction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0340865,CAUSES,Immune,Anaphylactoid Reaction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0854268,CAUSES,Immune,fetal damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C0919924,CAUSES,Immune,pulmonary toxicity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C1155266,CAUSES,Immune,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C1373218,CAUSES,Immune,Decreased Immunologic Activity [PE],fndg,patf,2,CAUSES_FNDGcausPATF
+C0439662,C1817997,CAUSES,Immune,chronic inflammatory response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C3658208,CAUSES,Immune,Dysbiosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439662,C3714514,CAUSES,Immune,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439663,C0011071,CAUSES,Infected,Sudden death,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439663,C0011164,CAUSES,Infected,Abnormal degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439663,C0036974,CAUSES,Infected,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0439663,C0242781,CAUSES,Infected,disease transmission,fndg,patf,2,CAUSES_FNDGcausPATF
+C0439663,C3714514,CAUSES,Infected,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C0442749,C0333957,CAUSES,6/5,Growth acceleration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0442797,C0016059,CAUSES,Decreasing,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0442797,C0019080,CAUSES,Decreasing,Hemorrhage,fndg,patf,2,CAUSES_FNDGcausPATF
+C0442797,C0026846,CAUSES,Decreasing,Muscular Atrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0442797,C0036980,CAUSES,Decreasing,"Shock, Cardiogenic",fndg,patf,1,CAUSES_FNDGcausPATF
+C0442797,C0235063,CAUSES,Decreasing,Respiratory Depression,fndg,patf,1,CAUSES_FNDGcausPATF
+C0442797,C0332448,CAUSES,Decreasing,Infiltration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0442797,C0333138,CAUSES,Decreasing,Stasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0442797,C0333641,CAUSES,Decreasing,Atrophic,fndg,patf,1,CAUSES_FNDGcausPATF
+C0442797,C3714514,CAUSES,Decreasing,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C0442797,C4061114,CAUSES,Decreasing,Acute illness,fndg,patf,1,CAUSES_FNDGcausPATF
+C0449411,C3714514,CAUSES,Causative_agents,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0449426,C3714514,CAUSES,Source of infection,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0456261,C0020542,CAUSES,Pulmonary Vascular Resistance,Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
+C0456261,C0232342,CAUSES,Pulmonary Vascular Resistance,Decreased vascular flow,fndg,patf,1,CAUSES_FNDGcausPATF
+C0456892,C0013687,CAUSES,Low intracranial pressure,effusion,fndg,patf,1,CAUSES_FNDGcausPATF
+C0474395,C0020517,CAUSES,Behavior showing increased motor activity,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0474444,C0021376,CAUSES,Corneal stromal edema,Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0476442,C0020517,CAUSES,High antibody titer,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0476442,C1155266,CAUSES,High antibody titer,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0489642,C0242184,CAUSES,Intrapulmonary shunt,Hypoxia,fndg,patf,2,CAUSES_FNDGcausPATF
+C0517967,C3203358,CAUSES,Respiratory pattern,Hypoventilation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0518010,C0022116,CAUSES,body mass,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0518033,C1817978,CAUSES,tissue healing,acute inflammatory response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0518033,C3665429,CAUSES,tissue healing,Recurrent hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0518227,C0004144,CAUSES,Ease of respiration,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0518609,C0011304,CAUSES,Consideration,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C0518609,C0020517,CAUSES,Consideration,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0518609,C0243083,CAUSES,Consideration,associated disease,fndg,patf,1,CAUSES_FNDGcausPATF
+C0518609,C1720824,CAUSES,Consideration,Sudden Cardiac Arrest,fndg,patf,1,CAUSES_FNDGcausPATF
+C0520849,C0020542,CAUSES,Normal pulmonary arterial wedge pressure,Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
+C0520851,C0034063,CAUSES,Decreased pulmonary arterial wedge pressure,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0520891,C0857353,CAUSES,Decreased vascular resistance,Hypotensive,fndg,patf,1,CAUSES_FNDGcausPATF
+C0521859,C0021368,CAUSES,Drug resistance to corticoids,Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C0521987,C0040053,CAUSES,Pre-existing condition,Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522224,C0004044,CAUSES,Paralysed,Asphyxia,fndg,patf,2,CAUSES_FNDGcausPATF
+C0522224,C0021368,CAUSES,Paralysed,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522567,C0012359,CAUSES,Mild inflammation,Pathological Dilatation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522567,C0013604,CAUSES,Mild inflammation,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522569,C0008767,CAUSES,Severe inflammation,Cicatrization,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522569,C0015376,CAUSES,Severe inflammation,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522569,C0021368,CAUSES,Severe inflammation,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522569,C0030660,CAUSES,Severe inflammation,Pathologic Processes,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522569,C0040053,CAUSES,Severe inflammation,Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522569,C0087086,CAUSES,Severe inflammation,Thrombus,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522569,C0206277,CAUSES,Severe inflammation,Fatal Outcome,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522569,C0242184,CAUSES,Severe inflammation,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522570,C0151946,CAUSES,Focal inflammation,Pulmonary thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0522570,C1265891,CAUSES,Focal inflammation,Focal atrophy,fndg,patf,3,CAUSES_FNDGcausPATF
+C0524343,C0015927,CAUSES,Death of child,Fetal Death,fndg,patf,1,CAUSES_FNDGcausPATF
+C0542127,C3203358,CAUSES,Oversedated,Hypoventilation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0542243,C3686534,CAUSES,toxic reaction (non-specific),Perivascular cuffing,fndg,patf,1,CAUSES_FNDGcausPATF
+C0544726,C0015376,CAUSES,Hole Finding,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0546884,C0017181,CAUSES,Hypovolemia,Gastrointestinal Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0546884,C0022116,CAUSES,Hypovolemia,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0546884,C0027544,CAUSES,Hypovolemia,Necrotic debris,fndg,patf,1,CAUSES_FNDGcausPATF
+C0546884,C0034063,CAUSES,Hypovolemia,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0546884,C0036974,CAUSES,Hypovolemia,Shock,fndg,patf,3,CAUSES_FNDGcausPATF
+C0546884,C0220981,CAUSES,Hypovolemia,Metabolic acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0546884,C0235395,CAUSES,Hypovolemia,Fluid loss,fndg,patf,1,CAUSES_FNDGcausPATF
+C0546884,C0242184,CAUSES,Hypovolemia,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0546884,C0333501,CAUSES,Hypovolemia,Acute necrosis,fndg,patf,3,CAUSES_FNDGcausPATF
+C0546884,C0442856,CAUSES,Hypovolemia,Hypoperfusion,fndg,patf,2,CAUSES_FNDGcausPATF
+C0546884,C0857353,CAUSES,Hypovolemia,Hypotensive,fndg,patf,1,CAUSES_FNDGcausPATF
+C0546884,C1299557,CAUSES,Hypovolemia,Dynamic obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0549099,C0031154,CAUSES,Perforation (observation),Peritonitis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0549397,C0028778,CAUSES,Deviated nasal septum,Obstruction,fndg,patf,5,CAUSES_FNDGcausPATF
+C0549409,C0020683,CAUSES,Packed cell volume increased,Hypovolemic Shock,fndg,patf,2,CAUSES_FNDGcausPATF
+C0549634,C0020564,CAUSES,Lipids abnormal,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0549649,C0020517,CAUSES,MISUSE,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0553702,C0006663,CAUSES,ca increase,Calcinosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0554101,C0342579,CAUSES,Villous atrophy,Electrolyte imbalance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0556133,C0333641,CAUSES,Glucose intake,Atrophic,fndg,patf,1,CAUSES_FNDGcausPATF
+C0557147,C0242781,CAUSES,Pet ownership,disease transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C0557147,C3714514,CAUSES,Pet ownership,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0558187,C0016059,CAUSES,Lactation established (finding),Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0558187,C1373218,CAUSES,Lactation established (finding),Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C0558242,C0151205,CAUSES,Stretched skin,Periorbital edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0560175,C4505499,CAUSES,Carrier of disorder,Transfusion-Transmitted Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0564446,C0016059,CAUSES,Wound scar,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0564446,C0152254,CAUSES,Wound scar,Fatty degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0566528,C0021368,CAUSES,Does expectorate,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0566701,C1155266,CAUSES,Placenta infected,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0578022,C0004144,CAUSES,Finding of body mass index,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0579152,C0333641,CAUSES,Bladder problem,Atrophic,fndg,patf,1,CAUSES_FNDGcausPATF
+C0595998,C0036974,CAUSES,Household composition,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0595998,C0242656,CAUSES,Household composition,Disease Progression,fndg,patf,1,CAUSES_FNDGcausPATF
+C0595998,C3714514,CAUSES,Household composition,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0596020,C0040053,CAUSES,Does hit (finding),Thrombosis,fndg,patf,2,CAUSES_FNDGcausPATF
+C0596519,C0021368,CAUSES,environmental stressor,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0599655,C0242649,CAUSES,Asexual,"Infectious Disease Transmission, Horizontal",fndg,patf,1,CAUSES_FNDGcausPATF
+C0600108,C0011164,CAUSES,Does walk,Abnormal degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0600140,C0020517,CAUSES,Does run (finding),Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0600457,C0235029,CAUSES,Gravidity,neurological complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C0679250,C0020517,CAUSES,Disease Outcome,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0679837,C3714514,CAUSES,underdiagnosis,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0679838,C0028778,CAUSES,Misdiagnosis,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0679838,C0036974,CAUSES,Misdiagnosis,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0683321,C3714514,CAUSES,Poor Health,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0683519,C0599878,CAUSES,disease history,disease characteristic,fndg,patf,1,CAUSES_FNDGcausPATF
+C0683525,C0002994,CAUSES,treatment options,Angioedema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0683525,C0028778,CAUSES,treatment options,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0683525,C0206277,CAUSES,treatment options,Fatal Outcome,fndg,patf,1,CAUSES_FNDGcausPATF
+C0683525,C3714514,CAUSES,treatment options,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0683954,C0021375,CAUSES,research results,allergic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0686750,C0022116,CAUSES,Well adult,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0686785,C0014591,CAUSES,Nose-picking,Epistaxis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0694550,C0036974,CAUSES,Recurrent pneumonia,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0001122,CAUSES,Hypoxemia,Acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0013604,CAUSES,Hypoxemia,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0015376,CAUSES,Hypoxemia,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0015924,CAUSES,Hypoxemia,Fetal Anoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0020542,CAUSES,Hypoxemia,Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0021368,CAUSES,Hypoxemia,Inflammation,fndg,patf,3,CAUSES_FNDGcausPATF
+C0700292,C0026766,CAUSES,Hypoxemia,Multiple Organ Failure,fndg,patf,5,CAUSES_FNDGcausPATF
+C0700292,C0027686,CAUSES,Hypoxemia,Pathologic Neovascularization,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0034065,CAUSES,Hypoxemia,Pulmonary Embolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0036974,CAUSES,Hypoxemia,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0151526,CAUSES,Hypoxemia,Premature Birth,fndg,patf,3,CAUSES_FNDGcausPATF
+C0700292,C0151746,CAUSES,Hypoxemia,Abnormal renal function,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0151763,CAUSES,Hypoxemia,Liver damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0220981,CAUSES,Hypoxemia,Metabolic acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0232342,CAUSES,Hypoxemia,Decreased vascular flow,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0242184,CAUSES,Hypoxemia,Hypoxia,fndg,patf,6,CAUSES_FNDGcausPATF
+C0700292,C0546817,CAUSES,Hypoxemia,Fluid overload,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C0920710,CAUSES,Hypoxemia,liver hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700292,C1720824,CAUSES,Hypoxemia,Sudden Cardiac Arrest,fndg,patf,1,CAUSES_FNDGcausPATF
+C0700572,C0021368,CAUSES,Reduced mobility,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0702118,C0008767,CAUSES,Abnormally hard consistency,Cicatrization,fndg,patf,1,CAUSES_FNDGcausPATF
+C0728725,C0001122,CAUSES,Low pH,Acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0728725,C0015376,CAUSES,Low pH,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0728725,C0333355,CAUSES,Low pH,Inflammatory disease of mucous membrane,fndg,patf,1,CAUSES_FNDGcausPATF
+C0728899,C0011304,CAUSES,Intoxication,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C0728899,C0016059,CAUSES,Intoxication,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0728899,C0034063,CAUSES,Intoxication,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0728899,C0151701,CAUSES,Intoxication,Pulmonary hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0728899,C0543419,CAUSES,Intoxication,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C0728899,C1373218,CAUSES,Intoxication,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C0728899,C3203360,CAUSES,Intoxication,Suppuration,fndg,patf,1,CAUSES_FNDGcausPATF
+C0740852,C3241936,CAUSES,Upper airway obstruction,Non-cardiogenic pulmonary edema,fndg,patf,2,CAUSES_FNDGcausPATF
+C0741583,C0019080,CAUSES,blood vessel abnormal,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0741583,C0024236,CAUSES,blood vessel abnormal,Lymphedema,fndg,patf,1,CAUSES_FNDGcausPATF
+C0741921,C0020542,CAUSES,Increased cardiac enzymes,Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
+C0742906,C0020517,CAUSES,Elevated C-reactive protein,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0742969,C0019080,CAUSES,D-dimer above reference range,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0742969,C1720824,CAUSES,D-dimer above reference range,Sudden Cardiac Arrest,fndg,patf,2,CAUSES_FNDGcausPATF
+C0743400,C0242184,CAUSES,Ejection Fraction Decreased,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0743400,C0546817,CAUSES,Ejection Fraction Decreased,Fluid overload,fndg,patf,1,CAUSES_FNDGcausPATF
+C0743626,C0020564,CAUSES,etiology unknown,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C0743630,C0028778,CAUSES,exacerbation acute,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0743630,C0398353,CAUSES,exacerbation acute,Hypercapnic respiratory failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C0743997,C0011071,CAUSES,Incidental Findings,Sudden death,fndg,patf,1,CAUSES_FNDGcausPATF
+C0744369,C0008767,CAUSES,Lesion of genitalia,Cicatrization,fndg,patf,1,CAUSES_FNDGcausPATF
+C0745076,C0021368,CAUSES,poor hygiene,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0745076,C1155266,CAUSES,poor hygiene,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C0745076,C3714514,CAUSES,poor hygiene,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0745213,C0151763,CAUSES,idiosyncratic reaction,Liver damage,fndg,patf,2,CAUSES_FNDGcausPATF
+C0745213,C0919924,CAUSES,idiosyncratic reaction,pulmonary toxicity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0746765,C0028778,CAUSES,Mass of nose,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0748024,C0036974,CAUSES,protein elevated,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0748864,C0001511,CAUSES,small size,Tissue Adhesions,fndg,patf,1,CAUSES_FNDGcausPATF
+C0748864,C0016059,CAUSES,small size,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0748864,C0020517,CAUSES,small size,Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
+C0748864,C0028778,CAUSES,small size,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0748864,C0032787,CAUSES,small size,Postoperative Complications,fndg,patf,1,CAUSES_FNDGcausPATF
+C0748864,C0242648,CAUSES,small size,Vertical Disease Transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C0748864,C3714514,CAUSES,small size,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0749075,C0333138,CAUSES,STRUCTURAL Abnormalities,Stasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750310,C0232342,CAUSES,volume depletion intravascular,Decreased vascular flow,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750484,C0015927,CAUSES,Confirmation,Fetal Death,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750484,C0020517,CAUSES,Confirmation,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750484,C0021368,CAUSES,Confirmation,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750484,C1373218,CAUSES,Confirmation,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C0750484,C3714514,CAUSES,Confirmation,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750558,C0011304,CAUSES,Unlikely,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750558,C0021368,CAUSES,Unlikely,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750558,C0030660,CAUSES,Unlikely,Pathologic Processes,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750558,C0036974,CAUSES,Unlikely,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750558,C0543419,CAUSES,Unlikely,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750558,C0919924,CAUSES,Unlikely,pulmonary toxicity,fndg,patf,2,CAUSES_FNDGcausPATF
+C0750558,C1373218,CAUSES,Unlikely,Decreased Immunologic Activity [PE],fndg,patf,2,CAUSES_FNDGcausPATF
+C0750558,C3714514,CAUSES,Unlikely,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750558,C4061114,CAUSES,Unlikely,Acute illness,fndg,patf,1,CAUSES_FNDGcausPATF
+C0750558,C4287874,CAUSES,Unlikely,Droplet transmission,fndg,patf,2,CAUSES_FNDGcausPATF
+C0814299,C0021368,CAUSES,genetic risk factors,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0814466,C4061114,CAUSES,Overdiagnosis,Acute illness,fndg,patf,1,CAUSES_FNDGcausPATF
+C0853711,C0021359,CAUSES,Sperm count decreased,Infertility,fndg,patf,1,CAUSES_FNDGcausPATF
+C0853881,C0040053,CAUSES,Decreased gamma-interferon,Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0853881,C0598906,CAUSES,Decreased gamma-interferon,multiorgan injury,fndg,patf,1,CAUSES_FNDGcausPATF
+C0857210,C0015927,CAUSES,dead fetus,Fetal Death,fndg,patf,1,CAUSES_FNDGcausPATF
+C0857322,C0019080,CAUSES,anaemic,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0860711,C2362507,CAUSES,carbon dioxide low,Metabolic Problems,fndg,patf,1,CAUSES_FNDGcausPATF
+C0860803,C0012359,CAUSES,glucose high,Pathological Dilatation,fndg,patf,2,CAUSES_FNDGcausPATF
+C0860803,C0242184,CAUSES,glucose high,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0860850,C0392182,CAUSES,Decreased estradiol,Delayed ovulation,fndg,patf,1,CAUSES_FNDGcausPATF
+C0860967,C0001511,CAUSES,calcium low,Tissue Adhesions,fndg,patf,2,CAUSES_FNDGcausPATF
+C0868658,C0036974,CAUSES,health advice,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C0877035,C2979982,CAUSES,Estrogen Effect,Vaginal Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0919888,C0019080,CAUSES,Decreased protein S,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C0919888,C0040053,CAUSES,Decreased protein S,Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1134488,C0020517,CAUSES,Hormonal Change,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C1135241,C0151526,CAUSES,Weeks pregnant,Premature Birth,fndg,patf,1,CAUSES_FNDGcausPATF
+C1148454,C0006114,CAUSES,seizure activity,Cerebral Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C1148454,C0242184,CAUSES,seizure activity,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C1262477,C0011304,CAUSES,Weight decreased,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C1262477,C0151686,CAUSES,Weight decreased,Growth retardation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1265608,C0024348,CAUSES,Decreased density,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1265804,C0333165,CAUSES,Non-pitting edema,Acute obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C1272641,C0020683,CAUSES,Systemic arterial pressure,Hypovolemic Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1277248,C3714514,CAUSES,General health poor,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1290905,C0020517,CAUSES,Discrepancy (finding),Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
+C1290905,C3658220,CAUSES,Discrepancy (finding),Atrial Remodeling,fndg,patf,1,CAUSES_FNDGcausPATF
+C1290922,C0040038,CAUSES,Baseline state,Thromboembolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C1295634,C3658208,CAUSES,Increased progesterone level,Dysbiosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1299448,C0036974,CAUSES,Patient ventilated,Shock,fndg,patf,2,CAUSES_FNDGcausPATF
+C1299586,C0013418,CAUSES,Has difficulty doing (qualifier value),Dystocia,fndg,patf,1,CAUSES_FNDGcausPATF
+C1299586,C0020517,CAUSES,Has difficulty doing (qualifier value),Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C1299586,C0021368,CAUSES,Has difficulty doing (qualifier value),Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C1299586,C0034063,CAUSES,Has difficulty doing (qualifier value),Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C1299586,C0040053,CAUSES,Has difficulty doing (qualifier value),Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1299586,C0162633,CAUSES,Has difficulty doing (qualifier value),Viral Shedding,fndg,patf,1,CAUSES_FNDGcausPATF
+C1299586,C0242656,CAUSES,Has difficulty doing (qualifier value),Disease Progression,fndg,patf,1,CAUSES_FNDGcausPATF
+C1299586,C0242781,CAUSES,Has difficulty doing (qualifier value),disease transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C1299586,C3714514,CAUSES,Has difficulty doing (qualifier value),Infection,fndg,patf,4,CAUSES_FNDGcausPATF
+C1299586,C3826020,CAUSES,Has difficulty doing (qualifier value),Medical emergencies,fndg,patf,1,CAUSES_FNDGcausPATF
+C1299586,C4061114,CAUSES,Has difficulty doing (qualifier value),Acute illness,fndg,patf,1,CAUSES_FNDGcausPATF
+C1301624,C0242781,CAUSES,Medical contraindication,disease transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C1301655,C0002064,CAUSES,Minute ventilation,"Alkalosis, Respiratory",fndg,patf,1,CAUSES_FNDGcausPATF
+C1320226,C3714514,CAUSES,Incubation period,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C1320396,C0151526,CAUSES,Maternal status,Premature Birth,fndg,patf,1,CAUSES_FNDGcausPATF
+C1334016,C0008767,CAUSES,High Grade Lesion,Cicatrization,fndg,patf,1,CAUSES_FNDGcausPATF
+C1334269,C0333549,CAUSES,Intravascular Spread,Hemorrhagic infarct,fndg,patf,1,CAUSES_FNDGcausPATF
+C1334929,C1155266,CAUSES,Necrotic Lesion,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C1382398,C0002064,CAUSES,Increased capillary permeability (finding),"Alkalosis, Respiratory",fndg,patf,1,CAUSES_FNDGcausPATF
+C1382398,C0006114,CAUSES,Increased capillary permeability (finding),Cerebral Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C1382398,C0013604,CAUSES,Increased capillary permeability (finding),Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C1382398,C0020683,CAUSES,Increased capillary permeability (finding),Hypovolemic Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1382398,C0034063,CAUSES,Increased capillary permeability (finding),Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C1382398,C0036974,CAUSES,Increased capillary permeability (finding),Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1382398,C1155266,CAUSES,Increased capillary permeability (finding),Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C1382398,C3241936,CAUSES,Increased capillary permeability (finding),Non-cardiogenic pulmonary edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C1382398,C3714514,CAUSES,Increased capillary permeability (finding),Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1392205,C0021368,CAUSES,Central nervous system deficit,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1398999,C0021359,CAUSES,excessive growth,Infertility,fndg,patf,1,CAUSES_FNDGcausPATF
+C1398999,C0036974,CAUSES,excessive growth,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1403607,C0011071,CAUSES,Maternal malnutrition NOS,Sudden death,fndg,patf,1,CAUSES_FNDGcausPATF
+C1408353,C0543419,CAUSES,Undiagnosed,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C1442858,C0004144,CAUSES,Surgical fistula,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1442858,C0020542,CAUSES,Surgical fistula,Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
+C1442858,C0242184,CAUSES,Surgical fistula,Hypoxia,fndg,patf,2,CAUSES_FNDGcausPATF
+C1442858,C0333288,CAUSES,Surgical fistula,Dissecting hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C1442858,C0546817,CAUSES,Surgical fistula,Fluid overload,fndg,patf,2,CAUSES_FNDGcausPATF
+C1444656,C0011304,CAUSES,Indicated,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C1444662,C0041755,CAUSES,Discontinued,Adverse reaction to drug,fndg,patf,1,CAUSES_FNDGcausPATF
+C1444662,C0243087,CAUSES,Discontinued,concomitant disease,fndg,patf,1,CAUSES_FNDGcausPATF
+C1444783,C0019080,CAUSES,Instability,Hemorrhage,fndg,patf,2,CAUSES_FNDGcausPATF
+C1444783,C0036974,CAUSES,Instability,Shock,fndg,patf,4,CAUSES_FNDGcausPATF
+C1444783,C0151526,CAUSES,Instability,Premature Birth,fndg,patf,1,CAUSES_FNDGcausPATF
+C1444783,C0333951,CAUSES,Instability,Growth arrest,fndg,patf,1,CAUSES_FNDGcausPATF
+C1446409,C0013604,CAUSES,Positive,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C1446409,C0021359,CAUSES,Positive,Infertility,fndg,patf,1,CAUSES_FNDGcausPATF
+C1446614,C0028778,CAUSES,Convergent gaze,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C1510886,C0022116,CAUSES,Angioinvasion,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C1510886,C0040038,CAUSES,Angioinvasion,Thromboembolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C1510886,C3714514,CAUSES,Angioinvasion,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1511567,C1373218,CAUSES,Cutaneous Involvement,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C1514463,C1155266,CAUSES,Prior Therapy,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C1514815,C3714514,CAUSES,Refractory Disease,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1516998,C0004366,CAUSES,Exogenous Factors,Autoimmune Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C1516998,C0021368,CAUSES,Exogenous Factors,Inflammation,fndg,patf,4,CAUSES_FNDGcausPATF
+C1516998,C0036974,CAUSES,Exogenous Factors,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1516998,C0152158,CAUSES,Exogenous Factors,Failure of lactation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1516998,C0242656,CAUSES,Exogenous Factors,Disease Progression,fndg,patf,1,CAUSES_FNDGcausPATF
+C1516998,C0752351,CAUSES,Exogenous Factors,Embryo Loss,fndg,patf,1,CAUSES_FNDGcausPATF
+C1516998,C1373218,CAUSES,Exogenous Factors,Decreased Immunologic Activity [PE],fndg,patf,2,CAUSES_FNDGcausPATF
+C1516998,C1817997,CAUSES,Exogenous Factors,chronic inflammatory response,fndg,patf,1,CAUSES_FNDGcausPATF
+C1516998,C3658208,CAUSES,Exogenous Factors,Dysbiosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1516998,C3714514,CAUSES,Exogenous Factors,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1516998,C4061114,CAUSES,Exogenous Factors,Acute illness,fndg,patf,1,CAUSES_FNDGcausPATF
+C1518345,C0020542,CAUSES,Nodular lesions,Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
+C1521726,C3714514,CAUSES,partial response,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1532253,C0026846,CAUSES,Sedentary lifestyle,Muscular Atrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C1532253,C0041582,CAUSES,Sedentary lifestyle,Ulcer,fndg,patf,1,CAUSES_FNDGcausPATF
+C1532253,C0598784,CAUSES,Sedentary lifestyle,Dyslipoproteinemias,fndg,patf,1,CAUSES_FNDGcausPATF
+C1536121,C0017639,CAUSES,Old Cerebrovascular accidents,Gliosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1545588,C0001122,CAUSES,Protection,Acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1545588,C0011304,CAUSES,Protection,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C1545588,C0020517,CAUSES,Protection,Hypersensitivity,fndg,patf,3,CAUSES_FNDGcausPATF
+C1545588,C0021368,CAUSES,Protection,Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C1545588,C0021376,CAUSES,Protection,Chronic inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C1545588,C0024348,CAUSES,Protection,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1545588,C0151526,CAUSES,Protection,Premature Birth,fndg,patf,1,CAUSES_FNDGcausPATF
+C1545588,C0162633,CAUSES,Protection,Viral Shedding,fndg,patf,1,CAUSES_FNDGcausPATF
+C1545588,C0242184,CAUSES,Protection,Hypoxia,fndg,patf,2,CAUSES_FNDGcausPATF
+C1545588,C0443146,CAUSES,Protection,Autoimmune reaction,fndg,patf,1,CAUSES_FNDGcausPATF
+C1545588,C1516670,CAUSES,Protection,Clonal Expansion,fndg,patf,1,CAUSES_FNDGcausPATF
+C1545588,C3714514,CAUSES,Protection,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C1549114,C3714514,CAUSES,Unreported,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1555522,C0036974,CAUSES,Insurance coverage problem,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1559312,C0030660,CAUSES,"Grade 5 Diarrhea, CTCAE",Pathologic Processes,fndg,patf,1,CAUSES_FNDGcausPATF
+C1560209,C0015376,CAUSES,"Hemolysis, CTCAE",Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1560209,C0024348,CAUSES,"Hemolysis, CTCAE",Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1560209,C0700148,CAUSES,"Hemolysis, CTCAE",Congestion,fndg,patf,1,CAUSES_FNDGcausPATF
+C1623040,C0020963,CAUSES,Breastfeeding (mother),Immune Tolerance,fndg,patf,1,CAUSES_FNDGcausPATF
+C1704212,C0013922,CAUSES,Embolus,Embolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C1704212,C0015376,CAUSES,Embolus,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1704212,C0021308,CAUSES,Embolus,Infarction,fndg,patf,1,CAUSES_FNDGcausPATF
+C1704212,C0022116,CAUSES,Embolus,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C1704212,C0151701,CAUSES,Embolus,Pulmonary hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C1704212,C0333549,CAUSES,Embolus,Hemorrhagic infarct,fndg,patf,1,CAUSES_FNDGcausPATF
+C1704212,C1155266,CAUSES,Embolus,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C1704257,C0000786,CAUSES,Molecular Genetic Abnormality,Spontaneous abortion,fndg,patf,1,CAUSES_FNDGcausPATF
+C1704257,C0021368,CAUSES,Molecular Genetic Abnormality,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1705489,C1155266,CAUSES,"Male-to-Female Transsexual, Self-Report",Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C1706353,C0036974,CAUSES,Crack,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1706353,C0859290,CAUSES,Crack,black spot,fndg,patf,1,CAUSES_FNDGcausPATF
+C1706971,C0036974,CAUSES,Blood Pooling,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1707484,C0021359,CAUSES,Congenital Lesion,Infertility,fndg,patf,1,CAUSES_FNDGcausPATF
+C1707653,C0036981,CAUSES,Deep Lesion,Endotoxic shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1707743,C0035229,CAUSES,Diffuse Lesion,Respiratory Insufficiency,fndg,patf,1,CAUSES_FNDGcausPATF
+C1707934,C2717792,CAUSES,Epithelial Differentiation,Airway Remodeling,fndg,patf,1,CAUSES_FNDGcausPATF
+C1708473,C0235063,CAUSES,Impaired Circulation,Respiratory Depression,fndg,patf,1,CAUSES_FNDGcausPATF
+C1708473,C3887513,CAUSES,Impaired Circulation,Avascular necrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1709157,C0032787,CAUSES,Negative Surgical Margin,Postoperative Complications,fndg,patf,1,CAUSES_FNDGcausPATF
+C1709157,C0036974,CAUSES,Negative Surgical Margin,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1709157,C0206277,CAUSES,Negative Surgical Margin,Fatal Outcome,fndg,patf,1,CAUSES_FNDGcausPATF
+C1709770,C0020542,CAUSES,Pulmonary Dysfunction,Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
+C1709770,C0026766,CAUSES,Pulmonary Dysfunction,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C1821244,C0032962,CAUSES,Normal development,Pregnancy Complications,fndg,patf,1,CAUSES_FNDGcausPATF
+C1821461,C3714514,CAUSES,Close Relationship,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1821718,C0021368,CAUSES,Diminished productivity,Inflammation,fndg,patf,4,CAUSES_FNDGcausPATF
+C1821718,C0700148,CAUSES,Diminished productivity,Congestion,fndg,patf,1,CAUSES_FNDGcausPATF
+C1821718,C3714514,CAUSES,Diminished productivity,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1827505,C0087086,CAUSES,Turbulent blood flow,Thrombus,fndg,patf,1,CAUSES_FNDGcausPATF
+C1829458,C3714514,CAUSES,Tunneling,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1830750,C0242781,CAUSES,Extreme Heat,disease transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C1832073,C0011071,CAUSES,Handling,Sudden death,fndg,patf,1,CAUSES_FNDGcausPATF
+C1832073,C0021655,CAUSES,Handling,Insulin Resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C1832073,C0860239,CAUSES,Handling,Catheter related infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1832073,C1155266,CAUSES,Handling,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C1832073,C3714514,CAUSES,Handling,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1832338,C0011304,CAUSES,Axonal loss,Demyelination,fndg,patf,3,CAUSES_FNDGcausPATF
+C1833334,C0151763,CAUSES,Early-onset,Liver damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C1836038,C0917808,CAUSES,Poor head control,Vegetative State,fndg,patf,1,CAUSES_FNDGcausPATF
+C1836141,C0004144,CAUSES,Respiratory muscle weakness,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1836141,C0231178,CAUSES,Respiratory muscle weakness,Chronic failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C1836141,C0333641,CAUSES,Respiratory muscle weakness,Atrophic,fndg,patf,1,CAUSES_FNDGcausPATF
+C1836141,C3203358,CAUSES,Respiratory muscle weakness,Hypoventilation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1836348,C0020542,CAUSES,Severe disorder,Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
+C1836348,C0021368,CAUSES,Severe disorder,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1836348,C0026766,CAUSES,Severe disorder,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C1836348,C0206277,CAUSES,Severe disorder,Fatal Outcome,fndg,patf,2,CAUSES_FNDGcausPATF
+C1836348,C0543419,CAUSES,Severe disorder,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C1836348,C3714514,CAUSES,Severe disorder,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C1836407,C0162633,CAUSES,Early death,Viral Shedding,fndg,patf,2,CAUSES_FNDGcausPATF
+C1836923,C0012359,CAUSES,Gastrointestinal dysmotility,Pathological Dilatation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1837496,C0011304,CAUSES,Axonal degeneration,Demyelination,fndg,patf,2,CAUSES_FNDGcausPATF
+C1837655,C3714514,CAUSES,Multifactorial,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1838681,C0004044,CAUSES,Rapidly progressive,Asphyxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C1838681,C0026766,CAUSES,Rapidly progressive,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C1838681,C0036983,CAUSES,Rapidly progressive,Septic Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1838681,C3714514,CAUSES,Rapidly progressive,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1843376,C0021368,CAUSES,"Pulmonary involvement, severe",Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1844383,C0020564,CAUSES,Recurrent bacterial infection,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C1844666,C0026766,CAUSES,Immune dysregulation,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C1844666,C3658208,CAUSES,Immune dysregulation,Dysbiosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1844666,C3714514,CAUSES,Immune dysregulation,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C1846086,C0022116,CAUSES,Decreased contractility,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C1846821,C0019080,CAUSES,Abnormality of coagulation,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C1846821,C0021389,CAUSES,Abnormality of coagulation,Serous inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1846821,C0087086,CAUSES,Abnormality of coagulation,Thrombus,fndg,patf,1,CAUSES_FNDGcausPATF
+C1848980,C0024348,CAUSES,Developmental stagnation,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1849265,C0021368,CAUSES,Overgrowth,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1849265,C0333350,CAUSES,Overgrowth,Pannus,fndg,patf,2,CAUSES_FNDGcausPATF
+C1849265,C3658208,CAUSES,Overgrowth,Dysbiosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1849265,C3714514,CAUSES,Overgrowth,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1854724,C0920569,CAUSES,Elevated venous pressure,hepatic ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C1859539,C0016059,CAUSES,Progressive liver disease,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1860056,C0032993,CAUSES,Elevated progesterone,"Pregnancy, Prolonged",fndg,patf,1,CAUSES_FNDGcausPATF
+C1862763,C0004144,CAUSES,Small airways,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1862763,C0021368,CAUSES,Small airways,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1862763,C0028778,CAUSES,Small airways,Obstruction,fndg,patf,2,CAUSES_FNDGcausPATF
+C1862763,C0332448,CAUSES,Small airways,Infiltration,fndg,patf,1,CAUSES_FNDGcausPATF
+C1864985,C0036974,CAUSES,Progressive disorder,Shock,fndg,patf,2,CAUSES_FNDGcausPATF
+C1866557,C1373218,CAUSES,Usually asymptomatic,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C1867795,C0020517,CAUSES,Reduced fertility,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C1867795,C0232910,CAUSES,Reduced fertility,Teratogenesis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1867795,C3714514,CAUSES,Reduced fertility,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1879778,C0752350,CAUSES,Bacterial Contamination of Device,Embryo Death,fndg,patf,2,CAUSES_FNDGcausPATF
+C1879885,C0004044,CAUSES,Backflow,Asphyxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C1879885,C0008301,CAUSES,Backflow,Choking,fndg,patf,1,CAUSES_FNDGcausPATF
+C1880354,C0013926,CAUSES,Disconnection,Air Embolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C1880354,C0015376,CAUSES,Disconnection,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1881182,C0020564,CAUSES,Incorrect Measurement,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C1881358,C0013604,CAUSES,Large Mass,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C1881717,C0036974,CAUSES,Medical Device Mechanical Issue,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1881747,C0028778,CAUSES,Structural Problem,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C1882092,C0012359,CAUSES,No Flow,Pathological Dilatation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1882230,C0022116,CAUSES,Overfill,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C1882230,C0333504,CAUSES,Overfill,Focal necrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1960756,C0030660,CAUSES,Complicated grieving,Pathologic Processes,fndg,patf,1,CAUSES_FNDGcausPATF
+C1962970,C4551518,CAUSES,"Stomach Obstruction, CTCAE",Venous stasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1963076,C0015376,CAUSES,"Platelets, CTCAE",Extravasation,fndg,patf,2,CAUSES_FNDGcausPATF
+C1963076,C0019080,CAUSES,"Platelets, CTCAE",Hemorrhage,fndg,patf,3,CAUSES_FNDGcausPATF
+C1963076,C0020517,CAUSES,"Platelets, CTCAE",Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C1963076,C0020542,CAUSES,"Platelets, CTCAE",Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
+C1963076,C0021368,CAUSES,"Platelets, CTCAE",Inflammation,fndg,patf,5,CAUSES_FNDGcausPATF
+C1963076,C0036974,CAUSES,"Platelets, CTCAE",Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C1963076,C0040053,CAUSES,"Platelets, CTCAE",Thrombosis,fndg,patf,3,CAUSES_FNDGcausPATF
+C1963076,C0087086,CAUSES,"Platelets, CTCAE",Thrombus,fndg,patf,3,CAUSES_FNDGcausPATF
+C1963076,C0151763,CAUSES,"Platelets, CTCAE",Liver damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C1963076,C0274435,CAUSES,"Platelets, CTCAE",Transfusion Reaction,fndg,patf,1,CAUSES_FNDGcausPATF
+C1963076,C1155266,CAUSES,"Platelets, CTCAE",Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C1963076,C1262023,CAUSES,"Platelets, CTCAE",dilutional coagulopathy,fndg,patf,1,CAUSES_FNDGcausPATF
+C1963076,C2586211,CAUSES,"Platelets, CTCAE",Thrombosis of blood vessel,fndg,patf,1,CAUSES_FNDGcausPATF
+C1963076,C2717792,CAUSES,"Platelets, CTCAE",Airway Remodeling,fndg,patf,1,CAUSES_FNDGcausPATF
+C1963165,C0151686,CAUSES,"Malabsorption, CTCAE",Growth retardation,fndg,patf,1,CAUSES_FNDGcausPATF
+C1963202,C0031154,CAUSES,"Cecum Perforation, CTCAE",Peritonitis,fndg,patf,1,CAUSES_FNDGcausPATF
+C1998720,C3714514,CAUSES,Effective Communication,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C1998827,C0034063,CAUSES,Respiratory Status,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C1998827,C0151526,CAUSES,Respiratory Status,Premature Birth,fndg,patf,1,CAUSES_FNDGcausPATF
+C1998827,C0600228,CAUSES,Respiratory Status,Cardiopulmonary Arrest,fndg,patf,1,CAUSES_FNDGcausPATF
+C2080700,C0034088,CAUSES,severe Breathlessness,Pulmonary Valve Insufficiency,fndg,patf,1,CAUSES_FNDGcausPATF
+C2103667,C0004144,CAUSES,acute Aspiration,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C2103668,C0021376,CAUSES,recurrent Aspirations,Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C2136639,C0036982,CAUSES,reported tissue injury,"Shock, Hemorrhagic",fndg,patf,1,CAUSES_FNDGcausPATF
+C2136639,C3714514,CAUSES,reported tissue injury,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C2153623,C0019080,CAUSES,Yellow nodule,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C2153623,C0028778,CAUSES,Yellow nodule,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C2169571,C0020517,CAUSES,Recent infection,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C2169571,C1373218,CAUSES,Recent infection,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C2169571,C3714514,CAUSES,Recent infection,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C2346480,C0543419,CAUSES,Inadequate Device Operator Training,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C2362621,C0302295,CAUSES,"Photosensitivity, CTCAE",Eruptions,fndg,patf,1,CAUSES_FNDGcausPATF
+C2585744,C0021368,CAUSES,Virus present,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C2597943,C3714514,CAUSES,Index case,Infection,fndg,patf,3,CAUSES_FNDGcausPATF
+C2597943,C4289744,CAUSES,Index case,Contact Transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C2598387,C1373218,CAUSES,Overall status,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C2598387,C3714514,CAUSES,Overall status,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C2675043,C0231302,CAUSES,Limited social interactions,Physical stress,fndg,patf,1,CAUSES_FNDGcausPATF
+C2675556,C0235029,CAUSES,"ENCEPHALOPATHY, ACUTE, INFECTION-INDUCED, SUSCEPTIBILITY TO, 3",neurological complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C2676468,C3714514,CAUSES,"SARCOIDOSIS, SUSCEPTIBILITY TO, 2",Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C2676984,C0600228,CAUSES,Severe volume depletion,Cardiopulmonary Arrest,fndg,patf,1,CAUSES_FNDGcausPATF
+C2678372,C0079924,CAUSES,Fetal anuria,Oligohydramnios,fndg,patf,1,CAUSES_FNDGcausPATF
+C2749342,C0004144,CAUSES,Decreased surfactant,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C2749342,C0242184,CAUSES,Decreased surfactant,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C2750120,C0016059,CAUSES,Interstitial thickening,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C2750122,C0034063,CAUSES,Surfactant deficiency,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C2750122,C0036974,CAUSES,Surfactant deficiency,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C2752009,C0085621,CAUSES,White matter lesions,Spastic paralysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C2825972,C0020564,CAUSES,Cant,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C2825972,C0242184,CAUSES,Cant,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C2826244,C0020683,CAUSES,Life Threatening,Hypovolemic Shock,fndg,patf,2,CAUSES_FNDGcausPATF
+C2826244,C0021368,CAUSES,Life Threatening,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C2826244,C0021376,CAUSES,Life Threatening,Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C2826244,C0242184,CAUSES,Life Threatening,Hypoxia,fndg,patf,2,CAUSES_FNDGcausPATF
+C2826244,C3714514,CAUSES,Life Threatening,Infection,fndg,patf,3,CAUSES_FNDGcausPATF
+C2945560,C0021368,CAUSES,Hemolysis (lab result),Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C2945640,C0007642,CAUSES,compromise,Cellulitis,fndg,patf,1,CAUSES_FNDGcausPATF
+C2945640,C0012359,CAUSES,compromise,Pathological Dilatation,fndg,patf,1,CAUSES_FNDGcausPATF
+C2945640,C0022116,CAUSES,compromise,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C2945640,C0024348,CAUSES,compromise,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C2945640,C0026766,CAUSES,compromise,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C2945640,C0035410,CAUSES,compromise,Rhabdomyolysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C2945640,C0036974,CAUSES,compromise,Shock,fndg,patf,2,CAUSES_FNDGcausPATF
+C2945640,C0036983,CAUSES,compromise,Septic Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C2945640,C0151701,CAUSES,compromise,Pulmonary hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C2945640,C0242184,CAUSES,compromise,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C2945640,C0342579,CAUSES,compromise,Electrolyte imbalance,fndg,patf,1,CAUSES_FNDGcausPATF
+C2959885,C0022116,CAUSES,Microthrombus,Ischemia,fndg,patf,3,CAUSES_FNDGcausPATF
+C2959885,C0028778,CAUSES,Microthrombus,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C2959885,C0040038,CAUSES,Microthrombus,Thromboembolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C2959885,C0040053,CAUSES,Microthrombus,Thrombosis,fndg,patf,3,CAUSES_FNDGcausPATF
+C2959885,C0235029,CAUSES,Microthrombus,neurological complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C2959885,C0242184,CAUSES,Microthrombus,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C2963400,C0019080,CAUSES,Cell phase,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C2983605,C0333641,CAUSES,Food Consumption,Atrophic,fndg,patf,1,CAUSES_FNDGcausPATF
+C2984813,C0015927,CAUSES,Microbial Contamination,Fetal Death,fndg,patf,1,CAUSES_FNDGcausPATF
+C2984813,C0242781,CAUSES,Microbial Contamination,disease transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C2985294,C0019080,CAUSES,Fourth Stage of Labor,Hemorrhage,fndg,patf,2,CAUSES_FNDGcausPATF
+C2985294,C0034063,CAUSES,Fourth Stage of Labor,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C2986501,C0028778,CAUSES,Blood Stasis,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C2986501,C0087086,CAUSES,Blood Stasis,Thrombus,fndg,patf,1,CAUSES_FNDGcausPATF
+C3151529,C0018273,CAUSES,Lethal,Growth Disorders,fndg,patf,2,CAUSES_FNDGcausPATF
+C3151529,C0021359,CAUSES,Lethal,Infertility,fndg,patf,2,CAUSES_FNDGcausPATF
+C3151529,C0021368,CAUSES,Lethal,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3151529,C0024348,CAUSES,Lethal,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C3151529,C0036974,CAUSES,Lethal,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C3151529,C0332448,CAUSES,Lethal,Infiltration,fndg,patf,1,CAUSES_FNDGcausPATF
+C3151529,C0752350,CAUSES,Lethal,Embryo Death,fndg,patf,1,CAUSES_FNDGcausPATF
+C3151529,C3714514,CAUSES,Lethal,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C3161160,C3714514,CAUSES,STEC O157,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C3176537,C0021376,CAUSES,Excessive activity,Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3176537,C0334144,CAUSES,Excessive activity,Perivascular fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C3272283,C0021368,CAUSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3272283,C0040038,CAUSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Thromboembolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C3272283,C1373218,CAUSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C3272283,C1520005,CAUSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Viral Pathogenesis,fndg,patf,1,CAUSES_FNDGcausPATF
+C3272283,C3714514,CAUSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Infection,fndg,patf,3,CAUSES_FNDGcausPATF
+C3272304,C0011071,CAUSES,Coronary Vessel Lesion,Sudden death,fndg,patf,1,CAUSES_FNDGcausPATF
+C3272629,C0021368,CAUSES,Epithelial Damage,Inflammation,fndg,patf,4,CAUSES_FNDGcausPATF
+C3272629,C1511605,CAUSES,Epithelial Damage,Cystic Change,fndg,patf,1,CAUSES_FNDGcausPATF
+C3272629,C2265909,CAUSES,Epithelial Damage,smooth muscle hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C3273231,C2586211,CAUSES,Deposition of calcium oxalate crystals,Thrombosis of blood vessel,fndg,patf,1,CAUSES_FNDGcausPATF
+C3273245,C0034088,CAUSES,Acute Rejection,Pulmonary Valve Insufficiency,fndg,patf,1,CAUSES_FNDGcausPATF
+C3273245,C1262018,CAUSES,Acute Rejection,Graft failure,fndg,patf,2,CAUSES_FNDGcausPATF
+C3273245,C1373218,CAUSES,Acute Rejection,Decreased Immunologic Activity [PE],fndg,patf,2,CAUSES_FNDGcausPATF
+C3274777,C0015376,CAUSES,Severely Abnormal Ventricular Ejection Fraction,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3274777,C0019080,CAUSES,Severely Abnormal Ventricular Ejection Fraction,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C3274777,C0026766,CAUSES,Severely Abnormal Ventricular Ejection Fraction,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C3274777,C0442856,CAUSES,Severely Abnormal Ventricular Ejection Fraction,Hypoperfusion,fndg,patf,1,CAUSES_FNDGcausPATF
+C3277906,C0036980,CAUSES,Cardiac dysfunction,"Shock, Cardiogenic",fndg,patf,2,CAUSES_FNDGcausPATF
+C3278574,C0021368,CAUSES,Increased IL-6,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3278575,C3714514,CAUSES,Increased IL-8,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C3280118,C0020517,CAUSES,Mild disorder,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C3280118,C0235029,CAUSES,Mild disorder,neurological complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C3280118,C3714514,CAUSES,Mild disorder,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C3280470,C1854704,CAUSES,Benign condition,Metabolic Ketosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C3280502,C0342579,CAUSES,"Diarrhea, malabsorptive",Electrolyte imbalance,fndg,patf,1,CAUSES_FNDGcausPATF
+C3280670,C0021359,CAUSES,"PREGNANCY LOSS, RECURRENT, SUSCEPTIBILITY TO, 1",Infertility,fndg,patf,1,CAUSES_FNDGcausPATF
+C3476546,C0035228,CAUSES,Symptoms score,Respiratory Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C3494174,C0036974,CAUSES,Food Insecurity,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C3533163,C0021368,CAUSES,Total symptom score,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3537184,C0036980,CAUSES,Non-ST Elevation Myocardial Infarction by ECG Finding,"Shock, Cardiogenic",fndg,patf,1,CAUSES_FNDGcausPATF
+C3540840,C0011071,CAUSES,Sign or Symptom,Sudden death,fndg,patf,1,CAUSES_FNDGcausPATF
+C3540840,C0021368,CAUSES,Sign or Symptom,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3540840,C0031154,CAUSES,Sign or Symptom,Peritonitis,fndg,patf,1,CAUSES_FNDGcausPATF
+C3540840,C0041582,CAUSES,Sign or Symptom,Ulcer,fndg,patf,1,CAUSES_FNDGcausPATF
+C3540840,C3686920,CAUSES,Sign or Symptom,Early embryonic death,fndg,patf,1,CAUSES_FNDGcausPATF
+C3540840,C3714514,CAUSES,Sign or Symptom,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C3549495,C0034065,CAUSES,Low flow state,Pulmonary Embolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C3553304,C0333169,CAUSES,Subepithelial fibrosis,Partial obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C3554336,C0242184,CAUSES,Swelling of endothelial cells,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C3639994,C0020517,CAUSES,Discordance,Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
+C3639994,C0332448,CAUSES,Discordance,Infiltration,fndg,patf,1,CAUSES_FNDGcausPATF
+C3665437,C0001122,CAUSES,Serum phosphate concentrations above normal (finding),Acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C3665437,C0024348,CAUSES,Serum phosphate concentrations above normal (finding),Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C3670500,C0011304,CAUSES,Neuronal degeneration,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C3671928,C0599335,CAUSES,Pulmonary exudate,pulmonary hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C3671958,C0015927,CAUSES,Reproductive failure,Fetal Death,fndg,patf,1,CAUSES_FNDGcausPATF
+C3671958,C0151526,CAUSES,Reproductive failure,Premature Birth,fndg,patf,1,CAUSES_FNDGcausPATF
+C3671958,C0333951,CAUSES,Reproductive failure,Growth arrest,fndg,patf,1,CAUSES_FNDGcausPATF
+C3671964,C0028778,CAUSES,Infiltration of peribronchiolar tissue,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C3686622,C0019080,CAUSES,Excessive grooming,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C3686869,C0026766,CAUSES,Microthrombosis,Multiple Organ Failure,fndg,patf,8,CAUSES_FNDGcausPATF
+C3686869,C0036974,CAUSES,Microthrombosis,Shock,fndg,patf,2,CAUSES_FNDGcausPATF
+C3686869,C0242184,CAUSES,Microthrombosis,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C3686869,C0920711,CAUSES,Microthrombosis,lung ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C3687252,C0021368,CAUSES,Eosinophilic inflammation,Inflammation,fndg,patf,3,CAUSES_FNDGcausPATF
+C3687252,C0679330,CAUSES,Eosinophilic inflammation,abnormal secretion,fndg,patf,1,CAUSES_FNDGcausPATF
+C3693346,C0242656,CAUSES,Delayed Treatment,Disease Progression,fndg,patf,3,CAUSES_FNDGcausPATF
+C3693346,C3714514,CAUSES,Delayed Treatment,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C3714432,C0021655,CAUSES,Excessive oral intake,Insulin Resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C3714738,C0013418,CAUSES,Compliance,Dystocia,fndg,patf,1,CAUSES_FNDGcausPATF
+C3714738,C0599949,CAUSES,Compliance,Arterial Stiffness,fndg,patf,1,CAUSES_FNDGcausPATF
+C3806166,C0000786,CAUSES,Poor outcome,Spontaneous abortion,fndg,patf,1,CAUSES_FNDGcausPATF
+C3806200,C0035410,CAUSES,Skeletal muscle damage,Rhabdomyolysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C3808291,C0017181,CAUSES,Enteric fistula,Gastrointestinal Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C3813607,C1155266,CAUSES,Infantile Gastroesophageal Reflux,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C3816499,C0001349,CAUSES,Pathogenic,Acute-Phase Reaction,fndg,patf,1,CAUSES_FNDGcausPATF
+C3816499,C0002994,CAUSES,Pathogenic,Angioedema,fndg,patf,1,CAUSES_FNDGcausPATF
+C3816499,C0011304,CAUSES,Pathogenic,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C3816499,C0021368,CAUSES,Pathogenic,Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C3816499,C0022116,CAUSES,Pathogenic,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C3816499,C0031154,CAUSES,Pathogenic,Peritonitis,fndg,patf,3,CAUSES_FNDGcausPATF
+C3816499,C0161818,CAUSES,Pathogenic,Respiratory complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C3816499,C0162633,CAUSES,Pathogenic,Viral Shedding,fndg,patf,1,CAUSES_FNDGcausPATF
+C3816499,C0206277,CAUSES,Pathogenic,Fatal Outcome,fndg,patf,1,CAUSES_FNDGcausPATF
+C3816499,C0745283,CAUSES,Pathogenic,INFECTIOUS PROCESS,fndg,patf,1,CAUSES_FNDGcausPATF
+C3816499,C1155266,CAUSES,Pathogenic,Inflammatory Response,fndg,patf,2,CAUSES_FNDGcausPATF
+C3816499,C3714514,CAUSES,Pathogenic,Infection,fndg,patf,4,CAUSES_FNDGcausPATF
+C3816745,C3714514,CAUSES,1+,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C3827002,C0021368,CAUSES,Ground Glass Opacity,Inflammation,fndg,patf,6,CAUSES_FNDGcausPATF
+C3827688,C0543419,CAUSES,Ureter Compression,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C3829692,C0021368,CAUSES,Histologic Chorioamnionitis,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3840880,C0011304,CAUSES,Traffic,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C3840880,C0020564,CAUSES,Traffic,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C3840880,C0021368,CAUSES,Traffic,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3840880,C0242781,CAUSES,Traffic,disease transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C3840880,C0700148,CAUSES,Traffic,Congestion,fndg,patf,3,CAUSES_FNDGcausPATF
+C3840882,C1261287,CAUSES,5 mm,Stenosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C3842675,C0333966,CAUSES,Day 3,Giant hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C3842781,C0021368,CAUSES,Injury 4,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3842784,C0019080,CAUSES,Injury 1,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C3843057,C3714514,CAUSES,Second half,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C3843058,C0752350,CAUSES,First half,Embryo Death,fndg,patf,1,CAUSES_FNDGcausPATF
+C3843156,C3714514,CAUSES,Less often,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C3843353,C0004366,CAUSES,Very Difficult,Autoimmune Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C3843353,C0024348,CAUSES,Very Difficult,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C3843353,C3714514,CAUSES,Very Difficult,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C3843640,C0041582,CAUSES,> 2/day,Ulcer,fndg,patf,1,CAUSES_FNDGcausPATF
+C3843661,C0020517,CAUSES,Too little,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C3844332,C0016059,CAUSES,Not sure,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C3844729,C0026766,CAUSES,Very Important,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C3844729,C3714514,CAUSES,Very Important,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C3845286,C1373218,CAUSES,Presumed Pathogenic,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C3845287,C0020517,CAUSES,Weak positive,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C3845736,C0020517,CAUSES,Omission,Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
+C3845748,C0034065,CAUSES,Hematologic complication,Pulmonary Embolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C3845876,C1155266,CAUSES,Consequent,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C3846005,C0035320,CAUSES,Room air,Retinal Neovascularization,fndg,patf,1,CAUSES_FNDGcausPATF
+C3846514,C0028778,CAUSES,Direct Visualization,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C3846676,C0015376,CAUSES,Confidential,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3872830,C0011304,CAUSES,Inflammatory lesion,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C3872830,C0021376,CAUSES,Inflammatory lesion,Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3887628,C0021368,CAUSES,Circulating immune complexes,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C3887644,C0020507,CAUSES,Inflammatory infiltrate,Hyperplasia,fndg,patf,1,CAUSES_FNDGcausPATF
+C3887644,C0034063,CAUSES,Inflammatory infiltrate,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C3890554,C0021655,CAUSES,Physical Inactivity,Insulin Resistance,fndg,patf,2,CAUSES_FNDGcausPATF
+C3890554,C3714514,CAUSES,Physical Inactivity,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C3890735,C0020517,CAUSES,Complete Response with Incomplete Platelet Recovery,Hypersensitivity,fndg,patf,3,CAUSES_FNDGcausPATF
+C3890735,C0021368,CAUSES,Complete Response with Incomplete Platelet Recovery,Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C3897895,C0015924,CAUSES,Placental Lesion,Fetal Anoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C4011395,C0920563,CAUSES,Mature adipocytes,Insulin Sensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C4011846,C3714514,CAUSES,Sporadic occurrence,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C4012240,C0004144,CAUSES,Atelectatic lungs,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4012240,C0242184,CAUSES,Atelectatic lungs,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C4013684,C0026846,CAUSES,Chronic denervation,Muscular Atrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C4014463,C0026766,CAUSES,Hyperinflammatory state,Multiple Organ Failure,fndg,patf,2,CAUSES_FNDGcausPATF
+C4014463,C0040053,CAUSES,Hyperinflammatory state,Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4014463,C0340515,CAUSES,Hyperinflammatory state,Myocardial dysfunction,fndg,patf,1,CAUSES_FNDGcausPATF
+C4018909,C0001364,CAUSES,Overdose,Massive Hepatic Necrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4018909,C0034063,CAUSES,Overdose,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C4018909,C0036974,CAUSES,Overdose,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C4018909,C0041582,CAUSES,Overdose,Ulcer,fndg,patf,1,CAUSES_FNDGcausPATF
+C4018909,C0919924,CAUSES,Overdose,pulmonary toxicity,fndg,patf,1,CAUSES_FNDGcausPATF
+C4018909,C3160770,CAUSES,Overdose,Minor bleeding problems,fndg,patf,1,CAUSES_FNDGcausPATF
+C4021734,C0011164,CAUSES,Abnormality of mitochondrial metabolism,Abnormal degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
+C4021734,C0011304,CAUSES,Abnormality of mitochondrial metabolism,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C4021734,C0015376,CAUSES,Abnormality of mitochondrial metabolism,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4021734,C0021368,CAUSES,Abnormality of mitochondrial metabolism,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4021734,C0021655,CAUSES,Abnormality of mitochondrial metabolism,Insulin Resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C4021734,C0026766,CAUSES,Abnormality of mitochondrial metabolism,Multiple Organ Failure,fndg,patf,3,CAUSES_FNDGcausPATF
+C4022575,C0013418,CAUSES,Inertia,Dystocia,fndg,patf,1,CAUSES_FNDGcausPATF
+C4022659,C1096176,CAUSES,Mitochondrial depletion,Mitochondrial Damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4022803,C0332448,CAUSES,Increased inflammatory response,Infiltration,fndg,patf,1,CAUSES_FNDGcausPATF
+C4036057,C0004366,CAUSES,Too low,Autoimmune Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C4036057,C1527304,CAUSES,Too low,Allergic Reaction,fndg,patf,1,CAUSES_FNDGcausPATF
+C4036468,C0020517,CAUSES,High avidity,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C4045969,C0342579,CAUSES,Physical Barriers,Electrolyte imbalance,fndg,patf,1,CAUSES_FNDGcausPATF
+C4047662,C0151521,CAUSES,Altered microbiota,Bacterial resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C4047662,C0679316,CAUSES,Altered microbiota,Dysmotility,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0013922,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Embolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0014591,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Epistaxis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0016059,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Fibrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0017565,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Gingival Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0019080,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Hemorrhage,fndg,patf,4,CAUSES_FNDGcausPATF
+C4050466,C0020517,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
+C4050466,C0021308,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Infarction,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0021376,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0022116,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Ischemia,fndg,patf,3,CAUSES_FNDGcausPATF
+C4050466,C0026766,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Multiple Organ Failure,fndg,patf,3,CAUSES_FNDGcausPATF
+C4050466,C0036974,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0036983,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Septic Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0042024,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Urinary Incontinence,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0042143,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Uterine Rupture,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0235029,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,neurological complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0242781,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,disease transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C0543419,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C1155266,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C1373218,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C4050466,C3714514,CAUSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Infection,fndg,patf,6,CAUSES_FNDGcausPATF
+C4054230,C0011304,CAUSES,Pathologic Response,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C4054230,C0013604,CAUSES,Pathologic Response,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055223,C1155266,CAUSES,Clinical Response,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055264,C0013604,CAUSES,Cellular Debris,Edema,fndg,patf,2,CAUSES_FNDGcausPATF
+C4055482,C3714514,CAUSES,Airway Compromise,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0001122,CAUSES,Accumulation,Acidosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0002940,CAUSES,Accumulation,Aneurysm,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0002994,CAUSES,Accumulation,Angioedema,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0008767,CAUSES,Accumulation,Cicatrization,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0011304,CAUSES,Accumulation,Demyelination,fndg,patf,6,CAUSES_FNDGcausPATF
+C4055506,C0012359,CAUSES,Accumulation,Pathological Dilatation,fndg,patf,3,CAUSES_FNDGcausPATF
+C4055506,C0013604,CAUSES,Accumulation,Edema,fndg,patf,4,CAUSES_FNDGcausPATF
+C4055506,C0016059,CAUSES,Accumulation,Fibrosis,fndg,patf,4,CAUSES_FNDGcausPATF
+C4055506,C0018188,CAUSES,Accumulation,Granuloma,fndg,patf,2,CAUSES_FNDGcausPATF
+C4055506,C0019080,CAUSES,Accumulation,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0020564,CAUSES,Accumulation,Hypertrophy,fndg,patf,5,CAUSES_FNDGcausPATF
+C4055506,C0020963,CAUSES,Accumulation,Immune Tolerance,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0021368,CAUSES,Accumulation,Inflammation,fndg,patf,12,CAUSES_FNDGcausPATF
+C4055506,C0021376,CAUSES,Accumulation,Chronic inflammation,fndg,patf,5,CAUSES_FNDGcausPATF
+C4055506,C0021655,CAUSES,Accumulation,Insulin Resistance,fndg,patf,2,CAUSES_FNDGcausPATF
+C4055506,C0022116,CAUSES,Accumulation,Ischemia,fndg,patf,5,CAUSES_FNDGcausPATF
+C4055506,C0024348,CAUSES,Accumulation,Lysis,fndg,patf,2,CAUSES_FNDGcausPATF
+C4055506,C0026766,CAUSES,Accumulation,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0028778,CAUSES,Accumulation,Obstruction,fndg,patf,3,CAUSES_FNDGcausPATF
+C4055506,C0029445,CAUSES,Accumulation,Bone necrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0034063,CAUSES,Accumulation,Pulmonary Edema,fndg,patf,6,CAUSES_FNDGcausPATF
+C4055506,C0036974,CAUSES,Accumulation,Shock,fndg,patf,2,CAUSES_FNDGcausPATF
+C4055506,C0040053,CAUSES,Accumulation,Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0041755,CAUSES,Accumulation,Adverse reaction to drug,fndg,patf,2,CAUSES_FNDGcausPATF
+C4055506,C0151686,CAUSES,Accumulation,Growth retardation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0151763,CAUSES,Accumulation,Liver damage,fndg,patf,2,CAUSES_FNDGcausPATF
+C4055506,C0152254,CAUSES,Accumulation,Fatty degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0220981,CAUSES,Accumulation,Metabolic acidosis,fndg,patf,2,CAUSES_FNDGcausPATF
+C4055506,C0235029,CAUSES,Accumulation,neurological complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0235063,CAUSES,Accumulation,Respiratory Depression,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0332448,CAUSES,Accumulation,Infiltration,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0333165,CAUSES,Accumulation,Acute obstruction,fndg,patf,2,CAUSES_FNDGcausPATF
+C4055506,C0333563,CAUSES,Accumulation,Hyaline membrane,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0333979,CAUSES,Accumulation,Secondary hyperplasia,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C0700148,CAUSES,Accumulation,Congestion,fndg,patf,2,CAUSES_FNDGcausPATF
+C4055506,C1096176,CAUSES,Accumulation,Mitochondrial Damage,fndg,patf,4,CAUSES_FNDGcausPATF
+C4055506,C1155266,CAUSES,Accumulation,Inflammatory Response,fndg,patf,2,CAUSES_FNDGcausPATF
+C4055506,C1261287,CAUSES,Accumulation,Stenosis,fndg,patf,3,CAUSES_FNDGcausPATF
+C4055506,C1704489,CAUSES,Accumulation,Extended Rotated Sidebent,fndg,patf,2,CAUSES_FNDGcausPATF
+C4055506,C1817997,CAUSES,Accumulation,chronic inflammatory response,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C3241936,CAUSES,Accumulation,Non-cardiogenic pulmonary edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C4055506,C3714514,CAUSES,Accumulation,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C4068542,C0002064,CAUSES,Alveolar ventilation,"Alkalosis, Respiratory",fndg,patf,2,CAUSES_FNDGcausPATF
+C4068833,C0013604,CAUSES,Vascularity,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C4068833,C0019080,CAUSES,Vascularity,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4068833,C0022116,CAUSES,Vascularity,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C4072750,C0036983,CAUSES,Gastrointestinal pathogens,Septic Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C4086268,C0013604,CAUSES,Exacerbation,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C4086268,C0015376,CAUSES,Exacerbation,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4086268,C0019080,CAUSES,Exacerbation,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4086268,C0021368,CAUSES,Exacerbation,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4086268,C0032962,CAUSES,Exacerbation,Pregnancy Complications,fndg,patf,1,CAUSES_FNDGcausPATF
+C4086268,C0035228,CAUSES,Exacerbation,Respiratory Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C4086268,C0036980,CAUSES,Exacerbation,"Shock, Cardiogenic",fndg,patf,1,CAUSES_FNDGcausPATF
+C4086268,C0235063,CAUSES,Exacerbation,Respiratory Depression,fndg,patf,1,CAUSES_FNDGcausPATF
+C4086268,C0242656,CAUSES,Exacerbation,Disease Progression,fndg,patf,1,CAUSES_FNDGcausPATF
+C4086268,C1155266,CAUSES,Exacerbation,Inflammatory Response,fndg,patf,2,CAUSES_FNDGcausPATF
+C4086268,C2717792,CAUSES,Exacerbation,Airway Remodeling,fndg,patf,2,CAUSES_FNDGcausPATF
+C4086564,C0028778,CAUSES,Mass Effect,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C4227689,C0021368,CAUSES,"Cholestatic liver disease, progressive",Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4227689,C1261287,CAUSES,"Cholestatic liver disease, progressive",Stenosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4228838,C0003860,CAUSES,Immune complex deposition,Arteritis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4228838,C0013687,CAUSES,Immune complex deposition,effusion,fndg,patf,1,CAUSES_FNDGcausPATF
+C4264624,C0040053,CAUSES,Likely pathogenic,Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4270730,C0041582,CAUSES,Contact pressure,Ulcer,fndg,patf,1,CAUSES_FNDGcausPATF
+C4288557,C0021368,CAUSES,One Activity Hour,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4289767,C0000786,CAUSES,Colonization,Spontaneous abortion,fndg,patf,1,CAUSES_FNDGcausPATF
+C4289767,C0007642,CAUSES,Colonization,Cellulitis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4289767,C0020963,CAUSES,Colonization,Immune Tolerance,fndg,patf,1,CAUSES_FNDGcausPATF
+C4289767,C0021368,CAUSES,Colonization,Inflammation,fndg,patf,4,CAUSES_FNDGcausPATF
+C4289767,C0021376,CAUSES,Colonization,Chronic inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C4289767,C0026766,CAUSES,Colonization,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C4289767,C0027544,CAUSES,Colonization,Necrotic debris,fndg,patf,2,CAUSES_FNDGcausPATF
+C4289767,C0043241,CAUSES,Colonization,Wound Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C4289767,C0162633,CAUSES,Colonization,Viral Shedding,fndg,patf,1,CAUSES_FNDGcausPATF
+C4289767,C0392707,CAUSES,Colonization,Atopy,fndg,patf,1,CAUSES_FNDGcausPATF
+C4289767,C0543419,CAUSES,Colonization,Sequela of disorder,fndg,patf,1,CAUSES_FNDGcausPATF
+C4289767,C1155266,CAUSES,Colonization,Inflammatory Response,fndg,patf,3,CAUSES_FNDGcausPATF
+C4289767,C3714514,CAUSES,Colonization,Infection,fndg,patf,4,CAUSES_FNDGcausPATF
+C4296962,C0231178,CAUSES,Normal function,Chronic failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C4313225,C0004144,CAUSES,Interstitial infiltrates,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4313322,C0013604,CAUSES,Alveolar damage,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C4313322,C0019080,CAUSES,Alveolar damage,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4313322,C0035229,CAUSES,Alveolar damage,Respiratory Insufficiency,fndg,patf,13,CAUSES_FNDGcausPATF
+C4313322,C0206277,CAUSES,Alveolar damage,Fatal Outcome,fndg,patf,1,CAUSES_FNDGcausPATF
+C4313322,C0333501,CAUSES,Alveolar damage,Acute necrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4313322,C0920645,CAUSES,Alveolar damage,renal hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C4313412,C0442856,CAUSES,"Bradycardia, severe",Hypoperfusion,fndg,patf,1,CAUSES_FNDGcausPATF
+C4314584,C0036974,CAUSES,Disseminated coagulopathy,Shock,fndg,patf,2,CAUSES_FNDGcausPATF
+C4314584,C0036982,CAUSES,Disseminated coagulopathy,"Shock, Hemorrhagic",fndg,patf,1,CAUSES_FNDGcausPATF
+C4314584,C0036983,CAUSES,Disseminated coagulopathy,Septic Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C4314584,C0040053,CAUSES,Disseminated coagulopathy,Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4314584,C0206277,CAUSES,Disseminated coagulopathy,Fatal Outcome,fndg,patf,1,CAUSES_FNDGcausPATF
+C4314646,C0242184,CAUSES,Respiratory disturbances,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C4314692,C0151526,CAUSES,Neurologic decline,Premature Birth,fndg,patf,1,CAUSES_FNDGcausPATF
+C4315781,C0032914,CAUSES,Heterogeneous causes,Pre-Eclampsia,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C0019080,CAUSES,High Level,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C0020517,CAUSES,High Level,Hypersensitivity,fndg,patf,3,CAUSES_FNDGcausPATF
+C4321237,C0021368,CAUSES,High Level,Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C4321237,C0021655,CAUSES,High Level,Insulin Resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C0026766,CAUSES,High Level,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C0034063,CAUSES,High Level,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C0036974,CAUSES,High Level,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C0036983,CAUSES,High Level,Septic Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C0040053,CAUSES,High Level,Thrombosis,fndg,patf,2,CAUSES_FNDGcausPATF
+C4321237,C0151526,CAUSES,High Level,Premature Birth,fndg,patf,2,CAUSES_FNDGcausPATF
+C4321237,C0151763,CAUSES,High Level,Liver damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C0242184,CAUSES,High Level,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C0332448,CAUSES,High Level,Infiltration,fndg,patf,2,CAUSES_FNDGcausPATF
+C4321237,C0333641,CAUSES,High Level,Atrophic,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C0340515,CAUSES,High Level,Myocardial dysfunction,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C1155266,CAUSES,High Level,Inflammatory Response,fndg,patf,7,CAUSES_FNDGcausPATF
+C4321237,C1265828,CAUSES,High Level,Progressive inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C1373218,CAUSES,High Level,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C1520005,CAUSES,High Level,Viral Pathogenesis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321237,C3714514,CAUSES,High Level,Infection,fndg,patf,5,CAUSES_FNDGcausPATF
+C4321351,C0018188,CAUSES,Low Level,Granuloma,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321351,C0020517,CAUSES,Low Level,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321351,C0021368,CAUSES,Low Level,Inflammation,fndg,patf,3,CAUSES_FNDGcausPATF
+C4321351,C0035624,CAUSES,Low Level,Rigor Mortis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321351,C0151763,CAUSES,Low Level,Liver damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321351,C0242184,CAUSES,Low Level,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321351,C0398353,CAUSES,Low Level,Hypercapnic respiratory failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321351,C1155266,CAUSES,Low Level,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C4321351,C1720824,CAUSES,Low Level,Sudden Cardiac Arrest,fndg,patf,2,CAUSES_FNDGcausPATF
+C4321351,C3714514,CAUSES,Low Level,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C4321351,C3887486,CAUSES,Low Level,Interstitial lung fibrosis,fndg,patf,2,CAUSES_FNDGcausPATF
+C4329354,C0024348,CAUSES,Apoptosis and Necrosis,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4329354,C1155266,CAUSES,Apoptosis and Necrosis,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C4478245,C0020564,CAUSES,Small pulmonary arteries,Hypertrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C4478245,C0334096,CAUSES,Small pulmonary arteries,Intimal proliferation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4484175,C0024348,CAUSES,Growth Phase,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4524690,C0020517,CAUSES,Sharp Edges,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C4528288,C0026846,CAUSES,Decreased Cellularity Present,Muscular Atrophy,fndg,patf,1,CAUSES_FNDGcausPATF
+C4534306,C0020542,CAUSES,Supplemental oxygen,Pulmonary Hypertension,fndg,patf,2,CAUSES_FNDGcausPATF
+C4534363,C0232483,CAUSES,At home,Reflux,fndg,patf,1,CAUSES_FNDGcausPATF
+C4534363,C3714514,CAUSES,At home,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C4538596,C0021368,CAUSES,Upper airway infection,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4553202,C0021376,CAUSES,"Glucose Intolerance, CTCAE",Chronic inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4554418,C0028778,CAUSES,Parallel,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C4554631,C0028778,CAUSES,"Nasal Congestion, CTCAE",Obstruction,fndg,patf,2,CAUSES_FNDGcausPATF
+C4554677,C0242781,CAUSES,International travel,disease transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C4554677,C3714514,CAUSES,International travel,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C4684714,C3887513,CAUSES,Missing Data,Avascular necrosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4692653,C3714514,CAUSES,Transgressive behavior,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C4692816,C0020542,CAUSES,Progressive heart failure,Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
+C4693174,C0020517,CAUSES,Hyperreactivity,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C4697784,C0011304,CAUSES,Bystander,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C4698447,C1373218,CAUSES,Patient age,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C4698492,C0021368,CAUSES,Very strong,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4698719,C0036974,CAUSES,Confirmed case,Shock,fndg,patf,2,CAUSES_FNDGcausPATF
+C4698719,C0206277,CAUSES,Confirmed case,Fatal Outcome,fndg,patf,1,CAUSES_FNDGcausPATF
+C4698719,C3714514,CAUSES,Confirmed case,Infection,fndg,patf,2,CAUSES_FNDGcausPATF
+C4699158,C0000786,CAUSES,Increased risk,Spontaneous abortion,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699158,C0011304,CAUSES,Increased risk,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699158,C0032797,CAUSES,Increased risk,Postpartum Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699158,C0087086,CAUSES,Increased risk,Thrombus,fndg,patf,2,CAUSES_FNDGcausPATF
+C4699158,C0151526,CAUSES,Increased risk,Premature Birth,fndg,patf,3,CAUSES_FNDGcausPATF
+C4699158,C0161816,CAUSES,Increased risk,Cardiac complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699158,C0161818,CAUSES,Increased risk,Respiratory complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699158,C1373218,CAUSES,Increased risk,Decreased Immunologic Activity [PE],fndg,patf,2,CAUSES_FNDGcausPATF
+C4699158,C1961112,CAUSES,Increased risk,Heart Decompensation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699158,C3714514,CAUSES,Increased risk,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699164,C0036980,CAUSES,Poor function,"Shock, Cardiogenic",fndg,patf,1,CAUSES_FNDGcausPATF
+C4699164,C0268030,CAUSES,Poor function,Acidemia,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699181,C0036679,CAUSES,Lattice,Diastasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699274,C0011304,CAUSES,>50 cells,Demyelination,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699285,C0032046,CAUSES,Advanced maternal age,Placenta Previa,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699298,C0004366,CAUSES,Non-self,Autoimmune Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699298,C0021368,CAUSES,Non-self,Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C4699298,C1155266,CAUSES,Non-self,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699378,C0020517,CAUSES,High expression,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699378,C0021368,CAUSES,High expression,Inflammation,fndg,patf,2,CAUSES_FNDGcausPATF
+C4699378,C0151763,CAUSES,High expression,Liver damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699378,C0232342,CAUSES,High expression,Decreased vascular flow,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699379,C0024348,CAUSES,Low expression,Lysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699474,C0036974,CAUSES,Pathological findings,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699572,C3714514,CAUSES,High probability,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699573,C0020517,CAUSES,Low probability,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699619,C0021368,CAUSES,>40 years,Inflammation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699622,C0020517,CAUSES,Low activity,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
+C4699705,C1373218,CAUSES,Too long,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
+C4700167,C0015376,CAUSES,severe hemorrhage,Extravasation,fndg,patf,1,CAUSES_FNDGcausPATF
+C4700167,C0031154,CAUSES,severe hemorrhage,Peritonitis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4700167,C0036974,CAUSES,severe hemorrhage,Shock,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0013418,CAUSES,Underlying,Dystocia,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0013604,CAUSES,Underlying,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0019080,CAUSES,Underlying,Hemorrhage,fndg,patf,5,CAUSES_FNDGcausPATF
+C4722602,C0020517,CAUSES,Underlying,Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
+C4722602,C0020542,CAUSES,Underlying,Pulmonary Hypertension,fndg,patf,2,CAUSES_FNDGcausPATF
+C4722602,C0020581,CAUSES,Underlying,Hyphema,fndg,patf,2,CAUSES_FNDGcausPATF
+C4722602,C0021308,CAUSES,Underlying,Infarction,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0021368,CAUSES,Underlying,Inflammation,fndg,patf,3,CAUSES_FNDGcausPATF
+C4722602,C0021655,CAUSES,Underlying,Insulin Resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0028778,CAUSES,Underlying,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0034063,CAUSES,Underlying,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0035410,CAUSES,Underlying,Rhabdomyolysis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0040053,CAUSES,Underlying,Thrombosis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0041582,CAUSES,Underlying,Ulcer,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0151763,CAUSES,Underlying,Liver damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0242184,CAUSES,Underlying,Hypoxia,fndg,patf,2,CAUSES_FNDGcausPATF
+C4722602,C0242973,CAUSES,Underlying,Ventricular Dysfunction,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0302148,CAUSES,Underlying,Blood Clot,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0549384,CAUSES,Underlying,Hypotonic-Hyporesponsive Episode,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0597849,CAUSES,Underlying,low renin hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C0598905,CAUSES,Underlying,multiorgan damage,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C1155266,CAUSES,Underlying,Inflammatory Response,fndg,patf,1,CAUSES_FNDGcausPATF
+C4722602,C1373218,CAUSES,Underlying,Decreased Immunologic Activity [PE],fndg,patf,7,CAUSES_FNDGcausPATF
+C4738506,C0021655,CAUSES,Operating,Insulin Resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C4738665,C3714514,CAUSES,Weighted score,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C4744843,C0004144,CAUSES,Endobronchial Obstruction,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C4745084,C0162633,CAUSES,Medical Condition,Viral Shedding,fndg,patf,1,CAUSES_FNDGcausPATF
+C4747995,C0242781,CAUSES,Nasal secretions,disease transmission,fndg,patf,1,CAUSES_FNDGcausPATF
+C4748623,C0034063,CAUSES,Ventilatory support,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
+C4748623,C0340515,CAUSES,Ventilatory support,Myocardial dysfunction,fndg,patf,1,CAUSES_FNDGcausPATF

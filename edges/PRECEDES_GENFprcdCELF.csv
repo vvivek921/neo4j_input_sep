@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010366,C0007586,PRECEDES,"Crossing Over, Genetic",Cell Cycle,genf,celf,1,PRECEDES_GENFprcdCELF
+C0026882,C0010813,PRECEDES,Mutation,Cytokinesis,genf,celf,1,PRECEDES_GENFprcdCELF
+C0026882,C0037083,PRECEDES,Mutation,Signal Transduction,genf,celf,1,PRECEDES_GENFprcdCELF
+C0026882,C0162638,PRECEDES,Mutation,Apoptosis,genf,celf,1,PRECEDES_GENFprcdCELF
+C0035380,C0042774,PRECEDES,Reverse Transcription,Virus Replication,genf,celf,1,PRECEDES_GENFprcdCELF
+C0040649,C0004391,PRECEDES,"Transcription, Genetic",Autophagy,genf,celf,1,PRECEDES_GENFprcdCELF
+C0040649,C4231795,PRECEDES,"Transcription, Genetic",lysosomal proteolysis,genf,celf,1,PRECEDES_GENFprcdCELF
+C0314627,C0007586,PRECEDES,Gene function,Cell Cycle,genf,celf,1,PRECEDES_GENFprcdCELF
+C0314627,C0007595,PRECEDES,Gene function,Cell Growth,genf,celf,1,PRECEDES_GENFprcdCELF
+C0314627,C0007608,PRECEDES,Gene function,cell motility,genf,celf,1,PRECEDES_GENFprcdCELF
+C0314627,C0206431,PRECEDES,Gene function,Antigen Presentation,genf,celf,1,PRECEDES_GENFprcdCELF
+C0314627,C1154413,PRECEDES,Gene function,Intercellular Communication Process,genf,celf,1,PRECEDES_GENFprcdCELF
+C0598496,C3156665,PRECEDES,Gene Silencing,interleukin-6 secretion,genf,celf,1,PRECEDES_GENFprcdCELF
+C0678935,C0042774,PRECEDES,RNA translation,Virus Replication,genf,celf,1,PRECEDES_GENFprcdCELF
+C1158016,C0162638,PRECEDES,rRNA catabolic process,Apoptosis,genf,celf,1,PRECEDES_GENFprcdCELF
+C1257756,C0010813,PRECEDES,RNA Degradation,Cytokinesis,genf,celf,1,PRECEDES_GENFprcdCELF
+C1511695,C1326292,PRECEDES,DNA Sequence Rearrangement,pore complex assembly,genf,celf,1,PRECEDES_GENFprcdCELF
+C1512167,C0162638,PRECEDES,Ectopic Gene Expression,Apoptosis,genf,celf,1,PRECEDES_GENFprcdCELF
+C1512554,C0037083,PRECEDES,Hypermethylation,Signal Transduction,genf,celf,1,PRECEDES_GENFprcdCELF

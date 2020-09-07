@@ -1,0 +1,16 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002645,C0304320,LOWER_THAN,amoxicillin,Third generation cephalosporin,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C0006968,C0020933,LOWER_THAN,Carbapenems,imipenem,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C0007559,C0030842,LOWER_THAN,ceftazidime,penicillins,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C0007561,C0007559,LOWER_THAN,ceftriaxone,ceftazidime,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C0008293,C0041441,LOWER_THAN,chlortetracycline,tylosin,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C0022487,C0052796,LOWER_THAN,kanamycin,azithromycin,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C0052796,C0013090,LOWER_THAN,azithromycin,doxycycline,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C0055015,C0055011,LOWER_THAN,cefuroxime axetil,cefpodoxime,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C0059374,C0013090,LOWER_THAN,enrofloxacin,doxycycline,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C0065718,C0013089,LOWER_THAN,marcellomycin,doxorubicin,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C0262967,C0038425,LOWER_THAN,dihydrostreptomycin,streptomycin,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C0279516,C0039644,LOWER_THAN,Anti-Bacterial Agents,tetracycline,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C1145701,C0002679,LOWER_THAN,amphotericin B liposomal,amphotericin B,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C1869686,C0013090,LOWER_THAN,cefovecin,doxycycline,antb,antb,1,LOWER_THAN_ANTBlowtANTB
+C3536856,C0002645,LOWER_THAN,Cephalosporins,amoxicillin,antb,antb,2,LOWER_THAN_ANTBlowtANTB

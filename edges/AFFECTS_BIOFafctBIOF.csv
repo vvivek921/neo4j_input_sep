@@ -1,0 +1,55 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003261,C0042765,AFFECTS,Antibody Formation,Virulence,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0003261,C1817972,AFFECTS,Antibody Formation,immune system development,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0013203,C0042765,AFFECTS,Drug resistance,Virulence,biof,biof,2,AFFECTS_BIOFafctBIOF
+C0013203,C1699206,AFFECTS,Drug resistance,Virologic Failure,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0019868,C0220781,AFFECTS,Homeostasis,Anabolism,biof,biof,4,AFFECTS_BIOFafctBIOF
+C0019868,C1820201,AFFECTS,Homeostasis,tissue remodeling,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0019868,C3714634,AFFECTS,Homeostasis,Biological Processes,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0019868,C3853734,AFFECTS,Homeostasis,viral process,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0024352,C0042765,AFFECTS,Lysogeny,Virulence,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0042765,C1537068,AFFECTS,Virulence,Virus Internalization,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0042765,C1721019,AFFECTS,Virulence,Virus Attachment,biof,biof,3,AFFECTS_BIOFafctBIOF
+C0042765,C1721020,AFFECTS,Virulence,Virus Membrane Fusion,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0042767,C0042765,AFFECTS,Virus Activation,Virulence,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0042767,C0220781,AFFECTS,Virus Activation,Anabolism,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0220781,C0003261,AFFECTS,Anabolism,Antibody Formation,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0220781,C0019868,AFFECTS,Anabolism,Homeostasis,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0220781,C0042765,AFFECTS,Anabolism,Virulence,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0220781,C0085224,AFFECTS,Anabolism,Virus Integration,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0220781,C0282629,AFFECTS,Anabolism,Virus Assembly,biof,biof,2,AFFECTS_BIOFafctBIOF
+C0220781,C1537068,AFFECTS,Anabolism,Virus Internalization,biof,biof,2,AFFECTS_BIOFafctBIOF
+C0242290,C0019868,AFFECTS,Organogenesis,Homeostasis,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0242735,C1160534,AFFECTS,Germination,ripening,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0282629,C0220781,AFFECTS,Virus Assembly,Anabolism,biof,biof,3,AFFECTS_BIOFafctBIOF
+C0282629,C1537068,AFFECTS,Virus Assembly,Virus Internalization,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0392673,C0042765,AFFECTS,Adaptation,Virulence,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0597069,C2936397,AFFECTS,Nitrification,Nitrogen Cycle,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0678661,C3714634,AFFECTS,biological control,Biological Processes,biof,biof,3,AFFECTS_BIOFafctBIOF
+C0678796,C3853734,AFFECTS,additive drug interaction,viral process,biof,biof,1,AFFECTS_BIOFafctBIOF
+C0683168,C0042765,AFFECTS,synergistic drug interaction,Virulence,biof,biof,1,AFFECTS_BIOFafctBIOF
+C1160638,C0220781,AFFECTS,Viral life cycle,Anabolism,biof,biof,2,AFFECTS_BIOFafctBIOF
+C1160638,C0282629,AFFECTS,Viral life cycle,Virus Assembly,biof,biof,1,AFFECTS_BIOFafctBIOF
+C1160638,C1537068,AFFECTS,Viral life cycle,Virus Internalization,biof,biof,2,AFFECTS_BIOFafctBIOF
+C1160638,C1721019,AFFECTS,Viral life cycle,Virus Attachment,biof,biof,2,AFFECTS_BIOFafctBIOF
+C1537068,C0220781,AFFECTS,Virus Internalization,Anabolism,biof,biof,2,AFFECTS_BIOFafctBIOF
+C1537068,C0282629,AFFECTS,Virus Internalization,Virus Assembly,biof,biof,1,AFFECTS_BIOFafctBIOF
+C1537068,C1160638,AFFECTS,Virus Internalization,Viral life cycle,biof,biof,5,AFFECTS_BIOFafctBIOF
+C1537068,C1721019,AFFECTS,Virus Internalization,Virus Attachment,biof,biof,5,AFFECTS_BIOFafctBIOF
+C1537068,C1721020,AFFECTS,Virus Internalization,Virus Membrane Fusion,biof,biof,2,AFFECTS_BIOFafctBIOF
+C1537068,C3853734,AFFECTS,Virus Internalization,viral process,biof,biof,1,AFFECTS_BIOFafctBIOF
+C1721019,C0220781,AFFECTS,Virus Attachment,Anabolism,biof,biof,1,AFFECTS_BIOFafctBIOF
+C1721019,C1537068,AFFECTS,Virus Attachment,Virus Internalization,biof,biof,5,AFFECTS_BIOFafctBIOF
+C1721019,C1721020,AFFECTS,Virus Attachment,Virus Membrane Fusion,biof,biof,2,AFFECTS_BIOFafctBIOF
+C1721019,C3853734,AFFECTS,Virus Attachment,viral process,biof,biof,1,AFFECTS_BIOFafctBIOF
+C1721020,C1537068,AFFECTS,Virus Membrane Fusion,Virus Internalization,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3714634,C0019868,AFFECTS,Biological Processes,Homeostasis,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3714634,C0042765,AFFECTS,Biological Processes,Virulence,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3714634,C1537068,AFFECTS,Biological Processes,Virus Internalization,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3820740,C0042765,AFFECTS,viroporin,Virulence,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3820740,C0282629,AFFECTS,viroporin,Virus Assembly,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3820740,C1160638,AFFECTS,viroporin,Viral life cycle,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3820740,C3714634,AFFECTS,viroporin,Biological Processes,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3853734,C0220781,AFFECTS,viral process,Anabolism,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3853734,C1721019,AFFECTS,viral process,Virus Attachment,biof,biof,1,AFFECTS_BIOFafctBIOF
+C3894443,C0019868,AFFECTS,reactive oxygen species biosynthetic process,Homeostasis,biof,biof,1,AFFECTS_BIOFafctBIOF

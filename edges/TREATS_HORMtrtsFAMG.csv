@@ -1,0 +1,10 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001617,C0026591,TREATS,Adrenal Cortex Hormones,Mother (person),horm,famg,3,TREATS_HORMtrtsFAMG
+C0001617,C0030551,TREATS,Adrenal Cortex Hormones,parent,horm,famg,1,TREATS_HORMtrtsFAMG
+C0002006,C1707686,TREATS,aldosterone,Descendent,horm,famg,1,TREATS_HORMtrtsFAMG
+C0010137,C0680063,TREATS,cortisone,Offspring,horm,famg,1,TREATS_HORMtrtsFAMG
+C0014912,C0870134,TREATS,estradiol,Ancestor,horm,famg,1,TREATS_HORMtrtsFAMG
+C0025219,C0337547,TREATS,melatonin,Younger child,horm,famg,1,TREATS_HORMtrtsFAMG
+C0032952,C0015576,TREATS,prednisone,Family,horm,famg,2,TREATS_HORMtrtsFAMG
+C0036884,C0870134,TREATS,Gonadal Steroid Hormones,Ancestor,horm,famg,1,TREATS_HORMtrtsFAMG
+C0772289,C0080103,TREATS,"corticotropin-releasing factor, human",Relative (related person),horm,famg,1,TREATS_HORMtrtsFAMG

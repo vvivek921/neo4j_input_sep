@@ -1,0 +1,37 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001344,C0242429,NEG_CAUSES,Acute pharyngitis,Sore Throat,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0004096,C0043144,NEG_CAUSES,Asthma,Wheezing,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0008679,C0231218,NEG_CAUSES,Chronic disease,Malaise,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0009450,C0011991,NEG_CAUSES,Communicable Diseases,Diarrhea,dsyn,sosy,2,NEG_CAUSES_DSYNncausSOSY
+C0010054,C0235710,NEG_CAUSES,Coronary Arteriosclerosis,Chest discomfort,dsyn,sosy,2,NEG_CAUSES_DSYNncausSOSY
+C0011311,C0011991,NEG_CAUSES,Dengue Fever,Diarrhea,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0011882,C0030193,NEG_CAUSES,Diabetic Neuropathies,Pain,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0013369,C0011991,NEG_CAUSES,Dysentery,Diarrhea,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0017536,C0011991,NEG_CAUSES,Giardiasis,Diarrhea,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0021400,C0392171,NEG_CAUSES,Influenza,Influenza-like symptoms,dsyn,sosy,2,NEG_CAUSES_DSYNncausSOSY
+C0021832,C0011991,NEG_CAUSES,"Intestinal Diseases, Parasitic",Diarrhea,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0024530,C0015967,NEG_CAUSES,Malaria,Fever,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0026918,C0011991,NEG_CAUSES,Mycobacterium Infections,Diarrhea,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0026946,C0015967,NEG_CAUSES,Mycoses,Fever,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0032285,C0015967,NEG_CAUSES,Pneumonia,Fever,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0032310,C0241235,NEG_CAUSES,"Pneumonia, Viral",Purulent sputum,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0036310,C0011991,NEG_CAUSES,Scheuermann's Disease,Diarrhea,dsyn,sosy,4,NEG_CAUSES_DSYNncausSOSY
+C0036690,C0349410,NEG_CAUSES,Septicemia,Single organ dysfunction,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0037199,C0015468,NEG_CAUSES,Sinusitis,Facial Pain,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0040830,C0011991,NEG_CAUSES,Trench Fever,Diarrhea,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0040830,C1384493,NEG_CAUSES,Trench Fever,Catarrh,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0042740,C0037090,NEG_CAUSES,Viral syndrome,"Signs and Symptoms, Respiratory",dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0042769,C0043144,NEG_CAUSES,Virus Diseases,Wheezing,dsyn,sosy,5,NEG_CAUSES_DSYNncausSOSY
+C0206750,C0011991,NEG_CAUSES,Coronavirus Infections,Diarrhea,dsyn,sosy,3,NEG_CAUSES_DSYNncausSOSY
+C0275522,C0015967,NEG_CAUSES,Asymptomatic Infections,Fever,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0275522,C0037090,NEG_CAUSES,Asymptomatic Infections,"Signs and Symptoms, Respiratory",dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0275522,C0231218,NEG_CAUSES,Asymptomatic Infections,Malaise,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0275524,C0011991,NEG_CAUSES,Coinfection,Diarrhea,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0338430,C0036572,NEG_CAUSES,Limbic Encephalitis,Seizures,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0850034,C0036572,NEG_CAUSES,neurological infection,Seizures,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C0857035,C0038450,NEG_CAUSES,acute anaphylaxis,Stridor,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C1707758,C2364111,NEG_CAUSES,Direct Contact Transmission Infection,Ageusia,dsyn,sosy,3,NEG_CAUSES_DSYNncausSOSY
+C5203670,C0010200,NEG_CAUSES,COVID-19,Coughing,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C5203670,C0015967,NEG_CAUSES,COVID-19,Fever,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C5203670,C0037090,NEG_CAUSES,COVID-19,"Signs and Symptoms, Respiratory",dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY
+C5203670,C0037285,NEG_CAUSES,COVID-19,Skin Manifestations,dsyn,sosy,1,NEG_CAUSES_DSYNncausSOSY

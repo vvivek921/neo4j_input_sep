@@ -1,0 +1,47 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002978,C0002940,NEG_DIAGNOSES,angiogram,Aneurysm,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0002978,C0034065,NEG_DIAGNOSES,angiogram,Pulmonary Embolism,diap,patf,4,NEG_DIAGNOSES_DIAPndiagPATF
+C0002978,C0042487,NEG_DIAGNOSES,angiogram,Venous Thrombosis,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0004398,C3714514,NEG_DIAGNOSES,Autopsy,Infection,diap,patf,2,NEG_DIAGNOSES_DIAPndiagPATF
+C0005558,C0041582,NEG_DIAGNOSES,Biopsy,Ulcer,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0006290,C0019080,NEG_DIAGNOSES,Bronchoscopy,Hemorrhage,diap,patf,2,NEG_DIAGNOSES_DIAPndiagPATF
+C0013516,C0020542,NEG_DIAGNOSES,Echocardiography,Pulmonary Hypertension,diap,patf,3,NEG_DIAGNOSES_DIAPndiagPATF
+C0013516,C0020564,NEG_DIAGNOSES,Echocardiography,Hypertrophy,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0017654,C0542211,NEG_DIAGNOSES,Glomerular Filtration Rate,Postoperative renal failure,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0024485,C0333548,NEG_DIAGNOSES,Magnetic Resonance Imaging,Acute infarct,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0024671,C0521174,NEG_DIAGNOSES,Mammography,Microcalcification,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0027853,C0020517,NEG_DIAGNOSES,Neurologic Examination,Hypersensitivity,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0034606,C0012359,NEG_DIAGNOSES,Radionuclide Imaging,Pathological Dilatation,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0034606,C0019080,NEG_DIAGNOSES,Radionuclide Imaging,Hemorrhage,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0034606,C0034065,NEG_DIAGNOSES,Radionuclide Imaging,Pulmonary Embolism,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0039985,C0034065,NEG_DIAGNOSES,Plain chest X-ray,Pulmonary Embolism,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0039985,C0332448,NEG_DIAGNOSES,Plain chest X-ray,Infiltration,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0040405,C0034065,NEG_DIAGNOSES,X-Ray Computed Tomography,Pulmonary Embolism,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0040405,C0333548,NEG_DIAGNOSES,X-Ray Computed Tomography,Acute infarct,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0040405,C3714514,NEG_DIAGNOSES,X-Ray Computed Tomography,Infection,diap,patf,2,NEG_DIAGNOSES_DIAPndiagPATF
+C0041618,C0012359,NEG_DIAGNOSES,Ultrasonography,Pathological Dilatation,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0041618,C0020564,NEG_DIAGNOSES,Ultrasonography,Hypertrophy,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0041618,C0042487,NEG_DIAGNOSES,Ultrasonography,Venous Thrombosis,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0041618,C0152254,NEG_DIAGNOSES,Ultrasonography,Fatty degeneration,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0086143,C0242656,NEG_DIAGNOSES,Diagnostic tests,Disease Progression,diap,patf,2,NEG_DIAGNOSES_DIAPndiagPATF
+C0193388,C0152254,NEG_DIAGNOSES,Biopsy of liver (procedure),Fatty degeneration,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0202691,C0151699,NEG_DIAGNOSES,CAT scan of head,Intracranial Hemorrhage,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0202823,C0034065,NEG_DIAGNOSES,Chest CT,Pulmonary Embolism,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0202823,C0332448,NEG_DIAGNOSES,Chest CT,Infiltration,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0203702,C0034065,NEG_DIAGNOSES,Pulmonary ventilation perfusion study,Pulmonary Embolism,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0220908,C0020517,NEG_DIAGNOSES,Screening procedure,Hypersensitivity,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0220908,C3714514,NEG_DIAGNOSES,Screening procedure,Infection,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0412692,C0013604,NEG_DIAGNOSES,Magnetic Resonance Imaging (MRI) of Heart,Edema,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0599551,C0040038,NEG_DIAGNOSES,angiotomography,Thromboembolism,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0677490,C0034065,NEG_DIAGNOSES,Pulmonary angiogram,Pulmonary Embolism,diap,patf,2,NEG_DIAGNOSES_DIAPndiagPATF
+C0750430,C0332448,NEG_DIAGNOSES,Work-up,Infiltration,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0872102,C1520005,NEG_DIAGNOSES,assay development,Viral Pathogenesis,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C0948501,C0018188,NEG_DIAGNOSES,Ultrasound examination,Granuloma,diap,patf,2,NEG_DIAGNOSES_DIAPndiagPATF
+C1275583,C0019080,NEG_DIAGNOSES,Computerized axial tomography of brain with radiopaque contrast,Hemorrhage,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C1275583,C0151699,NEG_DIAGNOSES,Computerized axial tomography of brain with radiopaque contrast,Intracranial Hemorrhage,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C1536105,C0002940,NEG_DIAGNOSES,Computed Tomography Angiography,Aneurysm,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C1536105,C0034065,NEG_DIAGNOSES,Computed Tomography Angiography,Pulmonary Embolism,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C3272310,C0002940,NEG_DIAGNOSES,Cardiac Computerized Tomographic Angiography,Aneurysm,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C3842377,C0332448,NEG_DIAGNOSES,Chest radiograph,Infiltration,diap,patf,3,NEG_DIAGNOSES_DIAPndiagPATF
+C4086729,C0087086,NEG_DIAGNOSES,Pathologic Examination,Thrombus,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF
+C4763552,C0002940,NEG_DIAGNOSES,Multi-detector Computed Tomography Angiography,Aneurysm,diap,patf,1,NEG_DIAGNOSES_DIAPndiagPATF

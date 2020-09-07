@@ -1,0 +1,63 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001807,C0009671,AFFECTS,Aggressive behavior,Conflict (Psychology),inbe,inbe,1,AFFECTS_INBEafctINBE
+C0001807,C0085271,AFFECTS,Aggressive behavior,Self-Injurious Behavior,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0001948,C0018687,AFFECTS,Alcohol consumption,Health behavior,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0001948,C0029164,AFFECTS,Alcohol consumption,Dental Hygiene,inbe,inbe,3,AFFECTS_INBEafctINBE
+C0001948,C0037369,AFFECTS,Alcohol consumption,Smoking,inbe,inbe,2,AFFECTS_INBEafctINBE
+C0001948,C1537021,AFFECTS,Alcohol consumption,HIV risk behavior,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0008300,C0016488,AFFECTS,Choice Behavior,Food Selection,inbe,inbe,2,AFFECTS_INBEafctINBE
+C0011546,C0086931,AFFECTS,emotional dependency,Risk Behavior,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0012625,C0016488,AFFECTS,Disclosure,Food Selection,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0013989,C0678856,AFFECTS,Empathy,skill,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0016468,C0008300,AFFECTS,Food Habits,Choice Behavior,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0016995,C0001948,AFFECTS,Gambling,Alcohol consumption,inbe,inbe,2,AFFECTS_INBEafctINBE
+C0016995,C0556328,AFFECTS,Gambling,Pattern of drinking alcohol,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0016995,C0556346,AFFECTS,Gambling,Binge Drinking,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0016995,C0858352,AFFECTS,Gambling,gambler,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0018464,C0542299,AFFECTS,Behaviorial Habits,Behavioral change,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0018464,C0680038,AFFECTS,Behaviorial Habits,membership,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0018687,C0013989,AFFECTS,Health behavior,Empathy,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0018687,C0542299,AFFECTS,Health behavior,Behavioral change,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0018687,C0684274,AFFECTS,Health behavior,Self-control as a personality trait,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0019872,C0009671,AFFECTS,Homicide,Conflict (Psychology),inbe,inbe,1,AFFECTS_INBEafctINBE
+C0026530,C0000849,AFFECTS,Morale,Absenteeism,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0033023,C0013989,AFFECTS,Prejudice,Empathy,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0037369,C0029164,AFFECTS,Smoking,Dental Hygiene,inbe,inbe,2,AFFECTS_INBEafctINBE
+C0037369,C0543414,AFFECTS,Smoking,Tobacco use,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0037369,C1537021,AFFECTS,Smoking,HIV risk behavior,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0037369,C4505437,AFFECTS,Smoking,Smoking Habit,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0086152,C0008300,AFFECTS,Dietary Habits,Choice Behavior,inbe,inbe,2,AFFECTS_INBEafctINBE
+C0150499,C0683573,AFFECTS,Caring,personal experience,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0234857,C0026530,AFFECTS,Singing,Morale,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0543414,C0037369,AFFECTS,Tobacco use,Smoking,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0543414,C4083280,AFFECTS,Tobacco use,Vaping,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0556346,C0001948,AFFECTS,Binge Drinking,Alcohol consumption,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0678341,C0001948,AFFECTS,Responsibility,Alcohol consumption,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0678341,C0009671,AFFECTS,Responsibility,Conflict (Psychology),inbe,inbe,1,AFFECTS_INBEafctINBE
+C0678341,C0012625,AFFECTS,Responsibility,Disclosure,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0678341,C0237657,AFFECTS,Responsibility,professional identity,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0678341,C0439656,AFFECTS,Responsibility,Voluntary,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0678341,C0683293,AFFECTS,Responsibility,sentiments,inbe,inbe,2,AFFECTS_INBEafctINBE
+C0678341,C4505097,AFFECTS,Responsibility,Health Risk Behaviors,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0678856,C0439656,AFFECTS,skill,Voluntary,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0678856,C0542299,AFFECTS,skill,Behavioral change,inbe,inbe,2,AFFECTS_INBEafctINBE
+C0678856,C0684274,AFFECTS,skill,Self-control as a personality trait,inbe,inbe,2,AFFECTS_INBEafctINBE
+C0678856,C4277664,AFFECTS,skill,Healthy Lifestyle,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0678984,C0678341,AFFECTS,sincerity,Responsibility,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0679782,C0000849,AFFECTS,condom use,Absenteeism,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0679782,C0086931,AFFECTS,condom use,Risk Behavior,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0680212,C0678856,AFFECTS,self-sufficiency,skill,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0683303,C0679007,AFFECTS,RISK-TAKING BEHAVIOR,decision-making skills,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0684274,C0001807,AFFECTS,Self-control as a personality trait,Aggressive behavior,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0684274,C0439656,AFFECTS,Self-control as a personality trait,Voluntary,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0699778,C0680423,AFFECTS,intravenous drug use,Homophobia,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0814099,C0678341,AFFECTS,personal responsibility,Responsibility,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0815099,C0237657,AFFECTS,problem-solving skills,professional identity,inbe,inbe,1,AFFECTS_INBEafctINBE
+C0870663,C0001948,AFFECTS,Honest,Alcohol consumption,inbe,inbe,1,AFFECTS_INBEafctINBE
+C1136077,C0376390,AFFECTS,Whistleblower,Whistleblowing,inbe,inbe,1,AFFECTS_INBEafctINBE
+C1321107,C4277664,AFFECTS,Health seeking behavior,Healthy Lifestyle,inbe,inbe,1,AFFECTS_INBEafctINBE
+C1321605,C0085116,AFFECTS,Compliance behavior,Entrepreneurship,inbe,inbe,1,AFFECTS_INBEafctINBE
+C3494474,C0008300,AFFECTS,Hand Hygiene,Choice Behavior,inbe,inbe,1,AFFECTS_INBEafctINBE
+C3494474,C0018687,AFFECTS,Hand Hygiene,Health behavior,inbe,inbe,1,AFFECTS_INBEafctINBE
+C3826173,C0018687,AFFECTS,Human behavior,Health behavior,inbe,inbe,1,AFFECTS_INBEafctINBE
+C4505437,C0037369,AFFECTS,Smoking Habit,Smoking,inbe,inbe,2,AFFECTS_INBEafctINBE

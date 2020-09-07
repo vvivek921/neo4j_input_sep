@@ -1,0 +1,448 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001347,C0005953,AUGMENTS,Acute-Phase Proteins,Bone Marrow,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0001473,C0014609,AUGMENTS,Adenosine Triphosphatases,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0002199,C0024296,AUGMENTS,Interferon-alpha,Lymphoid Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0002199,C0819757,AUGMENTS,Interferon-alpha,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0003009,C0014257,AUGMENTS,angiotensin II,Endothelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0003009,C0027061,AUGMENTS,angiotensin II,Myocardium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0003241,C0026969,AUGMENTS,Antibodies,Myelin,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0003241,C0596638,AUGMENTS,Antibodies,Gut associated lymphoid tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0003242,C1517914,AUGMENTS,"Antibodies, Anti-Idiotypic",Mouse Liver,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0003440,C0014257,AUGMENTS,Antithrombins,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0003595,C0040300,AUGMENTS,Apolipoprotein E,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0003765,C0025255,AUGMENTS,arginine,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0004630,C0014257,AUGMENTS,Bacterial Toxins,Endothelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0006100,C1304649,AUGMENTS,Bradykinin,Tissue fiber,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0006685,C1304649,AUGMENTS,Calcium Channel,Tissue fiber,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0007578,C0014257,AUGMENTS,Cell Adhesion Molecules,Endothelium,aapp,tisu,6,AUGMENTS_AAPPaugmTISU
+C0009325,C0040300,AUGMENTS,collagen,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0009325,C0819757,AUGMENTS,collagen,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0009333,C0225325,AUGMENTS,Collagen Type IV,Collagen fiber,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0009498,C0819757,AUGMENTS,Complement System Proteins,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0009630,C1517914,AUGMENTS,Concanavalin A,Mouse Liver,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0009630,C1519474,AUGMENTS,Concanavalin A,Mouse Spleen,aapp,tisu,14,AUGMENTS_AAPPaugmTISU
+C0010590,C0014257,AUGMENTS,cycloserine,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0010590,C0014609,AUGMENTS,cycloserine,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0010590,C0026724,AUGMENTS,cycloserine,Mucous Membrane,aapp,tisu,3,AUGMENTS_AAPPaugmTISU
+C0010590,C0282491,AUGMENTS,cycloserine,Structure of germinal center of lymph node,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0010590,C1179187,AUGMENTS,cycloserine,Lamina Propria,aapp,tisu,3,AUGMENTS_AAPPaugmTISU
+C0014372,C0026724,AUGMENTS,Enterotoxins,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0014822,C0005953,AUGMENTS,Erythropoietin,Bone Marrow,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0015506,C0014257,AUGMENTS,factor VIII,Endothelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0015879,C0014609,AUGMENTS,Ferritin,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0015879,C0040300,AUGMENTS,Ferritin,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0015982,C0819757,AUGMENTS,Fibrin,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0016006,C0018180,AUGMENTS,fibrinogen,Granulation Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0016194,C0026724,AUGMENTS,Flagellin,Mucous Membrane,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0020289,C0015350,AUGMENTS,Hydrolase,Extracellular Matrix,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0020838,C0021839,AUGMENTS,Secretory Immunoglobulin A,Intestinal Mucosa,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021641,C0021839,AUGMENTS,Insulin,Intestinal Mucosa,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021641,C0682594,AUGMENTS,Insulin,Extensor muscle,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021665,C0819757,AUGMENTS,Insulin-Like Growth Factor I,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021699,C0014257,AUGMENTS,Integral Membrane Proteins,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021699,C0025255,AUGMENTS,Integral Membrane Proteins,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021701,C0014257,AUGMENTS,Integrins,Endothelium,aapp,tisu,4,AUGMENTS_AAPPaugmTISU
+C0021701,C0014609,AUGMENTS,Integrins,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021740,C0027428,AUGMENTS,Recombinant Interferon-gamma,Structure of mucous membrane of nose,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021740,C0040300,AUGMENTS,Recombinant Interferon-gamma,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021747,C1522730,AUGMENTS,Interferons,CNS (MMHCC),aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021755,C0007301,AUGMENTS,Interleukin-1,Cartilage,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021755,C0014257,AUGMENTS,Interleukin-1,Endothelium,aapp,tisu,6,AUGMENTS_AAPPaugmTISU
+C0021755,C0014609,AUGMENTS,Interleukin-1,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021755,C0026844,AUGMENTS,Interleukin-1,"Muscle, Smooth, Vascular",aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021755,C0819757,AUGMENTS,Interleukin-1,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021755,C1514845,AUGMENTS,Interleukin-1,Renal Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021755,C1521713,AUGMENTS,Interleukin-1,CNS - Brain (MMHCC),aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021756,C0024296,AUGMENTS,Interleukin-2,Lymphoid Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021756,C1518039,AUGMENTS,Interleukin-2,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021758,C0014609,AUGMENTS,interleukin-4,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021758,C1519474,AUGMENTS,interleukin-4,Mouse Spleen,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021760,C0001527,AUGMENTS,interleukin-6,Adipose tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021760,C0014257,AUGMENTS,interleukin-6,Endothelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0021760,C0014261,AUGMENTS,interleukin-6,"Endothelium, Vascular",aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021760,C0026845,AUGMENTS,interleukin-6,Muscle Tissue,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0021760,C0819757,AUGMENTS,interleukin-6,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021760,C1514845,AUGMENTS,interleukin-6,Renal Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021760,C1518039,AUGMENTS,interleukin-6,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0021760,C1521713,AUGMENTS,interleukin-6,CNS - Brain (MMHCC),aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0022709,C0014257,AUGMENTS,Peptidyl-Dipeptidase A,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0022709,C1518039,AUGMENTS,Peptidyl-Dipeptidase A,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0022917,C1514845,AUGMENTS,Lactate Dehydrogenase,Renal Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0023206,C0026724,AUGMENTS,Lectin,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0023820,C0014257,AUGMENTS,Lipoproteins,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0024337,C0025255,AUGMENTS,lysine,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0024395,C0475358,AUGMENTS,Lactic acid dehydrogenase isoenzyme 5,Tumor tissue sample,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0025252,C0819757,AUGMENTS,Membrane Proteins,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0025252,C1511200,AUGMENTS,Membrane Proteins,Bladder Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0025252,C1521747,AUGMENTS,Membrane Proteins,Mammary Gland Parenchyma,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0027895,C1304649,AUGMENTS,Neuropeptides,Tissue fiber,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0030016,C0040300,AUGMENTS,Oxidoreductase,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0030190,C0014257,AUGMENTS,Plasminogen Activator Inhibitor 1,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0030940,C0015350,AUGMENTS,Peptide Hydrolases,Extracellular Matrix,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0030940,C0027428,AUGMENTS,Peptide Hydrolases,Structure of mucous membrane of nose,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0030940,C0040300,AUGMENTS,Peptide Hydrolases,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0034783,C0014257,AUGMENTS,Adrenergic Receptor,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0034826,C1267092,AUGMENTS,Muscarinic Acetylcholine Receptor,Smooth muscle (tissue),aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0034861,C0040300,AUGMENTS,Recombinant Proteins,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0034861,C1522642,AUGMENTS,Recombinant Proteins,Clone,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0037657,C0040300,AUGMENTS,Somatomedins,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0038838,C0819757,AUGMENTS,superoxide dismutase,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0040018,C0014257,AUGMENTS,thrombin,Endothelium,aapp,tisu,4,AUGMENTS_AAPPaugmTISU
+C0040018,C0014261,AUGMENTS,thrombin,"Endothelium, Vascular",aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0040048,C0014257,AUGMENTS,Thromboplastin,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0040048,C0040300,AUGMENTS,Thromboplastin,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0040663,C0014257,AUGMENTS,Transducin,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0040676,C0040300,AUGMENTS,Transferase,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0040691,C0027061,AUGMENTS,Transforming Growth Factors,Myocardium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0040691,C1711368,AUGMENTS,Transforming Growth Factors,Marginal Zone,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0041368,C0001527,AUGMENTS,Tumor Necrosis Factors,Adipose tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0041368,C0014257,AUGMENTS,Tumor Necrosis Factors,Endothelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0042210,C0021839,AUGMENTS,Vaccines,Intestinal Mucosa,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0042210,C0024296,AUGMENTS,Vaccines,Lymphoid Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0042210,C0026724,AUGMENTS,Vaccines,Mucous Membrane,aapp,tisu,29,AUGMENTS_AAPPaugmTISU
+C0042666,C0440746,AUGMENTS,Vimentin,brain tissue surgical material,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0042717,C0025255,AUGMENTS,Viral Fusion Proteins,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0042736,C0026969,AUGMENTS,Viral Proteins,Myelin,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0042971,C0014257,AUGMENTS,von Willebrand factor,Endothelium,aapp,tisu,4,AUGMENTS_AAPPaugmTISU
+C0044602,C0819757,AUGMENTS,1-Phosphatidylinositol 3-Kinase,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0051976,C0026724,AUGMENTS,anti-IgA,Mucous Membrane,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0052193,C0026969,AUGMENTS,apolipoprotein D,Myelin,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0052193,C1292533,AUGMENTS,apolipoprotein D,Tissue specimen,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0052193,C1514123,AUGMENTS,apolipoprotein D,Mouse Nerve,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0053409,C0040300,AUGMENTS,Invertase,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0056978,C0027061,AUGMENTS,Chemokine CXCL10,Myocardium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0057256,C0014609,AUGMENTS,Defensins,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0057256,C0027428,AUGMENTS,Defensins,Structure of mucous membrane of nose,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0057256,C0040300,AUGMENTS,Defensins,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0060323,C0014257,AUGMENTS,Fibrin fragment D,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0061877,C1514845,AUGMENTS,granzyme A,Renal Tissue,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0063695,C0014257,AUGMENTS,Intercellular adhesion molecule 1,Endothelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0063695,C0014609,AUGMENTS,Intercellular adhesion molecule 1,Epithelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0063695,C0027061,AUGMENTS,Intercellular adhesion molecule 1,Myocardium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0063695,C0040300,AUGMENTS,Intercellular adhesion molecule 1,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0063695,C0599331,AUGMENTS,Intercellular adhesion molecule 1,Nasal Epithelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0065827,C0021839,AUGMENTS,Measles Virus Nucleoprotein,Intestinal Mucosa,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0069676,C0014609,AUGMENTS,osteopontin,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0070099,C0007301,AUGMENTS,parathyroid hormone-related protein,Cartilage,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0072978,C0014257,AUGMENTS,RANTES,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0072978,C0819757,AUGMENTS,RANTES,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0072978,C1518039,AUGMENTS,RANTES,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0078056,C0014257,AUGMENTS,Vascular Cell Adhesion Molecule-1,Endothelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0078056,C0014609,AUGMENTS,Vascular Cell Adhesion Molecule-1,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0078067,C0027428,AUGMENTS,"Receptors, Vasoactive Intestinal Peptide",Structure of mucous membrane of nose,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0079189,C0005953,AUGMENTS,cytokine,Bone Marrow,aapp,tisu,3,AUGMENTS_AAPPaugmTISU
+C0079189,C0007301,AUGMENTS,cytokine,Cartilage,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0079189,C0014257,AUGMENTS,cytokine,Endothelium,aapp,tisu,9,AUGMENTS_AAPPaugmTISU
+C0079189,C0014261,AUGMENTS,cytokine,"Endothelium, Vascular",aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0079189,C0021839,AUGMENTS,cytokine,Intestinal Mucosa,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0079189,C0026724,AUGMENTS,cytokine,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0079189,C0026845,AUGMENTS,cytokine,Muscle Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0079189,C0027061,AUGMENTS,cytokine,Myocardium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0079189,C0819757,AUGMENTS,cytokine,Structure of parenchyma of lung,aapp,tisu,4,AUGMENTS_AAPPaugmTISU
+C0079189,C1304649,AUGMENTS,cytokine,Tissue fiber,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0079189,C1704223,AUGMENTS,cytokine,White Adipose Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0079459,C0005953,AUGMENTS,Granulocyte Colony-Stimulating Factor,Bone Marrow,aapp,tisu,3,AUGMENTS_AAPPaugmTISU
+C0079459,C0040300,AUGMENTS,Granulocyte Colony-Stimulating Factor,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0079460,C0005953,AUGMENTS,Granulocyte-Macrophage Colony-Stimulating Factor,Bone Marrow,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0079633,C0014257,AUGMENTS,interleukin-8,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0079633,C0014261,AUGMENTS,interleukin-8,"Endothelium, Vascular",aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0079633,C0040300,AUGMENTS,interleukin-8,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0079784,C0040300,AUGMENTS,Macrophage Colony-Stimulating Factor,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0083031,C0227261,AUGMENTS,interleukin-11,Small intestine mucous membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0084692,C0026724,AUGMENTS,Pulmonary Surfactant-Associated Protein D,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0085295,C0040300,AUGMENTS,interleukin-10,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0085828,C0819757,AUGMENTS,Transcription Factor AP-1,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0086344,C0040300,AUGMENTS,Immune response gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0107264,C1704223,AUGMENTS,brown adipose tissue uncoupling protein,White Adipose Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0108768,C0014257,AUGMENTS,CD14 Antigen,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0110610,C0027061,AUGMENTS,connective tissue growth factor,Myocardium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0115305,C0014257,AUGMENTS,E-Selectin,Endothelium,aapp,tisu,10,AUGMENTS_AAPPaugmTISU
+C0115305,C0014609,AUGMENTS,E-Selectin,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0120285,C0025255,AUGMENTS,Green Fluorescent Proteins,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0123759,C0027428,AUGMENTS,interleukin-12,Structure of mucous membrane of nose,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0123759,C0819757,AUGMENTS,interleukin-12,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0125090,C0014520,AUGMENTS,L-Selectin,Epidermis,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0125090,C0026724,AUGMENTS,L-Selectin,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0127082,C0015350,AUGMENTS,Interstitial Collagenase,Extracellular Matrix,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0132298,C0026969,AUGMENTS,neurotrophic factor,Myelin,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0162595,C0014257,AUGMENTS,Antiphospholipid Antibodies,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0162768,C0026724,AUGMENTS,Fusion protein,Mucous Membrane,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0164786,C0819757,AUGMENTS,Proto-Oncogene Proteins c-akt,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0165519,C0014609,AUGMENTS,Matrix Metalloproteinase 9,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0165519,C0015350,AUGMENTS,Matrix Metalloproteinase 9,Extracellular Matrix,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0165519,C0025255,AUGMENTS,Matrix Metalloproteinase 9,Tissue membrane,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0165519,C0819757,AUGMENTS,Matrix Metalloproteinase 9,Structure of parenchyma of lung,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0171427,C0040300,AUGMENTS,"PRRX1 protein, human",Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0172004,C0026724,AUGMENTS,"gp53, bovine viral diarrhea virus",Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0172537,C0015350,AUGMENTS,Matrix Metalloproteinase 2,Extracellular Matrix,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0172537,C0475358,AUGMENTS,Matrix Metalloproteinase 2,Tumor tissue sample,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0178774,C0025255,AUGMENTS,Nucleocapsid,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0209606,C0014261,AUGMENTS,Integrin alpha4beta1,"Endothelium, Vascular",aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0214743,C1267092,AUGMENTS,Interleukin-13,Smooth muscle (tissue),aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0215955,C0001527,AUGMENTS,"LCN2 protein, human",Adipose tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0218504,C1179418,AUGMENTS,Chemokine CXCL12,Bronchial-associated lymphoid tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0219433,C0026724,AUGMENTS,"POSTN protein, human",Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0219433,C1179626,AUGMENTS,"POSTN protein, human",Collagen fibril,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0242565,C0014257,AUGMENTS,Intercellular Adhesion Molecules,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0242957,C0586519,AUGMENTS,ERBB2 gene,Specimen from breast,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0243040,C0014257,AUGMENTS,"Adhesins, Bacterial",Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0243041,C0027061,AUGMENTS,Molecular Chaperones,Myocardium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0243043,C1515890,AUGMENTS,Heat-Shock Proteins 70,Adrenal Gland Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0248441,C0027061,AUGMENTS,"Ribosomal Protein S6 Kinases, 90-kDa",Myocardium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0254610,C0024296,AUGMENTS,Interleukin-15,Lymphoid Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0282554,C0005953,AUGMENTS,chemokine,Bone Marrow,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0282554,C0014257,AUGMENTS,chemokine,Endothelium,aapp,tisu,3,AUGMENTS_AAPPaugmTISU
+C0282554,C0026845,AUGMENTS,chemokine,Muscle Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0282651,C0014257,AUGMENTS,Selectins,Endothelium,aapp,tisu,4,AUGMENTS_AAPPaugmTISU
+C0282651,C0014261,AUGMENTS,Selectins,"Endothelium, Vascular",aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0295022,C0040300,AUGMENTS,TNF receptor-associated factor 3,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0299583,C0001527,AUGMENTS,leptin,Adipose tissue,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0299583,C1955394,AUGMENTS,leptin,Tissue specific,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0348035,C0014257,AUGMENTS,oxidized low density lipoprotein,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0378516,C0819757,AUGMENTS,Vascular Endothelial Growth Factor Receptor-1,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0378796,C0819757,AUGMENTS,Vascular Endothelial Growth Factor Receptor-2,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0389071,C0014257,AUGMENTS,Adiponectin,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0483249,C0014257,AUGMENTS,Protein C (activated),Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0524914,C0014520,AUGMENTS,chemokine receptor,Epidermis,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0524914,C0026724,AUGMENTS,chemokine receptor,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0528480,C0040300,AUGMENTS,Presenilin-2,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0529330,C0026844,AUGMENTS,"Receptor, Angiotensin, Type 1","Muscle, Smooth, Vascular",aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0534519,C0819757,AUGMENTS,Caspase-1,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0540511,C0014257,AUGMENTS,Angiopoietin-2,Endothelium,aapp,tisu,3,AUGMENTS_AAPPaugmTISU
+C0596902,C0025255,AUGMENTS,Membrane Transport Proteins,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0597357,C0000696,AUGMENTS,receptor,A Fibers,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0597357,C0014257,AUGMENTS,receptor,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0597357,C0014609,AUGMENTS,receptor,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0599220,C0025255,AUGMENTS,Protein Subunits,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0623362,C0015350,AUGMENTS,Matrix Metalloproteinases,Extracellular Matrix,aapp,tisu,3,AUGMENTS_AAPPaugmTISU
+C0623362,C0026969,AUGMENTS,Matrix Metalloproteinases,Myelin,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0623362,C0085872,AUGMENTS,Matrix Metalloproteinases,Basal lamina,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0663914,C0040300,AUGMENTS,IkappaB kinase,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0669372,C0014257,AUGMENTS,"NOS2A protein, human",Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0669372,C0014609,AUGMENTS,"NOS2A protein, human",Epithelium,aapp,tisu,3,AUGMENTS_AAPPaugmTISU
+C0669372,C0040300,AUGMENTS,"NOS2A protein, human",Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0669372,C0475358,AUGMENTS,"NOS2A protein, human",Tumor tissue sample,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0669372,C0819757,AUGMENTS,"NOS2A protein, human",Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0812309,C0026724,AUGMENTS,LTB gene,Mucous Membrane,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0812445,C0014257,AUGMENTS,CXCL1 gene,Endothelium,aapp,tisu,4,AUGMENTS_AAPPaugmTISU
+C0887901,C0025255,AUGMENTS,Caveolins,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0907549,C0040300,AUGMENTS,"phospholipase A2, group IIE protein",Body tissue,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0935996,C0040300,AUGMENTS,Signaling Pathway Gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0960880,C0040300,AUGMENTS,angiotensin converting enzyme 2,Body tissue,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C0960880,C1518039,AUGMENTS,angiotensin converting enzyme 2,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0960880,C1563740,AUGMENTS,angiotensin converting enzyme 2,Visceral Fat,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C0965245,C1521713,AUGMENTS,"CD274 protein, human",CNS - Brain (MMHCC),aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1143949,C0819757,AUGMENTS,"TNFSF10 protein, human",Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1143976,C1522592,AUGMENTS,"TREM2 protein, human",CNS - Spinal Cord (MMHCC),aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1174318,C0014257,AUGMENTS,"MAPK7 protein, human",Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1256770,C0014257,AUGMENTS,Vascular Endothelial Growth Factors,Endothelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C1256770,C0162867,AUGMENTS,Vascular Endothelial Growth Factors,Tunica Media,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1256770,C0819757,AUGMENTS,Vascular Endothelial Growth Factors,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1256770,C1955394,AUGMENTS,Vascular Endothelial Growth Factors,Tissue specific,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1292267,C0014257,AUGMENTS,procoagulant,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1305923,C0025255,AUGMENTS,Polypeptides,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1309370,C0014257,AUGMENTS,"CADM1 protein, human",Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1310463,C0040300,AUGMENTS,"IFIH1 protein, human",Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1310463,C0819757,AUGMENTS,"IFIH1 protein, human",Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1310463,C1514845,AUGMENTS,"IFIH1 protein, human",Renal Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1332386,C0025255,AUGMENTS,BCAR3 gene,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1332656,C0014257,AUGMENTS,C3 gene,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1332673,C0014520,AUGMENTS,ACKR2 gene,Epidermis,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1332673,C0026724,AUGMENTS,ACKR2 gene,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1332682,C0040300,AUGMENTS,CCL19 gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1332700,C0040300,AUGMENTS,CCR5 gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1332818,C0040300,AUGMENTS,CXCL14 gene,Body tissue,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C1332818,C0475358,AUGMENTS,CXCL14 gene,Tumor tissue sample,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1332822,C0440744,AUGMENTS,CXCR3 gene,Human tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1332838,C0014257,AUGMENTS,Candidate Disease Gene,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1333572,C0001527,AUGMENTS,FOXO1 gene,Adipose tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1333894,C0026845,AUGMENTS,HDAC5 gene,Muscle Tissue,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C1333908,C0819757,AUGMENTS,HMGB1 gene,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1333908,C1706784,AUGMENTS,HMGB1 gene,Alveolar Septum,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1334043,C0026724,AUGMENTS,Homologous Gene,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1334043,C0242692,AUGMENTS,Homologous Gene,Skeletal muscle structure,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1334078,C0040300,AUGMENTS,IFITM1 gene,Body tissue,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C1334088,C0819757,AUGMENTS,IGF1R gene,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1334125,C0005953,AUGMENTS,CXCR1 gene,Bone Marrow,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1334126,C0014257,AUGMENTS,CXCR2 gene,Endothelium,aapp,tisu,11,AUGMENTS_AAPPaugmTISU
+C1334545,C0040300,AUGMENTS,Major histocompatibility complex gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1335221,C0014520,AUGMENTS,PLA2G2A gene,Epidermis,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1335872,C1518039,AUGMENTS,STAT1 gene,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1335873,C1518039,AUGMENTS,STAT2 gene,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1336602,C0014257,AUGMENTS,TEK gene,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1336636,C0819757,AUGMENTS,TLR4 gene,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1336641,C0014609,AUGMENTS,TMPRSS2 gene,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1336641,C0440744,AUGMENTS,TMPRSS2 gene,Human tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1336692,C1522592,AUGMENTS,TYROBP gene,CNS - Spinal Cord (MMHCC),aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1336763,C0014609,AUGMENTS,Toll-Like Receptor Family Gene,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1336763,C0026724,AUGMENTS,Toll-Like Receptor Family Gene,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1336763,C0040300,AUGMENTS,Toll-Like Receptor Family Gene,Body tissue,aapp,tisu,3,AUGMENTS_AAPPaugmTISU
+C1364113,C0040300,AUGMENTS,CCL26 gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1366449,C0014257,AUGMENTS,F2R gene,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1366516,C1518039,AUGMENTS,IRF1 gene,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1366557,C0819757,AUGMENTS,TGFB1 gene,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1366566,C0026724,AUGMENTS,CCL27 gene,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1366587,C0040300,AUGMENTS,MCL1 gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1367307,C0026845,AUGMENTS,STAT3 gene,Muscle Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1367307,C0242692,AUGMENTS,STAT3 gene,Skeletal muscle structure,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1367472,C0819757,AUGMENTS,FN1 gene,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1367710,C0014257,AUGMENTS,C5 gene,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1412113,C0011646,AUGMENTS,SLC33A1 gene,Dermis,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1412113,C0014520,AUGMENTS,SLC33A1 gene,Epidermis,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1412537,C0242692,AUGMENTS,ARL2 gene,Skeletal muscle structure,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1412544,C0031153,AUGMENTS,ARNTL gene,Peritoneum,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1412740,C0040300,AUGMENTS,BATF gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1413161,C0040300,AUGMENTS,CBX6 gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1413162,C0040300,AUGMENTS,CBX7 gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1413299,C0026724,AUGMENTS,CDSN gene,Mucous Membrane,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C1413581,C0027061,AUGMENTS,COL3A1 gene,Myocardium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1414141,C0014609,AUGMENTS,DPP4 gene,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1414141,C0040300,AUGMENTS,DPP4 gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1414141,C1711368,AUGMENTS,DPP4 gene,Marginal Zone,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1414142,C0475358,AUGMENTS,DPP6 gene,Tumor tissue sample,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1414860,C1179418,AUGMENTS,FUS gene,Bronchial-associated lymphoid tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1414945,C1517914,AUGMENTS,GAL gene,Mouse Liver,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C1415351,C0014257,AUGMENTS,GTPBP1 gene,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1415587,C1521713,AUGMENTS,HLA-G gene,CNS - Brain (MMHCC),aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1415619,C0819757,AUGMENTS,HMOX1 gene,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1415782,C1514521,AUGMENTS,HSPD1 gene,Prostatic Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1415889,C1518039,AUGMENTS,IFI35 gene,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1415895,C1518039,AUGMENTS,IFIT3 gene,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1415898,C0040300,AUGMENTS,IFITM3 gene,Body tissue,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C1416467,C0027061,AUGMENTS,FOXP3 gene,Myocardium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1416479,C1518039,AUGMENTS,IRF9 gene,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1417005,C0025255,AUGMENTS,MAP1LC3A gene,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1417005,C0040300,AUGMENTS,MAP1LC3A gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1417203,C0001527,AUGMENTS,MMP14 gene,Adipose tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1417228,C0005953,AUGMENTS,MOG gene,Bone Marrow,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1417530,C0819757,AUGMENTS,MYD88 gene,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1417776,C0040300,AUGMENTS,NPC1 gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1418188,C0025255,AUGMENTS,OSBP gene,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1418252,C1518039,AUGMENTS,SERPINE1 gene,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1418298,C0040300,AUGMENTS,PCBP2 gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1418392,C0026969,AUGMENTS,PCSK7 gene,Myelin,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1418616,C0014520,AUGMENTS,PLA2G10 gene,Epidermis,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1418618,C1522062,AUGMENTS,PLA2G2C gene,Liver - Hepatocyte (MMHCC),aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1418779,C0001527,AUGMENTS,PPARGC1A gene,Adipose tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1418793,C0014520,AUGMENTS,PPIA gene,Epidermis,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1418879,C0014257,AUGMENTS,PRDX1 gene,Endothelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C1418880,C0440744,AUGMENTS,PRDX2 gene,Human tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1419320,C0001527,AUGMENTS,RBP4 gene,Adipose tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1420002,C0026724,AUGMENTS,SFTPA1 gene,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1420002,C0819757,AUGMENTS,SFTPA1 gene,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1421313,C0006298,AUGMENTS,UCP1 gene,Brown Fat,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1421386,C0677862,AUGMENTS,USP1 gene,Biopsy sample,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1421400,C0040300,AUGMENTS,USP22 gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1421435,C0014257,AUGMENTS,VCAM1 gene,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1421467,C1304649,AUGMENTS,TRPV1 gene,Tissue fiber,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1422018,C0025255,AUGMENTS,VPS4A gene,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1422064,C0014257,AUGMENTS,ACE2 gene,Endothelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C1422064,C0014609,AUGMENTS,ACE2 gene,Epithelium,aapp,tisu,7,AUGMENTS_AAPPaugmTISU
+C1422064,C0025255,AUGMENTS,ACE2 gene,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1422064,C0027061,AUGMENTS,ACE2 gene,Myocardium,aapp,tisu,5,AUGMENTS_AAPPaugmTISU
+C1422064,C0040300,AUGMENTS,ACE2 gene,Body tissue,aapp,tisu,4,AUGMENTS_AAPPaugmTISU
+C1422064,C0440744,AUGMENTS,ACE2 gene,Human tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1422064,C0475358,AUGMENTS,ACE2 gene,Tumor tissue sample,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1422064,C0599331,AUGMENTS,ACE2 gene,Nasal Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1422064,C0819757,AUGMENTS,ACE2 gene,Structure of parenchyma of lung,aapp,tisu,8,AUGMENTS_AAPPaugmTISU
+C1422064,C1521747,AUGMENTS,ACE2 gene,Mammary Gland Parenchyma,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1422169,C0014257,AUGMENTS,MAEA gene,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1423038,C0026845,AUGMENTS,IL22 gene,Muscle Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1423506,C0014257,AUGMENTS,SPINK5 gene,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1423506,C0025255,AUGMENTS,SPINK5 gene,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1423931,C0819757,AUGMENTS,ANGPTL4 gene,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1424235,C0014257,AUGMENTS,TRIM28 gene,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1424450,C1272575,AUGMENTS,RAPGEF3 gene,Heart tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1424999,C0040300,AUGMENTS,METTL3 gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1424999,C0475358,AUGMENTS,METTL3 gene,Tumor tissue sample,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1425745,C0040300,AUGMENTS,PDCD1LG2 gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1426200,C0684084,AUGMENTS,IL31 gene,Skin tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1426208,C0014609,AUGMENTS,SOCS1 gene,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1426208,C0586650,AUGMENTS,SOCS1 gene,Bronchial biopsy sample,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1427504,C0242692,AUGMENTS,MLIP gene,Skeletal muscle structure,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1442495,C0009780,AUGMENTS,ACIN1 gene,Connective Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1442495,C1184823,AUGMENTS,ACIN1 gene,Fibrous connective tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1442757,C0819757,AUGMENTS,SFTPB gene,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1448177,C0014257,AUGMENTS,"TNF protein, human",Endothelium,aapp,tisu,5,AUGMENTS_AAPPaugmTISU
+C1448177,C0026724,AUGMENTS,"TNF protein, human",Mucous Membrane,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C1448177,C0040300,AUGMENTS,"TNF protein, human",Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1448177,C0819757,AUGMENTS,"TNF protein, human",Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1448177,C1518039,AUGMENTS,"TNF protein, human",Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1448177,C1704223,AUGMENTS,"TNF protein, human",White Adipose Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1448177,C1955394,AUGMENTS,"TNF protein, human",Tissue specific,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1449159,C0014257,AUGMENTS,"CCL2 protein, human",Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1449159,C1704223,AUGMENTS,"CCL2 protein, human",White Adipose Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1450093,C0014257,AUGMENTS,"CYP1B1 protein, human",Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1456447,C0015350,AUGMENTS,"SLC6A2 protein, human",Extracellular Matrix,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1506219,C0015350,AUGMENTS,"TGFBR2 protein, human",Extracellular Matrix,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1506603,C0014257,AUGMENTS,"ZFP36 protein, human",Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1512488,C0040300,AUGMENTS,Homologous Protein,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1522620,C0026724,AUGMENTS,Recombinant Lymphotoxin Beta,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1522712,C0024296,AUGMENTS,Recombinant Interferon-alpha Inducible Protein 10,Lymphoid Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1522712,C0819757,AUGMENTS,Recombinant Interferon-alpha Inducible Protein 10,Structure of parenchyma of lung,aapp,tisu,3,AUGMENTS_AAPPaugmTISU
+C1538577,C0819757,AUGMENTS,PARP1 gene,Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1538915,C0001527,AUGMENTS,APLN gene,Adipose tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1564881,C0014609,AUGMENTS,Apoptosis Regulatory Proteins,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1564904,C1272575,AUGMENTS,Catenins,Heart tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1565120,C0040300,AUGMENTS,B-Cell Leukemia 2 Family Proteins,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1565860,C0040300,AUGMENTS,"PTGS2 protein, human",Body tissue,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C1565860,C0475358,AUGMENTS,"PTGS2 protein, human",Tumor tissue sample,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1565860,C1519521,AUGMENTS,"PTGS2 protein, human",Fresh Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1568520,C0014257,AUGMENTS,"FLT1 protein, human",Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1699801,C1518039,AUGMENTS,"IL9 protein, human",Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1701790,C0014257,AUGMENTS,"IL17A protein, human",Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1701790,C0819757,AUGMENTS,"IL17A protein, human",Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1701790,C1518039,AUGMENTS,"IL17A protein, human",Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1705982,C0025255,AUGMENTS,KRAS wt Allele,Tissue membrane,aapp,tisu,3,AUGMENTS_AAPPaugmTISU
+C1709820,C0014257,AUGMENTS,ROS1 wt Allele,Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1709820,C0014261,AUGMENTS,ROS1 wt Allele,"Endothelium, Vascular",aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1709820,C0040300,AUGMENTS,ROS1 wt Allele,Body tissue,aapp,tisu,4,AUGMENTS_AAPPaugmTISU
+C1742409,C1522642,AUGMENTS,HC-Pro,Clone,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1823405,C1514845,AUGMENTS,ORAI1 gene,Renal Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1823458,C0014609,AUGMENTS,TNFAIP8L2 gene,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1823458,C0819757,AUGMENTS,TNFAIP8L2 gene,Structure of parenchyma of lung,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C1823924,C1518039,AUGMENTS,ZC3H12A gene,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1824730,C1514845,AUGMENTS,CHAC1 gene,Renal Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1825493,C0025255,AUGMENTS,ATG3 gene,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1825497,C0025255,AUGMENTS,ATG5 gene,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1825621,C0586689,AUGMENTS,ISG15 gene,Liver biopsy sample,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1825621,C1518039,AUGMENTS,ISG15 gene,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1826448,C1518039,AUGMENTS,NOD1 gene,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1826449,C1518039,AUGMENTS,NOD2 gene,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1826950,C0031153,AUGMENTS,RTL1 gene,Peritoneum,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1865021,C0024296,AUGMENTS,NRON gene,Lymphoid Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C1953384,C1522642,AUGMENTS,Reverse primer,Clone,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C2266975,C0026724,AUGMENTS,Lipopeptides,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C2350178,C0475358,AUGMENTS,Type 1 Cystatins,Tumor tissue sample,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C2350701,C0027061,AUGMENTS,Macrophage Inflammatory Protein-1,Myocardium,aapp,tisu,3,AUGMENTS_AAPPaugmTISU
+C2350701,C0040300,AUGMENTS,Macrophage Inflammatory Protein-1,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C2604507,C0026724,AUGMENTS,"heat-labile enterotoxin b subunit, E coli",Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C2606266,C0025255,AUGMENTS,pHLIP protein,Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C2681227,C0040300,AUGMENTS,MGARP gene,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C2744535,C0018180,AUGMENTS,"CD69 protein, human",Granulation Tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C2744579,C0014257,AUGMENTS,"ATP8A2 protein, human",Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C2945724,C0026724,AUGMENTS,f-protein,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C2975179,C0026724,AUGMENTS,"S-(2,3-bis(palmitoyloxy)propyl)cysteine",Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C3493229,C0014257,AUGMENTS,"ICAM1 protein, human",Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C3538735,C0031153,AUGMENTS,AMH wt Allele,Peritoneum,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C3642279,C0040300,AUGMENTS,Microtubule-Associated Proteins 1A/1B Light Chain 3-II,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C3710914,C0819757,AUGMENTS,"EIF2AK2 protein, human",Structure of parenchyma of lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C3810054,C0014261,AUGMENTS,APELA gene,"Endothelium, Vascular",aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C3849701,C0001527,AUGMENTS,"interleukin 18 protein, human",Adipose tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C3849701,C0027428,AUGMENTS,"interleukin 18 protein, human",Structure of mucous membrane of nose,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C3853636,C1522642,AUGMENTS,"Dihydrofolate Reductase, human",Clone,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C3887583,C0014257,AUGMENTS,"CD40 Ligand, human",Endothelium,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C3887647,C1955394,AUGMENTS,"Lymphotoxin-Alpha, human",Tissue specific,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C3887665,C1522642,AUGMENTS,"Thrombopoietin, human",Clone,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C3890397,C0040300,AUGMENTS,PRKAA1 wt Allele,Body tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C3890659,C0586688,AUGMENTS,NRIR gene,Tissue specimen from liver,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C3897398,C1518039,AUGMENTS,T-Cell Chemokine,Mouse Lung,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C4048280,C1522642,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",Clone,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C4084937,C0014609,AUGMENTS,Antimicrobial Peptide,Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C4281807,C0026724,AUGMENTS,"Vitronectin, human",Mucous Membrane,aapp,tisu,2,AUGMENTS_AAPPaugmTISU
+C4281807,C1522642,AUGMENTS,"Vitronectin, human",Clone,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C4316927,C0014257,AUGMENTS,"Endothelin-1, human",Endothelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C4317106,C0025255,AUGMENTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Tissue membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C4505321,C0001527,AUGMENTS,Angiopoietin-like Proteins,Adipose tissue,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C4723668,C0599331,AUGMENTS,HLA-DMA wt Allele,Nasal Epithelium,aapp,tisu,1,AUGMENTS_AAPPaugmTISU
+C4723709,C0026724,AUGMENTS,Galactose-1-Phosphate Uridylyltransferase,Mucous Membrane,aapp,tisu,1,AUGMENTS_AAPPaugmTISU

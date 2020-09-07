@@ -1,0 +1,240 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001563,C0599752,TREATS,"Administration, Oral",intestinal bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0007876,C0033809,TREATS,Cesarean section,Pseudomonas aeruginosa,topp,bact,1,TREATS_TOPPtrtsBACT
+C0009429,C0004611,TREATS,Combined Modality Therapy,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0009429,C0018150,TREATS,Combined Modality Therapy,Gram Negative Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C0009429,C3937574,TREATS,Combined Modality Therapy,bacterium 67,topp,bact,1,TREATS_TOPPtrtsBACT
+C0011079,C0081786,TREATS,Debridement,Microbial Biofilms,topp,bact,1,TREATS_TOPPtrtsBACT
+C0012683,C0004611,TREATS,Disinfection,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0012683,C0014834,TREATS,Disinfection,Escherichia coli,topp,bact,2,TREATS_TOPPtrtsBACT
+C0012683,C0036111,TREATS,Disinfection,Salmonella,topp,bact,1,TREATS_TOPPtrtsBACT
+C0012683,C1265175,TREATS,Disinfection,Vancomycin-Resistant Enterococci,topp,bact,1,TREATS_TOPPtrtsBACT
+C0013103,C0081786,TREATS,Drainage procedure,Microbial Biofilms,topp,bact,1,TREATS_TOPPtrtsBACT
+C0013216,C0033477,TREATS,Pharmacotherapy,Propionibacterium acnes,topp,bact,1,TREATS_TOPPtrtsBACT
+C0015252,C0014834,TREATS,removal technique,Escherichia coli,topp,bact,3,TREATS_TOPPtrtsBACT
+C0015357,C0026941,TREATS,Extracorporeal Membrane Oxygenation,Mycoplasma pneumoniae,topp,bact,1,TREATS_TOPPtrtsBACT
+C0017134,C0004587,TREATS,Gastric Lavage,Bacillus <bacterium>,topp,bact,1,TREATS_TOPPtrtsBACT
+C0017296,C0004611,TREATS,gene therapy,Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C0017296,C0014834,TREATS,gene therapy,Escherichia coli,topp,bact,2,TREATS_TOPPtrtsBACT
+C0017296,C0081786,TREATS,gene therapy,Microbial Biofilms,topp,bact,1,TREATS_TOPPtrtsBACT
+C0017296,C0317817,TREATS,gene therapy,Mycoplasma hyorhinis,topp,bact,1,TREATS_TOPPtrtsBACT
+C0020971,C0004611,TREATS,Immunization,Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C0020971,C0014834,TREATS,Immunization,Escherichia coli,topp,bact,5,TREATS_TOPPtrtsBACT
+C0020971,C0026941,TREATS,Immunization,Mycoplasma pneumoniae,topp,bact,2,TREATS_TOPPtrtsBACT
+C0020971,C0038410,TREATS,Immunization,Streptococcus pneumoniae,topp,bact,1,TREATS_TOPPtrtsBACT
+C0020971,C1299043,TREATS,Immunization,Salmonella species,topp,bact,1,TREATS_TOPPtrtsBACT
+C0020975,C0014834,TREATS,Secondary Immunization,Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0021107,C0004611,TREATS,Implantation procedure,Bacteria,topp,bact,3,TREATS_TOPPtrtsBACT
+C0021107,C0014834,TREATS,Implantation procedure,Escherichia coli,topp,bact,5,TREATS_TOPPtrtsBACT
+C0021107,C0018150,TREATS,Implantation procedure,Gram Negative Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0021107,C0563199,TREATS,Implantation procedure,bacterial cell,topp,bact,1,TREATS_TOPPtrtsBACT
+C0021493,C0004587,TREATS,"Injections, Intraperitoneal",Bacillus <bacterium>,topp,bact,1,TREATS_TOPPtrtsBACT
+C0021925,C0081786,TREATS,Intubation,Microbial Biofilms,topp,bact,1,TREATS_TOPPtrtsBACT
+C0023690,C0004611,TREATS,Ligation,Bacteria,topp,bact,3,TREATS_TOPPtrtsBACT
+C0023690,C0014834,TREATS,Ligation,Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0030547,C4076168,TREATS,Parenteral Nutrition,Multidrug-resistant bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0031740,C0004611,TREATS,Photochemotherapy,Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C0032042,C0036111,TREATS,Placebos,Salmonella,topp,bact,1,TREATS_TOPPtrtsBACT
+C0032042,C0038172,TREATS,Placebos,Staphylococcus aureus,topp,bact,1,TREATS_TOPPtrtsBACT
+C0032042,C0038411,TREATS,Placebos,Streptococcus pyogenes,topp,bact,1,TREATS_TOPPtrtsBACT
+C0035139,C0004611,TREATS,Surgical Replantation,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0035139,C0038410,TREATS,Surgical Replantation,Streptococcus pneumoniae,topp,bact,3,TREATS_TOPPtrtsBACT
+C0035139,C1444090,TREATS,Surgical Replantation,Resistant bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0035139,C1635274,TREATS,Surgical Replantation,Methicillin susceptible Staphylococcus aureus,topp,bact,1,TREATS_TOPPtrtsBACT
+C0035139,C4698075,TREATS,Surgical Replantation,Virulent strain,topp,bact,1,TREATS_TOPPtrtsBACT
+C0038288,C0014834,TREATS,Sexual sterilization,Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0038288,C0033809,TREATS,Sexual sterilization,Pseudomonas aeruginosa,topp,bact,1,TREATS_TOPPtrtsBACT
+C0038288,C0085494,TREATS,Sexual sterilization,Enterococcus,topp,bact,1,TREATS_TOPPtrtsBACT
+C0040674,C0014834,TREATS,Transposition procedure,Escherichia coli,topp,bact,4,TREATS_TOPPtrtsBACT
+C0040732,C1254144,TREATS,Transplantation,Firmicutes,topp,bact,1,TREATS_TOPPtrtsBACT
+C0040808,C0004613,TREATS,Treatment Protocols,"Bacteria, Anaerobic",topp,bact,1,TREATS_TOPPtrtsBACT
+C0040808,C0018483,TREATS,Treatment Protocols,Haemophilus influenzae,topp,bact,1,TREATS_TOPPtrtsBACT
+C0040808,C0023237,TREATS,Treatment Protocols,Legionella,topp,bact,1,TREATS_TOPPtrtsBACT
+C0040808,C0033808,TREATS,Treatment Protocols,Pseudomonas,topp,bact,1,TREATS_TOPPtrtsBACT
+C0040808,C0038410,TREATS,Treatment Protocols,Streptococcus pneumoniae,topp,bact,1,TREATS_TOPPtrtsBACT
+C0042196,C0004611,TREATS,Vaccination,Bacteria,topp,bact,4,TREATS_TOPPtrtsBACT
+C0042196,C0006017,TREATS,Vaccination,Bordetella pertussis,topp,bact,1,TREATS_TOPPtrtsBACT
+C0042196,C0009054,TREATS,Vaccination,Clostridium,topp,bact,2,TREATS_TOPPtrtsBACT
+C0042196,C0014834,TREATS,Vaccination,Escherichia coli,topp,bact,4,TREATS_TOPPtrtsBACT
+C0042196,C0033809,TREATS,Vaccination,Pseudomonas aeruginosa,topp,bact,1,TREATS_TOPPtrtsBACT
+C0042196,C0038410,TREATS,Vaccination,Streptococcus pneumoniae,topp,bact,15,TREATS_TOPPtrtsBACT
+C0042196,C0121772,TREATS,Vaccination,Haemophilus influenzae type b,topp,bact,1,TREATS_TOPPtrtsBACT
+C0042196,C0314785,TREATS,Vaccination,Acidaminococcus,topp,bact,1,TREATS_TOPPtrtsBACT
+C0042196,C0317723,TREATS,Vaccination,Megasphaera,topp,bact,1,TREATS_TOPPtrtsBACT
+C0042196,C0580797,TREATS,Vaccination,Enterotoxigenic Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0042196,C1265191,TREATS,Vaccination,"Haemophilus influenzae, not B",topp,bact,1,TREATS_TOPPtrtsBACT
+C0042200,C0038410,TREATS,Influenza vaccination,Streptococcus pneumoniae,topp,bact,2,TREATS_TOPPtrtsBACT
+C0052712,C0014834,TREATS,doxorubicin/mitomycin/vinblastine protocol,Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0074125,C0004611,TREATS,bleomycin/doxorubicin/lomustine/streptozocin protocol,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0074125,C0014834,TREATS,bleomycin/doxorubicin/lomustine/streptozocin protocol,Escherichia coli,topp,bact,2,TREATS_TOPPtrtsBACT
+C0083355,C0014834,TREATS,amsacrine/azacitidine/etoposide,Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0085405,C4511877,TREATS,Salvage Therapy,Carbapenem resistant Pseudomonas aeruginosa,topp,bact,1,TREATS_TOPPtrtsBACT
+C0085430,C0004611,TREATS,Blood Component Transfusion,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0111197,C0018154,TREATS,CTCb regimen,Gram-Positive Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0149783,C0579233,TREATS,Steroid therapy,Streptococcus agalactiae,topp,bact,1,TREATS_TOPPtrtsBACT
+C0150413,C0317589,TREATS,HIV prevention,Lactobacillus jensenii,topp,bact,1,TREATS_TOPPtrtsBACT
+C0152060,C0004587,TREATS,Transection (procedure),Bacillus <bacterium>,topp,bact,1,TREATS_TOPPtrtsBACT
+C0152060,C0004611,TREATS,Transection (procedure),Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C0152060,C0008148,TREATS,Transection (procedure),Chlamydia,topp,bact,1,TREATS_TOPPtrtsBACT
+C0152060,C0018150,TREATS,Transection (procedure),Gram Negative Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0184958,C0036111,TREATS,Toilet procedure,Salmonella,topp,bact,1,TREATS_TOPPtrtsBACT
+C0185026,C0004611,TREATS,Plication,Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C0185026,C0014834,TREATS,Plication,Escherichia coli,topp,bact,4,TREATS_TOPPtrtsBACT
+C0185027,C0004611,TREATS,Imbrication (procedure),Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C0185027,C0014834,TREATS,Imbrication (procedure),Escherichia coli,topp,bact,2,TREATS_TOPPtrtsBACT
+C0185027,C0033809,TREATS,Imbrication (procedure),Pseudomonas aeruginosa,topp,bact,1,TREATS_TOPPtrtsBACT
+C0185111,C0004611,TREATS,Surgical Manipulation,Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C0185111,C0018154,TREATS,Surgical Manipulation,Gram-Positive Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C0185115,C0004611,TREATS,Extraction,Bacteria,topp,bact,4,TREATS_TOPPtrtsBACT
+C0185115,C0004661,TREATS,Extraction,Bacteroides,topp,bact,1,TREATS_TOPPtrtsBACT
+C0185115,C0014834,TREATS,Extraction,Escherichia coli,topp,bact,2,TREATS_TOPPtrtsBACT
+C0185115,C0023237,TREATS,Extraction,Legionella,topp,bact,1,TREATS_TOPPtrtsBACT
+C0185115,C0038172,TREATS,Extraction,Staphylococcus aureus,topp,bact,1,TREATS_TOPPtrtsBACT
+C0185115,C0081786,TREATS,Extraction,Microbial Biofilms,topp,bact,1,TREATS_TOPPtrtsBACT
+C0185115,C0314760,TREATS,Extraction,Coliform bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0185115,C0563199,TREATS,Extraction,bacterial cell,topp,bact,1,TREATS_TOPPtrtsBACT
+C0185117,C0014834,TREATS,Expression procedure,Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0199176,C0004611,TREATS,Prophylactic treatment,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0199176,C0038410,TREATS,Prophylactic treatment,Streptococcus pneumoniae,topp,bact,2,TREATS_TOPPtrtsBACT
+C0199176,C0081786,TREATS,Prophylactic treatment,Microbial Biofilms,topp,bact,3,TREATS_TOPPtrtsBACT
+C0199176,C1299785,TREATS,Prophylactic treatment,Filobacterium rodentium,topp,bact,1,TREATS_TOPPtrtsBACT
+C0199470,C0026926,TREATS,Mechanical ventilation,Mycobacterium tuberculosis,topp,bact,1,TREATS_TOPPtrtsBACT
+C0199779,C0004611,TREATS,Administration of antibiotic,Bacteria,topp,bact,4,TREATS_TOPPtrtsBACT
+C0199779,C0006813,TREATS,Administration of antibiotic,Campylobacter,topp,bact,1,TREATS_TOPPtrtsBACT
+C0199779,C0014834,TREATS,Administration of antibiotic,Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0199779,C0022938,TREATS,Administration of antibiotic,Lactobacillus,topp,bact,1,TREATS_TOPPtrtsBACT
+C0199779,C0023238,TREATS,Administration of antibiotic,Legionella pneumophila,topp,bact,1,TREATS_TOPPtrtsBACT
+C0199779,C0033809,TREATS,Administration of antibiotic,Pseudomonas aeruginosa,topp,bact,1,TREATS_TOPPtrtsBACT
+C0199779,C0036953,TREATS,Administration of antibiotic,Shigella,topp,bact,2,TREATS_TOPPtrtsBACT
+C0199779,C0038410,TREATS,Administration of antibiotic,Streptococcus pneumoniae,topp,bact,1,TREATS_TOPPtrtsBACT
+C0199779,C0079488,TREATS,Administration of antibiotic,Helicobacter pylori,topp,bact,1,TREATS_TOPPtrtsBACT
+C0199779,C4076168,TREATS,Administration of antibiotic,Multidrug-resistant bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0204727,C0004611,TREATS,Isolation procedure,Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C0204727,C0006813,TREATS,Isolation procedure,Campylobacter,topp,bact,1,TREATS_TOPPtrtsBACT
+C0204727,C0014834,TREATS,Isolation procedure,Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0204727,C0018150,TREATS,Isolation procedure,Gram Negative Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0204727,C0033809,TREATS,Isolation procedure,Pseudomonas aeruginosa,topp,bact,2,TREATS_TOPPtrtsBACT
+C0204727,C0038172,TREATS,Isolation procedure,Staphylococcus aureus,topp,bact,2,TREATS_TOPPtrtsBACT
+C0204727,C0580797,TREATS,Isolation procedure,Enterotoxigenic Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0204727,C0600414,TREATS,Isolation procedure,Enterohemorrhagic Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0204727,C1265292,TREATS,Isolation procedure,Methicillin-Resistant Staphylococcus aureus,topp,bact,2,TREATS_TOPPtrtsBACT
+C0204727,C4076168,TREATS,Isolation procedure,Multidrug-resistant bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0242348,C0004611,TREATS,Serotherapy,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0259961,C0033809,TREATS,parenteral therapy,Pseudomonas aeruginosa,topp,bact,2,TREATS_TOPPtrtsBACT
+C0280109,C0004611,TREATS,cyclophosphamide/doxorubicin/etoposide/interleukin-2,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0280603,C0004611,TREATS,fluorouracil/methotrexate protocol,Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C0280603,C0038402,TREATS,fluorouracil/methotrexate protocol,Streptococcus,topp,bact,1,TREATS_TOPPtrtsBACT
+C0280603,C0038410,TREATS,fluorouracil/methotrexate protocol,Streptococcus pneumoniae,topp,bact,1,TREATS_TOPPtrtsBACT
+C0280603,C0038411,TREATS,fluorouracil/methotrexate protocol,Streptococcus pyogenes,topp,bact,1,TREATS_TOPPtrtsBACT
+C0282402,C0014834,TREATS,Hormone replacement therapy,Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0282638,C0004611,TREATS,Antibiotic Prophylaxis,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0282638,C0023238,TREATS,Antibiotic Prophylaxis,Legionella pneumophila,topp,bact,1,TREATS_TOPPtrtsBACT
+C0282638,C0033809,TREATS,Antibiotic Prophylaxis,Pseudomonas aeruginosa,topp,bact,1,TREATS_TOPPtrtsBACT
+C0282638,C0579233,TREATS,Antibiotic Prophylaxis,Streptococcus agalactiae,topp,bact,1,TREATS_TOPPtrtsBACT
+C0286540,C0038170,TREATS,MAV protocol,Genus staphylococcus,topp,bact,1,TREATS_TOPPtrtsBACT
+C0286540,C1265292,TREATS,MAV protocol,Methicillin-Resistant Staphylococcus aureus,topp,bact,1,TREATS_TOPPtrtsBACT
+C0338237,C0030637,TREATS,Antibiotic therapy,Pasteurella multocida,topp,bact,1,TREATS_TOPPtrtsBACT
+C0349707,C0004611,TREATS,Aspiration-action,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0439775,C0004611,TREATS,Elevation procedure,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0454525,C0006017,TREATS,Manual Therapies,Bordetella pertussis,topp,bact,1,TREATS_TOPPtrtsBACT
+C0455142,C1265292,TREATS,Intravenous therapy,Methicillin-Resistant Staphylococcus aureus,topp,bact,1,TREATS_TOPPtrtsBACT
+C0520251,C0004611,TREATS,Multiple interventional procedures,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0521974,C0751985,TREATS,"Diet, High-Fat",Proteobacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0524865,C0042447,TREATS,Reconstructive Surgical Procedures,Veillonellaceae,topp,bact,1,TREATS_TOPPtrtsBACT
+C0543467,C0004611,TREATS,Operative Surgical Procedures,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0547070,C0004611,TREATS,Ablation,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0679651,C0525033,TREATS,directive therapy,Probiotics,topp,bact,1,TREATS_TOPPtrtsBACT
+C0679698,C1444090,TREATS,disease prevention,Resistant bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0683465,C0004611,TREATS,novel AODU treatment method,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0695341,C0004611,TREATS,common procedures,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0728940,C1265234,TREATS,Excision,Nontuberculous Mycobacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0741847,C0014834,TREATS,Bypass,Escherichia coli,topp,bact,1,TREATS_TOPPtrtsBACT
+C0815154,C0004611,TREATS,selective intervention,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0843747,C0043408,TREATS,cryosurgery of prostate,Yersinia pestis,topp,bact,1,TREATS_TOPPtrtsBACT
+C0887947,C0026926,TREATS,"Antiretroviral Therapy, Highly Active",Mycobacterium tuberculosis,topp,bact,1,TREATS_TOPPtrtsBACT
+C0917927,C0004611,TREATS,Breast-Conserving Surgery,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C0935576,C0079488,TREATS,treatment guideline,Helicobacter pylori,topp,bact,1,TREATS_TOPPtrtsBACT
+C0947647,C0004611,TREATS,Manipulation procedure,Bacteria,topp,bact,3,TREATS_TOPPtrtsBACT
+C0947647,C0014834,TREATS,Manipulation procedure,Escherichia coli,topp,bact,3,TREATS_TOPPtrtsBACT
+C0947647,C0563199,TREATS,Manipulation procedure,bacterial cell,topp,bact,1,TREATS_TOPPtrtsBACT
+C0947647,C4698075,TREATS,Manipulation procedure,Virulent strain,topp,bact,2,TREATS_TOPPtrtsBACT
+C1261381,C0004611,TREATS,Destructive procedure (surgical),Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C1261381,C0033477,TREATS,Destructive procedure (surgical),Propionibacterium acnes,topp,bact,1,TREATS_TOPPtrtsBACT
+C1273412,C0081786,TREATS,Chinese herbal medicine,Microbial Biofilms,topp,bact,1,TREATS_TOPPtrtsBACT
+C1280903,C0004611,TREATS,Exploration procedure,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C1280903,C0014834,TREATS,Exploration procedure,Escherichia coli,topp,bact,2,TREATS_TOPPtrtsBACT
+C1293130,C0004611,TREATS,Stabilization,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C1293132,C0004611,TREATS,Anchoring procedure,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C1293132,C0022938,TREATS,Anchoring procedure,Lactobacillus,topp,bact,1,TREATS_TOPPtrtsBACT
+C1293132,C1210581,TREATS,Anchoring procedure,Lactobacillales,topp,bact,1,TREATS_TOPPtrtsBACT
+C1293365,C0004611,TREATS,Lung destructive procedure,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C1299597,C0004611,TREATS,Empirical therapy,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C1299597,C0014346,TREATS,Empirical therapy,Enterobacteriaceae,topp,bact,1,TREATS_TOPPtrtsBACT
+C1299597,C0026926,TREATS,Empirical therapy,Mycobacterium tuberculosis,topp,bact,2,TREATS_TOPPtrtsBACT
+C1299597,C0026941,TREATS,Empirical therapy,Mycoplasma pneumoniae,topp,bact,2,TREATS_TOPPtrtsBACT
+C1299597,C0033819,TREATS,Empirical therapy,Burkholderia pseudomallei,topp,bact,1,TREATS_TOPPtrtsBACT
+C1299597,C1635274,TREATS,Empirical therapy,Methicillin susceptible Staphylococcus aureus,topp,bact,1,TREATS_TOPPtrtsBACT
+C1299622,C0038410,TREATS,Empirical antibiotic therapy,Streptococcus pneumoniae,topp,bact,1,TREATS_TOPPtrtsBACT
+C1443867,C1265292,TREATS,Standard precautions,Methicillin-Resistant Staphylococcus aureus,topp,bact,1,TREATS_TOPPtrtsBACT
+C1443869,C0026926,TREATS,Airborne precautions,Mycobacterium tuberculosis,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0002794,TREATS,Detection,Anaplasma,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0004589,TREATS,Detection,Bacillus anthracis,topp,bact,2,TREATS_TOPPtrtsBACT
+C1511790,C0004611,TREATS,Detection,Bacteria,topp,bact,20,TREATS_TOPPtrtsBACT
+C1511790,C0004661,TREATS,Detection,Bacteroides,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0008151,TREATS,Detection,Chlamydia trachomatis,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0010240,TREATS,Detection,Coxiella burnetii,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0014344,TREATS,Detection,Enterobacter,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0014346,TREATS,Detection,Enterobacteriaceae,topp,bact,2,TREATS_TOPPtrtsBACT
+C1511790,C0014834,TREATS,Detection,Escherichia coli,topp,bact,6,TREATS_TOPPtrtsBACT
+C1511790,C0018150,TREATS,Detection,Gram Negative Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0018154,TREATS,Detection,Gram-Positive Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0018483,TREATS,Detection,Haemophilus influenzae,topp,bact,3,TREATS_TOPPtrtsBACT
+C1511790,C0022938,TREATS,Detection,Lactobacillus,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0026926,TREATS,Detection,Mycobacterium tuberculosis,topp,bact,3,TREATS_TOPPtrtsBACT
+C1511790,C0026941,TREATS,Detection,Mycoplasma pneumoniae,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0027573,TREATS,Detection,Neisseria gonorrhoeae,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0030637,TREATS,Detection,Pasteurella multocida,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0033809,TREATS,Detection,Pseudomonas aeruginosa,topp,bact,2,TREATS_TOPPtrtsBACT
+C1511790,C0035583,TREATS,Detection,Rickettsia,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0036111,TREATS,Detection,Salmonella,topp,bact,2,TREATS_TOPPtrtsBACT
+C1511790,C0038172,TREATS,Detection,Staphylococcus aureus,topp,bact,4,TREATS_TOPPtrtsBACT
+C1511790,C0038402,TREATS,Detection,Streptococcus,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0038410,TREATS,Detection,Streptococcus pneumoniae,topp,bact,3,TREATS_TOPPtrtsBACT
+C1511790,C0043408,TREATS,Detection,Yersinia pestis,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0085467,TREATS,Detection,Acinetobacter calcoaceticus,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0445766,TREATS,Detection,Non-Enterobacteriaceae,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C0580797,TREATS,Detection,Enterotoxigenic Escherichia coli,topp,bact,2,TREATS_TOPPtrtsBACT
+C1511790,C1040967,TREATS,Detection,Order Enterobacterales,topp,bact,1,TREATS_TOPPtrtsBACT
+C1511790,C1265292,TREATS,Detection,Methicillin-Resistant Staphylococcus aureus,topp,bact,1,TREATS_TOPPtrtsBACT
+C1515884,C0004611,TREATS,Acupuncture and Oriental Medicine,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C1515884,C0081786,TREATS,Acupuncture and Oriental Medicine,Microbial Biofilms,topp,bact,1,TREATS_TOPPtrtsBACT
+C1522449,C0004611,TREATS,Therapeutic radiology procedure,Bacteria,topp,bact,3,TREATS_TOPPtrtsBACT
+C1522449,C0014834,TREATS,Therapeutic radiology procedure,Escherichia coli,topp,bact,3,TREATS_TOPPtrtsBACT
+C1522449,C0023859,TREATS,Therapeutic radiology procedure,Listeria,topp,bact,1,TREATS_TOPPtrtsBACT
+C1522449,C0036111,TREATS,Therapeutic radiology procedure,Salmonella,topp,bact,4,TREATS_TOPPtrtsBACT
+C1707479,C0008148,TREATS,Concomitant Therapy,Chlamydia,topp,bact,1,TREATS_TOPPtrtsBACT
+C1708063,C0026934,TREATS,First line treatment,Mycoplasma,topp,bact,1,TREATS_TOPPtrtsBACT
+C1708063,C0026941,TREATS,First line treatment,Mycoplasma pneumoniae,topp,bact,1,TREATS_TOPPtrtsBACT
+C1708063,C0079488,TREATS,First line treatment,Helicobacter pylori,topp,bact,2,TREATS_TOPPtrtsBACT
+C1708063,C1265292,TREATS,First line treatment,Methicillin-Resistant Staphylococcus aureus,topp,bact,1,TREATS_TOPPtrtsBACT
+C1868981,C0004611,TREATS,Invasive mechanical ventilation NOS,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C1964029,C0004611,TREATS,early/brief intervention/therapy (treatment),Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C2037866,C0004612,TREATS,surgical drainage (treatment) (general),"Bacteria, Aerobic",topp,bact,1,TREATS_TOPPtrtsBACT
+C2037866,C0004613,TREATS,surgical drainage (treatment) (general),"Bacteria, Anaerobic",topp,bact,1,TREATS_TOPPtrtsBACT
+C2242628,C0079134,TREATS,Fecal Microbiota Transplantation,Clostridium difficile,topp,bact,3,TREATS_TOPPtrtsBACT
+C2242628,C1210564,TREATS,Fecal Microbiota Transplantation,Lachnospiraceae,topp,bact,1,TREATS_TOPPtrtsBACT
+C2349866,C0004611,TREATS,Genomic screening,Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C2349866,C0085489,TREATS,Genomic screening,Actinobacillus pleuropneumoniae,topp,bact,1,TREATS_TOPPtrtsBACT
+C2986592,C1265292,TREATS,Definitive Treatment,Methicillin-Resistant Staphylococcus aureus,topp,bact,1,TREATS_TOPPtrtsBACT
+C2986605,C0079488,TREATS,Third line treatment,Helicobacter pylori,topp,bact,1,TREATS_TOPPtrtsBACT
+C3540512,C0014834,TREATS,Circumferential Supracrestal Fiberotomy,Escherichia coli,topp,bact,2,TREATS_TOPPtrtsBACT
+C3849996,C0004611,TREATS,"Diet, Western",Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C4277645,C0004611,TREATS,Phage Therapy,Bacteria,topp,bact,2,TREATS_TOPPtrtsBACT
+C4277645,C1444090,TREATS,Phage Therapy,Resistant bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C4277645,C4076168,TREATS,Phage Therapy,Multidrug-resistant bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C4520447,C1265292,TREATS,Decolonization,Methicillin-Resistant Staphylococcus aureus,topp,bact,2,TREATS_TOPPtrtsBACT
+C4526535,C0317578,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Haemophilus somnus,topp,bact,1,TREATS_TOPPtrtsBACT
+C4685002,C0018150,TREATS,Systematic Programmed Illumination,Gram Negative Bacteria,topp,bact,1,TREATS_TOPPtrtsBACT
+C4723833,C0081786,TREATS,vertebral augmentation procedure,Microbial Biofilms,topp,bact,4,TREATS_TOPPtrtsBACT
+C4723833,C0314752,TREATS,vertebral augmentation procedure,Gram-negative bacillus,topp,bact,1,TREATS_TOPPtrtsBACT
+C4763675,C0023237,TREATS,Single Agent Therapy,Legionella,topp,bact,1,TREATS_TOPPtrtsBACT

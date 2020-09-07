@@ -1,0 +1,1678 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0020155,TREATS,"Administration, Intranasal",Human Volunteers,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0001560,C0031831,TREATS,"Administration, Intranasal",Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0001560,C1708335,TREATS,"Administration, Intranasal",Healthy Volunteers,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0001563,C0001792,TREATS,"Administration, Oral",Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0001563,C0080105,TREATS,"Administration, Oral",Research Subject,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0001563,C1516213,TREATS,"Administration, Oral",Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0001563,C1709854,TREATS,"Administration, Oral",Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0001563,C4522252,TREATS,"Administration, Oral",Foundation for the Accreditation of Cellular Therapy,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0001566,C0033011,TREATS,"Administration, Topical",Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0001566,C1708335,TREATS,"Administration, Topical",Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0001701,C0001792,TREATS,"Exercise, Aerobic",Elderly (population group),topp,humn,2,TREATS_TOPPtrtsHUMN
+C0001701,C0043210,TREATS,"Exercise, Aerobic",Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0001701,C3824967,TREATS,"Exercise, Aerobic",Overweight children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002766,C0680681,TREATS,Pain management,victim,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002766,C0745035,TREATS,Pain management,hospice patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002766,C1516213,TREATS,Pain management,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002766,C3826770,TREATS,Pain management,Older people,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002769,C0043210,TREATS,"Analgesia, Epidural",Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0002903,C0025106,TREATS,Anesthesia procedures,Medical Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002903,C0031831,TREATS,Anesthesia procedures,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002903,C0334910,TREATS,Anesthesia procedures,Anesthesiologist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002903,C0700061,TREATS,Anesthesia procedures,Obstetric Patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0002903,C0741926,TREATS,Anesthesia procedures,cardiac patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002903,C0871463,TREATS,Anesthesia procedures,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002903,C4738285,TREATS,Anesthesia procedures,Response team,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002903,C4764203,TREATS,Anesthesia procedures,Surgery Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002913,C0033011,TREATS,Epidural Anesthesia,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002915,C0033011,TREATS,General Anesthesia,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002915,C0038492,TREATS,General Anesthesia,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002915,C0043210,TREATS,General Anesthesia,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002915,C0728836,TREATS,General Anesthesia,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002915,C0871463,TREATS,General Anesthesia,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002921,C0033011,TREATS,Local anesthesia,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002922,C0043210,TREATS,"Anesthesia, Obstetrical",Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0002928,C0018724,TREATS,Spinal Anesthesia,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002928,C0473161,TREATS,Spinal Anesthesia,Anesthetist,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0002928,C0871463,TREATS,Spinal Anesthesia,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0002928,C1708335,TREATS,Spinal Anesthesia,Healthy Volunteers,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0003281,C0043210,TREATS,Anticoagulation Therapy,Woman,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0003281,C0728836,TREATS,Anticoagulation Therapy,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0003281,C0870668,TREATS,Anticoagulation Therapy,hospitalized patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0003611,C2700280,TREATS,Appendectomy,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0003893,C0334891,TREATS,Arthroplasty,Orthopedic Surgeons,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0003893,C0337810,TREATS,Arthroplasty,Italians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0004933,C0038492,TREATS,Behavior Therapy,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0004933,C0240816,TREATS,Behavior Therapy,Sex Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0004933,C1709854,TREATS,Behavior Therapy,Recipient,topp,humn,24,TREATS_TOPPtrtsHUMN
+C0005527,C0035173,TREATS,Biological Response Modifier Therapy,Research Personnel,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0005527,C1709854,TREATS,Biological Response Modifier Therapy,Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0005791,C0013018,TREATS,Apheresis (procedure),Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0005794,C0005795,TREATS,Blood Donation,Blood donor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0005794,C0013018,TREATS,Blood Donation,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0005841,C0005795,TREATS,Blood Transfusion,Blood donor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0005841,C0043210,TREATS,Blood Transfusion,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0005841,C0376387,TREATS,Blood Transfusion,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0005841,C0870668,TREATS,Blood Transfusion,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0005841,C0871685,TREATS,Blood Transfusion,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0005841,C1709854,TREATS,Blood Transfusion,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0005841,C2700280,TREATS,Blood Transfusion,World,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0005841,C4304779,TREATS,Blood Transfusion,Kidney Transplant Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0005961,C0025266,TREATS,Bone Marrow Transplantation,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0005961,C0728836,TREATS,Bone Marrow Transplantation,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0005961,C1709854,TREATS,Bone Marrow Transplantation,Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0005976,C0524647,TREATS,Bone Transplantation,Soldiers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0007203,C0741926,TREATS,Cardiopulmonary Resuscitation,cardiac patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0007203,C0870668,TREATS,Cardiopulmonary Resuscitation,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0007344,C0025266,TREATS,Castration,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0007389,C2700280,TREATS,Cataract Extraction,World,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0007430,C0025266,TREATS,Catheterization,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0007430,C2986530,TREATS,Catheterization,Intervention Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0007876,C0031831,TREATS,Cesarean section,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0007876,C0033011,TREATS,Cesarean section,Pregnant Women,topp,humn,14,TREATS_TOPPtrtsHUMN
+C0007876,C0043210,TREATS,Cesarean section,Woman,topp,humn,19,TREATS_TOPPtrtsHUMN
+C0007876,C0871463,TREATS,Cesarean section,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0007876,C1556085,TREATS,Cesarean section,german race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0008320,C0025266,TREATS,Cholecystectomy procedure,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0008320,C0043210,TREATS,Cholecystectomy procedure,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0008819,C0025266,TREATS,Male Circumcision,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0008971,C0028698,TREATS,Clinical Protocols,Nursing Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0008971,C0033011,TREATS,Clinical Protocols,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0008971,C0870668,TREATS,Clinical Protocols,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009244,C0015535,TREATS,Cognitive Therapy,Faculty,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009244,C0031831,TREATS,Cognitive Therapy,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009244,C0033872,TREATS,Cognitive Therapy,Psychiatrist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009274,C0871463,TREATS,Colectomy,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009345,C0031831,TREATS,Collapse Therapy,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009429,C0005680,TREATS,Combined Modality Therapy,Black race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009429,C0007457,TREATS,Combined Modality Therapy,Caucasoid Race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009429,C0008098,TREATS,Combined Modality Therapy,"Child, Hospitalized",topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009429,C0018724,TREATS,Combined Modality Therapy,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009429,C0025266,TREATS,Combined Modality Therapy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009429,C0080105,TREATS,Combined Modality Therapy,Research Subject,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009429,C0242856,TREATS,Combined Modality Therapy,Veterinarian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009429,C0870602,TREATS,Combined Modality Therapy,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009429,C0870668,TREATS,Combined Modality Therapy,hospitalized patients,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0009429,C1516213,TREATS,Combined Modality Therapy,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009429,C1709854,TREATS,Combined Modality Therapy,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0009429,C2348001,TREATS,Combined Modality Therapy,Age Cohort,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0010055,C0025266,TREATS,Coronary Artery Bypass Surgery,Male population group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0010055,C0043210,TREATS,Coronary Artery Bypass Surgery,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0010055,C0741926,TREATS,Coronary Artery Bypass Surgery,cardiac patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0010055,C1999167,TREATS,Coronary Artery Bypass Surgery,Old age,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0010280,C1516213,TREATS,Craniotomy,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0010332,C0018724,TREATS,Crisis Intervention,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0010332,C0748064,TREATS,Crisis Intervention,Psychiatric inpatient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0010332,C0851286,TREATS,Crisis Intervention,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0010408,C0043210,TREATS,Cryosurgery,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0011121,C0680681,TREATS,Decontamination,victim,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0011121,C1522486,TREATS,Decontamination,Professional Organization or Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0011121,C2986530,TREATS,Decontamination,Intervention Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0011307,C0043210,TREATS,Denervation,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0011331,C0001792,TREATS,Dental Procedures,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0011331,C0011441,TREATS,Dental Procedures,Dentist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0011331,C0033176,TREATS,Dental Procedures,Private Sector,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0011331,C0949366,TREATS,Dental Procedures,Vulnerable Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0011879,C2700280,TREATS,diabetic foot care,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0011946,C0259931,TREATS,Dialysis procedure,hemophiliacs,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0011946,C0679924,TREATS,Dialysis procedure,professional occupation status,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0011946,C0851286,TREATS,Dialysis procedure,Staff,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0011946,C0870668,TREATS,Dialysis procedure,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0011946,C1709854,TREATS,Dialysis procedure,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0012683,C0018724,TREATS,Disinfection,Health Personnel,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0012683,C0335306,TREATS,Disinfection,Service worker,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0012683,C1709854,TREATS,Disinfection,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013103,C0025266,TREATS,Drainage procedure,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013103,C0221463,TREATS,Drainage procedure,Insulator,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013216,C0018724,TREATS,Pharmacotherapy,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013216,C0025266,TREATS,Pharmacotherapy,Male population group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0013216,C0042960,TREATS,Pharmacotherapy,Voluntary Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013216,C0043210,TREATS,Pharmacotherapy,Woman,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0013216,C0238607,TREATS,Pharmacotherapy,AIDS patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013216,C0334889,TREATS,Pharmacotherapy,Rheumatologist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013216,C0376387,TREATS,Pharmacotherapy,Transplant Recipients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0013216,C0870602,TREATS,Pharmacotherapy,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013216,C1516213,TREATS,Pharmacotherapy,Cancer Patient,topp,humn,31,TREATS_TOPPtrtsHUMN
+C0013216,C3812881,TREATS,Pharmacotherapy,Author,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013459,C0175989,TREATS,Early Mobilization,critically ill children,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0013806,C0001792,TREATS,Electroconvulsive Therapy,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013806,C0015535,TREATS,Electroconvulsive Therapy,Faculty,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013806,C0728836,TREATS,Electroconvulsive Therapy,young child,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0013806,C0870602,TREATS,Electroconvulsive Therapy,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013806,C0871685,TREATS,Electroconvulsive Therapy,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013806,C1708335,TREATS,Electroconvulsive Therapy,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013806,C2700280,TREATS,Electroconvulsive Therapy,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0013969,C0033011,TREATS,Emergency treatment,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0014327,C1516213,TREATS,Enteral Nutrition,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0014935,C0043210,TREATS,Estrogen Replacement Therapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015236,C0043210,TREATS,"Exchange Transfusion, Whole Blood",Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015236,C0175989,TREATS,"Exchange Transfusion, Whole Blood",critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015236,C1709854,TREATS,"Exchange Transfusion, Whole Blood",Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015252,C0043210,TREATS,removal technique,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015252,C0150775,TREATS,removal technique,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015252,C1516213,TREATS,removal technique,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015357,C0031831,TREATS,Extracorporeal Membrane Oxygenation,Physicians,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0015357,C0032804,TREATS,Extracorporeal Membrane Oxygenation,Postpartum Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015357,C0040288,TREATS,Extracorporeal Membrane Oxygenation,Tissue Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015357,C0043210,TREATS,Extracorporeal Membrane Oxygenation,Woman,topp,humn,7,TREATS_TOPPtrtsHUMN
+C0015357,C0175989,TREATS,Extracorporeal Membrane Oxygenation,critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015357,C0206194,TREATS,Extracorporeal Membrane Oxygenation,Survivors,topp,humn,10,TREATS_TOPPtrtsHUMN
+C0015357,C0851286,TREATS,Extracorporeal Membrane Oxygenation,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015357,C0870602,TREATS,Extracorporeal Membrane Oxygenation,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015357,C1516213,TREATS,Extracorporeal Membrane Oxygenation,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015357,C2348001,TREATS,Extracorporeal Membrane Oxygenation,Age Cohort,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015357,C3642273,TREATS,Extracorporeal Membrane Oxygenation,Stanford Cancer Institute,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0015618,C0871525,TREATS,Family psychotherapy,therapist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0015915,C0043210,TREATS,Fertilization in Vitro,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0016143,C0018724,TREATS,First Aid,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0016143,C0814957,TREATS,First Aid,injured person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0016143,C0851286,TREATS,First Aid,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0016286,C0175989,TREATS,Fluid Therapy,critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0017296,C0238607,TREATS,gene therapy,AIDS patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0017296,C0683626,TREATS,gene therapy,human group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0017296,C1516213,TREATS,gene therapy,Cancer Patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0017296,C2700280,TREATS,gene therapy,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0018821,C0741926,TREATS,Cardiac Surgery procedures,cardiac patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0018821,C5206630,TREATS,Cardiac Surgery procedures,Abdominal Surgery Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0019004,C0031323,TREATS,Hemodialysis,Pharmacist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0019004,C0043210,TREATS,Hemodialysis,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0019004,C1709627,TREATS,Hemodialysis,Practitioner,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0019004,C2700280,TREATS,Hemodialysis,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0019009,C0033011,TREATS,therapeutic hemodilution,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0019014,C0175989,TREATS,Hemofiltration,critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0019541,C0206194,TREATS,High-Frequency Ventilation,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020311,C0042960,TREATS,Hydrotherapy,Voluntary Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020548,C0376387,TREATS,Induced Hyperthermia,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020699,C0043210,TREATS,Hysterectomy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020944,C0039309,TREATS,Immobilization,Target Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020944,C0870668,TREATS,Immobilization,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020971,C0001792,TREATS,Immunization,Elderly (population group),topp,humn,6,TREATS_TOPPtrtsHUMN
+C0020971,C0018724,TREATS,Immunization,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020971,C0025266,TREATS,Immunization,Male population group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0020971,C0033011,TREATS,Immunization,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020971,C0042960,TREATS,Immunization,Voluntary Workers,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0020971,C0043210,TREATS,Immunization,Woman,topp,humn,7,TREATS_TOPPtrtsHUMN
+C0020971,C0150775,TREATS,Immunization,Social Networks,topp,humn,11,TREATS_TOPPtrtsHUMN
+C0020971,C0376387,TREATS,Immunization,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020971,C0680398,TREATS,Immunization,secondary group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020971,C0680888,TREATS,Immunization,target group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020971,C0682177,TREATS,Immunization,College student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020971,C0684030,TREATS,Immunization,high-risk group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020971,C0687759,TREATS,Immunization,traveler,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020971,C0728836,TREATS,Immunization,young child,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0020971,C1516213,TREATS,Immunization,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020971,C1527116,TREATS,Immunization,Workers,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0020971,C1708335,TREATS,Immunization,Healthy Volunteers,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0020971,C1709854,TREATS,Immunization,Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0020971,C1999167,TREATS,Immunization,Old age,topp,humn,8,TREATS_TOPPtrtsHUMN
+C0020971,C2348001,TREATS,Immunization,Age Cohort,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020971,C2700280,TREATS,Immunization,World,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0020971,C4740649,TREATS,Immunization,Specific population,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0020971,C5205742,TREATS,Immunization,Treatment Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020972,C0001792,TREATS,Immunization Schedule,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020972,C0682134,TREATS,Immunization Schedule,Citizen,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020972,C1708335,TREATS,Immunization Schedule,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020972,C1709854,TREATS,Immunization Schedule,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020972,C2348001,TREATS,Immunization Schedule,Age Cohort,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020974,C0001792,TREATS,passive immunization procedure,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020974,C0684030,TREATS,passive immunization procedure,high-risk group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0020974,C0870668,TREATS,passive immunization procedure,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020974,C1516213,TREATS,passive immunization procedure,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020974,C1709854,TREATS,passive immunization procedure,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020975,C0001792,TREATS,Secondary Immunization,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020975,C0020155,TREATS,Secondary Immunization,Human Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020975,C0680398,TREATS,Secondary Immunization,secondary group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020975,C0687759,TREATS,Secondary Immunization,traveler,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0020975,C1999167,TREATS,Secondary Immunization,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0020975,C3826770,TREATS,Secondary Immunization,Older people,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021079,C0376387,TREATS,Therapeutic immunosuppression,Transplant Recipients,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0021079,C1516213,TREATS,Therapeutic immunosuppression,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021079,C1709854,TREATS,Therapeutic immunosuppression,Recipient,topp,humn,9,TREATS_TOPPtrtsHUMN
+C0021079,C4304779,TREATS,Therapeutic immunosuppression,Kidney Transplant Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0021107,C0034510,TREATS,Implantation procedure,Racial group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021107,C0043210,TREATS,Implantation procedure,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0021107,C0150775,TREATS,Implantation procedure,Social Networks,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0021107,C0337839,TREATS,Implantation procedure,Kenyans,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021107,C0684030,TREATS,Implantation procedure,high-risk group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021107,C0687735,TREATS,Implantation procedure,shaker,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021107,C0741926,TREATS,Implantation procedure,cardiac patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021107,C1522486,TREATS,Implantation procedure,Professional Organization or Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021107,C1704784,TREATS,Implantation procedure,Owner,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021107,C1709854,TREATS,Implantation procedure,Recipient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0021440,C0025266,TREATS,Intravenous infusion procedures,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021440,C0750173,TREATS,Intravenous infusion procedures,Ventilator-Dependent Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021440,C0870668,TREATS,Intravenous infusion procedures,hospitalized patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0021440,C1708335,TREATS,Intravenous infusion procedures,Healthy Volunteers,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0021485,C1708335,TREATS,Injection of therapeutic agent,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021778,C0334910,TREATS,Intermittent Positive-Pressure Ventilation,Anesthesiologist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021925,C0018724,TREATS,Intubation,Health Personnel,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0021925,C0033011,TREATS,Intubation,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021925,C0080105,TREATS,Intubation,Research Subject,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021925,C0728836,TREATS,Intubation,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021925,C0870602,TREATS,Intubation,geriatric patients,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0021925,C0870668,TREATS,Intubation,hospitalized patients,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0021925,C1709854,TREATS,Intubation,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021925,C1999167,TREATS,Intubation,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021925,C5205742,TREATS,Intubation,Treatment Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021932,C0206194,TREATS,"Intubation, Intratracheal",Survivors,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0021932,C0870668,TREATS,"Intubation, Intratracheal",hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021932,C0871685,TREATS,"Intubation, Intratracheal",Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021932,C1709627,TREATS,"Intubation, Intratracheal",Practitioner,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0021932,C2348484,TREATS,"Intubation, Intratracheal",Exposed Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0022100,C1516213,TREATS,Irrigation,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0022100,C1708335,TREATS,Irrigation,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0022671,C0025266,TREATS,Kidney Transplantation,Male population group,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0022671,C0040288,TREATS,Kidney Transplantation,Tissue Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0022671,C1709854,TREATS,Kidney Transplantation,Recipient,topp,humn,7,TREATS_TOPPtrtsHUMN
+C0022671,C1999167,TREATS,Kidney Transplantation,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0023038,C0043210,TREATS,Laparotomy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0023416,C0042960,TREATS,Leukapheresis,Voluntary Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0023537,C0748064,TREATS,Leukotomy,Psychiatric inpatient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0023911,C0040288,TREATS,Transplantation of liver,Tissue Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0023911,C0043210,TREATS,Transplantation of liver,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0023911,C0376387,TREATS,Transplantation of liver,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0023911,C1709854,TREATS,Transplantation of liver,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0024128,C0013018,TREATS,Lung Transplantation,Donor person,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0024128,C0025266,TREATS,Lung Transplantation,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0024128,C0043210,TREATS,Lung Transplantation,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0024128,C0240321,TREATS,Lung Transplantation,Mediterranean,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0024128,C0376387,TREATS,Lung Transplantation,Transplant Recipients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0024128,C0870602,TREATS,Lung Transplantation,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0024128,C1709854,TREATS,Lung Transplantation,Recipient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0024203,C0025266,TREATS,Lymph node excision,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0024203,C0043210,TREATS,Lymph node excision,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0024257,C0376387,TREATS,Lymphocyte Depletion,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0024881,C0043210,TREATS,Mastectomy,Woman,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0024883,C0043210,TREATS,Modified radical mastectomy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0026168,C0582175,TREATS,Minilaparotomy,Surgeon,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0026652,C0031831,TREATS,Moxibustion,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0026652,C5205743,TREATS,Moxibustion,Experimental Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0026729,C1708335,TREATS,Mud Therapy,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0027054,C0237485,TREATS,Myocardial Reperfusion,Attendants -- group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0027495,C2700280,TREATS,Naturopathy,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0028678,C0870602,TREATS,nursing therapy,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0029189,C0025266,TREATS,Orchiectomy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0029216,C0013018,TREATS,Organ Transplantation,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0029216,C0025266,TREATS,Organ Transplantation,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0029216,C0040288,TREATS,Organ Transplantation,Tissue Donors,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0029216,C0582175,TREATS,Organ Transplantation,Surgeon,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0029216,C0680323,TREATS,Organ Transplantation,Western society,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0029216,C1516213,TREATS,Organ Transplantation,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0029216,C1709854,TREATS,Organ Transplantation,Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0029216,C1999167,TREATS,Organ Transplantation,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0029216,C2700280,TREATS,Organ Transplantation,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0029936,C0043210,TREATS,Ovariectomy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0030231,C0033872,TREATS,Palliative Care,Psychiatrist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0030231,C0034961,TREATS,Palliative Care,Refugees,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0030231,C0282163,TREATS,Palliative Care,Immigrant (person),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0030231,C0687759,TREATS,Palliative Care,traveler,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0030231,C0870602,TREATS,Palliative Care,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0030231,C0870668,TREATS,Palliative Care,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0030231,C0872319,TREATS,Palliative Care,Underserved Populations,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0030231,C1516213,TREATS,Palliative Care,Cancer Patient,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0030231,C2700280,TREATS,Palliative Care,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0030231,C3826770,TREATS,Palliative Care,Older people,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0030547,C0870668,TREATS,Parenteral Nutrition,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0030693,C0851286,TREATS,Patient Isolation,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0031139,C0043210,TREATS,Peritoneal Dialysis,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0031140,C0043210,TREATS,"Peritoneal Dialysis, Continuous Ambulatory",Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032042,C0018724,TREATS,Placebos,Health Personnel,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0032042,C0025266,TREATS,Placebos,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032042,C0035173,TREATS,Placebos,Research Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032042,C0039309,TREATS,Placebos,Target Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032042,C0042960,TREATS,Placebos,Voluntary Workers,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0032042,C0043210,TREATS,Placebos,Woman,topp,humn,6,TREATS_TOPPtrtsHUMN
+C0032042,C0238607,TREATS,Placebos,AIDS patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032042,C0376387,TREATS,Placebos,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032042,C0728836,TREATS,Placebos,young child,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0032042,C0741926,TREATS,Placebos,cardiac patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032042,C0870668,TREATS,Placebos,hospitalized patients,topp,humn,9,TREATS_TOPPtrtsHUMN
+C0032042,C1516213,TREATS,Placebos,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032042,C1708335,TREATS,Placebos,Healthy Volunteers,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0032042,C1709854,TREATS,Placebos,Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0032042,C2985478,TREATS,Placebos,Mutation Carrier,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032042,C5205742,TREATS,Placebos,Treatment Group,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0032042,C5205743,TREATS,Placebos,Experimental Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032113,C0013018,TREATS,Plasma Exchange,Donor person,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0032113,C0035173,TREATS,Plasma Exchange,Research Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032113,C0043210,TREATS,Plasma Exchange,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032134,C0013018,TREATS,Plasmapheresis,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032134,C0033011,TREATS,Plasmapheresis,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032134,C1709854,TREATS,Plasmapheresis,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032284,C1708335,TREATS,Pneumonectomy,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0032740,C1708335,TREATS,Positive End-Expiratory Pressure,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0033144,C0043210,TREATS,Primary Prevention,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0033968,C0043210,TREATS,Psychotherapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0033968,C0557555,TREATS,Psychotherapy,Psychotherapists,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0033968,C1527116,TREATS,Psychotherapy,Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0033972,C0029206,TREATS,"Psychotherapy, Multiple",organ donor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0033972,C0040288,TREATS,"Psychotherapy, Multiple",Tissue Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0033972,C1516213,TREATS,"Psychotherapy, Multiple",Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0018724,TREATS,Quarantine,Health Personnel,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0034386,C0028661,TREATS,Quarantine,Nurses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0031228,TREATS,Quarantine,"Personnel, Hospital",topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0031831,TREATS,Quarantine,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0034510,TREATS,Quarantine,Racial group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0034386,C0043210,TREATS,Quarantine,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0034386,C0085537,TREATS,Quarantine,Caregiver,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0150775,TREATS,Quarantine,Social Networks,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0034386,C0242444,TREATS,Quarantine,Population at Risk,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0242856,TREATS,Quarantine,Veterinarian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0259831,TREATS,Quarantine,Dermatologist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0282122,TREATS,Quarantine,Respondents,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0337611,TREATS,Quarantine,contact person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0337810,TREATS,Quarantine,Italians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0450048,TREATS,Quarantine,Passenger,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0034386,C0598781,TREATS,Quarantine,communes,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0680323,TREATS,Quarantine,Western society,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0682134,TREATS,Quarantine,Citizen,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0034386,C0682137,TREATS,Quarantine,permanent resident,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0682177,TREATS,Quarantine,College student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C0687759,TREATS,Quarantine,traveler,topp,humn,14,TREATS_TOPPtrtsHUMN
+C0034386,C0851286,TREATS,Quarantine,Staff,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0034386,C0949366,TREATS,Quarantine,Vulnerable Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C1522486,TREATS,Quarantine,Professional Organization or Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C1707496,TREATS,Quarantine,Consumer,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C2348484,TREATS,Quarantine,Exposed Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C2700280,TREATS,Quarantine,World,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0034386,C2983714,TREATS,Quarantine,US Citizen,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034386,C4522252,TREATS,Quarantine,Foundation for the Accreditation of Cellular Therapy,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034533,C0402007,TREATS,Radiation Protection,Medical radiographer,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034991,C0025266,TREATS,Rehabilitation therapy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0034997,C0033011,TREATS,Rehydration,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0035139,C0013018,TREATS,Surgical Replantation,Donor person,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0035139,C0025266,TREATS,Surgical Replantation,Male population group,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0035139,C0028661,TREATS,Surgical Replantation,Nurses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0035139,C0175989,TREATS,Surgical Replantation,critically ill children,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0035139,C0221457,TREATS,Surgical Replantation,Teacher,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0035139,C0870602,TREATS,Surgical Replantation,geriatric patients,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0035139,C1510818,TREATS,Surgical Replantation,Advanced Practice Nurse,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0035139,C1527116,TREATS,Surgical Replantation,Workers,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0035273,C0013018,TREATS,Resuscitation procedure,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0035273,C0175989,TREATS,Resuscitation procedure,critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0035273,C0524647,TREATS,Resuscitation procedure,Soldiers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0035273,C0871463,TREATS,Resuscitation procedure,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0035273,C0871503,TREATS,Resuscitation procedure,dying patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0035273,C1320929,TREATS,Resuscitation procedure,Attending physician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0035273,C1516213,TREATS,Resuscitation procedure,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0035273,C2700280,TREATS,Resuscitation procedure,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0038288,C0025360,TREATS,Sexual sterilization,Mentally Ill Persons,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0038288,C0037179,TREATS,Sexual sterilization,Unmarried person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0038640,C4704944,TREATS,Suction Lipectomy,Medical Tourists,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0038847,C0728836,TREATS,Supplementary Feeding,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0038897,C1999167,TREATS,Cardiovascular Surgical Procedures,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0038901,C2700280,TREATS,Ophthalmologic Surgical Procedures,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0038903,C0025266,TREATS,Pulmonary Surgical Procedures,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0038903,C0043210,TREATS,Pulmonary Surgical Procedures,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0038903,C0402108,TREATS,Pulmonary Surgical Procedures,Professional boxer,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0038968,C0334885,TREATS,Suture Techniques,General surgeon,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040071,C0025266,TREATS,Thymectomy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040461,C2986530,TREATS,Toothbrushing,Intervention Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040590,C0018724,TREATS,Tracheostomy procedure,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040590,C0025266,TREATS,Tracheostomy procedure,Male population group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0040590,C0043210,TREATS,Tracheostomy procedure,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040590,C0582175,TREATS,Tracheostomy procedure,Surgeon,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040590,C0741926,TREATS,Tracheostomy procedure,cardiac patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040590,C0750173,TREATS,Tracheostomy procedure,Ventilator-Dependent Patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0040590,C0870668,TREATS,Tracheostomy procedure,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040590,C5206758,TREATS,Tracheostomy procedure,New Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040597,C2700280,TREATS,Traction,World,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0040631,C0038492,TREATS,Transactional Analysis,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040732,C0013018,TREATS,Transplantation,Donor person,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0040732,C0025266,TREATS,Transplantation,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040732,C0033011,TREATS,Transplantation,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040732,C0040288,TREATS,Transplantation,Tissue Donors,topp,humn,10,TREATS_TOPPtrtsHUMN
+C0040732,C0206193,TREATS,Transplantation,Long-Term Survivors,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0040732,C0206194,TREATS,Transplantation,Survivors,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0040732,C0376387,TREATS,Transplantation,Transplant Recipients,topp,humn,9,TREATS_TOPPtrtsHUMN
+C0040732,C0728836,TREATS,Transplantation,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040732,C0870602,TREATS,Transplantation,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040732,C1709854,TREATS,Transplantation,Recipient,topp,humn,32,TREATS_TOPPtrtsHUMN
+C0040732,C3179133,TREATS,Transplantation,Unrelated Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040732,C3826868,TREATS,Transplantation,United Network for Organ Sharing,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0040732,C4688309,TREATS,Transplantation,Allogeneic Hematopoietic Stem Cell Transplant Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040732,C5205743,TREATS,Transplantation,Experimental Group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0040739,C0206193,TREATS,"Transplantation, Homologous",Long-Term Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040739,C0206194,TREATS,"Transplantation, Homologous",Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040739,C0376387,TREATS,"Transplantation, Homologous",Transplant Recipients,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0040739,C1709854,TREATS,"Transplantation, Homologous",Recipient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0040739,C2700280,TREATS,"Transplantation, Homologous",World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040808,C0007457,TREATS,Treatment Protocols,Caucasoid Race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040808,C0013018,TREATS,Treatment Protocols,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040808,C0018724,TREATS,Treatment Protocols,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040808,C0025266,TREATS,Treatment Protocols,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040808,C0026192,TREATS,Treatment Protocols,Minority Groups,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0040808,C0033011,TREATS,Treatment Protocols,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040808,C0042610,TREATS,Treatment Protocols,Veterans,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040808,C0042960,TREATS,Treatment Protocols,Voluntary Workers,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0040808,C0043210,TREATS,Treatment Protocols,Woman,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0040808,C0238884,TREATS,Treatment Protocols,Canadian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040808,C0376387,TREATS,Treatment Protocols,Transplant Recipients,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0040808,C0687759,TREATS,Treatment Protocols,traveler,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040808,C0728836,TREATS,Treatment Protocols,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040808,C0851286,TREATS,Treatment Protocols,Staff,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0040808,C0870602,TREATS,Treatment Protocols,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040808,C0870668,TREATS,Treatment Protocols,hospitalized patients,topp,humn,7,TREATS_TOPPtrtsHUMN
+C0040808,C1708335,TREATS,Treatment Protocols,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040808,C1709854,TREATS,Treatment Protocols,Recipient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0040861,C0018724,TREATS,Triage,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040861,C0087009,TREATS,Triage,Hospital specialist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040861,C0851286,TREATS,Triage,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040861,C0871463,TREATS,Triage,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040861,C0871685,TREATS,Triage,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040861,C0949366,TREATS,Triage,Vulnerable Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040861,C1510818,TREATS,Triage,Advanced Practice Nurse,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040861,C1955958,TREATS,Triage,Mass Casualties,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0040861,C2700280,TREATS,Triage,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042019,C0175989,TREATS,Urinary Catheterization,critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0001792,TREATS,Vaccination,Elderly (population group),topp,humn,16,TREATS_TOPPtrtsHUMN
+C0042196,C0018724,TREATS,Vaccination,Health Personnel,topp,humn,14,TREATS_TOPPtrtsHUMN
+C0042196,C0025106,TREATS,Vaccination,Medical Staff,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042196,C0025266,TREATS,Vaccination,Male population group,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0042196,C0028661,TREATS,Vaccination,Nurses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0031228,TREATS,Vaccination,"Personnel, Hospital",topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042196,C0031831,TREATS,Vaccination,Physicians,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0042196,C0033011,TREATS,Vaccination,Pregnant Women,topp,humn,9,TREATS_TOPPtrtsHUMN
+C0042196,C0034961,TREATS,Vaccination,Refugees,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0038492,TREATS,Vaccination,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0039309,TREATS,Vaccination,Target Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0040288,TREATS,Vaccination,Tissue Donors,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0042196,C0042960,TREATS,Vaccination,Voluntary Workers,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0042196,C0043210,TREATS,Vaccination,Woman,topp,humn,8,TREATS_TOPPtrtsHUMN
+C0042196,C0080105,TREATS,Vaccination,Research Subject,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0085537,TREATS,Vaccination,Caregiver,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0150775,TREATS,Vaccination,Social Networks,topp,humn,6,TREATS_TOPPtrtsHUMN
+C0042196,C0221457,TREATS,Vaccination,Teacher,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0238884,TREATS,Vaccination,Canadian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0242170,TREATS,Vaccination,Policy Makers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0242444,TREATS,Vaccination,Population at Risk,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0042196,C0242445,TREATS,Vaccination,School Age Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0282163,TREATS,Vaccination,Immigrant (person),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0337910,TREATS,Vaccination,Thais (Population Group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0376387,TREATS,Vaccination,Transplant Recipients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042196,C0680681,TREATS,Vaccination,victim,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0680888,TREATS,Vaccination,target group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042196,C0682134,TREATS,Vaccination,Citizen,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042196,C0683973,TREATS,Vaccination,middle-aged adult,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0684030,TREATS,Vaccination,high-risk group,topp,humn,9,TREATS_TOPPtrtsHUMN
+C0042196,C0687759,TREATS,Vaccination,traveler,topp,humn,11,TREATS_TOPPtrtsHUMN
+C0042196,C0728836,TREATS,Vaccination,young child,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0042196,C0851286,TREATS,Vaccination,Staff,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042196,C0870646,TREATS,Vaccination,High Risk Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C0949366,TREATS,Vaccination,Vulnerable Populations,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042196,C1516213,TREATS,Vaccination,Cancer Patient,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0042196,C1518563,TREATS,Vaccination,Older Population,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0042196,C1527116,TREATS,Vaccination,Workers,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042196,C1704784,TREATS,Vaccination,Owner,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042196,C1708335,TREATS,Vaccination,Healthy Volunteers,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0042196,C1709627,TREATS,Vaccination,Practitioner,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C1709854,TREATS,Vaccination,Recipient,topp,humn,7,TREATS_TOPPtrtsHUMN
+C0042196,C1999167,TREATS,Vaccination,Old age,topp,humn,19,TREATS_TOPPtrtsHUMN
+C0042196,C2348001,TREATS,Vaccination,Age Cohort,topp,humn,11,TREATS_TOPPtrtsHUMN
+C0042196,C2700280,TREATS,Vaccination,World,topp,humn,11,TREATS_TOPPtrtsHUMN
+C0042196,C3826770,TREATS,Vaccination,Older people,topp,humn,8,TREATS_TOPPtrtsHUMN
+C0042196,C4330269,TREATS,Vaccination,Household Member,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042196,C4740649,TREATS,Vaccination,Specific population,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042196,C5205742,TREATS,Vaccination,Treatment Group,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0042196,C5205743,TREATS,Vaccination,Experimental Group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042200,C0001792,TREATS,Influenza vaccination,Elderly (population group),topp,humn,17,TREATS_TOPPtrtsHUMN
+C0042200,C0018724,TREATS,Influenza vaccination,Health Personnel,topp,humn,23,TREATS_TOPPtrtsHUMN
+C0042200,C0025106,TREATS,Influenza vaccination,Medical Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C0025266,TREATS,Influenza vaccination,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C0030450,TREATS,Influenza vaccination,Paramedical Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C0031228,TREATS,Influenza vaccination,"Personnel, Hospital",topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C0033011,TREATS,Influenza vaccination,Pregnant Women,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0042200,C0035962,TREATS,Influenza vaccination,Rural Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C0039309,TREATS,Influenza vaccination,Target Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C0221457,TREATS,Influenza vaccination,Teacher,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C0242444,TREATS,Influenza vaccination,Population at Risk,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042200,C0376387,TREATS,Influenza vaccination,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C0680888,TREATS,Influenza vaccination,target group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C0684030,TREATS,Influenza vaccination,high-risk group,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0042200,C0687759,TREATS,Influenza vaccination,traveler,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C0728836,TREATS,Influenza vaccination,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C0851286,TREATS,Influenza vaccination,Staff,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0042200,C0870602,TREATS,Influenza vaccination,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C0870646,TREATS,Influenza vaccination,High Risk Populations,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042200,C1518563,TREATS,Influenza vaccination,Older Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C1527116,TREATS,Influenza vaccination,Workers,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042200,C1708335,TREATS,Influenza vaccination,Healthy Volunteers,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0042200,C1709854,TREATS,Influenza vaccination,Recipient,topp,humn,6,TREATS_TOPPtrtsHUMN
+C0042200,C1999167,TREATS,Influenza vaccination,Old age,topp,humn,11,TREATS_TOPPtrtsHUMN
+C0042200,C2348001,TREATS,Influenza vaccination,Age Cohort,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042200,C3826770,TREATS,Influenza vaccination,Older people,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042201,C0034961,TREATS,Measles vaccination,Refugees,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042201,C2700280,TREATS,Measles vaccination,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042205,C0038492,TREATS,Rabies vaccination,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042205,C0376387,TREATS,Rabies vaccination,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042205,C0684030,TREATS,Rabies vaccination,high-risk group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042381,C2700616,TREATS,Vascular Surgical Procedures,Workforce - population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042387,C0025266,TREATS,Vasectomy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0042387,C0043210,TREATS,Vasectomy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0043162,C1999167,TREATS,Whole-Body Irradiation,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0052712,C1518563,TREATS,doxorubicin/mitomycin/vinblastine protocol,Older Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0052712,C1709854,TREATS,doxorubicin/mitomycin/vinblastine protocol,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0052712,C1999167,TREATS,doxorubicin/mitomycin/vinblastine protocol,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0056633,C0150775,TREATS,cyclophosphamide/prednisone/vincristine protocol,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0057163,C0080105,TREATS,DAV regimen,Research Subject,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0057163,C1709854,TREATS,DAV regimen,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0071973,C0039309,TREATS,Ifosfamide/Methotrexate/Procarbazine protocol,Target Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0071973,C0728836,TREATS,Ifosfamide/Methotrexate/Procarbazine protocol,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0078140,C0007457,TREATS,bleomycin/methotrexate/vincristine protocol,Caucasoid Race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0078140,C0015031,TREATS,bleomycin/methotrexate/vincristine protocol,Ethnic group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0078140,C0027567,TREATS,bleomycin/methotrexate/vincristine protocol,African race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0078140,C0034510,TREATS,bleomycin/methotrexate/vincristine protocol,Racial group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0079612,C1516213,TREATS,"Immunotherapy, Active",Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0079613,C0003988,TREATS,Adoptive Immunotherapy,Asian Americans,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0079613,C0031831,TREATS,Adoptive Immunotherapy,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0079613,C0043210,TREATS,Adoptive Immunotherapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0079613,C0150775,TREATS,Adoptive Immunotherapy,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0079613,C0221191,TREATS,Adoptive Immunotherapy,Judge,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0079613,C2700280,TREATS,Adoptive Immunotherapy,World,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0079613,C3887537,TREATS,Adoptive Immunotherapy,Partner,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0083355,C0033176,TREATS,amsacrine/azacitidine/etoposide,Private Sector,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0083765,C1999167,TREATS,fluorouracil/methotrexate/mitoxantrone protocol,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0085076,C0043210,TREATS,Mammaplasty,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0085405,C0033011,TREATS,Salvage Therapy,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0085405,C2936492,TREATS,Salvage Therapy,Peripartum Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0085430,C0162592,TREATS,Blood Component Transfusion,Public Domain,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0085430,C1709854,TREATS,Blood Component Transfusion,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0085533,C0043210,TREATS,"Chemotherapy, Adjuvant",Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0085533,C1516213,TREATS,"Chemotherapy, Adjuvant",Cancer Patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0085533,C1999167,TREATS,"Chemotherapy, Adjuvant",Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0085867,C1708335,TREATS,Balneotherapy,Healthy Volunteers,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0086153,C1704784,TREATS,Dietary Modification,Owner,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0086225,C0175989,TREATS,Enteral Feeding,critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0086225,C0871463,TREATS,Enteral Feeding,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0086511,C0043210,TREATS,Knee Replacement Arthroplasty (procedure),Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0086586,C0334952,TREATS,Manipulation of spine,Chiropractor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0108844,C1708335,TREATS,CDE protocol-cyclophosphamide/doxorubicin/etoposide,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0111197,C0042960,TREATS,CTCb regimen,Voluntary Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0118004,C0043210,TREATS,FMC protocol,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0149615,C0013018,TREATS,Allogeneic bone marrow transplantation,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0149615,C1709854,TREATS,Allogeneic bone marrow transplantation,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0149615,C3179133,TREATS,Allogeneic bone marrow transplantation,Unrelated Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0149761,C0001792,TREATS,prescription refill,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0149783,C0025266,TREATS,Steroid therapy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0149783,C0043210,TREATS,Steroid therapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0149783,C0206194,TREATS,Steroid therapy,Survivors,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0149783,C0728836,TREATS,Steroid therapy,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0149783,C0870668,TREATS,Steroid therapy,hospitalized patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0149783,C1709854,TREATS,Steroid therapy,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150133,C0870668,TREATS,Animal Assisted Therapy,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150135,C0018724,TREATS,Alleviating anxiety,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150135,C0748064,TREATS,Alleviating anxiety,Psychiatric inpatient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150135,C0871503,TREATS,Alleviating anxiety,dying patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150141,C0043210,TREATS,Bathing,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150173,C0033908,TREATS,Cognitive restructuring,Psychologist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150189,C0038492,TREATS,Distraction training,student,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0150189,C0402003,TREATS,Distraction training,Community Pharmacists,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150189,C0851286,TREATS,Distraction training,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150211,C0018724,TREATS,Environmental care procedure,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150211,C0035173,TREATS,Environmental care procedure,Research Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150211,C0038492,TREATS,Environmental care procedure,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150223,C1999167,TREATS,Fall prevention,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150232,C0031228,TREATS,Family support,"Personnel, Hospital",topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150232,C1516213,TREATS,Family support,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150259,C0028661,TREATS,Infection protection,Nurses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150269,C2700280,TREATS,Limit setting,World,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0150413,C0025266,TREATS,HIV prevention,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150413,C0085756,TREATS,HIV prevention,African American,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150413,C0150775,TREATS,HIV prevention,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150413,C0684030,TREATS,HIV prevention,high-risk group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150457,C0870668,TREATS,Anticoagulant therapy,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150457,C1516213,TREATS,Anticoagulant therapy,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150755,C0038492,TREATS,Safety precautions,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150755,C1527116,TREATS,Safety precautions,Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0150763,C1708335,TREATS,Sensory stimulation,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152054,C0450048,TREATS,Therapeutic tactile stimulation,Passenger,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152054,C1704221,TREATS,Therapeutic tactile stimulation,"Physicians, Family",topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152054,C2700280,TREATS,Therapeutic tactile stimulation,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0001792,TREATS,Transection (procedure),Elderly (population group),topp,humn,3,TREATS_TOPPtrtsHUMN
+C0152060,C0018724,TREATS,Transection (procedure),Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0025266,TREATS,Transection (procedure),Male population group,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0152060,C0026093,TREATS,Transection (procedure),Migrants,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0027567,TREATS,Transection (procedure),African race,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0152060,C0028661,TREATS,Transection (procedure),Nurses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0031831,TREATS,Transection (procedure),Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0034961,TREATS,Transection (procedure),Refugees,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0038492,TREATS,Transection (procedure),student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0039309,TREATS,Transection (procedure),Target Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0040288,TREATS,Transection (procedure),Tissue Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0043210,TREATS,Transection (procedure),Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0150775,TREATS,Transection (procedure),Social Networks,topp,humn,17,TREATS_TOPPtrtsHUMN
+C0152060,C0162592,TREATS,Transection (procedure),Public Domain,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0221191,TREATS,Transection (procedure),Judge,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0221457,TREATS,Transection (procedure),Teacher,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0238703,TREATS,Transection (procedure),Athletes,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0238711,TREATS,Transection (procedure),Australian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0282122,TREATS,Transection (procedure),Respondents,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0152060,C0282163,TREATS,Transection (procedure),Immigrant (person),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0334866,TREATS,Transection (procedure),Medical pathologist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0337611,TREATS,Transection (procedure),contact person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0376387,TREATS,Transection (procedure),Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0401816,TREATS,Transection (procedure),Broker,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0682232,TREATS,Transection (procedure),politicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0687759,TREATS,Transection (procedure),traveler,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0700061,TREATS,Transection (procedure),Obstetric Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0728836,TREATS,Transection (procedure),young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C0870668,TREATS,Transection (procedure),hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C1642385,TREATS,Transection (procedure),Animal group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0152060,C1706077,TREATS,Transection (procedure),user - individual,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0152060,C1707496,TREATS,Transection (procedure),Consumer,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C1709854,TREATS,Transection (procedure),Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C1999167,TREATS,Transection (procedure),Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C2700280,TREATS,Transection (procedure),World,topp,humn,6,TREATS_TOPPtrtsHUMN
+C0152060,C2717882,TREATS,Transection (procedure),Endangered Species,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0152060,C3812881,TREATS,Transection (procedure),Author,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0152060,C4522252,TREATS,Transection (procedure),Foundation for the Accreditation of Cellular Therapy,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0152060,C5205743,TREATS,Transection (procedure),Experimental Group,topp,humn,8,TREATS_TOPPtrtsHUMN
+C0152277,C0027567,TREATS,Incision and drainage,African race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0162649,C0043210,TREATS,"Blood Patch, Epidural",Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0184633,C0870668,TREATS,Oxygen Therapy Care,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0184893,C0025106,TREATS,Emergency operation,Medical Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0184904,C0728836,TREATS,Slitting,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0184908,C0025266,TREATS,Partial excision,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0184967,C0682177,TREATS,Insertion of pack (procedure),College student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0184967,C0815271,TREATS,Insertion of pack (procedure),retiree,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185003,C0018724,TREATS,Reparative closure,Health Personnel,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0185003,C0682176,TREATS,Reparative closure,high school students,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185003,C0851286,TREATS,Reparative closure,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185003,C0949366,TREATS,Reparative closure,Vulnerable Populations,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0185003,C2700280,TREATS,Reparative closure,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185023,C2700280,TREATS,Fixation - action,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185027,C0001792,TREATS,Imbrication (procedure),Elderly (population group),topp,humn,2,TREATS_TOPPtrtsHUMN
+C0185027,C0007457,TREATS,Imbrication (procedure),Caucasoid Race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185027,C0027567,TREATS,Imbrication (procedure),African race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185027,C0031831,TREATS,Imbrication (procedure),Physicians,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0185027,C0038492,TREATS,Imbrication (procedure),student,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0185027,C0043210,TREATS,Imbrication (procedure),Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185027,C0150775,TREATS,Imbrication (procedure),Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185027,C0687744,TREATS,Imbrication (procedure),Social group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185027,C0870454,TREATS,Imbrication (procedure),dyads,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185027,C0870602,TREATS,Imbrication (procedure),geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185027,C3826770,TREATS,Imbrication (procedure),Older people,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185114,C0238697,TREATS,Manual reduction,South East Asian,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0185114,C4727186,TREATS,Manual reduction,Sub-Saharan African,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0185115,C0011327,TREATS,Extraction,Dental Assistants,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185115,C0037179,TREATS,Extraction,Unmarried person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185115,C0150775,TREATS,Extraction,Social Networks,topp,humn,8,TREATS_TOPPtrtsHUMN
+C0185115,C0175989,TREATS,Extraction,critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185115,C0680319,TREATS,Extraction,modern society,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185115,C1551706,TREATS,Extraction,Artic Indian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185115,C1709854,TREATS,Extraction,Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0185115,C2700280,TREATS,Extraction,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185115,C4740649,TREATS,Extraction,Specific population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0185115,C5205742,TREATS,Extraction,Treatment Group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0185317,C1999167,TREATS,"Arthroplasty, Replacement",Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0186193,C0040288,TREATS,Repair of hip,Tissue Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0189463,C1708335,TREATS,Dilatation of bronchus,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0189476,C0870668,TREATS,Insertion of pleural tube drain,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0189497,C0043210,TREATS,Lobectomy of lung,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0192440,C0043210,TREATS,Billroth I Procedure,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0192499,C0376387,TREATS,Esophagogastric fundoplasty,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0192601,C0871463,TREATS,Small intestine excision,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0192865,C0025266,TREATS,Left colectomy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0193317,C0025266,TREATS,Parotidectomy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0193373,C0871463,TREATS,Operation on liver,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0193884,C0025266,TREATS,Excision of inguinal lymph nodes group,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0194810,C0025266,TREATS,Radical prostatectomy,Male population group,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0194823,C0871463,TREATS,"Prostatectomy, Retropubic",surgical patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0195224,C0043210,TREATS,Anterior colporrhaphy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0195331,C0043210,TREATS,Cervicectomy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0195488,C0043210,TREATS,Removal of ovarian cyst,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0195801,C0748064,TREATS,Prefrontal lobotomy,Psychiatric inpatient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0197402,C0040288,TREATS,corneal surgery,Tissue Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0001792,TREATS,Prophylactic treatment,Elderly (population group),topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199176,C0008098,TREATS,Prophylactic treatment,"Child, Hospitalized",topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0011441,TREATS,Prophylactic treatment,Dentist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0018724,TREATS,Prophylactic treatment,Health Personnel,topp,humn,7,TREATS_TOPPtrtsHUMN
+C0199176,C0020155,TREATS,Prophylactic treatment,Human Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0031831,TREATS,Prophylactic treatment,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0033011,TREATS,Prophylactic treatment,Pregnant Women,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0199176,C0033131,TREATS,Prophylactic treatment,Primary Care Physicians,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199176,C0043210,TREATS,Prophylactic treatment,Woman,topp,humn,7,TREATS_TOPPtrtsHUMN
+C0199176,C0085751,TREATS,Prophylactic treatment,Administrators,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0150775,TREATS,Prophylactic treatment,Social Networks,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0199176,C0348050,TREATS,Prophylactic treatment,Living Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0376387,TREATS,Prophylactic treatment,Transplant Recipients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199176,C0402599,TREATS,Prophylactic treatment,Coastguard,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0450048,TREATS,Prophylactic treatment,Passenger,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199176,C0679924,TREATS,Prophylactic treatment,professional occupation status,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0683626,TREATS,Prophylactic treatment,human group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0684030,TREATS,Prophylactic treatment,high-risk group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199176,C0687759,TREATS,Prophylactic treatment,traveler,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0728836,TREATS,Prophylactic treatment,young child,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199176,C0741926,TREATS,Prophylactic treatment,cardiac patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0851286,TREATS,Prophylactic treatment,Staff,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0199176,C0870646,TREATS,Prophylactic treatment,High Risk Populations,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0199176,C0870668,TREATS,Prophylactic treatment,hospitalized patients,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0199176,C0870869,TREATS,Prophylactic treatment,medical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C0949366,TREATS,Prophylactic treatment,Vulnerable Populations,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199176,C1709854,TREATS,Prophylactic treatment,Recipient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0199176,C1999167,TREATS,Prophylactic treatment,Old age,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0199176,C2348001,TREATS,Prophylactic treatment,Age Cohort,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0199176,C2700280,TREATS,Prophylactic treatment,World,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0199176,C3178988,TREATS,Prophylactic treatment,Emergency Responders,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199176,C4304779,TREATS,Prophylactic treatment,Kidney Transplant Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199242,C0870668,TREATS,Anticoagulant prophylaxis,hospitalized patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199244,C0033011,TREATS,Antimalarial prophylaxis,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199244,C0337810,TREATS,Antimalarial prophylaxis,Italians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199244,C0687759,TREATS,Antimalarial prophylaxis,traveler,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199415,C0870869,TREATS,Medical procedure on respiratory tract,medical patients,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0199451,C0039309,TREATS,Continuous Positive Airway Pressure,Target Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199451,C0401999,TREATS,Continuous Positive Airway Pressure,Practice nurse,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199451,C4330269,TREATS,Continuous Positive Airway Pressure,Household Member,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199470,C0001792,TREATS,Mechanical ventilation,Elderly (population group),topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199470,C0011327,TREATS,Mechanical ventilation,Dental Assistants,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199470,C0031831,TREATS,Mechanical ventilation,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199470,C0033011,TREATS,Mechanical ventilation,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199470,C0040288,TREATS,Mechanical ventilation,Tissue Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199470,C0079379,TREATS,Mechanical ventilation,Frail Older Adults,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199470,C0086409,TREATS,Mechanical ventilation,Hispanics,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199470,C0175989,TREATS,Mechanical ventilation,critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199470,C0206194,TREATS,Mechanical ventilation,Survivors,topp,humn,9,TREATS_TOPPtrtsHUMN
+C0199470,C0334898,TREATS,Mechanical ventilation,Neonatologists,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199470,C0684030,TREATS,Mechanical ventilation,high-risk group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199470,C0870602,TREATS,Mechanical ventilation,geriatric patients,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0199470,C0870668,TREATS,Mechanical ventilation,hospitalized patients,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0199470,C1709854,TREATS,Mechanical ventilation,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199470,C2700280,TREATS,Mechanical ventilation,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199470,C2986530,TREATS,Mechanical ventilation,Intervention Group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199470,C5205742,TREATS,Mechanical ventilation,Treatment Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199779,C0013018,TREATS,Administration of antibiotic,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199779,C0043210,TREATS,Administration of antibiotic,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199779,C0728836,TREATS,Administration of antibiotic,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199779,C0870602,TREATS,Administration of antibiotic,geriatric patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199779,C0870646,TREATS,Administration of antibiotic,High Risk Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199779,C0870668,TREATS,Administration of antibiotic,hospitalized patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0199779,C1999167,TREATS,Administration of antibiotic,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199779,C2986511,TREATS,Administration of antibiotic,Evaluable Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199779,C2986530,TREATS,Administration of antibiotic,Intervention Group,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0199779,C3642273,TREATS,Administration of antibiotic,Stanford Cancer Institute,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199798,C0242444,TREATS,human vaccination,Population at Risk,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199798,C0683626,TREATS,human vaccination,human group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199798,C0728836,TREATS,human vaccination,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199798,C1999167,TREATS,human vaccination,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199804,C0018724,TREATS,Vaccination against tuberculosis,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199804,C1515945,TREATS,Vaccination against tuberculosis,American Indian or Alaska Native,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199804,C1999167,TREATS,Vaccination against tuberculosis,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199804,C2348484,TREATS,Vaccination against tuberculosis,Exposed Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0199848,C0018724,TREATS,Coronavirus vaccination,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0200070,C0043210,TREATS,Infertility therapy,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0203005,C4740649,TREATS,Transcatheter therapy,Specific population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0203028,C0043210,TREATS,Screening mammography,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0203597,C0001792,TREATS,hyperthermia treatment,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204324,C0011441,TREATS,Dental surgical procedure,Dentist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204514,C0027567,TREATS,Structural analysis,African race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204514,C1510818,TREATS,Structural analysis,Advanced Practice Nurse,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0204523,C0033167,TREATS,Psychiatric therapeutic procedure,Prisoners,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204525,C0680681,TREATS,Individual psychotherapy,victim,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204525,C3887537,TREATS,Individual psychotherapy,Partner,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204538,C1319882,TREATS,Existential therapy,Informal caregiver,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204700,C0728836,TREATS,Fluid restriction,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204726,C2700280,TREATS,Verification routine,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C0018576,TREATS,Isolation procedure,Disabled Persons,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C0018724,TREATS,Isolation procedure,Health Personnel,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0204727,C0025106,TREATS,Isolation procedure,Medical Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C0038492,TREATS,Isolation procedure,student,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0204727,C0042462,TREATS,Isolation procedure,Vendors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C0043210,TREATS,Isolation procedure,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0204727,C0085537,TREATS,Isolation procedure,Caregiver,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C0150775,TREATS,Isolation procedure,Social Networks,topp,humn,6,TREATS_TOPPtrtsHUMN
+C0204727,C0238703,TREATS,Isolation procedure,Athletes,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C0242444,TREATS,Isolation procedure,Population at Risk,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C0337611,TREATS,Isolation procedure,contact person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C0376387,TREATS,Isolation procedure,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C0450048,TREATS,Isolation procedure,Passenger,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C0680681,TREATS,Isolation procedure,victim,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0204727,C0687744,TREATS,Isolation procedure,Social group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0204727,C0687759,TREATS,Isolation procedure,traveler,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0204727,C0851286,TREATS,Isolation procedure,Staff,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0204727,C0870646,TREATS,Isolation procedure,High Risk Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C0870668,TREATS,Isolation procedure,hospitalized patients,topp,humn,8,TREATS_TOPPtrtsHUMN
+C0204727,C0949366,TREATS,Isolation procedure,Vulnerable Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C1522486,TREATS,Isolation procedure,Professional Organization or Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C1708335,TREATS,Isolation procedure,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C1709854,TREATS,Isolation procedure,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C1999167,TREATS,Isolation procedure,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C2348001,TREATS,Isolation procedure,Age Cohort,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C2700280,TREATS,Isolation procedure,World,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0204727,C4505217,TREATS,Isolation procedure,"Smokers, Tobacco",topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C4738285,TREATS,Isolation procedure,Response team,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204727,C4740649,TREATS,Isolation procedure,Specific population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204732,C0038492,TREATS,Suicide prevention,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204968,C0242444,TREATS,Psychosocial procedure,Population at Risk,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0204968,C0684030,TREATS,Psychosocial procedure,high-risk group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0206058,C0011441,TREATS,Elective Surgical Procedures,Dentist,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0206058,C0018724,TREATS,Elective Surgical Procedures,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0206058,C0031831,TREATS,Elective Surgical Procedures,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0206058,C0038492,TREATS,Elective Surgical Procedures,student,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0206058,C0582175,TREATS,Elective Surgical Procedures,Surgeon,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0206058,C1516213,TREATS,Elective Surgical Procedures,Cancer Patient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0206058,C2700280,TREATS,Elective Surgical Procedures,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0206074,C0175989,TREATS,Renal Replacement Therapy,critically ill children,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0206074,C0206194,TREATS,Renal Replacement Therapy,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0206074,C0851286,TREATS,Renal Replacement Therapy,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0206074,C0871685,TREATS,Renal Replacement Therapy,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0206373,C0376387,TREATS,Photopheresis,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0221295,C0748064,TREATS,Supportive psychotherapy,Psychiatric inpatient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0237125,C0238703,TREATS,Drugs regimen,Athletes,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0237547,C0033011,TREATS,Group counseling,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0242296,C0033011,TREATS,Food Supplementation,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0242297,C1999167,TREATS,Dietary Supplementation,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0242390,C1706077,TREATS,Home Remedies,user - individual,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0242739,C0033011,TREATS,Nutritional Support,Pregnant Women,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0242739,C0870668,TREATS,Nutritional Support,hospitalized patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0242739,C1516213,TREATS,Nutritional Support,Cancer Patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0242739,C1999167,TREATS,Nutritional Support,Old age,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0242739,C3536818,TREATS,Nutritional Support,Dietitian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0242739,C4274271,TREATS,Nutritional Support,Multi-organ donor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0242972,C2347961,TREATS,"Diet, Protein-Restricted",Reverend,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0262762,C0018724,TREATS,crisis management,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0269694,C0033011,TREATS,Normal delivery procedure,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0278347,C4740649,TREATS,Transfusion of plasma,Specific population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0278355,C0005795,TREATS,Semen specimen collection,Blood donor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0278384,C0871685,TREATS,Oropharyngeal suctioning,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0279025,C0029206,TREATS,Hormone Therapy,organ donor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0279025,C0043210,TREATS,Hormone Therapy,Woman,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0279025,C0282122,TREATS,Hormone Therapy,Respondents,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0279027,C0206194,TREATS,"Laser Therapy, Low-Level",Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0279033,C0043210,TREATS,Replacement therapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0279049,C0020155,TREATS,Etoposide/Mitoxantrone Regimen,Human Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0279354,C1708335,TREATS,dianhydrogalactitol/etoposide,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0279492,C0025266,TREATS,Antiandrogen therapy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0279492,C0043210,TREATS,Antiandrogen therapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0279493,C0043210,TREATS,Androgen Therapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0279494,C0043210,TREATS,Estrogen Therapy,Woman,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0279509,C2700280,TREATS,Asparaginase/Cyclophosphamide/Doxorubicin/Methotrexate/Prednisone/Vincristine,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0279686,C1709854,TREATS,Doxorubicin/Thiotepa/Vinblastine,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280118,C2700280,TREATS,Infection Prophylaxis and Management,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C0008098,TREATS,Antiviral Therapy,"Child, Hospitalized",topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C0028661,TREATS,Antiviral Therapy,Nurses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C0033011,TREATS,Antiviral Therapy,Pregnant Women,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0280274,C0242444,TREATS,Antiviral Therapy,Population at Risk,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C0376387,TREATS,Antiviral Therapy,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C0684030,TREATS,Antiviral Therapy,high-risk group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C0728836,TREATS,Antiviral Therapy,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C0870646,TREATS,Antiviral Therapy,High Risk Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C0870668,TREATS,Antiviral Therapy,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C0949366,TREATS,Antiviral Therapy,Vulnerable Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C1709854,TREATS,Antiviral Therapy,Recipient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0280274,C1999167,TREATS,Antiviral Therapy,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C2347961,TREATS,Antiviral Therapy,Reverend,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C2348484,TREATS,Antiviral Therapy,Exposed Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C2700280,TREATS,Antiviral Therapy,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280274,C4331301,TREATS,Antiviral Therapy,Solid Organ Transplant Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280592,C0473169,TREATS,doxorubicin/fluorouracil/mitomycin/vincristine protocol,Pilot,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280604,C0025266,TREATS,altretamine/cisplatin/cyclophosphamide protocol,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280604,C0043210,TREATS,altretamine/cisplatin/cyclophosphamide protocol,Woman,topp,humn,9,TREATS_TOPPtrtsHUMN
+C0280604,C0206194,TREATS,altretamine/cisplatin/cyclophosphamide protocol,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0280604,C0949366,TREATS,altretamine/cisplatin/cyclophosphamide protocol,Vulnerable Populations,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0281163,C0018724,TREATS,Educational Intervention,Health Personnel,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0281163,C0026093,TREATS,Educational Intervention,Migrants,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0281163,C0038492,TREATS,Educational Intervention,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0281163,C0302833,TREATS,Educational Intervention,School nurse,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0281163,C0679924,TREATS,Educational Intervention,professional occupation status,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0281163,C0871685,TREATS,Educational Intervention,Clinician,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0281176,C0870646,TREATS,Antibody Therapy,High Risk Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0281176,C1709854,TREATS,Antibody Therapy,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0281182,C0043210,TREATS,Screening for malignant neoplasm of breast,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0281187,C0043210,TREATS,Cervical Cancer Screening,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0281318,C1516213,TREATS,antiangiogenesis therapy,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0281481,C0043210,TREATS,Anti-Tumor Necrosis Factor Therapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282077,C0001792,TREATS,Qigong,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282077,C1999167,TREATS,Qigong,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282333,C0871685,TREATS,Relaxation Therapy,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282402,C0001792,TREATS,Hormone replacement therapy,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282402,C0043210,TREATS,Hormone replacement therapy,Woman,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0282402,C1709627,TREATS,Hormone replacement therapy,Practitioner,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282402,C2348001,TREATS,Hormone replacement therapy,Age Cohort,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282515,C0018724,TREATS,Chemoprevention,Health Personnel,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0282515,C0033011,TREATS,Chemoprevention,Pregnant Women,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0282515,C0687759,TREATS,Chemoprevention,traveler,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0282515,C0851286,TREATS,Chemoprevention,Staff,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0282515,C0870646,TREATS,Chemoprevention,High Risk Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282515,C0870668,TREATS,Chemoprevention,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282515,C1552089,TREATS,Chemoprevention,Staff Member,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282515,C1709854,TREATS,Chemoprevention,Recipient,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0282515,C2348484,TREATS,Chemoprevention,Exposed Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282515,C4331301,TREATS,Chemoprevention,Solid Organ Transplant Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282624,C1516213,TREATS,Minimally Invasive Surgical Procedures,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282638,C0029206,TREATS,Antibiotic Prophylaxis,organ donor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282638,C0033011,TREATS,Antibiotic Prophylaxis,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282638,C0043210,TREATS,Antibiotic Prophylaxis,Woman,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0282638,C0600089,TREATS,Antibiotic Prophylaxis,"Nurses, Neonatal",topp,humn,1,TREATS_TOPPtrtsHUMN
+C0282638,C0728836,TREATS,Antibiotic Prophylaxis,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0286540,C0150775,TREATS,MAV protocol,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0302189,C0035173,TREATS,Cell Therapy,Research Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0302189,C0259990,TREATS,Cell Therapy,Oncologists,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0302189,C0376387,TREATS,Cell Therapy,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0302559,C3824904,TREATS,Cochlear implant procedure,Deaf children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0339897,C0007457,TREATS,Transjugular intrahepatic portosystemic shunt procedure,Caucasoid Race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0339897,C0851286,TREATS,Transjugular intrahepatic portosystemic shunt procedure,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0339897,C1706077,TREATS,Transjugular intrahepatic portosystemic shunt procedure,user - individual,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0339897,C1711305,TREATS,Transjugular intrahepatic portosystemic shunt procedure,Sponsor (person),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0343138,C0687735,TREATS,Application of strapping,shaker,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0344217,C2700280,TREATS,Chiropractic procedure,World,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0348007,C0237419,TREATS,Laser ablation,Gynecologist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0349707,C0700061,TREATS,Aspiration-action,Obstetric Patient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0349707,C0728836,TREATS,Aspiration-action,young child,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0349707,C0870668,TREATS,Aspiration-action,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0349707,C0871463,TREATS,Aspiration-action,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0349707,C1999167,TREATS,Aspiration-action,Old age,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0349707,C2945649,TREATS,Aspiration-action,heroin users,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0349707,C3826770,TREATS,Aspiration-action,Older people,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0372525,C0871463,TREATS,Laparoscopic appendectomy,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0376450,C1709854,TREATS,Transplantation Conditioning,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0376450,C1999167,TREATS,Transplantation Conditioning,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0392920,C1516213,TREATS,Chemotherapy Regimen,Cancer Patient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0393023,C0870602,TREATS,R-CHOP Regimen,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0394664,C0870602,TREATS,Acupuncture procedure,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396599,C0025266,TREATS,Double lung transplant,Male population group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0396599,C0043210,TREATS,Double lung transplant,Woman,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0396670,C0001792,TREATS,Isolated limb perfusion,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C0017319,TREATS,Isolated limb perfusion,General Practitioners,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C0026126,TREATS,Isolated limb perfusion,Military Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C0033011,TREATS,Isolated limb perfusion,Pregnant Women,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0396670,C0039309,TREATS,Isolated limb perfusion,Target Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C0043210,TREATS,Isolated limb perfusion,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C0150101,TREATS,Isolated limb perfusion,INCEPTION COHORT,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C0221460,TREATS,Isolated limb perfusion,Farmers,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0396670,C0282122,TREATS,Isolated limb perfusion,Respondents,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C0376387,TREATS,Isolated limb perfusion,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C0524647,TREATS,Isolated limb perfusion,Soldiers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C0680399,TREATS,Isolated limb perfusion,Reference Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C0728836,TREATS,Isolated limb perfusion,young child,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0396670,C0851286,TREATS,Isolated limb perfusion,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C0870668,TREATS,Isolated limb perfusion,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C0871685,TREATS,Isolated limb perfusion,Clinician,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0396670,C1708335,TREATS,Isolated limb perfusion,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C1709854,TREATS,Isolated limb perfusion,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C2348001,TREATS,Isolated limb perfusion,Age Cohort,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0396670,C2700280,TREATS,Isolated limb perfusion,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0396670,C2986530,TREATS,Isolated limb perfusion,Intervention Group,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0396670,C4330269,TREATS,Isolated limb perfusion,Household Member,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0399839,C0086409,TREATS,Gastrojejunostomy,Hispanics,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0401181,C0025266,TREATS,Radical nephrectomy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0403349,C0025266,TREATS,Sperm Retrieval,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0404268,C0043210,TREATS,Oocyte Retrieval,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0407564,C0043210,TREATS,Allogeneic bone graft,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0410872,C0033011,TREATS,Fetal procedure,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0410872,C0043210,TREATS,Fetal procedure,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0412784,C0871685,TREATS,Analgesic technique,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0418981,C0870602,TREATS,Medical therapy,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0418981,C2348001,TREATS,Medical therapy,Age Cohort,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0419011,C0728836,TREATS,Controlled ventilation,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0419175,C0001792,TREATS,Alimentary aid,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0419707,C0001792,TREATS,Pneumococcal vaccination,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0419707,C0687759,TREATS,Pneumococcal vaccination,traveler,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0419707,C1999167,TREATS,Pneumococcal vaccination,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0419707,C4740649,TREATS,Pneumococcal vaccination,Specific population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0419786,C2700280,TREATS,Infection surveillance,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0419786,C2717882,TREATS,Infection surveillance,Endangered Species,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0425403,C1524069,TREATS,"Diet, High-Protein",Asian Indian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0436307,C0043210,TREATS,Chemoradiotherapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0436548,C0025266,TREATS,Transcranial magnetic stimulation,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0439775,C0025266,TREATS,Elevation procedure,Male population group,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0439775,C0206194,TREATS,Elevation procedure,Survivors,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0439775,C0728836,TREATS,Elevation procedure,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0439775,C0870668,TREATS,Elevation procedure,hospitalized patients,topp,humn,6,TREATS_TOPPtrtsHUMN
+C0441509,C0013018,TREATS,Coagulation procedure,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0441509,C0206194,TREATS,Coagulation procedure,Survivors,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0441509,C1516213,TREATS,Coagulation procedure,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0441516,C0018724,TREATS,Demand (clinical),Health Personnel,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0441516,C0028661,TREATS,Demand (clinical),Nurses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0441516,C0031831,TREATS,Demand (clinical),Physicians,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0441516,C0150775,TREATS,Demand (clinical),Social Networks,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0441516,C0596910,TREATS,Demand (clinical),mental health personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0441516,C0871685,TREATS,Demand (clinical),Clinician,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0441516,C0949366,TREATS,Demand (clinical),Vulnerable Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0441516,C1527116,TREATS,Demand (clinical),Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0441516,C1551706,TREATS,Demand (clinical),Artic Indian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0441516,C2347650,TREATS,Demand (clinical),Potential Study Subject,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0441516,C2700280,TREATS,Demand (clinical),World,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0442965,C0206194,TREATS,Cosmetic procedure,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0445275,C2700280,TREATS,Secondary procedure,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0450076,C0150775,TREATS,Gradient method,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0452240,C0680888,TREATS,Physical therapy exercises,target group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0452260,C0335083,TREATS,Muscular strength development exercise,Actor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0452410,C1707496,TREATS,Balanced diet,Consumer,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0454366,C0150775,TREATS,Step ups,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0454511,C0750173,TREATS,Inspiratory muscle training,Ventilator-Dependent Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0454512,C0871463,TREATS,Incentive spirometry,surgical patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0454512,C5206630,TREATS,Incentive spirometry,Abdominal Surgery Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0454530,C0043157,TREATS,Ultraviolet B therapy,Caucasians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0455014,C0043210,TREATS,Red cell exchange transfusion,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0455258,C0013018,TREATS,Endotracheal tube suction,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0456675,C0037179,TREATS,Massive blood transfusion,Unmarried person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0456979,C0038492,TREATS,Automated endodontic technique,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0457411,C1516213,TREATS,Harvesting of peripheral blood stem cells,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0472676,C0175989,TREATS,Intermittent hemodialysis,critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0472699,C0011441,TREATS,Hemopoietic stem cell transplant,Dentist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0472699,C0031831,TREATS,Hemopoietic stem cell transplant,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0472699,C0376387,TREATS,Hemopoietic stem cell transplant,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0472699,C0728836,TREATS,Hemopoietic stem cell transplant,young child,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0472699,C0871685,TREATS,Hemopoietic stem cell transplant,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0472699,C1516213,TREATS,Hemopoietic stem cell transplant,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0472699,C1709854,TREATS,Hemopoietic stem cell transplant,Recipient,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0472699,C1999167,TREATS,Hemopoietic stem cell transplant,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0472699,C2700280,TREATS,Hemopoietic stem cell transplant,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0472699,C3179133,TREATS,Hemopoietic stem cell transplant,Unrelated Donors,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0472699,C4288965,TREATS,Hemopoietic stem cell transplant,Hematopoietic Cell Transplant Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0473296,C0033011,TREATS,Elective cesarian delivery procedure,Pregnant Women,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0473296,C0043210,TREATS,Elective cesarian delivery procedure,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0474166,C0085537,TREATS,Medical counseling,Caregiver,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0474178,C0018724,TREATS,Psychological counseling,Health Personnel,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0474178,C0025106,TREATS,Psychological counseling,Medical Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0474178,C0038492,TREATS,Psychological counseling,student,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0474178,C0949366,TREATS,Psychological counseling,Vulnerable Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0508431,C0038492,TREATS,answer questions,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0508431,C0238606,TREATS,answer questions,West Africans,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0519382,C0741926,TREATS,Mitral valve operation,cardiac patient,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0520251,C0008098,TREATS,Multiple interventional procedures,"Child, Hospitalized",topp,humn,1,TREATS_TOPPtrtsHUMN
+C0520251,C0033011,TREATS,Multiple interventional procedures,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0520251,C1711305,TREATS,Multiple interventional procedures,Sponsor (person),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0520484,C0025266,TREATS,Xenograft procedure,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0520484,C1709854,TREATS,Xenograft procedure,Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0521300,C0018724,TREATS,Life support procedure,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0521300,C0040288,TREATS,Life support procedure,Tissue Donors,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0521300,C0206194,TREATS,Life support procedure,Survivors,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0521300,C0402112,TREATS,Life support procedure,Scientist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0521300,C0870602,TREATS,Life support procedure,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0524722,C0870869,TREATS,Gastrointestinal Surgical Procedure,medical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0524850,C0086944,TREATS,Neurosurgical Procedures,Rural Communities,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0524850,C3826770,TREATS,Neurosurgical Procedures,Older people,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0524865,C0150775,TREATS,Reconstructive Surgical Procedures,Social Networks,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0524865,C0682356,TREATS,Reconstructive Surgical Procedures,Witnesses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0524865,C2700280,TREATS,Reconstructive Surgical Procedures,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C0022372,TREATS,Operative Surgical Procedures,"Jehovah's Witness, follower of religion",topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C0028661,TREATS,Operative Surgical Procedures,Nurses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C0031228,TREATS,Operative Surgical Procedures,"Personnel, Hospital",topp,humn,2,TREATS_TOPPtrtsHUMN
+C0543467,C0040288,TREATS,Operative Surgical Procedures,Tissue Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C0043210,TREATS,Operative Surgical Procedures,Woman,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0543467,C0086517,TREATS,Operative Surgical Procedures,Laboratory Technicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C0150775,TREATS,Operative Surgical Procedures,Social Networks,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0543467,C0242444,TREATS,Operative Surgical Procedures,Population at Risk,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C0282122,TREATS,Operative Surgical Procedures,Respondents,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C0335296,TREATS,Operative Surgical Procedures,Demonstrator,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C0402112,TREATS,Operative Surgical Procedures,Scientist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C0582175,TREATS,Operative Surgical Procedures,Surgeon,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C0851286,TREATS,Operative Surgical Procedures,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C0870869,TREATS,Operative Surgical Procedures,medical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C1516213,TREATS,Operative Surgical Procedures,Cancer Patient,topp,humn,8,TREATS_TOPPtrtsHUMN
+C0543467,C1706077,TREATS,Operative Surgical Procedures,user - individual,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0543467,C1708335,TREATS,Operative Surgical Procedures,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C1709854,TREATS,Operative Surgical Procedures,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C1999167,TREATS,Operative Surgical Procedures,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0543467,C2700280,TREATS,Operative Surgical Procedures,World,topp,humn,5,TREATS_TOPPtrtsHUMN
+C0543467,C3826770,TREATS,Operative Surgical Procedures,Older people,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0545321,C0080105,TREATS,B cell therapy,Research Subject,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0547070,C0007457,TREATS,Ablation,Caucasoid Race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0547070,C0150775,TREATS,Ablation,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0547070,C4554082,TREATS,Ablation,Independent Ethics Committee,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0554804,C0871463,TREATS,Assisted breathing,surgical patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0554804,C1709924,TREATS,Assisted breathing,Respiratory therapist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0556508,C0025106,TREATS,Concept formation training,Medical Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0556508,C0031228,TREATS,Concept formation training,"Personnel, Hospital",topp,humn,1,TREATS_TOPPtrtsHUMN
+C0557061,C0018724,TREATS,Discussion (procedure),Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0557061,C0031323,TREATS,Discussion (procedure),Pharmacist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0557061,C0150775,TREATS,Discussion (procedure),Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0557061,C0682355,TREATS,Discussion (procedure),tourist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0557061,C0870602,TREATS,Discussion (procedure),geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0557061,C1516213,TREATS,Discussion (procedure),Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0557061,C1883562,TREATS,Discussion (procedure),Working Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0557061,C2700280,TREATS,Discussion (procedure),World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0558380,C0033011,TREATS,Emergency cesarean section,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0558380,C0043210,TREATS,Emergency cesarean section,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0563322,C0870668,TREATS,Intravenous steroid injection,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0565342,C0150775,TREATS,Surgical reduction of fracture,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0574032,C1516213,TREATS,Infusion procedures,Cancer Patient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0574032,C1708335,TREATS,Infusion procedures,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0574032,C1709854,TREATS,Infusion procedures,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0578554,C0238703,TREATS,Inhaled bronchodilator therapy,Athletes,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0581528,C2700280,TREATS,Close observation,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0581601,C0025266,TREATS,Functional modification,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0581601,C0206194,TREATS,Functional modification,Survivors,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0581602,C0150775,TREATS,Structural modification,Social Networks,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0582434,C0741926,TREATS,Giving encouragement to exercise,cardiac patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0582778,C0033011,TREATS,Understanding behavior,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0584877,C0851286,TREATS,Percutaneous tracheostomy,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0585941,C0043210,TREATS,Antihypertensive therapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0596171,C4684712,TREATS,Tissue Engineering,Medicines And Healthcare Products Regulatory Agency,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0596706,C0870602,TREATS,hip surgery,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0597092,C0871685,TREATS,nosocomial infection control,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0597092,C4522252,TREATS,nosocomial infection control,Foundation for the Accreditation of Cellular Therapy,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0597409,C0013018,TREATS,retransplantation,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0597409,C0376387,TREATS,retransplantation,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0597409,C1709854,TREATS,retransplantation,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0597750,C1709854,TREATS,antigen challenge,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0597815,C1516213,TREATS,crystal healing,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0599917,C0206194,TREATS,intervention program,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0599917,C0238711,TREATS,intervention program,Australian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0599917,C0872319,TREATS,intervention program,Underserved Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0600047,C0001792,TREATS,Patient counseling,Elderly (population group),topp,humn,2,TREATS_TOPPtrtsHUMN
+C0600080,C0335038,TREATS,Stretching exercises,Reporter (occupation),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0600080,C0473169,TREATS,Stretching exercises,Pilot,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0600558,C0043210,TREATS,Neoadjuvant Therapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0600558,C0376387,TREATS,Neoadjuvant Therapy,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0600558,C1709854,TREATS,Neoadjuvant Therapy,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0600558,C4304779,TREATS,Neoadjuvant Therapy,Kidney Transplant Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0677616,C0087009,TREATS,Plastic Surgical Procedures,Hospital specialist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0677850,C0033011,TREATS,Adjuvant Therapy,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0677850,C0043210,TREATS,Adjuvant Therapy,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0677850,C0741926,TREATS,Adjuvant Therapy,cardiac patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0677850,C0870668,TREATS,Adjuvant Therapy,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0677850,C1516213,TREATS,Adjuvant Therapy,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0677850,C2348001,TREATS,Adjuvant Therapy,Age Cohort,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0677881,C0035173,TREATS,Cytotoxic Chemotherapy,Research Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0677881,C1516213,TREATS,Cytotoxic Chemotherapy,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0677908,C0206194,TREATS,Maintenance therapy,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0677908,C0376387,TREATS,Maintenance therapy,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0678812,C0025266,TREATS,systemic administration,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0678812,C1516213,TREATS,systemic administration,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679624,C0002695,TREATS,medical treatment method,Amputees,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679624,C1516213,TREATS,medical treatment method,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679637,C0680413,TREATS,major surgery,civilian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679637,C1516213,TREATS,major surgery,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679637,C1999167,TREATS,major surgery,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679698,C0001792,TREATS,disease prevention,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679698,C0018724,TREATS,disease prevention,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679698,C0033011,TREATS,disease prevention,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679698,C0241520,TREATS,disease prevention,Ugandans,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679698,C0450048,TREATS,disease prevention,Passenger,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679698,C0580214,TREATS,disease prevention,Crewmember,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679698,C0687759,TREATS,disease prevention,traveler,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679698,C0870646,TREATS,disease prevention,High Risk Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679698,C0870668,TREATS,disease prevention,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679698,C1516213,TREATS,disease prevention,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679698,C2348001,TREATS,disease prevention,Age Cohort,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679698,C2700280,TREATS,disease prevention,World,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0679698,C2936533,TREATS,disease prevention,Invasive Species,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679700,C4740649,TREATS,Tertiary Prevention,Specific population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679731,C3826770,TREATS,community-wide prevention,Older people,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679740,C0018724,TREATS,peer support,Health Personnel,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0679750,C0242444,TREATS,prevention through information dissemination,Population at Risk,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679771,C0338666,TREATS,Harm Reduction,Drug abuser,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679817,C1709854,TREATS,targeted screening,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679817,C1999167,TREATS,targeted screening,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679875,C0001792,TREATS,psychological care,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679875,C0728836,TREATS,psychological care,young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679875,C1571885,TREATS,psychological care,Professional Counselor,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0679947,C0025106,TREATS,individual counseling,Medical Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0679947,C1527116,TREATS,individual counseling,Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0683465,C0043210,TREATS,novel AODU treatment method,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0683465,C0150775,TREATS,novel AODU treatment method,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0683465,C1709627,TREATS,novel AODU treatment method,Practitioner,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0683474,C0871525,TREATS,Motivational Interviewing,therapist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0684199,C0221460,TREATS,Homeopathy,Farmers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0695341,C0150775,TREATS,common procedures,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0695341,C0700061,TREATS,common procedures,Obstetric Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0695434,C2700280,TREATS,oscillations,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0700282,C2700280,TREATS,Confrontation,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0700589,C0043210,TREATS,Contraceptive methods,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0700589,C0683626,TREATS,Contraceptive methods,human group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0700589,C0687759,TREATS,Contraceptive methods,traveler,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0730392,C0025266,TREATS,Donor renal transplantation,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0740413,C0028661,TREATS,Tuberculosis prophylaxis,Nurses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0740413,C2700280,TREATS,Tuberculosis prophylaxis,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0740413,C4330269,TREATS,Tuberculosis prophylaxis,Household Member,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0746569,C0025266,TREATS,methadone treatment,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0746569,C0870668,TREATS,methadone treatment,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0747141,C0870602,TREATS,pain chronic management,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0747314,C1709854,TREATS,pcp prophylaxis,Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0747973,C0031831,TREATS,Elective procedure,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0747973,C0080105,TREATS,Elective procedure,Research Subject,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0747973,C0150775,TREATS,Elective procedure,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0747973,C0282122,TREATS,Elective procedure,Respondents,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0747973,C1883562,TREATS,Elective procedure,Working Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0748359,C1709854,TREATS,Respiratory isolation,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0752151,C0025266,TREATS,"Thoracic Surgery, Video-Assisted",Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0752151,C0870668,TREATS,"Thoracic Surgery, Video-Assisted",hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0812138,C0043210,TREATS,Pessary care,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0814357,C1709854,TREATS,universal prevention,Recipient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0814360,C0001792,TREATS,targeted prevention,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0814360,C0018724,TREATS,targeted prevention,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0814435,C0871685,TREATS,early identification,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0814435,C0949366,TREATS,early identification,Vulnerable Populations,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0844334,C0025266,TREATS,septoplasty,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0848112,C0031831,TREATS,on anti-coagulants,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0848418,C0851286,TREATS,psychological Guidance,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0849487,C0206194,TREATS,physical rehabilitation,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0869904,C0033011,TREATS,Obstetric procedure,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0870527,C0870646,TREATS,Exposure Therapy,High Risk Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0870810,C0005795,TREATS,lifesaving,Blood donor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0870810,C0013018,TREATS,lifesaving,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0870810,C0018576,TREATS,lifesaving,Disabled Persons,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0870810,C0025266,TREATS,lifesaving,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0870810,C0031831,TREATS,lifesaving,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0870810,C0237485,TREATS,lifesaving,Attendants -- group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0870810,C2700280,TREATS,lifesaving,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0871803,C0206194,TREATS,life sustaining treatment,Survivors,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0871803,C1999167,TREATS,life sustaining treatment,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0871878,C0238711,TREATS,reframing,Australian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0872104,C0043210,TREATS,Assisted Reproductive Technologies,Woman,topp,humn,4,TREATS_TOPPtrtsHUMN
+C0872104,C0851286,TREATS,Assisted Reproductive Technologies,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0872104,C2717882,TREATS,Assisted Reproductive Technologies,Endangered Species,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0872259,C1708335,TREATS,"Transcranial Magnetic Stimulation, Repetitive",Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0876964,C0870602,TREATS,Cardiac Therapeutic Procedure,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0876971,C0033011,TREATS,Obstetric Therapy,Pregnant Women,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0877071,C0870602,TREATS,postoperative rehabilitation,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0877629,C0018724,TREATS,infection prophylaxis,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0877629,C0085537,TREATS,infection prophylaxis,Caregiver,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0877629,C0683626,TREATS,infection prophylaxis,human group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0877629,C1709854,TREATS,infection prophylaxis,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0877629,C2700280,TREATS,infection prophylaxis,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0877629,C4288965,TREATS,infection prophylaxis,Hematopoietic Cell Transplant Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0886052,C0017319,TREATS,wound care,General Practitioners,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0886052,C2700280,TREATS,wound care,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0886384,C0206194,TREATS,5 minutes Office visit,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0887947,C0028661,TREATS,"Antiretroviral Therapy, Highly Active",Nurses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0887947,C0031831,TREATS,"Antiretroviral Therapy, Highly Active",Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0887947,C0206194,TREATS,"Antiretroviral Therapy, Highly Active",Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0887947,C0238607,TREATS,"Antiretroviral Therapy, Highly Active",AIDS patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0887947,C2700280,TREATS,"Antiretroviral Therapy, Highly Active",World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0917707,C0043210,TREATS,Cannulation,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0917927,C0043210,TREATS,Breast-Conserving Surgery,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0917927,C0150775,TREATS,Breast-Conserving Surgery,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920298,C0870646,TREATS,Weight maintenance regimen,High Risk Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920347,C1999167,TREATS,Procedure on spinal cord (procedure),Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920424,C1516213,TREATS,cancer surgery,Cancer Patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0920424,C2700280,TREATS,cancer surgery,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920425,C0033011,TREATS,Cancer Therapeutic Procedure,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920425,C0043210,TREATS,Cancer Therapeutic Procedure,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920425,C0206194,TREATS,Cancer Therapeutic Procedure,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920425,C0870602,TREATS,Cancer Therapeutic Procedure,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920425,C1516213,TREATS,Cancer Therapeutic Procedure,Cancer Patient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C0920467,C0025266,TREATS,disorder control (procedure),Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920467,C0038492,TREATS,disorder control (procedure),student,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0920467,C0150775,TREATS,disorder control (procedure),Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920467,C0450048,TREATS,disorder control (procedure),Passenger,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920467,C0815272,TREATS,disorder control (procedure),critical populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920467,C0870668,TREATS,disorder control (procedure),hospitalized patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0920467,C0949366,TREATS,disorder control (procedure),Vulnerable Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920467,C1709696,TREATS,disorder control (procedure),Producer,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920467,C2348228,TREATS,disorder control (procedure),Source Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920467,C2700280,TREATS,disorder control (procedure),World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920619,C1516213,TREATS,neoplasm therapy,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0920687,C1516213,TREATS,cancer care,Cancer Patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0920687,C2348001,TREATS,cancer care,Age Cohort,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0935563,C0018724,TREATS,Piercing procedure,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0935576,C0031831,TREATS,treatment guideline,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0935576,C0034961,TREATS,treatment guideline,Refugees,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0935576,C0687759,TREATS,treatment guideline,traveler,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0935576,C0851286,TREATS,treatment guideline,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0935576,C0871685,TREATS,treatment guideline,Clinician,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0947647,C0034035,TREATS,Manipulation procedure,Public Sector,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0947647,C0150775,TREATS,Manipulation procedure,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0947647,C0239312,TREATS,Manipulation procedure,Western European,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0947647,C2700280,TREATS,Manipulation procedure,World,topp,humn,2,TREATS_TOPPtrtsHUMN
+C0947647,C2986530,TREATS,Manipulation procedure,Intervention Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0948173,C1709854,TREATS,intestinal transplant,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0949266,C0206194,TREATS,"Therapies, Investigational",Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0949266,C0376387,TREATS,"Therapies, Investigational",Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0949385,C0013018,TREATS,Ovarian Stimulation,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C0949634,C0001792,TREATS,Antineoplastic Protocols,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C0949766,C1518563,TREATS,Physical therapy,Older Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1112614,C0043210,TREATS,lumbar laminectomy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1135929,C2700280,TREATS,Mass Vaccination,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1141958,C0851286,TREATS,anti-infective therapy,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1148475,C0078988,TREATS,Complementary and alternative medicine,Asians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1160964,C1999167,TREATS,Fracture care,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1171194,C0025266,TREATS,Fertility Preservation,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1171194,C0043210,TREATS,Fertility Preservation,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1171194,C1516213,TREATS,Fertility Preservation,Cancer Patient,topp,humn,6,TREATS_TOPPtrtsHUMN
+C1171257,C0001792,TREATS,Delivery care,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C1171257,C0015031,TREATS,Delivery care,Ethnic group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1171257,C0031323,TREATS,Delivery care,Pharmacist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1171257,C0033011,TREATS,Delivery care,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1171257,C0034510,TREATS,Delivery care,Racial group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1171257,C0206194,TREATS,Delivery care,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1171257,C0949366,TREATS,Delivery care,Vulnerable Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1261381,C0034035,TREATS,Destructive procedure (surgical),Public Sector,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1261381,C0335083,TREATS,Destructive procedure (surgical),Actor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1261381,C0425359,TREATS,Destructive procedure (surgical),South American,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1261381,C1709854,TREATS,Destructive procedure (surgical),Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1261381,C2700280,TREATS,Destructive procedure (surgical),World,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1261381,C4554082,TREATS,Destructive procedure (surgical),Independent Ethics Committee,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1266824,C2986511,TREATS,Total skin electron beam therapy,Evaluable Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1269689,C0018724,TREATS,Safety procedure,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1269689,C0038492,TREATS,Safety procedure,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1269689,C0679924,TREATS,Safety procedure,professional occupation status,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1269689,C0851286,TREATS,Safety procedure,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1276413,C1516213,TREATS,Therapeutic regimen,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1278444,C0033011,TREATS,Nicotine replacement therapy,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1278444,C0870668,TREATS,Nicotine replacement therapy,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1279746,C0554244,TREATS,Participative approach,Maker (occupation),topp,humn,1,TREATS_TOPPtrtsHUMN
+C1280903,C0034510,TREATS,Exploration procedure,Racial group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1280903,C1551706,TREATS,Exploration procedure,Artic Indian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1280903,C1706077,TREATS,Exploration procedure,user - individual,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1280903,C2348001,TREATS,Exploration procedure,Age Cohort,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1280903,C2700280,TREATS,Exploration procedure,World,topp,humn,3,TREATS_TOPPtrtsHUMN
+C1282573,C0001792,TREATS,Evacuation procedure,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C1282573,C0043210,TREATS,Evacuation procedure,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1282573,C1527116,TREATS,Evacuation procedure,Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1282573,C1955958,TREATS,Evacuation procedure,Mass Casualties,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1292856,C0683626,TREATS,Stimulation procedure,human group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1293130,C0878517,TREATS,Stabilization,Engineer,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1293130,C1999167,TREATS,Stabilization,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1293130,C2700280,TREATS,Stabilization,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1293132,C1510818,TREATS,Anchoring procedure,Advanced Practice Nurse,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1293132,C1709696,TREATS,Anchoring procedure,Producer,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1293152,C0001792,TREATS,Reduction procedure,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C1293152,C1999167,TREATS,Reduction procedure,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1293365,C0680395,TREATS,Lung destructive procedure,primary group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1298805,C1704784,TREATS,Routine procedure,Owner,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1303150,C0026093,TREATS,Disease management program (regime/therapy),Migrants,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1321145,C0043210,TREATS,Dialectical Behavior Therapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1328050,C1516213,TREATS,High Dose Chemotherapy,Cancer Patient,topp,humn,3,TREATS_TOPPtrtsHUMN
+C1328288,C0018724,TREATS,In vivo GENETIC,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1328288,C0681088,TREATS,In vivo GENETIC,coworker,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443861,C0018724,TREATS,Post-Exposure Prophylaxis,Health Personnel,topp,humn,8,TREATS_TOPPtrtsHUMN
+C1443861,C0033011,TREATS,Post-Exposure Prophylaxis,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443861,C0242444,TREATS,Post-Exposure Prophylaxis,Population at Risk,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443861,C0376387,TREATS,Post-Exposure Prophylaxis,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443861,C0684030,TREATS,Post-Exposure Prophylaxis,high-risk group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443861,C0870602,TREATS,Post-Exposure Prophylaxis,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443861,C0870668,TREATS,Post-Exposure Prophylaxis,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443867,C0018724,TREATS,Standard precautions,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443867,C0028661,TREATS,Standard precautions,Nurses,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1443867,C0031228,TREATS,Standard precautions,"Personnel, Hospital",topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443867,C0031831,TREATS,Standard precautions,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443867,C0851286,TREATS,Standard precautions,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443867,C0870668,TREATS,Standard precautions,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443867,C0871685,TREATS,Standard precautions,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443869,C0018724,TREATS,Airborne precautions,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443869,C0870668,TREATS,Airborne precautions,hospitalized patients,topp,humn,4,TREATS_TOPPtrtsHUMN
+C1443869,C0871685,TREATS,Airborne precautions,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443870,C0018724,TREATS,Respiratory secretion precautions,Health Personnel,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1443870,C0043210,TREATS,Respiratory secretion precautions,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443870,C0851286,TREATS,Respiratory secretion precautions,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443921,C0025106,TREATS,Transmission-based precautions,Medical Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443921,C0031228,TREATS,Transmission-based precautions,"Personnel, Hospital",topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443921,C0870646,TREATS,Transmission-based precautions,High Risk Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1443921,C0870668,TREATS,Transmission-based precautions,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1456587,C0085756,TREATS,Bariatric Surgery,African American,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1456587,C0282122,TREATS,Bariatric Surgery,Respondents,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1456846,C1516213,TREATS,Complementary and Alternative Therapies,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511300,C0043210,TREATS,Breast Cancer Therapeutic Procedure,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511562,C4764203,TREATS,Curative Surgery,Surgery Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0001792,TREATS,Detection,Elderly (population group),topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C0005795,TREATS,Detection,Blood donor,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C0008098,TREATS,Detection,"Child, Hospitalized",topp,humn,7,TREATS_TOPPtrtsHUMN
+C1511790,C0018724,TREATS,Detection,Health Personnel,topp,humn,4,TREATS_TOPPtrtsHUMN
+C1511790,C0024908,TREATS,Detection,Matched Groups,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C0025266,TREATS,Detection,Male population group,topp,humn,3,TREATS_TOPPtrtsHUMN
+C1511790,C0033011,TREATS,Detection,Pregnant Women,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C0037179,TREATS,Detection,Unmarried person,topp,humn,4,TREATS_TOPPtrtsHUMN
+C1511790,C0038492,TREATS,Detection,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0040288,TREATS,Detection,Tissue Donors,topp,humn,3,TREATS_TOPPtrtsHUMN
+C1511790,C0042960,TREATS,Detection,Voluntary Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0043210,TREATS,Detection,Woman,topp,humn,6,TREATS_TOPPtrtsHUMN
+C1511790,C0150094,TREATS,Detection,CONSECUTIVE SAMPLE,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C0150775,TREATS,Detection,Social Networks,topp,humn,14,TREATS_TOPPtrtsHUMN
+C1511790,C0206194,TREATS,Detection,Survivors,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C0238607,TREATS,Detection,AIDS patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0242444,TREATS,Detection,Population at Risk,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C0260788,TREATS,Detection,Donor of kidney for transplant (person),topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0334738,TREATS,Detection,Civil engineer (general),topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C0337810,TREATS,Detection,Italians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0376387,TREATS,Detection,Transplant Recipients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C0402683,TREATS,Detection,Cleaners Occupation,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0402883,TREATS,Detection,tailor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0524645,TREATS,Detection,Marines,topp,humn,4,TREATS_TOPPtrtsHUMN
+C1511790,C0524647,TREATS,Detection,Soldiers,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C0683626,TREATS,Detection,human group,topp,humn,3,TREATS_TOPPtrtsHUMN
+C1511790,C0684030,TREATS,Detection,high-risk group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0687759,TREATS,Detection,traveler,topp,humn,5,TREATS_TOPPtrtsHUMN
+C1511790,C0699726,TREATS,Detection,Offenders,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0728836,TREATS,Detection,young child,topp,humn,13,TREATS_TOPPtrtsHUMN
+C1511790,C0741926,TREATS,Detection,cardiac patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0748064,TREATS,Detection,Psychiatric inpatient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0860067,TREATS,Detection,Plasma donor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C0870602,TREATS,Detection,geriatric patients,topp,humn,3,TREATS_TOPPtrtsHUMN
+C1511790,C0870668,TREATS,Detection,hospitalized patients,topp,humn,15,TREATS_TOPPtrtsHUMN
+C1511790,C1510818,TREATS,Detection,Advanced Practice Nurse,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C1516213,TREATS,Detection,Cancer Patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C1527116,TREATS,Detection,Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C1551706,TREATS,Detection,Artic Indian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C1709854,TREATS,Detection,Recipient,topp,humn,10,TREATS_TOPPtrtsHUMN
+C1511790,C1998203,TREATS,Detection,Person exposed to disease,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C1999167,TREATS,Detection,Old age,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C2348001,TREATS,Detection,Age Cohort,topp,humn,9,TREATS_TOPPtrtsHUMN
+C1511790,C2700280,TREATS,Detection,World,topp,humn,5,TREATS_TOPPtrtsHUMN
+C1511790,C3179135,TREATS,Detection,Sympatric Species,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C3812881,TREATS,Detection,Author,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C3826770,TREATS,Detection,Older people,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C4036024,TREATS,Detection,Support staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C4288965,TREATS,Detection,Hematopoietic Cell Transplant Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C4331301,TREATS,Detection,Solid Organ Transplant Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1511790,C4554082,TREATS,Detection,Independent Ethics Committee,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C5205742,TREATS,Detection,Treatment Group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1511790,C5205743,TREATS,Detection,Experimental Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512034,C1709854,TREATS,Donor Lymphocyte Infusion,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512034,C1999167,TREATS,Donor Lymphocyte Infusion,Old age,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512335,C0015031,TREATS,Harvest Procedure,Ethnic group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512335,C0021729,TREATS,Harvest Procedure,Interest Groups,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512335,C0042960,TREATS,Harvest Procedure,Voluntary Workers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512335,C0470689,TREATS,Harvest Procedure,Suppliers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512335,C0878517,TREATS,Harvest Procedure,Engineer,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512335,C1551706,TREATS,Harvest Procedure,Artic Indian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512721,C0034035,TREATS,Inferential Current Treatment,Public Sector,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512721,C0038492,TREATS,Inferential Current Treatment,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512721,C0085756,TREATS,Inferential Current Treatment,African American,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512721,C0086528,TREATS,Inferential Current Treatment,Latinos,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512721,C0221457,TREATS,Inferential Current Treatment,Teacher,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512721,C0682134,TREATS,Inferential Current Treatment,Citizen,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512721,C1705429,TREATS,Inferential Current Treatment,User Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1512721,C2700280,TREATS,Inferential Current Treatment,World,topp,humn,3,TREATS_TOPPtrtsHUMN
+C1513054,C0025266,TREATS,Medical Castration,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1514396,C0043210,TREATS,Preoperative Endocrine Therapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1515119,C1516213,TREATS,Systemic Therapy,Cancer Patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1515119,C1709854,TREATS,Systemic Therapy,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1515884,C0238607,TREATS,Acupuncture and Oriental Medicine,AIDS patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1515884,C0282122,TREATS,Acupuncture and Oriental Medicine,Respondents,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1515884,C0870668,TREATS,Acupuncture and Oriental Medicine,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1515884,C2700280,TREATS,Acupuncture and Oriental Medicine,World,topp,humn,3,TREATS_TOPPtrtsHUMN
+C1515884,C2986530,TREATS,Acupuncture and Oriental Medicine,Intervention Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1517033,C0043210,TREATS,External Beam Radiation Therapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1522449,C0025266,TREATS,Therapeutic radiology procedure,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1522449,C1516213,TREATS,Therapeutic radiology procedure,Cancer Patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1522449,C1518563,TREATS,Therapeutic radiology procedure,Older Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1522449,C4522252,TREATS,Therapeutic radiology procedure,Foundation for the Accreditation of Cellular Therapy,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1527075,C0043210,TREATS,Revision procedure,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1527077,C5205742,TREATS,Peripheral Electronic Nerve Stimulation,Treatment Group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1531698,C2700280,TREATS,Active monitoring,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1533734,C5205742,TREATS,Administration procedure,Treatment Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1535502,C1709854,TREATS,Bronchoalveolar Lavage,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1541822,C0043210,TREATS,Vaginal delivery procedure,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1567676,C0078988,TREATS,Variolation,Asians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1638311,C0028661,TREATS,Blood glucose management,Nurses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1638311,C0870668,TREATS,Blood glucose management,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1656259,C0687759,TREATS,preventive Drugs,traveler,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1659427,C0680398,TREATS,nebulization-mediated drug administration,secondary group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1692317,C1706077,TREATS,Smoking cessation assistance,user - individual,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1704532,C0260083,TREATS,Active Method,Orthodontist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1704532,C1516213,TREATS,Active Method,Cancer Patient,topp,humn,6,TREATS_TOPPtrtsHUMN
+C1704536,C0242444,TREATS,Direct Method,Population at Risk,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1705576,C0025266,TREATS,Allogeneic Hematopoietic Stem Cell Transplantation,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1705576,C0043210,TREATS,Allogeneic Hematopoietic Stem Cell Transplantation,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1708063,C0008098,TREATS,First line treatment,"Child, Hospitalized",topp,humn,3,TREATS_TOPPtrtsHUMN
+C1708063,C0025266,TREATS,First line treatment,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1708063,C0043210,TREATS,First line treatment,Woman,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1708063,C0870602,TREATS,First line treatment,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1708063,C0870668,TREATS,First line treatment,hospitalized patients,topp,humn,3,TREATS_TOPPtrtsHUMN
+C1831786,C1516213,TREATS,Hypofractionated Radiation Therapy,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1868981,C0206194,TREATS,Invasive mechanical ventilation NOS,Survivors,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1868981,C1522486,TREATS,Invasive mechanical ventilation NOS,Professional Organization or Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1868981,C1709854,TREATS,Invasive mechanical ventilation NOS,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1868981,C5205742,TREATS,Invasive mechanical ventilation NOS,Treatment Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1880152,C1706077,TREATS,Complementary or Alternative Medical Procedure,user - individual,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1880152,C2700280,TREATS,Complementary or Alternative Medical Procedure,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1882454,C1709854,TREATS,Preparative Regimen,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1883256,C1516213,TREATS,Systemic Chemotherapy,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1883583,C3178988,TREATS,Yoga,Emergency Responders,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1883583,C4505217,TREATS,Yoga,"Smokers, Tobacco",topp,humn,1,TREATS_TOPPtrtsHUMN
+C1960845,C0871685,TREATS,Bag valve mask ventilation,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1963578,C2700280,TREATS,Release (procedure),World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1963724,C0033011,TREATS,Antiretroviral therapy,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1963724,C0238607,TREATS,Antiretroviral therapy,AIDS patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C1964029,C0025360,TREATS,early/brief intervention/therapy (treatment),Mentally Ill Persons,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1964029,C0028661,TREATS,early/brief intervention/therapy (treatment),Nurses,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1964029,C0043210,TREATS,early/brief intervention/therapy (treatment),Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1964029,C0175842,TREATS,early/brief intervention/therapy (treatment),autistic children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1964029,C0206194,TREATS,early/brief intervention/therapy (treatment),Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1964029,C0728836,TREATS,early/brief intervention/therapy (treatment),young child,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1964029,C0870602,TREATS,early/brief intervention/therapy (treatment),geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1964029,C1709854,TREATS,early/brief intervention/therapy (treatment),Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1964029,C3826770,TREATS,early/brief intervention/therapy (treatment),Older people,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1997883,C0175989,TREATS,Noninvasive Ventilation,critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1997883,C1708335,TREATS,Noninvasive Ventilation,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C1998763,C0031228,TREATS,Prevention of cross infection,"Personnel, Hospital",topp,humn,1,TREATS_TOPPtrtsHUMN
+C2064714,C0040288,TREATS,Chest Physical Therapy,Tissue Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2169144,C0033011,TREATS,Radiation dose,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2188405,C0025266,TREATS,urgent Operation,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2188405,C1516213,TREATS,urgent Operation,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2188405,C1707496,TREATS,urgent Operation,Consumer,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2242515,C4704944,TREATS,Mesotherapy,Medical Tourists,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2242529,C0013018,TREATS,Allogeneic Stem Cell Transplantation,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2242529,C1516213,TREATS,Allogeneic Stem Cell Transplantation,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2242628,C0013018,TREATS,Fecal Microbiota Transplantation,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2242628,C0025266,TREATS,Fecal Microbiota Transplantation,Male population group,topp,humn,3,TREATS_TOPPtrtsHUMN
+C2242628,C0040288,TREATS,Fecal Microbiota Transplantation,Tissue Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2242628,C0684030,TREATS,Fecal Microbiota Transplantation,high-risk group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2242628,C1709854,TREATS,Fecal Microbiota Transplantation,Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C2242628,C2986530,TREATS,Fecal Microbiota Transplantation,Intervention Group,topp,humn,3,TREATS_TOPPtrtsHUMN
+C2348331,C0007457,TREATS,Dose Regimen,Caucasoid Race,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2348331,C0033011,TREATS,Dose Regimen,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2348331,C0870668,TREATS,Dose Regimen,hospitalized patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C2348331,C1708335,TREATS,Dose Regimen,Healthy Volunteers,topp,humn,3,TREATS_TOPPtrtsHUMN
+C2348331,C2700280,TREATS,Dose Regimen,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2349740,C0206194,TREATS,Non-invasive mechanical ventilation,Survivors,topp,humn,4,TREATS_TOPPtrtsHUMN
+C2349740,C1516213,TREATS,Non-invasive mechanical ventilation,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2349740,C1518563,TREATS,Non-invasive mechanical ventilation,Older Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2349740,C5205742,TREATS,Non-invasive mechanical ventilation,Treatment Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2609090,C3642273,TREATS,Drainage of cerebrospinal fluid (procedure),Stanford Cancer Institute,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2713304,C0038492,TREATS,Revaccination,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2718059,C0402112,TREATS,Precision Medicine,Scientist,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2718059,C0402883,TREATS,Precision Medicine,tailor,topp,humn,2,TREATS_TOPPtrtsHUMN
+C2718059,C0871685,TREATS,Precision Medicine,Clinician,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2747841,C0033011,TREATS,H1N1 Flu vaccination,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2827774,C0040881,TREATS,Current Therapy,Tribes,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2827950,C2700280,TREATS,Previous and Current Therapy,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2919584,C0206194,TREATS,Screening for malignant neoplasm of skin (procedure),Survivors,topp,humn,2,TREATS_TOPPtrtsHUMN
+C2922974,C0001792,TREATS,Polypharmacy,Elderly (population group),topp,humn,2,TREATS_TOPPtrtsHUMN
+C2922974,C0870602,TREATS,Polypharmacy,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2936405,C1711305,TREATS,Drug Repositioning,Sponsor (person),topp,humn,1,TREATS_TOPPtrtsHUMN
+C2939022,C0150775,TREATS,Nodule removal,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2945704,C0043210,TREATS,Conventional Treatment,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2945704,C5205742,TREATS,Conventional Treatment,Treatment Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2973270,C0335306,TREATS,Health Checkup,Service worker,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2973270,C5206758,TREATS,Health Checkup,New Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2985296,C0025266,TREATS,Hormonal Contraception,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2985393,C1708335,TREATS,Neuromuscular Electrical Stimulation,Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2985557,C0040288,TREATS,Gamma Irradiation,Tissue Donors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2985566,C1516213,TREATS,Targeted Therapy,Cancer Patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C2986502,C0206194,TREATS,Zheng,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2986592,C0025266,TREATS,Definitive Treatment,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2986592,C0043210,TREATS,Definitive Treatment,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2986592,C0870602,TREATS,Definitive Treatment,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2987620,C0020155,TREATS,Inoculation,Human Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2987620,C0687735,TREATS,Inoculation,shaker,topp,humn,1,TREATS_TOPPtrtsHUMN
+C2987624,C1709854,TREATS,Segmentectomy,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3160876,C1709854,TREATS,Allogenic Transfusions,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3177188,C0033011,TREATS,Early Therapy,Pregnant Women,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3177188,C0870668,TREATS,Early Therapy,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3177188,C1516213,TREATS,Early Therapy,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3177188,C5205742,TREATS,Early Therapy,Treatment Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3267174,C0871463,TREATS,Blood Glucose control,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3274787,C2700280,TREATS,Diabetes Therapy,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3274791,C0741926,TREATS,Mechanical Circulatory Support,cardiac patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3469597,C0043210,TREATS,Administration of medication,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3494167,C1516213,TREATS,Blood Conservation Strategies,Cancer Patient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C3494227,C2700280,TREATS,Craniospinal Irradiation,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3526598,C0031228,TREATS,Psychiatric service,"Personnel, Hospital",topp,humn,1,TREATS_TOPPtrtsHUMN
+C3540512,C0007457,TREATS,Circumferential Supracrestal Fiberotomy,Caucasoid Race,topp,humn,2,TREATS_TOPPtrtsHUMN
+C3540512,C0025266,TREATS,Circumferential Supracrestal Fiberotomy,Male population group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C3540512,C0043210,TREATS,Circumferential Supracrestal Fiberotomy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3540512,C0238607,TREATS,Circumferential Supracrestal Fiberotomy,AIDS patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3540512,C0680398,TREATS,Circumferential Supracrestal Fiberotomy,secondary group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3540512,C3812881,TREATS,Circumferential Supracrestal Fiberotomy,Author,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3649547,C0175989,TREATS,Continuous Renal Replacement Therapy,critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3658366,C0870602,TREATS,Sublingual Immunotherapy,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3658366,C2348001,TREATS,Sublingual Immunotherapy,Age Cohort,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3661922,C1709854,TREATS,Surfactant replacement therapy,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3665674,C0025266,TREATS,Warburg Therapy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3665674,C0175989,TREATS,Warburg Therapy,critically ill children,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3665674,C0206194,TREATS,Warburg Therapy,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3665674,C0851286,TREATS,Warburg Therapy,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3665674,C0870602,TREATS,Warburg Therapy,geriatric patients,topp,humn,3,TREATS_TOPPtrtsHUMN
+C3665674,C1518563,TREATS,Warburg Therapy,Older Population,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3686677,C0025266,TREATS,Introduction of normal fauna to digestive tract,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3810531,C0001792,TREATS,Bortezomib/Dexamethasone/Pegylated Liposomal Doxorubicin Regimen,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C3826866,C2700280,TREATS,Bortezomib/Cyclophosphamide/Dexamethasone Regimen,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3828439,C0018724,TREATS,Pulmonary Hygiene,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3829544,C0043210,TREATS,Indicated Cesarean Delivery,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3839105,C0043210,TREATS,Sterilization procedure,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3839839,C1522486,TREATS,Pediatric care,Professional Organization or Group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3843422,C1706077,TREATS,Abstinence,user - individual,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3849996,C1708335,TREATS,"Diet, Western",Healthy Volunteers,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3850024,C1708335,TREATS,Transcranial Direct Current Stimulation,Healthy Volunteers,topp,humn,3,TREATS_TOPPtrtsHUMN
+C3850079,C0043210,TREATS,Cytoreductive Surgery,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3850098,C0018724,TREATS,Pre-Exposure Prophylaxis,Health Personnel,topp,humn,4,TREATS_TOPPtrtsHUMN
+C3850098,C0036911,TREATS,Pre-Exposure Prophylaxis,Sexual Partners,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3850098,C0376387,TREATS,Pre-Exposure Prophylaxis,Transplant Recipients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3850098,C0851286,TREATS,Pre-Exposure Prophylaxis,Staff,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3850098,C0870646,TREATS,Pre-Exposure Prophylaxis,High Risk Populations,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3850098,C0870668,TREATS,Pre-Exposure Prophylaxis,hospitalized patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3872828,C5206758,TREATS,Multidisciplinary review,New Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3896609,C0242444,TREATS,Stereotactic Body Radiation Therapy,Population at Risk,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3896609,C0278626,TREATS,Stereotactic Body Radiation Therapy,Thoracic surgeon,topp,humn,1,TREATS_TOPPtrtsHUMN
+C3896696,C0043210,TREATS,Accelerated Partial Breast Irradiation,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4039858,C2700280,TREATS,Laparoscopic partial excision of kidney using robotic assistance,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4040576,C0018724,TREATS,Maintenance hemodialysis,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4040576,C0043210,TREATS,Maintenance hemodialysis,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4087167,C0031831,TREATS,Tumour treating fields therapy,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4277645,C0037179,TREATS,Phage Therapy,Unmarried person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4277645,C0680681,TREATS,Phage Therapy,victim,topp,humn,2,TREATS_TOPPtrtsHUMN
+C4277736,C0013018,TREATS,Standing Orders,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4289797,C0013018,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Donor person,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4289797,C0025266,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4289797,C0043210,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4289797,C4288965,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Hematopoietic Cell Transplant Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4319756,C1709854,TREATS,Myeloablative Conditioning,Recipient,topp,humn,2,TREATS_TOPPtrtsHUMN
+C4330729,C0870602,TREATS,Myelosuppressive Chemotherapy,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4520447,C0871463,TREATS,Decolonization,surgical patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4526534,C2700280,TREATS,Bendamustine/Bortezomib/Dexamethasone Regimen,World,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4526535,C0337812,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Norwegians (ethnic group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C4526535,C0599987,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Employee,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4526535,C3812881,TREATS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Author,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4554488,C0038492,TREATS,Retrieval - procedure,student,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4554488,C0150775,TREATS,Retrieval - procedure,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4554488,C0238711,TREATS,Retrieval - procedure,Australian,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4554488,C3642273,TREATS,Retrieval - procedure,Stanford Cancer Institute,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4723833,C0001792,TREATS,vertebral augmentation procedure,Elderly (population group),topp,humn,1,TREATS_TOPPtrtsHUMN
+C4723833,C0206194,TREATS,vertebral augmentation procedure,Survivors,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4723833,C1516213,TREATS,vertebral augmentation procedure,Cancer Patient,topp,humn,4,TREATS_TOPPtrtsHUMN
+C4723833,C1999167,TREATS,vertebral augmentation procedure,Old age,topp,humn,2,TREATS_TOPPtrtsHUMN
+C4723833,C2348001,TREATS,vertebral augmentation procedure,Age Cohort,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4723833,C2986530,TREATS,vertebral augmentation procedure,Intervention Group,topp,humn,2,TREATS_TOPPtrtsHUMN
+C4727545,C0031831,TREATS,Ipilimumab/Nivolumab Regimen,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4744382,C4330692,TREATS,Ex-vivo T-Cell Depletion,Mismatched Unrelated Donor,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4763675,C0025266,TREATS,Single Agent Therapy,Male population group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4763675,C0031831,TREATS,Single Agent Therapy,Physicians,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4763675,C0376387,TREATS,Single Agent Therapy,Transplant Recipients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C4763675,C0870602,TREATS,Single Agent Therapy,geriatric patients,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4763675,C0870668,TREATS,Single Agent Therapy,hospitalized patients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C4763675,C1516213,TREATS,Single Agent Therapy,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4763900,C0376387,TREATS,Hepatitis C Treatment,Transplant Recipients,topp,humn,2,TREATS_TOPPtrtsHUMN
+C4763966,C1709854,TREATS,Small Bowel Transplantation,Recipient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C4764350,C0043210,TREATS,Reproductive Surgery,Woman,topp,humn,1,TREATS_TOPPtrtsHUMN
+C5200813,C0001792,TREATS,Schema Therapy,Elderly (population group),topp,humn,2,TREATS_TOPPtrtsHUMN
+C5202572,C0150775,TREATS,Interval Debulking Surgery,Social Networks,topp,humn,1,TREATS_TOPPtrtsHUMN
+C5202572,C0684017,TREATS,Interval Debulking Surgery,scholar,topp,humn,2,TREATS_TOPPtrtsHUMN
+C5203672,C0018724,TREATS,SARS-CoV-2 vaccination,Health Personnel,topp,humn,1,TREATS_TOPPtrtsHUMN
+C5203672,C0684030,TREATS,SARS-CoV-2 vaccination,high-risk group,topp,humn,1,TREATS_TOPPtrtsHUMN
+C5204952,C1516213,TREATS,Rituximab Regimen,Cancer Patient,topp,humn,1,TREATS_TOPPtrtsHUMN
+C5206220,C0402574,TREATS,Fluorouracil/Ifosfamide/Mesna/Methotrexate Regimen,Exporter,topp,humn,1,TREATS_TOPPtrtsHUMN

@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001546,C0003467,COMPLICATES,Adjustment Disorders,Anxiety,mobd,mobd,1,COMPLICATES_MOBDcmpcMOBD
+C0001546,C0011581,COMPLICATES,Adjustment Disorders,Depressive disorder,mobd,mobd,1,COMPLICATES_MOBDcmpcMOBD
+C0001546,C0028768,COMPLICATES,Adjustment Disorders,Obsessive-Compulsive Disorder,mobd,mobd,1,COMPLICATES_MOBDcmpcMOBD
+C0001546,C0033975,COMPLICATES,Adjustment Disorders,Psychotic Disorders,mobd,mobd,1,COMPLICATES_MOBDcmpcMOBD
+C0028768,C0004936,COMPLICATES,Obsessive-Compulsive Disorder,Mental disorders,mobd,mobd,2,COMPLICATES_MOBDcmpcMOBD
+C0038436,C0004936,COMPLICATES,Post-Traumatic Stress Disorder,Mental disorders,mobd,mobd,2,COMPLICATES_MOBDcmpcMOBD
+C0038443,C0003467,COMPLICATES,"Stress, Psychological",Anxiety,mobd,mobd,1,COMPLICATES_MOBDcmpcMOBD
+C0038443,C0011581,COMPLICATES,"Stress, Psychological",Depressive disorder,mobd,mobd,1,COMPLICATES_MOBDcmpcMOBD
+C0235013,C0030319,COMPLICATES,Hypervigilance,Panic Disorder,mobd,mobd,2,COMPLICATES_MOBDcmpcMOBD
+C0270549,C0004936,COMPLICATES,Generalized Anxiety Disorder,Mental disorders,mobd,mobd,2,COMPLICATES_MOBDcmpcMOBD
+C0476480,C0344315,COMPLICATES,Physical violence,Depressed mood,mobd,mobd,1,COMPLICATES_MOBDcmpcMOBD

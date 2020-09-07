@@ -1,0 +1,878 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000294,C0010692,PREVENTS,mesna,Cystitis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0000294,C0085692,PREVENTS,mesna,Hemorrhagic cystitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0000975,C0004626,PREVENTS,acetate,"Pneumonia, Bacterial",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0000975,C0036310,PREVENTS,acetate,Scheuermann's Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0000981,C0022660,PREVENTS,acetazolamide,"Kidney Failure, Acute",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0001392,C5203670,PREVENTS,Adamantane,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0001962,C0007222,PREVENTS,ethanol,Cardiovascular Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0001962,C0010356,PREVENTS,ethanol,Cross Infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0001962,C0021400,PREVENTS,ethanol,Influenza,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0001962,C0041912,PREVENTS,ethanol,Upper Respiratory Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0001962,C0042769,PREVENTS,ethanol,Virus Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0001962,C0043046,PREVENTS,ethanol,Wasting Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0001962,C0205721,PREVENTS,ethanol,"Infections, Hospital",orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0001962,C0206750,PREVENTS,ethanol,Coronavirus Infections,orch,dsyn,6,PREVENTS_ORCHprevDSYN
+C0001962,C1861172,PREVENTS,ethanol,Venous Thromboembolism,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0001962,C5203670,PREVENTS,ethanol,COVID-19,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C0002062,C0007222,PREVENTS,Alkaloids,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002065,C0003850,PREVENTS,Alkanes,Arteriosclerosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002072,C0019348,PREVENTS,Alkanesulfonates,Herpes Simplex Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002144,C0003864,PREVENTS,allopurinol,Arthritis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002144,C0041364,PREVENTS,allopurinol,Tumor Lysis Syndrome,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0002144,C0740394,PREVENTS,allopurinol,Hyperuricemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002403,C0021400,PREVENTS,amantadine,Influenza,orch,dsyn,6,PREVENTS_ORCHprevDSYN
+C0002403,C0030499,PREVENTS,amantadine,Parasitic Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002403,C0042769,PREVENTS,amantadine,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002403,C2062441,PREVENTS,amantadine,Influenza A,orch,dsyn,10,PREVENTS_ORCHprevDSYN
+C0002403,C5203670,PREVENTS,amantadine,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002575,C0032285,PREVENTS,aminophylline,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002598,C0282687,PREVENTS,amiodarone,"Hemorrhagic Fever, Ebola",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002598,C1175175,PREVENTS,amiodarone,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002686,C0009187,PREVENTS,amprolium,Coccidiosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002772,C0001127,PREVENTS,"Analgesics, Opioid","Acidosis, Respiratory",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0002772,C1258215,PREVENTS,"Analgesics, Opioid",Ileus,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0003392,C0262655,PREVENTS,Antineoplastic Agents,Recurrent urinary tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0003968,C0004238,PREVENTS,ascorbic acid,Atrial Fibrillation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0003968,C0008679,PREVENTS,ascorbic acid,Chronic disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0003968,C0009443,PREVENTS,ascorbic acid,Common Cold,orch,dsyn,10,PREVENTS_ORCHprevDSYN
+C0003968,C0009450,PREVENTS,ascorbic acid,Communicable Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0003968,C0021400,PREVENTS,ascorbic acid,Influenza,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0003968,C0032285,PREVENTS,ascorbic acid,Pneumonia,orch,dsyn,6,PREVENTS_ORCHprevDSYN
+C0003968,C0035222,PREVENTS,ascorbic acid,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0003968,C0036474,PREVENTS,ascorbic acid,Scurvy,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0003968,C0041912,PREVENTS,ascorbic acid,Upper Respiratory Infections,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0003968,C0042769,PREVENTS,ascorbic acid,Virus Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0003968,C0149725,PREVENTS,ascorbic acid,Lower respiratory tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0003968,C0206750,PREVENTS,ascorbic acid,Coronavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0003968,C0863093,PREVENTS,ascorbic acid,cold symptoms,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0003968,C4055183,PREVENTS,ascorbic acid,Contrast - Induced Nephropathy,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0003968,C5203670,PREVENTS,ascorbic acid,COVID-19,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0004057,C0007222,PREVENTS,aspirin,Cardiovascular Diseases,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C0004057,C0010051,PREVENTS,aspirin,Coronary Aneurysm,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0004057,C0015934,PREVENTS,aspirin,Fetal Growth Retardation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0004057,C0027051,PREVENTS,aspirin,Myocardial Infarction,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0004057,C0031350,PREVENTS,aspirin,Pharyngitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0004057,C0035222,PREVENTS,aspirin,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0004057,C0149871,PREVENTS,aspirin,Deep Vein Thrombosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0004057,C0155773,PREVENTS,aspirin,Portal Vein Thrombosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0004057,C0333291,PREVENTS,aspirin,Bleeding ulcer,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0004057,C1861172,PREVENTS,aspirin,Venous Thromboembolism,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0004057,C2697368,PREVENTS,aspirin,Gastrointestinal irritation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0004259,C0004096,PREVENTS,atropine,Asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0004259,C0154933,PREVENTS,atropine,Adhesions of iris,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0005064,C0035220,PREVENTS,Benzodiazepines,"Respiratory Distress Syndrome, Newborn",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0005064,C0035235,PREVENTS,Benzodiazepines,Respiratory Syncytial Virus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0005117,C0020456,PREVENTS,berberine,Hyperglycemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0005117,C0029453,PREVENTS,berberine,Osteopenia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0005117,C0042769,PREVENTS,berberine,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0005802,C0007222,PREVENTS,Blood Glucose,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0005802,C0028754,PREVENTS,Blood Glucose,Obesity,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0005802,C0836924,PREVENTS,Blood Glucose,Thrombocytosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0006507,C0743841,PREVENTS,butylated hydroxytoluene,Disorder characterized by fever,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0006521,C0009319,PREVENTS,Butyrates,Colitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0006863,C0007785,PREVENTS,cannabidiol,Cerebral Infarction,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0006863,C0032285,PREVENTS,cannabidiol,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0006864,C0020179,PREVENTS,Cannabinoids,Huntington Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0006864,C0020538,PREVENTS,Cannabinoids,Hypertensive disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0006864,C0026769,PREVENTS,Cannabinoids,Multiple Sclerosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0006864,C0030567,PREVENTS,Cannabinoids,Parkinson Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0006947,C0275879,PREVENTS,carbadox,Porcine ulcerative spirochetosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0007004,C0007222,PREVENTS,Carbohydrates,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0007004,C0020473,PREVENTS,Carbohydrates,Hyperlipidemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0007004,C0020538,PREVENTS,Carbohydrates,Hypertensive disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0007004,C0028754,PREVENTS,Carbohydrates,Obesity,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0007026,C0020538,PREVENTS,Carbonates,Hypertensive disease,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0007026,C0029453,PREVENTS,Carbonates,Osteopenia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0007026,C0029456,PREVENTS,Carbonates,Osteoporosis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0007309,C0030499,PREVENTS,carvacrol,Parasitic Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0007404,C0850666,PREVENTS,catechin,Infection caused by Helicobacter pylori,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0007404,C2076600,PREVENTS,catechin,Influenza due to Influenza A virus subtype H1N1,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C0007907,C0021400,PREVENTS,cetylpyridinium chloride,Influenza,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0007935,C0009443,PREVENTS,Chalcone,Common Cold,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008163,C0030312,PREVENTS,chlorambucil,Pancytopenia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008163,C1096155,PREVENTS,chlorambucil,Macrophage Activation Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008196,C0009450,PREVENTS,chlorhexidine,Communicable Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008196,C0028992,PREVENTS,chlorhexidine,Omphalitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008196,C0036690,PREVENTS,chlorhexidine,Septicemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008196,C0205721,PREVENTS,chlorhexidine,"Infections, Hospital",orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0008196,C0456103,PREVENTS,chlorhexidine,Sepsis of the newborn,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008196,C0854706,PREVENTS,chlorhexidine,neonatal infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008196,C1701940,PREVENTS,chlorhexidine,"Pneumonia, Ventilator-Associated",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C0009450,PREVENTS,chloroquine,Communicable Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C0011847,PREVENTS,chloroquine,Diabetes,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C0021400,PREVENTS,chloroquine,Influenza,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C0024530,PREVENTS,chloroquine,Malaria,orch,dsyn,5,PREVENTS_ORCHprevDSYN
+C0008269,C0030499,PREVENTS,chloroquine,Parasitic Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C0032285,PREVENTS,chloroquine,Pneumonia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0008269,C0035309,PREVENTS,chloroquine,Retinal Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C0042749,PREVENTS,chloroquine,Viremia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C0042769,PREVENTS,chloroquine,Virus Diseases,orch,dsyn,6,PREVENTS_ORCHprevDSYN
+C0008269,C0206750,PREVENTS,chloroquine,Coronavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C0232197,PREVENTS,chloroquine,Fibrillation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C0276289,PREVENTS,chloroquine,Zika Virus Infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C0398623,PREVENTS,chloroquine,Thrombophilia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C0858321,PREVENTS,chloroquine,Plasmodium vivax infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C1175175,PREVENTS,chloroquine,Severe Acute Respiratory Syndrome,orch,dsyn,9,PREVENTS_ORCHprevDSYN
+C0008269,C1263835,PREVENTS,chloroquine,Infectious disorder of the fetus,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008269,C5203670,PREVENTS,chloroquine,COVID-19,orch,dsyn,6,PREVENTS_ORCHprevDSYN
+C0008286,C5203670,PREVENTS,chlorpromazine,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008318,C0035243,PREVENTS,cholecalciferol,Respiratory Tract Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008318,C0275521,PREVENTS,cholecalciferol,Clinical infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008318,C5203670,PREVENTS,cholecalciferol,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008783,C0376618,PREVENTS,cimetidine,Endotoxemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008809,C0003175,PREVENTS,ciprofloxacin,Anthrax disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008809,C0009450,PREVENTS,ciprofloxacin,Communicable Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0008857,C0020538,PREVENTS,Citrates,Hypertensive disease,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0008857,C0029453,PREVENTS,Citrates,Osteopenia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0008857,C0029456,PREVENTS,Citrates,Osteoporosis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0008857,C5203670,PREVENTS,Citrates,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0009002,C0155765,PREVENTS,clofibrate,Disease of capillaries,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0009074,C0006845,PREVENTS,clotrimazole,"Candidiasis, Chronic Mucocutaneous",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0009213,C0035579,PREVENTS,cod liver oil,Rickets,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0009262,C0004238,PREVENTS,colchicine,Atrial Fibrillation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0009262,C0011860,PREVENTS,colchicine,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0009262,C0031046,PREVENTS,colchicine,Pericarditis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0009262,C0032805,PREVENTS,colchicine,Postpericardiotomy Syndrome,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C0009262,C0034069,PREVENTS,colchicine,Pulmonary Fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0009262,C0035222,PREVENTS,colchicine,"Respiratory Distress Syndrome, Adult",orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0009262,C0948089,PREVENTS,colchicine,Acute Coronary Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0010583,C0030312,PREVENTS,cyclophosphamide,Pancytopenia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0010583,C0035222,PREVENTS,cyclophosphamide,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0010583,C1096155,PREVENTS,cyclophosphamide,Macrophage Activation Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0011685,C0036310,PREVENTS,desipramine,Scheuermann's Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0011777,C0002792,PREVENTS,dexamethasone,anaphylaxis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0011777,C0018784,PREVENTS,dexamethasone,Sensorineural Hearing Loss (disorder),orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0011777,C0035220,PREVENTS,dexamethasone,"Respiratory Distress Syndrome, Newborn",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0011777,C0041364,PREVENTS,dexamethasone,Tumor Lysis Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0011793,C0002792,PREVENTS,dextran 40,anaphylaxis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0011795,C0002792,PREVENTS,dextran 70,anaphylaxis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0011816,C0022660,PREVENTS,dextromethorphan,"Kidney Failure, Acute",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0012403,C0009450,PREVENTS,dimethyl sulfoxide,Communicable Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0012544,C5203670,PREVENTS,Diphosphonates,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0012582,C0009443,PREVENTS,dipyridamole,Common Cold,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0012963,C0242852,PREVENTS,dobutamine,Proliferative vitreoretinopathy,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0012963,C2973725,PREVENTS,dobutamine,Pulmonary arterial hypertension,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0004623,PREVENTS,ergocalciferol,Bacterial Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0007222,PREVENTS,ergocalciferol,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0009443,PREVENTS,ergocalciferol,Common Cold,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0009450,PREVENTS,ergocalciferol,Communicable Diseases,orch,dsyn,4,PREVENTS_ORCHprevDSYN
+C0014695,C0011854,PREVENTS,ergocalciferol,"Diabetes Mellitus, Insulin-Dependent",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0013595,PREVENTS,ergocalciferol,Eczema,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0020502,PREVENTS,ergocalciferol,Hyperparathyroidism,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0020538,PREVENTS,ergocalciferol,Hypertensive disease,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0014695,C0021400,PREVENTS,ergocalciferol,Influenza,orch,dsyn,5,PREVENTS_ORCHprevDSYN
+C0014695,C0024115,PREVENTS,ergocalciferol,Lung diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0024117,PREVENTS,ergocalciferol,Chronic Obstructive Airway Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0029442,PREVENTS,ergocalciferol,Osteomalacia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0029456,PREVENTS,ergocalciferol,Osteoporosis,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C0014695,C0032285,PREVENTS,ergocalciferol,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0035222,PREVENTS,ergocalciferol,"Respiratory Distress Syndrome, Adult",orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0014695,C0035243,PREVENTS,ergocalciferol,Respiratory Tract Infections,orch,dsyn,6,PREVENTS_ORCHprevDSYN
+C0014695,C0035579,PREVENTS,ergocalciferol,Rickets,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0014695,C0042769,PREVENTS,ergocalciferol,Virus Diseases,orch,dsyn,6,PREVENTS_ORCHprevDSYN
+C0014695,C0149725,PREVENTS,ergocalciferol,Lower respiratory tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0339901,PREVENTS,ergocalciferol,Acute respiratory infections,orch,dsyn,6,PREVENTS_ORCHprevDSYN
+C0014695,C0376286,PREVENTS,ergocalciferol,Avitaminosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0521170,PREVENTS,ergocalciferol,Osteoporotic Fractures,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0740304,PREVENTS,ergocalciferol,copd exacerbation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C0749591,PREVENTS,ergocalciferol,Tonsillopharyngitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C1861452,PREVENTS,ergocalciferol,Storm Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C2062441,PREVENTS,ergocalciferol,Influenza A,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0014695,C4759838,PREVENTS,ergocalciferol,Acute respiratory tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0014695,C5203670,PREVENTS,ergocalciferol,COVID-19,orch,dsyn,15,PREVENTS_ORCHprevDSYN
+C0015133,C0024291,PREVENTS,etoposide,"Lymphohistiocytosis, Hemophagocytic",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0015620,C5203670,PREVENTS,famotidine,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0015677,C0007222,PREVENTS,Fatty acid glycerol esters,Cardiovascular Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0015677,C0028754,PREVENTS,Fatty acid glycerol esters,Obesity,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0015684,C0034069,PREVENTS,Fatty Acids,Pulmonary Fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0015684,C0036690,PREVENTS,Fatty Acids,Septicemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0015684,C0042769,PREVENTS,Fatty Acids,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0015684,C0400966,PREVENTS,Fatty Acids,Non-alcoholic Fatty Liver Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0016157,C0004096,PREVENTS,fish oils,Asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0016277,C0153252,PREVENTS,fluconazole,Systemic candidiasis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0016277,C1262313,PREVENTS,fluconazole,Invasive Fungal Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0016277,C1394891,PREVENTS,fluconazole,Intrinsic Factor Deficiency,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0016967,C0595921,PREVENTS,galantamine,Intraocular pressure disorder,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0017054,C0155877,PREVENTS,gamma-Tocopherol,Allergic asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0017696,C0003864,PREVENTS,Glucans,Arthritis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0017696,C0011847,PREVENTS,Glucans,Diabetes,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0017696,C0015695,PREVENTS,Glucans,Fatty Liver,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0017696,C0149725,PREVENTS,Glucans,Lower respiratory tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0017696,C0243026,PREVENTS,Glucans,Sepsis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0017718,C0032285,PREVENTS,glucosamine,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0017718,C0036690,PREVENTS,glucosamine,Septicemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0017970,C0004096,PREVENTS,glycopyrrolate,Asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0017986,C0023890,PREVENTS,glycyrrhetinic acid,Liver Cirrhosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0017986,C0524910,PREVENTS,glycyrrhetinic acid,"Hepatitis C, Chronic",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0017986,C0860207,PREVENTS,glycyrrhetinic acid,Drug-Induced Liver Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0018320,C0009443,PREVENTS,Guanidines,Common Cold,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0019139,C0042769,PREVENTS,"Heparin, Low-Molecular-Weight",Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0019139,C0149871,PREVENTS,"Heparin, Low-Molecular-Weight",Deep Vein Thrombosis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0019139,C0524702,PREVENTS,"Heparin, Low-Molecular-Weight",Pulmonary Thromboembolisms,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0019139,C1393529,PREVENTS,"Heparin, Low-Molecular-Weight",Blood Vessel complications,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0019139,C1861172,PREVENTS,"Heparin, Low-Molecular-Weight",Venous Thromboembolism,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0019590,C0004096,PREVENTS,Histamine Antagonists,Asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0019590,C0009763,PREVENTS,Histamine Antagonists,Conjunctivitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0019590,C0029882,PREVENTS,Histamine Antagonists,Otitis Media,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0019590,C0035455,PREVENTS,Histamine Antagonists,Rhinitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0019590,C0042109,PREVENTS,Histamine Antagonists,Urticaria,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0019590,C0744291,PREVENTS,Histamine Antagonists,gastric distress,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0020306,C5203670,PREVENTS,hydroquinone,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0020336,C0011847,PREVENTS,hydroxychloroquine,Diabetes,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0020336,C0024530,PREVENTS,hydroxychloroquine,Malaria,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0020336,C0032285,PREVENTS,hydroxychloroquine,Pneumonia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0020336,C0034069,PREVENTS,hydroxychloroquine,Pulmonary Fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0020336,C0035222,PREVENTS,hydroxychloroquine,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0020336,C0035309,PREVENTS,hydroxychloroquine,Retinal Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0020336,C0038826,PREVENTS,hydroxychloroquine,Superinfection,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0020336,C0042769,PREVENTS,hydroxychloroquine,Virus Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0020336,C0206750,PREVENTS,hydroxychloroquine,Coronavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0020336,C0340354,PREVENTS,hydroxychloroquine,Q fever endocarditis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0020336,C0398623,PREVENTS,hydroxychloroquine,Thrombophilia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0020336,C0741923,PREVENTS,hydroxychloroquine,cardiac event,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0020336,C1175175,PREVENTS,hydroxychloroquine,Severe Acute Respiratory Syndrome,orch,dsyn,9,PREVENTS_ORCHprevDSYN
+C0020336,C5203670,PREVENTS,hydroxychloroquine,COVID-19,orch,dsyn,36,PREVENTS_ORCHprevDSYN
+C0020402,C0742343,PREVENTS,hydroxyurea,Acute Chest Syndrome,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C0020402,C0750151,PREVENTS,hydroxyurea,Vaso-Occlusive Crisis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0020740,C0031350,PREVENTS,ibuprofen,Pharyngitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0020923,C0019196,PREVENTS,Imidazole,Hepatitis C,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0021246,C0035869,PREVENTS,indomethacin,Rotavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0022180,C0006266,PREVENTS,isoflurane,Bronchospasm,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0022322,C5203670,PREVENTS,ivermectin,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0022614,C0376618,PREVENTS,ketamine,Endotoxemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0022625,C0035222,PREVENTS,ketoconazole,"Respiratory Distress Syndrome, Adult",orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0022634,C0022638,PREVENTS,Ketones,Ketosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0022860,C0020538,PREVENTS,labetalol,Hypertensive disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0022957,C0376618,PREVENTS,lactulose,Endotoxemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023779,C0010054,PREVENTS,Lipids,Coronary Arteriosclerosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023779,C0019196,PREVENTS,Lipids,Hepatitis C,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023779,C0032027,PREVENTS,Lipids,Pityriasis Rubra Pilaris,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023779,C0035243,PREVENTS,Lipids,Respiratory Tract Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023779,C4703473,PREVENTS,Lipids,Atherosclerotic lesion,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023791,C0002395,PREVENTS,thioctic acid,Alzheimer's Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023810,C0004096,PREVENTS,Lipopolysaccharides,Asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023810,C0024534,PREVENTS,Lipopolysaccharides,"Malaria, Cerebral",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023810,C0032285,PREVENTS,Lipopolysaccharides,Pneumonia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0023810,C0035204,PREVENTS,Lipopolysaccharides,Respiration Disorders,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023810,C1175175,PREVENTS,Lipopolysaccharides,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023828,C0003864,PREVENTS,Liposomes,Arthritis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023828,C0007785,PREVENTS,Liposomes,Cerebral Infarction,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0023828,C0035243,PREVENTS,Liposomes,Respiratory Tract Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023828,C0040034,PREVENTS,Liposomes,Thrombocytopenia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0023828,C3828416,PREVENTS,Liposomes,Radiation Damage,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0024742,C0262655,PREVENTS,mannose,Recurrent urinary tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025153,C0024530,PREVENTS,mefloquine,Malaria,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0025270,C0030305,PREVENTS,vitamin K3,Pancreatitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025598,C0021400,PREVENTS,metformin,Influenza,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025598,C0276289,PREVENTS,metformin,Zika Virus Infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025598,C0795692,PREVENTS,metformin,Hyperlactatemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025598,C1175175,PREVENTS,metformin,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025598,C5139167,PREVENTS,metformin,Severe infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025598,C5203670,PREVENTS,metformin,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025638,C0042029,PREVENTS,methenamine,Urinary tract infection,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0025656,C0001906,PREVENTS,Methisazone,Variola Minor,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025656,C0037354,PREVENTS,Methisazone,Smallpox,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0025677,C0001126,PREVENTS,methotrexate,Renal tubular acidosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025677,C0018133,PREVENTS,methotrexate,Graft-vs-Host Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025677,C0856825,PREVENTS,methotrexate,Acute GVH disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025853,C0036690,PREVENTS,metoclopramide,Septicemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025853,C0205721,PREVENTS,metoclopramide,"Infections, Hospital",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0025938,C0339303,PREVENTS,Micelles,Corneal graft rejection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0027358,C5203670,PREVENTS,naloxone,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0027396,C0031350,PREVENTS,naproxen,Pharyngitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0027996,C0850624,PREVENTS,niacin,cardiovascular risk factor,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028017,C0275586,PREVENTS,niclosamide,Infectious bovine keratoconjunctivitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028017,C0546994,PREVENTS,niclosamide,Acute viral encephalitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028027,C0034069,PREVENTS,niacinamide,Pulmonary Fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028094,C0007785,PREVENTS,nimodipine,Cerebral Infarction,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028128,C0005779,PREVENTS,nitric oxide,Blood Coagulation Disorders,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0028128,C0024530,PREVENTS,nitric oxide,Malaria,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028128,C0042769,PREVENTS,nitric oxide,Virus Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0028128,C0742343,PREVENTS,nitric oxide,Acute Chest Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028157,C0004659,PREVENTS,nitrofurazone,Bacteriuria,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028908,C0027051,PREVENTS,Oils,Myocardial Infarction,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028908,C0035204,PREVENTS,Oils,Respiration Disorders,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028910,C0030499,PREVENTS,"Oils, Volatile",Parasitic Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028910,C0042769,PREVENTS,"Oils, Volatile",Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028959,C0042769,PREVENTS,Oligosaccharides,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028959,C0275982,PREVENTS,Oligosaccharides,Enteric campylobacteriosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028959,C0276619,PREVENTS,Oligosaccharides,Viral gastroenteritis due to Norwalk-like agent,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0028959,C4082764,PREVENTS,Oligosaccharides,Gastrointestinal infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0030899,C0032285,PREVENTS,pentoxifylline,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0030899,C0035222,PREVENTS,pentoxifylline,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0030899,C0042384,PREVENTS,pentoxifylline,Vasculitis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0031406,C1859353,PREVENTS,phenindione,"Candidiasis, Familial, 2",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0031406,C5139167,PREVENTS,phenindione,Severe infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0031428,C0009319,PREVENTS,Phenols,Colitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032594,C0007222,PREVENTS,Polysaccharides,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032594,C0009450,PREVENTS,Polysaccharides,Communicable Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032594,C0013371,PREVENTS,Polysaccharides,Shigella Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032594,C0019693,PREVENTS,Polysaccharides,HIV Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032594,C0032269,PREVENTS,Polysaccharides,Pneumococcal Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032594,C0040558,PREVENTS,Polysaccharides,Toxoplasmosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032594,C0276289,PREVENTS,Polysaccharides,Zika Virus Infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032857,C0009443,PREVENTS,povidone-iodine,Common Cold,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032857,C0009450,PREVENTS,povidone-iodine,Communicable Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032857,C0011334,PREVENTS,povidone-iodine,Dental caries,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032857,C0032285,PREVENTS,povidone-iodine,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032857,C0035243,PREVENTS,povidone-iodine,Respiratory Tract Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032857,C0041912,PREVENTS,povidone-iodine,Upper Respiratory Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032857,C0042769,PREVENTS,povidone-iodine,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032857,C0949083,PREVENTS,povidone-iodine,Hospital acquired pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0032950,C0042384,PREVENTS,prednisolone,Vasculitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0033215,C4703473,PREVENTS,probucol,Atherosclerotic lesion,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0033474,C0032285,PREVENTS,Propionates,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0033487,C0376618,PREVENTS,propofol,Endotoxemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0033568,C0038358,PREVENTS,"Prostaglandins, Synthetic",Gastric ulcer,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034272,C0002871,PREVENTS,pyridoxine,Anemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034272,C0027813,PREVENTS,pyridoxine,Neuritis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034272,C0598608,PREVENTS,pyridoxine,Hyperhomocysteinemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034283,C0015929,PREVENTS,pyrimethamine,Fetal Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034392,C0007222,PREVENTS,quercetin,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034392,C0010054,PREVENTS,quercetin,Coronary Arteriosclerosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034392,C0011847,PREVENTS,quercetin,Diabetes,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034392,C0020456,PREVENTS,quercetin,Hyperglycemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034392,C0032285,PREVENTS,quercetin,Pneumonia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0034392,C0042769,PREVENTS,quercetin,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034392,C0850624,PREVENTS,quercetin,cardiovascular risk factor,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034392,C0851901,PREVENTS,quercetin,Rhinovirus infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034428,C0038395,PREVENTS,Quinolones,Streptococcal Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0034665,C0038358,PREVENTS,ranitidine,Gastric ulcer,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0035527,C0850624,PREVENTS,riboflavin,cardiovascular risk factor,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0035629,C0021400,PREVENTS,rimantadine,Influenza,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0035629,C0030499,PREVENTS,rimantadine,Parasitic Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0035629,C2062441,PREVENTS,rimantadine,Influenza A,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C0036681,C0003864,PREVENTS,Sepharose,Arthritis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0036681,C0342895,PREVENTS,Sepharose,Fish-Eye Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0036681,C0442886,PREVENTS,Sepharose,Secondary Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0037135,C0015695,PREVENTS,silymarin,Fatty Liver,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0037215,C0748168,PREVENTS,sitosterols,Pulmonary Pathology,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0038317,C0001623,PREVENTS,Steroids,Adrenal gland hypofunction,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0038317,C0006266,PREVENTS,Steroids,Bronchospasm,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0038317,C0010051,PREVENTS,Steroids,Coronary Aneurysm,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0038317,C0031048,PREVENTS,Steroids,"Pericarditis, Constrictive",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0038317,C0032285,PREVENTS,Steroids,Pneumonia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0038317,C0034069,PREVENTS,Steroids,Pulmonary Fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0038317,C0035220,PREVENTS,Steroids,"Respiratory Distress Syndrome, Newborn",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0038317,C0042384,PREVENTS,Steroids,Vasculitis,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C0038317,C0740304,PREVENTS,Steroids,copd exacerbation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0038317,C0748731,PREVENTS,Steroids,Viral sinusitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0038317,C5203670,PREVENTS,Steroids,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0038323,C0015695,PREVENTS,Sterols,Fatty Liver,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0038760,C0009187,PREVENTS,Sulfonamides,Coccidiosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0038766,C0020615,PREVENTS,Sulfonylurea Compounds,Hypoglycemia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0039294,C0042769,PREVENTS,tannic acid,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0039840,C0162429,PREVENTS,thiamine,Malnutrition,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0040864,C0740304,PREVENTS,triamcinolone,copd exacerbation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0041056,C0042769,PREVENTS,trimipramine,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0041175,C0042029,PREVENTS,tromethamine,Urinary tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042523,C5203670,PREVENTS,verapamil,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042839,C0035243,PREVENTS,vitamin A,Respiratory Tract Infections,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0042849,C0023890,PREVENTS,vitamin B complex,Liver Cirrhosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042874,C0003850,PREVENTS,vitamin E,Arteriosclerosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042874,C0032969,PREVENTS,vitamin E,Pregnancy in Diabetics,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042874,C0041912,PREVENTS,vitamin E,Upper Respiratory Infections,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0042874,C0151798,PREVENTS,vitamin E,Hepatic necrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042878,C0023890,PREVENTS,vitamin K,Liver Cirrhosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042890,C0007222,PREVENTS,Vitamins,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042890,C0018799,PREVENTS,Vitamins,Heart Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042890,C0032285,PREVENTS,Vitamins,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042890,C0042769,PREVENTS,Vitamins,Virus Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0042890,C0162429,PREVENTS,Vitamins,Malnutrition,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042890,C0339901,PREVENTS,Vitamins,Acute respiratory infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042890,C0740304,PREVENTS,Vitamins,copd exacerbation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0042890,C5203670,PREVENTS,Vitamins,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0043369,C0011334,PREVENTS,xylitol,Dental caries,orch,dsyn,12,PREVENTS_ORCHprevDSYN
+C0043369,C0271429,PREVENTS,xylitol,Acute otitis media,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C0043832,C0235950,PREVENTS,deferiprone,Zinc deficiency,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0045137,C0342257,PREVENTS,isoliquiritigenin,Complications of Diabetes Mellitus,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0046319,C0597048,PREVENTS,2-methoxyestradiol,neurogenic hypertension,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0046699,C0042749,PREVENTS,25-hydroxycholesterol,Viremia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0047100,C0404521,PREVENTS,3-((2-phenylethyl)amino)alanine,Infective vaginitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0050156,C0007222,PREVENTS,Conjugated Linoleic Acid,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0051761,C1262313,PREVENTS,"amphotericin B, deoxycholate drug combination",Invasive Fungal Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0052430,C0003850,PREVENTS,artemisinine,Arteriosclerosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0052430,C0018889,PREVENTS,artemisinine,Helminthiasis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0052430,C0277548,PREVENTS,artemisinine,Epidemic disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0052432,C0155877,PREVENTS,artesunate,Allergic asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0052929,C1175175,PREVENTS,baicalin,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0052934,C0853662,PREVENTS,bakuchiol,estrogen deficiency,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0053373,C0004096,PREVENTS,"beta-1,3-glucan",Asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0053622,C0007222,PREVENTS,biochanin A,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0053792,C0277528,PREVENTS,bismuth subsalicylate,Traveler's diarrhea,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0054201,C0004096,PREVENTS,budesonide,Asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0054201,C0006287,PREVENTS,budesonide,Bronchopulmonary Dysplasia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0054201,C0032285,PREVENTS,budesonide,Pneumonia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0054433,C0019196,PREVENTS,caffeic acid,Hepatitis C,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0055447,C0206750,PREVENTS,chloroquine phosphate,Coronavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0055447,C5203670,PREVENTS,chloroquine phosphate,COVID-19,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0055729,C0015695,PREVENTS,cilostazol,Fatty Liver,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0055729,C0032285,PREVENTS,cilostazol,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0055809,C0042769,PREVENTS,citral,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0056503,C0035222,PREVENTS,crocin,"Respiratory Distress Syndrome, Adult",orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0056650,C0018799,PREVENTS,cyanidin,Heart Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0057874,C1861380,PREVENTS,diclazuril,"Syndactyly, Type I",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0058903,C0019158,PREVENTS,ebselen,Hepatitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0058903,C5203670,PREVENTS,ebselen,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0058978,C3665365,PREVENTS,icosapent ethyl,"Arteriosclerotic cardiovascular disease, NOS",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0059396,C0009443,PREVENTS,enviroxime,Common Cold,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0059438,C0007222,PREVENTS,epigallocatechin gallate,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0059438,C0034069,PREVENTS,epigallocatechin gallate,Pulmonary Fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0059438,C0041296,PREVENTS,epigallocatechin gallate,Tuberculosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0059438,C0235272,PREVENTS,epigallocatechin gallate,Retinal damage,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0059962,C0035220,PREVENTS,Exosurf,"Respiratory Distress Syndrome, Newborn",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0060180,C0022658,PREVENTS,fenoldopam,Kidney Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0060197,C0042749,PREVENTS,Fenretinide,Viremia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0060291,C0007222,PREVENTS,ferulic acid,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0060291,C0011860,PREVENTS,ferulic acid,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0060291,C0524851,PREVENTS,ferulic acid,Neurodegenerative Disorders,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0060397,C0020179,PREVENTS,fisetin,Huntington Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0060794,C0019693,PREVENTS,fucoidan,HIV Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0061278,C0009324,PREVENTS,Ginsenosides,Ulcerative Colitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0061304,C0162316,PREVENTS,gleptoferron,Iron deficiency anemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0061751,C0009324,PREVENTS,glycyrrhizic acid,Ulcerative Colitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0061751,C0015695,PREVENTS,glycyrrhizic acid,Fatty Liver,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0061751,C0016627,PREVENTS,glycyrrhizic acid,Influenza in Birds,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0061751,C0860207,PREVENTS,glycyrrhizic acid,Drug-Induced Liver Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0061751,C1175175,PREVENTS,glycyrrhizic acid,Severe Acute Respiratory Syndrome,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0062095,C0010418,PREVENTS,halofuginone,Cryptosporidiosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0062096,C0010418,PREVENTS,halofuginone lactate,Cryptosporidiosis,orch,dsyn,6,PREVENTS_ORCHprevDSYN
+C0062585,C1175175,PREVENTS,hesperetin,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0063041,C0022658,PREVENTS,leflunomide,Kidney Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0063041,C0042749,PREVENTS,leflunomide,Viremia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0063083,C0205721,PREVENTS,Hydrogel,"Infections, Hospital",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0064044,C1285162,PREVENTS,isoprene,Degenerative disorder,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0064113,C0026946,PREVENTS,itraconazole,Mycoses,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0064113,C0238013,PREVENTS,itraconazole,Invasive aspergillosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0064113,C1262313,PREVENTS,itraconazole,Invasive Fungal Infections,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0064113,C1394891,PREVENTS,itraconazole,Intrinsic Factor Deficiency,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0064280,C0007222,PREVENTS,kaempferol,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0065264,C0007222,PREVENTS,Luteolin,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0065264,C0011311,PREVENTS,Luteolin,Dengue Fever,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0065264,C1175175,PREVENTS,Luteolin,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0066776,C0019342,PREVENTS,monophosphoryl lipid A,Genital Herpes,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0067067,C0003850,PREVENTS,myricetin,Arteriosclerosis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0067764,C0042769,PREVENTS,N-acetylneuraminoyllactose,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0068483,C0014661,PREVENTS,nedocromil,Equine Infectious Anemia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0068788,C5203670,PREVENTS,nitazoxanide,COVID-19,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0069397,C0027765,PREVENTS,oleandrin,nervous system disorder,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0069397,C5203670,PREVENTS,oleandrin,COVID-19,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0069409,C5203670,PREVENTS,oleoylcarnitine,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0070982,C0011881,PREVENTS,phycocyanobilin,Diabetic Nephropathy,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0071097,C0003850,PREVENTS,pioglitazone,Arteriosclerosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0071097,C0007222,PREVENTS,pioglitazone,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0071097,C0024141,PREVENTS,pioglitazone,"Lupus Erythematosus, Systemic",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0071097,C0034069,PREVENTS,pioglitazone,Pulmonary Fibrosis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0071097,C2711227,PREVENTS,pioglitazone,Steatohepatitis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0071629,C0011334,PREVENTS,polyol,Dental caries,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0071649,C0002170,PREVENTS,polyphenols,Alopecia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0071649,C0007222,PREVENTS,polyphenols,Cardiovascular Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0071649,C0008679,PREVENTS,polyphenols,Chronic disease,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C0071649,C0011334,PREVENTS,polyphenols,Dental caries,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0071649,C0011860,PREVENTS,polyphenols,"Diabetes Mellitus, Non-Insulin-Dependent",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0071649,C0020538,PREVENTS,polyphenols,Hypertensive disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0071649,C0025517,PREVENTS,polyphenols,Metabolic Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0071649,C0029453,PREVENTS,polyphenols,Osteopenia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0071649,C0600260,PREVENTS,polyphenols,"Lung Diseases, Obstructive",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0072171,C0042384,PREVENTS,propentofylline,Vasculitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0072924,C0009443,PREVENTS,R 61837,Common Cold,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0072970,C0035078,PREVENTS,ramiprilat,Kidney Failure,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0072973,C0149721,PREVENTS,ramipril,Left Ventricular Hypertrophy,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0073096,C0018799,PREVENTS,resveratrol,Heart Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0073096,C0850624,PREVENTS,resveratrol,cardiovascular risk factor,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0073202,C1277187,PREVENTS,rhodioloside,Left ventricular systolic dysfunction,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0073361,C0009450,PREVENTS,RID,Communicable Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0073374,C0277528,PREVENTS,rifaximin,Traveler's diarrhea,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0073385,C0242966,PREVENTS,Lactated Ringer's Solution,Systemic Inflammatory Response Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0073992,C0004096,PREVENTS,salmeterol,Asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0073992,C0006266,PREVENTS,salmeterol,Bronchospasm,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0073992,C0035235,PREVENTS,salmeterol,Respiratory Syncytial Virus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0074177,C0023895,PREVENTS,schizandrol B,Liver diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0074247,C0008354,PREVENTS,secoisolariciresinol,Cholera,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0074393,C0032285,PREVENTS,sertraline,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0074393,C0042769,PREVENTS,sertraline,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0074554,C0032285,PREVENTS,simvastatin,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0074554,C1301700,PREVENTS,simvastatin,Cardiovascular morbidity,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0074722,C0022658,PREVENTS,sodium bicarbonate,Kidney Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0074722,C0022660,PREVENTS,sodium bicarbonate,"Kidney Failure, Acute",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0074992,C0004623,PREVENTS,sphingosine 1-phosphate,Bacterial Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0074992,C0027583,PREVENTS,sphingosine 1-phosphate,Nematode infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0074992,C5203670,PREVENTS,sphingosine 1-phosphate,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0076110,C0042769,PREVENTS,terbinafine,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0076316,C0017658,PREVENTS,tetrandrine,Glomerulonephritis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0076316,C2973725,PREVENTS,tetrandrine,Pulmonary arterial hypertension,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0076379,C0011334,PREVENTS,theaflavin,Dental caries,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0076651,C0275879,PREVENTS,tiamulin,Porcine ulcerative spirochetosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0076829,C0022104,PREVENTS,topiramate,Irritable Bowel Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0077938,C0019196,PREVENTS,ursolic acid,Hepatitis C,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0078433,C0239946,PREVENTS,methylphosphonothioic acid S-(2-(bis(1-methylethyl)amino)ethyl) O-ethyl ester,"Fibrosis, Liver",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0078604,C0020538,PREVENTS,xanthone,Hypertensive disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0078604,C1397307,PREVENTS,xanthone,Cardiac fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0079589,C0206750,PREVENTS,tamoxifen citrate,Coronavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0079594,C0032285,PREVENTS,iloprost,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0081002,C0035243,PREVENTS,pidotimod,Respiratory Tract Infections,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0081002,C0863094,PREVENTS,pidotimod,Recurrent respiratory tract infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0082264,C0020473,PREVENTS,dicentrine,Hyperlipidemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0082264,C0020538,PREVENTS,dicentrine,Hypertensive disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0082264,C0850624,PREVENTS,dicentrine,cardiovascular risk factor,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0082607,C0004096,PREVENTS,fluticasone,Asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0082608,C0206750,PREVENTS,fluvastatin,Coronavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0083381,C0029877,PREVENTS,meloxicam,Ear Inflammation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0083381,C1619738,PREVENTS,meloxicam,Immune Reconstitution Inflammatory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0084844,C3694279,PREVENTS,trestolone,Middle East Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0084844,C4505065,PREVENTS,trestolone,Noncommunicable Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0085173,C0042769,PREVENTS,terfenadine,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0086073,C0014661,PREVENTS,cromolyn,Equine Infectious Anemia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0086325,C0205721,PREVENTS,Foy,"Infections, Hospital",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0097106,C0011847,PREVENTS,4-hydroxyderricin,Diabetes,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0100994,C0036690,PREVENTS,acacetin,Septicemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0104013,C0740766,PREVENTS,arctigenin,Acute Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0105750,C0032285,PREVENTS,beractant,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0108225,C0030305,PREVENTS,camostate-mesilate,Pancreatitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0108225,C0032285,PREVENTS,camostate-mesilate,Pneumonia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0108225,C0276138,PREVENTS,camostate-mesilate,Viral myocarditis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0108225,C0876973,PREVENTS,camostate-mesilate,Infectious Lung Disorder,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0108225,C1175175,PREVENTS,camostate-mesilate,Severe Acute Respiratory Syndrome,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0108225,C3694279,PREVENTS,camostate-mesilate,Middle East Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0108939,C0036690,PREVENTS,cefquinome,Septicemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0109701,C0028754,PREVENTS,CHSC,Obesity,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0111318,C0035220,PREVENTS,Curosurf,"Respiratory Distress Syndrome, Newborn",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0117339,C0206750,PREVENTS,toremifene citrate,Coronavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0117996,C0031350,PREVENTS,fluticasone propionate,Pharyngitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0117996,C0035235,PREVENTS,fluticasone propionate,Respiratory Syncytial Virus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0123047,C1175175,PREVENTS,ibudilast,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0123047,C5203670,PREVENTS,ibudilast,COVID-19,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0123439,C0009443,PREVENTS,Impulsin,Common Cold,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0123439,C0339901,PREVENTS,Impulsin,Acute respiratory infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0123931,C0023530,PREVENTS,irinotecan,Leukopenia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0126174,C0034069,PREVENTS,losartan,Pulmonary Fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0126174,C0035222,PREVENTS,losartan,"Respiratory Distress Syndrome, Adult",orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0126174,C0038454,PREVENTS,losartan,Cerebrovascular accident,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0128513,C0242852,PREVENTS,milrinone,Proliferative vitreoretinopathy,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0129975,C0032285,PREVENTS,camostat,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0129975,C0276138,PREVENTS,camostat,Viral myocarditis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0129975,C1175175,PREVENTS,camostat,Severe Acute Respiratory Syndrome,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0129975,C5203670,PREVENTS,camostat,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0134258,C0042769,PREVENTS,xylometazoline hydrochloride,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0136123,C0032285,PREVENTS,perindopril,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0141783,C1175175,PREVENTS,scutellarin,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0146196,C0009187,PREVENTS,toltrazuril,Coccidiosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0146196,C1861380,PREVENTS,toltrazuril,"Syndactyly, Type I",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0148948,C0679408,PREVENTS,xanthoangelol,Lesion of stomach,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0149368,C0404521,PREVENTS,zinc acetate,Infective vaginitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0149381,C0238990,PREVENTS,zinc gluconate,Acute lower respiratory tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0162969,C0035235,PREVENTS,chitosan,Respiratory Syncytial Virus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0162969,C0748168,PREVENTS,chitosan,Pulmonary Pathology,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0163159,C0001126,PREVENTS,sulforafan,Renal tubular acidosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0165032,C0032285,PREVENTS,imiquimod,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0168211,C0009443,PREVENTS,R 77975,Common Cold,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0168213,C0009443,PREVENTS,pirodavir,Common Cold,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0173332,C1175175,PREVENTS,theaflavin digallate,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0178638,C0002871,PREVENTS,folate,Anemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0178638,C0598608,PREVENTS,folate,Hyperhomocysteinemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0206008,C0027051,PREVENTS,2-mercaptoethanesulfonic acid,Myocardial Infarction,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0206008,C0038454,PREVENTS,2-mercaptoethanesulfonic acid,Cerebrovascular accident,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0206460,C1861172,PREVENTS,enoxaparin,Venous Thromboembolism,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0207683,C1175175,PREVENTS,nafamostat,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0209368,C1565489,PREVENTS,mycophenolate mofetil,Renal Insufficiency,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0209738,C5139167,PREVENTS,lamivudine,Severe infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0216660,C0021400,PREVENTS,zanamivir,Influenza,orch,dsyn,12,PREVENTS_ORCHprevDSYN
+C0216660,C2062441,PREVENTS,zanamivir,Influenza A,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0216660,C2977062,PREVENTS,zanamivir,Influenzal otitis media NOS,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0216784,C0035222,PREVENTS,valsartan,"Respiratory Distress Syndrome, Adult",orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0216784,C0038454,PREVENTS,valsartan,Cerebrovascular accident,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0225326,C0025517,PREVENTS,fiber,Metabolic Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0225326,C0451641,PREVENTS,fiber,Urolithiasis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0242209,C0028754,PREVENTS,Sugars,Obesity,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0246904,C0003811,PREVENTS,levosimendan,Cardiac Arrhythmia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0248121,C0456909,PREVENTS,emivirine,Blindness,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0248719,C0014038,PREVENTS,telmisartan,Encephalitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0248719,C0018801,PREVENTS,telmisartan,Heart failure,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0248719,C0023895,PREVENTS,telmisartan,Liver diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0248719,C0400966,PREVENTS,telmisartan,Non-alcoholic Fatty Liver Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0248719,C1096155,PREVENTS,telmisartan,Macrophage Activation Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0248719,C4529962,PREVENTS,telmisartan,Fatty Liver Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0249458,C0010823,PREVENTS,valacyclovir,Cytomegalovirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0249458,C0019348,PREVENTS,valacyclovir,Herpes Simplex Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0249458,C0032768,PREVENTS,valacyclovir,Postherpetic neuralgia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0250438,C0008679,PREVENTS,arabinoxylan,Chronic disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0254211,C0021400,PREVENTS,arbidol,Influenza,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0254211,C0032285,PREVENTS,arbidol,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0254211,C0042769,PREVENTS,arbidol,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0254211,C0206750,PREVENTS,arbidol,Coronavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0254211,C0949083,PREVENTS,arbidol,Hospital acquired pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0254211,C5203670,PREVENTS,arbidol,COVID-19,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0257685,C0029456,PREVENTS,zoledronic acid,Osteoporosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0258350,C1175175,PREVENTS,theaflavine gallate,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0260264,C0740304,PREVENTS,steroid drug,copd exacerbation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0281643,C0042769,PREVENTS,incomplete Freund's adjuvant,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0282908,C0850624,PREVENTS,morin hydrate,cardiovascular risk factor,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0285570,C0270780,PREVENTS,U 74006F,Degenerative myelopathy,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0286651,C0029408,PREVENTS,atorvastatin,Degenerative polyarthritis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0289313,C0003850,PREVENTS,rosiglitazone,Arteriosclerosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0289313,C0024141,PREVENTS,rosiglitazone,"Lupus Erythematosus, Systemic",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0289313,C0035222,PREVENTS,rosiglitazone,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0289313,C0342649,PREVENTS,rosiglitazone,Vascular calcification,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0292818,C0042769,PREVENTS,ritonavir,Virus Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0298067,C0034069,PREVENTS,pirfenidone,Pulmonary Fibrosis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0298130,C0042749,PREVENTS,montelukast,Viremia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0301532,C5203670,PREVENTS,Multivitamin preparation,COVID-19,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0359916,C0008679,PREVENTS,Substance with phenol structure,Chronic disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0360714,C0003850,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Arteriosclerosis,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C0360714,C0004153,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Atherosclerosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0360714,C0007222,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Cardiovascular Diseases,orch,dsyn,5,PREVENTS_ORCHprevDSYN
+C0360714,C0010054,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Coronary Arteriosclerosis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0360714,C0018801,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Heart failure,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0360714,C0027051,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Myocardial Infarction,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0360714,C0032285,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0360714,C0035222,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0360714,C0038454,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Cerebrovascular accident,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0360714,C0206750,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Coronavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0360714,C0740304,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,copd exacerbation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0360714,C0741923,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,cardiac event,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0360714,C0947751,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,vascular inflammations,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0360714,C0948089,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Acute Coronary Syndrome,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0360714,C5203670,PREVENTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0369760,C0008679,PREVENTS,Organic acid (substance),Chronic disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0377336,C0239946,PREVENTS,dan-shen root extract,"Fibrosis, Liver",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0378785,C0006818,PREVENTS,"3,5-diisopropylsalicylic acid",Campylobacter infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0378785,C0042769,PREVENTS,"3,5-diisopropylsalicylic acid",Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0388088,C0035222,PREVENTS,FTY-720,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0393080,C0442886,PREVENTS,voriconazole,Secondary Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0525678,C0007222,PREVENTS,rasagiline,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0525678,C0011847,PREVENTS,rasagiline,Diabetes,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0525678,C0020538,PREVENTS,rasagiline,Hypertensive disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0525678,C0032285,PREVENTS,rasagiline,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0525678,C0035222,PREVENTS,rasagiline,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0529793,C0015934,PREVENTS,sildenafil,Fetal Growth Retardation,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0529793,C0242852,PREVENTS,sildenafil,Proliferative vitreoretinopathy,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0529793,C0340279,PREVENTS,sildenafil,Ventricular hypertrophy,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0529793,C1397307,PREVENTS,sildenafil,Cardiac fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0538927,C0042769,PREVENTS,celecoxib,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0541315,C0022658,PREVENTS,everolimus,Kidney Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0541315,C0042749,PREVENTS,everolimus,Viremia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0541315,C0042769,PREVENTS,everolimus,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0556150,C1290886,PREVENTS,docosahexaenoic acid,Chronic inflammatory disorder,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0561929,C0022661,PREVENTS,N-3 fatty acid supplementation,"Kidney Failure, Chronic",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0578117,C0042749,PREVENTS,Carbohydrate derivative,Viremia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0595726,C0006266,PREVENTS,Leukotriene Antagonists,Bronchospasm,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0595726,C0014661,PREVENTS,Leukotriene Antagonists,Equine Infectious Anemia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0596192,C0027051,PREVENTS,blood lipid,Myocardial Infarction,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0596577,C0007222,PREVENTS,Flavonoids,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0596577,C0011847,PREVENTS,Flavonoids,Diabetes,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0596577,C0036690,PREVENTS,Flavonoids,Septicemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0596577,C0275524,PREVENTS,Flavonoids,Coinfection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0596577,C1704272,PREVENTS,Flavonoids,Benign Prostatic Hyperplasia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0599549,C0038454,PREVENTS,tocol,Cerebrovascular accident,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0600334,C0035222,PREVENTS,silybin,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0600370,C0032285,PREVENTS,methacholine,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0602007,C0018081,PREVENTS,rac-glycerol 1-monodecanoate,Gonorrhea,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0620347,C5203670,PREVENTS,compound A 12,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0623038,C1096155,PREVENTS,dimethylol dihydroxyethyleneurea,Macrophage Activation Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0630847,C0024530,PREVENTS,"1-acetyl-1,2,3,3a,8,8a-hexahydro-8a-hydroxy-5-methoxypyrrolo(2,3-b)indole",Malaria,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0637815,C0016807,PREVENTS,eckol,Functional disorder of intestine,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0637815,C0342257,PREVENTS,eckol,Complications of Diabetes Mellitus,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0640640,C0042749,PREVENTS,dioctadecylamidospermine,Viremia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0641725,C0497156,PREVENTS,armepavine,Lymphadenopathy,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0655712,C0242723,PREVENTS,manzamine A,Parasitemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0664965,C0850624,PREVENTS,pterostilbene,cardiovascular risk factor,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0674432,C0042769,PREVENTS,lopinavir,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0682997,C0008679,PREVENTS,Monoterpenes,Chronic disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0699596,C0042029,PREVENTS,Septrin,Urinary tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0699680,C0008679,PREVENTS,Metric (substance),Chronic disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0699680,C0205721,PREVENTS,Metric (substance),"Infections, Hospital",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0699934,C0035220,PREVENTS,Survanta,"Respiratory Distress Syndrome, Newborn",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0717550,C0035309,PREVENTS,candesartan,Retinal Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0719841,C0011175,PREVENTS,dextrose and water,Dehydration,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0721062,C0035869,PREVENTS,InFed,Rotavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0723179,C0442886,PREVENTS,SSD,Secondary Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0752270,C0009443,PREVENTS,Echinacea preparation,Common Cold,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0754504,C0262655,PREVENTS,yersiniabactin,Recurrent urinary tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0759032,C0009443,PREVENTS,pleconaril,Common Cold,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0763529,C0035220,PREVENTS,Infasurf,"Respiratory Distress Syndrome, Newborn",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0772037,C0028754,PREVENTS,ROSE HIPS,Obesity,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0772162,C3266262,PREVENTS,AROMATICS,Multiple Chronic Conditions,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0778222,C0017086,PREVENTS,Carbolic Acid Solution,Gangrene,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0873033,C0456103,PREVENTS,fructooligosaccharide,Sepsis of the newborn,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0873046,C0042769,PREVENTS,ginseng root,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0874161,C0021400,PREVENTS,oseltamivir,Influenza,orch,dsyn,18,PREVENTS_ORCHprevDSYN
+C0874161,C0032285,PREVENTS,oseltamivir,Pneumonia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C0874161,C0339952,PREVENTS,oseltamivir,Secondary bacterial pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0874161,C0442886,PREVENTS,oseltamivir,Secondary Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0874161,C2062441,PREVENTS,oseltamivir,Influenza A,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C0874161,C2977062,PREVENTS,oseltamivir,Influenzal otitis media NOS,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0876173,C2076600,PREVENTS,Tamiflu,Influenza due to Influenza A virus subtype H1N1,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0883242,C5203670,PREVENTS,mycophenolate,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0886658,C0035455,PREVENTS,nedocromil sodium,Rhinitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0909381,C0019348,PREVENTS,valganciclovir,Herpes Simplex Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0917964,C0347950,PREVENTS,Colforsin,Asthma attack,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0935989,C0034069,PREVENTS,imatinib,Pulmonary Fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0935989,C0206750,PREVENTS,imatinib,Coronavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0935989,C0856169,PREVENTS,imatinib,Endothelial dysfunction,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0936072,C2062441,PREVENTS,amantadine hydrochloride,Influenza A,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0936148,C0238013,PREVENTS,posaconazole,Invasive aspergillosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0937599,C0008679,PREVENTS,barley grain,Chronic disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0949647,C0850624,PREVENTS,tocotrienols,cardiovascular risk factor,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0949665,C0004623,PREVENTS,Fluoroquinolones,Bacterial Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0949665,C0005779,PREVENTS,Fluoroquinolones,Blood Coagulation Disorders,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0949665,C4040349,PREVENTS,Fluoroquinolones,Bacteremia due to Methicillin resistant Staphylococcus aureus,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C0961485,C0018799,PREVENTS,eplerenone,Heart Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1098510,C1861172,PREVENTS,fondaparinux,Venous Thromboembolism,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C1119918,C0009443,PREVENTS,ginseng preparation,Common Cold,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C1119918,C0021400,PREVENTS,ginseng preparation,Influenza,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1119918,C0041912,PREVENTS,ginseng preparation,Upper Respiratory Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1120110,C0020538,PREVENTS,aliskiren,Hypertensive disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1120110,C0022658,PREVENTS,aliskiren,Kidney Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1120110,C1397307,PREVENTS,aliskiren,Cardiac fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1121667,C0041234,PREVENTS,PEN 110,Chagas Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1134651,C0041912,PREVENTS,beta-Glucans,Upper Respiratory Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1135135,C0019196,PREVENTS,erlotinib,Hepatitis C,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1136704,C0042769,PREVENTS,amotosalen,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1137373,C0853662,PREVENTS,bavachin,estrogen deficiency,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1138226,C0042749,PREVENTS,favipiravir,Viremia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1138226,C0042769,PREVENTS,favipiravir,Virus Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C1138226,C1175175,PREVENTS,favipiravir,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1138226,C5203670,PREVENTS,favipiravir,COVID-19,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C1142985,C0007222,PREVENTS,ezetimibe,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1143018,C0015695,PREVENTS,obeticholic acid,Fatty Liver,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1165265,C0003864,PREVENTS,ginsenoside,Arthritis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1172511,C0032285,PREVENTS,MOL 294,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1176309,C0442874,PREVENTS,bortezomib,Neuropathy,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1176309,C0543695,PREVENTS,bortezomib,immunoglobulin disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1259940,C0242723,PREVENTS,hinokinin,Parasitemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1318901,C0007222,PREVENTS,Fish derived omega 3 fatty acid,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1328819,C0004096,PREVENTS,Small Molecule,Asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1328819,C0004364,PREVENTS,Small Molecule,Autoimmune Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1328819,C0019158,PREVENTS,Small Molecule,Hepatitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1328819,C0019693,PREVENTS,Small Molecule,HIV Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1328819,C0032285,PREVENTS,Small Molecule,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1328819,C1175175,PREVENTS,Small Molecule,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1328819,C4020969,PREVENTS,Small Molecule,Inflammatory abnormality of the eye,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1449704,C0007222,PREVENTS,Fibrates,Cardiovascular Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1455147,C0009450,PREVENTS,dasatinib,Communicable Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1455147,C0019196,PREVENTS,dasatinib,Hepatitis C,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1564227,C0035243,PREVENTS,Kelfizine,Respiratory Tract Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1565750,C5203670,PREVENTS,sitagliptin,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1566588,C0042769,PREVENTS,SL0101,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1567346,C0042769,PREVENTS,NS398,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1568094,C0029453,PREVENTS,"5S,12R,18R-trihydroxy-6Z,8E,10E,14Z,16E-eicosapentaenoic acid",Osteopenia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1570570,C1290884,PREVENTS,CRX-526,Inflammatory disorder,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1572637,C0016627,PREVENTS,OIL IN WATER EMULSION,Influenza in Birds,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1576824,C0032285,PREVENTS,sodium pyruvate,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1622282,C0398623,PREVENTS,6-(Methylsulfinyl)hexyl isothiocyanate,Thrombophilia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1675326,C0009450,PREVENTS,peramivir,Communicable Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1743645,C0021400,PREVENTS,eritoran,Influenza,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C1743645,C0032285,PREVENTS,eritoran,Pneumonia,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C1743645,C0035222,PREVENTS,eritoran,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1743645,C2062441,PREVENTS,eritoran,Influenza A,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1875789,C0031350,PREVENTS,SUGAR/WATER,Pharyngitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1882413,C1175175,PREVENTS,Poly(ADP-ribose) Polymerase Inhibitors,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1951142,C5203670,PREVENTS,First Aid Pharmaceutical,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C1998098,C0034069,PREVENTS,panobinostat,Pulmonary Fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2001961,C0042769,PREVENTS,Sterillium,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2316164,C0004096,PREVENTS,olaparib,Asthma,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2348066,C0038454,PREVENTS,dabigatran,Cerebrovascular accident,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2348066,C0262469,PREVENTS,dabigatran,Embolic stroke,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2350740,C0009443,PREVENTS,AG 7088,Common Cold,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2353951,C0001125,PREVENTS,dapagliflozin,"Acidosis, Lactic",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2353951,C0011847,PREVENTS,dapagliflozin,Diabetes,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2353951,C0022658,PREVENTS,dapagliflozin,Kidney Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2608320,C0038454,PREVENTS,Low-Dose Aspirin,Cerebrovascular accident,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2608320,C0741923,PREVENTS,Low-Dose Aspirin,cardiac event,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2713495,C1301700,PREVENTS,dalcetrapib,Cardiovascular morbidity,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2713595,C0037354,PREVENTS,tecovirimat,Smallpox,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2714699,C0339901,PREVENTS,Ingavirin,Acute respiratory infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2717875,C0004096,PREVENTS,Prebiotics,Asthma,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C2717875,C0010674,PREVENTS,Prebiotics,Cystic Fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2717875,C0011615,PREVENTS,Prebiotics,"Dermatitis, Atopic",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2717875,C0035243,PREVENTS,Prebiotics,Respiratory Tract Infections,orch,dsyn,4,PREVENTS_ORCHprevDSYN
+C2717875,C0042769,PREVENTS,Prebiotics,Virus Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C2717875,C0442886,PREVENTS,Prebiotics,Secondary Infections,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C2717875,C0729531,PREVENTS,Prebiotics,Viral respiratory infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2717875,C0851901,PREVENTS,Prebiotics,Rhinovirus infections,orch,dsyn,4,PREVENTS_ORCHprevDSYN
+C2746078,C0151650,PREVENTS,linagliptin,Renal fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2825233,C0032285,PREVENTS,"Steroid, Systemic",Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0009443,PREVENTS,Duration,Common Cold,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C2926735,C0009450,PREVENTS,Duration,Communicable Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C2926735,C0011168,PREVENTS,Duration,Deglutition Disorders,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0011175,PREVENTS,Duration,Dehydration,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0017658,PREVENTS,Duration,Glomerulonephritis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0023530,PREVENTS,Duration,Leukopenia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0024530,PREVENTS,Duration,Malaria,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0026780,PREVENTS,Duration,Mumps,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0031157,PREVENTS,Duration,Peritonsillar Abscess,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0032285,PREVENTS,Duration,Pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0035243,PREVENTS,Duration,Respiratory Tract Infections,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C2926735,C0035436,PREVENTS,Duration,Rheumatic Fever,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0036310,PREVENTS,Duration,Scheuermann's Disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0038826,PREVENTS,Duration,Superinfection,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C2926735,C0042769,PREVENTS,Duration,Virus Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C2926735,C0149725,PREVENTS,Duration,Lower respiratory tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0155502,PREVENTS,Duration,Benign Paroxysmal Positional Vertigo,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0205882,PREVENTS,Duration,"Infections, Parvovirus",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0206525,PREVENTS,Duration,"Tuberculosis, Drug-Resistant",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0206750,PREVENTS,Duration,Coronavirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0277528,PREVENTS,Duration,Traveler's diarrhea,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0339901,PREVENTS,Duration,Acute respiratory infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0404521,PREVENTS,Duration,Infective vaginitis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0729531,PREVENTS,Duration,Viral respiratory infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0748168,PREVENTS,Duration,Pulmonary Pathology,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C0863093,PREVENTS,Duration,cold symptoms,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C2926735,C1279386,PREVENTS,Duration,Postoperative pneumonia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C2076600,PREVENTS,Duration,Influenza due to Influenza A virus subtype H1N1,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2926735,C5203670,PREVENTS,Duration,COVID-19,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C2930789,C0034069,PREVENTS,nintedanib,Pulmonary Fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2931926,C0010278,PREVENTS,ruxolitinib,Craniosynostosis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C2931926,C0856825,PREVENTS,ruxolitinib,Acute GVH disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2933615,C0151650,PREVENTS,LCZ 696,Renal fibrosis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2935464,C0042749,PREVENTS,FGI 103,Viremia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2937289,C0205721,PREVENTS,Adapt (substance),"Infections, Hospital",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2961731,C0035204,PREVENTS,Overtime,Respiration Disorders,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2975435,C0038454,PREVENTS,edoxaban,Cerebrovascular accident,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C2986418,C0008679,PREVENTS,Resistant Starch,Chronic disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3202987,C0035222,PREVENTS,Incyclinide,"Respiratory Distress Syndrome, Adult",orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3256127,C0017160,PREVENTS,Bos taurus colostrum preparation,Gastroenteritis,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3256127,C0041912,PREVENTS,Bos taurus colostrum preparation,Upper Respiratory Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3256127,C0581381,PREVENTS,Bos taurus colostrum preparation,Recurrent upper respiratory tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3256220,C0042769,PREVENTS,Cymbopogon schoenanthus oil,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3273246,C0162770,PREVENTS,RRx-001,Right Ventricular Hypertrophy,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C3273246,C2973725,PREVENTS,RRx-001,Pulmonary arterial hypertension,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C3273375,C0235946,PREVENTS,Tideglusib,Cerebral atrophy,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3467842,C0600327,PREVENTS,Pacritinib,Toxic Shock Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3486324,C0042769,PREVENTS,star anise oil,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3490348,C0015695,PREVENTS,empagliflozin,Fatty Liver,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3490990,C0042769,PREVENTS,PR-619,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3490992,C0042769,PREVENTS,P22077,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3501287,C0035243,PREVENTS,dactolisib,Respiratory Tract Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3501358,C0748168,PREVENTS,ibrutinib,Pulmonary Pathology,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3530114,C2062441,PREVENTS,Laninamivir octanoate,Influenza A,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3666421,C0149678,PREVENTS,Utopic,Epstein-Barr Virus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3666909,C0011875,PREVENTS,Glycate,Diabetic Angiopathies,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3813211,C0302809,PREVENTS,Prostaglandin E2,Fulminant Hepatitis,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C3852938,C0010823,PREVENTS,letermovir,Cytomegalovirus Infections,orch,dsyn,4,PREVENTS_ORCHprevDSYN
+C3884266,C0019360,PREVENTS,adjuvant system 01,Herpes zoster disease,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C3886763,C0010823,PREVENTS,brincidofovir,Cytomegalovirus Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4033620,C0015695,PREVENTS,ORKAMBI,Fatty Liver,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4040017,C5203670,PREVENTS,Stearoylcarnitine,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4043480,C0342649,PREVENTS,tenapanor,Vascular calcification,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4044947,C1175175,PREVENTS,baricitinib,Severe Acute Respiratory Syndrome,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4045466,C0019196,PREVENTS,pradigastat,Hepatitis C,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4045511,C1561643,PREVENTS,finerenone,Chronic Kidney Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4288292,C0031090,PREVENTS,Resolvin,Periodontal Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4288292,C0036690,PREVENTS,Resolvin,Septicemia,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4506521,C0276289,PREVENTS,PF-6409577,Zika Virus Infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4507608,C0032285,PREVENTS,anemoside B4,Pneumonia,orch,dsyn,3,PREVENTS_ORCHprevDSYN
+C4520219,C0042769,PREVENTS,apabetalone,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4691335,C0042769,PREVENTS,PG(16:0/18:1(9Z)),Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4691335,C0748168,PREVENTS,PG(16:0/18:1(9Z)),Pulmonary Pathology,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4726677,C0035222,PREVENTS,remdesivir,"Respiratory Distress Syndrome, Adult",orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C4726677,C0042769,PREVENTS,remdesivir,Virus Diseases,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C4726677,C0442886,PREVENTS,remdesivir,Secondary Infections,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4726677,C0748168,PREVENTS,remdesivir,Pulmonary Pathology,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4726677,C1175175,PREVENTS,remdesivir,Severe Acute Respiratory Syndrome,orch,dsyn,2,PREVENTS_ORCHprevDSYN
+C4726677,C5203670,PREVENTS,remdesivir,COVID-19,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4744839,C0042769,PREVENTS,Pharmacological Ascorbate,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C4760589,C1258666,PREVENTS,Acyclic Diarylheptanoids,Myxoid cyst,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C5198074,C0262655,PREVENTS,salmochelin,Recurrent urinary tract infection,orch,dsyn,1,PREVENTS_ORCHprevDSYN
+C5226730,C0042769,PREVENTS,CRV-431,Virus Diseases,orch,dsyn,1,PREVENTS_ORCHprevDSYN

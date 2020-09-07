@@ -1,0 +1,894 @@
+cui,type,name
+C0000886,cell,Acanthocytes
+C0001280,cell,Armed macrophage
+C0002449,cell,Ameloblasts
+C0003154,cell,Anterior Horn Cells
+C0003273,cell,Antibody-Producing Cells
+C0003315,cell,Antigen-Presenting Cells
+C0004112,cell,Astrocytes
+C0004561,cell,B-Lymphocytes
+C0004827,cell,Basophils
+C0005773,cell,Blood Cells
+C0005821,cell,Blood Platelets
+C0005955,cell,Bone Marrow Cells
+C0007600,cell,Cultured Cell Line
+C0007601,cell,"Cell Line, Transformed"
+C0007635,cell,Cultured Cells
+C0008010,cell,Chemoreceptor Cells
+C0008572,cell,Chromatophore
+C0009013,cell,Clone Cells
+C0009781,cell,Connective Tissue Cells
+C0011306,cell,Dendritic Cells
+C0014355,cell,Argentaffin Cell
+C0014467,cell,eosinophil
+C0014597,cell,Epithelial Cells
+C0014603,cell,Epithelioid Cells
+C0014762,cell,Erythroblasts
+C0014792,cell,Erythrocytes
+C0014802,cell,Erythroid Precursor Cells
+C0015161,cell,Eukaryotic Cells
+C0016030,cell,Fibroblasts
+C0016390,cell,Foam Cells
+C0017471,cell,Germ Cells
+C0017473,cell,Germ Line
+C0017526,cell,Giant Cells
+C0017527,cell,"Giant Cells, Foreign-Body"
+C0017528,cell,"Giant Cells, Langhans"
+C0018183,cell,granulocyte
+C0018207,cell,granulosa cell
+C0018496,cell,Auditory Hair Cell
+C0018497,cell,Inner Auditory Hair Cells
+C0018873,cell,HeLa Cells
+C0018894,cell,Helper-Inducer T-Lymphocyte
+C0018956,cell,Hematopoietic stem cells
+C0019000,cell,Hemocytes (cell)
+C0019612,cell,Histiocytes
+C0020200,cell,Hybrid Cells
+C0020204,cell,Hybridomas
+C0021792,cell,Interneurons
+C0022539,cell,KB Cells
+C0022567,cell,keratinocyte
+C0022686,cell,Killer Cells
+C0022687,cell,Lymphokine-Activated Killer Cells
+C0022688,cell,Natural Killer Cells
+C0022801,cell,Hepatic macrophage
+C0022827,cell,L Cells
+C0023005,cell,Langerhans cell
+C0023172,cell,Lupus erythematosus cell
+C0023516,cell,Leukocytes
+C0023517,cell,Nongranular leukocyte
+C0023602,cell,Structure of interstitial cell of Leydig
+C0024156,cell,Luteal Cells
+C0024264,cell,Lymphocyte
+C0024265,cell,Null cell
+C0024432,cell,macrophage
+C0024880,cell,mast cell
+C0025032,cell,Mechanoreceptors
+C0025166,cell,Megakaryocytes
+C0025201,cell,melanocyte
+C0025207,cell,Melanophores
+C0026473,cell,Monocytes
+C0026609,cell,Motor Neurons
+C0027625,cell,Circulating Neoplastic Cells
+C0027836,cell,Neuroglia
+C0027882,cell,Neurons
+C0027883,cell,Afferent neuron
+C0027884,cell,"Neurons, Efferent"
+C0027950,cell,neutrophil
+C0028875,cell,Odontoblasts
+C0028876,cell,Odontoclasts
+C0028944,cell,Oligodendroglia
+C0029045,cell,Oocytes
+C0029418,cell,Osteoblasts
+C0029431,cell,Osteoclasts
+C0029432,cell,Osteocytes
+C0029974,cell,Ovum
+C0030280,cell,Structure of alpha Cell of islet
+C0030281,cell,Structure of beta Cell of islet
+C0030559,cell,"Parietal Cells, Gastric"
+C0031307,cell,Phagocytes
+C0031760,cell,Photoreceptors
+C0032112,cell,Plasma Cells
+C0033416,cell,Promyelocytes
+C0033731,cell,Protoplasts
+C0034143,cell,Purkinje Cells
+C0034964,cell,Regenerating muscle fiber
+C0035286,cell,Reticulocytes
+C0035316,cell,Retinal Ganglion Cells
+C0036387,cell,Schwann Cells
+C0036770,cell,Structure of sertoli cell
+C0037857,cell,Spermatid
+C0037863,cell,Spermatocytes
+C0037866,cell,Spermatogonia
+C0037868,cell,sperm cell
+C0037890,cell,Spheroplasts
+C0038250,cell,Stem cells
+C0038856,cell,Suppressor T Lymphocyte
+C0039194,cell,T-Lymphocyte
+C0039195,cell,Cytotoxic T-Lymphocytes
+C0039198,cell,Regulatory T-Lymphocytes
+C0039215,cell,CD4 Positive T Lymphocytes
+C0039748,cell,theca cell
+C0041362,cell,"Tumor Cells, Cultured"
+C0042542,cell,Vero Cells
+C0079722,cell,"Lymphocytes, Tumor-Infiltrating"
+C0080202,cell,T-Lymphocyte Subsets
+C0085080,cell,Chinese Hamster Ovary Cell
+C0085087,cell,3T3 Cells
+C0085133,cell,Reed-Sternberg Cells
+C0085236,cell,"Macrophages, Alveolar"
+C0085262,cell,PC12 Cells
+C0085820,cell,Antibody-Secreting Cells
+C0085983,cell,"Cell Line, Tumor"
+C0086574,cell,Lymphoid Cells
+C0162597,cell,Stromal Cells
+C0178708,cell,immortalized cell
+C0205832,cell,Merkel Cells
+C0206116,cell,Microglia
+C0206131,cell,Adipocytes
+C0206152,cell,Cell Transplants
+C0206190,cell,"Macrophages, Peritoneal"
+C0206427,cell,Rod Photoreceptors
+C0206428,cell,Retinal Cone
+C0206441,cell,Pyramidal Cells
+C0206511,cell,"Hair Cells, Vestibular"
+C0206513,cell,Type 2 vestibular sensory cell
+C0221266,cell,Dacryocyte (cell)
+C0221279,cell,Burr cell
+C0221280,cell,Elliptocyte (cell)
+C0221282,cell,Schistocyte
+C0221283,cell,Drepanocyte (cell)
+C0221284,cell,Leptocyte
+C0221910,cell,Squamous Epithelial Cells
+C0222677,cell,Cell of bone
+C0222678,cell,Undifferentiated mesenchymal cell
+C0224522,cell,Synoviocytes
+C0225332,cell,Fibrocyte
+C0225335,cell,Mesothelial cell
+C0225336,cell,Endothelial Cells
+C0225338,cell,Columnar epithelial cell
+C0225340,cell,Transitional Epithelial Cells
+C0225356,cell,Myoepithelial cell
+C0225360,cell,Myofibroblasts
+C0225368,cell,Chondroblasts
+C0225369,cell,Chondrocyte
+C0225667,cell,Dense-core granulated cell
+C0225668,cell,Clara cell
+C0225698,cell,Alveolar Epithelial Cells
+C0225699,cell,Type-I Pneumocytes
+C0225700,cell,Type-II Pneumocytes
+C0225828,cell,"Myocytes, Cardiac"
+C0227276,cell,Paneth Cells
+C0227525,cell,Hepatocyte
+C0227531,cell,Ito Cells
+C0227599,cell,Transitional epithelial cell of urinary bladder
+C0227650,cell,Juxtaglomerular cell
+C0227651,cell,"Mesangial Cells, Kidney"
+C0227693,cell,Umbrella cell
+C0227882,cell,Secondary oocyte
+C0228008,cell,Primary spermatocyte
+C0228071,cell,Ganglion cell
+C0228072,cell,Large neuron
+C0228075,cell,Small neuron
+C0228087,cell,Macroglia
+C0228089,cell,Protoplasmic astrocyte
+C0228090,cell,Fibrillary astrocyte
+C0228092,cell,Ependymal cell
+C0229216,cell,Amacrine Cells
+C0229471,cell,Phalangeal cell of cochlea
+C0229473,cell,Cell of Claudius
+C0229525,cell,Endocrine Cells
+C0229535,cell,Pituitary cell
+C0229545,cell,Pituicyte
+C0229568,cell,Adrenal medulllary cell
+C0229571,cell,Type I cell of carotid body
+C0229579,cell,Structure of thyroid parafollicular cell
+C0229598,cell,Structure of delta Cell of islet
+C0229604,cell,Reticuloendothelial cell
+C0229606,cell,Reticulum cell
+C0229610,cell,Tissue eosinophil
+C0229613,cell,lymphoblast
+C0229616,cell,Small lymphocyte
+C0229617,cell,Medium sized lymphocyte
+C0229630,cell,Sideroblast
+C0229633,cell,myeloblast
+C0229649,cell,Heterophil
+C0229650,cell,Megakaryoblasts
+C0229655,cell,monoblast
+C0229656,cell,Promonocyte
+C0229657,cell,Plasmablast (cell)
+C0229659,cell,Myelomonocyte
+C0229892,cell,Lymph lymphocyte
+C0229951,cell,Thymic epithelial cell
+C0230517,cell,Dividing cell
+C0230518,cell,Mitotic cell
+C0231044,cell,Structure of primordial sex cell
+C0242245,cell,"Dendritic Cells, Follicular"
+C0242598,cell,LLC-PK1 Cells
+C0242629,cell,CD8-Positive T-Lymphocytes
+C0242632,cell,T-helper cell type 1
+C0242633,cell,T-helper cell type 2
+C0242697,cell,Muscle Fibers
+C0242874,cell,"Muscle Fibers, Slow-Twitch"
+C0282479,cell,"Muscle Fibers, Red"
+C0282480,cell,"Muscle Fibers, White"
+C0282501,cell,"Spheroids, Cellular"
+C0282542,cell,"Cells, Immobilized"
+C0282549,cell,HL-60 Cells
+C0282560,cell,Caco-2 Cells
+C0282639,cell,HT29 Cells
+C0301863,cell,U lymphocyte
+C0301868,cell,Committed cell
+C0312737,cell,Immunologic cell
+C0312738,cell,Pre-B Lymphocytes
+C0312740,cell,Immune effector cell
+C0312864,cell,Sensitized cell
+C0312865,cell,Sensitized red cell
+C0312866,cell,Sensitized leukocyte
+C0314585,cell,Diffusion chamber colony-forming unit
+C0314587,cell,Colony-forming unit of granulocytic lineage (cell)
+C0314589,cell,Granulocyte-Macrophage Colony Forming Units
+C0314592,cell,Colony-forming unit of macrophagocytic lineage
+C0314593,cell,Colony-forming unit of megakarocytic lineage
+C0314596,cell,Spleen colony-forming unit
+C0333633,cell,Hemosiderin-laden macrophage
+C0333717,cell,Abnormal cell
+C0333718,cell,Anuclear cell
+C0333721,cell,Fusiform cell
+C0333722,cell,Tadpole cell
+C0333723,cell,Folded cell
+C0333727,cell,Signet ring cell
+C0333735,cell,Gemistocyte
+C0333738,cell,Fat-laden macrophage
+C0333739,cell,Pinocytotic cell
+C0333742,cell,Syncytial cell
+C0333769,cell,Vacuolated fibers
+C0333770,cell,Ring fibers
+C0333800,cell,Blister cell
+C0333809,cell,Microcytic hypochromic erythrocyte
+C0333823,cell,Smudge cell
+C0333825,cell,Lymphoplasmacytoid Cell
+C0333827,cell,Monocytoid cell
+C0333833,cell,Ragocyte
+C0333837,cell,Gaucher cell
+C0333843,cell,Myeloma cell
+C0333850,cell,Hairy cell
+C0333859,cell,Convoluted cell
+C0334227,cell,"Tumor cells, malignant"
+C0369668,cell,Microcytic erythrocyte (cell)
+C0369715,cell,Myelocytes
+C0376448,cell,Jurkat Cells
+C0376604,cell,Chromaffin Cells
+C0376702,cell,COS Cells
+C0391864,cell,Cytomegaly
+C0393073,cell,autologous Epstein-Barr virus-specific cytotoxic T lymphocytes (cell)
+C0427526,cell,Large granular lymphocyte
+C0427529,cell,Smear cell
+C0427530,cell,Lymphosarcoma cell
+C0427534,cell,Agranular white blood cell
+C0427536,cell,white blood cell type
+C0427889,cell,Vaginal epithelial cell
+C0432611,cell,Stab form
+C0440740,cell,Granulocyte-specific
+C0440745,cell,Pigment cell
+C0440752,cell,Inflammatory cell
+C0443611,cell,Fat globule
+C0444641,cell,Synovial fluid cells
+C0444746,cell,Endocyte
+C0483191,cell,cd4 and cd8+
+C0487470,cell,Round Cells
+C0506994,cell,Goblet Cells
+C0521184,cell,Atypical squamous cells of uncertain significance
+C0521392,cell,Peripheral motor neuron
+C0524458,cell,Upper motor neuron
+C0524459,cell,Lower motor neuron
+C0524977,cell,Intestinal L Cells
+C0524979,cell,Enteroendocrine Cell
+C0524980,cell,Enterochromaffin-like Cells
+C0524983,cell,Gastrin-Secreting Cells
+C0524984,cell,Somatostatin-Secreting Cells
+C0524987,cell,"Chief Cells, Gastric"
+C0545577,cell,Marrow plasma cell
+C0545585,cell,Blood small lymphocyte
+C0545589,cell,Blood monocytic cell
+C0552337,cell,bladder cells
+C0552639,cell,tubular cells
+C0553257,cell,Epithelial cell of renal tubule
+C0596030,cell,Acinar Cell
+C0596108,cell,antibody dependent killer cell
+C0596155,cell,Basal Cell
+C0596208,cell,brain cell
+C0596508,cell,Embryonic Stem Cells
+C0596568,cell,fiber cell
+C0596630,cell,granule cell
+C0596698,cell,heterokaryon
+C0596713,cell,horizontal cell
+C0596890,cell,MCF-7 Cells
+C0596979,cell,Muller Cells
+C0596981,cell,Muscle Cells
+C0596993,cell,Myeloid Progenitor Cells
+C0596995,cell,Myoblasts
+C0597032,cell,Neoplastic Cell
+C0597447,cell,Sf9 cell line
+C0597690,cell,WI38 cell
+C0597694,cell,Xenopus oocyte
+C0598088,cell,continuous cell line
+C0598089,cell,established cell line
+C0598090,cell,permanent cell line
+C0598091,cell,stable cell line
+C0598102,cell,polarized cell
+C0598117,cell,stellate cell
+C0598170,cell,Melanoblast
+C0598536,cell,follicular epithelial cell
+C0598613,cell,HTC cell
+C0598786,cell,Ground Glass Hepatocyte
+C0598800,cell,Pericytes
+C0598829,cell,Madin Darby Canine Kidney Cells
+C0599415,cell,Spodoptera frugiperda cell line
+C0599455,cell,sperm protein
+C0599757,cell,Microfold cell
+C0599856,cell,Muscle satellite cell
+C0600432,cell,K562 Cells
+C0600531,cell,U937 Cells
+C0677626,cell,hepatoma cell
+C0677646,cell,crypt cell
+C0677856,cell,autologous lymphocytes
+C0682517,cell,animal cell line
+C0682519,cell,rodent cell line
+C0682520,cell,canine cell line
+C0682521,cell,primate cell line
+C0682522,cell,AGMK cell
+C0682523,cell,Human Cell Line
+C0682524,cell,fibroblast cell line
+C0682526,cell,lymphoblastoid cell line
+C0682527,cell,hybrid cell line
+C0682538,cell,intact cell
+C0682539,cell,cuboid cell
+C0682540,cell,spindle cell
+C0682542,cell,ciliated cell
+C0682544,cell,neutrophilic cell
+C0682545,cell,Basophil cell
+C0682546,cell,Acidophil cell
+C0682552,cell,Parenchymal cell
+C0682610,cell,Enterocytes
+C0682613,cell,hepatocyte structure
+C0682638,cell,Memory B-Lymphocyte
+C0682639,cell,Memory T-Lymphocyte
+C0682689,cell,neuron type
+C0682690,cell,primary sensory neuron
+C0682693,cell,Autonomic ganglion neuron
+C0682694,cell,Inhibitory interneuron
+C0682698,cell,Projection neuron
+C0682700,cell,Peripheral neuron
+C0682701,cell,Central neuron
+C0682702,cell,Cerebellar neuron
+C0684135,cell,short neurons
+C0734999,cell,Exocrine cell
+C0806036,cell,Renal epithelial cell
+C0806987,cell,Mononuclear cells
+C0808143,cell,Synovial lining cells
+C0814005,cell,Neuroblast
+C0814990,cell,neural cell line
+C0814995,cell,Skin cell
+C0814997,cell,Intestinal cell
+C0814999,cell,thymocyte
+C0815000,cell,neuroblastoma cell
+C0815002,cell,GABAergic Neurons
+C0815004,cell,Neural Crest Cells
+C0872076,cell,Pluripotent Stem Cells
+C0872357,cell,oval cell
+C0872362,cell,primitive cell
+C0872372,cell,Totipotent Stem Cells
+C0879438,cell,Allogeneic Lymphocyte
+C0879593,cell,therapeutic autologous dendritic cells
+C0882768,cell,Cell positive for CD1 antigen
+C0882784,cell,Cell positive for CD11C antigen
+C0882791,cell,Cell positive for CD13 antigen
+C0882808,cell,Cell positive for CD19 antigen
+C0882814,cell,CD2+ cell
+C0882818,cell,Cell positive for CD20 antigen
+C0882819,cell,CD22+ cell
+C0882828,cell,Cell positive for CD3 antigen
+C0882833,cell,CD3+CD4+ cell
+C0882836,cell,CD3+CD8+ cell
+C0882846,cell,Cell positive for CD33 antigen
+C0882849,cell,Cell positive for CD34 antigen
+C0882892,cell,Cell positive for CD5 antigen
+C0882903,cell,Cell positive for CD56 antigen
+C0883208,cell,Lymphoma cells
+C0883468,cell,CD16+CD56+ cell
+C0887899,cell,Myeloid Cells
+C0920751,cell,Heart cell
+C0933799,cell,Ciliated columnar cell
+C0933804,cell,Type B synoviocyte
+C0935440,cell,Cuboidal cell
+C0945928,cell,Cell positive for CD38 antigen
+C0945933,cell,CD45+ cell
+C0947286,cell,Cell positive for CD14 antigen
+C0949431,cell,TC1 Cells
+C0949666,cell,Oxyphil Cells
+C1113654,cell,Neural Stem Cells
+C1113687,cell,human embryonic stem cell line
+C1135917,cell,"Myoblasts, Cardiac"
+C1135918,cell,"Myocytes, Smooth Muscle"
+C1135922,cell,"Myoblasts, Skeletal"
+C1135969,cell,Large Luteal Cells
+C1136335,cell,Multipotent Stem Cells
+C1148382,cell,Monocytes+Macrophages
+C1148429,cell,Unidentified cell
+C1171322,cell,Adult Stem Cells
+C1171346,cell,Human Embryonic Stem Cells
+C1179009,cell,Retinal pigment cell
+C1179114,cell,Basal cell of olfactory epithelium
+C1179186,cell,Serous cell
+C1179517,cell,Acinar cell of pancreas
+C1179554,cell,Pancreatic ductal cell
+C1179870,cell,Nodal myocyte
+C1180059,cell,Nucleated cell
+C1180238,cell,Capillary Endothelial Cells
+C1180326,cell,Olfactory epithelial cell
+C1180350,cell,Taste bud cell
+C1180392,cell,Brush cell
+C1180924,cell,Non-nucleated cell
+C1180925,cell,Corneocyte
+C1181052,cell,Thyroid Gland Follicular Cell
+C1181163,cell,Set of central neuroglial cells
+C1182459,cell,Differentiated muscle cell
+C1182604,cell,Stem cell of epidermis
+C1182605,cell,Ciliated columnar cell of tracheobronchial tree
+C1182610,cell,Corneal epithelial cell
+C1182611,cell,Conjunctival epithelial cell
+C1182623,cell,Unipotent stem cell
+C1182635,cell,Follicular cell of ovary
+C1182645,cell,Ciliary epithelial cell
+C1182646,cell,Pigmented ciliary epithelial cell
+C1182647,cell,Non-pigmented ciliary epithelial cell
+C1182654,cell,Corneal endothelial cell
+C1182776,cell,Lens cell
+C1182789,cell,Epithelial cell of visceral layer of glomerular capsule
+C1182791,cell,Glomerular endothelial cell
+C1183428,cell,Solocyte
+C1183495,cell,Ectodermal cell
+C1183499,cell,Mesodermal cell
+C1183500,cell,Endodermal cell
+C1253961,cell,Colligocyte
+C1254573,cell,Mature erythrocyte
+C1257739,cell,NIH 3T3 Cells
+C1257740,cell,Swiss 3T3 Cells
+C1257741,cell,BALB 3T3 Cells
+C1257743,cell,3T3-L1 Cells
+C1257751,cell,Erythroid Cells
+C1257771,cell,"Burst-Forming Units, Erythroid"
+C1257772,cell,"Colony-Forming Units, Erythroid"
+C1257792,cell,Vascular Endothelial Cells
+C1257793,cell,Lymphatic Endothelial Cells
+C1257857,cell,COS-1 Cells
+C1257858,cell,COS-7 Cells
+C1257909,cell,Diploid Cell
+C1257910,cell,Aneuploid Cell
+C1257912,cell,Haploid Cell
+C1257913,cell,Polyploid Cell
+C1257975,cell,Mesenchymal Stem Cells
+C1258005,cell,HCT116 Cells
+C1265905,cell,Oat cell
+C1266872,cell,Renal tubular epithelial cell
+C1266873,cell,Bladder epithelial cell
+C1266875,cell,Epidermal Langerhans cell
+C1267817,cell,Lymphocyte positive for both CD3 antigen and CD16 antigen
+C1267821,cell,T lymphocyte positive for both CD3 antigen and CD4 antigen
+C1267822,cell,CD4+ CD25+ Regulatory T Cells
+C1267875,cell,Lymphocyte positive for CD16 antigen
+C1267926,cell,Lymphocyte positive for CD44 antigen
+C1267932,cell,Lymphocyte positive for CD45RO antigen
+C1267982,cell,Lymphocyte positive for CD95 antigen
+C1268005,cell,Hematopoietic precursor cell
+C1268006,cell,Neutrophilic granulocytic cell
+C1268007,cell,Myeloid precursor cell
+C1268008,cell,Eosinophilic granulocytic cell
+C1268009,cell,Basophilic granulocytic cell
+C1268010,cell,Megakaryocytic cell
+C1269647,cell,Entire cell
+C1272578,cell,Skin fibroblast
+C1275629,cell,Keratocyte
+C1278781,cell,Entire thyroid parafollicular cell
+C1292097,cell,IgA B lymphocyte
+C1292098,cell,IgD B lymphocyte
+C1292099,cell,IgE B lymphocyte
+C1292100,cell,IgG B lymphocyte
+C1292101,cell,IgM B lymphocyte
+C1301171,cell,Eccentrocyte
+C1317511,cell,Lymphocytes.immunoblastic
+C1317543,cell,Immature monocytes
+C1321301,cell,Peripheral blood mononuclear cell (cell)
+C1328818,cell,Podocytes
+C1440231,cell,Cell positive for BCL2 protein
+C1440237,cell,Cell positive for CD105 antigen
+C1440239,cell,Cell positive for CD107a antigen
+C1440277,cell,CD28+ cell
+C1440293,cell,Cells.CD31
+C1440318,cell,Cells.CD46
+C1440359,cell,Cells.CD80
+C1440371,cell,Cells.CD95
+C1440394,cell,Cells.S phase
+C1441017,cell,Neutrophil cytoplasmic
+C1441322,cell,Viable cells
+C1441340,cell,100 cells
+C1441341,cell,100 erythrocytes
+C1441343,cell,100 lymphocytes
+C1441345,cell,100 spermatozoa
+C1441375,cell,Cells.total
+C1442179,cell,Amniotic Fluid cells
+C1449623,cell,Neuroepithelial Bodies
+C1449624,cell,Neuroepithelial Cells
+C1455888,cell,Atypical Glandular Cell
+C1510719,cell,Abnormal Endothelial Cell
+C1510779,cell,Adenocarcinoma Cell
+C1510965,cell,Atypical Squamous Cells
+C1510985,cell,Autologous Tumor Cell
+C1511178,cell,Bipolar neuron
+C1511246,cell,Bone marrow stem cell
+C1511446,cell,Mouse Oligodendroglial Cell
+C1511465,cell,CY40
+C1511548,cell,Cryopreserved Cell
+C1511740,cell,Decidual cell
+C1511762,cell,Mouse Dendritic Cell
+C1512035,cell,Dopaminergic Neurons
+C1512085,cell,Ductal Epithelial Cell
+C1512099,cell,Dyskeratotic Keratinocyte
+C1512100,cell,Dysplastic Epithelial Cell
+C1512140,cell,ES Cell Line
+C1512199,cell,Glomerular Mesangial Cells
+C1512310,cell,HL60
+C1512333,cell,Hamster Cell Line
+C1512336,cell,HeLa S3
+C1512478,cell,Hodgkin Cell
+C1512505,cell,Breast Cancer Cell
+C1512549,cell,Hyperchromatic Megakaryocyte
+C1512631,cell,Immature B-Lymphocyte
+C1512642,cell,Immature T-Lymphocyte
+C1512865,cell,Intermediate Type Trophoblastic Cell
+C1512899,cell,Interphase Cell
+C1512944,cell,Intraepithelial Lymphocytes
+C1512977,cell,Mammalian Cell
+C1513019,cell,Mature B-Lymphocyte
+C1513026,cell,Mature Lymphocyte
+C1513029,cell,Mature T-Lymphocyte
+C1513032,cell,Mature Thymocyte
+C1513095,cell,Melanoma Cell
+C1513123,cell,Meningothelial cell
+C1513170,cell,Metaplastic Cell
+C1513176,cell,Metaplastic Squamous Cell
+C1513410,cell,Monkey Cell Line
+C1513469,cell,Monocytoid B-Lymphocyte
+C1513493,cell,Mott Cell
+C1513528,cell,Mouse Cell Line
+C1513715,cell,Mucinous Bronchial Cell
+C1513729,cell,Mucus-Secreting Cell
+C1513752,cell,Multipolar neuron
+C1513872,cell,Naive Pregerminal Center B-Lymphocyte
+C1513956,cell,Neoplastic Endothelial Cell
+C1513959,cell,Neoplastic Epithelial Cell
+C1514011,cell,Neoplastic Lymphocyte
+C1514022,cell,Neoplastic Melanocyte
+C1514058,cell,Neoplastic Plasma Cell
+C1514161,cell,Mouse Platelet
+C1514170,cell,Pleomorphic Cell
+C1514182,cell,Mesothelial cell of pleura
+C1514205,cell,Polylobated T-Lymphocyte
+C1514302,cell,Precursor Natural Killer Cell
+C1514392,cell,Premalignant Cell
+C1514435,cell,Primitive Mesenchymal Cell
+C1514657,cell,RL13
+C1514716,cell,Raji Cell
+C1514732,cell,Rat-1
+C1514733,cell,Rat Cell Line
+C1514736,cell,Reactive Epithelial Cell
+C1514741,cell,Reactive Squamous Cell
+C1514760,cell,Receptor Cell
+C1514842,cell,Renal interstitial cell
+C1514890,cell,Reserve Cell
+C1514891,cell,Reserve Stem Cell
+C1514934,cell,Rhabdomyoblast
+C1514965,cell,Mouse Stem Cell
+C1514994,cell,Striated muscle cell
+C1515077,cell,Olfactory Supporting Cell
+C1515108,cell,Syncytiotrophoblast cell
+C1515138,cell,Precursor T-Lymphoblast
+C1515146,cell,TE03
+C1515313,cell,Mouse Testicular Interstitial Cell
+C1515314,cell,Mouse Leydig Cell
+C1515878,cell,Activated B-Lymphocyte
+C1515879,cell,Activated Lymphocyte
+C1515881,cell,Activated Natural Killer Cell
+C1515964,cell,Anaplastic Cell
+C1515989,cell,Angioblast
+C1516097,cell,B lymphoblast
+C1516469,cell,Chicken Cells
+C1516470,cell,Chief cell
+C1516515,cell,Chromophobe cell
+C1516859,cell,Stromal cell of endometrium
+C1516943,cell,Epithelial Receptor Cell
+C1516944,cell,Epithelial Reticular Cell
+C1516965,cell,Keratinized squamous cell of esophagus
+C1517304,cell,Foveolar cell
+C1517358,cell,GE91
+C1517451,cell,Glandular cell of stomach
+C1517530,cell,Mouse Germ Cell
+C1517532,cell,Germinal Center B-Lymphocyte
+C1517540,cell,Giant Astrocyte
+C1517544,cell,Giant Epithelial Cell
+C1517548,cell,Glandular cell
+C1517631,cell,K-562
+C1517714,cell,Lactotrophs
+C1517733,cell,Large Megakaryocyte
+C1517735,cell,Centroblast
+C1517806,cell,Leukemic Cell
+C1517807,cell,Leukemic Hematopoietic Stem Cell
+C1517808,cell,Leukemic Lymphocyte
+C1517811,cell,Leukemic Plasma Cell
+C1517881,cell,Light Cell
+C1517917,cell,Hepatic stem cell
+C1517919,cell,Lobular Carcinoma Cell
+C1518068,cell,Popcorn Cell
+C1518174,cell,Malignant Epithelial Cell
+C1518245,cell,Malignant Squamous Cell
+C1518272,cell,Neuroectodermal Cell
+C1518275,cell,Neuroendocrine Cells
+C1518311,cell,Nevus cell
+C1518565,cell,Olfactory Receptor Cells
+C1518629,cell,Osteoclast-Like Giant Cell
+C1518981,cell,Perineural Cell
+C1518985,cell,Perineurial Cell
+C1518994,cell,Peripheral B-Lymphocyte
+C1518997,cell,Peripheral Blood Lymphocyte
+C1518999,cell,Peripheral Blood Stem Cells
+C1519010,cell,Mesothelial cell of peritoneum
+C1519090,cell,Pinealocyte
+C1519221,cell,Secretory cell
+C1519354,cell,Skin squamous cell
+C1519373,cell,Goblet cell of small intestine
+C1519424,cell,Somatotrophs
+C1519442,cell,Specialized epithelial cell
+C1519449,cell,Spermatogenic Cell
+C1519477,cell,Splenocyte
+C1519513,cell,Pituitary TSH-Secreting Cells
+C1519515,cell,Tingible Body Macrophage
+C1519550,cell,Dental pulp cell
+C1519658,cell,Trophoblast cell
+C1519712,cell,Type III Epithelial Receptor Cell
+C1519715,cell,Type II Epithelial Receptor Cell
+C1519718,cell,Intercalated cell of collecting duct of renal tubule
+C1519720,cell,Type I Epithelial Receptor Cell
+C1520027,cell,Preganglionic neuron
+C1522072,cell,Skin - Epidermis - Keratinocyte (MMHCC)
+C1522074,cell,Skin - Melanocyte (MMHCC)
+C1522109,cell,Leukocyte - Lymphocyte - B-Lymphocyte (MMHCC)
+C1522131,cell,Leukocyte - Lymphocyte - T-Lymphocyte (MMHCC)
+C1522151,cell,Leukocyte - Lymphocyte - Thymocyte (MMHCC)
+C1522165,cell,Leukocyte - Myelocyte (Granulocyte) - Basophil - Mast Cell (MMHCC)
+C1522173,cell,CNS - Brain - Astrocyte (MMHCC)
+C1522214,cell,Endocrine Pancreas - Islet Cell of Langerhans - Beta Cell (MMHCC)
+C1522260,cell,Connective Tissue - Fibroblasts (MMHCC)
+C1522406,cell,interstitial cell
+C1522445,cell,Interdigitating Dendritic Cell
+C1522529,cell,Islet Cell
+C1522639,cell,Leukocyte (WBC) (MMHCC)
+C1522667,cell,Leukocyte - Monocyte (MMHCC)
+C1522703,cell,Leukocyte - Lymphocyte (MMHCC)
+C1523993,cell,Leukocyte - Monocyte - Macrophage (MMHCC)
+C1524008,cell,Leukocyte - Natural Killer Cell (MMHCC)
+C1524102,cell,Leukocyte - Myelocyte (Granulocyte) - Neutrophil (MMHCC)
+C1524111,cell,Erythrocyte (RBC) (MMHCC)
+C1563925,cell,Tr1 Cells
+C1563926,cell,Th3 Cells
+C1622423,cell,polymorphonuclear granulocyte
+C1636284,cell,Cord blood stem cell
+C1640380,cell,Bone Marrow Stromal Cells
+C1704336,cell,Skeletal Myocytes
+C1706725,cell,Adrenal Cortical Cell
+C1706828,cell,Apocrine Cell
+C1707524,cell,Corticotroph
+C1707879,cell,Eccrine Cell
+C1707937,cell,Epithelial Stem Cell
+C1708248,cell,Gonadotrophs
+C1708270,cell,Ex Vivo-Expanded HER2-Specific T Cells
+C1709771,cell,Pulmonary Neuroendocrine Cell
+C1710401,cell,Thymic Medullary Epithelial Cell
+C1710528,cell,Umbilical Cord Blood Stem Cell
+C1711172,cell,therapeutic autologous lymphocytes
+C1711178,cell,Bronchial Epithelial Cell
+C1717630,cell,Bizarre cells
+C1720857,cell,"Adipocytes, Brown"
+C1720858,cell,"Adipocytes, White"
+C1721044,cell,Fetal Stem Cells
+C1861193,cell,THROMBOCYTE B
+C1879680,cell,Remestemcel-L
+C1883178,cell,Subclone
+C1883279,cell,Terminal Duct Cell
+C1953343,cell,Chromosome number
+C1953382,cell,Forward primer
+C1955314,cell,Leukemia markers
+C1955926,cell,Pro-B Lymphocytes
+C1955939,cell,Lymphoid Progenitor Cells
+C1955940,cell,Common Lymphoid Progenitors
+C1955941,cell,"Precursor Cells, T-Lymphoid"
+C1956101,cell,Cumulus Cells
+C1956120,cell,Dermal Dendritic Cells
+C1956121,cell,Skin Dendritic Cells
+C1956319,cell,Common Myeloid Progenitors
+C1956385,cell,Plasmacytoid Dendritic Cells
+C1956386,cell,Interstitial Dendritic Cells
+C1956421,cell,Neoplastic Stem Cells
+C1956422,cell,Cancer Stem Cells
+C1978802,cell,Cytokeratin cells
+C1979779,cell,Other cells
+C2322797,cell,Parasympathetic ganglion neuron
+C2323499,cell,Hematopoietic cell
+C2324639,cell,Retinal glial cell
+C2325162,cell,Primary afferent neuron
+C2325187,cell,Lens epithelial cell
+C2325623,cell,Pyramidal cell of precentral gyrus of cerebral hemisphere
+C2327527,cell,Sympathetic ganglion neuron
+C2327673,cell,Rod bipolar cell
+C2328196,cell,Sympathetic preganglionic neuron
+C2328697,cell,Hemal cell
+C2328961,cell,Type 1 vestibular sensory cell
+C2330894,cell,Retinal pigment epithelial cell
+C2330982,cell,Tanycytes
+C2331651,cell,Polar Bodies
+C2331667,cell,Type II of carotid body
+C2331938,cell,Diploid nucleated cell
+C2333349,cell,Retinal microglial cell
+C2333855,cell,Parasympathetic preganglionic neuron
+C2333949,cell,Cholinergic Neurons
+C2334011,cell,Wandering histiocyte
+C2335231,cell,Pulmonary interstitial fibroblast
+C2336257,cell,Pleural macrophage
+C2337419,cell,Splenic macrophage
+C2338017,cell,Neuron of retina
+C2339194,cell,Supporting cell
+C2339291,cell,Syncytial giant cell
+C2339528,cell,Retinal astrocyte
+C2340022,cell,Resting histiocyte
+C2340138,cell,Hepatic Stellate Cells
+C2347293,cell,Mononucleated Blood Cell
+C2347368,cell,Nucleated Blood Cell
+C2348032,cell,Cytokine-Induced Killer Cells
+C2350052,cell,Granulocyte Progenitor Cells
+C2350175,cell,Erythroid Progenitor Cells
+C2350243,cell,Granulocyte-Macrophage Progenitor Cells
+C2350244,cell,Megakaryocyte-Erythroid Progenitor Cells
+C2350245,cell,Megakaryocyte Progenitor Cells
+C2350246,cell,Monocyte-Macrophage Precursor Cells
+C2350331,cell,Retinal Neurons
+C2350466,cell,Natural Killer T-Cells
+C2350467,cell,Invariant Natural Killer T-Cells
+C2350831,cell,Retinal Photoreceptor Cells
+C2599885,cell,Immature neutrophils
+C2708700,cell,Immature cells
+C2709199,cell,Natural killer
+C2717773,cell,Gametophytes
+C2717940,cell,Hep G2 Cells
+C2717959,cell,Induced Pluripotent Stem Cells
+C2825117,cell,AlloStim
+C2924433,cell,Intestinal goblet cell
+C2924459,cell,Lymphocytes.variant
+C2936239,cell,HEK293 Cells
+C2936408,cell,Mesophyll Cells
+C2936411,cell,Th17 Cells
+C2936498,cell,Embryoid Bodies
+C2936598,cell,Pancreatic Stellate Cells
+C2936608,cell,Side-Population Cells
+C2952444,cell,Mononuclear phagocyte
+C2985405,cell,Nonspecific Immune Cell
+C2985406,cell,DU 145
+C3146292,cell,Mouse Basophil
+C3161470,cell,Cartilage Cell
+C3172555,cell,Ciliated epithelial cell
+C3178739,cell,Effector B Cells
+C3178740,cell,Be1 Cells
+C3178741,cell,Be2 Cells
+C3178760,cell,Mirror Neurons
+C3178783,cell,Serotonergic Neurons
+C3178785,cell,Adrenergic Neurons
+C3178786,cell,Noradrenergic Neurons
+C3178844,cell,Mesenchymal Stromal Cells
+C3178845,cell,Wharton Jelly Cells
+C3178867,cell,Plant Cells
+C3178914,cell,"B-Lymphocytes, Regulatory"
+C3179110,cell,Feeder Cells
+C3179121,cell,Human Umbilical Vein Endothelial Cells
+C3251824,cell,Cell positive for CD4 antigen
+C3272995,cell,Lymphoma TAA-specific Cytotoxic T Lymphocytes
+C3273371,cell,CD4 Positive Memory T-Lymphocyte
+C3282340,cell,"Cells, Cultured, Autologous"
+C3485979,cell,Allogeneic Cells
+C3488038,cell,human breast tumor cell
+C3494245,cell,Sf9 Cells
+C3494246,cell,Sf21 Cells
+C3496194,cell,Epidermal cells
+C3640949,cell,Inducible CD4+CD25+ Regulatory T Cells
+C3641721,cell,Naive T-Lymphocyte
+C3641722,cell,Effector T-Lymphocyte
+C3656689,cell,B cell+T cell
+C3658289,cell,Human Induced Pluripotent Stem Cells
+C3658291,cell,Adult Germline Stem Cells
+C3661481,cell,Radial Glial Cells
+C3686472,cell,Biliary epithelial cell
+C3714800,cell,SCID-Repopulating Cell
+C3811668,cell,Circulating Plasma Cell
+C3826603,cell,Cell metabolism
+C3826992,cell,Immature Myeloid Cell
+C3827031,cell,Activated Marrow Infiltrating Lymphocytes
+C3828361,cell,Recent Thymic Emigrant
+C3849991,cell,Glandular Epithelial Cells
+C3850017,cell,Endothelial Progenitor Cells
+C3871166,cell,2000 erythrocytes
+C3890720,cell,PC-3 cell line
+C3891065,cell,Mucosal-Associated Invariant T-Cell
+C3891660,cell,Tumor-Associated Macrophage
+C3896693,cell,Bone Marrow-Derived Cell
+C3896803,cell,Allogeneic Natural Killer Cell Line NK-92
+C3896829,cell,axicabtagene ciloleucel
+C3897252,cell,Umbilical Cord Blood-derived Natural Killer Cells
+C3899623,cell,Circulating Stem Cell
+C3899624,cell,Circulating Adipose Stromal Cell
+C3899739,cell,CXCL12-Abundant Reticular Cell
+C4038423,cell,cervical cells
+C4038460,cell,Non-hematopoietic stem cell
+C4042840,cell,RAW 264.7 Cells
+C4042879,cell,Mouse Embryonic Stem Cells
+C4054455,cell,Multinucleated Hepatocyte
+C4082186,cell,Degenerating muscle fiber
+C4082861,cell,Vascular smooth muscle cell
+C4084729,cell,Cardiac Stem Cell
+C4085194,cell,Conventional Dendritic Cell
+C4086555,cell,M2 Macrophage
+C4086901,cell,Therapeutic gamma delta T-lymphocytes
+C4086923,cell,Unselected Mononuclear Cell
+C4246476,cell,Ectomesenchymal cell
+C4246843,cell,Cranial neural crest cell
+C4249177,cell,Primitive endodermal cell
+C4277543,cell,Myeloid-Derived Suppressor Cells
+C4277548,cell,Cancer-Associated Fibroblasts
+C4277577,cell,A549 Cells
+C4277646,cell,Place Cells
+C4277680,cell,"Adipocytes, Beige"
+C4277737,cell,Grid Cells
+C4284002,cell,Type 1 Regulatory T-Cell
+C4289596,cell,Effector Memory T-Lymphocyte
+C4289823,cell,Central Memory T-Lymphocyte
+C4318752,cell,CD5+ T lymphocyte
+C4322670,cell,CD3+ T lymphocyte
+C4322671,cell,CD14+ myeloid cell
+C4322678,cell,Chromosome pair
+C4322733,cell,CD56+ NK cell
+C4322813,cell,CD44+ T lymphocyte
+C4322815,cell,CD45RO+ T lymphocyte
+C4330475,cell,Immune Cell
+C4331503,cell,Virus-specific Cytotoxic T-lymphocytes
+C4505105,cell,Oligodendrocyte Precursor Cells
+C4505192,cell,THP-1 Cells
+C4505243,cell,Suprachiasmatic Nucleus Neurons
+C4524911,cell,3D-expanded Placenta-derived Cells PLX-R18
+C4525597,cell,Autologous Peripheral Blood Mononuclear Cells
+C4527227,cell,Allogeneic CD19-specific Universal CAR19-expressing T-lymphocytes
+C4527316,cell,Chimeric Antigen Receptor T-cells
+C4527420,cell,T-cell Receptor-engineered T-cells
+C4528422,cell,NCI-60 Cell Line
+C4552764,cell,Mesenchymal Progenitor Cell
+C4684961,cell,Tabelecleucel
+C4697058,cell,Predominant leukocyte
+C4704950,cell,Adipose-Derived Mesenchymal Stem Cells
+C4704952,cell,Bone Marrow Mesenchymal Stem Cells
+C4722614,cell,Theralux-ATIR
+C4725789,cell,Autologous BCMA/TACI-targeted CAR T Cells AUTO2
+C4733590,cell,high efficiency killing T cells
+C4744501,cell,M1 Macrophage
+C4744787,cell,Alpha/Beta T-Lymphocyte
+C4744827,cell,Derived Cell Line
+C4744926,cell,Bone Marrow Mononuclear Cell
+C4761416,cell,Myeloid Stem Cell
+C4763339,cell,Axonic neuron
+C5148040,cell,Monocytes.CD14
+C5187201,cell,RBC^Patient

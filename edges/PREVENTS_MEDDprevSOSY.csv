@@ -1,0 +1,47 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005971,C0015672,PREVENTS,Bone plates,Fatigue,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0013119,C0849640,PREVENTS,Medical dressing,skin damage,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0024861,C0010200,PREVENTS,Masks,Coughing,medd,sosy,3,PREVENTS_MEDDprevSOSY
+C0024861,C0037090,PREVENTS,Masks,"Signs and Symptoms, Respiratory",medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0024861,C0037383,PREVENTS,Masks,Sneezing,medd,sosy,2,PREVENTS_MEDDprevSOSY
+C0024861,C0231748,PREVENTS,Masks,Giving-way,medd,sosy,3,PREVENTS_MEDDprevSOSY
+C0024861,C0392171,PREVENTS,Masks,Influenza-like symptoms,medd,sosy,2,PREVENTS_MEDDprevSOSY
+C0024861,C0740903,PREVENTS,Masks,allergic symptom,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0024861,C2926602,PREVENTS,Masks,"Discharge, body substance",medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0031246,C0849640,PREVENTS,Pessaries,skin damage,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0036605,C0015672,PREVENTS,Self-Help Devices,Fatigue,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0040289,C0030193,PREVENTS,Tissue Expansion Devices,Pain,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0042497,C0010200,PREVENTS,Mechanical Ventilator,Coughing,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0042497,C0027066,PREVENTS,Mechanical Ventilator,Myoclonus,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0042497,C0392171,PREVENTS,Mechanical Ventilator,Influenza-like symptoms,medd,sosy,3,PREVENTS_MEDDprevSOSY
+C0085104,C0011991,PREVENTS,Drug Delivery Systems,Diarrhea,medd,sosy,2,PREVENTS_MEDDprevSOSY
+C0150554,C0231918,PREVENTS,Douche device,Nose symptoms,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0175649,C0231749,PREVENTS,Prosthesis,Knee pain,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0175730,C0240557,PREVENTS,biomedical tube device,Irritation of nose,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0178987,C0010200,PREVENTS,Artificial Airways,Coughing,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0178987,C0013404,PREVENTS,Artificial Airways,Dyspnea,medd,sosy,2,PREVENTS_MEDDprevSOSY
+C0178987,C0392674,PREVENTS,Artificial Airways,Exhaustion,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0180504,C0010200,PREVENTS,Drapes (device),Coughing,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0181758,C0010200,PREVENTS,Surgical face mask,Coughing,medd,sosy,2,PREVENTS_MEDDprevSOSY
+C0181758,C0037383,PREVENTS,Surgical face mask,Sneezing,medd,sosy,2,PREVENTS_MEDDprevSOSY
+C0181758,C0392171,PREVENTS,Surgical face mask,Influenza-like symptoms,medd,sosy,4,PREVENTS_MEDDprevSOSY
+C0183086,C0011991,PREVENTS,sanitizers,Diarrhea,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0183086,C0392171,PREVENTS,sanitizers,Influenza-like symptoms,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0184054,C0010200,PREVENTS,Tray - device,Coughing,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0184165,C0010200,PREVENTS,Tubing,Coughing,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0184348,C0015967,PREVENTS,"Warmer, device",Fever,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0336630,C0010200,PREVENTS,Endotracheal tube,Coughing,medd,sosy,2,PREVENTS_MEDDprevSOSY
+C0336648,C0015672,PREVENTS,Alarm device,Fatigue,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0392220,C0030201,PREVENTS,scalpel,"Pain, Postoperative",medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0725865,C0010200,PREVENTS,disposable,Coughing,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0991556,C0087169,PREVENTS,Transdermal System,Withdrawal Symptoms,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C0994894,C0085631,PREVENTS,Patch Dosage Form,Agitation,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C1145640,C0085631,PREVENTS,"Central venous catheter, device",Agitation,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C1314650,C0011991,PREVENTS,"SUPPLY, NOT OTHERWISE SPECIFIED",Diarrhea,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C1314650,C0015967,PREVENTS,"SUPPLY, NOT OTHERWISE SPECIFIED",Fever,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C1314650,C0312422,PREVENTS,"SUPPLY, NOT OTHERWISE SPECIFIED",Blackout - symptom,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C1314650,C1397014,PREVENTS,"SUPPLY, NOT OTHERWISE SPECIFIED",Imbalance,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C1553636,C0011991,PREVENTS,Maxillary right second premolar abutment,Diarrhea,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C1706912,C0006625,PREVENTS,BARRIER,Cachexia,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C1706912,C0011991,PREVENTS,BARRIER,Diarrhea,medd,sosy,1,PREVENTS_MEDDprevSOSY
+C3495449,C0010200,PREVENTS,Mobility aid,Coughing,medd,sosy,1,PREVENTS_MEDDprevSOSY

@@ -1,0 +1,25 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001645,C0003015,INHIBITS,Adrenergic beta-Antagonists,Angiotensin-Converting Enzyme Inhibitors,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0002932,C3543842,INHIBITS,Anesthetics,TONICS,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0003015,C0003364,INHIBITS,Angiotensin-Converting Enzyme Inhibitors,Antihypertensive Agents,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0003015,C3539125,INHIBITS,Angiotensin-Converting Enzyme Inhibitors,other medicated shampoos in ATC,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0003209,C0003451,INHIBITS,Anti-Inflammatory Agents,Antiviral Agents,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0003211,C0003015,INHIBITS,"Anti-Inflammatory Agents, Non-Steroidal",Angiotensin-Converting Enzyme Inhibitors,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0003364,C0003015,INHIBITS,Antihypertensive Agents,Angiotensin-Converting Enzyme Inhibitors,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0003402,C0243042,INHIBITS,Antioxidants,Inflammation Mediators,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0003451,C0358591,INHIBITS,Antiviral Agents,Proton Pump Inhibitors,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0003451,C3537218,INHIBITS,Antiviral Agents,Neuraminidase Inhibitor [EPC],phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0006684,C0003015,INHIBITS,Calcium Channel Blockers,Angiotensin-Converting Enzyme Inhibitors,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0009117,C0003280,INHIBITS,Coagulants,Anticoagulants,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0012798,C0003015,INHIBITS,Diuretics,Angiotensin-Converting Enzyme Inhibitors,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0012798,C0006684,INHIBITS,Diuretics,Calcium Channel Blockers,phsu,phsu,2,INHIBITS_PHSUinhbPHSU
+C0013162,C3539957,INHIBITS,Drug Combinations,opium alkaloids and derivative combination cough suppressants,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0039051,C3543842,INHIBITS,Sympatholytics,TONICS,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0042397,C0042402,INHIBITS,Vasoconstrictor Agents,Vasodilator Agents,phsu,phsu,2,INHIBITS_PHSUinhbPHSU
+C0242904,C3543842,INHIBITS,"Anesthetics, Intravenous",TONICS,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C0243042,C0003280,INHIBITS,Inflammation Mediators,Anticoagulants,phsu,phsu,2,INHIBITS_PHSUinhbPHSU
+C0358430,C0003209,INHIBITS,Muscle relaxants,Anti-Inflammatory Agents,phsu,phsu,2,INHIBITS_PHSUinhbPHSU
+C3537103,C3537104,INHIBITS,Nucleoside Reverse Transcriptase Inhibitor,Non-nucleoside Reverse Transcriptase Inhibitor,phsu,phsu,2,INHIBITS_PHSUinhbPHSU
+C3537104,C3537103,INHIBITS,Non-nucleoside Reverse Transcriptase Inhibitor,Nucleoside Reverse Transcriptase Inhibitor,phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C3653470,C3541969,INHIBITS,"Adamantane derivatives, dopaminergic","Neuraminidase inhibitors, direct acting antivirals",phsu,phsu,1,INHIBITS_PHSUinhbPHSU
+C3854325,C0243042,INHIBITS,Janus kinase inhibitor,Inflammation Mediators,phsu,phsu,1,INHIBITS_PHSUinhbPHSU

@@ -1,0 +1,79 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003893,C0240602,AFFECTS,Arthroplasty,opioid use,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0004933,C0233514,AFFECTS,Behavior Therapy,Abnormal behavior,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0011331,C0003467,AFFECTS,Dental Procedures,Anxiety,topp,mobd,2,AFFECTS_TOPPafctMOBD
+C0013216,C0281774,AFFECTS,Pharmacotherapy,acute psychosis,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0013216,C0497327,AFFECTS,Pharmacotherapy,Dementia,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0017296,C0030662,AFFECTS,gene therapy,"Gambling, Pathological",topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0017296,C0242510,AFFECTS,gene therapy,Drug usage,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0017296,C0858952,AFFECTS,gene therapy,silence,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0020971,C0233794,AFFECTS,Immunization,Memory impairment,topp,mobd,2,AFFECTS_TOPPafctMOBD
+C0021079,C0856054,AFFECTS,Therapeutic immunosuppression,Mental Status Change,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0021107,C0009676,AFFECTS,Implantation procedure,Confusion,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0028678,C0004936,AFFECTS,nursing therapy,Mental disorders,topp,mobd,2,AFFECTS_TOPPafctMOBD
+C0030231,C0242510,AFFECTS,Palliative Care,Drug usage,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0033144,C0008060,AFFECTS,Primary Prevention,child abuse behavior,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0033972,C0003467,AFFECTS,"Psychotherapy, Multiple",Anxiety,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0034386,C0003467,AFFECTS,Quarantine,Anxiety,topp,mobd,5,AFFECTS_TOPPafctMOBD
+C0034386,C0004936,AFFECTS,Quarantine,Mental disorders,topp,mobd,2,AFFECTS_TOPPafctMOBD
+C0034386,C0009676,AFFECTS,Quarantine,Confusion,topp,mobd,3,AFFECTS_TOPPafctMOBD
+C0034386,C0011581,AFFECTS,Quarantine,Depressive disorder,topp,mobd,5,AFFECTS_TOPPafctMOBD
+C0034386,C0038436,AFFECTS,Quarantine,Post-Traumatic Stress Disorder,topp,mobd,3,AFFECTS_TOPPafctMOBD
+C0034386,C0038441,AFFECTS,Quarantine,"Stress Disorders, Traumatic",topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0034386,C0042693,AFFECTS,Quarantine,Violence,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0034386,C0233640,AFFECTS,Quarantine,Magical thinking,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0034386,C0237123,AFFECTS,Quarantine,Alcohol or Other Drugs use,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0034386,C0815107,AFFECTS,Quarantine,Psychological Distress,topp,mobd,5,AFFECTS_TOPPafctMOBD
+C0035273,C0038436,AFFECTS,Resuscitation procedure,Post-Traumatic Stress Disorder,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0042196,C0004352,AFFECTS,Vaccination,Autistic Disorder,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0042196,C0009676,AFFECTS,Vaccination,Confusion,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0042196,C0497327,AFFECTS,Vaccination,Dementia,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0043162,C0042693,AFFECTS,Whole-Body Irradiation,Violence,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0078140,C0233794,AFFECTS,bleomycin/methotrexate/vincristine protocol,Memory impairment,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0083765,C0338656,AFFECTS,fluorouracil/methotrexate/mitoxantrone protocol,Impaired cognition,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0085430,C0391976,AFFECTS,Blood Component Transfusion,Pain Disorder,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0150173,C0232604,AFFECTS,Cognitive restructuring,Rumination,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0150174,C0234985,AFFECTS,Cognitive stimulation,Mental deterioration,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0150189,C0009460,AFFECTS,Distraction training,Communication impairment,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0152060,C0004936,AFFECTS,Transection (procedure),Mental disorders,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0152060,C0024809,AFFECTS,Transection (procedure),Marijuana Abuse,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0152060,C0237123,AFFECTS,Transection (procedure),Alcohol or Other Drugs use,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0195696,C0391976,AFFECTS,Obstetrics manipulation,Pain Disorder,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0199176,C0004936,AFFECTS,Prophylactic treatment,Mental disorders,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0204727,C0003467,AFFECTS,Isolation procedure,Anxiety,topp,mobd,5,AFFECTS_TOPPafctMOBD
+C0204727,C0004936,AFFECTS,Isolation procedure,Mental disorders,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0204727,C0011581,AFFECTS,Isolation procedure,Depressive disorder,topp,mobd,2,AFFECTS_TOPPafctMOBD
+C0204727,C0031572,AFFECTS,Isolation procedure,"Phobia, Social",topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0204727,C0038436,AFFECTS,Isolation procedure,Post-Traumatic Stress Disorder,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0204727,C0085281,AFFECTS,Isolation procedure,Addictive Behavior,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0204727,C0206073,AFFECTS,Isolation procedure,Domestic Violence,topp,mobd,3,AFFECTS_TOPPafctMOBD
+C0204727,C0240735,AFFECTS,Isolation procedure,Personality Change,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0204727,C0344315,AFFECTS,Isolation procedure,Depressed mood,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0204727,C0525045,AFFECTS,Isolation procedure,Mood Disorders,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0204727,C0815107,AFFECTS,Isolation procedure,Psychological Distress,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0204727,C0870281,AFFECTS,Isolation procedure,Chronic mental disorder,topp,mobd,3,AFFECTS_TOPPafctMOBD
+C0204727,C3686491,AFFECTS,Isolation procedure,Aggression within species,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0242297,C3825704,AFFECTS,Dietary Supplementation,Schizophrenics,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0441516,C0038443,AFFECTS,Demand (clinical),"Stress, Psychological",topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0441516,C0233494,AFFECTS,Demand (clinical),Tension,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0454043,C0003467,AFFECTS,Progressive muscle relaxation,Anxiety,topp,mobd,2,AFFECTS_TOPPafctMOBD
+C0543467,C0206073,AFFECTS,Operative Surgical Procedures,Domestic Violence,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0574032,C0338656,AFFECTS,Infusion procedures,Impaired cognition,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0581602,C0086168,AFFECTS,Structural modification,Dissociation,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0581602,C0525045,AFFECTS,Structural modification,Mood Disorders,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0683476,C4763868,AFFECTS,Contingency Management,Cocaine Use Disorder,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0844334,C0851578,AFFECTS,septoplasty,Sleep Disorders,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0887947,C0281774,AFFECTS,"Antiretroviral Therapy, Highly Active",acute psychosis,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0917707,C0233601,AFFECTS,Cannulation,Spraying behavior,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C0920687,C0233494,AFFECTS,cancer care,Tension,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C1261381,C0011551,AFFECTS,Destructive procedure (surgical),Depersonalization,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C1293130,C0598853,AFFECTS,Stabilization,forgetting,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C1511790,C0001546,AFFECTS,Detection,Adjustment Disorders,topp,mobd,2,AFFECTS_TOPPafctMOBD
+C1511790,C1270972,AFFECTS,Detection,Mild cognitive disorder,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C1512721,C0233514,AFFECTS,Inferential Current Treatment,Abnormal behavior,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C1704536,C0003467,AFFECTS,Direct Method,Anxiety,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C2922974,C0233514,AFFECTS,Polypharmacy,Abnormal behavior,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C2922974,C0234985,AFFECTS,Polypharmacy,Mental deterioration,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C2985433,C0011581,AFFECTS,Mind/body Exercise,Depressive disorder,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C3650834,C0009676,AFFECTS,Electrolyte therapy,Confusion,topp,mobd,1,AFFECTS_TOPPafctMOBD
+C4723833,C0009676,AFFECTS,vertebral augmentation procedure,Confusion,topp,mobd,1,AFFECTS_TOPPafctMOBD

@@ -1,0 +1,79 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011441,C0018576,TREATS,Dentist,Disabled Persons,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0015535,C0870869,TREATS,Faculty,medical patients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0018724,C0085537,TREATS,Health Personnel,Caregiver,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0018724,C0870602,TREATS,Health Personnel,geriatric patients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0018724,C1516213,TREATS,Health Personnel,Cancer Patient,humn,humn,2,TREATS_HUMNtrtsHUMN
+C0018724,C1516231,TREATS,Health Personnel,Cancer Survivors,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0025106,C0748064,TREATS,Medical Staff,Psychiatric inpatient,humn,humn,2,TREATS_HUMNtrtsHUMN
+C0025106,C1516213,TREATS,Medical Staff,Cancer Patient,humn,humn,2,TREATS_HUMNtrtsHUMN
+C0025106,C5206758,TREATS,Medical Staff,New Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0028661,C0871463,TREATS,Nurses,surgical patients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0031228,C1711307,TREATS,"Personnel, Hospital",Coordinator,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0031228,C5206758,TREATS,"Personnel, Hospital",New Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0031323,C1516213,TREATS,Pharmacist,Cancer Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0031831,C0028661,TREATS,Physicians,Nurses,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0031831,C0870668,TREATS,Physicians,hospitalized patients,humn,humn,4,TREATS_HUMNtrtsHUMN
+C0031831,C0870869,TREATS,Physicians,medical patients,humn,humn,2,TREATS_HUMNtrtsHUMN
+C0031831,C0871503,TREATS,Physicians,dying patients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0031831,C1516213,TREATS,Physicians,Cancer Patient,humn,humn,6,TREATS_HUMNtrtsHUMN
+C0031831,C1556020,TREATS,Physicians,Technician,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0031831,C5206758,TREATS,Physicians,New Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0031836,C0741926,TREATS,"Physicians, Women",cardiac patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0033872,C0206194,TREATS,Psychiatrist,Survivors,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0033872,C0870602,TREATS,Psychiatrist,geriatric patients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0035173,C0376387,TREATS,Research Personnel,Transplant Recipients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0035173,C0748064,TREATS,Research Personnel,Psychiatric inpatient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0085537,C0206194,TREATS,Caregiver,Survivors,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0085537,C0260101,TREATS,Caregiver,Sick child,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0087009,C0870668,TREATS,Hospital specialist,hospitalized patients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0237419,C1516213,TREATS,Gynecologist,Cancer Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0237426,C0206194,TREATS,Neurologists,Survivors,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0237426,C0870869,TREATS,Neurologists,medical patients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0237485,C1516213,TREATS,Attendants -- group,Cancer Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0259990,C1516213,TREATS,Oncologists,Cancer Patient,humn,humn,5,TREATS_HUMNtrtsHUMN
+C0260017,C1516213,TREATS,Molecular biologists,Cancer Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0260039,C4304779,TREATS,Nephrologists,Kidney Transplant Recipient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0260194,C0376387,TREATS,radiologist,Transplant Recipients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0260314,C0870602,TREATS,Urologists,geriatric patients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0334866,C1516213,TREATS,Medical pathologist,Cancer Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0334910,C0871463,TREATS,Anesthesiologist,surgical patients,humn,humn,2,TREATS_HUMNtrtsHUMN
+C0402883,C0008098,TREATS,tailor,"Child, Hospitalized",humn,humn,1,TREATS_HUMNtrtsHUMN
+C0473169,C0238607,TREATS,Pilot,AIDS patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0582175,C0871463,TREATS,Surgeon,surgical patients,humn,humn,2,TREATS_HUMNtrtsHUMN
+C0582175,C1516213,TREATS,Surgeon,Cancer Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0586873,C0870668,TREATS,Infectious disease specialist,hospitalized patients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0586873,C1704221,TREATS,Infectious disease specialist,"Physicians, Family",humn,humn,1,TREATS_HUMNtrtsHUMN
+C0586873,C4304779,TREATS,Infectious disease specialist,Kidney Transplant Recipient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0586908,C0871463,TREATS,Trauma Surgeon,surgical patients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0596910,C0748064,TREATS,mental health personnel,Psychiatric inpatient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0600620,C0870869,TREATS,Hospitalists,medical patients,humn,humn,2,TREATS_HUMNtrtsHUMN
+C0679924,C0206194,TREATS,professional occupation status,Survivors,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0679924,C0741926,TREATS,professional occupation status,cardiac patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0679924,C4704944,TREATS,professional occupation status,Medical Tourists,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0851286,C0741926,TREATS,Staff,cardiac patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0851286,C0748064,TREATS,Staff,Psychiatric inpatient,humn,humn,3,TREATS_HUMNtrtsHUMN
+C0851286,C0870668,TREATS,Staff,hospitalized patients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0851286,C5206758,TREATS,Staff,New Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0871685,C0008098,TREATS,Clinician,"Child, Hospitalized",humn,humn,1,TREATS_HUMNtrtsHUMN
+C0871685,C0206194,TREATS,Clinician,Survivors,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0871685,C0376387,TREATS,Clinician,Transplant Recipients,humn,humn,2,TREATS_HUMNtrtsHUMN
+C0871685,C0741926,TREATS,Clinician,cardiac patient,humn,humn,2,TREATS_HUMNtrtsHUMN
+C0871685,C0870668,TREATS,Clinician,hospitalized patients,humn,humn,3,TREATS_HUMNtrtsHUMN
+C0871685,C5206758,TREATS,Clinician,New Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C0878517,C0376387,TREATS,Engineer,Transplant Recipients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C1514693,C1516213,TREATS,Radiation Oncologists,Cancer Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C1518578,C1516213,TREATS,Oncology Group,Cancer Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C1522486,C1516213,TREATS,Professional Organization or Group,Cancer Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C1527116,C1516213,TREATS,Workers,Cancer Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C1555767,C0870602,TREATS,Physicians - Internal Medicine - Medical Oncology,geriatric patients,humn,humn,1,TREATS_HUMNtrtsHUMN
+C1555767,C1516213,TREATS,Physicians - Internal Medicine - Medical Oncology,Cancer Patient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C3178988,C0206194,TREATS,Emergency Responders,Survivors,humn,humn,2,TREATS_HUMNtrtsHUMN
+C3812881,C0008098,TREATS,Author,"Child, Hospitalized",humn,humn,1,TREATS_HUMNtrtsHUMN
+C3812881,C0206194,TREATS,Author,Survivors,humn,humn,3,TREATS_HUMNtrtsHUMN
+C3812881,C0260101,TREATS,Author,Sick child,humn,humn,1,TREATS_HUMNtrtsHUMN
+C3812881,C0870602,TREATS,Author,geriatric patients,humn,humn,2,TREATS_HUMNtrtsHUMN
+C3812881,C0870668,TREATS,Author,hospitalized patients,humn,humn,2,TREATS_HUMNtrtsHUMN
+C3812881,C0871463,TREATS,Author,surgical patients,humn,humn,2,TREATS_HUMNtrtsHUMN
+C3812881,C4304779,TREATS,Author,Kidney Transplant Recipient,humn,humn,1,TREATS_HUMNtrtsHUMN
+C4280018,C4304779,TREATS,Hepatologists,Kidney Transplant Recipient,humn,humn,1,TREATS_HUMNtrtsHUMN

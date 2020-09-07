@@ -1,0 +1,746 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001425,C0193959,COMPARED_WITH,Adenoidectomy,Tonsillectomy and adenoidectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0001560,C0001563,COMPARED_WITH,"Administration, Intranasal","Administration, Oral",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0001560,C0032042,COMPARED_WITH,"Administration, Intranasal",Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0001563,C0001563,COMPARED_WITH,"Administration, Oral","Administration, Oral",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0001563,C0034997,COMPARED_WITH,"Administration, Oral",Rehydration,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0001563,C0086904,COMPARED_WITH,"Administration, Oral",Oral rehydration procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0001563,C0678823,COMPARED_WITH,"Administration, Oral",parenteral administration,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0001701,C0001701,COMPARED_WITH,"Exercise, Aerobic","Exercise, Aerobic",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0002688,C0011079,COMPARED_WITH,Amputation,Debridement,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0002766,C0002903,COMPARED_WITH,Pain management,Anesthesia procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0002903,C0002903,COMPARED_WITH,Anesthesia procedures,Anesthesia procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0002903,C0002915,COMPARED_WITH,Anesthesia procedures,General Anesthesia,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0002903,C0087123,COMPARED_WITH,Anesthesia procedures,Tympanostomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0002903,C0473965,COMPARED_WITH,Anesthesia procedures,Total intravenous anesthesia,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0002903,C1541822,COMPARED_WITH,Anesthesia procedures,Vaginal delivery procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0002911,C0002915,COMPARED_WITH,"Anesthesia, Conduction",General Anesthesia,topp,topp,5,COMPARED_WITH_TOPPcpwtTOPP
+C0002915,C0002915,COMPARED_WITH,General Anesthesia,General Anesthesia,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0002915,C0002928,COMPARED_WITH,General Anesthesia,Spinal Anesthesia,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0002915,C0032740,COMPARED_WITH,General Anesthesia,Positive End-Expiratory Pressure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0002928,C0002915,COMPARED_WITH,Spinal Anesthesia,General Anesthesia,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0003393,C0013216,COMPARED_WITH,Antineoplastic Combined Chemotherapy Protocols,Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0003611,C0003611,COMPARED_WITH,Appendectomy,Appendectomy,topp,topp,5,COMPARED_WITH_TOPPcpwtTOPP
+C0003611,C0399995,COMPARED_WITH,Appendectomy,Interval appendectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0005794,C0005794,COMPARED_WITH,Blood Donation,Blood Donation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0005794,C0543467,COMPARED_WITH,Blood Donation,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0005841,C0021925,COMPARED_WITH,Blood Transfusion,Intubation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0005841,C0038906,COMPARED_WITH,Blood Transfusion,Obstetric Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0005841,C0278347,COMPARED_WITH,Blood Transfusion,Transfusion of plasma,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0005961,C0149615,COMPARED_WITH,Bone Marrow Transplantation,Allogeneic bone marrow transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0005961,C0242602,COMPARED_WITH,Bone Marrow Transplantation,Peripheral Stem Cell Transplantation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0007203,C0007203,COMPARED_WITH,Cardiopulmonary Resuscitation,Cardiopulmonary Resuscitation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0007203,C0021107,COMPARED_WITH,Cardiopulmonary Resuscitation,Implantation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0007203,C0871803,COMPARED_WITH,Cardiopulmonary Resuscitation,life sustaining treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0007203,C4699846,COMPARED_WITH,Cardiopulmonary Resuscitation,Mechanical devices,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0007430,C0035139,COMPARED_WITH,Catheterization,Surgical Replantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0007430,C0542382,COMPARED_WITH,Catheterization,Jugular vein catheterization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0007430,C1293440,COMPARED_WITH,Catheterization,Vein implantation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0007437,C0917707,COMPARED_WITH,"Catheterization, Peripheral Arterial",Cannulation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0007876,C0002915,COMPARED_WITH,Cesarean section,General Anesthesia,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0007876,C0007876,COMPARED_WITH,Cesarean section,Cesarean section,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0007876,C0152060,COMPARED_WITH,Cesarean section,Transection (procedure),topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0007876,C0269694,COMPARED_WITH,Cesarean section,Normal delivery procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0007876,C1541822,COMPARED_WITH,Cesarean section,Vaginal delivery procedure,topp,topp,8,COMPARED_WITH_TOPPcpwtTOPP
+C0009244,C0005961,COMPARED_WITH,Cognitive Therapy,Bone Marrow Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0009244,C0009244,COMPARED_WITH,Cognitive Therapy,Cognitive Therapy,topp,topp,6,COMPARED_WITH_TOPPcpwtTOPP
+C0009244,C0242348,COMPARED_WITH,Cognitive Therapy,Serotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0009244,C0472699,COMPARED_WITH,Cognitive Therapy,Hemopoietic stem cell transplant,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0009429,C0009429,COMPARED_WITH,Combined Modality Therapy,Combined Modality Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0009429,C0020971,COMPARED_WITH,Combined Modality Therapy,Immunization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0009429,C0040808,COMPARED_WITH,Combined Modality Therapy,Treatment Protocols,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0009429,C1515884,COMPARED_WITH,Combined Modality Therapy,Acupuncture and Oriental Medicine,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0009429,C2986423,COMPARED_WITH,Combined Modality Therapy,Chemoimmunotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0009429,C4763675,COMPARED_WITH,Combined Modality Therapy,Single Agent Therapy,topp,topp,30,COMPARED_WITH_TOPPcpwtTOPP
+C0010651,C0035139,COMPARED_WITH,Cystectomy,Surgical Replantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0011079,C0011079,COMPARED_WITH,Debridement,Debridement,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0011079,C0037297,COMPARED_WITH,Debridement,Skin Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0011121,C0011121,COMPARED_WITH,Decontamination,Decontamination,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0011307,C0068899,COMPARED_WITH,Denervation,NOAC protocol,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0011593,C1868981,COMPARED_WITH,Dermabrasion,Invasive mechanical ventilation NOS,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0011946,C0011946,COMPARED_WITH,Dialysis procedure,Dialysis procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0011946,C0199779,COMPARED_WITH,Dialysis procedure,Administration of antibiotic,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0012002,C0152060,COMPARED_WITH,Diathermy,Transection (procedure),topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0012683,C0012683,COMPARED_WITH,Disinfection,Disinfection,topp,topp,11,COMPARED_WITH_TOPPcpwtTOPP
+C0012683,C0038288,COMPARED_WITH,Disinfection,Sexual sterilization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0012683,C0185115,COMPARED_WITH,Disinfection,Extraction,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0012683,C0280592,COMPARED_WITH,Disinfection,doxorubicin/fluorouracil/mitomycin/vincristine protocol,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0012683,C0543467,COMPARED_WITH,Disinfection,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0012683,C1522449,COMPARED_WITH,Disinfection,Therapeutic radiology procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013103,C0013103,COMPARED_WITH,Drainage procedure,Drainage procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013103,C0543467,COMPARED_WITH,Drainage procedure,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013216,C0005961,COMPARED_WITH,Pharmacotherapy,Bone Marrow Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013216,C0013216,COMPARED_WITH,Pharmacotherapy,Pharmacotherapy,topp,topp,10,COMPARED_WITH_TOPPcpwtTOPP
+C0013216,C0032042,COMPARED_WITH,Pharmacotherapy,Placebos,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0013216,C0242348,COMPARED_WITH,Pharmacotherapy,Serotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013216,C0392920,COMPARED_WITH,Pharmacotherapy,Chemotherapy Regimen,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013216,C1512429,COMPARED_WITH,Pharmacotherapy,High-Dose Chemotherapy with Autologous Stem Cell Transplant,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013216,C2985566,COMPARED_WITH,Pharmacotherapy,Targeted Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013216,C4763675,COMPARED_WITH,Pharmacotherapy,Single Agent Therapy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0013216,C5202766,COMPARED_WITH,Pharmacotherapy,Primary Debulking Surgery,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013218,C0013216,COMPARED_WITH,Combination Drug Therapy,Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013778,C0007203,COMPARED_WITH,Electric Countershock,Cardiopulmonary Resuscitation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013778,C0199451,COMPARED_WITH,Electric Countershock,Continuous Positive Airway Pressure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013804,C0007471,COMPARED_WITH,Electrocoagulation,Cauterization - action,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013806,C0032042,COMPARED_WITH,Electroconvulsive Therapy,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013806,C0033972,COMPARED_WITH,Electroconvulsive Therapy,"Psychotherapy, Multiple",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0013806,C0280603,COMPARED_WITH,Electroconvulsive Therapy,fluorouracil/methotrexate protocol,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0014327,C0030547,COMPARED_WITH,Enteral Nutrition,Parenteral Nutrition,topp,topp,6,COMPARED_WITH_TOPPcpwtTOPP
+C0014327,C0030548,COMPARED_WITH,Enteral Nutrition,"Parenteral Nutrition, Total",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0014327,C0035273,COMPARED_WITH,Enteral Nutrition,Resuscitation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0015236,C0013216,COMPARED_WITH,"Exchange Transfusion, Whole Blood",Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0015250,C0013216,COMPARED_WITH,Complete excision,Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0015250,C0037297,COMPARED_WITH,Complete excision,Skin Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0015250,C0040732,COMPARED_WITH,Complete excision,Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0015252,C0013216,COMPARED_WITH,removal technique,Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0015252,C0019144,COMPARED_WITH,removal technique,Hepatectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0015252,C0023038,COMPARED_WITH,removal technique,Laparotomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0015252,C0185115,COMPARED_WITH,removal technique,Extraction,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0015252,C0192958,COMPARED_WITH,removal technique,Colocolostomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0015357,C0015357,COMPARED_WITH,Extracorporeal Membrane Oxygenation,Extracorporeal Membrane Oxygenation,topp,topp,5,COMPARED_WITH_TOPPcpwtTOPP
+C0015357,C0199470,COMPARED_WITH,Extracorporeal Membrane Oxygenation,Mechanical ventilation,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0015357,C0554804,COMPARED_WITH,Extracorporeal Membrane Oxygenation,Assisted breathing,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0015357,C0917707,COMPARED_WITH,Extracorporeal Membrane Oxygenation,Cannulation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0015357,C2945704,COMPARED_WITH,Extracorporeal Membrane Oxygenation,Conventional Treatment,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0015357,C3649547,COMPARED_WITH,Extracorporeal Membrane Oxygenation,Continuous Renal Replacement Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0017296,C0520484,COMPARED_WITH,gene therapy,Xenograft procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0018821,C0040808,COMPARED_WITH,Cardiac Surgery procedures,Treatment Protocols,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0018823,C0018821,COMPARED_WITH,Heart Transplantation,Cardiac Surgery procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0019004,C0011946,COMPARED_WITH,Hemodialysis,Dialysis procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0019004,C0206075,COMPARED_WITH,Hemodialysis,Hemodiafiltration,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0019014,C0019004,COMPARED_WITH,Hemofiltration,Hemodialysis,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0019014,C0031139,COMPARED_WITH,Hemofiltration,Peritoneal Dialysis,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0019144,C0015252,COMPARED_WITH,Hepatectomy,removal technique,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0019541,C0199470,COMPARED_WITH,High-Frequency Ventilation,Mechanical ventilation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0020699,C0007876,COMPARED_WITH,Hysterectomy,Cesarean section,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0020944,C0020944,COMPARED_WITH,Immobilization,Immobilization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0020971,C0020971,COMPARED_WITH,Immunization,Immunization,topp,topp,42,COMPARED_WITH_TOPPcpwtTOPP
+C0020971,C0020975,COMPARED_WITH,Immunization,Secondary Immunization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0020971,C0021485,COMPARED_WITH,Immunization,Injection of therapeutic agent,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0020971,C0032042,COMPARED_WITH,Immunization,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0020971,C0042196,COMPARED_WITH,Immunization,Vaccination,topp,topp,11,COMPARED_WITH_TOPPcpwtTOPP
+C0020971,C0052712,COMPARED_WITH,Immunization,doxorubicin/mitomycin/vinblastine protocol,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0020971,C0071973,COMPARED_WITH,Immunization,Ifosfamide/Methotrexate/Procarbazine protocol,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0020971,C0678823,COMPARED_WITH,Immunization,parenteral administration,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0020971,C1533734,COMPARED_WITH,Immunization,Administration procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0020972,C0020972,COMPARED_WITH,Immunization Schedule,Immunization Schedule,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0020974,C0042196,COMPARED_WITH,passive immunization procedure,Vaccination,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0020975,C0020971,COMPARED_WITH,Secondary Immunization,Immunization,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0020975,C0020975,COMPARED_WITH,Secondary Immunization,Secondary Immunization,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0020975,C0042196,COMPARED_WITH,Secondary Immunization,Vaccination,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0020975,C0598391,COMPARED_WITH,Secondary Immunization,Enzyme Replacement Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0020975,C1328526,COMPARED_WITH,Secondary Immunization,Primary Immunologic Sensitization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021079,C3650840,COMPARED_WITH,Therapeutic immunosuppression,Traditional therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021107,C0021107,COMPARED_WITH,Implantation procedure,Implantation procedure,topp,topp,5,COMPARED_WITH_TOPPcpwtTOPP
+C0021107,C0339026,COMPARED_WITH,Implantation procedure,Intracapsular cataract extraction,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021107,C0441503,COMPARED_WITH,Implantation procedure,primary closure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021107,C0547070,COMPARED_WITH,Implantation procedure,Ablation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021107,C0589567,COMPARED_WITH,Implantation procedure,Placement procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021485,C0013216,COMPARED_WITH,Injection of therapeutic agent,Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021485,C0020971,COMPARED_WITH,Injection of therapeutic agent,Immunization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021485,C0021485,COMPARED_WITH,Injection of therapeutic agent,Injection of therapeutic agent,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0021485,C0052712,COMPARED_WITH,Injection of therapeutic agent,doxorubicin/mitomycin/vinblastine protocol,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021485,C0185056,COMPARED_WITH,Injection of therapeutic agent,Electrodesiccation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021490,C4551716,COMPARED_WITH,"Injections, Intralesional",Cryotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021493,C0001560,COMPARED_WITH,"Injections, Intraperitoneal","Administration, Intranasal",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021778,C0032042,COMPARED_WITH,Intermittent Positive-Pressure Ventilation,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021778,C0199451,COMPARED_WITH,Intermittent Positive-Pressure Ventilation,Continuous Positive Airway Pressure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021925,C0021925,COMPARED_WITH,Intubation,Intubation,topp,topp,5,COMPARED_WITH_TOPPcpwtTOPP
+C0021925,C0021932,COMPARED_WITH,Intubation,"Intubation, Intratracheal",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021925,C0040590,COMPARED_WITH,Intubation,Tracheostomy procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021925,C0199451,COMPARED_WITH,Intubation,Continuous Positive Airway Pressure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021925,C0199470,COMPARED_WITH,Intubation,Mechanical ventilation,topp,topp,5,COMPARED_WITH_TOPPcpwtTOPP
+C0021925,C1455870,COMPARED_WITH,Intubation,Bi-level airway pressure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021925,C1960845,COMPARED_WITH,Intubation,Bag valve mask ventilation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021925,C1997883,COMPARED_WITH,Intubation,Noninvasive Ventilation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021925,C2945704,COMPARED_WITH,Intubation,Conventional Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021925,C3665674,COMPARED_WITH,Intubation,Warburg Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021932,C0021925,COMPARED_WITH,"Intubation, Intratracheal",Intubation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0021932,C0021932,COMPARED_WITH,"Intubation, Intratracheal","Intubation, Intratracheal",topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0021932,C0040590,COMPARED_WITH,"Intubation, Intratracheal",Tracheostomy procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021932,C0199470,COMPARED_WITH,"Intubation, Intratracheal",Mechanical ventilation,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0021932,C0279260,COMPARED_WITH,"Intubation, Intratracheal",Bleomycin/Methotrexate/Vinblastine,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021932,C0376495,COMPARED_WITH,"Intubation, Intratracheal",Retreatments,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021932,C0396649,COMPARED_WITH,"Intubation, Intratracheal",Orotracheal suction,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021932,C1278440,COMPARED_WITH,"Intubation, Intratracheal",High concentration oxygen therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0021932,C2945704,COMPARED_WITH,"Intubation, Intratracheal",Conventional Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0022100,C0022100,COMPARED_WITH,Irrigation,Irrigation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0022100,C0042196,COMPARED_WITH,Irrigation,Vaccination,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0022671,C0011946,COMPARED_WITH,Kidney Transplantation,Dialysis procedure,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0023038,C0023038,COMPARED_WITH,Laparotomy,Laparotomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0023038,C0039991,COMPARED_WITH,Laparotomy,Thoracotomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0023690,C0023690,COMPARED_WITH,Ligation,Ligation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0023911,C0023911,COMPARED_WITH,Transplantation of liver,Transplantation of liver,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0023928,C0543467,COMPARED_WITH,Lobectomy,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0024128,C0024128,COMPARED_WITH,Lung Transplantation,Lung Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0024128,C0040732,COMPARED_WITH,Lung Transplantation,Transplantation,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0024128,C0730400,COMPARED_WITH,Lung Transplantation,Solid organ transplant,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0024128,C2945704,COMPARED_WITH,Lung Transplantation,Conventional Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0024881,C0024881,COMPARED_WITH,Mastectomy,Mastectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0024881,C0085076,COMPARED_WITH,Mastectomy,Mammaplasty,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0024881,C0193867,COMPARED_WITH,Mastectomy,Excision of axillary lymph nodes group,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0024885,C0396565,COMPARED_WITH,Segmental Mastectomy,Lung excision,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0027561,C0032741,COMPARED_WITH,Negative Reinforcement,Positive Reinforcement,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0029936,C0029936,COMPARED_WITH,Ovariectomy,Ovariectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0030231,C0030231,COMPARED_WITH,Palliative Care,Palliative Care,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0030547,C0030547,COMPARED_WITH,Parenteral Nutrition,Parenteral Nutrition,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0030693,C0204727,COMPARED_WITH,Patient Isolation,Isolation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0031006,C0194083,COMPARED_WITH,In situ perfusion,Unilateral nephrectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0031139,C0019004,COMPARED_WITH,Peritoneal Dialysis,Hemodialysis,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0031740,C0040590,COMPARED_WITH,Photochemotherapy,Tracheostomy procedure,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0031740,C0472567,COMPARED_WITH,Photochemotherapy,Exteriorization of trachea,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0032042,C0032042,COMPARED_WITH,Placebos,Placebos,topp,topp,15,COMPARED_WITH_TOPPcpwtTOPP
+C0032042,C0199176,COMPARED_WITH,Placebos,Prophylactic treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0032042,C0394664,COMPARED_WITH,Placebos,Acupuncture procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0032042,C1704532,COMPARED_WITH,Placebos,Active Method,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0032042,C2242628,COMPARED_WITH,Placebos,Fecal Microbiota Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0032042,C4723833,COMPARED_WITH,Placebos,vertebral augmentation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0032134,C0032134,COMPARED_WITH,Plasmapheresis,Plasmapheresis,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0032284,C0023928,COMPARED_WITH,Pneumonectomy,Lobectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0032284,C0032284,COMPARED_WITH,Pneumonectomy,Pneumonectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0032284,C0396565,COMPARED_WITH,Pneumonectomy,Lung excision,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0032740,C0015357,COMPARED_WITH,Positive End-Expiratory Pressure,Extracorporeal Membrane Oxygenation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0032740,C0021932,COMPARED_WITH,Positive End-Expiratory Pressure,"Intubation, Intratracheal",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0032740,C0032042,COMPARED_WITH,Positive End-Expiratory Pressure,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0032740,C0032740,COMPARED_WITH,Positive End-Expiratory Pressure,Positive End-Expiratory Pressure,topp,topp,11,COMPARED_WITH_TOPPcpwtTOPP
+C0032740,C3665674,COMPARED_WITH,Positive End-Expiratory Pressure,Warburg Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0033144,C0023690,COMPARED_WITH,Primary Prevention,Ligation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0033144,C0032042,COMPARED_WITH,Primary Prevention,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0033968,C0033968,COMPARED_WITH,Psychotherapy,Psychotherapy,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0033972,C0392920,COMPARED_WITH,"Psychotherapy, Multiple",Chemotherapy Regimen,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0033972,C4763675,COMPARED_WITH,"Psychotherapy, Multiple",Single Agent Therapy,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0034386,C0034386,COMPARED_WITH,Quarantine,Quarantine,topp,topp,7,COMPARED_WITH_TOPPcpwtTOPP
+C0034386,C0185003,COMPARED_WITH,Quarantine,Reparative closure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0034386,C0185060,COMPARED_WITH,Quarantine,Crushing procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0034386,C0204727,COMPARED_WITH,Quarantine,Isolation procedure,topp,topp,13,COMPARED_WITH_TOPPcpwtTOPP
+C0034386,C1531698,COMPARED_WITH,Quarantine,Active monitoring,topp,topp,11,COMPARED_WITH_TOPPcpwtTOPP
+C0035110,C0015250,COMPARED_WITH,Repeat Surgery,Complete excision,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0035139,C0032042,COMPARED_WITH,Surgical Replantation,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0035139,C0035139,COMPARED_WITH,Surgical Replantation,Surgical Replantation,topp,topp,6,COMPARED_WITH_TOPPcpwtTOPP
+C0035273,C0016286,COMPARED_WITH,Resuscitation procedure,Fluid Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0035273,C0035273,COMPARED_WITH,Resuscitation procedure,Resuscitation procedure,topp,topp,7,COMPARED_WITH_TOPPcpwtTOPP
+C0035273,C0040808,COMPARED_WITH,Resuscitation procedure,Treatment Protocols,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0035273,C0185115,COMPARED_WITH,Resuscitation procedure,Extraction,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0038288,C0751429,COMPARED_WITH,Sexual sterilization,"Surgical Procedures, Laparoscopic",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0038288,C0947647,COMPARED_WITH,Sexual sterilization,Manipulation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0038638,C0038638,COMPARED_WITH,Suction drainage,Suction drainage,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0040044,C0002997,COMPARED_WITH,Thrombolytic Therapy,"Angioplasty, Balloon, Coronary",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040044,C0032042,COMPARED_WITH,Thrombolytic Therapy,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040044,C0162577,COMPARED_WITH,Thrombolytic Therapy,Angioplasty,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040044,C0189476,COMPARED_WITH,Thrombolytic Therapy,Insertion of pleural tube drain,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040044,C0752151,COMPARED_WITH,Thrombolytic Therapy,"Thoracic Surgery, Video-Assisted",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040145,C0543467,COMPARED_WITH,Thyroidectomy,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040590,C0031740,COMPARED_WITH,Tracheostomy procedure,Photochemotherapy,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0040590,C0040590,COMPARED_WITH,Tracheostomy procedure,Tracheostomy procedure,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0040590,C0199470,COMPARED_WITH,Tracheostomy procedure,Mechanical ventilation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040590,C0584877,COMPARED_WITH,Tracheostomy procedure,Percutaneous tracheostomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040597,C0021107,COMPARED_WITH,Traction,Implantation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040732,C0013216,COMPARED_WITH,Transplantation,Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040732,C0024128,COMPARED_WITH,Transplantation,Lung Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040732,C0029216,COMPARED_WITH,Transplantation,Organ Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040732,C0032042,COMPARED_WITH,Transplantation,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040732,C0040732,COMPARED_WITH,Transplantation,Transplantation,topp,topp,10,COMPARED_WITH_TOPPcpwtTOPP
+C0040732,C0242348,COMPARED_WITH,Transplantation,Serotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040732,C0396599,COMPARED_WITH,Transplantation,Double lung transplant,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040732,C0420201,COMPARED_WITH,Transplantation,Central venous pressure monitoring,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040732,C0472699,COMPARED_WITH,Transplantation,Hemopoietic stem cell transplant,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040736,C0040739,COMPARED_WITH,"Transplantation, Autologous","Transplantation, Homologous",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040736,C0524865,COMPARED_WITH,"Transplantation, Autologous",Reconstructive Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040736,C0702123,COMPARED_WITH,"Transplantation, Autologous",Nerve graft,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040739,C0022671,COMPARED_WITH,"Transplantation, Homologous",Kidney Transplantation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0040739,C0040732,COMPARED_WITH,"Transplantation, Homologous",Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040739,C0040736,COMPARED_WITH,"Transplantation, Homologous","Transplantation, Autologous",topp,topp,6,COMPARED_WITH_TOPPcpwtTOPP
+C0040739,C0040739,COMPARED_WITH,"Transplantation, Homologous","Transplantation, Homologous",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040739,C0524865,COMPARED_WITH,"Transplantation, Homologous",Reconstructive Surgical Procedures,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0040739,C0730400,COMPARED_WITH,"Transplantation, Homologous",Solid organ transplant,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040808,C0013216,COMPARED_WITH,Treatment Protocols,Pharmacotherapy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0040808,C0032042,COMPARED_WITH,Treatment Protocols,Placebos,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0040808,C0040808,COMPARED_WITH,Treatment Protocols,Treatment Protocols,topp,topp,8,COMPARED_WITH_TOPPcpwtTOPP
+C0040808,C0472699,COMPARED_WITH,Treatment Protocols,Hemopoietic stem cell transplant,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040808,C0677850,COMPARED_WITH,Treatment Protocols,Adjuvant Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040808,C1276413,COMPARED_WITH,Treatment Protocols,Therapeutic regimen,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040808,C4763675,COMPARED_WITH,Treatment Protocols,Single Agent Therapy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0040808,C5204923,COMPARED_WITH,Treatment Protocols,Melphalan Regimen,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040861,C0040861,COMPARED_WITH,Triage,Triage,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0040861,C1282573,COMPARED_WITH,Triage,Evacuation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0041447,C0041447,COMPARED_WITH,Tympanoplasty,Tympanoplasty,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C0020971,COMPARED_WITH,Vaccination,Immunization,topp,topp,8,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C0020972,COMPARED_WITH,Vaccination,Immunization Schedule,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C0021485,COMPARED_WITH,Vaccination,Injection of therapeutic agent,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C0032042,COMPARED_WITH,Vaccination,Placebos,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C0042196,COMPARED_WITH,Vaccination,Vaccination,topp,topp,69,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C0042205,COMPARED_WITH,Vaccination,Rabies vaccination,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C0052712,COMPARED_WITH,Vaccination,doxorubicin/mitomycin/vinblastine protocol,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C0185003,COMPARED_WITH,Vaccination,Reparative closure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C0199798,COMPARED_WITH,Vaccination,human vaccination,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C0396670,COMPARED_WITH,Vaccination,Isolated limb perfusion,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C0678823,COMPARED_WITH,Vaccination,parenteral administration,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C1135929,COMPARED_WITH,Vaccination,Mass Vaccination,topp,topp,6,COMPARED_WITH_TOPPcpwtTOPP
+C0042196,C1567676,COMPARED_WITH,Vaccination,Variolation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042200,C0020971,COMPARED_WITH,Influenza vaccination,Immunization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042200,C0032042,COMPARED_WITH,Influenza vaccination,Placebos,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0042200,C0040732,COMPARED_WITH,Influenza vaccination,Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042200,C0041450,COMPARED_WITH,Influenza vaccination,Tympanostomy Tube Insertion,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042200,C0042196,COMPARED_WITH,Influenza vaccination,Vaccination,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0042200,C0042200,COMPARED_WITH,Influenza vaccination,Influenza vaccination,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0042201,C0042196,COMPARED_WITH,Measles vaccination,Vaccination,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042205,C0042205,COMPARED_WITH,Rabies vaccination,Rabies vaccination,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0042387,C4764350,COMPARED_WITH,Vasectomy,Reproductive Surgery,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0043162,C0043162,COMPARED_WITH,Whole-Body Irradiation,Whole-Body Irradiation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0043162,C4319756,COMPARED_WITH,Whole-Body Irradiation,Myeloablative Conditioning,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0043308,C0242348,COMPARED_WITH,X-Ray Therapy,Serotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0052712,C0021489,COMPARED_WITH,doxorubicin/mitomycin/vinblastine protocol,intradermal injection,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0052712,C0052712,COMPARED_WITH,doxorubicin/mitomycin/vinblastine protocol,doxorubicin/mitomycin/vinblastine protocol,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0056633,C0056633,COMPARED_WITH,cyclophosphamide/prednisone/vincristine protocol,cyclophosphamide/prednisone/vincristine protocol,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0057163,C0057163,COMPARED_WITH,DAV regimen,DAV regimen,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0057163,C0199779,COMPARED_WITH,DAV regimen,Administration of antibiotic,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0058890,C0554804,COMPARED_WITH,EAP protocol,Assisted breathing,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0065764,C0065764,COMPARED_WITH,bleomycin/cisplatin/methotrexate protocol,bleomycin/cisplatin/methotrexate protocol,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0065772,C0065772,COMPARED_WITH,MCC protocol,MCC protocol,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0068899,C0068899,COMPARED_WITH,NOAC protocol,NOAC protocol,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0071973,C0040808,COMPARED_WITH,Ifosfamide/Methotrexate/Procarbazine protocol,Treatment Protocols,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0072634,C0002769,COMPARED_WITH,bleomycin/cisplatin/vinblastine protocol,"Analgesia, Epidural",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0078140,C0078140,COMPARED_WITH,bleomycin/methotrexate/vincristine protocol,bleomycin/methotrexate/vincristine protocol,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0079544,C0040732,COMPARED_WITH,"Parenteral Nutrition, Home Total",Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0079613,C0079613,COMPARED_WITH,Adoptive Immunotherapy,Adoptive Immunotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0079613,C1278444,COMPARED_WITH,Adoptive Immunotherapy,Nicotine replacement therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0082139,C0589567,COMPARED_WITH,Cyclophosphamide/Dexamethasone/Doxorubicin/Vincristine,Placement procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0083089,C0083089,COMPARED_WITH,IVA protocol,IVA protocol,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0083765,C4763675,COMPARED_WITH,fluorouracil/methotrexate/mitoxantrone protocol,Single Agent Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0085076,C0021107,COMPARED_WITH,Mammaplasty,Implantation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0085198,C0023038,COMPARED_WITH,Esophagectomy,Laparotomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0085198,C0085198,COMPARED_WITH,Esophagectomy,Esophagectomy,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0085203,C0085203,COMPARED_WITH,Radiosurgery,Radiosurgery,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0085263,C0185115,COMPARED_WITH,"Sphincterotomy, Endoscopic",Extraction,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0085405,C0040808,COMPARED_WITH,Salvage Therapy,Treatment Protocols,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0085533,C0013216,COMPARED_WITH,"Chemotherapy, Adjuvant",Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0085533,C0152060,COMPARED_WITH,"Chemotherapy, Adjuvant",Transection (procedure),topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0086225,C0086225,COMPARED_WITH,Enteral Feeding,Enteral Feeding,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0086225,C0567465,COMPARED_WITH,Enteral Feeding,Feeding practice,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0086818,C0086252,COMPARED_WITH,Platelet Transfusion,Red Blood Cell Transfusion,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0086904,C0086904,COMPARED_WITH,Oral rehydration procedure,Oral rehydration procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0149615,C0242602,COMPARED_WITH,Allogeneic bone marrow transplantation,Peripheral Stem Cell Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0149783,C0032042,COMPARED_WITH,Steroid therapy,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0149783,C0149783,COMPARED_WITH,Steroid therapy,Steroid therapy,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0149783,C0459914,COMPARED_WITH,Steroid therapy,Conservative Treatment,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0150126,C0038906,COMPARED_WITH,Airway Management,Obstetric Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0150141,C0150141,COMPARED_WITH,Bathing,Bathing,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0150238,C0150238,COMPARED_WITH,Fluid resuscitation,Fluid resuscitation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0152060,C0015252,COMPARED_WITH,Transection (procedure),removal technique,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0152060,C0034386,COMPARED_WITH,Transection (procedure),Quarantine,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0152060,C0152060,COMPARED_WITH,Transection (procedure),Transection (procedure),topp,topp,14,COMPARED_WITH_TOPPcpwtTOPP
+C0152060,C0185027,COMPARED_WITH,Transection (procedure),Imbrication (procedure),topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0152060,C1511790,COMPARED_WITH,Transection (procedure),Detection,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0152060,C1515884,COMPARED_WITH,Transection (procedure),Acupuncture and Oriental Medicine,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0162563,C0013216,COMPARED_WITH,Cardiac ablation,Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0162563,C0162563,COMPARED_WITH,Cardiac ablation,Cardiac ablation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0162563,C0418981,COMPARED_WITH,Cardiac ablation,Medical therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0162563,C0547070,COMPARED_WITH,Cardiac ablation,Ablation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0184893,C0206058,COMPARED_WITH,Emergency operation,Elective Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0184898,C0282545,COMPARED_WITH,Surgical incisions,Phacoemulsification,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0184898,C0282624,COMPARED_WITH,Surgical incisions,Minimally Invasive Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0184904,C0032042,COMPARED_WITH,Slitting,Placebos,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0184904,C0036589,COMPARED_WITH,Slitting,Self Administration,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0185003,C0185003,COMPARED_WITH,Reparative closure,Reparative closure,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0185010,C0185010,COMPARED_WITH,Closure by clip procedure,Closure by clip procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185014,C0036435,COMPARED_WITH,Banding procedure,Sclerotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185023,C0185023,COMPARED_WITH,Fixation - action,Fixation - action,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185026,C0185026,COMPARED_WITH,Plication,Plication,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185027,C0185027,COMPARED_WITH,Imbrication (procedure),Imbrication (procedure),topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0185058,C0185058,COMPARED_WITH,Electrodesiccation with curettage,Electrodesiccation with curettage,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185111,C0152060,COMPARED_WITH,Surgical Manipulation,Transection (procedure),topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185111,C1704536,COMPARED_WITH,Surgical Manipulation,Direct Method,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185114,C0185114,COMPARED_WITH,Manual reduction,Manual reduction,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185115,C0012683,COMPARED_WITH,Extraction,Disinfection,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185115,C0015252,COMPARED_WITH,Extraction,removal technique,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185115,C0016641,COMPARED_WITH,Extraction,Fracture Fixation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185115,C0019004,COMPARED_WITH,Extraction,Hemodialysis,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185115,C0185115,COMPARED_WITH,Extraction,Extraction,topp,topp,22,COMPARED_WITH_TOPPcpwtTOPP
+C0185115,C0854643,COMPARED_WITH,Extraction,Reinfusion Procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185115,C4554488,COMPARED_WITH,Extraction,Retrieval - procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185117,C4039858,COMPARED_WITH,Expression procedure,Laparoscopic partial excision of kidney using robotic assistance,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0185317,C0002915,COMPARED_WITH,"Arthroplasty, Replacement",General Anesthesia,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0186193,C0747973,COMPARED_WITH,Repair of hip,Elective procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0186666,C0524865,COMPARED_WITH,Repair of musculotendinous cuff of shoulder,Reconstructive Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0189476,C0013457,COMPARED_WITH,Insertion of pleural tube drain,Early Ambulation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0189476,C0189477,COMPARED_WITH,Insertion of pleural tube drain,Thoracentesis,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0189559,C0752151,COMPARED_WITH,Chemical pleurodesis,"Thoracic Surgery, Video-Assisted",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0192456,C0559221,COMPARED_WITH,Nasogastric feeding,Gastrostomy feeding,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0193697,C0015252,COMPARED_WITH,Subtotal parathyroidectomy,removal technique,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0193959,C0193959,COMPARED_WITH,Tonsillectomy and adenoidectomy,Tonsillectomy and adenoidectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0194401,C4264454,COMPARED_WITH,Complete cystectomy,Chemo-radiotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0196878,C0015252,COMPARED_WITH,Neurolysis,removal technique,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0196878,C0459914,COMPARED_WITH,Neurolysis,Conservative Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199176,C0032042,COMPARED_WITH,Prophylactic treatment,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199176,C0199176,COMPARED_WITH,Prophylactic treatment,Prophylactic treatment,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0199176,C0444889,COMPARED_WITH,Prophylactic treatment,Continuous infusion,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199176,C0814361,COMPARED_WITH,Prophylactic treatment,selective prevention,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199176,C0920425,COMPARED_WITH,Prophylactic treatment,Cancer Therapeutic Procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199451,C0021925,COMPARED_WITH,Continuous Positive Airway Pressure,Intubation,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0199451,C0199451,COMPARED_WITH,Continuous Positive Airway Pressure,Continuous Positive Airway Pressure,topp,topp,8,COMPARED_WITH_TOPPcpwtTOPP
+C0199451,C0199470,COMPARED_WITH,Continuous Positive Airway Pressure,Mechanical ventilation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199451,C1611149,COMPARED_WITH,Continuous Positive Airway Pressure,Biphasic Positive Airway Pressure,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0199451,C2945704,COMPARED_WITH,Continuous Positive Airway Pressure,Conventional Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199451,C3665674,COMPARED_WITH,Continuous Positive Airway Pressure,Warburg Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199470,C0019004,COMPARED_WITH,Mechanical ventilation,Hemodialysis,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199470,C0021925,COMPARED_WITH,Mechanical ventilation,Intubation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0199470,C0032042,COMPARED_WITH,Mechanical ventilation,Placebos,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0199470,C0150126,COMPARED_WITH,Mechanical ventilation,Airway Management,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199470,C0184633,COMPARED_WITH,Mechanical ventilation,Oxygen Therapy Care,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199470,C0199470,COMPARED_WITH,Mechanical ventilation,Mechanical ventilation,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0199470,C0206074,COMPARED_WITH,Mechanical ventilation,Renal Replacement Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199470,C0695434,COMPARED_WITH,Mechanical ventilation,oscillations,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199470,C2945704,COMPARED_WITH,Mechanical ventilation,Conventional Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199779,C0032042,COMPARED_WITH,Administration of antibiotic,Placebos,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0199779,C0199779,COMPARED_WITH,Administration of antibiotic,Administration of antibiotic,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0199779,C0455142,COMPARED_WITH,Administration of antibiotic,Intravenous therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199782,C0574032,COMPARED_WITH,Administration of insulin,Infusion procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199804,C0032042,COMPARED_WITH,Vaccination against tuberculosis,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0199804,C0042196,COMPARED_WITH,Vaccination against tuberculosis,Vaccination,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0199804,C0199804,COMPARED_WITH,Vaccination against tuberculosis,Vaccination against tuberculosis,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0199809,C0021777,COMPARED_WITH,Poliomyelitis vaccination,Intermittent Positive-Pressure Breathing,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0203597,C1511790,COMPARED_WITH,hyperthermia treatment,Detection,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0203939,C1704536,COMPARED_WITH,Indirect Treatment,Direct Method,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0204021,C0020311,COMPARED_WITH,Shower hydrotherapy,Hydrotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0204193,C0869704,COMPARED_WITH,Orthodontic procedure,General Dental Care,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0204324,C0543467,COMPARED_WITH,Dental surgical procedure,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0204727,C0020971,COMPARED_WITH,Isolation procedure,Immunization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0204727,C0021932,COMPARED_WITH,Isolation procedure,"Intubation, Intratracheal",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0204727,C0034386,COMPARED_WITH,Isolation procedure,Quarantine,topp,topp,10,COMPARED_WITH_TOPPcpwtTOPP
+C0204727,C0042196,COMPARED_WITH,Isolation procedure,Vaccination,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0204727,C0079613,COMPARED_WITH,Isolation procedure,Adoptive Immunotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0204727,C0204727,COMPARED_WITH,Isolation procedure,Isolation procedure,topp,topp,22,COMPARED_WITH_TOPPcpwtTOPP
+C0204727,C0280274,COMPARED_WITH,Isolation procedure,Antiviral Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0204727,C1443867,COMPARED_WITH,Isolation procedure,Standard precautions,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0204727,C1511790,COMPARED_WITH,Isolation procedure,Detection,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0204774,C0025991,COMPARED_WITH,Soaking Procedure,Microinjections,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0206058,C0021932,COMPARED_WITH,Elective Surgical Procedures,"Intubation, Intratracheal",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0206058,C0038904,COMPARED_WITH,Elective Surgical Procedures,Minor Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0206058,C0206058,COMPARED_WITH,Elective Surgical Procedures,Elective Surgical Procedures,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0206058,C0543467,COMPARED_WITH,Elective Surgical Procedures,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0206058,C0747973,COMPARED_WITH,Elective Surgical Procedures,Elective procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0206074,C0015357,COMPARED_WITH,Renal Replacement Therapy,Extracorporeal Membrane Oxygenation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0206074,C0040732,COMPARED_WITH,Renal Replacement Therapy,Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0206074,C0206074,COMPARED_WITH,Renal Replacement Therapy,Renal Replacement Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0206153,C0029216,COMPARED_WITH,Cell Transplantation,Organ Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0237403,C0543467,COMPARED_WITH,treatments and procedures,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0242348,C0242348,COMPARED_WITH,Serotherapy,Serotherapy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0242602,C0005961,COMPARED_WITH,Peripheral Stem Cell Transplantation,Bone Marrow Transplantation,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0242602,C0040732,COMPARED_WITH,Peripheral Stem Cell Transplantation,Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0262762,C0262762,COMPARED_WITH,crisis management,crisis management,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0278335,C0419017,COMPARED_WITH,Synchronized intermittent mandatory ventilation,High frequency oscillatory ventilation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0278347,C0032042,COMPARED_WITH,Transfusion of plasma,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0279049,C0279049,COMPARED_WITH,Etoposide/Mitoxantrone Regimen,Etoposide/Mitoxantrone Regimen,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0279494,C0032042,COMPARED_WITH,Estrogen Therapy,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0279934,C0279934,COMPARED_WITH,chlorambucil/etoposide/lomustine,chlorambucil/etoposide/lomustine,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0280274,C0280274,COMPARED_WITH,Antiviral Therapy,Antiviral Therapy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0280592,C0280592,COMPARED_WITH,doxorubicin/fluorouracil/mitomycin/vincristine protocol,doxorubicin/fluorouracil/mitomycin/vincristine protocol,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0280603,C0280603,COMPARED_WITH,fluorouracil/methotrexate protocol,fluorouracil/methotrexate protocol,topp,topp,11,COMPARED_WITH_TOPPcpwtTOPP
+C0280603,C1511790,COMPARED_WITH,fluorouracil/methotrexate protocol,Detection,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0280604,C0032042,COMPARED_WITH,altretamine/cisplatin/cyclophosphamide protocol,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0280604,C0280604,COMPARED_WITH,altretamine/cisplatin/cyclophosphamide protocol,altretamine/cisplatin/cyclophosphamide protocol,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0281176,C2936405,COMPARED_WITH,Antibody Therapy,Drug Repositioning,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0281297,C0281297,COMPARED_WITH,Carboplatin/Paclitaxel,Carboplatin/Paclitaxel,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0282077,C0282077,COMPARED_WITH,Qigong,Qigong,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0282624,C0023038,COMPARED_WITH,Minimally Invasive Surgical Procedures,Laparotomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0282638,C0032042,COMPARED_WITH,Antibiotic Prophylaxis,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0337417,C0040574,COMPARED_WITH,Incision of sclera,Trabeculectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0338248,C0338248,COMPARED_WITH,carmustine/cytarabine/etoposide/melphalan regimen,carmustine/cytarabine/etoposide/melphalan regimen,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0338248,C1512814,COMPARED_WITH,carmustine/cytarabine/etoposide/melphalan regimen,"Radiotherapy, Intensity-Modulated",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0339897,C0376530,COMPARED_WITH,Transjugular intrahepatic portosystemic shunt procedure,"Decompression, Surgical",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0344217,C0027495,COMPARED_WITH,Chiropractic procedure,Naturopathy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0349707,C0189476,COMPARED_WITH,Aspiration-action,Insertion of pleural tube drain,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0349707,C0349707,COMPARED_WITH,Aspiration-action,Aspiration-action,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0371463,C0405997,COMPARED_WITH,Thoracoscopic pleurodesis,Talc pleurodesis,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0372525,C0003611,COMPARED_WITH,Laparoscopic appendectomy,Appendectomy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0376466,C0521213,COMPARED_WITH,Ischemic Preconditioning,Closure by clamp,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0376518,C0376518,COMPARED_WITH,Adoptive Transfer,Adoptive Transfer,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0391874,C0185115,COMPARED_WITH,Manual extraction,Extraction,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0392920,C0042196,COMPARED_WITH,Chemotherapy Regimen,Vaccination,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0392920,C0278348,COMPARED_WITH,Chemotherapy Regimen,Immunotherapy for cancer,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0394664,C0032042,COMPARED_WITH,Acupuncture procedure,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0396429,C0021925,COMPARED_WITH,Cricothyroidotomy,Intubation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0396608,C0002911,COMPARED_WITH,Airway procedure,"Anesthesia, Conduction",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0396625,C0396621,COMPARED_WITH,Nasotracheal intubation,Orotracheal intubation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0396670,C0031006,COMPARED_WITH,Isolated limb perfusion,In situ perfusion,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0396670,C0042200,COMPARED_WITH,Isolated limb perfusion,Influenza vaccination,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0396670,C0396670,COMPARED_WITH,Isolated limb perfusion,Isolated limb perfusion,topp,topp,8,COMPARED_WITH_TOPPcpwtTOPP
+C0398162,C0036435,COMPARED_WITH,Distal splenorenal anastomosis,Sclerotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0398266,C0542382,COMPARED_WITH,Venous cannula insertion,Jugular vein catheterization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0400447,C0185115,COMPARED_WITH,Orthotopic liver transplant,Extraction,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0405765,C0023038,COMPARED_WITH,Peritoneal drainage procedure,Laparotomy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0412792,C3665674,COMPARED_WITH,Preoxygenation,Warburg Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0418981,C0007344,COMPARED_WITH,Medical therapy,Castration,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0418981,C0749736,COMPARED_WITH,Medical therapy,tumor removal,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0418981,C1868981,COMPARED_WITH,Medical therapy,Invasive mechanical ventilation NOS,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0419011,C0419011,COMPARED_WITH,Controlled ventilation,Controlled ventilation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0419012,C0002766,COMPARED_WITH,Controlled mandatory ventilation,Pain management,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0419012,C0058890,COMPARED_WITH,Controlled mandatory ventilation,EAP protocol,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0436307,C0040808,COMPARED_WITH,Chemoradiotherapy,Treatment Protocols,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0436307,C0436307,COMPARED_WITH,Chemoradiotherapy,Chemoradiotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0436307,C3178775,COMPARED_WITH,Chemoradiotherapy,Concurrent Chemoradiotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0438673,C4551716,COMPARED_WITH,Microwave Therapy,Cryotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0439631,C1708063,COMPARED_WITH,Primary operation,First line treatment,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0439775,C0032042,COMPARED_WITH,Elevation procedure,Placebos,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0439775,C0439775,COMPARED_WITH,Elevation procedure,Elevation procedure,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0441503,C0441503,COMPARED_WITH,primary closure,primary closure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0441509,C0032042,COMPARED_WITH,Coagulation procedure,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0441516,C0281519,COMPARED_WITH,Demand (clinical),Cisplatin/Etoposide/Paclitaxel,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0441516,C0441516,COMPARED_WITH,Demand (clinical),Demand (clinical),topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0441516,C0557033,COMPARED_WITH,Demand (clinical),Reminding,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0444678,C0444678,COMPARED_WITH,Pneumatic otoscopy,Pneumatic otoscopy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0451615,C0032042,COMPARED_WITH,Pain relief,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0454523,C0454523,COMPARED_WITH,Manual hyperinflation,Manual hyperinflation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0454523,C4723833,COMPARED_WITH,Manual hyperinflation,vertebral augmentation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0455052,C0455052,COMPARED_WITH,Bowel preparation,Bowel preparation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0455142,C0001563,COMPARED_WITH,Intravenous therapy,"Administration, Oral",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0456675,C0456675,COMPARED_WITH,Massive blood transfusion,Massive blood transfusion,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0459914,C0021925,COMPARED_WITH,Conservative Treatment,Intubation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0459914,C0040044,COMPARED_WITH,Conservative Treatment,Thrombolytic Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0459914,C3665674,COMPARED_WITH,Conservative Treatment,Warburg Therapy,topp,topp,6,COMPARED_WITH_TOPPcpwtTOPP
+C0472567,C0031740,COMPARED_WITH,Exteriorization of trachea,Photochemotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0472567,C0457431,COMPARED_WITH,Exteriorization of trachea,Percutaneous techniques,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0472567,C0584877,COMPARED_WITH,Exteriorization of trachea,Percutaneous tracheostomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0472688,C5197696,COMPARED_WITH,Continuous Venovenous Hemodiafiltration,Intermittent Renal Replacement Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0472699,C0040732,COMPARED_WITH,Hemopoietic stem cell transplant,Transplantation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0472699,C0040736,COMPARED_WITH,Hemopoietic stem cell transplant,"Transplantation, Autologous",topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0472699,C0278348,COMPARED_WITH,Hemopoietic stem cell transplant,Immunotherapy for cancer,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0472699,C0472699,COMPARED_WITH,Hemopoietic stem cell transplant,Hemopoietic stem cell transplant,topp,topp,8,COMPARED_WITH_TOPPcpwtTOPP
+C0472890,C0085198,COMPARED_WITH,Trans-hiatal esophagectomy,Esophagectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0475745,C2945704,COMPARED_WITH,Apneic oxygenation,Conventional Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0520484,C0040739,COMPARED_WITH,Xenograft procedure,"Transplantation, Homologous",topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0520484,C0204727,COMPARED_WITH,Xenograft procedure,Isolation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0520484,C0520484,COMPARED_WITH,Xenograft procedure,Xenograft procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0521210,C0442968,COMPARED_WITH,Resection of polyp,Functional endoscopic sinus surgery,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0521213,C0521213,COMPARED_WITH,Closure by clamp,Closure by clamp,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0521300,C0032042,COMPARED_WITH,Life support procedure,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0521302,C0204700,COMPARED_WITH,Fluid replacement,Fluid restriction,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0521974,C0242970,COMPARED_WITH,"Diet, High-Fat",Fat-Restricted Diet,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0521974,C0259835,COMPARED_WITH,"Diet, High-Fat",High carbohydrate diet,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0524865,C0524865,COMPARED_WITH,Reconstructive Surgical Procedures,Reconstructive Surgical Procedures,topp,topp,5,COMPARED_WITH_TOPPcpwtTOPP
+C0524865,C1511790,COMPARED_WITH,Reconstructive Surgical Procedures,Detection,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0524865,C1831994,COMPARED_WITH,Reconstructive Surgical Procedures,selective internal radiation therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0543467,C0037995,COMPARED_WITH,Operative Surgical Procedures,Splenectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0543467,C0418981,COMPARED_WITH,Operative Surgical Procedures,Medical therapy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0543467,C0543467,COMPARED_WITH,Operative Surgical Procedures,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0543467,C0584877,COMPARED_WITH,Operative Surgical Procedures,Percutaneous tracheostomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0543467,C0747973,COMPARED_WITH,Operative Surgical Procedures,Elective procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0543467,C1511790,COMPARED_WITH,Operative Surgical Procedures,Detection,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0543467,C2735670,COMPARED_WITH,Operative Surgical Procedures,Medication intervention,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0543467,C2945704,COMPARED_WITH,Operative Surgical Procedures,Conventional Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0545447,C0545447,COMPARED_WITH,monitoring temperature,monitoring temperature,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0547070,C0547070,COMPARED_WITH,Ablation,Ablation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0548067,C0038638,COMPARED_WITH,Nasopharyngeal suction,Suction drainage,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0553891,C0002911,COMPARED_WITH,Tracheal Extubation,"Anesthesia, Conduction",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0556662,C0394674,COMPARED_WITH,Rhythmic stabilization,Neurostimulation/modulation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0557061,C0557061,COMPARED_WITH,Discussion (procedure),Discussion (procedure),topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0565195,C0038638,COMPARED_WITH,Continuous suction drainage,Suction drainage,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0565867,C0007876,COMPARED_WITH,delivery method,Cesarean section,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0574032,C0032042,COMPARED_WITH,Infusion procedures,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0574032,C0574032,COMPARED_WITH,Infusion procedures,Infusion procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0584877,C0040590,COMPARED_WITH,Percutaneous tracheostomy,Tracheostomy procedure,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0597409,C0040732,COMPARED_WITH,retransplantation,Transplantation,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C0600060,C0600060,COMPARED_WITH,Omentopexy,Omentopexy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0600080,C0600080,COMPARED_WITH,Stretching exercises,Stretching exercises,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0600558,C0600558,COMPARED_WITH,Neoadjuvant Therapy,Neoadjuvant Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0600558,C0677850,COMPARED_WITH,Neoadjuvant Therapy,Adjuvant Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0669206,C0963093,COMPARED_WITH,FTM protocol,FBM protocol,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0677850,C0032042,COMPARED_WITH,Adjuvant Therapy,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0677850,C0040808,COMPARED_WITH,Adjuvant Therapy,Treatment Protocols,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0677850,C1562158,COMPARED_WITH,Adjuvant Therapy,"Injections, Periocular",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0678026,C0032042,COMPARED_WITH,Antifungal therapy,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0678812,C4763675,COMPARED_WITH,systemic administration,Single Agent Therapy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0679698,C1303150,COMPARED_WITH,disease prevention,Disease management program (regime/therapy),topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0683174,C0032042,COMPARED_WITH,topical application,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0702123,C0196775,COMPARED_WITH,Nerve graft,Neuroplasty,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0730392,C0040732,COMPARED_WITH,Donor renal transplantation,Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0730400,C0032042,COMPARED_WITH,Solid organ transplant,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0730426,C0242883,COMPARED_WITH,HIV counseling,Needle-Exchange Programs,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0742390,C1280903,COMPARED_WITH,open cholecystectomy,Exploration procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0744425,C0032042,COMPARED_WITH,glucocorticoid therapy,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0746573,C0032042,COMPARED_WITH,methotrexate treatment,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0747973,C0543467,COMPARED_WITH,Elective procedure,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0747973,C0747973,COMPARED_WITH,Elective procedure,Elective procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0747973,C3272275,COMPARED_WITH,Elective procedure,Urgent Procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0748895,C0004704,COMPARED_WITH,Sphincterotomy,Balloon Dilatation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0751429,C1521745,COMPARED_WITH,"Surgical Procedures, Laparoscopic",Conventional Surgery,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0752151,C0039991,COMPARED_WITH,"Thoracic Surgery, Video-Assisted",Thoracotomy,topp,topp,5,COMPARED_WITH_TOPPcpwtTOPP
+C0752151,C0189476,COMPARED_WITH,"Thoracic Surgery, Video-Assisted",Insertion of pleural tube drain,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0752151,C4723833,COMPARED_WITH,"Thoracic Surgery, Video-Assisted",vertebral augmentation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0814435,C0034386,COMPARED_WITH,early identification,Quarantine,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0850173,C0001566,COMPARED_WITH,skin Healing,"Administration, Topical",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0850292,C0850292,COMPARED_WITH,Radiofrequency Ablation,Radiofrequency Ablation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0852753,C0543467,COMPARED_WITH,cyst drainage,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0871803,C0030231,COMPARED_WITH,life sustaining treatment,Palliative Care,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0887947,C0887947,COMPARED_WITH,"Antiretroviral Therapy, Highly Active","Antiretroviral Therapy, Highly Active",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0917927,C0024881,COMPARED_WITH,Breast-Conserving Surgery,Mastectomy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0919721,C2608114,COMPARED_WITH,Anorectal surgeries,Colon and Rectal Surgery (procedure),topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0920425,C0013216,COMPARED_WITH,Cancer Therapeutic Procedure,Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0920467,C0032042,COMPARED_WITH,disorder control (procedure),Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0920467,C0050380,COMPARED_WITH,disorder control (procedure),bleomycin/dacarbazine/doxorubicin/vinblastine protocol,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0920467,C0152060,COMPARED_WITH,disorder control (procedure),Transection (procedure),topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0920467,C0199176,COMPARED_WITH,disorder control (procedure),Prophylactic treatment,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C0920467,C4763675,COMPARED_WITH,disorder control (procedure),Single Agent Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0947647,C0854643,COMPARED_WITH,Manipulation procedure,Reinfusion Procedure,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C0947647,C0947647,COMPARED_WITH,Manipulation procedure,Manipulation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0947647,C1511790,COMPARED_WITH,Manipulation procedure,Detection,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0947647,C1512335,COMPARED_WITH,Manipulation procedure,Harvest Procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0948173,C0199176,COMPARED_WITH,intestinal transplant,Prophylactic treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C0949591,C0002688,COMPARED_WITH,Limb Salvage,Amputation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1135929,C0042196,COMPARED_WITH,Mass Vaccination,Vaccination,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C1135929,C0199804,COMPARED_WITH,Mass Vaccination,Vaccination against tuberculosis,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1135976,C0149615,COMPARED_WITH,Cord Blood Stem Cell Transplantation,Allogeneic bone marrow transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1136201,C0013804,COMPARED_WITH,Orthopedic Surgical Procedures,Electrocoagulation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1138412,C1138412,COMPARED_WITH,"Diet, Mediterranean","Diet, Mediterranean",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1148475,C0033968,COMPARED_WITH,Complementary and alternative medicine,Psychotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1261381,C1261381,COMPARED_WITH,Destructive procedure (surgical),Destructive procedure (surgical),topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1261381,C4763675,COMPARED_WITH,Destructive procedure (surgical),Single Agent Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1273412,C1273412,COMPARED_WITH,Chinese herbal medicine,Chinese herbal medicine,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1276413,C0019144,COMPARED_WITH,Therapeutic regimen,Hepatectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1278444,C0032042,COMPARED_WITH,Nicotine replacement therapy,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1278454,C0032042,COMPARED_WITH,Statin prophylaxis,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1280903,C0085263,COMPARED_WITH,Exploration procedure,"Sphincterotomy, Endoscopic",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1280903,C0185115,COMPARED_WITH,Exploration procedure,Extraction,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1282573,C0023038,COMPARED_WITH,Evacuation procedure,Laparotomy,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C1282573,C0152060,COMPARED_WITH,Evacuation procedure,Transection (procedure),topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1283075,C1283075,COMPARED_WITH,Fusion - action,Fusion - action,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1293130,C1293130,COMPARED_WITH,Stabilization,Stabilization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1293132,C1293132,COMPARED_WITH,Anchoring procedure,Anchoring procedure,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C1293152,C1293152,COMPARED_WITH,Reduction procedure,Reduction procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1293164,C0040736,COMPARED_WITH,Bone block procedure,"Transplantation, Autologous",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1318464,C1318464,COMPARED_WITH,Occupational therapy regime,Occupational therapy regime,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1320708,C0564626,COMPARED_WITH,Volume controlled ventilation,Pressure controlled ventilation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C1328050,C0472699,COMPARED_WITH,High Dose Chemotherapy,Hemopoietic stem cell transplant,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1328526,C2713304,COMPARED_WITH,Primary Immunologic Sensitization,Revaccination,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1455871,C0021925,COMPARED_WITH,Non-invasive positive pressure (NIPPV),Intubation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1456566,C1456647,COMPARED_WITH,Adult Immunization,Childhood Immunization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1456587,C0418981,COMPARED_WITH,Bariatric Surgery,Medical therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1456647,C1456647,COMPARED_WITH,Childhood Immunization,Childhood Immunization,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1504389,C0472699,COMPARED_WITH,Stem cell transplant,Hemopoietic stem cell transplant,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1511484,C0013216,COMPARED_WITH,Consolidation Therapy,Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C0032042,COMPARED_WITH,Detection,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C0034386,COMPARED_WITH,Detection,Quarantine,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C0040461,COMPARED_WITH,Detection,Toothbrushing,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C0042196,COMPARED_WITH,Detection,Vaccination,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C0071973,COMPARED_WITH,Detection,Ifosfamide/Methotrexate/Procarbazine protocol,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C0204727,COMPARED_WITH,Detection,Isolation procedure,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C0338283,COMPARED_WITH,Detection,Cyclophosphamide/Etoposide/Mitoxantrone,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C0407295,COMPARED_WITH,Detection,Fixation of fracture using plate,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C0454044,COMPARED_WITH,Detection,Simonton technique,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C1511790,COMPARED_WITH,Detection,Detection,topp,topp,55,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C1512721,COMPARED_WITH,Detection,Inferential Current Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C3540512,COMPARED_WITH,Detection,Circumferential Supracrestal Fiberotomy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C1511790,C5202572,COMPARED_WITH,Detection,Interval Debulking Surgery,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1512429,C1511484,COMPARED_WITH,High-Dose Chemotherapy with Autologous Stem Cell Transplant,Consolidation Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1512814,C0600521,COMPARED_WITH,"Radiotherapy, Intensity-Modulated","Radiotherapy, Conformal",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1512814,C3178775,COMPARED_WITH,"Radiotherapy, Intensity-Modulated",Concurrent Chemoradiotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1514818,C1706406,COMPARED_WITH,Regional Chemotherapy,Debulking Procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1515119,C0543467,COMPARED_WITH,Systemic Therapy,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1515884,C0887947,COMPARED_WITH,Acupuncture and Oriental Medicine,"Antiretroviral Therapy, Highly Active",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1515884,C1515884,COMPARED_WITH,Acupuncture and Oriental Medicine,Acupuncture and Oriental Medicine,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1517033,C1517033,COMPARED_WITH,External Beam Radiation Therapy,External Beam Radiation Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1519252,C0009429,COMPARED_WITH,Sequential Treatment,Combined Modality Therapy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C1519630,C0010651,COMPARED_WITH,Transurethral Resection,Cystectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1522449,C0013216,COMPARED_WITH,Therapeutic radiology procedure,Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1522449,C0040739,COMPARED_WITH,Therapeutic radiology procedure,"Transplantation, Homologous",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1522449,C1522449,COMPARED_WITH,Therapeutic radiology procedure,Therapeutic radiology procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1522449,C2945704,COMPARED_WITH,Therapeutic radiology procedure,Conventional Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1527077,C1527077,COMPARED_WITH,Peripheral Electronic Nerve Stimulation,Peripheral Electronic Nerve Stimulation,topp,topp,8,COMPARED_WITH_TOPPcpwtTOPP
+C1531518,C1531518,COMPARED_WITH,Biological treatment,Biological treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1531698,C0034386,COMPARED_WITH,Active monitoring,Quarantine,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1532338,C0040044,COMPARED_WITH,Percutaneous Coronary Intervention,Thrombolytic Therapy,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C1535502,C1511790,COMPARED_WITH,Bronchoalveolar Lavage,Detection,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C1659427,C1659427,COMPARED_WITH,nebulization-mediated drug administration,nebulization-mediated drug administration,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C1704532,C0032042,COMPARED_WITH,Active Method,Placebos,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C1704535,C0022024,COMPARED_WITH,Passive Method,Iontophoresis,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1704536,C0203939,COMPARED_WITH,Direct Method,Indirect Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1704536,C1704536,COMPARED_WITH,Direct Method,Direct Method,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1706711,C2945704,COMPARED_WITH,Additional Surgical Procedure,Conventional Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1708063,C0013216,COMPARED_WITH,First line treatment,Pharmacotherapy,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C1708063,C2945704,COMPARED_WITH,First line treatment,Conventional Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1710089,C0024128,COMPARED_WITH,Single Lung Transplantation,Lung Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1868981,C0419008,COMPARED_WITH,Invasive mechanical ventilation NOS,Pressure support,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1868981,C1868981,COMPARED_WITH,Invasive mechanical ventilation NOS,Invasive mechanical ventilation NOS,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C1868981,C2349740,COMPARED_WITH,Invasive mechanical ventilation NOS,Non-invasive mechanical ventilation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1868981,C3665674,COMPARED_WITH,Invasive mechanical ventilation NOS,Warburg Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1880658,C1880658,COMPARED_WITH,Folinic Acid-Fluorouracil-Irinotecan Regimen,Folinic Acid-Fluorouracil-Irinotecan Regimen,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1883520,C1883520,COMPARED_WITH,VePesid-Ifosfamide-Platinol Regimen,VePesid-Ifosfamide-Platinol Regimen,topp,topp,43,COMPARED_WITH_TOPPcpwtTOPP
+C1883583,C1276393,COMPARED_WITH,Yoga,Group exercise,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1964029,C0002996,COMPARED_WITH,early/brief intervention/therapy (treatment),"Angioplasty, Balloon",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1964029,C0005961,COMPARED_WITH,early/brief intervention/therapy (treatment),Bone Marrow Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1997821,C0031140,COMPARED_WITH,Automated peritoneal dialysis,"Peritoneal Dialysis, Continuous Ambulatory",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1997883,C0021925,COMPARED_WITH,Noninvasive Ventilation,Intubation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C1997883,C0032042,COMPARED_WITH,Noninvasive Ventilation,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1997883,C1868981,COMPARED_WITH,Noninvasive Ventilation,Invasive mechanical ventilation NOS,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C1997883,C1997883,COMPARED_WITH,Noninvasive Ventilation,Noninvasive Ventilation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C1997883,C2945704,COMPARED_WITH,Noninvasive Ventilation,Conventional Treatment,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C2033062,C0085162,COMPARED_WITH,Pancreatic Surgical Procedure,Pancreaticoduodenectomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2111517,C0005841,COMPARED_WITH,laparoscopic myomectomy,Blood Transfusion,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2242628,C0032042,COMPARED_WITH,Fecal Microbiota Transplantation,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2242628,C0040732,COMPARED_WITH,Fecal Microbiota Transplantation,Transplantation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C2242628,C2242628,COMPARED_WITH,Fecal Microbiota Transplantation,Fecal Microbiota Transplantation,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C2347900,C2347900,COMPARED_WITH,Rechallenge,Rechallenge,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2348331,C2348331,COMPARED_WITH,Dose Regimen,Dose Regimen,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2349740,C1868981,COMPARED_WITH,Non-invasive mechanical ventilation,Invasive mechanical ventilation NOS,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2368628,C0042196,COMPARED_WITH,Vaccine Administration,Vaccination,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2711836,C0418981,COMPARED_WITH,Percutaneous replacement of aortic valve using fluoroscopic guidance,Medical therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2825951,C0013216,COMPARED_WITH,Adjunctive Orthodontic Procedure,Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2827774,C0032042,COMPARED_WITH,Current Therapy,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2827950,C0021107,COMPARED_WITH,Previous and Current Therapy,Implantation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2936204,C2936204,COMPARED_WITH,Endovascular Procedures,Endovascular Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2936738,C2936738,COMPARED_WITH,Therapeutic Irrigation,Therapeutic Irrigation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2945704,C2945704,COMPARED_WITH,Conventional Treatment,Conventional Treatment,topp,topp,6,COMPARED_WITH_TOPPcpwtTOPP
+C2945704,C3164735,COMPARED_WITH,Conventional Treatment,Noninvasive positive pressure ventilation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2985562,C0010280,COMPARED_WITH,Transsphenoidal Surgery,Craniotomy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C2986502,C2986502,COMPARED_WITH,Zheng,Zheng,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3163695,C0543467,COMPARED_WITH,Transarterial embolization,Operative Surgical Procedures,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3177188,C0032042,COMPARED_WITH,Early Therapy,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3178854,C3825792,COMPARED_WITH,Neurally Adjusted Ventilatory Assist,Pressure breathing,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3179010,C3179010,COMPARED_WITH,Induction Chemotherapy,Induction Chemotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3179017,C0040732,COMPARED_WITH,Consolidation Chemotherapy,Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3272275,C3272275,COMPARED_WITH,Urgent Procedure,Urgent Procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3274791,C0040732,COMPARED_WITH,Mechanical Circulatory Support,Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3540512,C1511790,COMPARED_WITH,Circumferential Supracrestal Fiberotomy,Detection,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3540512,C3540512,COMPARED_WITH,Circumferential Supracrestal Fiberotomy,Circumferential Supracrestal Fiberotomy,topp,topp,8,COMPARED_WITH_TOPPcpwtTOPP
+C3649547,C0031139,COMPARED_WITH,Continuous Renal Replacement Therapy,Peritoneal Dialysis,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C3650840,C3650840,COMPARED_WITH,Traditional therapy,Traditional therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3661918,C0042200,COMPARED_WITH,Pneumococcal conjugate vaccination,Influenza vaccination,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3665674,C0021925,COMPARED_WITH,Warburg Therapy,Intubation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3665674,C1997883,COMPARED_WITH,Warburg Therapy,Noninvasive Ventilation,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C3665674,C2945704,COMPARED_WITH,Warburg Therapy,Conventional Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3665674,C4763675,COMPARED_WITH,Warburg Therapy,Single Agent Therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3714726,C1708063,COMPARED_WITH,Operation on breast,First line treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3825792,C3178854,COMPARED_WITH,Pressure breathing,Neurally Adjusted Ventilatory Assist,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3825792,C3825792,COMPARED_WITH,Pressure breathing,Pressure breathing,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3839839,C1171177,COMPARED_WITH,Pediatric care,Adult care,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3841297,C1541822,COMPARED_WITH,Cesarean,Vaginal delivery procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3843422,C0032042,COMPARED_WITH,Abstinence,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3843422,C3843422,COMPARED_WITH,Abstinence,Abstinence,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3850024,C3850024,COMPARED_WITH,Transcranial Direct Current Stimulation,Transcranial Direct Current Stimulation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3850079,C3850079,COMPARED_WITH,Cytoreductive Surgery,Cytoreductive Surgery,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3896609,C0013216,COMPARED_WITH,Stereotactic Body Radiation Therapy,Pharmacotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C3897730,C0043162,COMPARED_WITH,Reduced-Intensity Transplant Conditioning Procedure,Whole-Body Irradiation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4050091,C0574135,COMPARED_WITH,Topical Corticosteroid Therapy,Oral steroid therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4076002,C0001563,COMPARED_WITH,Cyclophosphamide therapy,"Administration, Oral",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4316303,C0001563,COMPARED_WITH,Infusion Therapy,"Administration, Oral",topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4319756,C3897730,COMPARED_WITH,Myeloablative Conditioning,Reduced-Intensity Transplant Conditioning Procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4511939,C0032042,COMPARED_WITH,Ustekinumab therapy,Placebos,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4520447,C4520447,COMPARED_WITH,Decolonization,Decolonization,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C4524538,C4524538,COMPARED_WITH,Whole Blood or Product Procurement,Whole Blood or Product Procurement,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4526534,C4526534,COMPARED_WITH,Bendamustine/Bortezomib/Dexamethasone Regimen,Bendamustine/Bortezomib/Dexamethasone Regimen,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4722216,C4723833,COMPARED_WITH,Incisional Vacuum-Assisted Closure Therapy,vertebral augmentation procedure,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4723833,C0021925,COMPARED_WITH,vertebral augmentation procedure,Intubation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4723833,C0038638,COMPARED_WITH,vertebral augmentation procedure,Suction drainage,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4723833,C4723833,COMPARED_WITH,vertebral augmentation procedure,vertebral augmentation procedure,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C4763675,C0009429,COMPARED_WITH,Single Agent Therapy,Combined Modality Therapy,topp,topp,19,COMPARED_WITH_TOPPcpwtTOPP
+C4763675,C0013216,COMPARED_WITH,Single Agent Therapy,Pharmacotherapy,topp,topp,3,COMPARED_WITH_TOPPcpwtTOPP
+C4763675,C0032042,COMPARED_WITH,Single Agent Therapy,Placebos,topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C4763675,C0033972,COMPARED_WITH,Single Agent Therapy,"Psychotherapy, Multiple",topp,topp,2,COMPARED_WITH_TOPPcpwtTOPP
+C4763675,C0040808,COMPARED_WITH,Single Agent Therapy,Treatment Protocols,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4763675,C0559680,COMPARED_WITH,Single Agent Therapy,Intravenous antibiotic therapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4763675,C4763675,COMPARED_WITH,Single Agent Therapy,Single Agent Therapy,topp,topp,4,COMPARED_WITH_TOPPcpwtTOPP
+C4763822,C0459914,COMPARED_WITH,Valvular Surgery,Conservative Treatment,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4763873,C0005976,COMPARED_WITH,Core Decompression,Bone Transplantation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C4763884,C0547070,COMPARED_WITH,Epicardial Ablation,Ablation,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C5202572,C5202572,COMPARED_WITH,Interval Debulking Surgery,Interval Debulking Surgery,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP
+C5205360,C0436307,COMPARED_WITH,FLOT Regimen,Chemoradiotherapy,topp,topp,1,COMPARED_WITH_TOPPcpwtTOPP

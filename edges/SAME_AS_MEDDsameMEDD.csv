@@ -1,0 +1,24 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002422,C0002422,SAME_AS,Ambulances,Ambulances,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0024861,C0024861,SAME_AS,Masks,Masks,medd,medd,2,SAME_AS_MEDDsameMEDD
+C0024861,C0181758,SAME_AS,Masks,Surgical face mask,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0024861,C0183086,SAME_AS,Masks,sanitizers,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0042497,C0042497,SAME_AS,Mechanical Ventilator,Mechanical Ventilator,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0042497,C0181758,SAME_AS,Mechanical Ventilator,Surgical face mask,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0085104,C0085104,SAME_AS,Drug Delivery Systems,Drug Delivery Systems,medd,medd,3,SAME_AS_MEDDsameMEDD
+C0085678,C0336630,SAME_AS,Nasogastric tube,Endotracheal tube,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0175730,C0179802,SAME_AS,biomedical tube device,Urinary catheter,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0179302,C0179302,SAME_AS,"Binder, device","Binder, device",medd,medd,1,SAME_AS_MEDDsameMEDD
+C0181758,C0024861,SAME_AS,Surgical face mask,Masks,medd,medd,4,SAME_AS_MEDDsameMEDD
+C0181758,C0042497,SAME_AS,Surgical face mask,Mechanical Ventilator,medd,medd,2,SAME_AS_MEDDsameMEDD
+C0183115,C0593622,SAME_AS,Scanning Systems,Home pregnancy testing kit,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0183210,C0181904,SAME_AS,sensor (device),Monitor Device,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0183212,C1553642,SAME_AS,Separators,Maxillary left lateral incisor abutment,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0183255,C0024861,SAME_AS,Face shield (physical object),Masks,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0183479,C0183479,SAME_AS,Spreader,Spreader,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0183652,C0183652,SAME_AS,String (device),String (device),medd,medd,1,SAME_AS_MEDDsameMEDD
+C0725865,C0042497,SAME_AS,disposable,Mechanical Ventilator,medd,medd,1,SAME_AS_MEDDsameMEDD
+C0993596,C0027524,SAME_AS,Metered Dose Inhaler,Nebulizers,medd,medd,1,SAME_AS_MEDDsameMEDD
+C1260969,C0085104,SAME_AS,Ring device,Drug Delivery Systems,medd,medd,1,SAME_AS_MEDDsameMEDD
+C2720748,C1706912,SAME_AS,Hoods,BARRIER,medd,medd,1,SAME_AS_MEDDsameMEDD
+C3876322,C0181222,SAME_AS,Viral filter,Hoses,medd,medd,1,SAME_AS_MEDDsameMEDD

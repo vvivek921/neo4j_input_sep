@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004793,C0080089,NEG_COEXISTS_WITH,Base Sequence,Reading Frames (Nucleotide Sequence),nusq,nusq,1,NEG_COEXISTS_WITH_NUSQncxwtNUSQ
+C0009221,C0080089,NEG_COEXISTS_WITH,Codon (nucleotide sequence),Reading Frames (Nucleotide Sequence),nusq,nusq,2,NEG_COEXISTS_WITH_NUSQncxwtNUSQ
+C0079160,C0080089,NEG_COEXISTS_WITH,Consensus Sequence,Reading Frames (Nucleotide Sequence),nusq,nusq,1,NEG_COEXISTS_WITH_NUSQncxwtNUSQ
+C0162326,C0079160,NEG_COEXISTS_WITH,DNA Sequence,Consensus Sequence,nusq,nusq,1,NEG_COEXISTS_WITH_NUSQncxwtNUSQ
+C0162326,C0080089,NEG_COEXISTS_WITH,DNA Sequence,Reading Frames (Nucleotide Sequence),nusq,nusq,1,NEG_COEXISTS_WITH_NUSQncxwtNUSQ
+C0162326,C3178810,NEG_COEXISTS_WITH,DNA Sequence,Transcriptome,nusq,nusq,1,NEG_COEXISTS_WITH_NUSQncxwtNUSQ
+C0242611,C0080089,NEG_COEXISTS_WITH,"Codon, Terminator",Reading Frames (Nucleotide Sequence),nusq,nusq,1,NEG_COEXISTS_WITH_NUSQncxwtNUSQ
+C0600600,C0004793,NEG_COEXISTS_WITH,3' Untranslated Regions,Base Sequence,nusq,nusq,1,NEG_COEXISTS_WITH_NUSQncxwtNUSQ
+C0600600,C1883644,NEG_COEXISTS_WITH,3' Untranslated Regions,5' Region,nusq,nusq,2,NEG_COEXISTS_WITH_NUSQncxwtNUSQ
+C0752046,C0600600,NEG_COEXISTS_WITH,Single Nucleotide Polymorphism,3' Untranslated Regions,nusq,nusq,1,NEG_COEXISTS_WITH_NUSQncxwtNUSQ
+C1883644,C1883633,NEG_COEXISTS_WITH,5' Region,3' Region,nusq,nusq,1,NEG_COEXISTS_WITH_NUSQncxwtNUSQ

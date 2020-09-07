@@ -1,0 +1,31 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004793,C0020202,AUGMENTS,Base Sequence,Crossbreeding,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0004793,C0282572,AUGMENTS,Base Sequence,"Frameshifting, Ribosomal",nusq,genf,2,AUGMENTS_NUSQaugmGENF
+C0004793,C1257825,AUGMENTS,Base Sequence,Genomic Stability,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0009802,C1622984,AUGMENTS,Conserved Sequence,mRNA synthesis,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0086908,C0034865,AUGMENTS,Repetitive Region,"Recombination, Genetic",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0086908,C0598496,AUGMENTS,Repetitive Region,Gene Silencing,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C0020202,AUGMENTS,DNA Sequence,Crossbreeding,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C0034865,AUGMENTS,DNA Sequence,"Recombination, Genetic",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C0040649,AUGMENTS,DNA Sequence,"Transcription, Genetic",nusq,genf,3,AUGMENTS_NUSQaugmGENF
+C0162326,C0598496,AUGMENTS,DNA Sequence,Gene Silencing,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C0599773,AUGMENTS,DNA Sequence,Homologous Recombination,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C1158816,AUGMENTS,DNA Sequence,mRNA transcription,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C1519614,AUGMENTS,DNA Sequence,Genetic Translation Process,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162326,C1622990,AUGMENTS,DNA Sequence,pre-mRNA splicing,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0162327,C0034865,AUGMENTS,RNA Sequence,"Recombination, Genetic",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0242611,C1157567,AUGMENTS,"Codon, Terminator",translational termination,nusq,genf,2,AUGMENTS_NUSQaugmGENF
+C0242611,C1158013,AUGMENTS,"Codon, Terminator",Nonsense Mediated mRNA Decay,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0600600,C1257759,AUGMENTS,3' Untranslated Regions,mRNA Degradation,nusq,genf,2,AUGMENTS_NUSQaugmGENF
+C0600600,C1328949,AUGMENTS,3' Untranslated Regions,RNA replication,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0600600,C1519614,AUGMENTS,3' Untranslated Regions,Genetic Translation Process,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C0600600,C1622984,AUGMENTS,3' Untranslated Regions,mRNA synthesis,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C1512886,C1328949,AUGMENTS,Internal Ribosome Entry Sites,RNA replication,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C1512886,C1519613,AUGMENTS,Internal Ribosome Entry Sites,Translation Initiation,nusq,genf,9,AUGMENTS_NUSQaugmGENF
+C1516561,C0282572,AUGMENTS,Cis-Acting Sequence,"Frameshifting, Ribosomal",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C1517336,C0040649,AUGMENTS,G-Quadruplexes,"Transcription, Genetic",nusq,genf,2,AUGMENTS_NUSQaugmGENF
+C1517336,C2610186,AUGMENTS,G-Quadruplexes,"nuclear mRNA cis splicing, via spliceosome",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C2329837,C1158817,AUGMENTS,Regulatory DNA sequence,viral transcription,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C3178798,C0040649,AUGMENTS,DNA Motifs,"Transcription, Genetic",nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C3178810,C0017263,AUGMENTS,Transcriptome,Gene Expression Regulation,nusq,genf,1,AUGMENTS_NUSQaugmGENF
+C4086445,C1623415,AUGMENTS,High Occupancy Target Region,RNA chemical synthesis,nusq,genf,1,AUGMENTS_NUSQaugmGENF

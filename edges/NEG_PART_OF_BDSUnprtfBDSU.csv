@@ -1,0 +1,56 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003964,C0229671,NEG_PART_OF,Peritoneal Fluid (body substance),Serum,bdsu,bdsu,2,NEG_PART_OF_BDSUnprtfBDSU
+C0005767,C0015733,NEG_PART_OF,Blood,Feces,bdsu,bdsu,2,NEG_PART_OF_BDSUnprtfBDSU
+C0005889,C0005767,NEG_PART_OF,Body Fluids,Blood,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0005889,C0042036,NEG_PART_OF,Body Fluids,Urine,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0006279,C0038056,NEG_PART_OF,Bronchoalveolar Lavage Fluid,Sputum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0007806,C0229671,NEG_PART_OF,Cerebrospinal Fluid,Serum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0007806,C1292530,NEG_PART_OF,Cerebrospinal Fluid,Cerebrospinal fluid sample,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0015388,C0038056,NEG_PART_OF,Exudate,Sputum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0015733,C0005767,NEG_PART_OF,Feces,Blood,bdsu,bdsu,2,NEG_PART_OF_BDSUnprtfBDSU
+C0015733,C0026727,NEG_PART_OF,Feces,Mucous body substance,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0015733,C0444159,NEG_PART_OF,Feces,Sputum specimen,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0015733,C0444279,NEG_PART_OF,Feces,Respiratory sample,bdsu,bdsu,5,NEG_PART_OF_BDSUnprtfBDSU
+C0015733,C3687742,NEG_PART_OF,Feces,Oropharyngeal swab,bdsu,bdsu,5,NEG_PART_OF_BDSUnprtfBDSU
+C0026727,C0015733,NEG_PART_OF,Mucous body substance,Feces,bdsu,bdsu,3,NEG_PART_OF_BDSUnprtfBDSU
+C0034161,C0015733,NEG_PART_OF,Pus,Feces,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0036087,C0229671,NEG_PART_OF,saliva,Serum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0036087,C0438730,NEG_PART_OF,saliva,Saliva specimen,bdsu,bdsu,2,NEG_PART_OF_BDSUnprtfBDSU
+C0036087,C1550100,NEG_PART_OF,saliva,Specimen Type - Serum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0038056,C0229671,NEG_PART_OF,Sputum,Serum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0042036,C0005767,NEG_PART_OF,Urine,Blood,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0042036,C1550661,NEG_PART_OF,Urine,Specimen Type - Stool = Fecal,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0042036,C3687742,NEG_PART_OF,Urine,Oropharyngeal swab,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0229671,C0009413,NEG_PART_OF,Serum,Colostrum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0229671,C0444279,NEG_PART_OF,Serum,Respiratory sample,bdsu,bdsu,2,NEG_PART_OF_BDSUnprtfBDSU
+C0229671,C1550100,NEG_PART_OF,Serum,Specimen Type - Serum,bdsu,bdsu,5,NEG_PART_OF_BDSUnprtfBDSU
+C0230961,C0229671,NEG_PART_OF,Placental fluid,Serum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0439056,C0444159,NEG_PART_OF,Throat swab sample,Sputum specimen,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0439056,C1550100,NEG_PART_OF,Throat swab sample,Specimen Type - Serum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0440742,C0032105,NEG_PART_OF,Normal plasma,Plasma,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0444159,C0178913,NEG_PART_OF,Sputum specimen,Blood specimen,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0444176,C0178913,NEG_PART_OF,Seminal fluid specimen,Blood specimen,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0444214,C3687742,NEG_PART_OF,Anal swab,Oropharyngeal swab,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0444263,C0229671,NEG_PART_OF,Plasma specimen,Serum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0444279,C0015733,NEG_PART_OF,Respiratory sample,Feces,bdsu,bdsu,2,NEG_PART_OF_BDSUnprtfBDSU
+C0444279,C0229671,NEG_PART_OF,Respiratory sample,Serum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0444279,C1550661,NEG_PART_OF,Respiratory sample,Specimen Type - Stool = Fecal,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0444279,C3687742,NEG_PART_OF,Respiratory sample,Oropharyngeal swab,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0444283,C0038056,NEG_PART_OF,Upper respiratory sample,Sputum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0444283,C0444067,NEG_PART_OF,Upper respiratory sample,Nasopharyngeal aspirate,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0457279,C0229671,NEG_PART_OF,Cord blood specimen,Serum,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C0475364,C0229664,NEG_PART_OF,Aqueous humor sample,peripheral blood,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C1261248,C0005767,NEG_PART_OF,Urine sediment (substance),Blood,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C1550100,C0015733,NEG_PART_OF,Specimen Type - Serum,Feces,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C1550100,C0036087,NEG_PART_OF,Specimen Type - Serum,saliva,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C1550100,C0229671,NEG_PART_OF,Specimen Type - Serum,Serum,bdsu,bdsu,7,NEG_PART_OF_BDSUnprtfBDSU
+C1550101,C0015733,NEG_PART_OF,Supernatant,Feces,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C1550101,C0032105,NEG_PART_OF,Supernatant,Plasma,bdsu,bdsu,3,NEG_PART_OF_BDSUnprtfBDSU
+C1550101,C0229671,NEG_PART_OF,Supernatant,Serum,bdsu,bdsu,2,NEG_PART_OF_BDSUnprtfBDSU
+C1550661,C0444279,NEG_PART_OF,Specimen Type - Stool = Fecal,Respiratory sample,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C1550661,C1610733,NEG_PART_OF,Specimen Type - Stool = Fecal,Urine - SpecimenType,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C2753459,C0015733,NEG_PART_OF,mucus layer,Feces,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C3687742,C0006279,NEG_PART_OF,Oropharyngeal swab,Bronchoalveolar Lavage Fluid,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C3687742,C0444159,NEG_PART_OF,Oropharyngeal swab,Sputum specimen,bdsu,bdsu,2,NEG_PART_OF_BDSUnprtfBDSU
+C3687742,C0444279,NEG_PART_OF,Oropharyngeal swab,Respiratory sample,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU
+C3687742,C1444693,NEG_PART_OF,Oropharyngeal swab,Respiratory fluid specimen,bdsu,bdsu,1,NEG_PART_OF_BDSUnprtfBDSU

@@ -1,0 +1,24 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001617,C0005516,AFFECTS,Adrenal Cortex Hormones,Biological Markers,horm,clna,1,AFFECTS_HORMafctCLNA
+C0001617,C0007809,AFFECTS,Adrenal Cortex Hormones,Cerebrospinal Fluid Pressure,horm,clna,1,AFFECTS_HORMafctCLNA
+C0001617,C2347784,AFFECTS,Adrenal Cortex Hormones,Clinical Endpoint,horm,clna,1,AFFECTS_HORMafctCLNA
+C0001617,C2599489,AFFECTS,Adrenal Cortex Hormones,Fetal lung maturity,horm,clna,1,AFFECTS_HORMafctCLNA
+C0005308,C2599489,AFFECTS,betamethasone,Fetal lung maturity,horm,clna,1,AFFECTS_HORMafctCLNA
+C0014563,C0007165,AFFECTS,epinephrine,Cardiac Output,horm,clna,2,AFFECTS_HORMafctCLNA
+C0014912,C0005938,AFFECTS,estradiol,Bone Density,horm,clna,1,AFFECTS_HORMafctCLNA
+C0014939,C0032930,AFFECTS,estrogens,Precipitating Factors,horm,clna,1,AFFECTS_HORMafctCLNA
+C0014939,C0946292,AFFECTS,estrogens,polarization,horm,clna,1,AFFECTS_HORMafctCLNA
+C0017710,C0005938,AFFECTS,Glucocorticoids,Bone Density,horm,clna,1,AFFECTS_HORMafctCLNA
+C0017710,C0683325,AFFECTS,Glucocorticoids,clinical aspects,horm,clna,1,AFFECTS_HORMafctCLNA
+C0017710,C2919552,AFFECTS,Glucocorticoids,Survival time,horm,clna,2,AFFECTS_HORMafctCLNA
+C0017710,C4255121,AFFECTS,Glucocorticoids,Fever duration:Time:Point in time:^Patient:Quantitative,horm,clna,1,AFFECTS_HORMafctCLNA
+C0025219,C2919552,AFFECTS,melatonin,Survival time,horm,clna,1,AFFECTS_HORMafctCLNA
+C0028351,C0005850,AFFECTS,norepinephrine,Blood Volume,horm,clna,1,AFFECTS_HORMafctCLNA
+C0028351,C0018810,AFFECTS,norepinephrine,heart rate,horm,clna,1,AFFECTS_HORMafctCLNA
+C0032952,C0005516,AFFECTS,prednisone,Biological Markers,horm,clna,1,AFFECTS_HORMafctCLNA
+C0033308,C0005938,AFFECTS,progesterone,Bone Density,horm,clna,1,AFFECTS_HORMafctCLNA
+C0033554,C0162521,AFFECTS,Prostaglandins,Exercise Tolerance,horm,clna,1,AFFECTS_HORMafctCLNA
+C0039601,C0005516,AFFECTS,testosterone,Biological Markers,horm,clna,1,AFFECTS_HORMafctCLNA
+C0301818,C0005850,AFFECTS,Steroid hormone,Blood Volume,horm,clna,1,AFFECTS_HORMafctCLNA
+C0772289,C3173575,AFFECTS,"corticotropin-releasing factor, human",Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,horm,clna,1,AFFECTS_HORMafctCLNA
+C0772289,C4738112,AFFECTS,"corticotropin-releasing factor, human",Fatalities:Number:Point in time:^Event:Quantitative,horm,clna,1,AFFECTS_HORMafctCLNA

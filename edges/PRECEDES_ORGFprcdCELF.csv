@@ -1,0 +1,31 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000934,C0042774,PRECEDES,Acclimatization,Virus Replication,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0004048,C0596290,PRECEDES,Inspiration function,Cell Proliferation,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C0007581,PRECEDES,Birth,Cellular Senescence,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C0042774,PRECEDES,Birth,Virus Replication,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C1817908,PRECEDES,Birth,Cellular Immune Response,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0005615,C3893351,PRECEDES,Birth,myelinogenesis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0009253,C0037848,PRECEDES,Coitus,Sperm Motility,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0011065,C0007595,PRECEDES,Cessation of life,Cell Growth,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0011065,C2244223,PRECEDES,Cessation of life,cellular homeostasis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0012238,C0010813,PRECEDES,Digestion,Cytokinesis,orgf,celf,2,PRECEDES_ORGFprcdCELF
+C0025519,C0007613,PRECEDES,Metabolism,Cell physiology,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0025519,C0010813,PRECEDES,Metabolism,Cytokinesis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0026649,C0015283,PRECEDES,Movement,Exocytosis,orgf,celf,2,PRECEDES_ORGFprcdCELF
+C0026649,C0334220,PRECEDES,Movement,Remyelination,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0029957,C1160474,PRECEDES,Oviposition,egg activation,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0035150,C0007587,PRECEDES,Reproduction,Cell Death,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0035150,C0007620,PRECEDES,Reproduction,Cell Survival,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0043240,C0334220,PRECEDES,Wound Healing,Remyelination,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0333953,C0007613,PRECEDES,Involution,Cell physiology,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0678723,C0014139,PRECEDES,Biologic Development,Endocytosis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C0678723,C0162638,PRECEDES,Biologic Development,Apoptosis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C1148523,C0042774,PRECEDES,Childbirth,Virus Replication,orgf,celf,2,PRECEDES_ORGFprcdCELF
+C1148523,C0597361,PRECEDES,Childbirth,Receptor Mediated Endocytosis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C1148523,C1155229,PRECEDES,Childbirth,Humoral immune response,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C1148523,C1817908,PRECEDES,Childbirth,Cellular Immune Response,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C1148523,C2611224,PRECEDES,Childbirth,prolactin secretion,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C1148523,C3156642,PRECEDES,Childbirth,clathrin-dependent endocytosis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C1260875,C0037864,PRECEDES,mating,Spermatogenesis,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C1314680,C1155229,PRECEDES,"Non-human parturition, function",Humoral immune response,orgf,celf,1,PRECEDES_ORGFprcdCELF
+C2584321,C0042774,PRECEDES,Reaching,Virus Replication,orgf,celf,1,PRECEDES_ORGFprcdCELF

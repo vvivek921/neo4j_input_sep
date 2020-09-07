@@ -1,0 +1,59 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011121,C0030968,USES,Decontamination,peracetic acid,topp,irda,1,USES_TOPPusesIRDA
+C0011946,C0006353,USES,Dialysis procedure,Buffers,topp,irda,2,USES_TOPPusesIRDA
+C0011946,C3826632,USES,Dialysis procedure,Buffer solutions,topp,irda,1,USES_TOPPusesIRDA
+C0013103,C0060520,USES,Drainage procedure,fluorescein,topp,irda,1,USES_TOPPusesIRDA
+C0020944,C0001771,USES,Immobilization,agar,topp,irda,1,USES_TOPPusesIRDA
+C0020944,C0006353,USES,Immobilization,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0020944,C0025746,USES,Immobilization,methylene blue,topp,irda,1,USES_TOPPusesIRDA
+C0020971,C0038071,USES,Immunization,squalene,topp,irda,1,USES_TOPPusesIRDA
+C0025991,C0006353,USES,Microinjections,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0035151,C0001771,USES,Reproductive Techniques,agar,topp,irda,1,USES_TOPPusesIRDA
+C0042196,C0006353,USES,Vaccination,Buffers,topp,irda,6,USES_TOPPusesIRDA
+C0050385,C0006353,USES,cyclophosphamide/doxorubicin protocol,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0108844,C0006353,USES,CDE protocol-cyclophosphamide/doxorubicin/etoposide,Buffers,topp,irda,19,USES_TOPPusesIRDA
+C0150141,C0043367,USES,Bathing,xylene,topp,irda,4,USES_TOPPusesIRDA
+C0152060,C0006353,USES,Transection (procedure),Buffers,topp,irda,5,USES_TOPPusesIRDA
+C0152060,C0040380,USES,Transection (procedure),tolonium chloride,topp,irda,5,USES_TOPPusesIRDA
+C0152060,C0043367,USES,Transection (procedure),xylene,topp,irda,2,USES_TOPPusesIRDA
+C0152060,C0598447,USES,Transection (procedure),fluorophore,topp,irda,1,USES_TOPPusesIRDA
+C0184933,C0006353,USES,Scraping,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0185115,C0001771,USES,Extraction,agar,topp,irda,1,USES_TOPPusesIRDA
+C0185115,C0006353,USES,Extraction,Buffers,topp,irda,15,USES_TOPPusesIRDA
+C0185115,C0007974,USES,Extraction,Chelating Agents,topp,irda,1,USES_TOPPusesIRDA
+C0185115,C0022026,USES,Extraction,iopamidol,topp,irda,1,USES_TOPPusesIRDA
+C0185115,C0030123,USES,Extraction,4-aminohippuric acid,topp,irda,5,USES_TOPPusesIRDA
+C0185115,C0282359,USES,Extraction,Bromsulphalein,topp,irda,1,USES_TOPPusesIRDA
+C0199176,C0006353,USES,Prophylactic treatment,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0199176,C0025746,USES,Prophylactic treatment,methylene blue,topp,irda,1,USES_TOPPusesIRDA
+C0204727,C0001771,USES,Isolation procedure,agar,topp,irda,6,USES_TOPPusesIRDA
+C0204727,C0006353,USES,Isolation procedure,Buffers,topp,irda,3,USES_TOPPusesIRDA
+C0204727,C0007974,USES,Isolation procedure,Chelating Agents,topp,irda,1,USES_TOPPusesIRDA
+C0204727,C0025746,USES,Isolation procedure,methylene blue,topp,irda,1,USES_TOPPusesIRDA
+C0204727,C0031430,USES,Isolation procedure,phenolsulfonphthalein,topp,irda,1,USES_TOPPusesIRDA
+C0204774,C0006353,USES,Soaking Procedure,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0301577,C0001771,USES,Carbohydrate diet,agar,topp,irda,1,USES_TOPPusesIRDA
+C0407295,C0001771,USES,Fixation of fracture using plate,agar,topp,irda,2,USES_TOPPusesIRDA
+C0524865,C0282359,USES,Reconstructive Surgical Procedures,Bromsulphalein,topp,irda,2,USES_TOPPusesIRDA
+C0597815,C0006353,USES,crystal healing,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C0850173,C0010467,USES,skin Healing,curcumin,topp,irda,1,USES_TOPPusesIRDA
+C0920425,C0010467,USES,Cancer Therapeutic Procedure,curcumin,topp,irda,1,USES_TOPPusesIRDA
+C0947647,C0006353,USES,Manipulation procedure,Buffers,topp,irda,1,USES_TOPPusesIRDA
+C1293130,C0021936,USES,Stabilization,inulin,topp,irda,1,USES_TOPPusesIRDA
+C1293130,C0030123,USES,Stabilization,4-aminohippuric acid,topp,irda,1,USES_TOPPusesIRDA
+C1511790,C0001771,USES,Detection,agar,topp,irda,2,USES_TOPPusesIRDA
+C1511790,C0006353,USES,Detection,Buffers,topp,irda,12,USES_TOPPusesIRDA
+C1511790,C0010467,USES,Detection,curcumin,topp,irda,1,USES_TOPPusesIRDA
+C1511790,C0017440,USES,Detection,gentian violet,topp,irda,1,USES_TOPPusesIRDA
+C1511790,C0025746,USES,Detection,methylene blue,topp,irda,2,USES_TOPPusesIRDA
+C1511790,C0037638,USES,Detection,Solvents,topp,irda,1,USES_TOPPusesIRDA
+C1511790,C0049832,USES,Detection,7-aminoactinomycin D,topp,irda,1,USES_TOPPusesIRDA
+C1511790,C0182638,USES,Detection,Radiopharmaceuticals,topp,irda,5,USES_TOPPusesIRDA
+C1511790,C0598447,USES,Detection,fluorophore,topp,irda,17,USES_TOPPusesIRDA
+C1511790,C0717537,USES,Detection,calcium acetate,topp,irda,1,USES_TOPPusesIRDA
+C1563149,C0006353,USES,Balanced ligamentous tension technique (procedure),Buffers,topp,irda,1,USES_TOPPusesIRDA
+C1880476,C0006353,USES,Etoposide-Platinol Regimen,Buffers,topp,irda,3,USES_TOPPusesIRDA
+C2936405,C0010467,USES,Drug Repositioning,curcumin,topp,irda,1,USES_TOPPusesIRDA
+C2985557,C0021936,USES,Gamma Irradiation,inulin,topp,irda,1,USES_TOPPusesIRDA
+C2985566,C0030123,USES,Targeted Therapy,4-aminohippuric acid,topp,irda,2,USES_TOPPusesIRDA
+C4554488,C0006353,USES,Retrieval - procedure,Buffers,topp,irda,8,USES_TOPPusesIRDA

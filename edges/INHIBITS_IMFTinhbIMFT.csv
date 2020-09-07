@@ -1,0 +1,47 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0003320,INHIBITS,Immunologic Adjuvants,Antigens,imft,imft,8,INHIBITS_IMFTinhbIMFT
+C0001551,C0003342,INHIBITS,Immunologic Adjuvants,"Antigens, Viral",imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0001551,C0042742,INHIBITS,Immunologic Adjuvants,Viral Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0001551,C1519887,INHIBITS,Immunologic Adjuvants,Vaccine Antigen,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0002092,C0003320,INHIBITS,Allergens,Antigens,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0002092,C0376613,INHIBITS,Allergens,"Vaccines, DNA",imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0003316,C0079600,INHIBITS,Epitopes,Immunodominant Epitopes,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0003320,C0003316,INHIBITS,Antigens,Epitopes,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0003320,C0003339,INHIBITS,Antigens,Surface Antigens,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0003320,C0021403,INHIBITS,Antigens,Influenza virus vaccine,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0003320,C0042211,INHIBITS,Antigens,"Vaccines, Attenuated",imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0003339,C0019166,INHIBITS,Surface Antigens,Hepatitis B Core Antigen,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0003342,C0003320,INHIBITS,"Antigens, Viral",Antigens,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0005457,C0003316,INHIBITS,"Binding Sites, Antibody",Epitopes,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0019166,C0019168,INHIBITS,Hepatitis B Core Antigen,Hepatitis B Surface Antigens,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0019168,C0003320,INHIBITS,Hepatitis B Surface Antigens,Antigens,imft,imft,3,INHIBITS_IMFTinhbIMFT
+C0021403,C0003320,INHIBITS,Influenza virus vaccine,Antigens,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0021403,C0042211,INHIBITS,Influenza virus vaccine,"Vaccines, Attenuated",imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0021403,C0042742,INHIBITS,Influenza virus vaccine,Viral Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0025010,C0042742,INHIBITS,Measles Vaccine,Viral Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0025010,C0887892,INHIBITS,Measles Vaccine,"Vaccines, Subunit",imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0042212,C0042211,INHIBITS,"Vaccines, Inactivated","Vaccines, Attenuated",imft,imft,5,INHIBITS_IMFTinhbIMFT
+C0042212,C0887892,INHIBITS,"Vaccines, Inactivated","Vaccines, Subunit",imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0042212,C3272757,INHIBITS,"Vaccines, Inactivated",Live Attenuated Influenza Vaccine,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0042212,C3657824,INHIBITS,"Vaccines, Inactivated",siponimod,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0085408,C0001551,INHIBITS,ISCOMs,Immunologic Adjuvants,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0085408,C0003320,INHIBITS,ISCOMs,Antigens,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0281606,C0042211,INHIBITS,Recombinant Viral Vaccine,"Vaccines, Attenuated",imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0281606,C0600412,INHIBITS,Recombinant Viral Vaccine,Nucleic Acid Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0282580,C0003316,INHIBITS,"Epitopes, T-Lymphocyte",Epitopes,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0282581,C0003320,INHIBITS,"Epitopes, B-Lymphocyte",Antigens,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0282681,C0086413,INHIBITS,Enhancing Antibodies,HIV Vaccine,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0376613,C0003316,INHIBITS,"Vaccines, DNA",Epitopes,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0376613,C0003320,INHIBITS,"Vaccines, DNA",Antigens,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0376613,C0042742,INHIBITS,"Vaccines, DNA",Viral Vaccines,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0456981,C0018593,INHIBITS,Specific antigen,Haptens,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0597420,C0003320,INHIBITS,Salmonella Vaccines,Antigens,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0597641,C0003320,INHIBITS,plasmid vaccine,Antigens,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0599934,C0003316,INHIBITS,"Vaccines, Peptide",Epitopes,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C0718003,C0770698,INHIBITS,"Poliovirus Vaccine, Inactivated","Poliovirus vaccine, live",imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0887892,C0003320,INHIBITS,"Vaccines, Subunit",Antigens,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C0887892,C0042742,INHIBITS,"Vaccines, Subunit",Viral Vaccines,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C1291777,C0003316,INHIBITS,Protein antigen,Epitopes,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C1883036,C0001551,INHIBITS,Single-Chain Antibodies,Immunologic Adjuvants,imft,imft,2,INHIBITS_IMFTinhbIMFT
+C2825347,C0003316,INHIBITS,"immunoglobulin A, human",Epitopes,imft,imft,1,INHIBITS_IMFTinhbIMFT
+C3495466,C1699926,INHIBITS,Toxoid Vaccine,fingolimod,imft,imft,1,INHIBITS_IMFTinhbIMFT

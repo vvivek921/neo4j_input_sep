@@ -1,0 +1,402 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001126,C0806140,AFFECTS,Renal tubular acidosis,Flow,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0001127,C0806140,AFFECTS,"Acidosis, Respiratory",Flow,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0001175,C4042908,AFFECTS,Acquired Immunodeficiency Syndrome,Seroconversion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0001311,C0013764,AFFECTS,Acute bronchiolitis,elasticity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0001311,C0042784,AFFECTS,Acute bronchiolitis,Viscosity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0003123,C0301630,AFFECTS,Anorexia,Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0003723,C2936413,AFFECTS,Arbovirus Infections,Host Range,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0003811,C0678544,AFFECTS,Cardiac Arrhythmia,wave - physical agent,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0003962,C2936626,AFFECTS,Ascites,Tumor Microenvironment,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0004030,C0012222,AFFECTS,Aspergillosis,Diffusion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0004030,C0042333,AFFECTS,Aspergillosis,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0004095,C0023693,AFFECTS,Asthenopia,Light,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0004096,C0031164,AFFECTS,Asthma,Permeability,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C0004096,C0042333,AFFECTS,Asthma,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0004096,C0162358,AFFECTS,Asthma,Ecosystem,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0004096,C1948023,AFFECTS,Asthma,Stimulation (motivation),dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0004096,C2718051,AFFECTS,Asthma,Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0005866,C0008946,AFFECTS,Bluetongue infection,Climate,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0006271,C0376706,AFFECTS,Bronchiolitis,Mechanics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0006271,C3826426,AFFECTS,Bronchiolitis,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0006277,C0598197,AFFECTS,Bronchitis,contagion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0006285,C0037709,AFFECTS,Bronchopneumonia,Sound - physical agent,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0007222,C0851346,AFFECTS,Cardiovascular Diseases,Radiation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0007682,C0031164,AFFECTS,CNS disorder,Permeability,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0008055,C2718051,AFFECTS,Chikungunya Fever,Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0008354,C0008946,AFFECTS,Cholera,Climate,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0008679,C0301630,AFFECTS,Chronic disease,Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009443,C0025594,AFFECTS,Common Cold,Meteorological Factors,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C0001876,AFFECTS,Communicable Diseases,Air Pressure,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C0008946,AFFECTS,Communicable Diseases,Climate,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0009450,C0011682,AFFECTS,Communicable Diseases,Desiccation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C0012222,AFFECTS,Communicable Diseases,Diffusion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C0016248,AFFECTS,Communicable Diseases,Floods,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C0017982,AFFECTS,Communicable Diseases,glycosylation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C0020167,AFFECTS,Communicable Diseases,Humidity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C0043085,AFFECTS,Communicable Diseases,Weather,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C0162358,AFFECTS,Communicable Diseases,Ecosystem,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0009450,C0301630,AFFECTS,Communicable Diseases,Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C0428692,AFFECTS,Communicable Diseases,Ambient temperature,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0009450,C0598197,AFFECTS,Communicable Diseases,contagion,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C0009450,C0678568,AFFECTS,Communicable Diseases,Cool - action,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C0806140,AFFECTS,Communicable Diseases,Flow,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C0868933,AFFECTS,Communicable Diseases,Climatic factors,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C1959569,AFFECTS,Communicable Diseases,Volatility,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C2718051,AFFECTS,Communicable Diseases,Climate Change,dsyn,npop,9,AFFECTS_DSYNafctNPOP
+C0009450,C2936412,AFFECTS,Communicable Diseases,Host Specificity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C3826426,AFFECTS,Communicable Diseases,Dynamics,dsyn,npop,10,AFFECTS_DSYNafctNPOP
+C0009450,C3826560,AFFECTS,Communicable Diseases,Climatic changes,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C4704693,AFFECTS,Communicable Diseases,Host Microbial Interactions,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0009450,C5197889,AFFECTS,Communicable Diseases,Extreme Weather,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0010054,C0042333,AFFECTS,Coronary Arteriosclerosis,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0011119,C0013764,AFFECTS,Decompression Sickness,elasticity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0011119,C3179344,AFFECTS,Decompression Sickness,Sound Waves,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0011175,C0301630,AFFECTS,Dehydration,Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0011175,C3825187,AFFECTS,Dehydration,Hydrophobic surfaces,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0011311,C0008946,AFFECTS,Dengue Fever,Climate,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0011615,C0442528,AFFECTS,"Dermatitis, Atopic",Tropical environment,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0011847,C0027485,AFFECTS,Diabetes,Natural Disasters,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0011847,C0679215,AFFECTS,Diabetes,health and disease,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0011847,C4551660,AFFECTS,Diabetes,Virus Host Interactions,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0011860,C0017982,AFFECTS,"Diabetes Mellitus, Non-Insulin-Dependent",glycosylation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0013369,C0011682,AFFECTS,Dysentery,Desiccation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0013393,C0301630,AFFECTS,Dysostoses,Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0014038,C0243052,AFFECTS,Encephalitis,Virus Physiological Phenomena,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0014335,C0031164,AFFECTS,Enteritis,Permeability,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0014335,C2936413,AFFECTS,Enteritis,Host Range,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0014599,C0004178,AFFECTS,Epithelial hyperplasia,"Atmosphere, planetary",dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0016514,C0162358,AFFECTS,Foot-and-Mouth Disease,Ecosystem,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0016627,C0598197,AFFECTS,Influenza in Birds,contagion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0016627,C0679215,AFFECTS,Influenza in Birds,health and disease,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0016627,C3826426,AFFECTS,Influenza in Birds,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0016807,C0031164,AFFECTS,Functional disorder of intestine,Permeability,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0017162,C0428692,AFFECTS,"Gastroenteritis, Transmissible, of Swine",Ambient temperature,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0017551,C0042333,AFFECTS,Gilbert Disease (disorder),Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0018572,C2718051,AFFECTS,"Hand, Foot and Mouth Disease",Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0018777,C3179344,AFFECTS,Conductive hearing loss,Sound Waves,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0018799,C0301630,AFFECTS,Heart Diseases,Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0019100,C2718051,AFFECTS,Severe Dengue,Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0019101,C0428692,AFFECTS,Hemorrhagic Fever with Renal Syndrome,Ambient temperature,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0019112,C0004178,AFFECTS,Hemorrhoids,"Atmosphere, planetary",dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0019158,C0042333,AFFECTS,Hepatitis,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0019158,C4042908,AFFECTS,Hepatitis,Seroconversion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0019196,C0005495,AFFECTS,Hepatitis C,Origin of Life,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0019196,C0022702,AFFECTS,Hepatitis C,Kinetics,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0019196,C0042333,AFFECTS,Hepatitis C,Variation (Genetics),dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0019196,C0243052,AFFECTS,Hepatitis C,Virus Physiological Phenomena,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0019196,C0376525,AFFECTS,Hepatitis C,Dimerization,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0019196,C4551660,AFFECTS,Hepatitis C,Virus Host Interactions,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0019348,C2348693,AFFECTS,Herpes Simplex Infections,Flux,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0019693,C0031164,AFFECTS,HIV Infections,Permeability,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0019693,C4551660,AFFECTS,HIV Infections,Virus Host Interactions,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0020456,C0017982,AFFECTS,Hyperglycemia,glycosylation,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C0020488,C0029393,AFFECTS,Hypernatremia,Osmotic Pressure,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0020538,C0679215,AFFECTS,Hypertensive disease,health and disease,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0020538,C0806140,AFFECTS,Hypertensive disease,Flow,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0020541,C1948023,AFFECTS,Portal Hypertension,Stimulation (motivation),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0021051,C3826426,AFFECTS,Immunologic Deficiency Syndromes,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0021053,C2348693,AFFECTS,Immune System Diseases,Flux,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0021390,C0017982,AFFECTS,Inflammatory Bowel Diseases,glycosylation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0021400,C0025594,AFFECTS,Influenza,Meteorological Factors,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0021400,C0043085,AFFECTS,Influenza,Weather,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0021400,C0301630,AFFECTS,Influenza,Reduction (chemical),dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0021400,C0376706,AFFECTS,Influenza,Mechanics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0021400,C0678544,AFFECTS,Influenza,wave - physical agent,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0021400,C2717975,AFFECTS,Influenza,Virus Release,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0021400,C2936412,AFFECTS,Influenza,Host Specificity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0021400,C3826426,AFFECTS,Influenza,Dynamics,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C0021400,C4551660,AFFECTS,Influenza,Virus Host Interactions,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0022104,C4551660,AFFECTS,Irritable Bowel Syndrome,Virus Host Interactions,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0022660,C0022702,AFFECTS,"Kidney Failure, Acute",Kinetics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0023211,C0563227,AFFECTS,Left Bundle-Branch Block,Red light,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0023522,C0026597,AFFECTS,"Leukodystrophy, Metachromatic",Motion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0023522,C0376534,AFFECTS,"Leukodystrophy, Metachromatic",Electrostatics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0023530,C0851346,AFFECTS,Leukopenia,Radiation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0023882,C2936412,AFFECTS,Little's Disease,Host Specificity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0024115,C0376706,AFFECTS,Lung diseases,Mechanics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0024115,C4551660,AFFECTS,Lung diseases,Virus Host Interactions,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0024117,C0017982,AFFECTS,Chronic Obstructive Airway Disease,glycosylation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0024141,C0042333,AFFECTS,"Lupus Erythematosus, Systemic",Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0024198,C2718051,AFFECTS,Lyme Disease,Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0024312,C0022702,AFFECTS,Lymphopenia,Kinetics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0024530,C0008946,AFFECTS,Malaria,Climate,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0024530,C0034640,AFFECTS,Malaria,Rain,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0024530,C0037783,AFFECTS,Malaria,Species Specificity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0024530,C0042333,AFFECTS,Malaria,Variation (Genetics),dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0024530,C0806140,AFFECTS,Malaria,Flow,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0024530,C1721088,AFFECTS,Malaria,Wetlands,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0024530,C2718051,AFFECTS,Malaria,Climate Change,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C0024533,C1720992,AFFECTS,"Malaria, Avian","Extinction, Mass",dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0024796,C0013764,AFFECTS,Marfan Syndrome,elasticity,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0025007,C0678544,AFFECTS,Measles,wave - physical agent,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0025007,C3826426,AFFECTS,Measles,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0025237,C2348693,AFFECTS,Melnick-Needles Syndrome,Flux,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0025237,C3850077,AFFECTS,Melnick-Needles Syndrome,Drug Liberation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0025517,C0042333,AFFECTS,Metabolic Diseases,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0026636,C0025594,AFFECTS,Mouth Diseases,Meteorological Factors,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0026691,C0301630,AFFECTS,Mucocutaneous Lymph Node Syndrome,Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0026780,C0025594,AFFECTS,Mumps,Meteorological Factors,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0027341,C0031164,AFFECTS,Nail-Patella Syndrome,Permeability,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0027341,C0162524,AFFECTS,Nail-Patella Syndrome,Chemiluminescence,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0027341,C0178576,AFFECTS,Nail-Patella Syndrome,Cross link,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0027341,C0376534,AFFECTS,Nail-Patella Syndrome,Electrostatics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0027341,C0459800,AFFECTS,Nail-Patella Syndrome,Vibration - physical agent,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0027341,C1384604,AFFECTS,Nail-Patella Syndrome,Sedimentation process,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0028754,C2348693,AFFECTS,Obesity,Flux,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0028754,C3826426,AFFECTS,Obesity,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0028797,C0851346,AFFECTS,Occupational Diseases,Radiation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0029408,C0042333,AFFECTS,Degenerative polyarthritis,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0029443,C0679215,AFFECTS,Osteomyelitis,health and disease,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0030389,C0243052,AFFECTS,Parainfluenza,Virus Physiological Phenomena,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0030486,C0678578,AFFECTS,Paraplegia,Brightness,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0030779,C0031164,AFFECTS,Pelger-Huet Anomaly,Permeability,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0031090,C0162358,AFFECTS,Periodontal Diseases,Ecosystem,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0032080,C0243176,AFFECTS,Plant Diseases,chemical composition,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0032227,C0806140,AFFECTS,Pleural effusion disorder,Flow,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0032227,C3826426,AFFECTS,Pleural effusion disorder,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0032285,C0042333,AFFECTS,Pneumonia,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0032326,C0011100,AFFECTS,Pneumothorax,Deceleration,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0032460,C0020167,AFFECTS,Polycystic Ovary Syndrome,Humidity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0032460,C0042333,AFFECTS,Polycystic Ovary Syndrome,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0033036,C0022702,AFFECTS,Atrial Premature Complexes,Kinetics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0033036,C1948023,AFFECTS,Atrial Premature Complexes,Stimulation (motivation),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0033770,C0042784,AFFECTS,Prune Belly Syndrome,Viscosity,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0033770,C0806140,AFFECTS,Prune Belly Syndrome,Flow,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0033770,C1948023,AFFECTS,Prune Belly Syndrome,Stimulation (motivation),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0033845,C3826426,AFFECTS,Pseudotumor Cerebri,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0035204,C0020167,AFFECTS,Respiration Disorders,Humidity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0035204,C0025594,AFFECTS,Respiration Disorders,Meteorological Factors,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0035222,C0031164,AFFECTS,"Respiratory Distress Syndrome, Adult",Permeability,dsyn,npop,5,AFFECTS_DSYNafctNPOP
+C0035235,C0008946,AFFECTS,Respiratory Syncytial Virus Infections,Climate,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0035235,C0681778,AFFECTS,Respiratory Syncytial Virus Infections,monsoon,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0035235,C3826426,AFFECTS,Respiratory Syncytial Virus Infections,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0035439,C0376525,AFFECTS,Rheumatic Heart Disease,Dimerization,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0035801,C2718051,AFFECTS,Rodent Diseases,Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0035869,C0016315,AFFECTS,Rotavirus Infections,Fluorescence,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0035869,C3826426,AFFECTS,Rotavirus Infections,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0036310,C0009264,AFFECTS,Scheuermann's Disease,Cold Temperature,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0036310,C0023693,AFFECTS,Scheuermann's Disease,Light,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0036310,C0444927,AFFECTS,Scheuermann's Disease,Electrical pattern,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0036310,C2348693,AFFECTS,Scheuermann's Disease,Flux,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0036690,C0042333,AFFECTS,Septicemia,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0037050,C0020167,AFFECTS,Sick Building Syndrome,Humidity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0037052,C3826426,AFFECTS,Sick Sinus Syndrome,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0038454,C2936413,AFFECTS,Cerebrovascular accident,Host Range,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0040456,C0011682,AFFECTS,Impacted tooth,Desiccation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0040456,C0376534,AFFECTS,Impacted tooth,Electrostatics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0040456,C2936194,AFFECTS,Impacted tooth,Hydrodynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0040896,C0162358,AFFECTS,Trichinellosis,Ecosystem,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0041227,C0162358,AFFECTS,Trypanosomiasis,Ecosystem,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0041466,C0301630,AFFECTS,Typhoid Fever,Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0041912,C0011682,AFFECTS,Upper Respiratory Infections,Desiccation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0041912,C0025594,AFFECTS,Upper Respiratory Infections,Meteorological Factors,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0041912,C0678568,AFFECTS,Upper Respiratory Infections,Cool - action,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0041912,C0679215,AFFECTS,Upper Respiratory Infections,health and disease,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0041912,C1449600,AFFECTS,Upper Respiratory Infections,Glaciers,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042708,C2348693,AFFECTS,Viral enteritis,Flux,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042721,C0806140,AFFECTS,Viral hepatitis,Flow,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042749,C0009264,AFFECTS,Viremia,Cold Temperature,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042769,C0012222,AFFECTS,Virus Diseases,Diffusion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042769,C0017982,AFFECTS,Virus Diseases,glycosylation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042769,C0031164,AFFECTS,Virus Diseases,Permeability,dsyn,npop,5,AFFECTS_DSYNafctNPOP
+C0042769,C0042333,AFFECTS,Virus Diseases,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042769,C0042730,AFFECTS,Virus Diseases,Viral Interference,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042769,C0086685,AFFECTS,Virus Diseases,Natural Selection,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042769,C0376525,AFFECTS,Virus Diseases,Dimerization,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042769,C0679215,AFFECTS,Virus Diseases,health and disease,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042769,C2350399,AFFECTS,Virus Diseases,Metabolome,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0042769,C2936626,AFFECTS,Virus Diseases,Tumor Microenvironment,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0042769,C3826426,AFFECTS,Virus Diseases,Dynamics,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0042769,C4551660,AFFECTS,Virus Diseases,Virus Host Interactions,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042842,C0011682,AFFECTS,Vitamin A Deficiency,Desiccation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0042870,C0008946,AFFECTS,Vitamin D Deficiency,Climate,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0043395,C0806140,AFFECTS,Yellow Fever,Flow,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0043528,C0037783,AFFECTS,Zoonoses,Species Specificity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0043528,C2718051,AFFECTS,Zoonoses,Climate Change,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C0043528,C3826426,AFFECTS,Zoonoses,Dynamics,dsyn,npop,5,AFFECTS_DSYNafctNPOP
+C0085580,C0042333,AFFECTS,Essential Hypertension,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0149678,C4042908,AFFECTS,Epstein-Barr Virus Infections,Seroconversion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0149725,C0042333,AFFECTS,Lower respiratory tract infection,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0151718,C0031164,AFFECTS,Hypocholesterolemia,Permeability,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0151718,C2717975,AFFECTS,Hypocholesterolemia,Virus Release,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0162311,C0042333,AFFECTS,Androgenetic Alopecia,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0162429,C0013140,AFFECTS,Malnutrition,Droughts,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0162700,C0086312,AFFECTS,Tick-Borne Diseases,Forests,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0178237,C0008946,AFFECTS,diseases and injuries,Climate,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0205721,C0301630,AFFECTS,"Infections, Hospital",Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0205721,C3826426,AFFECTS,"Infections, Hospital",Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0206750,C0017982,AFFECTS,Coronavirus Infections,glycosylation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0206750,C0020167,AFFECTS,Coronavirus Infections,Humidity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0206750,C0022702,AFFECTS,Coronavirus Infections,Kinetics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0206750,C0243176,AFFECTS,Coronavirus Infections,chemical composition,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0206750,C0301630,AFFECTS,Coronavirus Infections,Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0206750,C0428692,AFFECTS,Coronavirus Infections,Ambient temperature,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0206750,C1959569,AFFECTS,Coronavirus Infections,Volatility,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C0206750,C2717975,AFFECTS,Coronavirus Infections,Virus Release,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0206750,C2718051,AFFECTS,Coronavirus Infections,Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0206750,C3826426,AFFECTS,Coronavirus Infections,Dynamics,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C0206750,C4551660,AFFECTS,Coronavirus Infections,Virus Host Interactions,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0231311,C0376706,AFFECTS,Jet Lag Syndrome,Mechanics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0242350,C2718051,AFFECTS,Erectile dysfunction,Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0242917,C4551660,AFFECTS,Filoviridae Infections,Virus Host Interactions,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0243026,C2936412,AFFECTS,Sepsis,Host Specificity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0263214,C0016248,AFFECTS,Pyotraumatic dermatitis,Floods,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0263214,C0678591,AFFECTS,Pyotraumatic dermatitis,Free Energy,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0265220,C3826426,AFFECTS,Pallister-Hall syndrome,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0265221,C0017982,AFFECTS,Walker-Warburg congenital muscular dystrophy,glycosylation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0265224,C3826426,AFFECTS,Freeman-Sheldon syndrome,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0266313,C1948023,AFFECTS,Allanson Pantzar McLeod syndrome,Stimulation (motivation),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0266427,C0522534,AFFECTS,Testicular regression syndrome,Saturated,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0267557,C0029391,AFFECTS,Secretory diarrhea,Osmosis,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0267557,C0031164,AFFECTS,Secretory diarrhea,Permeability,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0270724,C0013140,AFFECTS,Infantile Neuroaxonal Dystrophy,Droughts,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0270724,C0016248,AFFECTS,Infantile Neuroaxonal Dystrophy,Floods,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0270724,C0678544,AFFECTS,Infantile Neuroaxonal Dystrophy,wave - physical agent,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0270724,C2718051,AFFECTS,Infantile Neuroaxonal Dystrophy,Climate Change,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0272285,C0016315,AFFECTS,Heparin-induced thrombocytopenia,Fluorescence,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0275518,C0022702,AFFECTS,Acute infectious disease,Kinetics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0275518,C3826426,AFFECTS,Acute infectious disease,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0275522,C3826426,AFFECTS,Asymptomatic Infections,Dynamics,dsyn,npop,11,AFFECTS_DSYNafctNPOP
+C0275522,C4042908,AFFECTS,Asymptomatic Infections,Seroconversion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0275524,C0022702,AFFECTS,Coinfection,Kinetics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0275524,C0086685,AFFECTS,Coinfection,Natural Selection,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0275524,C3826426,AFFECTS,Coinfection,Dynamics,dsyn,npop,6,AFFECTS_DSYNafctNPOP
+C0276289,C3826426,AFFECTS,Zika Virus Infection,Dynamics,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0276340,C3826426,AFFECTS,Respiratory syncytial virus bronchiolitis,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0276483,C3826426,AFFECTS,Infectious bursal disease,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0277548,C0282113,AFFECTS,Epidemic disease,Sustainable Development,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0282687,C3826426,AFFECTS,"Hemorrhagic Fever, Ebola",Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0340194,C0522534,AFFECTS,Respiratory failure without hypercapnia,Saturated,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0343537,C2936412,AFFECTS,Specific viral infections,Host Specificity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0348165,C3826426,AFFECTS,Central Nervous System Viral Diseases,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0349422,C0806140,AFFECTS,Arterial steal syndrome,Flow,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0376286,C0038817,AFFECTS,Avitaminosis,Sunlight,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0392475,C0376534,AFFECTS,Roberts-SC phocomelia syndrome,Electrostatics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0432268,C0010546,AFFECTS,Osteopathia striata cranial sclerosis,Cyclization,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0456909,C0596836,AFFECTS,Blindness,Light intensity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0520679,C0020291,AFFECTS,"Sleep Apnea, Obstructive",Hydrolysis,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0520680,C0031164,AFFECTS,"Sleep Apnea, Central",Permeability,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0520680,C0243052,AFFECTS,"Sleep Apnea, Central",Virus Physiological Phenomena,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0553586,C0282113,AFFECTS,Cafe-au-lait macules with pulmonary stenosis,Sustainable Development,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0559758,C0004180,AFFECTS,MULTISYSTEM DISORDER,Atmospheric Pressure,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0678236,C0042333,AFFECTS,Rare Diseases,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0679381,C0020167,AFFECTS,Pediatric Disorder,Humidity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0683323,C0022702,AFFECTS,physical illness,Kinetics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0699848,C0029391,AFFECTS,Disaccharidase deficiency,Osmosis,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0740304,C0025594,AFFECTS,copd exacerbation,Meteorological Factors,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0740304,C3826426,AFFECTS,copd exacerbation,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0740380,C0016701,AFFECTS,varicella zoster,Freezing,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0740766,C0013764,AFFECTS,Acute Pneumonia,elasticity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0751651,C0042333,AFFECTS,Mitochondrial Diseases,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0796085,C0178576,AFFECTS,Nance-Horan syndrome,Cross link,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0855227,C0042333,AFFECTS,purging,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0856169,C0031164,AFFECTS,Endothelial dysfunction,Permeability,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0856238,C3826426,AFFECTS,influenza (epidemic),Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0858318,C0005495,AFFECTS,Plasmodium falciparum infection,Origin of Life,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0863094,C0376706,AFFECTS,Recurrent respiratory tract infections,Mechanics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0872315,C0162358,AFFECTS,"Communicable Diseases, Emerging",Ecosystem,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C0872315,C3826426,AFFECTS,"Communicable Diseases, Emerging",Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0877013,C0013764,AFFECTS,Restrictive pulmonary disease,elasticity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0877203,C0868933,AFFECTS,Viral Respiratory Tract Infection,Climatic factors,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C0948755,C0012222,AFFECTS,Pulmonary failure,Diffusion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1096155,C0011682,AFFECTS,Macrophage Activation Syndrome,Desiccation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1096155,C0016315,AFFECTS,Macrophage Activation Syndrome,Fluorescence,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1096155,C0022702,AFFECTS,Macrophage Activation Syndrome,Kinetics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1096155,C0026597,AFFECTS,Macrophage Activation Syndrome,Motion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1096155,C0459800,AFFECTS,Macrophage Activation Syndrome,Vibration - physical agent,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1096155,C0596539,AFFECTS,Macrophage Activation Syndrome,evaporation,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C1096155,C0678568,AFFECTS,Macrophage Activation Syndrome,Cool - action,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1096155,C1449600,AFFECTS,Macrophage Activation Syndrome,Glaciers,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1096155,C3826426,AFFECTS,Macrophage Activation Syndrome,Dynamics,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C1096262,C0806140,AFFECTS,E coli bacteraemia,Flow,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1145670,C0301630,AFFECTS,Respiratory Failure,Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1175175,C0008946,AFFECTS,Severe Acute Respiratory Syndrome,Climate,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1175175,C0022702,AFFECTS,Severe Acute Respiratory Syndrome,Kinetics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1175175,C0031164,AFFECTS,Severe Acute Respiratory Syndrome,Permeability,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C1175175,C0032931,AFFECTS,Severe Acute Respiratory Syndrome,Precipitation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1175175,C0042333,AFFECTS,Severe Acute Respiratory Syndrome,Variation (Genetics),dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C1175175,C0043085,AFFECTS,Severe Acute Respiratory Syndrome,Weather,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C1175175,C0301630,AFFECTS,Severe Acute Respiratory Syndrome,Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1175175,C1959569,AFFECTS,Severe Acute Respiratory Syndrome,Volatility,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1175175,C2718051,AFFECTS,Severe Acute Respiratory Syndrome,Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1175175,C3826426,AFFECTS,Severe Acute Respiratory Syndrome,Dynamics,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C1264606,C3826426,AFFECTS,Persistent infection,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1290807,C0008946,AFFECTS,Diarrheal disorder,Climate,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1290807,C0016248,AFFECTS,Diarrheal disorder,Floods,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1290807,C0020167,AFFECTS,Diarrheal disorder,Humidity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1290884,C0042333,AFFECTS,Inflammatory disorder,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1394891,C0851346,AFFECTS,Intrinsic Factor Deficiency,Radiation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1535950,C0031164,AFFECTS,Gastrointestinal inflammation,Permeability,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1562113,C0596578,AFFECTS,Fleck corneal dystrophy,fluid flow,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C1640363,C0008946,AFFECTS,Vector Borne Diseases,Climate,dsyn,npop,5,AFFECTS_DSYNafctNPOP
+C1640363,C0043085,AFFECTS,Vector Borne Diseases,Weather,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1640363,C0086312,AFFECTS,Vector Borne Diseases,Forests,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1640363,C2718051,AFFECTS,Vector Borne Diseases,Climate Change,dsyn,npop,4,AFFECTS_DSYNafctNPOP
+C1640363,C3826426,AFFECTS,Vector Borne Diseases,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1698626,C0017982,AFFECTS,Small Intestinal Mucositis,glycosylation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1704272,C0042333,AFFECTS,Benign Prostatic Hyperplasia,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1852551,C0598197,AFFECTS,Epithelial Recurrent Erosion Dystrophy,contagion,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C1852759,C0678568,AFFECTS,Papillorenal syndrome,Cool - action,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1853120,C0005495,AFFECTS,Noonan Syndrome 4,Origin of Life,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1854664,C3826426,AFFECTS,LETHAL CONGENITAL CONTRACTURE SYNDROME 1,Dynamics,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C1857041,C3826426,AFFECTS,"Ectodermal dysplasia, ectrodactyly, and macular dystrophy",Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1861380,C0678591,AFFECTS,"Syndactyly, Type I",Free Energy,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1862382,C0042784,AFFECTS,SVEINSSON CHORIORETINAL ATROPHY,Viscosity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1862382,C2987717,AFFECTS,SVEINSSON CHORIORETINAL ATROPHY,Fragrance (odor),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C1865804,C2718051,AFFECTS,"Peroxisome Biogenesis Disorder, Complementation Group E",Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C2062441,C0043085,AFFECTS,Influenza A,Weather,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C2062441,C0428692,AFFECTS,Influenza A,Ambient temperature,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C2242710,C0376706,AFFECTS,Intra-Abdominal Hypertension,Mechanics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C2676739,C0042784,AFFECTS,Chromosome 2q32-Q33 Deletion Syndrome,Viscosity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C2732979,C0042333,AFFECTS,Acquired long QT syndrome,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C2936328,C0301630,AFFECTS,Neglected Diseases,Reduction (chemical),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C3495483,C0011682,AFFECTS,Amish Brittle Hair Brain Syndrome,Desiccation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C3502809,C3826426,AFFECTS,Generalized Epilepsy with Febrile Seizures Plus,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C3534575,C2718051,AFFECTS,Animal Health,Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C3694279,C0016315,AFFECTS,Middle East Respiratory Syndrome,Fluorescence,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C3694279,C0042333,AFFECTS,Middle East Respiratory Syndrome,Variation (Genetics),dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C3711368,C0038887,AFFECTS,Surfactant Dysfunction,Surface Tension,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C3714496,C1321552,AFFECTS,Chronic obstructive pulmonary disease of horses,Temperature extreme,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C3714534,C0851346,AFFECTS,dowling-degos disease,Radiation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C3888198,C0016315,AFFECTS,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",Fluorescence,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C4225412,C3826426,AFFECTS,Spondylo-ocular syndrome,Dynamics,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C4290000,C0038884,AFFECTS,acute flaccid myelitis,Surface Properties,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C4290000,C0599882,AFFECTS,acute flaccid myelitis,Melting,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C4505065,C2718051,AFFECTS,Noncommunicable Diseases,Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C4505350,C2718051,AFFECTS,"Communicable Diseases, Imported",Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C4551825,C2718051,AFFECTS,Megaloblastic Anemia 1,Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C4699184,C2718051,AFFECTS,Fuchs,Climate Change,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C4724572,C0013790,AFFECTS,Obstructive apnea,Electricity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5139167,C0522534,AFFECTS,Severe infection,Saturated,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5139167,C0679215,AFFECTS,Severe infection,health and disease,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5203670,C0004178,AFFECTS,COVID-19,"Atmosphere, planetary",dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5203670,C0004180,AFFECTS,COVID-19,Atmospheric Pressure,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5203670,C0008946,AFFECTS,COVID-19,Climate,dsyn,npop,5,AFFECTS_DSYNafctNPOP
+C5203670,C0012222,AFFECTS,COVID-19,Diffusion,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5203670,C0013790,AFFECTS,COVID-19,Electricity,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C5203670,C0017982,AFFECTS,COVID-19,glycosylation,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5203670,C0020167,AFFECTS,COVID-19,Humidity,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C5203670,C0020183,AFFECTS,COVID-19,Hurricanes,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5203670,C0025594,AFFECTS,COVID-19,Meteorological Factors,dsyn,npop,6,AFFECTS_DSYNafctNPOP
+C5203670,C0031164,AFFECTS,COVID-19,Permeability,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C5203670,C0041625,AFFECTS,COVID-19,Ultraviolet Rays,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C5203670,C0042333,AFFECTS,COVID-19,Variation (Genetics),dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C5203670,C0042784,AFFECTS,COVID-19,Viscosity,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5203670,C0043085,AFFECTS,COVID-19,Weather,dsyn,npop,4,AFFECTS_DSYNafctNPOP
+C5203670,C0162358,AFFECTS,COVID-19,Ecosystem,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C5203670,C0301630,AFFECTS,COVID-19,Reduction (chemical),dsyn,npop,4,AFFECTS_DSYNafctNPOP
+C5203670,C0522534,AFFECTS,COVID-19,Saturated,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C5203670,C0563597,AFFECTS,COVID-19,Momentum,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5203670,C0596583,AFFECTS,COVID-19,Food Chain,dsyn,npop,3,AFFECTS_DSYNafctNPOP
+C5203670,C0598197,AFFECTS,COVID-19,contagion,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C5203670,C0678544,AFFECTS,COVID-19,wave - physical agent,dsyn,npop,2,AFFECTS_DSYNafctNPOP
+C5203670,C0679215,AFFECTS,COVID-19,health and disease,dsyn,npop,4,AFFECTS_DSYNafctNPOP
+C5203670,C0806140,AFFECTS,COVID-19,Flow,dsyn,npop,9,AFFECTS_DSYNafctNPOP
+C5203670,C1959569,AFFECTS,COVID-19,Volatility,dsyn,npop,8,AFFECTS_DSYNafctNPOP
+C5203670,C2348693,AFFECTS,COVID-19,Flux,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5203670,C2350399,AFFECTS,COVID-19,Metabolome,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5203670,C2717975,AFFECTS,COVID-19,Virus Release,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5203670,C2718051,AFFECTS,COVID-19,Climate Change,dsyn,npop,5,AFFECTS_DSYNafctNPOP
+C5203670,C3494255,AFFECTS,COVID-19,Water Resources,dsyn,npop,1,AFFECTS_DSYNafctNPOP
+C5203670,C3826426,AFFECTS,COVID-19,Dynamics,dsyn,npop,17,AFFECTS_DSYNafctNPOP

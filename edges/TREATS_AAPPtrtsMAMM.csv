@@ -1,0 +1,933 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000608,C0026809,TREATS,6-aminocaproic acid,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0001047,C0026809,TREATS,acetylcysteine,Mus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0001047,C0085979,TREATS,acetylcysteine,Cavia,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0001047,C0324889,TREATS,acetylcysteine,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0001347,C0039005,TREATS,Acute-Phase Proteins,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0001924,C0007450,TREATS,Albumins,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002191,C0026447,TREATS,alpha 1-antitrypsin,Monkeys,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002191,C0026809,TREATS,alpha 1-antitrypsin,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0002191,C0085243,TREATS,alpha 1-antitrypsin,"Mice, Inbred NOD",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002199,C0007450,TREATS,Interferon-alpha,Felis catus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0002199,C0024398,TREATS,Interferon-alpha,Macaca,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002199,C0024400,TREATS,Interferon-alpha,Macaca mulatta,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0002199,C0025914,TREATS,Interferon-alpha,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002199,C0026809,TREATS,Interferon-alpha,Mus,aapp,mamm,21,TREATS_AAPPtrtsMAMM
+C0002199,C0034693,TREATS,Interferon-alpha,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002199,C0039005,TREATS,Interferon-alpha,Family suidae,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0002199,C0237798,TREATS,Interferon-alpha,Nonhuman primate,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002199,C0324768,TREATS,Interferon-alpha,Family Pteropodidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002199,C0325032,TREATS,Interferon-alpha,"Pandas, Giant",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002199,C1513853,TREATS,Interferon-alpha,NON Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002199,C1520150,TREATS,Interferon-alpha,Wild Type Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002245,C0026809,TREATS,alpha-Amylases,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002260,C0026809,TREATS,eflornithine,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0002272,C0039005,TREATS,Alpha-glucosidase,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0006801,TREATS,Amino Acids,Camels,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0007752,TREATS,Amino Acids,Cercopithecidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0008139,TREATS,Amino Acids,Chiroptera,aapp,mamm,10,TREATS_AAPPtrtsMAMM
+C0002520,C0012984,TREATS,Amino Acids,Canis familiaris,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0002520,C0013127,TREATS,Amino Acids,Camelus dromedarius,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0016633,TREATS,Amino Acids,Foxes,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0018557,TREATS,Amino Acids,Hamsters,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0019944,TREATS,Amino Acids,Equus caballus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0023335,TREATS,Amino Acids,Leopard,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0024399,TREATS,Amino Acids,Macaca fascicularis,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0002520,C0024400,TREATS,Amino Acids,Macaca mulatta,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0002520,C0025914,TREATS,Amino Acids,House mice,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0002520,C0026179,TREATS,Amino Acids,Mink,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0026447,TREATS,Amino Acids,Monkeys,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0002520,C0026809,TREATS,Amino Acids,Mus,aapp,mamm,16,TREATS_AAPPtrtsMAMM
+C0002520,C0034499,TREATS,Amino Acids,Raccoon Dogs,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0034693,TREATS,Amino Acids,Rattus norvegicus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0002520,C0036492,TREATS,Amino Acids,Seals (Animal),aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0002520,C0039005,TREATS,Amino Acids,Family suidae,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0002520,C0206745,TREATS,Amino Acids,"Mice, Knockout",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0324889,TREATS,Amino Acids,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0325134,TREATS,Amino Acids,Ziphiidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C0999722,TREATS,Amino Acids,Bathyergus suillus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C1520150,TREATS,Amino Acids,Wild Type Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002520,C3668932,TREATS,Amino Acids,Grower pig for meat production,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002525,C0007450,TREATS,"Amino Acids, Essential",Felis catus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0002712,C0025914,TREATS,amylase,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002712,C0026809,TREATS,amylase,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002712,C0034693,TREATS,amylase,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0002712,C3887509,TREATS,amylase,Rabbits,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003009,C0026809,TREATS,angiotensin II,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003009,C0034693,TREATS,angiotensin II,Rattus norvegicus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0003009,C0206745,TREATS,angiotensin II,"Mice, Knockout",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003009,C1520150,TREATS,angiotensin II,Wild Type Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003018,C0034693,TREATS,Angiotensins,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0002186,TREATS,Antibodies,Vicugna pacos,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0003241,C0004146,TREATS,Antibodies,Ateles sp.,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0006352,TREATS,Antibodies,Buffaloes,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0006801,TREATS,Antibodies,Camels,aapp,mamm,17,TREATS_AAPPtrtsMAMM
+C0003241,C0007450,TREATS,Antibodies,Felis catus,aapp,mamm,59,TREATS_AAPPtrtsMAMM
+C0003241,C0007452,TREATS,Antibodies,Cattle,aapp,mamm,33,TREATS_AAPPtrtsMAMM
+C0003241,C0008111,TREATS,Antibodies,Pan troglodytes,aapp,mamm,6,TREATS_AAPPtrtsMAMM
+C0003241,C0008139,TREATS,Antibodies,Chiroptera,aapp,mamm,26,TREATS_AAPPtrtsMAMM
+C0003241,C0012984,TREATS,Antibodies,Canis familiaris,aapp,mamm,42,TREATS_AAPPtrtsMAMM
+C0003241,C0013127,TREATS,Antibodies,Camelus dromedarius,aapp,mamm,27,TREATS_AAPPtrtsMAMM
+C0003241,C0013885,TREATS,Antibodies,Elephants,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0015859,TREATS,Antibodies,Ferrets,aapp,mamm,19,TREATS_AAPPtrtsMAMM
+C0003241,C0016633,TREATS,Antibodies,Foxes,aapp,mamm,6,TREATS_AAPPtrtsMAMM
+C0003241,C0018019,TREATS,Antibodies,Capra hircus,aapp,mamm,19,TREATS_AAPPtrtsMAMM
+C0003241,C0018090,TREATS,Antibodies,Gorilla <Western Gorilla>,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0018557,TREATS,Antibodies,Hamsters,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0003241,C0018561,TREATS,Antibodies,Mesocricetus auratus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0019944,TREATS,Antibodies,Equus caballus,aapp,mamm,10,TREATS_AAPPtrtsMAMM
+C0003241,C0023919,TREATS,Antibodies,Llamas,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C0024398,TREATS,Antibodies,Macaca,aapp,mamm,12,TREATS_AAPPtrtsMAMM
+C0003241,C0024399,TREATS,Antibodies,Macaca fascicularis,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C0024400,TREATS,Antibodies,Macaca mulatta,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0003241,C0025914,TREATS,Antibodies,House mice,aapp,mamm,14,TREATS_AAPPtrtsMAMM
+C0003241,C0025915,TREATS,Antibodies,"Mice, Deer",aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C0025919,TREATS,Antibodies,"Mice, Inbred BALB C",aapp,mamm,11,TREATS_AAPPtrtsMAMM
+C0003241,C0025936,TREATS,Antibodies,"Mice, Transgenic",aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0003241,C0026179,TREATS,Antibodies,Mink,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C0026438,TREATS,Antibodies,Cercopithecus aethiops,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0026447,TREATS,Antibodies,Monkeys,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0003241,C0026809,TREATS,Antibodies,Mus,aapp,mamm,283,TREATS_AAPPtrtsMAMM
+C0003241,C0030362,TREATS,Antibodies,Papio,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0003241,C0032636,TREATS,Antibodies,Pongidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0032638,TREATS,Antibodies,Pongo pygmaeus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0033147,TREATS,Antibodies,Primates,aapp,mamm,11,TREATS_AAPPtrtsMAMM
+C0003241,C0034693,TREATS,Antibodies,Rattus norvegicus,aapp,mamm,22,TREATS_AAPPtrtsMAMM
+C0003241,C0034695,TREATS,Antibodies,"Rats, Cotton",aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0003241,C0035804,TREATS,Antibodies,Rodent,aapp,mamm,10,TREATS_AAPPtrtsMAMM
+C0003241,C0035950,TREATS,Antibodies,Ruminants,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0003241,C0036945,TREATS,Antibodies,Sheep,aapp,mamm,22,TREATS_AAPPtrtsMAMM
+C0003241,C0039005,TREATS,Antibodies,Family suidae,aapp,mamm,60,TREATS_AAPPtrtsMAMM
+C0003241,C0085979,TREATS,Antibodies,Cavia,aapp,mamm,16,TREATS_AAPPtrtsMAMM
+C0003241,C0206745,TREATS,Antibodies,"Mice, Knockout",aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0003241,C0237798,TREATS,Antibodies,Nonhuman primate,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0003241,C0324145,TREATS,Antibodies,Equus asinus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0003241,C0324547,TREATS,Antibodies,New Zealand Rabbits,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0324768,TREATS,Antibodies,Family Pteropodidae,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0003241,C0324856,TREATS,Antibodies,Gorilla <Eastern Gorilla>,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0324889,TREATS,Antibodies,Old World rabbit,aapp,mamm,47,TREATS_AAPPtrtsMAMM
+C0003241,C0324908,TREATS,Antibodies,Sciurus carolinensis,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0325001,TREATS,Antibodies,Wolves,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C0325003,TREATS,Antibodies,Maned Wolf,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C0325009,TREATS,Antibodies,Cerdocyon thous,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0003241,C0325013,TREATS,Antibodies,Vulpes vulpes,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C0325032,TREATS,Antibodies,"Pandas, Giant",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0325044,TREATS,Antibodies,Martes,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0325068,TREATS,Antibodies,Arctictis binturong,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0325069,TREATS,Antibodies,"Palm civet, NOS",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0325074,TREATS,Antibodies,Genets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0325089,TREATS,Antibodies,Family Felidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C0325090,TREATS,Antibodies,Felis silvestris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0325113,TREATS,Antibodies,Snow Leopards,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0325162,TREATS,Antibodies,UNGULATES - HOOFED MAMMALS,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0325203,TREATS,Antibodies,Camelus bactrianus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0325228,TREATS,Antibodies,Cervus elaphus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C0524515,TREATS,Antibodies,Family canidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C0684075,TREATS,Antibodies,Adult female pig having farrowed,aapp,mamm,8,TREATS_AAPPtrtsMAMM
+C0003241,C0699762,TREATS,Antibodies,ewes,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0869010,TREATS,Antibodies,Young dog,aapp,mamm,6,TREATS_AAPPtrtsMAMM
+C0003241,C0993562,TREATS,Antibodies,Lynx lynx,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0999467,TREATS,Antibodies,Pteropus alecto,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0999470,TREATS,Antibodies,Pteropus hypomelanus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C0999471,TREATS,Antibodies,Rousettus egyptiacus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1001614,TREATS,Antibodies,Glossophaga soricina,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1006449,TREATS,Antibodies,Sorex cinereus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1027073,TREATS,Antibodies,Lycalopex vetulus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C1063253,TREATS,Antibodies,Ochotona curzoniae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1064339,TREATS,Antibodies,Pteropus vampyrus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1070653,TREATS,Antibodies,Puma <Felidae>,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1084040,TREATS,Antibodies,Eidolon dupreanum,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1135183,TREATS,Antibodies,Sus scrofa,aapp,mamm,13,TREATS_AAPPtrtsMAMM
+C0003241,C1136016,TREATS,Antibodies,Sus scrofa domestica,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1214498,TREATS,Antibodies,Lynx pardinus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1265524,TREATS,Antibodies,Puma concolor,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1493979,TREATS,Antibodies,Urocyon littoralis,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1512658,TREATS,Antibodies,Immunodeficient Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1516110,TREATS,Antibodies,BALB/cByJ Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1518797,TREATS,Antibodies,PL/J Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1519145,TREATS,Antibodies,SJL/J Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1519146,TREATS,Antibodies,SJL Mouse,aapp,mamm,44,TREATS_AAPPtrtsMAMM
+C0003241,C1520150,TREATS,Antibodies,Wild Type Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C1521751,TREATS,Antibodies,C57BL/6 Mouse,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0003241,C3665359,TREATS,Antibodies,Female adult horse (organism),aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C3668932,TREATS,Antibodies,Grower pig for meat production,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C3669478,TREATS,Antibodies,Adult dog,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C3669692,TREATS,Antibodies,Young housecat,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0003241,C3669715,TREATS,Antibodies,Finishing pig for meat production,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C3669723,TREATS,Antibodies,Female cattle prior to birth of first calf,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003241,C3669731,TREATS,Antibodies,Horse under one year old,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C3672276,TREATS,Antibodies,Feral housecat,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C3687524,TREATS,Antibodies,Calf for milk production,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003241,C3887509,TREATS,Antibodies,Rabbits,aapp,mamm,8,TREATS_AAPPtrtsMAMM
+C0003242,C0026809,TREATS,"Antibodies, Anti-Idiotypic",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003250,C0026809,TREATS,Monoclonal Antibodies,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003250,C0039005,TREATS,Monoclonal Antibodies,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003253,C0026809,TREATS,"Antibodies, Viral",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003313,C0007452,TREATS,Immune complex,Cattle,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003438,C0007450,TREATS,antithrombin III,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003442,C0039005,TREATS,"lymphocyte immune globulin, anti-thymocyte globulin",Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003641,C0026809,TREATS,aprotinin,Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0003765,C0008111,TREATS,arginine,Pan troglodytes,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003765,C0034693,TREATS,arginine,Rattus norvegicus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0003993,C0025914,TREATS,asparaginase,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0003993,C0026809,TREATS,asparaginase,Mus,aapp,mamm,6,TREATS_AAPPtrtsMAMM
+C0003993,C0033147,TREATS,asparaginase,Primates,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0004480,C0034693,TREATS,Azaserine,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0004641,C0039005,TREATS,bacteriocin,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0005740,C0015859,TREATS,bleomycin,Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0005740,C0018557,TREATS,bleomycin,Hamsters,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0005740,C0026809,TREATS,bleomycin,Mus,aapp,mamm,19,TREATS_AAPPtrtsMAMM
+C0005740,C0034693,TREATS,bleomycin,Rattus norvegicus,aapp,mamm,7,TREATS_AAPPtrtsMAMM
+C0005740,C0035804,TREATS,bleomycin,Rodent,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0005740,C0206745,TREATS,bleomycin,"Mice, Knockout",aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0006050,C0025919,TREATS,botulinum toxin type A,"Mice, Inbred BALB C",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0006050,C0026809,TREATS,botulinum toxin type A,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0006100,C0026809,TREATS,Bradykinin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0006100,C0034693,TREATS,Bradykinin,Rattus norvegicus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0006100,C0085979,TREATS,Bradykinin,Cavia,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0006639,C0026809,TREATS,Ceruletide,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0006639,C0035804,TREATS,Ceruletide,Rodent,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0006938,C0012984,TREATS,captopril,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0006938,C0018557,TREATS,captopril,Hamsters,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0006938,C0026809,TREATS,captopril,Mus,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0006938,C0034693,TREATS,captopril,Rattus norvegicus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0007267,C0026809,TREATS,carnosine,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0007332,C0035950,TREATS,caseins,Ruminants,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0007367,C0034693,TREATS,catalase,Rattus norvegicus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0007367,C1521751,TREATS,catalase,C57BL/6 Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0008864,C0012984,TREATS,citrulline,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0008864,C0026809,TREATS,citrulline,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0008864,C0034693,TREATS,citrulline,Rattus norvegicus,aapp,mamm,68,TREATS_AAPPtrtsMAMM
+C0009316,C0034693,TREATS,colistin,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0009316,C0039005,TREATS,colistin,Family suidae,aapp,mamm,14,TREATS_AAPPtrtsMAMM
+C0009316,C0684075,TREATS,colistin,Adult female pig having farrowed,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0009316,C1135183,TREATS,colistin,Sus scrofa,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0009325,C0007450,TREATS,collagen,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0009325,C0025914,TREATS,collagen,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0009325,C0026809,TREATS,collagen,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0009325,C0034693,TREATS,collagen,Rattus norvegicus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0010590,C0007452,TREATS,cycloserine,Cattle,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0010590,C0024399,TREATS,cycloserine,Macaca fascicularis,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0010590,C0024400,TREATS,cycloserine,Macaca mulatta,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0010590,C0025914,TREATS,cycloserine,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0010590,C0026438,TREATS,cycloserine,Cercopithecus aethiops,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0010590,C0026809,TREATS,cycloserine,Mus,aapp,mamm,38,TREATS_AAPPtrtsMAMM
+C0010590,C0030362,TREATS,cycloserine,Papio,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0010590,C0034693,TREATS,cycloserine,Rattus norvegicus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0010590,C0039005,TREATS,cycloserine,Family suidae,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0010590,C1135183,TREATS,cycloserine,Sus scrofa,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0010590,C1520150,TREATS,cycloserine,Wild Type Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0010592,C0007450,TREATS,cyclosporine,Felis catus,aapp,mamm,11,TREATS_AAPPtrtsMAMM
+C0010592,C0012984,TREATS,cyclosporine,Canis familiaris,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0010592,C0024399,TREATS,cyclosporine,Macaca fascicularis,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0010592,C0026809,TREATS,cyclosporine,Mus,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0010592,C0034693,TREATS,cyclosporine,Rattus norvegicus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0010592,C0324889,TREATS,cyclosporine,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0010592,C1521751,TREATS,cyclosporine,C57BL/6 Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0012020,C0024400,TREATS,Diazooxonorleucine,Macaca mulatta,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0012020,C0026809,TREATS,Diazooxonorleucine,Mus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0012551,C0026809,TREATS,"diphtheria toxoid vaccine, inactivated",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0012551,C0085979,TREATS,"diphtheria toxoid vaccine, inactivated",Cavia,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0014025,C0026809,TREATS,enalapril,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0014025,C0034705,TREATS,enalapril,"Rats, Inbred SHR",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0014822,C0007450,TREATS,Erythropoietin,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0014822,C0206745,TREATS,Erythropoietin,"Mice, Knockout",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0015528,C0007450,TREATS,factor XIII,Felis catus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0015879,C0026809,TREATS,Ferritin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0015980,C0006764,TREATS,interferon-beta,Callithrix,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0015980,C0006765,TREATS,interferon-beta,Callithrix jacchus jacchus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0015980,C0008139,TREATS,interferon-beta,Chiroptera,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0015980,C0025914,TREATS,interferon-beta,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0015980,C0026809,TREATS,interferon-beta,Mus,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0015980,C1265469,TREATS,interferon-beta,Rhinolophus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0015982,C0324889,TREATS,Fibrin,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0016006,C0012984,TREATS,fibrinogen,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0016006,C0018557,TREATS,fibrinogen,Hamsters,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0016006,C0019944,TREATS,fibrinogen,Equus caballus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0016006,C0026809,TREATS,fibrinogen,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0016006,C0034693,TREATS,fibrinogen,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0016006,C0324889,TREATS,fibrinogen,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0016006,C3669731,TREATS,fibrinogen,Horse under one year old,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0016006,C3887509,TREATS,fibrinogen,Rabbits,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0016016,C0026809,TREATS,plasmin,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0016774,C0324889,TREATS,"Follicle Stimulating Hormone, Human",Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0017151,C0085243,TREATS,Gastrins,"Mice, Inbred NOD",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0017687,C0034693,TREATS,glucagon,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0017785,C0026809,TREATS,Glutamate Decarboxylase,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0017789,C0034693,TREATS,Glutamates,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0017797,C0026809,TREATS,glutamine,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0017797,C0034693,TREATS,glutamine,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0017817,C0026809,TREATS,glutathione,Mus,aapp,mamm,6,TREATS_AAPPtrtsMAMM
+C0017817,C0034693,TREATS,glutathione,Rattus norvegicus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0017824,C0034693,TREATS,Glutathione Reductase,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0017837,C0034693,TREATS,Glutathione S-Transferase,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0017890,C0036945,TREATS,glycine,Sheep,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0017890,C0039005,TREATS,glycine,Family suidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0018061,C0026447,TREATS,Gonadotropins,Monkeys,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0018595,C0008139,TREATS,Haptoglobins,Chiroptera,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0018595,C0019944,TREATS,Haptoglobins,Equus caballus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020388,C0026809,TREATS,hydroxyproline,Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0020388,C0034693,TREATS,hydroxyproline,Rattus norvegicus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0020843,C0007452,TREATS,Immunoglobulin D,Cattle,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020843,C0012984,TREATS,Immunoglobulin D,Canis familiaris,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0020843,C0026809,TREATS,Immunoglobulin D,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0020843,C0033147,TREATS,Immunoglobulin D,Primates,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020843,C0034693,TREATS,Immunoglobulin D,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020843,C0036945,TREATS,Immunoglobulin D,Sheep,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020843,C0039005,TREATS,Immunoglobulin D,Family suidae,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0020843,C0085979,TREATS,Immunoglobulin D,Cavia,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020852,C0007450,TREATS,immunoglobulin G,Felis catus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0020852,C0012984,TREATS,immunoglobulin G,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020852,C0026809,TREATS,immunoglobulin G,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020852,C0036945,TREATS,immunoglobulin G,Sheep,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020857,C0026809,TREATS,IgG2A,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020858,C0026809,TREATS,IgG2B,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020960,C0007450,TREATS,Immune Sera,Felis catus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0020960,C0015859,TREATS,Immune Sera,Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020960,C0018019,TREATS,Immune Sera,Capra hircus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020960,C0025914,TREATS,Immune Sera,House mice,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0020960,C0025919,TREATS,Immune Sera,"Mice, Inbred BALB C",aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0020960,C0026447,TREATS,Immune Sera,Monkeys,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020960,C0026809,TREATS,Immune Sera,Mus,aapp,mamm,47,TREATS_AAPPtrtsMAMM
+C0020960,C0030362,TREATS,Immune Sera,Papio,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020960,C0033147,TREATS,Immune Sera,Primates,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020960,C0034693,TREATS,Immune Sera,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020960,C0039005,TREATS,Immune Sera,Family suidae,aapp,mamm,10,TREATS_AAPPtrtsMAMM
+C0020960,C0085979,TREATS,Immune Sera,Cavia,aapp,mamm,16,TREATS_AAPPtrtsMAMM
+C0020960,C0162416,TREATS,Immune Sera,"Mouse, Swiss",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020960,C0206745,TREATS,Immune Sera,"Mice, Knockout",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020960,C0324547,TREATS,Immune Sera,New Zealand Rabbits,aapp,mamm,6,TREATS_AAPPtrtsMAMM
+C0020960,C0324889,TREATS,Immune Sera,Old World rabbit,aapp,mamm,39,TREATS_AAPPtrtsMAMM
+C0020960,C0999468,TREATS,Immune Sera,Pteropus poliocephalus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0020960,C1135183,TREATS,Immune Sera,Sus scrofa,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0020960,C1521751,TREATS,Immune Sera,C57BL/6 Mouse,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0020960,C3669692,TREATS,Immune Sera,Young housecat,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0020960,C3887509,TREATS,Immune Sera,Rabbits,aapp,mamm,7,TREATS_AAPPtrtsMAMM
+C0021641,C0007452,TREATS,Insulin,Cattle,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021641,C0012984,TREATS,Insulin,Canis familiaris,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0021641,C0025936,TREATS,Insulin,"Mice, Transgenic",aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0021641,C0026809,TREATS,Insulin,Mus,aapp,mamm,7,TREATS_AAPPtrtsMAMM
+C0021641,C0034693,TREATS,Insulin,Rattus norvegicus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0021641,C0034699,TREATS,Insulin,"Rats, Inbred BB",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021641,C0035804,TREATS,Insulin,Rodent,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021641,C3669731,TREATS,Insulin,Horse under one year old,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0021662,C3669731,TREATS,"Insulin, Protamine Zinc",Horse under one year old,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021665,C0025933,TREATS,Insulin-Like Growth Factor I,"Mice, Obese",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021665,C0026809,TREATS,Insulin-Like Growth Factor I,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021666,C0025933,TREATS,insulin-like growth factor 2,"Mice, Obese",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021740,C0007450,TREATS,Recombinant Interferon-gamma,Felis catus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0021740,C0007452,TREATS,Recombinant Interferon-gamma,Cattle,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021740,C0024400,TREATS,Recombinant Interferon-gamma,Macaca mulatta,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021740,C0025914,TREATS,Recombinant Interferon-gamma,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021740,C0025936,TREATS,Recombinant Interferon-gamma,"Mice, Transgenic",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021740,C0026809,TREATS,Recombinant Interferon-gamma,Mus,aapp,mamm,31,TREATS_AAPPtrtsMAMM
+C0021740,C0039005,TREATS,Recombinant Interferon-gamma,Family suidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0021740,C0085112,TREATS,Recombinant Interferon-gamma,SCID Mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021740,C0325051,TREATS,Recombinant Interferon-gamma,Badgers,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021741,C0026447,TREATS,interferon gamma-1b,Monkeys,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021743,C0007452,TREATS,Interferon Type I,Cattle,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021743,C0024398,TREATS,Interferon Type I,Macaca,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0021743,C0025914,TREATS,Interferon Type I,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021743,C0026447,TREATS,Interferon Type I,Monkeys,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021743,C0026809,TREATS,Interferon Type I,Mus,aapp,mamm,8,TREATS_AAPPtrtsMAMM
+C0021743,C0033147,TREATS,Interferon Type I,Primates,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021743,C0936022,TREATS,Interferon Type I,Myotis lucifugus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021743,C1064339,TREATS,Interferon Type I,Pteropus vampyrus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021743,C1520150,TREATS,Interferon Type I,Wild Type Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021745,C0008139,TREATS,interferon type II,Chiroptera,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021753,C0007450,TREATS,"interleukin-1, beta",Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021753,C0025914,TREATS,"interleukin-1, beta",House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021753,C0026809,TREATS,"interleukin-1, beta",Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0021753,C0034693,TREATS,"interleukin-1, beta",Rattus norvegicus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0021753,C0035804,TREATS,"interleukin-1, beta",Rodent,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021753,C0039005,TREATS,"interleukin-1, beta",Family suidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0021755,C0026809,TREATS,Interleukin-1,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0021756,C0007450,TREATS,Interleukin-2,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021756,C0026809,TREATS,Interleukin-2,Mus,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0021758,C0007450,TREATS,interleukin-4,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021758,C0026809,TREATS,interleukin-4,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0021760,C0007450,TREATS,interleukin-6,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0021760,C0024398,TREATS,interleukin-6,Macaca,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0021760,C0026809,TREATS,interleukin-6,Mus,aapp,mamm,9,TREATS_AAPPtrtsMAMM
+C0021760,C0039005,TREATS,interleukin-6,Family suidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0021760,C1520150,TREATS,interleukin-6,Wild Type Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0022478,C0008111,TREATS,kininogenase,Pan troglodytes,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0022478,C0034693,TREATS,kininogenase,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0022942,C0039005,TREATS,lactoferrin,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0022948,C0012984,TREATS,lactoperoxidase,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0022959,C0026809,TREATS,LacZ Genes,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0023401,C0030362,TREATS,leucine,Papio,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0023401,C0036945,TREATS,leucine,Sheep,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0023401,C0524516,TREATS,leucine,Canis,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0023607,C0026809,TREATS,luteinizing hormone,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0023610,C0007452,TREATS,gonadorelin,Cattle,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0023610,C0025914,TREATS,gonadorelin,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0023610,C0033147,TREATS,gonadorelin,Primates,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0023610,C0034693,TREATS,gonadorelin,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0023610,C0039005,TREATS,gonadorelin,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0023610,C0325005,TREATS,gonadorelin,Coyotes,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0023610,C3669723,TREATS,gonadorelin,Female cattle prior to birth of first calf,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0023764,C0007450,TREATS,lipase,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0023764,C0016633,TREATS,lipase,Foxes,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0024328,C0039005,TREATS,lypressin,Family suidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0024337,C0007450,TREATS,lysine,Felis catus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0024337,C0007452,TREATS,lysine,Cattle,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0024337,C0025914,TREATS,lysine,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0024337,C0026809,TREATS,lysine,Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0024337,C0033147,TREATS,lysine,Primates,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0024337,C0034693,TREATS,lysine,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0024337,C0039005,TREATS,lysine,Family suidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0024337,C0085979,TREATS,lysine,Cavia,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0024337,C0325156,TREATS,lysine,Loxodonta africana,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0025241,C0007450,TREATS,melphalan,Felis catus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0025646,C0999728,TREATS,methionine,Heterocephalus glaber,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0026794,C0008119,TREATS,muramidase,Chinchilla<genus>,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0026794,C0008139,TREATS,muramidase,Chiroptera,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0026794,C0018019,TREATS,muramidase,Capra hircus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0026794,C0019944,TREATS,muramidase,Equus caballus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0026794,C0025936,TREATS,muramidase,"Mice, Transgenic",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0027021,C0034693,TREATS,peroxidase,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0028115,C0026809,TREATS,Nisin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0028833,C0015859,TREATS,octreotide,Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0028941,C0034693,TREATS,"Oligo-1,6-Glucosidase",Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0028941,C0039005,TREATS,"Oligo-1,6-Glucosidase",Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0028941,C3887509,TREATS,"Oligo-1,6-Glucosidase",Rabbits,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0030095,C0024400,TREATS,oxytocin,Macaca mulatta,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0030095,C0026809,TREATS,oxytocin,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0030095,C0034693,TREATS,oxytocin,Rattus norvegicus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0030095,C0034715,TREATS,oxytocin,"Rats, Sprague-Dawley",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0030095,C0684075,TREATS,oxytocin,Adult female pig having farrowed,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0030095,C1033931,TREATS,oxytocin,Microtus ochrogaster,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0030095,C1140701,TREATS,oxytocin,Bos taurus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0030190,C0324889,TREATS,Plasminogen Activator Inhibitor 1,Old World rabbit,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0030191,C0324889,TREATS,Plasminogen Activator Inhibitor 2,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0031453,C0008139,TREATS,phenylalanine,Chiroptera,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0031453,C0026809,TREATS,phenylalanine,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0031453,C1135183,TREATS,phenylalanine,Sus scrofa,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0032015,C0007452,TREATS,Pituitary Hormones,Cattle,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0032015,C0034693,TREATS,Pituitary Hormones,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0032140,C0026809,TREATS,Plasminogen,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0032143,C0026809,TREATS,alteplase,Mus,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0032143,C0324889,TREATS,alteplase,Old World rabbit,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0032144,C0026809,TREATS,Plasminogen Activator,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0032535,C0026809,TREATS,polymyxin B,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0032535,C0034693,TREATS,polymyxin B,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0032535,C3669731,TREATS,polymyxin B,Horse under one year old,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0033371,C0018557,TREATS,prolactin,Hamsters,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0033371,C0034693,TREATS,prolactin,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0033371,C0699762,TREATS,prolactin,ewes,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0033603,C0026809,TREATS,protamines,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0033621,C0026809,TREATS,protein C,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0034862,C0007450,TREATS,"Vaccines, Recombinant",Felis catus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0034862,C0007452,TREATS,"Vaccines, Recombinant",Cattle,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0034862,C0012984,TREATS,"Vaccines, Recombinant",Canis familiaris,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0034862,C0018561,TREATS,"Vaccines, Recombinant",Mesocricetus auratus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0034862,C0024398,TREATS,"Vaccines, Recombinant",Macaca,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0034862,C0026809,TREATS,"Vaccines, Recombinant",Mus,aapp,mamm,10,TREATS_AAPPtrtsMAMM
+C0034862,C0039005,TREATS,"Vaccines, Recombinant",Family suidae,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0035031,C0012984,TREATS,Relaxin,Canis familiaris,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0036720,C0026809,TREATS,serine,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0036720,C0039005,TREATS,serine,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0036720,C0324878,TREATS,serine,Pholidota,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0036764,C0025914,TREATS,Serpins,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0036764,C1521751,TREATS,Serpins,C57BL/6 Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0037167,C0007450,TREATS,sincalide,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0037657,C0025933,TREATS,Somatomedins,"Mice, Obese",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0037659,C0007450,TREATS,somatostatin,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0037663,C0036945,TREATS,Growth Hormone,Sheep,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0037663,C0039005,TREATS,Growth Hormone,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0038634,C0034693,TREATS,SUCRASE,Rattus norvegicus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0038634,C0039005,TREATS,SUCRASE,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0038838,C0026809,TREATS,superoxide dismutase,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0038838,C0034693,TREATS,superoxide dismutase,Rattus norvegicus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0038838,C1140701,TREATS,superoxide dismutase,Bos taurus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0038838,C1521751,TREATS,superoxide dismutase,C57BL/6 Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0039350,C0012984,TREATS,taurine,Canis familiaris,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0039350,C0018557,TREATS,taurine,Hamsters,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0039350,C0026413,TREATS,taurine,Herpestidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0039350,C0034693,TREATS,taurine,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0039350,C0178727,TREATS,taurine,Laboratory rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0039350,C0325081,TREATS,taurine,Suricata suricatta,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0039617,C0026809,TREATS,tetanus toxin,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0039617,C0324889,TREATS,tetanus toxin,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0040005,C0007452,TREATS,threonine,Cattle,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0040005,C0025914,TREATS,threonine,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0040005,C0026809,TREATS,threonine,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0040005,C0039005,TREATS,threonine,Family suidae,aapp,mamm,6,TREATS_AAPPtrtsMAMM
+C0040005,C0325069,TREATS,threonine,"Palm civet, NOS",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0040018,C0025936,TREATS,thrombin,"Mice, Transgenic",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0040018,C0026809,TREATS,thrombin,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0040048,C0324889,TREATS,Thromboplastin,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0040123,C0012984,TREATS,thyroglobulin,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0040160,C0034693,TREATS,thyrotropin,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0040165,C0012984,TREATS,levothyroxine,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0040679,C0026809,TREATS,Transferrin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0040691,C0034693,TREATS,Transforming Growth Factors,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0041236,C0026809,TREATS,trypsin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0041236,C1140701,TREATS,trypsin,Bos taurus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0041242,C0019944,TREATS,Trypsin Inhibitors,Equus caballus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0041249,C0025914,TREATS,tryptophan,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0041249,C0026809,TREATS,tryptophan,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0041485,C0026809,TREATS,tyrosine,Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0041485,C0034693,TREATS,tyrosine,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042071,C0324889,TREATS,urokinase,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0002186,TREATS,Vaccines,Vicugna pacos,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0042210,C0006764,TREATS,Vaccines,Callithrix,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0006801,TREATS,Vaccines,Camels,aapp,mamm,17,TREATS_AAPPtrtsMAMM
+C0042210,C0007450,TREATS,Vaccines,Felis catus,aapp,mamm,34,TREATS_AAPPtrtsMAMM
+C0042210,C0007452,TREATS,Vaccines,Cattle,aapp,mamm,51,TREATS_AAPPtrtsMAMM
+C0042210,C0007752,TREATS,Vaccines,Cercopithecidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C0007970,TREATS,Vaccines,Cheetahs,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0008111,TREATS,Vaccines,Pan troglodytes,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0042210,C0008139,TREATS,Vaccines,Chiroptera,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C0012984,TREATS,Vaccines,Canis familiaris,aapp,mamm,82,TREATS_AAPPtrtsMAMM
+C0042210,C0013127,TREATS,Vaccines,Camelus dromedarius,aapp,mamm,14,TREATS_AAPPtrtsMAMM
+C0042210,C0015859,TREATS,Vaccines,Ferrets,aapp,mamm,22,TREATS_AAPPtrtsMAMM
+C0042210,C0016633,TREATS,Vaccines,Foxes,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C0018019,TREATS,Vaccines,Capra hircus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C0018557,TREATS,Vaccines,Hamsters,aapp,mamm,9,TREATS_AAPPtrtsMAMM
+C0042210,C0018561,TREATS,Vaccines,Mesocricetus auratus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0019944,TREATS,Vaccines,Equus caballus,aapp,mamm,49,TREATS_AAPPtrtsMAMM
+C0042210,C0023756,TREATS,Vaccines,Panthera leo,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C0023919,TREATS,Vaccines,Llamas,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0024398,TREATS,Vaccines,Macaca,aapp,mamm,6,TREATS_AAPPtrtsMAMM
+C0042210,C0024399,TREATS,Vaccines,Macaca fascicularis,aapp,mamm,10,TREATS_AAPPtrtsMAMM
+C0042210,C0024400,TREATS,Vaccines,Macaca mulatta,aapp,mamm,11,TREATS_AAPPtrtsMAMM
+C0042210,C0024401,TREATS,Vaccines,Macaca nemestrina,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C0025914,TREATS,Vaccines,House mice,aapp,mamm,12,TREATS_AAPPtrtsMAMM
+C0042210,C0025919,TREATS,Vaccines,"Mice, Inbred BALB C",aapp,mamm,12,TREATS_AAPPtrtsMAMM
+C0042210,C0025929,TREATS,Vaccines,Laboratory mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0025936,TREATS,Vaccines,"Mice, Transgenic",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0026438,TREATS,Vaccines,Cercopithecus aethiops,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0042210,C0026447,TREATS,Vaccines,Monkeys,aapp,mamm,21,TREATS_AAPPtrtsMAMM
+C0042210,C0026809,TREATS,Vaccines,Mus,aapp,mamm,195,TREATS_AAPPtrtsMAMM
+C0042210,C0029903,TREATS,Vaccines,Otter (organism),aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C0032898,TREATS,Vaccines,Prairie Dogs,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0033147,TREATS,Vaccines,Primates,aapp,mamm,19,TREATS_AAPPtrtsMAMM
+C0042210,C0034500,TREATS,Vaccines,Raccoons,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0034693,TREATS,Vaccines,Rattus norvegicus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0042210,C0034695,TREATS,Vaccines,"Rats, Cotton",aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C0035804,TREATS,Vaccines,Rodent,aapp,mamm,8,TREATS_AAPPtrtsMAMM
+C0042210,C0035950,TREATS,Vaccines,Ruminants,aapp,mamm,7,TREATS_AAPPtrtsMAMM
+C0042210,C0036945,TREATS,Vaccines,Sheep,aapp,mamm,14,TREATS_AAPPtrtsMAMM
+C0042210,C0039005,TREATS,Vaccines,Family suidae,aapp,mamm,83,TREATS_AAPPtrtsMAMM
+C0042210,C0080332,TREATS,Vaccines,Water Buffalo,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0085979,TREATS,Vaccines,Cavia,aapp,mamm,13,TREATS_AAPPtrtsMAMM
+C0042210,C0175925,TREATS,Vaccines,Cattle for milk production,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0206745,TREATS,Vaccines,"Mice, Knockout",aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C0237798,TREATS,Vaccines,Nonhuman primate,aapp,mamm,17,TREATS_AAPPtrtsMAMM
+C0042210,C0259986,TREATS,Vaccines,Fur-bearing animals,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C0324145,TREATS,Vaccines,Equus asinus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0324180,TREATS,Vaccines,Pony,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0324717,TREATS,Vaccines,Phascolarctos cinereus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0324765,TREATS,Vaccines,Desmodus rotundus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0324768,TREATS,Vaccines,Family Pteropodidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0324887,TREATS,Vaccines,Wild rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0324889,TREATS,Vaccines,Old World rabbit,aapp,mamm,13,TREATS_AAPPtrtsMAMM
+C0042210,C0325031,TREATS,Vaccines,Ailurus fulgens,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0325032,TREATS,Vaccines,"Pandas, Giant",aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0042210,C0325051,TREATS,Vaccines,Badgers,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0325089,TREATS,Vaccines,Family Felidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0325115,TREATS,Vaccines,Tigers,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0325125,TREATS,Vaccines,Phocidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C0325224,TREATS,Vaccines,Odocoileus virginianus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0524597,TREATS,Vaccines,Domestic Polecats,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C0684075,TREATS,Vaccines,Adult female pig having farrowed,aapp,mamm,14,TREATS_AAPPtrtsMAMM
+C0042210,C0869010,TREATS,Vaccines,Young dog,aapp,mamm,8,TREATS_AAPPtrtsMAMM
+C0042210,C0939793,TREATS,Vaccines,Female dog,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C0993590,TREATS,Vaccines,Urocyon cinereoargenteus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C1135183,TREATS,Vaccines,Sus scrofa,aapp,mamm,7,TREATS_AAPPtrtsMAMM
+C0042210,C1136016,TREATS,Vaccines,Sus scrofa domestica,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C1265541,TREATS,Vaccines,Bison bison X Bos taurus indicus X Bos taurus taurus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C1520150,TREATS,Vaccines,Wild Type Mouse,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C1521751,TREATS,Vaccines,C57BL/6 Mouse,aapp,mamm,7,TREATS_AAPPtrtsMAMM
+C0042210,C3665359,TREATS,Vaccines,Female adult horse (organism),aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0042210,C3668932,TREATS,Vaccines,Grower pig for meat production,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042210,C3669478,TREATS,Vaccines,Adult dog,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C3669692,TREATS,Vaccines,Young housecat,aapp,mamm,6,TREATS_AAPPtrtsMAMM
+C0042210,C3669731,TREATS,Vaccines,Horse under one year old,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C3687524,TREATS,Vaccines,Calf for milk production,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042210,C3887509,TREATS,Vaccines,Rabbits,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0042285,C0026809,TREATS,valine,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042313,C0012984,TREATS,vancomycin,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042313,C0018557,TREATS,vancomycin,Hamsters,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042313,C0026809,TREATS,vancomycin,Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0042395,C0026809,TREATS,vasoactive intestinal peptide,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042413,C0034693,TREATS,Vasopressins,Rattus norvegicus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042413,C0324889,TREATS,Vasopressins,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042413,C1033931,TREATS,Vasopressins,Microtus ochrogaster,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042413,C3669731,TREATS,Vasopressins,Horse under one year old,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042754,C0007452,TREATS,virginiamycin,Cattle,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0042971,C0012984,TREATS,von Willebrand factor,Canis familiaris,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0042971,C0015859,TREATS,von Willebrand factor,Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0043396,C0006764,TREATS,Yellow fever virus,Callithrix,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0043396,C0008139,TREATS,Yellow fever virus,Chiroptera,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0043396,C0025919,TREATS,Yellow fever virus,"Mice, Inbred BALB C",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0043396,C0026447,TREATS,Yellow fever virus,Monkeys,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0043396,C0026809,TREATS,Yellow fever virus,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0050718,C0018561,TREATS,AD 5,Mesocricetus auratus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0051081,C0034693,TREATS,alanylglycine,Rattus norvegicus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0051979,C0018019,TREATS,anti-IgG,Capra hircus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0052851,C0026809,TREATS,activin B,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0052897,C0026809,TREATS,bactericidal permeability increasing protein,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0053355,C0025932,TREATS,ubenimex,"Mice, Nude",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0053355,C0026809,TREATS,ubenimex,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0054015,C0026809,TREATS,nesiritide,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0054534,C0025936,TREATS,calpastatin,"Mice, Transgenic",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0054534,C0026809,TREATS,calpastatin,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0055633,C0008139,TREATS,Chromogranin A,Chiroptera,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0055633,C0026809,TREATS,Chromogranin A,Mus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0055633,C0324878,TREATS,Chromogranin A,Pholidota,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C0056864,C0026809,TREATS,"cystatin, egg-white",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0057144,C0034693,TREATS,daptomycin,Rattus norvegicus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0057144,C0324889,TREATS,daptomycin,Old World rabbit,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0057256,C0007752,TREATS,Defensins,Cercopithecidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0057256,C0008111,TREATS,Defensins,Pan troglodytes,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0057256,C0012984,TREATS,Defensins,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0057256,C0019874,TREATS,Defensins,Hominidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0057256,C0024400,TREATS,Defensins,Macaca mulatta,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0057256,C0026447,TREATS,Defensins,Monkeys,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0057256,C0026809,TREATS,Defensins,Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0057256,C0033147,TREATS,Defensins,Primates,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0057256,C0039005,TREATS,Defensins,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0057256,C0041390,TREATS,Defensins,Tupaiidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0057256,C0324819,TREATS,Defensins,Papio anubis,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0058851,C0034693,TREATS,dynorphin A-analogue kappa ligand,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0061355,C0026809,TREATS,Glucagon-Like Peptide 1,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0061355,C0085243,TREATS,Glucagon-Like Peptide 1,"Mice, Inbred NOD",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0061472,C0024400,TREATS,glutamic acid,Macaca mulatta,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0061472,C0025914,TREATS,glutamic acid,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0061472,C0026809,TREATS,glutamic acid,Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0061472,C0034693,TREATS,glutamic acid,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0061472,C0085243,TREATS,glutamic acid,"Mice, Inbred NOD",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0061472,C0237798,TREATS,glutamic acid,Nonhuman primate,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0061472,C0325069,TREATS,glutamic acid,"Palm civet, NOS",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0061472,C0325187,TREATS,glutamic acid,Ceratotherium simum,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0061673,C0026809,TREATS,varicella zoster virus glycoprotein E,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0064197,C0025914,TREATS,K-18 conjugate,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0064197,C0025919,TREATS,K-18 conjugate,"Mice, Inbred BALB C",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0064294,C0026809,TREATS,fibroblast growth factor 7,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0064294,C0034693,TREATS,fibroblast growth factor 7,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0064858,C0026809,TREATS,leupeptin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0065374,C0324536,TREATS,lisinopril,Lewis rat,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0065661,C0007452,TREATS,Mannose Binding Lectin,Cattle,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0065850,C0034693,TREATS,mecysteine,Rattus norvegicus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0065916,C0026809,TREATS,meliacin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0067385,C0034693,TREATS,"N,N-dimethylarginine",Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0068707,C0035804,TREATS,Nicotinamide Phosphoribosyltransferase,Rodent,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0069508,C0026809,TREATS,"oncogene protein E7, Human papillomavirus type 16",Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0071214,C0006764,TREATS,plasma protein fraction,Callithrix,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0071214,C0026809,TREATS,plasma protein fraction,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0071214,C0034693,TREATS,plasma protein fraction,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0072978,C0026809,TREATS,RANTES,Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0074825,C0025933,TREATS,Insulin-Like Growth-Factor-Binding Proteins,"Mice, Obese",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0076380,C0026809,TREATS,theanine,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0078080,C0026809,TREATS,"vasopressin, 1-(1-mercaptocyclohexaneacetic acid)-2-(O- methyl-L-tyrosine)-8-L-arginine-",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0079189,C0015859,TREATS,cytokine,Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0079189,C0026809,TREATS,cytokine,Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0079189,C3669692,TREATS,cytokine,Young housecat,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0079286,C0012984,TREATS,"Enkephalin, Leucine-2-Alanine",Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0079460,C0026809,TREATS,Granulocyte-Macrophage Colony-Stimulating Factor,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0079633,C0024398,TREATS,interleukin-8,Macaca,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0079633,C0039005,TREATS,interleukin-8,Family suidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0079883,C0034693,TREATS,N-Methylaspartate,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0080225,C0034693,TREATS,thymopentin,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0083031,C0026809,TREATS,interleukin-11,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0083183,C0034693,TREATS,lactase,Rattus norvegicus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0083183,C0036945,TREATS,lactase,Sheep,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0083183,C3887509,TREATS,lactase,Rabbits,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0083220,C0007450,TREATS,deslorelin,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0083220,C0012984,TREATS,deslorelin,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0083220,C0325005,TREATS,deslorelin,Coyotes,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0085295,C0007450,TREATS,interleukin-10,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0085295,C0026809,TREATS,interleukin-10,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0085295,C0039005,TREATS,interleukin-10,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0085295,C1135183,TREATS,interleukin-10,Sus scrofa,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0085297,C0015859,TREATS,"immunoglobulins, intravenous",Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0085297,C0026809,TREATS,"immunoglobulins, intravenous",Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0085297,C1135183,TREATS,"immunoglobulins, intravenous",Sus scrofa,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0085379,C0026809,TREATS,muromonab-CD3,Mus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0085379,C1517307,TREATS,muromonab-CD3,Fox Chase SCID Mouse,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0085741,C0026809,TREATS,"Pancreatic Trypsin Secretory Inhibitor, Kazal",Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0100748,C0026809,TREATS,activin A,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0103306,C0025914,TREATS,angiotensin I (1-7),House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0103306,C0025936,TREATS,angiotensin I (1-7),"Mice, Transgenic",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0103306,C0026809,TREATS,angiotensin I (1-7),Mus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0103306,C0034693,TREATS,angiotensin I (1-7),Rattus norvegicus,aapp,mamm,7,TREATS_AAPPtrtsMAMM
+C0114832,C0012984,TREATS,Dopachrome isomerase,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0123515,C0034693,TREATS,indolicidin,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0123759,C0007450,TREATS,interleukin-12,Felis catus,aapp,mamm,7,TREATS_AAPPtrtsMAMM
+C0123759,C0024400,TREATS,interleukin-12,Macaca mulatta,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0123759,C0025914,TREATS,interleukin-12,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0123759,C0025919,TREATS,interleukin-12,"Mice, Inbred BALB C",aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0123759,C0026447,TREATS,interleukin-12,Monkeys,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0123759,C0026809,TREATS,interleukin-12,Mus,aapp,mamm,29,TREATS_AAPPtrtsMAMM
+C0123759,C0034693,TREATS,interleukin-12,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0123759,C0034700,TREATS,interleukin-12,"Rats, Inbred BN",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0123759,C0039005,TREATS,interleukin-12,Family suidae,aapp,mamm,6,TREATS_AAPPtrtsMAMM
+C0123759,C0206745,TREATS,interleukin-12,"Mice, Knockout",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0123759,C1135183,TREATS,interleukin-12,Sus scrofa,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0123759,C1510707,TREATS,interleukin-12,A/J Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0123759,C1520150,TREATS,interleukin-12,Wild Type Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0123759,C1521751,TREATS,interleukin-12,C57BL/6 Mouse,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0143595,C0026809,TREATS,aureolysin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0162745,C0026809,TREATS,collagenase,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0164613,C0018561,TREATS,interferon alfacon-1,Mesocricetus auratus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0164674,C0025936,TREATS,pegademase bovine,"Mice, Transgenic",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0164674,C0026809,TREATS,pegademase bovine,Mus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0167117,C0026809,TREATS,exenatide,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0169964,C0036945,TREATS,somatropin,Sheep,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0169964,C0039005,TREATS,somatropin,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0169964,C0085979,TREATS,somatropin,Cavia,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0169964,C1140701,TREATS,somatropin,Bos taurus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0172511,C0026809,TREATS,interferon-alpha 8,Mus,aapp,mamm,8,TREATS_AAPPtrtsMAMM
+C0178741,C0034693,TREATS,mercapturate,Rattus norvegicus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0206492,C0026809,TREATS,"Antibodies, Bispecific",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0215469,C0026809,TREATS,"CXCL9 protein, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0242275,C0026809,TREATS,epidermal growth factor,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0242275,C0036945,TREATS,epidermal growth factor,Sheep,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0244713,C0006765,TREATS,interferon beta-1b,Callithrix jacchus jacchus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0245109,C0024398,TREATS,anakinra,Macaca,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0245109,C0026809,TREATS,anakinra,Mus,aapp,mamm,6,TREATS_AAPPtrtsMAMM
+C0245109,C0034693,TREATS,anakinra,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0245109,C1520150,TREATS,anakinra,Wild Type Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0250604,C0026809,TREATS,Eotaxin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0254610,C0026809,TREATS,Interleukin-15,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0282554,C0015859,TREATS,chemokine,Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0282554,C0026809,TREATS,chemokine,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0299583,C0007450,TREATS,leptin,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0299583,C0025933,TREATS,leptin,"Mice, Obese",aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0299583,C0026809,TREATS,leptin,Mus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0299583,C0034693,TREATS,leptin,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0299583,C0039005,TREATS,leptin,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0299583,C0086893,TREATS,leptin,"Rats, Laboratory",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0301503,C0026809,TREATS,"rabies immune globulin, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0301503,C0034500,TREATS,"rabies immune globulin, human",Raccoons,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0301512,C0026809,TREATS,Vaccinia virus vaccine,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0301512,C0033147,TREATS,Vaccinia virus vaccine,Primates,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0301512,C3669692,TREATS,Vaccinia virus vaccine,Young housecat,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0304925,C0007450,TREATS,"albumin human, USP",Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0305052,C0008139,TREATS,Gamma globulin serum,Chiroptera,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0305052,C0024398,TREATS,Gamma globulin serum,Macaca,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0305052,C0025914,TREATS,Gamma globulin serum,House mice,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0305052,C0026809,TREATS,Gamma globulin serum,Mus,aapp,mamm,18,TREATS_AAPPtrtsMAMM
+C0305052,C0324889,TREATS,Gamma globulin serum,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0308550,C0007452,TREATS,BRSV,Cattle,aapp,mamm,11,TREATS_AAPPtrtsMAMM
+C0308550,C0175925,TREATS,BRSV,Cattle for milk production,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0308550,C1140701,TREATS,BRSV,Bos taurus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0308550,C3687524,TREATS,BRSV,Calf for milk production,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0310699,C0015859,TREATS,Canary pox vaccine,Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0310701,C0012984,TREATS,Canine coronavirus vaccine,Canis familiaris,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0310703,C0015859,TREATS,Canine distemper vaccine,Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0310732,C0325115,TREATS,Feline panleukopenia vaccine,Tigers,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0310767,C0012984,TREATS,"Rabies vaccine, animal",Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0354641,C0024399,TREATS,Factor VIII fraction products,Macaca fascicularis,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0354641,C0026809,TREATS,Factor VIII fraction products,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0354641,C3669695,TREATS,Factor VIII fraction products,Dog for breeding,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0358321,C0007452,TREATS,Immune Globulin (Human),Cattle,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0358321,C0015859,TREATS,Immune Globulin (Human),Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0358321,C0025914,TREATS,Immune Globulin (Human),House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0358321,C0025936,TREATS,Immune Globulin (Human),"Mice, Transgenic",aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0358321,C0026447,TREATS,Immune Globulin (Human),Monkeys,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0358321,C0026809,TREATS,Immune Globulin (Human),Mus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0358321,C0039005,TREATS,Immune Globulin (Human),Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0359156,C0012984,TREATS,rabbit anti-human T-lymphocyte globulin,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0359168,C0025914,TREATS,Mouse monoclonal antibody,House mice,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0359168,C0237798,TREATS,Mouse monoclonal antibody,Nonhuman primate,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0369286,C0007752,TREATS,H NOS Antibodies,Cercopithecidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0369286,C0032636,TREATS,H NOS Antibodies,Pongidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0369286,C1720820,TREATS,H NOS Antibodies,Hominini,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0369334,C0026809,TREATS,Hepatitis B Virus Surface Antibody,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0376659,C0012984,TREATS,Cancer Vaccines,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0376659,C0026809,TREATS,Cancer Vaccines,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0379422,C0026809,TREATS,"SERPINB1 protein, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0383779,C0026809,TREATS,benzyloxycarbonylvalyl-alanyl-aspartyl fluoromethyl ketone,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0388014,C0034695,TREATS,Respigam,"Rats, Cotton",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0388014,C0237798,TREATS,Respigam,Nonhuman primate,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0393022,C0026809,TREATS,rituximab,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0443469,C0026809,TREATS,pancreatic lipase,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0443640,C0018019,TREATS,Specific antibody,Capra hircus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0525773,C0034693,TREATS,"Enkephalin, Ala(2)-MePhe(4)-Gly(5)-",Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0525856,C0034693,TREATS,"Enkephalin, D-Penicillamine (2,5)-",Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0525856,C0034705,TREATS,"Enkephalin, D-Penicillamine (2,5)-","Rats, Inbred SHR",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0526870,C0034693,TREATS,"MBL2 protein, human",Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0533668,C0206745,TREATS,"ANGPT1 protein, human","Mice, Knockout",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0534343,C0012984,TREATS,"CST6 protein, human",Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0534628,C0026809,TREATS,Endostatins,Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0537439,C2350483,TREATS,enfuvirtide,"Rats, Transgenic",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0544420,C0012984,TREATS,Digestive Enzymes,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0544420,C0039005,TREATS,Digestive Enzymes,Family suidae,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0596481,C0035804,TREATS,Elastase inhibitor,Rodent,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0597418,C0007452,TREATS,Rotavirus Vaccines,Cattle,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0597418,C0026809,TREATS,Rotavirus Vaccines,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0597418,C0036945,TREATS,Rotavirus Vaccines,Sheep,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0597418,C0039005,TREATS,Rotavirus Vaccines,Family suidae,aapp,mamm,7,TREATS_AAPPtrtsMAMM
+C0597418,C3665359,TREATS,Rotavirus Vaccines,Female adult horse (organism),aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0597551,C0035804,TREATS,synthetic peptide,Rodent,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0597766,C1521751,TREATS,Adenoviridae vaccine,C57BL/6 Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0597874,C0039005,TREATS,Cecropins,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0599220,C0015859,TREATS,Protein Subunits,Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0599220,C0026447,TREATS,Protein Subunits,Monkeys,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0599220,C0026809,TREATS,Protein Subunits,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0600251,C0026809,TREATS,interleukin-1 alpha,Mus,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0600251,C0034693,TREATS,interleukin-1 alpha,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0633227,C0026809,TREATS,thioredoxin peroxidase,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0656383,C0034693,TREATS,epoxomicin,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0657912,C0007450,TREATS,pregabalin,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0657912,C0012984,TREATS,pregabalin,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0666743,C0034693,TREATS,infliximab,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0669372,C0026809,TREATS,"NOS2A protein, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0672596,C0033147,TREATS,palivizumab,Primates,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0672596,C0034695,TREATS,palivizumab,"Rats, Cotton",aapp,mamm,6,TREATS_AAPPtrtsMAMM
+C0672596,C0237798,TREATS,palivizumab,Nonhuman primate,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0717758,C0026809,TREATS,etanercept,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0717758,C0034693,TREATS,etanercept,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0717758,C0324889,TREATS,etanercept,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0724584,C0026809,TREATS,"coagulation factor IX, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0728747,C0026809,TREATS,trastuzumab,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0751598,C0007450,TREATS,Recombinant Interferon Alfa,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0751599,C0026809,TREATS,Recombinant Interferon Beta,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0752254,C0034693,TREATS,"D-Pen2, L-Pen5-Enkephalin",Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0771875,C0206745,TREATS,mite extract,"Mice, Knockout",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0795635,C0025936,TREATS,"insulin, regular, human","Mice, Transgenic",aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C0795635,C0026809,TREATS,"insulin, regular, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0795657,C0036945,TREATS,"alpha 1-proteinase inhibitor, human",Sheep,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0795677,C0026809,TREATS,"von Willebrand factor, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0796392,C0024399,TREATS,bevacizumab,Macaca fascicularis,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0796392,C0026809,TREATS,bevacizumab,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0796392,C0324889,TREATS,bevacizumab,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0879399,C0026809,TREATS,tositumomab,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0883062,C0007450,TREATS,Feline leukemia virus Ag,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0887910,C0026809,TREATS,Virosomes,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0887910,C0324547,TREATS,Virosomes,New Zealand Rabbits,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0911014,C0026809,TREATS,ghrelin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0911014,C0034693,TREATS,ghrelin,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0912332,C0026809,TREATS,Glucagon-Like Peptide 2,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0912332,C0034693,TREATS,Glucagon-Like Peptide 2,Rattus norvegicus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0920330,C0324889,TREATS,Pancreatic enzyme,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0936059,C0026809,TREATS,didemnin B,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0950624,C0869010,TREATS,Leukocyte L1 Antigen Complex,Young dog,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C0962190,C0026809,TREATS,interleukin-21,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0963992,C0026809,TREATS,resistin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0963992,C0035804,TREATS,resistin,Rodent,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0966511,C0026809,TREATS,humanin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0966897,C0026809,TREATS,hepcidin,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C0971473,C0025921,TREATS,Cilengitide,"Mice, Inbred C57BL",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C0995188,C0026809,TREATS,cetuximab,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1098262,C0026809,TREATS,galiximab,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1099914,C0026809,TREATS,"IL12B protein, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1136247,C0007452,TREATS,Pregnant Mare Serum Gonadotropins,Cattle,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C1258629,C0026809,TREATS,"NPPA protein, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1292266,C0007450,TREATS,Coagulation protein,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1292266,C0012984,TREATS,Coagulation protein,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1310468,C1265469,TREATS,"DDX58 protein, human",Rhinolophus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1334088,C0025933,TREATS,IGF1R gene,"Mice, Obese",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1334090,C0025933,TREATS,IGF2R gene,"Mice, Obese",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1413108,C0012984,TREATS,CAPG gene,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1414968,C0026809,TREATS,GAPDH gene,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1416475,C0025914,TREATS,IRF7 gene,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1416811,C0012984,TREATS,LDHA gene,Canis familiaris,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1420216,C0034693,TREATS,SLC6A6 gene,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1422064,C0025936,TREATS,ACE2 gene,"Mice, Transgenic",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1423716,C0026809,TREATS,FERMT2 gene,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1429582,C0026809,TREATS,"CCL4 protein, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1448177,C0025919,TREATS,"TNF protein, human","Mice, Inbred BALB C",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1448177,C0026809,TREATS,"TNF protein, human",Mus,aapp,mamm,7,TREATS_AAPPtrtsMAMM
+C1448177,C0039005,TREATS,"TNF protein, human",Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1448177,C1513853,TREATS,"TNF protein, human",NON Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1449159,C0024398,TREATS,"CCL2 protein, human",Macaca,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1449159,C0039005,TREATS,"CCL2 protein, human",Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1456408,C0026809,TREATS,liraglutide,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1456408,C0034693,TREATS,liraglutide,Rattus norvegicus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C1456408,C0039005,TREATS,liraglutide,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1514768,C0026809,TREATS,Recombinant Amphiregulin,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1515370,C0025914,TREATS,Recombinant Fas Ligand,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1515370,C0025919,TREATS,Recombinant Fas Ligand,"Mice, Inbred BALB C",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1515370,C0026809,TREATS,Recombinant Fas Ligand,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C1522012,C0025914,TREATS,Recombinant Macrophage Inflammatory Protein-1 Alpha,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1522012,C0026809,TREATS,Recombinant Macrophage Inflammatory Protein-1 Alpha,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C1522012,C0206745,TREATS,Recombinant Macrophage Inflammatory Protein-1 Alpha,"Mice, Knockout",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1522537,C0007450,TREATS,Recombinant Interferon,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1522537,C0026447,TREATS,Recombinant Interferon,Monkeys,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1522537,C1135183,TREATS,Recombinant Interferon,Sus scrofa,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1522712,C0024398,TREATS,Recombinant Interferon-alpha Inducible Protein 10,Macaca,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1522712,C0026809,TREATS,Recombinant Interferon-alpha Inducible Protein 10,Mus,aapp,mamm,8,TREATS_AAPPtrtsMAMM
+C1522712,C0039005,TREATS,Recombinant Interferon-alpha Inducible Protein 10,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1524094,C0007450,TREATS,Recombinant Cytokines,Felis catus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1524094,C0024400,TREATS,Recombinant Cytokines,Macaca mulatta,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1527233,C0026809,TREATS,Recombinant Immune Globulin,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C1535531,C0015859,TREATS,Recombinant Thyroid-Stimulating Hormone,Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1552907,C0026809,TREATS,Adenovirus Vaccine,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1552907,C0325032,TREATS,Adenovirus Vaccine,"Pandas, Giant",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1564892,C0026809,TREATS,Complement Inactivating Agents,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1564892,C0035804,TREATS,Complement Inactivating Agents,Rodent,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1564892,C1135183,TREATS,Complement Inactivating Agents,Sus scrofa,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1569775,C0018557,TREATS,"BACE1 protein, human",Hamsters,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1608841,C0006764,TREATS,ustekinumab,Callithrix,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1608841,C0035804,TREATS,ustekinumab,Rodent,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1612792,C0039005,TREATS,plectasin,Family suidae,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1615665,C0026809,TREATS,"hyaluronidase, bovine",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1619966,C0025933,TREATS,abatacept,"Mice, Obese",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1619966,C4053825,TREATS,abatacept,db/db Mouse,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C1690432,C0025936,TREATS,denosumab,"Mice, Transgenic",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1698270,C0026809,TREATS,TGN-1412,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C1699801,C0026809,TREATS,"IL9 protein, human",Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C1701790,C0026809,TREATS,"IL17A protein, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1702088,C0026809,TREATS,"IL5 protein, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1706005,C0024398,TREATS,CD40LG wt Allele,Macaca,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1738934,C0034693,TREATS,boceprevir,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1823437,C0026809,TREATS,TMEM173 gene,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C1823437,C0324878,TREATS,TMEM173 gene,Pholidota,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C1874187,C0026809,TREATS,AMINO ACIDS/PROTEINS,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C2003387,C0015859,TREATS,DAS181,Ferrets,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C2003387,C0026809,TREATS,DAS181,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C2266975,C0026809,TREATS,Lipopeptides,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C2587184,C0034693,TREATS,fibrinogen concentrate (human),Rattus norvegicus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C2608641,C0024398,TREATS,ACAM2000,Macaca,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C2608641,C0025914,TREATS,ACAM2000,House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C2608641,C0032898,TREATS,ACAM2000,Prairie Dogs,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C2608641,C0324889,TREATS,ACAM2000,Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C2608641,C3887509,TREATS,ACAM2000,Rabbits,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C2702333,C0018557,TREATS,"immunoglobulin G, human",Hamsters,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C2702333,C0025936,TREATS,"immunoglobulin G, human","Mice, Transgenic",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C2702333,C0026809,TREATS,"immunoglobulin G, human",Mus,aapp,mamm,5,TREATS_AAPPtrtsMAMM
+C2702333,C0324889,TREATS,"immunoglobulin G, human",Old World rabbit,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C2713599,C0034695,TREATS,motavizumab,"Rats, Cotton",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C2717174,C0026447,TREATS,raxibacumab,Monkeys,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C2986868,C0026809,TREATS,TNFRSF4 wt Allele,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C3254242,C0026809,TREATS,glutathione-C4,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C3486709,C0034693,TREATS,"brain-derived neurotrophic factor, human",Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C3539520,C0026809,TREATS,CST12P gene,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C3714928,C0026809,TREATS,"Angiotensin-2, Human",Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C3714928,C0206745,TREATS,"Angiotensin-2, Human","Mice, Knockout",aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C3818725,C0025914,TREATS,"corticotropin, human",House mice,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C3818725,C0026809,TREATS,"corticotropin, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C3818725,C0034693,TREATS,"corticotropin, human",Rattus norvegicus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C3818725,C0039005,TREATS,"corticotropin, human",Family suidae,aapp,mamm,4,TREATS_AAPPtrtsMAMM
+C3818725,C3669731,TREATS,"corticotropin, human",Horse under one year old,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C3818725,C3887509,TREATS,"corticotropin, human",Rabbits,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C3849701,C0026809,TREATS,"interleukin 18 protein, human",Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C3849701,C1521751,TREATS,"interleukin 18 protein, human",C57BL/6 Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C3887559,C0026809,TREATS,Recombinant Human Macrophage Inflammatory Protein-1 Beta,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C3889630,C0026809,TREATS,"Pro-Opiomelanocortin, human",Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C3889630,C0034693,TREATS,"Pro-Opiomelanocortin, human",Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C4045546,C0026809,TREATS,Indoximod,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C4055433,C0008111,TREATS,atezolizumab,Pan troglodytes,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C4082165,C0034693,TREATS,"Oxytocin, human",Rattus norvegicus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C4082165,C0035804,TREATS,"Oxytocin, human",Rodent,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C4084937,C0034693,TREATS,Antimicrobial Peptide,Rattus norvegicus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C4084937,C1520150,TREATS,Antimicrobial Peptide,Wild Type Mouse,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C4281740,C0026809,TREATS,Recombinant human mannan-binding protein,Mus,aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C4281740,C0206745,TREATS,Recombinant human mannan-binding protein,"Mice, Knockout",aapp,mamm,3,TREATS_AAPPtrtsMAMM
+C4723666,C0008111,TREATS,SPATA2 wt Allele,Pan troglodytes,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C4724806,C0026809,TREATS,cemiplimab,Mus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C5197773,C0008111,TREATS,Broadly Neutralizing Antibodies,Pan troglodytes,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C5197773,C0015859,TREATS,Broadly Neutralizing Antibodies,Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C5197773,C0018019,TREATS,Broadly Neutralizing Antibodies,Capra hircus,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C5197773,C0026447,TREATS,Broadly Neutralizing Antibodies,Monkeys,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C5197773,C0026809,TREATS,Broadly Neutralizing Antibodies,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM
+C5197773,C0033147,TREATS,Broadly Neutralizing Antibodies,Primates,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C5197773,C0085979,TREATS,Broadly Neutralizing Antibodies,Cavia,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C5202641,C0013127,TREATS,Modified vaccinia ankara,Camelus dromedarius,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C5202641,C0015859,TREATS,Modified vaccinia ankara,Ferrets,aapp,mamm,1,TREATS_AAPPtrtsMAMM
+C5202641,C0026809,TREATS,Modified vaccinia ankara,Mus,aapp,mamm,2,TREATS_AAPPtrtsMAMM

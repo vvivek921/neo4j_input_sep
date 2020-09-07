@@ -1,0 +1,50 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004398,C0200345,PRECEDES,Autopsy,Specimen Collection,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0004398,C0948564,PRECEDES,Autopsy,Medical observation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0005558,C0545084,PRECEDES,Biopsy,Outpatient visits,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0006290,C0220825,PRECEDES,Bronchoscopy,Evaluation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0006290,C1522577,PRECEDES,Bronchoscopy,follow-up,diap,hlca,2,PRECEDES_DIAPprcdHLCA
+C0008310,C0079278,PRECEDES,Endoscopic Retrograde Cholangiopancreatography,"Endoscopy, Gastrointestinal",diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0009378,C0019993,PRECEDES,colonoscopy,Hospitalization,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0014245,C0582103,PRECEDES,Endoscopy (procedure),Medical Examination,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0015260,C0220825,PRECEDES,Exercise stress test,Evaluation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0024485,C0015187,PRECEDES,Magnetic Resonance Imaging,Euthanasia,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0026995,C0037943,PRECEDES,Myelography,Spinal Puncture,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0033920,C0220825,PRECEDES,Psychometrics,Evaluation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0034606,C0031809,PRECEDES,Radionuclide Imaging,Physical Examination,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0034606,C0545084,PRECEDES,Radionuclide Imaging,Outpatient visits,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0034606,C0886414,PRECEDES,Radionuclide Imaging,Body temperature measurement,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0040398,C0031809,PRECEDES,"Tomography, Emission-Computed",Physical Examination,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0040405,C0027462,PRECEDES,X-Ray Computed Tomography,"Health Services, National",diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0040405,C0037943,PRECEDES,X-Ray Computed Tomography,Spinal Puncture,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0040405,C1261322,PRECEDES,X-Ray Computed Tomography,Evaluation procedure,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0041618,C0031809,PRECEDES,Ultrasonography,Physical Examination,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0043299,C0009818,PRECEDES,Diagnostic radiologic examination,Consultation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0220908,C0013164,PRECEDES,Screening procedure,Drug Compounding,diap,hlca,3,PRECEDES_DIAPprcdHLCA
+C0220908,C0019993,PRECEDES,Screening procedure,Hospitalization,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0220908,C0220825,PRECEDES,Screening procedure,Evaluation,diap,hlca,5,PRECEDES_DIAPprcdHLCA
+C0220908,C0422202,PRECEDES,Screening procedure,Notifications (procedure),diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0220908,C1514821,PRECEDES,Screening procedure,Registration,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0220908,C1522577,PRECEDES,Screening procedure,follow-up,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0220908,C2936697,PRECEDES,Screening procedure,Hand Sanitization,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0282493,C0545084,PRECEDES,Surgical Endoscopy,Outpatient visits,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0282674,C0009818,PRECEDES,Remote Consultation,Consultation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0282675,C0806914,PRECEDES,Teleconsultation,Medication administered,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0396473,C1261322,PRECEDES,Bronchoscopic irrigation,Evaluation procedure,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0430462,C0541653,PRECEDES,Transthoracic echocardiography,Chart evaluation by healthcare professional,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0431080,C0220825,PRECEDES,Diagnostic assessment,Evaluation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0683454,C1261322,PRECEDES,internal-external locus of control scale,Evaluation procedure,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0846574,C0589121,PRECEDES,psychiatric assessment,Follow-up visit,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0860888,C1522577,PRECEDES,"Tomography, Spiral Computed",follow-up,diap,hlca,2,PRECEDES_DIAPprcdHLCA
+C0920688,C0033080,PRECEDES,Cancer Diagnosis,Prescription procedure,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C0920688,C0220825,PRECEDES,Cancer Diagnosis,Evaluation,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C1964257,C0017313,PRECEDES,Observation - diagnostic procedure,patient care,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C1964257,C4554477,PRECEDES,Observation - diagnostic procedure,Handover,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C2985547,C0030685,PRECEDES,Scintimammography,Patient Discharge,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C4049798,C0184666,PRECEDES,Total Respiratory System Resistance,Hospital admission,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C4521453,C1522577,PRECEDES,FDG-Positron Emission Tomography and Computed Tomography Scan,follow-up,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C4745335,C0019993,PRECEDES,Initial Diagnosis,Hospitalization,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C4745335,C0184666,PRECEDES,Initial Diagnosis,Hospital admission,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C4745335,C1522577,PRECEDES,Initial Diagnosis,follow-up,diap,hlca,2,PRECEDES_DIAPprcdHLCA
+C4745335,C1999123,PRECEDES,Initial Diagnosis,Continued Surveillance,diap,hlca,1,PRECEDES_DIAPprcdHLCA
+C4745335,C2359834,PRECEDES,Initial Diagnosis,Additional assessment,diap,hlca,1,PRECEDES_DIAPprcdHLCA

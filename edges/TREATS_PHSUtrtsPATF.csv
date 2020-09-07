@@ -1,0 +1,372 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001644,C0034063,TREATS,Adrenergic beta-Agonists,Pulmonary Edema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0001645,C0028778,TREATS,Adrenergic beta-Antagonists,Obstruction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0001645,C0036974,TREATS,Adrenergic beta-Antagonists,Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0001645,C0036983,TREATS,Adrenergic beta-Antagonists,Septic Shock,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0001645,C1155266,TREATS,Adrenergic beta-Antagonists,Inflammatory Response,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0001648,C0013604,TREATS,Adrenergic Agonists,Edema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0001648,C0020507,TREATS,Adrenergic Agonists,Hyperplasia,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0001648,C0034063,TREATS,Adrenergic Agonists,Pulmonary Edema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0002763,C1373218,TREATS,Central Nervous System Stimulants,Decreased Immunologic Activity [PE],phsu,patf,1,TREATS_PHSUtrtsPATF
+C0002932,C0155268,TREATS,Anesthetics,Orbital hemorrhage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003015,C0002994,TREATS,Angiotensin-Converting Enzyme Inhibitors,Angioedema,phsu,patf,5,TREATS_PHSUtrtsPATF
+C0003015,C0016059,TREATS,Angiotensin-Converting Enzyme Inhibitors,Fibrosis,phsu,patf,3,TREATS_PHSUtrtsPATF
+C0003015,C0034063,TREATS,Angiotensin-Converting Enzyme Inhibitors,Pulmonary Edema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003015,C0242698,TREATS,Angiotensin-Converting Enzyme Inhibitors,"Ventricular Dysfunction, Left",phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003015,C0749225,TREATS,Angiotensin-Converting Enzyme Inhibitors,Systolic dysfunction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003158,C0021368,TREATS,Anthelmintics,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003158,C3714514,TREATS,Anthelmintics,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003204,C0020517,TREATS,Anti-Infective Agents,Hypersensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003204,C3714514,TREATS,Anti-Infective Agents,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003205,C3714514,TREATS,"Anti-Infective Agents, Local",Infection,phsu,patf,3,TREATS_PHSUtrtsPATF
+C0003209,C0011164,TREATS,Anti-Inflammatory Agents,Abnormal degeneration,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C0013604,TREATS,Anti-Inflammatory Agents,Edema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C0020517,TREATS,Anti-Inflammatory Agents,Hypersensitivity,phsu,patf,3,TREATS_PHSUtrtsPATF
+C0003209,C0020522,TREATS,Anti-Inflammatory Agents,Delayed Hypersensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C0021368,TREATS,Anti-Inflammatory Agents,Inflammation,phsu,patf,24,TREATS_PHSUtrtsPATF
+C0003209,C0021376,TREATS,Anti-Inflammatory Agents,Chronic inflammation,phsu,patf,3,TREATS_PHSUtrtsPATF
+C0003209,C0027686,TREATS,Anti-Inflammatory Agents,Pathologic Neovascularization,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C0030660,TREATS,Anti-Inflammatory Agents,Pathologic Processes,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C0036983,TREATS,Anti-Inflammatory Agents,Septic Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C0087086,TREATS,Anti-Inflammatory Agents,Thrombus,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C0232483,TREATS,Anti-Inflammatory Agents,Reflux,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C0242184,TREATS,Anti-Inflammatory Agents,Hypoxia,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C0242698,TREATS,Anti-Inflammatory Agents,"Ventricular Dysfunction, Left",phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C0333650,TREATS,Anti-Inflammatory Agents,Adipose Tissue Atrophy,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C1155266,TREATS,Anti-Inflammatory Agents,Inflammatory Response,phsu,patf,7,TREATS_PHSUtrtsPATF
+C0003209,C1527304,TREATS,Anti-Inflammatory Agents,Allergic Reaction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C2937358,TREATS,Anti-Inflammatory Agents,Cerebral Hemorrhage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003209,C3714514,TREATS,Anti-Inflammatory Agents,Infection,phsu,patf,3,TREATS_PHSUtrtsPATF
+C0003211,C0021368,TREATS,"Anti-Inflammatory Agents, Non-Steroidal",Inflammation,phsu,patf,15,TREATS_PHSUtrtsPATF
+C0003211,C0029396,TREATS,"Anti-Inflammatory Agents, Non-Steroidal",Heterotopic Ossification,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003211,C0036974,TREATS,"Anti-Inflammatory Agents, Non-Steroidal",Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003211,C1155266,TREATS,"Anti-Inflammatory Agents, Non-Steroidal",Inflammatory Response,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003211,C3714514,TREATS,"Anti-Inflammatory Agents, Non-Steroidal",Infection,phsu,patf,4,TREATS_PHSUtrtsPATF
+C0003211,C4061114,TREATS,"Anti-Inflammatory Agents, Non-Steroidal",Acute illness,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003280,C0019080,TREATS,Anticoagulants,Hemorrhage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003280,C0034065,TREATS,Anticoagulants,Pulmonary Embolism,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0003280,C0036983,TREATS,Anticoagulants,Septic Shock,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0003280,C0040038,TREATS,Anticoagulants,Thromboembolism,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003280,C0040053,TREATS,Anticoagulants,Thrombosis,phsu,patf,4,TREATS_PHSUtrtsPATF
+C0003280,C0087086,TREATS,Anticoagulants,Thrombus,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003280,C0302148,TREATS,Anticoagulants,Blood Clot,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003295,C0021368,TREATS,Antidote,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003297,C3714514,TREATS,Antiemetics,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003304,C0019080,TREATS,Antifibrinolytic Agents,Hemorrhage,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0003308,C0020517,TREATS,Antifungal Agents,Hypersensitivity,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0003308,C3714514,TREATS,Antifungal Agents,Infection,phsu,patf,3,TREATS_PHSUtrtsPATF
+C0003364,C0013604,TREATS,Antihypertensive Agents,Edema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003364,C0015927,TREATS,Antihypertensive Agents,Fetal Death,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0003364,C0242698,TREATS,Antihypertensive Agents,"Ventricular Dysfunction, Left",phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003364,C1383860,TREATS,Antihypertensive Agents,Cardiac Hypertrophy,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003374,C0019080,TREATS,Antimalarials,Hemorrhage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003374,C0021368,TREATS,Antimalarials,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003374,C0161818,TREATS,Antimalarials,Respiratory complication,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003374,C1373218,TREATS,Antimalarials,Decreased Immunologic Activity [PE],phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003374,C3714514,TREATS,Antimalarials,Infection,phsu,patf,3,TREATS_PHSUtrtsPATF
+C0003402,C0013990,TREATS,Antioxidants,Pathological accumulation of air in tissues,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003402,C0020517,TREATS,Antioxidants,Hypersensitivity,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0003402,C0021368,TREATS,Antioxidants,Inflammation,phsu,patf,8,TREATS_PHSUtrtsPATF
+C0003402,C0036974,TREATS,Antioxidants,Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003402,C0036982,TREATS,Antioxidants,"Shock, Hemorrhagic",phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003402,C0036983,TREATS,Antioxidants,Septic Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003402,C3714514,TREATS,Antioxidants,Infection,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0003404,C3714514,TREATS,Antiparasitic Agents,Infection,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0003416,C3714514,TREATS,Antiprotozoal Agents,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003419,C0021368,TREATS,Antipyretics,Inflammation,phsu,patf,4,TREATS_PHSUtrtsPATF
+C0003419,C3661895,TREATS,Antipyretics,Febrile Non-Hemolytic Transfusion Reaction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003419,C3714514,TREATS,Antipyretics,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003448,C3714514,TREATS,Antitubercular Agents,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003451,C0016059,TREATS,Antiviral Agents,Fibrosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003451,C0021368,TREATS,Antiviral Agents,Inflammation,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0003451,C0034088,TREATS,Antiviral Agents,Pulmonary Valve Insufficiency,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003451,C0087086,TREATS,Antiviral Agents,Thrombus,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003451,C0151763,TREATS,Antiviral Agents,Liver damage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003451,C0161816,TREATS,Antiviral Agents,Cardiac complication,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0003451,C0235029,TREATS,Antiviral Agents,neurological complication,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003451,C0242656,TREATS,Antiviral Agents,Disease Progression,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003451,C0243083,TREATS,Antiviral Agents,associated disease,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003451,C0333288,TREATS,Antiviral Agents,Dissecting hemorrhage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003451,C1373218,TREATS,Antiviral Agents,Decreased Immunologic Activity [PE],phsu,patf,1,TREATS_PHSUtrtsPATF
+C0003451,C1520005,TREATS,Antiviral Agents,Viral Pathogenesis,phsu,patf,5,TREATS_PHSUtrtsPATF
+C0003451,C3714514,TREATS,Antiviral Agents,Infection,phsu,patf,76,TREATS_PHSUtrtsPATF
+C0003451,C4061114,TREATS,Antiviral Agents,Acute illness,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0005836,C0036974,TREATS,Blood Substitutes,Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0006280,C0021368,TREATS,Bronchodilator Agents,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0006280,C0028778,TREATS,Bronchodilator Agents,Obstruction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0006684,C0151763,TREATS,Calcium Channel Blockers,Liver damage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0008362,C0041582,TREATS,Choleretics,Ulcer,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0008362,C3714514,TREATS,Choleretics,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0009117,C0034065,TREATS,Coagulants,Pulmonary Embolism,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0009117,C0040038,TREATS,Coagulants,Thromboembolism,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0012798,C0013604,TREATS,Diuretics,Edema,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0012798,C0021368,TREATS,Diuretics,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0012798,C0034063,TREATS,Diuretics,Pulmonary Edema,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0012798,C0041582,TREATS,Diuretics,Ulcer,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0012798,C0235439,TREATS,Diuretics,Ankle edema (finding),phsu,patf,1,TREATS_PHSUtrtsPATF
+C0012798,C0546817,TREATS,Diuretics,Fluid overload,phsu,patf,4,TREATS_PHSUtrtsPATF
+C0012798,C3714514,TREATS,Diuretics,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0012800,C0006114,TREATS,"Diuretics, Osmotic",Cerebral Edema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0013162,C0021368,TREATS,Drug Combinations,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0013162,C3714514,TREATS,Drug Combinations,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0013229,C3714514,TREATS,"Drugs, Chinese Herbal",Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0013230,C3714514,TREATS,Investigational New Drugs,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0013231,C0020517,TREATS,"Drugs, Non-Prescription",Hypersensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0014432,C3714514,TREATS,Enzyme Inhibitors,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0016018,C0021368,TREATS,Fibrinolytic Agents,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0016018,C0027055,TREATS,Fibrinolytic Agents,Myocardial Reperfusion Injury,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0016018,C0034065,TREATS,Fibrinolytic Agents,Pulmonary Embolism,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0016018,C0333165,TREATS,Fibrinolytic Agents,Acute obstruction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0020592,C0549401,TREATS,Hypnotics and Sedatives,Difficult intubation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0022260,C0220981,TREATS,Isotonic Solutions,Metabolic acidosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0026207,C0020581,TREATS,Miotics,Hyphema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0026964,C0020581,TREATS,Mydriatics,Hyphema,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0027410,C0235063,TREATS,Narcotic Antagonists,Respiratory Depression,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0027866,C0036983,TREATS,Neuromuscular Blocking Agents,Septic Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0031638,C0035228,TREATS,Phosphodiesterase Inhibitors,Respiratory Hypersensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0031638,C0036980,TREATS,Phosphodiesterase Inhibitors,"Shock, Cardiogenic",phsu,patf,1,TREATS_PHSUtrtsPATF
+C0031638,C0036982,TREATS,Phosphodiesterase Inhibitors,"Shock, Hemorrhagic",phsu,patf,1,TREATS_PHSUtrtsPATF
+C0033607,C0021375,TREATS,Protease Inhibitors,allergic inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0033607,C0030660,TREATS,Protease Inhibitors,Pathologic Processes,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0033607,C0242656,TREATS,Protease Inhibitors,Disease Progression,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0033607,C1096176,TREATS,Protease Inhibitors,Mitochondrial Damage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0033607,C1155266,TREATS,Protease Inhibitors,Inflammatory Response,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0033607,C3714514,TREATS,Protease Inhibitors,Infection,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0033613,C3714514,TREATS,Protective Agents,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0036557,C0002064,TREATS,Sedatives,"Alkalosis, Respiratory",phsu,patf,1,TREATS_PHSUtrtsPATF
+C0040614,C0020542,TREATS,Tranquilizing Agents,Pulmonary Hypertension,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0040616,C3714514,TREATS,Anti-Anxiety Agents,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0041044,C0007642,TREATS,Trimethoprim-Sulfamethoxazole Combination,Cellulitis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0041044,C0020517,TREATS,Trimethoprim-Sulfamethoxazole Combination,Hypersensitivity,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0041044,C0333355,TREATS,Trimethoprim-Sulfamethoxazole Combination,Inflammatory disease of mucous membrane,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0041044,C3714514,TREATS,Trimethoprim-Sulfamethoxazole Combination,Infection,phsu,patf,5,TREATS_PHSUtrtsPATF
+C0042397,C0001122,TREATS,Vasoconstrictor Agents,Acidosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0042397,C0036974,TREATS,Vasoconstrictor Agents,Shock,phsu,patf,4,TREATS_PHSUtrtsPATF
+C0042397,C0036980,TREATS,Vasoconstrictor Agents,"Shock, Cardiogenic",phsu,patf,1,TREATS_PHSUtrtsPATF
+C0042397,C0036983,TREATS,Vasoconstrictor Agents,Septic Shock,phsu,patf,17,TREATS_PHSUtrtsPATF
+C0042397,C0161818,TREATS,Vasoconstrictor Agents,Respiratory complication,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0042397,C0242973,TREATS,Vasoconstrictor Agents,Ventricular Dysfunction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0042397,C0857353,TREATS,Vasoconstrictor Agents,Hypotensive,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0042397,C0865752,TREATS,Vasoconstrictor Agents,postoperative hypotension,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0042397,C1566590,TREATS,Vasoconstrictor Agents,Delayed Graft Function,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0042398,C0028778,TREATS,Nasal Decongestants,Obstruction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0042398,C0700148,TREATS,Nasal Decongestants,Congestion,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0042402,C0020542,TREATS,Vasodilator Agents,Pulmonary Hypertension,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0042402,C0034063,TREATS,Vasodilator Agents,Pulmonary Edema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0042402,C0036983,TREATS,Vasodilator Agents,Septic Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0042402,C0543419,TREATS,Vasodilator Agents,Sequela of disorder,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0054066,C0040053,TREATS,Amoxicillin / Clavulanate,Thrombosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0054066,C0332448,TREATS,Amoxicillin / Clavulanate,Infiltration,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0054066,C3714514,TREATS,Amoxicillin / Clavulanate,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0056562,C0020683,TREATS,crystalloid solutions,Hypovolemic Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0056562,C0342579,TREATS,crystalloid solutions,Electrolyte imbalance,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0062212,C0021368,TREATS,heme arginate,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0063469,C0151763,TREATS,indirubin,Liver damage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0065461,C0041582,TREATS,Maalox,Ulcer,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0069782,C0332448,TREATS,oxodipine,Infiltration,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0076797,C0021368,TREATS,Tolerogen,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0085387,C3714514,TREATS,Cyclooxygenase Inhibitors,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0085826,C0002940,TREATS,Antiplatelet Agents,Aneurysm,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0085826,C0040053,TREATS,Antiplatelet Agents,Thrombosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0086440,C0442860,TREATS,Hypolipidemic Agents,Intravascular thrombosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0162713,C3714514,TREATS,Photosensitizing Agents,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0237795,C0036974,TREATS,Pressors,Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0242708,C0021368,TREATS,"Antirheumatic Drugs, Disease-Modifying",Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0242708,C0242656,TREATS,"Antirheumatic Drugs, Disease-Modifying",Disease Progression,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0242708,C0443146,TREATS,"Antirheumatic Drugs, Disease-Modifying",Autoimmune reaction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0242896,C0013990,TREATS,Anticholinergic Agents,Pathological accumulation of air in tissues,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0242896,C0341736,TREATS,Anticholinergic Agents,Neurogenic detrusor overactivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0242896,C0393595,TREATS,Anticholinergic Agents,Drug-induced dystonia,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0242912,C0021368,TREATS,Neuroprotective Agents,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0242912,C0030660,TREATS,Neuroprotective Agents,Pathologic Processes,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0243042,C0013687,TREATS,Inflammation Mediators,effusion,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0243042,C0020517,TREATS,Inflammation Mediators,Hypersensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0243042,C0021368,TREATS,Inflammation Mediators,Inflammation,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0243042,C0242656,TREATS,Inflammation Mediators,Disease Progression,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0250480,C0034088,TREATS,piperacillin-tazobactam combination,Pulmonary Valve Insufficiency,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0259849,C0021368,TREATS,Synthetic Drugs,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0282374,C0028778,TREATS,Decongestants,Obstruction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0282374,C0700148,TREATS,Decongestants,Congestion,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0282519,C0242656,TREATS,Reverse Transcriptase Inhibitors,Disease Progression,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0282555,C0020522,TREATS,Anti-Allergic Agents,Delayed Hypersensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0282555,C0035228,TREATS,Anti-Allergic Agents,Respiratory Hypersensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0282556,C0017181,TREATS,Anti-Asthmatic Agents,Gastrointestinal Hemorrhage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0282568,C0948915,TREATS,"Drugs, Essential",abortion early,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0302837,C0021368,TREATS,Vitamin supplementation,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0302837,C0920563,TREATS,Vitamin supplementation,Insulin Sensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0302837,C1155266,TREATS,Vitamin supplementation,Inflammatory Response,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0302837,C1373218,TREATS,Vitamin supplementation,Decreased Immunologic Activity [PE],phsu,patf,1,TREATS_PHSUtrtsPATF
+C0302837,C3714514,TREATS,Vitamin supplementation,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0304402,C0021368,TREATS,Stimulant,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0304509,C0036974,TREATS,Inotropic agent,Shock,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0304509,C0036980,TREATS,Inotropic agent,"Shock, Cardiogenic",phsu,patf,1,TREATS_PHSUtrtsPATF
+C0304604,C0020581,TREATS,Topical form corticosteroids,Hyphema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0304604,C0021368,TREATS,Topical form corticosteroids,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0304604,C0151735,TREATS,Topical form corticosteroids,Injection Site Reaction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0310255,C3714514,TREATS,survive,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0350056,C0036679,TREATS,adsorbents,Diastasis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0354100,C0013604,TREATS,Loop Diuretics,Edema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0354100,C0546817,TREATS,Loop Diuretics,Fluid overload,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0358430,C3714514,TREATS,Muscle relaxants,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0358591,C0017181,TREATS,Proton Pump Inhibitors,Gastrointestinal Hemorrhage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0358591,C0025222,TREATS,Proton Pump Inhibitors,Melena,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0358591,C0032914,TREATS,Proton Pump Inhibitors,Pre-Eclampsia,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0358591,C0041582,TREATS,Proton Pump Inhibitors,Ulcer,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0358591,C0151521,TREATS,Proton Pump Inhibitors,Bacterial resistance,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0358591,C0235325,TREATS,Proton Pump Inhibitors,Gastric hemorrhage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0358606,C0019080,TREATS,Coagulation factor II- and coagulation factor IX- and coagulation factor VIIa- and coagulation factor VIII- and coagulation factor X-containing product,Hemorrhage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0360289,C0028778,TREATS,Topical Preparation,Obstruction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0443121,C0019080,TREATS,Cryoprecipitate,Hemorrhage,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0456388,C0019080,TREATS,Blood product,Hemorrhage,phsu,patf,3,TREATS_PHSUtrtsPATF
+C0456388,C1520005,TREATS,Blood product,Viral Pathogenesis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0456388,C3714514,TREATS,Blood product,Infection,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0521941,C0342314,TREATS,Antiresorptive Agents,Dawn phenomenon,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0521942,C0034063,TREATS,Angiotensin II receptor antagonist,Pulmonary Edema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0526513,C3714514,TREATS,dalfopristin / quinupristin,Infection,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0593802,C0333977,TREATS,Aromatase Inhibitors,Atypical hyperplasia,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0597573,C1373218,TREATS,thiopurine,Decreased Immunologic Activity [PE],phsu,patf,1,TREATS_PHSUtrtsPATF
+C0597639,C0036974,TREATS,vasoactive agent,Shock,phsu,patf,4,TREATS_PHSUtrtsPATF
+C0597668,C0042487,TREATS,vitamin antagonist,Venous Thrombosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0599685,C3714514,TREATS,Anti-Retroviral Agents,Infection,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0682875,C0020507,TREATS,antisecretory drugs,Hyperplasia,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0683092,C0036974,TREATS,intravenous drug,Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0719214,C0021368,TREATS,Century (brand of multivitamin),Inflammation,phsu,patf,2,TREATS_PHSUtrtsPATF
+C0719214,C3714514,TREATS,Century (brand of multivitamin),Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0742541,C0035228,TREATS,cold medication,Respiratory Hypersensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0772046,C0021368,TREATS,magnesium sulfate heptahydrate,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0870261,C0151686,TREATS,channel blockers,Growth retardation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0872285,C0242656,TREATS,therapeutic protein,Disease Progression,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0935929,C0026766,TREATS,Antidiabetics,Multiple Organ Failure,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0935929,C0920563,TREATS,Antidiabetics,Insulin Sensitivity,phsu,patf,3,TREATS_PHSUtrtsPATF
+C0939237,C0151526,TREATS,lopinavir / Ritonavir,Premature Birth,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0939237,C0162633,TREATS,lopinavir / Ritonavir,Viral Shedding,phsu,patf,5,TREATS_PHSUtrtsPATF
+C0939237,C0242656,TREATS,lopinavir / Ritonavir,Disease Progression,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0939237,C0332448,TREATS,lopinavir / Ritonavir,Infiltration,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0939237,C0476474,TREATS,lopinavir / Ritonavir,persistent fever,phsu,patf,1,TREATS_PHSUtrtsPATF
+C0939237,C3714514,TREATS,lopinavir / Ritonavir,Infection,phsu,patf,4,TREATS_PHSUtrtsPATF
+C0995005,C0041582,TREATS,Rose extract,Ulcer,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1116537,C3714514,TREATS,"Pomegranate, Flower Essence",Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1134558,C0021368,TREATS,Chinese Herbs,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1136254,C0021368,TREATS,Microbicides,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1136254,C0024348,TREATS,Microbicides,Lysis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1136254,C0036983,TREATS,Microbicides,Septic Shock,phsu,patf,2,TREATS_PHSUtrtsPATF
+C1136254,C0041582,TREATS,Microbicides,Ulcer,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1136254,C0151521,TREATS,Microbicides,Bacterial resistance,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1136254,C0151526,TREATS,Microbicides,Premature Birth,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1136254,C0232219,TREATS,Microbicides,Abnormal cardiac conduction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1136254,C3714514,TREATS,Microbicides,Infection,phsu,patf,24,TREATS_PHSUtrtsPATF
+C1136312,C0020517,TREATS,"Histamine H1 Antagonists, Non-Sedating",Hypersensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1268551,C0333355,TREATS,Echinocandins,Inflammatory disease of mucous membrane,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1268903,C0041582,TREATS,Cytoprotective agent,Ulcer,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1268905,C0013182,TREATS,Mast cell stabilizer,Drug Allergy,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1318700,C0005001,TREATS,Phosphodiesterase 5 inhibitor,Benign prostatic hypertrophy,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1318700,C0020542,TREATS,Phosphodiesterase 5 inhibitor,Pulmonary Hypertension,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1318700,C0036980,TREATS,Phosphodiesterase 5 inhibitor,"Shock, Cardiogenic",phsu,patf,1,TREATS_PHSUtrtsPATF
+C1373060,C0022116,TREATS,Nitric Oxide Synthase Inhibitor,Ischemia,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1373060,C1155266,TREATS,Nitric Oxide Synthase Inhibitor,Inflammatory Response,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1443643,C0026846,TREATS,Proteasome inhibitor,Muscular Atrophy,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1443643,C0238217,TREATS,Proteasome inhibitor,Renal transplant rejection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1443650,C0162633,TREATS,Neuraminidase inhibitor,Viral Shedding,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1443650,C3714514,TREATS,Neuraminidase inhibitor,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1449680,C3714514,TREATS,Angiotensin II Type 1 Receptor Blockers,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1510809,C1155266,TREATS,Adjuvant Analgesic,Inflammatory Response,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1512211,C3714514,TREATS,Glucosidase Inhibitor,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1512792,C3714514,TREATS,Inosine Monophosphate Dehydrogenase Inhibitor,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1514669,C3714514,TREATS,RNA Polymerase Inhibitor,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1516312,C0021368,TREATS,Caspase Inhibitors,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1517755,C3714514,TREATS,Lectin Inhibitor,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1520007,C0332448,TREATS,Viral Vector,Infiltration,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1520007,C1520005,TREATS,Viral Vector,Viral Pathogenesis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1562036,C1373218,TREATS,Calcineurin inhibitor,Decreased Immunologic Activity [PE],phsu,patf,1,TREATS_PHSUtrtsPATF
+C1579268,C0016059,TREATS,Mineralocorticoid Receptor Antagonists,Fibrosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1579268,C0021368,TREATS,Mineralocorticoid Receptor Antagonists,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1704311,C0026766,TREATS,Antithrombotic Agents,Multiple Organ Failure,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1704311,C0040053,TREATS,Antithrombotic Agents,Thrombosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1704311,C0087086,TREATS,Antithrombotic Agents,Thrombus,phsu,patf,2,TREATS_PHSUtrtsPATF
+C1709545,C0332448,TREATS,Piperine Extract (Standardized),Infiltration,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1718097,C0020517,TREATS,New medications,Hypersensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1718097,C3714514,TREATS,New medications,Infection,phsu,patf,5,TREATS_PHSUtrtsPATF
+C1827106,C0333383,TREATS,Dipeptidyl-Peptidase IV Inhibitors,Acute and chronic inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1827106,C0920563,TREATS,Dipeptidyl-Peptidase IV Inhibitors,Insulin Sensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1874451,C0002994,TREATS,Basis,Angioedema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1874451,C0011304,TREATS,Basis,Demyelination,phsu,patf,3,TREATS_PHSUtrtsPATF
+C1874451,C0020517,TREATS,Basis,Hypersensitivity,phsu,patf,5,TREATS_PHSUtrtsPATF
+C1874451,C0021368,TREATS,Basis,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1874451,C0029445,TREATS,Basis,Bone necrosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1874451,C0030660,TREATS,Basis,Pathologic Processes,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1874451,C0031526,TREATS,Basis,Philadelphia Chromosome,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1874451,C0036679,TREATS,Basis,Diastasis,phsu,patf,2,TREATS_PHSUtrtsPATF
+C1874451,C0036982,TREATS,Basis,"Shock, Hemorrhagic",phsu,patf,1,TREATS_PHSUtrtsPATF
+C1874451,C0036983,TREATS,Basis,Septic Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1874451,C0232018,TREATS,Basis,Decreased lung compliance,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1874451,C0242781,TREATS,Basis,disease transmission,phsu,patf,5,TREATS_PHSUtrtsPATF
+C1874451,C0443146,TREATS,Basis,Autoimmune reaction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1874451,C0543419,TREATS,Basis,Sequela of disorder,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1874451,C1373218,TREATS,Basis,Decreased Immunologic Activity [PE],phsu,patf,2,TREATS_PHSUtrtsPATF
+C1874451,C1518304,TREATS,Basis,Neurotropism,phsu,patf,2,TREATS_PHSUtrtsPATF
+C1874451,C1520005,TREATS,Basis,Viral Pathogenesis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1874451,C3714514,TREATS,Basis,Infection,phsu,patf,6,TREATS_PHSUtrtsPATF
+C1875784,C0036679,TREATS,STEP 2,Diastasis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1880030,C0242656,TREATS,Chemokine receptor antagonist,Disease Progression,phsu,patf,1,TREATS_PHSUtrtsPATF
+C1979775,C0021368,TREATS,Oncology drugs,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C2145047,C0242656,TREATS,Trace Minerals,Disease Progression,phsu,patf,1,TREATS_PHSUtrtsPATF
+C2145047,C3714514,TREATS,Trace Minerals,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C2352806,C0011071,TREATS,necitumumab,Sudden death,phsu,patf,1,TREATS_PHSUtrtsPATF
+C2745964,C0001122,TREATS,amylase inhibitor,Acidosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C2746052,C0242184,TREATS,mTOR Inhibitor,Hypoxia,phsu,patf,1,TREATS_PHSUtrtsPATF
+C2825096,C0021368,TREATS,Anti-IgE [EPC],Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C2917322,C0021368,TREATS,Purinergic P1 Receptor Agonists,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C2917414,C0028778,TREATS,Recombinant Human Deoxyribonuclease 1 [EPC],Obstruction,phsu,patf,1,TREATS_PHSUtrtsPATF
+C2930041,C0007642,TREATS,Ampicillin / Sulbactam,Cellulitis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C2936788,C0005001,TREATS,5-alpha Reductase Inhibitors,Benign prostatic hypertrophy,phsu,patf,3,TREATS_PHSUtrtsPATF
+C2954564,C0392707,TREATS,Suppressor,Atopy,phsu,patf,1,TREATS_PHSUtrtsPATF
+C2954564,C1155266,TREATS,Suppressor,Inflammatory Response,phsu,patf,2,TREATS_PHSUtrtsPATF
+C3267922,C0021368,TREATS,Cystic Fibrosis Transmembrane Conductance Regulator Potentiator [EPC],Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3272847,C0332448,TREATS,Losmapimod,Infiltration,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3490795,C0161818,TREATS,asfotase alfa,Respiratory complication,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3537103,C3714514,TREATS,Nucleoside Reverse Transcriptase Inhibitor,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3537192,C3714514,TREATS,Tumor Necrosis Factor Inhibitors,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3539125,C0021359,TREATS,other medicated shampoos in ATC,Infertility,phsu,patf,2,TREATS_PHSUtrtsPATF
+C3539125,C0021368,TREATS,other medicated shampoos in ATC,Inflammation,phsu,patf,4,TREATS_PHSUtrtsPATF
+C3539125,C0026766,TREATS,other medicated shampoos in ATC,Multiple Organ Failure,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3539125,C0036679,TREATS,other medicated shampoos in ATC,Diastasis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3539125,C0162633,TREATS,other medicated shampoos in ATC,Viral Shedding,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3539125,C0242184,TREATS,other medicated shampoos in ATC,Hypoxia,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3539125,C0543419,TREATS,other medicated shampoos in ATC,Sequela of disorder,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3539125,C0546817,TREATS,other medicated shampoos in ATC,Fluid overload,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3539125,C1520005,TREATS,other medicated shampoos in ATC,Viral Pathogenesis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3539125,C2004491,TREATS,other medicated shampoos in ATC,Cicatrix,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3539125,C3714514,TREATS,other medicated shampoos in ATC,Infection,phsu,patf,5,TREATS_PHSUtrtsPATF
+C3539125,C4022755,TREATS,other medicated shampoos in ATC,Functional abnormality of the gastrointestinal tract,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3539957,C0020517,TREATS,opium alkaloids and derivative combination cough suppressants,Hypersensitivity,phsu,patf,3,TREATS_PHSUtrtsPATF
+C3539957,C0036679,TREATS,opium alkaloids and derivative combination cough suppressants,Diastasis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3539957,C3714514,TREATS,opium alkaloids and derivative combination cough suppressants,Infection,phsu,patf,3,TREATS_PHSUtrtsPATF
+C3541969,C0035410,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Rhabdomyolysis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3541969,C3714514,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Infection,phsu,patf,7,TREATS_PHSUtrtsPATF
+C3543842,C0020517,TREATS,TONICS,Hypersensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3543842,C0021368,TREATS,TONICS,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3653316,C0040053,TREATS,Vitamin K antagonists,Thrombosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3653430,C0020517,TREATS,Histamine H2 receptor antagonists for peptic ulcer and GORD,Hypersensitivity,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3653501,C3714514,TREATS,DIRECT ACTING ANTIVIRALS,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3656596,C3714514,TREATS,avibactam / Ceftazidime,Infection,phsu,patf,3,TREATS_PHSUtrtsPATF
+C3669283,C0040038,TREATS,Factor Xa inhibitors,Thromboembolism,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3850094,C0002994,TREATS,Bradykinin Receptor Antagonists,Angioedema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3852217,C3714514,TREATS,guselkumab,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3853872,C0036974,TREATS,electrolyte solution,Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3853872,C0220981,TREATS,electrolyte solution,Metabolic acidosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C3883356,C0036983,TREATS,Lipid Emulsion,Septic Shock,phsu,patf,2,TREATS_PHSUtrtsPATF
+C4287586,C3714514,TREATS,Ceftazidime/Avibactam Sodium,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C4305867,C0600518,TREATS,Sirna-027,Choroidal Neovascularization,phsu,patf,1,TREATS_PHSUtrtsPATF
+C4330505,C0021368,TREATS,JAK1 Inhibitor,Inflammation,phsu,patf,1,TREATS_PHSUtrtsPATF
+C4331423,C0041755,TREATS,Traditional Chinese Medicine Formulation,Adverse reaction to drug,phsu,patf,1,TREATS_PHSUtrtsPATF
+C4331423,C0085257,TREATS,Traditional Chinese Medicine Formulation,Yin Deficiency,phsu,patf,1,TREATS_PHSUtrtsPATF
+C4482910,C3714514,TREATS,meropenem / Vaborbactam,Infection,phsu,patf,1,TREATS_PHSUtrtsPATF
+C4726919,C0016059,TREATS,tropifexor,Fibrosis,phsu,patf,1,TREATS_PHSUtrtsPATF
+C4727563,C0020542,TREATS,Perixosome Proliferator-Activated Receptor Agonist,Pulmonary Hypertension,phsu,patf,1,TREATS_PHSUtrtsPATF
+C4727563,C0021655,TREATS,Perixosome Proliferator-Activated Receptor Agonist,Insulin Resistance,phsu,patf,1,TREATS_PHSUtrtsPATF
+C4727563,C1155266,TREATS,Perixosome Proliferator-Activated Receptor Agonist,Inflammatory Response,phsu,patf,1,TREATS_PHSUtrtsPATF
+C5139936,C0013604,TREATS,Pamrevlumab,Edema,phsu,patf,1,TREATS_PHSUtrtsPATF
+C5147552,C0020542,TREATS,Inotropic support,Pulmonary Hypertension,phsu,patf,1,TREATS_PHSUtrtsPATF
+C5147552,C0036974,TREATS,Inotropic support,Shock,phsu,patf,1,TREATS_PHSUtrtsPATF
+C5147552,C0036980,TREATS,Inotropic support,"Shock, Cardiogenic",phsu,patf,2,TREATS_PHSUtrtsPATF
+C5214487,C0019080,TREATS,Antiplatelet,Hemorrhage,phsu,patf,1,TREATS_PHSUtrtsPATF

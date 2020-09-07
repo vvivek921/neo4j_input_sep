@@ -1,0 +1,919 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001527,C0007584,LOCATION_OF,Adipose tissue,Cell Count,tisu,lbpr,7,LOCATION_OF_TISUlocfLBPR
+C0001527,C0029205,LOCATION_OF,Adipose tissue,Organ Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0001527,C0178539,LOCATION_OF,Adipose tissue,Cellular,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0001527,C0523207,LOCATION_OF,Adipose tissue,Hematoxylin and eosin stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0001527,C1168005,LOCATION_OF,Adipose tissue,Alpha tumour necrosis factor measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0004799,C0007584,LOCATION_OF,Basement membrane,Cell Count,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0004799,C0016318,LOCATION_OF,Basement membrane,Fluorescent Antibody Technique,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0004799,C0430389,LOCATION_OF,Basement membrane,Light Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C0007584,LOCATION_OF,Bone Marrow,Cell Count,tisu,lbpr,68,LOCATION_OF_TISUlocfLBPR
+C0005953,C0010818,LOCATION_OF,Bone Marrow,Cytological Techniques,tisu,lbpr,8,LOCATION_OF_TISUlocfLBPR
+C0005953,C0014772,LOCATION_OF,Bone Marrow,Red Blood Cell Count measurement,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0005953,C0016263,LOCATION_OF,Bone Marrow,Flow Cytometry,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0005953,C0022885,LOCATION_OF,Bone Marrow,Laboratory Procedures,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C0023508,LOCATION_OF,Bone Marrow,White Blood Cell Count procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C0026006,LOCATION_OF,Bone Marrow,Micronucleus Tests,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0005953,C0026019,LOCATION_OF,Bone Marrow,Electron Microscopy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0005953,C0031753,LOCATION_OF,Bone Marrow,Photomicrography,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C0032102,LOCATION_OF,Bone Marrow,plaque assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C0032181,LOCATION_OF,Bone Marrow,Platelet Count measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0005953,C0178539,LOCATION_OF,Bone Marrow,Cellular,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C0005953,C0200633,LOCATION_OF,Bone Marrow,Neutrophil count (procedure),tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0005953,C0200930,LOCATION_OF,Bone Marrow,Restriction fragment length polymorphism analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C0200954,LOCATION_OF,Bone Marrow,Mycology culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C0200955,LOCATION_OF,Bone Marrow,Viral culture procedure,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0005953,C0523113,LOCATION_OF,Bone Marrow,Blast count procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C0581142,LOCATION_OF,Bone Marrow,Plasma cell count procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C0946015,LOCATION_OF,Bone Marrow,Cytology studies,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C1168005,LOCATION_OF,Bone Marrow,Alpha tumour necrosis factor measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C1317452,LOCATION_OF,Bone Marrow,Immunoglobulin panel,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C1449575,LOCATION_OF,Bone Marrow,Microarray Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C1510438,LOCATION_OF,Bone Marrow,Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C1705192,LOCATION_OF,Bone Marrow,Seeding,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C2347338,LOCATION_OF,Bone Marrow,Negative Selection,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0005953,C2348930,LOCATION_OF,Bone Marrow,HLA Compatibility Testing,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C2363836,LOCATION_OF,Bone Marrow,Natural Killer Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0005953,C2698870,LOCATION_OF,Bone Marrow,Precursor Plasma Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005953,C2825900,LOCATION_OF,Bone Marrow,Monocyte Chemotactic Protein 1 Measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0005953,C3272951,LOCATION_OF,Bone Marrow,Immature Eosinophil Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0005962,C0007584,LOCATION_OF,Bone Matrix,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0006904,C0007584,LOCATION_OF,Capillary Endothelium,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0007301,C0007584,LOCATION_OF,Cartilage,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0009780,C0007584,LOCATION_OF,Connective Tissue,Cell Count,tisu,lbpr,16,LOCATION_OF_TISUlocfLBPR
+C0009780,C0085115,LOCATION_OF,Connective Tissue,CD4/CD8 ratio procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0009780,C1168005,LOCATION_OF,Connective Tissue,Alpha tumour necrosis factor measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0011646,C0007584,LOCATION_OF,Dermis,Cell Count,tisu,lbpr,7,LOCATION_OF_TISUlocfLBPR
+C0011646,C0014772,LOCATION_OF,Dermis,Red Blood Cell Count measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0011646,C0019637,LOCATION_OF,Dermis,Histological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0011646,C0178539,LOCATION_OF,Dermis,Cellular,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014124,C0007584,LOCATION_OF,Endocardium,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014124,C0026018,LOCATION_OF,Endocardium,Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014257,C0007584,LOCATION_OF,Endothelium,Cell Count,tisu,lbpr,13,LOCATION_OF_TISUlocfLBPR
+C0014257,C0016318,LOCATION_OF,Endothelium,Fluorescent Antibody Technique,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014257,C0019633,LOCATION_OF,Endothelium,Histocompatibility Testing,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014257,C0026018,LOCATION_OF,Endothelium,Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014257,C0026019,LOCATION_OF,Endothelium,Electron Microscopy,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0014257,C0427508,LOCATION_OF,Endothelium,"Glucose-6-phosphate dehydrogenase measurement, quantitative",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014257,C0522872,LOCATION_OF,Endothelium,Platelet factor 4 Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014257,C0523816,LOCATION_OF,Endothelium,Pepsinogen I measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014257,C0947630,LOCATION_OF,Endothelium,Scientific Study,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014257,C1449562,LOCATION_OF,Endothelium,Primary Cell Culture,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0014257,C2825900,LOCATION_OF,Endothelium,Monocyte Chemotactic Protein 1 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014257,C3641616,LOCATION_OF,Endothelium,CD4 Cell to Lymphocyte Ratio Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014257,C3811388,LOCATION_OF,Endothelium,Platelet Activating Factor Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014257,C3829129,LOCATION_OF,Endothelium,Meningeal Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0014257,C5203040,LOCATION_OF,Endothelium,Chemokine (C-X3-C Motif) Ligand 1 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014259,C0007584,LOCATION_OF,Corneal Endothelium,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014261,C0007584,LOCATION_OF,"Endothelium, Vascular",Cell Count,tisu,lbpr,7,LOCATION_OF_TISUlocfLBPR
+C0014261,C0023508,LOCATION_OF,"Endothelium, Vascular",White Blood Cell Count procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014261,C0026019,LOCATION_OF,"Endothelium, Vascular",Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014261,C3714685,LOCATION_OF,"Endothelium, Vascular",Angiopoietin 1 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014520,C0007584,LOCATION_OF,Epidermis,Cell Count,tisu,lbpr,21,LOCATION_OF_TISUlocfLBPR
+C0014520,C0019637,LOCATION_OF,Epidermis,Histological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014520,C0947630,LOCATION_OF,Epidermis,Scientific Study,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014520,C1318793,LOCATION_OF,Epidermis,Immunofluorescent stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014520,C3811844,LOCATION_OF,Epidermis,Estimated Glomerular Filtration Rate,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C0007584,LOCATION_OF,Epithelium,Cell Count,tisu,lbpr,159,LOCATION_OF_TISUlocfLBPR
+C0014609,C0007585,LOCATION_OF,Epithelium,Cell Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C0013860,LOCATION_OF,Epithelium,"Electrophoresis, Gel, Two-Dimensional",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C0019633,LOCATION_OF,Epithelium,Histocompatibility Testing,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0014609,C0019637,LOCATION_OF,Epithelium,Histological Techniques,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0014609,C0022885,LOCATION_OF,Epithelium,Laboratory Procedures,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C0026019,LOCATION_OF,Epithelium,Electron Microscopy,tisu,lbpr,10,LOCATION_OF_TISUlocfLBPR
+C0014609,C0029205,LOCATION_OF,Epithelium,Organ Culture Techniques,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0014609,C0037813,LOCATION_OF,Epithelium,Mass Spectrometry,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C0040284,LOCATION_OF,Epithelium,Tissue culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C0200760,LOCATION_OF,Epithelium,Morphometric analysis,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0014609,C0200955,LOCATION_OF,Epithelium,Viral culture procedure,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0014609,C0201284,LOCATION_OF,Epithelium,Fluorescent antibody measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0014609,C0282646,LOCATION_OF,Epithelium,Indirect Immunofluorescence,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0014609,C0373658,LOCATION_OF,Epithelium,Iron binding capacity measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C0427385,LOCATION_OF,Epithelium,Cell phenotype determination procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C0523207,LOCATION_OF,Epithelium,Hematoxylin and eosin stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C0597452,LOCATION_OF,Epithelium,Single-Cell Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C0678118,LOCATION_OF,Epithelium,Transmission Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C0752248,LOCATION_OF,Epithelium,Gene Expression Profiling,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0014609,C0871511,LOCATION_OF,Epithelium,Test Method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C0949466,LOCATION_OF,Epithelium,Western Blot,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0014609,C1294356,LOCATION_OF,Epithelium,Detection of virus procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C1441648,LOCATION_OF,Epithelium,Microscopy.electron.thin section,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0014609,C1510438,LOCATION_OF,Epithelium,Assay,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0014609,C3641616,LOCATION_OF,Epithelium,CD4 Cell to Lymphocyte Ratio Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C3811388,LOCATION_OF,Epithelium,Platelet Activating Factor Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C3812195,LOCATION_OF,Epithelium,Chemokine (C-X-C Motif) Ligand 10 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C4049944,LOCATION_OF,Epithelium,Ki67 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0014609,C4721550,LOCATION_OF,Epithelium,Cell Culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0015350,C0007584,LOCATION_OF,Extracellular Matrix,Cell Count,tisu,lbpr,16,LOCATION_OF_TISUlocfLBPR
+C0015350,C0026019,LOCATION_OF,Extracellular Matrix,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0015350,C0201838,LOCATION_OF,Extracellular Matrix,Albumin measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0015350,C0206691,LOCATION_OF,Extracellular Matrix,Electroporation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0016741,C0004400,LOCATION_OF,Frozen Sections,Autoradiography,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0016741,C0007584,LOCATION_OF,Frozen Sections,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0016741,C0016318,LOCATION_OF,Frozen Sections,Fluorescent Antibody Technique,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C0016741,C0019637,LOCATION_OF,Frozen Sections,Histological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0016741,C0021067,LOCATION_OF,Frozen Sections,Immunoperoxidase Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0016741,C0079604,LOCATION_OF,Frozen Sections,Immunofluorescence Microscopy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0016741,C0200955,LOCATION_OF,Frozen Sections,Viral culture procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0016741,C0242842,LOCATION_OF,Frozen Sections,"Microscopy, Confocal",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0016741,C0282646,LOCATION_OF,Frozen Sections,Indirect Immunofluorescence,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0016741,C0544711,LOCATION_OF,Frozen Sections,Autofluorescence,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0016741,C0947630,LOCATION_OF,Frozen Sections,Scientific Study,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0016741,C1294000,LOCATION_OF,Frozen Sections,Oil red O stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0016741,C1318793,LOCATION_OF,Frozen Sections,Immunofluorescent stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0016741,C1707759,LOCATION_OF,Frozen Sections,Direct Fluorescent Antibody Test,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0016741,C2700087,LOCATION_OF,Frozen Sections,Tubular Epithelial Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0017136,C0007584,LOCATION_OF,Gastric mucosa,Cell Count,tisu,lbpr,12,LOCATION_OF_TISUlocfLBPR
+C0017136,C0430385,LOCATION_OF,Gastric mucosa,Sample macroscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0017562,C0007584,LOCATION_OF,Gingiva,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0018180,C0007584,LOCATION_OF,Granulation Tissue,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0018180,C2699192,LOCATION_OF,Granulation Tissue,Cholesterol Crystal Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0021839,C0007584,LOCATION_OF,Intestinal Mucosa,Cell Count,tisu,lbpr,33,LOCATION_OF_TISUlocfLBPR
+C0021839,C0022885,LOCATION_OF,Intestinal Mucosa,Laboratory Procedures,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0021839,C0026019,LOCATION_OF,Intestinal Mucosa,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0021839,C0178539,LOCATION_OF,Intestinal Mucosa,Cellular,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0021839,C0200955,LOCATION_OF,Intestinal Mucosa,Viral culture procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0021839,C4048784,LOCATION_OF,Intestinal Mucosa,Reactive Oxygen Metabolite Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0021839,C4049928,LOCATION_OF,Intestinal Mucosa,Immunoglobulin G Subclass 1 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0024296,C0007584,LOCATION_OF,Lymphoid Tissue,Cell Count,tisu,lbpr,26,LOCATION_OF_TISUlocfLBPR
+C0024296,C0016318,LOCATION_OF,Lymphoid Tissue,Fluorescent Antibody Technique,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0024296,C0019635,LOCATION_OF,Lymphoid Tissue,Histocytochemistry,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0024296,C0019637,LOCATION_OF,Lymphoid Tissue,Histological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0024296,C0026018,LOCATION_OF,Lymphoid Tissue,Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0024296,C0026040,LOCATION_OF,Lymphoid Tissue,Microtomy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0024296,C0079611,LOCATION_OF,Lymphoid Tissue,Immunophenotyping,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0024296,C0178539,LOCATION_OF,Lymphoid Tissue,Cellular,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0024296,C0523207,LOCATION_OF,Lymphoid Tissue,Hematoxylin and eosin stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0024296,C1294356,LOCATION_OF,Lymphoid Tissue,Detection of virus procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0024296,C1705192,LOCATION_OF,Lymphoid Tissue,Seeding,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0024296,C2363836,LOCATION_OF,Lymphoid Tissue,Natural Killer Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0024296,C3641616,LOCATION_OF,Lymphoid Tissue,CD4 Cell to Lymphocyte Ratio Measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0024296,C4553013,LOCATION_OF,Lymphoid Tissue,Chemokine (C-C Motif) Ligand 21 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C0007584,LOCATION_OF,Tissue membrane,Cell Count,tisu,lbpr,28,LOCATION_OF_TISUlocfLBPR
+C0025255,C0008551,LOCATION_OF,Tissue membrane,"Chromatography, Affinity",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C0008813,LOCATION_OF,Tissue membrane,Circular Dichroism,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0025255,C0013064,LOCATION_OF,Tissue membrane,Dot Immunoblotting,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C0013855,LOCATION_OF,Tissue membrane,Electrophoresis,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0025255,C0014441,LOCATION_OF,Tissue membrane,Enzyme-Linked Immunosorbent Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C0014772,LOCATION_OF,Tissue membrane,Red Blood Cell Count measurement,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0025255,C0020985,LOCATION_OF,Tissue membrane,Immunoblotting,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0025255,C0022885,LOCATION_OF,Tissue membrane,Laboratory Procedures,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0025255,C0026019,LOCATION_OF,Tissue membrane,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C0079240,LOCATION_OF,Tissue membrane,Dilution technique,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C0085188,LOCATION_OF,Tissue membrane,Cryoultramicrotomy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C0201950,LOCATION_OF,Tissue membrane,Cholesterol measurement test,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0025255,C0202113,LOCATION_OF,Tissue membrane,Lactate dehydrogenase measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C0206055,LOCATION_OF,Tissue membrane,"Spectroscopy, Fourier Transform Infrared",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C0206691,LOCATION_OF,Tissue membrane,Electroporation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C0597717,LOCATION_OF,Tissue membrane,Fluorescence Resonance Energy Transfer,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C0600070,LOCATION_OF,Tissue membrane,Direct microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C0600209,LOCATION_OF,Tissue membrane,SDS-PAGE,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0025255,C0678647,LOCATION_OF,Tissue membrane,optical analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C1441565,LOCATION_OF,Tissue membrane,Elution,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C1510438,LOCATION_OF,Tissue membrane,Assay,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0025255,C1516952,LOCATION_OF,Tissue membrane,Equilibrium Centrifugation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C1719039,LOCATION_OF,Tissue membrane,High resolution,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0025255,C4297013,LOCATION_OF,Tissue membrane,Merging,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C0025255,C4528662,LOCATION_OF,Tissue membrane,Crystallinity,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0025255,C4687918,LOCATION_OF,Tissue membrane,Reducing Sugar Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C0007584,LOCATION_OF,Mucous Membrane,Cell Count,tisu,lbpr,192,LOCATION_OF_TISUlocfLBPR
+C0026724,C0019637,LOCATION_OF,Mucous Membrane,Histological Techniques,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0026724,C0022885,LOCATION_OF,Mucous Membrane,Laboratory Procedures,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C0026018,LOCATION_OF,Mucous Membrane,Microscopy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0026724,C0026019,LOCATION_OF,Mucous Membrane,Electron Microscopy,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0026724,C0029205,LOCATION_OF,Mucous Membrane,Organ Culture Techniques,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0026724,C0036743,LOCATION_OF,Mucous Membrane,Serologic tests,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0026724,C0178539,LOCATION_OF,Mucous Membrane,Cellular,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0026724,C0200633,LOCATION_OF,Mucous Membrane,Neutrophil count (procedure),tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C0201679,LOCATION_OF,Mucous Membrane,Human papillomavirus typing (procedure),tisu,lbpr,7,LOCATION_OF_TISUlocfLBPR
+C0026724,C0202097,LOCATION_OF,Mucous Membrane,Anti-IgA assay,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0026724,C0430385,LOCATION_OF,Mucous Membrane,Sample macroscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C0474643,LOCATION_OF,Mucous Membrane,Antibody titer measurement,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C0026724,C0752248,LOCATION_OF,Mucous Membrane,Gene Expression Profiling,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C0883003,LOCATION_OF,Mucous Membrane,Differential panel,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C1254467,LOCATION_OF,Mucous Membrane,Air Culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C1261478,LOCATION_OF,Mucous Membrane,Viral load measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C1294356,LOCATION_OF,Mucous Membrane,Detection of virus procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C1510438,LOCATION_OF,Mucous Membrane,Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C1705192,LOCATION_OF,Mucous Membrane,Seeding,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C1719039,LOCATION_OF,Mucous Membrane,High resolution,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C2698029,LOCATION_OF,Mucous Membrane,Mature Plasma Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C2700087,LOCATION_OF,Mucous Membrane,Tubular Epithelial Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0026724,C3812195,LOCATION_OF,Mucous Membrane,Chemokine (C-X-C Motif) Ligand 10 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C4049928,LOCATION_OF,Mucous Membrane,Immunoglobulin G Subclass 1 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C4317078,LOCATION_OF,Mucous Membrane,Mycobacterium Tuberculosis Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026724,C4318939,LOCATION_OF,Mucous Membrane,Nasal Swab (procedure),tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0026724,C4763480,LOCATION_OF,Mucous Membrane,Pegylation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026845,C0005863,LOCATION_OF,Muscle Tissue,Western Blotting,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026845,C0007584,LOCATION_OF,Muscle Tissue,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026845,C0019637,LOCATION_OF,Muscle Tissue,Histological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026845,C0026019,LOCATION_OF,Muscle Tissue,Electron Microscopy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0026845,C0036743,LOCATION_OF,Muscle Tissue,Serologic tests,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0026845,C0200931,LOCATION_OF,Muscle Tissue,Polymerase chain reaction analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026845,C0949466,LOCATION_OF,Muscle Tissue,Western Blot,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026845,C1261478,LOCATION_OF,Muscle Tissue,Viral load measurement,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0026845,C1294197,LOCATION_OF,Muscle Tissue,Nucleic acid sequencing,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0026845,C4744883,LOCATION_OF,Muscle Tissue,Phosphorylated STAT3 Measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0026969,C0007584,LOCATION_OF,Myelin,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0026969,C0474643,LOCATION_OF,Myelin,Antibody titer measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027061,C0007584,LOCATION_OF,Myocardium,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0027061,C0014440,LOCATION_OF,Myocardium,Clinical Enzyme Tests (procedure),tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C0027061,C0019637,LOCATION_OF,Myocardium,Histological Techniques,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0027061,C0200955,LOCATION_OF,Myocardium,Viral culture procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027061,C0201927,LOCATION_OF,Myocardium,Measurement of serum ionized calcium,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027061,C0337439,LOCATION_OF,Myocardium,Iron measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027061,C0752248,LOCATION_OF,Myocardium,Gene Expression Profiling,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027061,C1113652,LOCATION_OF,Myocardium,Laser Capture Microdissection,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0027061,C1705192,LOCATION_OF,Myocardium,Seeding,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027061,C2717977,LOCATION_OF,Myocardium,Enzyme Assays,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027061,C3714685,LOCATION_OF,Myocardium,Angiopoietin 1 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027061,C4724157,LOCATION_OF,Myocardium,Human Parvovirus B19 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027428,C0007584,LOCATION_OF,Structure of mucous membrane of nose,Cell Count,tisu,lbpr,15,LOCATION_OF_TISUlocfLBPR
+C0027428,C0014441,LOCATION_OF,Structure of mucous membrane of nose,Enzyme-Linked Immunosorbent Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027428,C4288812,LOCATION_OF,Structure of mucous membrane of nose,Local Pathology Review,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027428,C4687888,LOCATION_OF,Structure of mucous membrane of nose,Granulocytes to Leukocytes Ratio Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027757,C0007584,LOCATION_OF,Nerve Tissue,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0027757,C0200931,LOCATION_OF,Nerve Tissue,Polymerase chain reaction analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0028937,C0007584,LOCATION_OF,Olfactory Mucosa,Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0028937,C0031753,LOCATION_OF,Olfactory Mucosa,Photomicrography,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0028937,C4318939,LOCATION_OF,Olfactory Mucosa,Nasal Swab (procedure),tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0029250,C0007584,LOCATION_OF,Organoids,Cell Count,tisu,lbpr,18,LOCATION_OF_TISUlocfLBPR
+C0029250,C0037812,LOCATION_OF,Organoids,Spectrum Analysis,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0029250,C0282547,LOCATION_OF,Organoids,Coculture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0029250,C0920104,LOCATION_OF,Organoids,Complement factor test,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0029250,C1261149,LOCATION_OF,Organoids,Viral antigen assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0029250,C1318793,LOCATION_OF,Organoids,Immunofluorescent stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0029250,C1449619,LOCATION_OF,Organoids,Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0029250,C1510438,LOCATION_OF,Organoids,Assay,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0029250,C1510803,LOCATION_OF,Organoids,Adherent Culture,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0029250,C1705192,LOCATION_OF,Organoids,Seeding,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0029250,C2123171,LOCATION_OF,Organoids,LIVER culture,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0029250,C4721550,LOCATION_OF,Organoids,Cell Culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0031104,C0007584,LOCATION_OF,Periodontium,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0031110,C0007584,LOCATION_OF,Periosteum,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0031153,C0007584,LOCATION_OF,Peritoneum,Cell Count,tisu,lbpr,54,LOCATION_OF_TISUlocfLBPR
+C0031153,C0007585,LOCATION_OF,Peritoneum,Cell Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0031153,C0010818,LOCATION_OF,Peritoneum,Cytological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0031153,C0026018,LOCATION_OF,Peritoneum,Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0031153,C1449575,LOCATION_OF,Peritoneum,Microarray Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0031153,C1705192,LOCATION_OF,Peritoneum,Seeding,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0031153,C4317078,LOCATION_OF,Peritoneum,Mycobacterium Tuberculosis Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0032225,C0007584,LOCATION_OF,Pleura,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0032225,C1707759,LOCATION_OF,Pleura,Direct Fluorescent Antibody Test,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0036629,C0007584,LOCATION_OF,Structure of spermatogenic epithelium,Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0036760,C0007584,LOCATION_OF,Serous Membrane,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0005863,LOCATION_OF,Body tissue,Western Blotting,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0040300,C0007584,LOCATION_OF,Body tissue,Cell Count,tisu,lbpr,259,LOCATION_OF_TISUlocfLBPR
+C0040300,C0007585,LOCATION_OF,Body tissue,Cell Culture Techniques,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0007594,LOCATION_OF,Body tissue,Cell fusion procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0007616,LOCATION_OF,Body tissue,Cell Separation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0010405,LOCATION_OF,Body tissue,Cryopreservation,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0010818,LOCATION_OF,Body tissue,Cytological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0013855,LOCATION_OF,Body tissue,Electrophoresis,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0014440,LOCATION_OF,Body tissue,Clinical Enzyme Tests (procedure),tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0014441,LOCATION_OF,Body tissue,Enzyme-Linked Immunosorbent Assay,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0040300,C0014772,LOCATION_OF,Body tissue,Red Blood Cell Count measurement,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0040300,C0016263,LOCATION_OF,Body tissue,Flow Cytometry,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0016318,LOCATION_OF,Body tissue,Fluorescent Antibody Technique,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C0040300,C0019633,LOCATION_OF,Body tissue,Histocompatibility Testing,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0019635,LOCATION_OF,Body tissue,Histocytochemistry,tisu,lbpr,8,LOCATION_OF_TISUlocfLBPR
+C0040300,C0019637,LOCATION_OF,Body tissue,Histological Techniques,tisu,lbpr,29,LOCATION_OF_TISUlocfLBPR
+C0040300,C0020985,LOCATION_OF,Body tissue,Immunoblotting,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0040300,C0021067,LOCATION_OF,Body tissue,Immunoperoxidase Techniques,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0022662,LOCATION_OF,Body tissue,Kidney Function Tests,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0022885,LOCATION_OF,Body tissue,Laboratory Procedures,tisu,lbpr,12,LOCATION_OF_TISUlocfLBPR
+C0040300,C0023508,LOCATION_OF,Body tissue,White Blood Cell Count procedure,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0026018,LOCATION_OF,Body tissue,Microscopy,tisu,lbpr,18,LOCATION_OF_TISUlocfLBPR
+C0040300,C0026019,LOCATION_OF,Body tissue,Electron Microscopy,tisu,lbpr,15,LOCATION_OF_TISUlocfLBPR
+C0040300,C0026040,LOCATION_OF,Body tissue,Microtomy,tisu,lbpr,7,LOCATION_OF_TISUlocfLBPR
+C0040300,C0030058,LOCATION_OF,Body tissue,oxygen extraction,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0031067,LOCATION_OF,Body tissue,Periodic Acid-Schiff Reaction,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0037805,LOCATION_OF,Body tissue,Spectrophotometry,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0037813,LOCATION_OF,Body tissue,Mass Spectrometry,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0040300,C0038577,LOCATION_OF,Body tissue,Substance Abuse Detection,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0040130,LOCATION_OF,Body tissue,Thyroid Function Tests,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0040284,LOCATION_OF,Body tissue,Tissue culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0079240,LOCATION_OF,Body tissue,Dilution technique,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0079604,LOCATION_OF,Body tissue,Immunofluorescence Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0079611,LOCATION_OF,Body tissue,Immunophenotyping,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0085188,LOCATION_OF,Body tissue,Cryoultramicrotomy,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0040300,C0085194,LOCATION_OF,Body tissue,Negative Staining,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0162621,LOCATION_OF,Body tissue,Titration Method,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0040300,C0162801,LOCATION_OF,Body tissue,Sequence Analysis,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0040300,C0200924,LOCATION_OF,Body tissue,Molecular biology method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0200931,LOCATION_OF,Body tissue,Polymerase chain reaction analysis,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0040300,C0200955,LOCATION_OF,Body tissue,Viral culture procedure,tisu,lbpr,22,LOCATION_OF_TISUlocfLBPR
+C0040300,C0201284,LOCATION_OF,Body tissue,Fluorescent antibody measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0202097,LOCATION_OF,Body tissue,Anti-IgA assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0202118,LOCATION_OF,Body tissue,Leucine aminopeptidase measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0202155,LOCATION_OF,Body tissue,"Oxygen measurement, partial pressure, arterial",tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0206691,LOCATION_OF,Body tissue,Electroporation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0242349,LOCATION_OF,Body tissue,Immunocytochemistry,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0373748,LOCATION_OF,Body tissue,Zinc measurement,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0040300,C0430385,LOCATION_OF,Body tissue,Sample macroscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0430389,LOCATION_OF,Body tissue,Light Microscopy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0430420,LOCATION_OF,Body tissue,Antigen assay,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0040300,C0487602,LOCATION_OF,Body tissue,Staining method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0523207,LOCATION_OF,Body tissue,Hematoxylin and eosin stain method,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C0040300,C0523957,LOCATION_OF,Body tissue,Tryptophan measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0544711,LOCATION_OF,Body tissue,Autofluorescence,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0555903,LOCATION_OF,Body tissue,Total protein measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0580327,LOCATION_OF,Body tissue,Antibody studies (procedure),tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0597452,LOCATION_OF,Body tissue,Single-Cell Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0678118,LOCATION_OF,Body tissue,Transmission Electron Microscopy,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0040300,C0679560,LOCATION_OF,Body tissue,Genetic screening method,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C0752248,LOCATION_OF,Body tissue,Gene Expression Profiling,tisu,lbpr,12,LOCATION_OF_TISUlocfLBPR
+C0040300,C0872071,LOCATION_OF,Body tissue,nucleic acid purification,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0872148,LOCATION_OF,Body tissue,DNA purification,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0883003,LOCATION_OF,Body tissue,Differential panel,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0919386,LOCATION_OF,Body tissue,Pathology procedure,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0040300,C0920508,LOCATION_OF,Body tissue,Enzyme-Linked Immunospot Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C0947630,LOCATION_OF,Body tissue,Scientific Study,tisu,lbpr,8,LOCATION_OF_TISUlocfLBPR
+C0040300,C0949466,LOCATION_OF,Body tissue,Western Blot,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0040300,C1113652,LOCATION_OF,Body tissue,Laser Capture Microdissection,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C1261149,LOCATION_OF,Body tissue,Viral antigen assay,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C1261478,LOCATION_OF,Body tissue,Viral load measurement,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0040300,C1272250,LOCATION_OF,Body tissue,Viral nucleic acid assay,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C1273421,LOCATION_OF,Body tissue,Viral studies (procedure),tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C1285572,LOCATION_OF,Body tissue,Phenotype determination,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C1293950,LOCATION_OF,Body tissue,Silver stain method,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C1294197,LOCATION_OF,Body tissue,Nucleic acid sequencing,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C1294356,LOCATION_OF,Body tissue,Detection of virus procedure,tisu,lbpr,10,LOCATION_OF_TISUlocfLBPR
+C0040300,C1295114,LOCATION_OF,Body tissue,Chromogranin A measurement,tisu,lbpr,9,LOCATION_OF_TISUlocfLBPR
+C0040300,C1318786,LOCATION_OF,Body tissue,Fluorescent stain method,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C1318793,LOCATION_OF,Body tissue,Immunofluorescent stain method,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0040300,C1319309,LOCATION_OF,Body tissue,Hematoxylin stain method,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C1441604,LOCATION_OF,Body tissue,High sensitivity,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C1441657,LOCATION_OF,Body tissue,Mouse bioassay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C1446165,LOCATION_OF,Body tissue,Immature reticulocyte fraction,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C1449575,LOCATION_OF,Body tissue,Microarray Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C1510438,LOCATION_OF,Body tissue,Assay,tisu,lbpr,25,LOCATION_OF_TISUlocfLBPR
+C0040300,C1511124,LOCATION_OF,Body tissue,"Bioassay, In Vivo",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C1511556,LOCATION_OF,Body tissue,"Culturing, In Vitro Microbial",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C1535922,LOCATION_OF,Body tissue,Procalcitonin measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C1551404,LOCATION_OF,Body tissue,Serum Neutralization,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C1705192,LOCATION_OF,Body tissue,Seeding,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0040300,C2363836,LOCATION_OF,Body tissue,Natural Killer Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C2700289,LOCATION_OF,Body tissue,Yeast Cell Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C2984944,LOCATION_OF,Body tissue,"1, 25-Dihydroxyvitamin D Measurement",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C3241972,LOCATION_OF,Body tissue,Atypical Lymphocyte Count Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C3811388,LOCATION_OF,Body tissue,Platelet Activating Factor Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C3811844,LOCATION_OF,Body tissue,Estimated Glomerular Filtration Rate,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0040300,C3812195,LOCATION_OF,Body tissue,Chemokine (C-X-C Motif) Ligand 10 Measurement,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0040300,C4049862,LOCATION_OF,Body tissue,Immunoglobulin G Subclass 4 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C4050386,LOCATION_OF,Body tissue,Immunoglobulin G Subclass 2 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C4055064,LOCATION_OF,Body tissue,Endpoint Dilution Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C4284307,LOCATION_OF,Body tissue,RNA Isolation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0040300,C4704794,LOCATION_OF,Body tissue,Plastination,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0040300,C4721550,LOCATION_OF,Body tissue,Cell Culture,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0085156,C0007584,LOCATION_OF,Basal lamina of choroid,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0085872,C0007584,LOCATION_OF,Basal lamina,Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0221909,C0007584,LOCATION_OF,Squamous epithelium,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0221921,C0007584,LOCATION_OF,Stratum corneum,Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0221921,C0026020,LOCATION_OF,Stratum corneum,Scanning Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0221921,C0430389,LOCATION_OF,Stratum corneum,Light Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0221921,C0678118,LOCATION_OF,Stratum corneum,Transmission Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0221923,C0007584,LOCATION_OF,Stratum granulosum,Cell Count,tisu,lbpr,8,LOCATION_OF_TISUlocfLBPR
+C0221925,C0007584,LOCATION_OF,Stratum Basale,Cell Count,tisu,lbpr,80,LOCATION_OF_TISUlocfLBPR
+C0222331,C0007584,LOCATION_OF,Subcutaneous Fat,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0222660,C0007584,LOCATION_OF,Cancellous Bone,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0222660,C0200771,LOCATION_OF,Cancellous Bone,Bone histomorphometry,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0222660,C1294008,LOCATION_OF,Cancellous Bone,Safranin stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0225317,C0007584,LOCATION_OF,soft tissue,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0225317,C0026018,LOCATION_OF,soft tissue,Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0225317,C1511124,LOCATION_OF,soft tissue,"Bioassay, In Vivo",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0225318,C0007584,LOCATION_OF,Interstitial tissue,Cell Count,tisu,lbpr,9,LOCATION_OF_TISUlocfLBPR
+C0225318,C0014772,LOCATION_OF,Interstitial tissue,Red Blood Cell Count measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0225318,C0728876,LOCATION_OF,Interstitial tissue,Serum calcium measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0225325,C4288189,LOCATION_OF,Collagen fiber,Staining Intensity,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0225334,C0007584,LOCATION_OF,Subserosa,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0225339,C0007584,LOCATION_OF,Transitional epithelium,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0225342,C0007584,LOCATION_OF,Adventitia,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0225344,C0007584,LOCATION_OF,Tunica submucosa,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0225694,C0007584,LOCATION_OF,Structure of alveolar epithelium,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0227261,C0007584,LOCATION_OF,Small intestine mucous membrane,Cell Count,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C0227261,C0678118,LOCATION_OF,Small intestine mucous membrane,Transmission Electron Microscopy,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0227598,C0007584,LOCATION_OF,Urothelium,Cell Count,tisu,lbpr,11,LOCATION_OF_TISUlocfLBPR
+C0229602,C0007584,LOCATION_OF,Structure of bone marrow fatty tissue,Cell Count,tisu,lbpr,9,LOCATION_OF_TISUlocfLBPR
+C0229619,C0200665,LOCATION_OF,Hemopoietic tissue,Platelet mean volume determination (procedure),tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0229666,C0022885,LOCATION_OF,Capillary blood,Laboratory Procedures,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0229982,C0007584,LOCATION_OF,Animal tissue,Cell Count,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0242291,C0007584,LOCATION_OF,Fetal Tissue,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0242291,C0026019,LOCATION_OF,Fetal Tissue,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0242291,C0200867,LOCATION_OF,Fetal Tissue,Chromosome analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0242291,C0200955,LOCATION_OF,Fetal Tissue,Viral culture procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0242291,C1294356,LOCATION_OF,Fetal Tissue,Detection of virus procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0242692,C0007584,LOCATION_OF,Skeletal muscle structure,Cell Count,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C0242692,C0026018,LOCATION_OF,Skeletal muscle structure,Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0242692,C0026019,LOCATION_OF,Skeletal muscle structure,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0242692,C0200760,LOCATION_OF,Skeletal muscle structure,Morphometric analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0242692,C0202045,LOCATION_OF,Skeletal muscle structure,"Glucose measurement, fasting",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0242692,C0206691,LOCATION_OF,Skeletal muscle structure,Electroporation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0242692,C1278021,LOCATION_OF,Skeletal muscle structure,Plasma IGF 1 measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0242692,C2700087,LOCATION_OF,Skeletal muscle structure,Tubular Epithelial Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0278403,C0007584,LOCATION_OF,Subcutaneous Tissue,Cell Count,tisu,lbpr,18,LOCATION_OF_TISUlocfLBPR
+C0278403,C0007594,LOCATION_OF,Subcutaneous Tissue,Cell fusion procedure,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0278403,C2700289,LOCATION_OF,Subcutaneous Tissue,Yeast Cell Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0282491,C0007584,LOCATION_OF,Structure of germinal center of lymph node,Cell Count,tisu,lbpr,18,LOCATION_OF_TISUlocfLBPR
+C0282491,C0178539,LOCATION_OF,Structure of germinal center of lymph node,Cellular,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0282491,C0282547,LOCATION_OF,Structure of germinal center of lymph node,Coculture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0282491,C0523207,LOCATION_OF,Structure of germinal center of lymph node,Hematoxylin and eosin stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0282491,C2698870,LOCATION_OF,Structure of germinal center of lymph node,Precursor Plasma Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0282491,C2825900,LOCATION_OF,Structure of germinal center of lymph node,Monocyte Chemotactic Protein 1 Measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0282491,C3641252,LOCATION_OF,Structure of germinal center of lymph node,Immunoblast Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0282491,C3812195,LOCATION_OF,Structure of germinal center of lymph node,Chemokine (C-X-C Motif) Ligand 10 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0332835,C0007584,LOCATION_OF,Transplanted tissue,Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0332835,C0010405,LOCATION_OF,Transplanted tissue,Cryopreservation,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0332835,C0022885,LOCATION_OF,Transplanted tissue,Laboratory Procedures,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0332835,C0201253,LOCATION_OF,Transplanted tissue,Colony count on plate,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0332835,C1318793,LOCATION_OF,Transplanted tissue,Immunofluorescent stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0332835,C1879655,LOCATION_OF,Transplanted tissue,Corner Minus,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0348047,C0007584,LOCATION_OF,Tissue Grafts,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0391978,C0007584,LOCATION_OF,Bone Tissue,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0005861,LOCATION_OF,Human tissue,Northern Blotting,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0005863,LOCATION_OF,Human tissue,Western Blotting,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0007584,LOCATION_OF,Human tissue,Cell Count,tisu,lbpr,7,LOCATION_OF_TISUlocfLBPR
+C0440744,C0008550,LOCATION_OF,Human tissue,Chromatography,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0016263,LOCATION_OF,Human tissue,Flow Cytometry,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0016318,LOCATION_OF,Human tissue,Fluorescent Antibody Technique,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0016698,LOCATION_OF,Human tissue,Freeze Drying,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0026018,LOCATION_OF,Human tissue,Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0162801,LOCATION_OF,Human tissue,Sequence Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0200931,LOCATION_OF,Human tissue,Polymerase chain reaction analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0242842,LOCATION_OF,Human tissue,"Microscopy, Confocal",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0282547,LOCATION_OF,Human tissue,Coculture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0373748,LOCATION_OF,Human tissue,Zinc measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0544711,LOCATION_OF,Human tissue,Autofluorescence,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0597452,LOCATION_OF,Human tissue,Single-Cell Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0752248,LOCATION_OF,Human tissue,Gene Expression Profiling,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C0947630,LOCATION_OF,Human tissue,Scientific Study,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440744,C1318793,LOCATION_OF,Human tissue,Immunofluorescent stain method,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0440744,C1449575,LOCATION_OF,Human tissue,Microarray Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440746,C0007584,LOCATION_OF,brain tissue surgical material,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0440746,C0026018,LOCATION_OF,brain tissue surgical material,Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440746,C0026019,LOCATION_OF,brain tissue surgical material,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440746,C0032102,LOCATION_OF,brain tissue surgical material,plaque assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440746,C0162801,LOCATION_OF,brain tissue surgical material,Sequence Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440746,C0200955,LOCATION_OF,brain tissue surgical material,Viral culture procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440746,C0430389,LOCATION_OF,brain tissue surgical material,Light Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440746,C0430420,LOCATION_OF,brain tissue surgical material,Antigen assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0440746,C0523207,LOCATION_OF,brain tissue surgical material,Hematoxylin and eosin stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0444079,C0007584,LOCATION_OF,Placental membrane tissue sample,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0444084,C0026018,LOCATION_OF,Cutaneous cytologic material,Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0444084,C0200970,LOCATION_OF,Cutaneous cytologic material,Potassium hydroxide stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0444094,C0427716,LOCATION_OF,Cyst tissue,"Protein concentration, test strip measurement",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0444184,C0007584,LOCATION_OF,Postmortem tissue sample,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0444184,C0026018,LOCATION_OF,Postmortem tissue sample,Microscopy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0444184,C0032102,LOCATION_OF,Postmortem tissue sample,plaque assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0444184,C0282649,LOCATION_OF,Postmortem tissue sample,"Fluorescent Antibody Technique, Direct",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0444184,C0919386,LOCATION_OF,Postmortem tissue sample,Pathology procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0444184,C0947630,LOCATION_OF,Postmortem tissue sample,Scientific Study,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0457457,C0007584,LOCATION_OF,biological tissue,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0457457,C0026019,LOCATION_OF,biological tissue,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0457457,C1518598,LOCATION_OF,biological tissue,Optical Methods,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0457457,C1705192,LOCATION_OF,biological tissue,Seeding,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0459875,C0007584,LOCATION_OF,Structure of corneal epithelium,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0475358,C0007584,LOCATION_OF,Tumor tissue sample,Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0475358,C0014441,LOCATION_OF,Tumor tissue sample,Enzyme-Linked Immunosorbent Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0475358,C0022885,LOCATION_OF,Tumor tissue sample,Laboratory Procedures,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0475358,C0200931,LOCATION_OF,Tumor tissue sample,Polymerase chain reaction analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0475358,C0200953,LOCATION_OF,Tumor tissue sample,Mycobacteria culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0475358,C0523207,LOCATION_OF,Tumor tissue sample,Hematoxylin and eosin stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0475358,C0600070,LOCATION_OF,Tumor tissue sample,Direct microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0475358,C0679560,LOCATION_OF,Tumor tissue sample,Genetic screening method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0475358,C0752248,LOCATION_OF,Tumor tissue sample,Gene Expression Profiling,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0475358,C0949466,LOCATION_OF,Tumor tissue sample,Western Blot,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0475358,C3811844,LOCATION_OF,Tumor tissue sample,Estimated Glomerular Filtration Rate,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0475358,C4050215,LOCATION_OF,Tumor tissue sample,Breast Cancer Type 1 Susceptibility Protein Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586519,C0022885,LOCATION_OF,Specimen from breast,Laboratory Procedures,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586519,C1510438,LOCATION_OF,Specimen from breast,Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586537,C0200955,LOCATION_OF,Skin biopsy sample,Viral culture procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586651,C0019637,LOCATION_OF,Specimen from lung obtained by biopsy,Histological Techniques,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0586651,C0026019,LOCATION_OF,Specimen from lung obtained by biopsy,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586656,C0523207,LOCATION_OF,Nasal biopsy sample,Hematoxylin and eosin stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586688,C0019637,LOCATION_OF,Tissue specimen from liver,Histological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586688,C0020985,LOCATION_OF,Tissue specimen from liver,Immunoblotting,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586688,C0200955,LOCATION_OF,Tissue specimen from liver,Viral culture procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586688,C0242831,LOCATION_OF,Tissue specimen from liver,Epitope Mapping,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586689,C0019637,LOCATION_OF,Liver biopsy sample,Histological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586689,C0026019,LOCATION_OF,Liver biopsy sample,Electron Microscopy,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0586689,C0430389,LOCATION_OF,Liver biopsy sample,Light Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586689,C0812425,LOCATION_OF,Liver biopsy sample,S-Phase Fraction,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586698,C0022885,LOCATION_OF,Gastric biopsy sample,Laboratory Procedures,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586698,C0585237,LOCATION_OF,Gastric biopsy sample,CLO test for helicobacter pylori,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586704,C0019637,LOCATION_OF,Duodenal biopsy sample,Histological Techniques,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0586708,C0026019,LOCATION_OF,Jejunal biopsy sample,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586716,C0019637,LOCATION_OF,Colonic biopsy sample,Histological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586716,C1510438,LOCATION_OF,Colonic biopsy sample,Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586763,C0430389,LOCATION_OF,Kidney biopsy sample,Light Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0586827,C0007584,LOCATION_OF,Skeletal tissue,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0586999,C0368993,LOCATION_OF,Vein sample,Colony count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0596638,C0007584,LOCATION_OF,Gut associated lymphoid tissue,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0599331,C0007584,LOCATION_OF,Nasal Epithelium,Cell Count,tisu,lbpr,15,LOCATION_OF_TISUlocfLBPR
+C0599331,C0085194,LOCATION_OF,Nasal Epithelium,Negative Staining,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0599331,C0428295,LOCATION_OF,Nasal Epithelium,Cystic fibrosis sweat test,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0599331,C0947630,LOCATION_OF,Nasal Epithelium,Scientific Study,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0599331,C1261149,LOCATION_OF,Nasal Epithelium,Viral antigen assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0599331,C1327760,LOCATION_OF,Nasal Epithelium,Proteomic Profiling,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0599332,C0007584,LOCATION_OF,Olfactory Epithelium,Cell Count,tisu,lbpr,18,LOCATION_OF_TISUlocfLBPR
+C0599332,C0014441,LOCATION_OF,Olfactory Epithelium,Enzyme-Linked Immunosorbent Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0599332,C0026040,LOCATION_OF,Olfactory Epithelium,Microtomy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0599332,C4318762,LOCATION_OF,Olfactory Epithelium,Leukemia Inhibitory Factor Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0677862,C0007584,LOCATION_OF,Biopsy sample,Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0677862,C0019637,LOCATION_OF,Biopsy sample,Histological Techniques,tisu,lbpr,8,LOCATION_OF_TISUlocfLBPR
+C0677862,C0022885,LOCATION_OF,Biopsy sample,Laboratory Procedures,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0677862,C0026018,LOCATION_OF,Biopsy sample,Microscopy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0677862,C0026019,LOCATION_OF,Biopsy sample,Electron Microscopy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0677862,C0200931,LOCATION_OF,Biopsy sample,Polymerase chain reaction analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0677862,C0200932,LOCATION_OF,Biopsy sample,Nucleic Acid Amplification Tests,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0677862,C0200954,LOCATION_OF,Biopsy sample,Mycology culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0677862,C0200955,LOCATION_OF,Biopsy sample,Viral culture procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0677862,C0430389,LOCATION_OF,Biopsy sample,Light Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0677862,C0430414,LOCATION_OF,Biopsy sample,Stool culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0677862,C0678118,LOCATION_OF,Biopsy sample,Transmission Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0677862,C1294356,LOCATION_OF,Biopsy sample,Detection of virus procedure,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0682560,C0007584,LOCATION_OF,Lamellar bone,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682575,C0007584,LOCATION_OF,Multilaminar epithelium,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682576,C0007584,LOCATION_OF,ciliated epithelium,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0682576,C0026019,LOCATION_OF,ciliated epithelium,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682576,C0029205,LOCATION_OF,ciliated epithelium,Organ Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682707,C0007584,LOCATION_OF,CNS tissue,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0682707,C0019637,LOCATION_OF,CNS tissue,Histological Techniques,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0682707,C0022885,LOCATION_OF,CNS tissue,Laboratory Procedures,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682707,C0026019,LOCATION_OF,CNS tissue,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682707,C0162621,LOCATION_OF,CNS tissue,Titration Method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682707,C0202205,LOCATION_OF,CNS tissue,Oligoclonal protein measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682707,C2825900,LOCATION_OF,CNS tissue,Monocyte Chemotactic Protein 1 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682707,C3641614,LOCATION_OF,CNS tissue,CD3 Cell to Lymphocyte Ratio Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682707,C3812195,LOCATION_OF,CNS tissue,Chemokine (C-X-C Motif) Ligand 10 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682708,C0007584,LOCATION_OF,White matter,Cell Count,tisu,lbpr,40,LOCATION_OF_TISUlocfLBPR
+C0682708,C0031753,LOCATION_OF,White matter,Photomicrography,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682708,C0200676,LOCATION_OF,White matter,"Iron stain method, blood or bone marrow",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682708,C0947630,LOCATION_OF,White matter,Scientific Study,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0682708,C1318786,LOCATION_OF,White matter,Fluorescent stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0684084,C0007584,LOCATION_OF,Skin tissue,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0751974,C0007584,LOCATION_OF,Respiratory Mucosa,Cell Count,tisu,lbpr,7,LOCATION_OF_TISUlocfLBPR
+C0771377,C0007584,LOCATION_OF,Spleen Tissue,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0771377,C0598888,LOCATION_OF,Spleen Tissue,Gene Cloning,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0005863,LOCATION_OF,Structure of parenchyma of lung,Western Blotting,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0007584,LOCATION_OF,Structure of parenchyma of lung,Cell Count,tisu,lbpr,56,LOCATION_OF_TISUlocfLBPR
+C0819757,C0007616,LOCATION_OF,Structure of parenchyma of lung,Cell Separation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0008550,LOCATION_OF,Structure of parenchyma of lung,Chromatography,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0010405,LOCATION_OF,Structure of parenchyma of lung,Cryopreservation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0014441,LOCATION_OF,Structure of parenchyma of lung,Enzyme-Linked Immunosorbent Assay,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0819757,C0016263,LOCATION_OF,Structure of parenchyma of lung,Flow Cytometry,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0819757,C0016318,LOCATION_OF,Structure of parenchyma of lung,Fluorescent Antibody Technique,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0819757,C0019637,LOCATION_OF,Structure of parenchyma of lung,Histological Techniques,tisu,lbpr,18,LOCATION_OF_TISUlocfLBPR
+C0819757,C0020985,LOCATION_OF,Structure of parenchyma of lung,Immunoblotting,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0819757,C0023508,LOCATION_OF,Structure of parenchyma of lung,White Blood Cell Count procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0026018,LOCATION_OF,Structure of parenchyma of lung,Microscopy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0819757,C0026019,LOCATION_OF,Structure of parenchyma of lung,Electron Microscopy,tisu,lbpr,13,LOCATION_OF_TISUlocfLBPR
+C0819757,C0031753,LOCATION_OF,Structure of parenchyma of lung,Photomicrography,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0819757,C0032102,LOCATION_OF,Structure of parenchyma of lung,plaque assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0040284,LOCATION_OF,Structure of parenchyma of lung,Tissue culture,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0819757,C0041609,LOCATION_OF,Structure of parenchyma of lung,Ultracentrifugation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0079240,LOCATION_OF,Structure of parenchyma of lung,Dilution technique,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0079611,LOCATION_OF,Structure of parenchyma of lung,Immunophenotyping,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0162621,LOCATION_OF,Structure of parenchyma of lung,Titration Method,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0819757,C0162801,LOCATION_OF,Structure of parenchyma of lung,Sequence Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0178539,LOCATION_OF,Structure of parenchyma of lung,Cellular,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0819757,C0200633,LOCATION_OF,Structure of parenchyma of lung,Neutrophil count (procedure),tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0819757,C0200931,LOCATION_OF,Structure of parenchyma of lung,Polymerase chain reaction analysis,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C0819757,C0200955,LOCATION_OF,Structure of parenchyma of lung,Viral culture procedure,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0819757,C0201253,LOCATION_OF,Structure of parenchyma of lung,Colony count on plate,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0819757,C0201950,LOCATION_OF,Structure of parenchyma of lung,Cholesterol measurement test,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0282648,LOCATION_OF,Structure of parenchyma of lung,Direct immunofluorescence,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0369671,LOCATION_OF,Structure of parenchyma of lung,Microscopic observation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0430389,LOCATION_OF,Structure of parenchyma of lung,Light Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0430402,LOCATION_OF,Structure of parenchyma of lung,Bacterial culture (procedure),tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0819757,C0430420,LOCATION_OF,Structure of parenchyma of lung,Antigen assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0441073,LOCATION_OF,Structure of parenchyma of lung,Bright field,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0523203,LOCATION_OF,Structure of parenchyma of lung,Toluidine blue stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0523207,LOCATION_OF,Structure of parenchyma of lung,Hematoxylin and eosin stain method,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C0819757,C0523459,LOCATION_OF,Structure of parenchyma of lung,Alanine measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0544711,LOCATION_OF,Structure of parenchyma of lung,Autofluorescence,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0597452,LOCATION_OF,Structure of parenchyma of lung,Single-Cell Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0752248,LOCATION_OF,Structure of parenchyma of lung,Gene Expression Profiling,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0819757,C0919386,LOCATION_OF,Structure of parenchyma of lung,Pathology procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C0947630,LOCATION_OF,Structure of parenchyma of lung,Scientific Study,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0819757,C0949466,LOCATION_OF,Structure of parenchyma of lung,Western Blot,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C1261478,LOCATION_OF,Structure of parenchyma of lung,Viral load measurement,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0819757,C1272318,LOCATION_OF,Structure of parenchyma of lung,Presence of virus (procedure),tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C1285573,LOCATION_OF,Structure of parenchyma of lung,Genotype determination,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C1294356,LOCATION_OF,Structure of parenchyma of lung,Detection of virus procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C1318793,LOCATION_OF,Structure of parenchyma of lung,Immunofluorescent stain method,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C0819757,C1449575,LOCATION_OF,Structure of parenchyma of lung,Microarray Analysis,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0819757,C1449619,LOCATION_OF,Structure of parenchyma of lung,Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C1510438,LOCATION_OF,Structure of parenchyma of lung,Assay,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C0819757,C1513388,LOCATION_OF,Structure of parenchyma of lung,Molecular Diagnosis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C1705192,LOCATION_OF,Structure of parenchyma of lung,Seeding,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C1707759,LOCATION_OF,Structure of parenchyma of lung,Direct Fluorescent Antibody Test,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C1707903,LOCATION_OF,Structure of parenchyma of lung,Embedding,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C2697666,LOCATION_OF,Structure of parenchyma of lung,Immunoenzyme Procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C2825900,LOCATION_OF,Structure of parenchyma of lung,Monocyte Chemotactic Protein 1 Measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0819757,C3812195,LOCATION_OF,Structure of parenchyma of lung,Chemokine (C-X-C Motif) Ligand 10 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0819757,C3815172,LOCATION_OF,Structure of parenchyma of lung,Interleukin 1 Beta Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0836131,C0007584,LOCATION_OF,Stratified squamous epithelium,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0836205,C0007584,LOCATION_OF,Gut Epithelium,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C0836205,C0026018,LOCATION_OF,Gut Epithelium,Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0836205,C1318793,LOCATION_OF,Gut Epithelium,Immunofluorescent stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0872050,C1285572,LOCATION_OF,Human Fetal Tissue,Phenotype determination,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C0920840,C0007584,LOCATION_OF,Epithelium of vagina,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C0932418,C0814048,LOCATION_OF,Ciliated columnar epithelium,Cytometry,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179002,C0007584,LOCATION_OF,Epithelium of trachea,Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C1179002,C0029205,LOCATION_OF,Epithelium of trachea,Organ Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179028,C3827024,LOCATION_OF,Endothelium of sinusoid,Colony-Forming Unit-Fibroblasts,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179037,C0007584,LOCATION_OF,Epithelium of conjunctiva,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179154,C0007584,LOCATION_OF,Gingival epithelium,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179187,C0007584,LOCATION_OF,Lamina Propria,Cell Count,tisu,lbpr,114,LOCATION_OF_TISUlocfLBPR
+C1179187,C0007585,LOCATION_OF,Lamina Propria,Cell Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179187,C0019637,LOCATION_OF,Lamina Propria,Histological Techniques,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1179187,C0026019,LOCATION_OF,Lamina Propria,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179187,C0178539,LOCATION_OF,Lamina Propria,Cellular,tisu,lbpr,7,LOCATION_OF_TISUlocfLBPR
+C1179187,C0200635,LOCATION_OF,Lamina Propria,Lymphocyte Count measurement,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1179187,C0523205,LOCATION_OF,Lamina Propria,Giemsa stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179187,C0523213,LOCATION_OF,Lamina Propria,Periodic acid Schiff stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179187,C0581142,LOCATION_OF,Lamina Propria,Plasma cell count procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179187,C0812425,LOCATION_OF,Lamina Propria,S-Phase Fraction,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179187,C0920433,LOCATION_OF,Lamina Propria,cell preparation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179187,C1285572,LOCATION_OF,Lamina Propria,Phenotype determination,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179187,C2698029,LOCATION_OF,Lamina Propria,Mature Plasma Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179187,C3641616,LOCATION_OF,Lamina Propria,CD4 Cell to Lymphocyte Ratio Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179418,C0007584,LOCATION_OF,Bronchial-associated lymphoid tissue,Cell Count,tisu,lbpr,15,LOCATION_OF_TISUlocfLBPR
+C1179418,C1510438,LOCATION_OF,Bronchial-associated lymphoid tissue,Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179418,C3641614,LOCATION_OF,Bronchial-associated lymphoid tissue,CD3 Cell to Lymphocyte Ratio Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179418,C4317078,LOCATION_OF,Bronchial-associated lymphoid tissue,Mycobacterium Tuberculosis Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179456,C0007584,LOCATION_OF,Inner muscle layer,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1179826,C0010818,LOCATION_OF,Prostatic epithelium,Cytological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1180138,C0007584,LOCATION_OF,Principal tissue,Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C1180138,C1328957,LOCATION_OF,Principal tissue,Tissue Processing,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1180138,C1449562,LOCATION_OF,Principal tissue,Primary Cell Culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1180138,C1511554,LOCATION_OF,Principal tissue,Culture Setup,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1185706,C0007584,LOCATION_OF,Fibrous membrane,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1185706,C1510438,LOCATION_OF,Fibrous membrane,Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1185706,C4528662,LOCATION_OF,Fibrous membrane,Crystallinity,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1254021,C0430402,LOCATION_OF,Media layer,Bacterial culture (procedure),tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1256463,C3641616,LOCATION_OF,Intima,CD4 Cell to Lymphocyte Ratio Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1256463,C4288189,LOCATION_OF,Intima,Staining Intensity,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1267092,C0007584,LOCATION_OF,Smooth muscle (tissue),Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1267092,C0947630,LOCATION_OF,Smooth muscle (tissue),Scientific Study,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1267092,C1449562,LOCATION_OF,Smooth muscle (tissue),Primary Cell Culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1267092,C3811388,LOCATION_OF,Smooth muscle (tissue),Platelet Activating Factor Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1272575,C0007584,LOCATION_OF,Heart tissue,Cell Count,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C1272575,C0019637,LOCATION_OF,Heart tissue,Histological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1272575,C0752248,LOCATION_OF,Heart tissue,Gene Expression Profiling,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1272575,C1261478,LOCATION_OF,Heart tissue,Viral load measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1272575,C1318793,LOCATION_OF,Heart tissue,Immunofluorescent stain method,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1272575,C1449575,LOCATION_OF,Heart tissue,Microarray Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1272575,C1510438,LOCATION_OF,Heart tissue,Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1272575,C2698870,LOCATION_OF,Heart tissue,Precursor Plasma Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1272575,C4525800,LOCATION_OF,Heart tissue,Troponin I Type 1 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1272575,C4724157,LOCATION_OF,Heart tissue,Human Parvovirus B19 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1282402,C0007584,LOCATION_OF,Skin layer,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1282402,C0200760,LOCATION_OF,Skin layer,Morphometric analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1282725,C0007584,LOCATION_OF,Entire transplanted bone marrow,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1284837,C0007584,LOCATION_OF,Entire body tissue,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0005863,LOCATION_OF,Tissue specimen,Western Blotting,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0007584,LOCATION_OF,Tissue specimen,Cell Count,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C1292533,C0007585,LOCATION_OF,Tissue specimen,Cell Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0016318,LOCATION_OF,Tissue specimen,Fluorescent Antibody Technique,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0019637,LOCATION_OF,Tissue specimen,Histological Techniques,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C1292533,C0021067,LOCATION_OF,Tissue specimen,Immunoperoxidase Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0022885,LOCATION_OF,Tissue specimen,Laboratory Procedures,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0023508,LOCATION_OF,Tissue specimen,White Blood Cell Count procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0026018,LOCATION_OF,Tissue specimen,Microscopy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1292533,C0026019,LOCATION_OF,Tissue specimen,Electron Microscopy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1292533,C0026040,LOCATION_OF,Tissue specimen,Microtomy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1292533,C0032102,LOCATION_OF,Tissue specimen,plaque assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0037812,LOCATION_OF,Tissue specimen,Spectrum Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0040284,LOCATION_OF,Tissue specimen,Tissue culture,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1292533,C0079240,LOCATION_OF,Tissue specimen,Dilution technique,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0079611,LOCATION_OF,Tissue specimen,Immunophenotyping,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0085185,LOCATION_OF,Tissue specimen,Paraffin Embedding,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0085188,LOCATION_OF,Tissue specimen,Cryoultramicrotomy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0162801,LOCATION_OF,Tissue specimen,Sequence Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0200931,LOCATION_OF,Tissue specimen,Polymerase chain reaction analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0200932,LOCATION_OF,Tissue specimen,Nucleic Acid Amplification Tests,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0200955,LOCATION_OF,Tissue specimen,Viral culture procedure,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C1292533,C0282648,LOCATION_OF,Tissue specimen,Direct immunofluorescence,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C0949466,LOCATION_OF,Tissue specimen,Western Blot,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C1285573,LOCATION_OF,Tissue specimen,Genotype determination,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C1319309,LOCATION_OF,Tissue specimen,Hematoxylin stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C1441554,LOCATION_OF,Tissue specimen,Direct assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C1449575,LOCATION_OF,Tissue specimen,Microarray Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C1510438,LOCATION_OF,Tissue specimen,Assay,tisu,lbpr,13,LOCATION_OF_TISUlocfLBPR
+C1292533,C2733022,LOCATION_OF,Tissue specimen,Quantitative PCR analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C4721550,LOCATION_OF,Tissue specimen,Cell Culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1292533,C4722316,LOCATION_OF,Tissue specimen,Proximity Ligation Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1299267,C0007584,LOCATION_OF,Pulmonary artery blood,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1304649,C0007584,LOCATION_OF,Tissue fiber,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1304649,C0008550,LOCATION_OF,Tissue fiber,Chromatography,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1304649,C0206055,LOCATION_OF,Tissue fiber,"Spectroscopy, Fourier Transform Infrared",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1304649,C0678118,LOCATION_OF,Tissue fiber,Transmission Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1304649,C0871511,LOCATION_OF,Tissue fiber,Test Method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1304649,C1707903,LOCATION_OF,Tissue fiber,Embedding,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1304649,C2699997,LOCATION_OF,Tissue fiber,Energy Dispersive Spectroscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1304649,C4528662,LOCATION_OF,Tissue fiber,Crystallinity,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1511191,C0007584,LOCATION_OF,Mouse Bladder,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1511225,C0014441,LOCATION_OF,Mouse Blood,Enzyme-Linked Immunosorbent Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1511225,C0026006,LOCATION_OF,Mouse Blood,Micronucleus Tests,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1511225,C0474643,LOCATION_OF,Mouse Blood,Antibody titer measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1511225,C0752248,LOCATION_OF,Mouse Blood,Gene Expression Profiling,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1511243,C0007584,LOCATION_OF,Mouse Bone Marrow,Cell Count,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C1511243,C0007585,LOCATION_OF,Mouse Bone Marrow,Cell Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1511243,C0026006,LOCATION_OF,Mouse Bone Marrow,Micronucleus Tests,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1511565,C0007584,LOCATION_OF,Curved Tube,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1512159,C0022885,LOCATION_OF,Mouse Ear,Laboratory Procedures,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1512159,C1510438,LOCATION_OF,Mouse Ear,Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1512359,C0007584,LOCATION_OF,Mouse Heart,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1512872,C0007584,LOCATION_OF,Internal granular layer of cerebral cortex,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1512909,C0007584,LOCATION_OF,Mouse Intestine,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1512909,C0085188,LOCATION_OF,Mouse Intestine,Cryoultramicrotomy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1512987,C0007584,LOCATION_OF,Mantle Zone,Cell Count,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C1513763,C0007584,LOCATION_OF,Mouse Muscle,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1513763,C0085188,LOCATION_OF,Mouse Muscle,Cryoultramicrotomy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1513763,C0206691,LOCATION_OF,Mouse Muscle,Electroporation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1513763,C0242842,LOCATION_OF,Mouse Muscle,"Microscopy, Confocal",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1513763,C1261478,LOCATION_OF,Mouse Muscle,Viral load measurement,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1514123,C0007584,LOCATION_OF,Mouse Nerve,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1514521,C1510438,LOCATION_OF,Prostatic Tissue,Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1514590,C0007584,LOCATION_OF,Pseudostratified Epithelium,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1514590,C0040284,LOCATION_OF,Pseudostratified Epithelium,Tissue culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1514845,C0007584,LOCATION_OF,Renal Tissue,Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C1514845,C0026019,LOCATION_OF,Renal Tissue,Electron Microscopy,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1514845,C0040284,LOCATION_OF,Renal Tissue,Tissue culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1514845,C0200955,LOCATION_OF,Renal Tissue,Viral culture procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1514845,C0428568,LOCATION_OF,Renal Tissue,Fasting blood glucose measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1514845,C0752248,LOCATION_OF,Renal Tissue,Gene Expression Profiling,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1514845,C0947630,LOCATION_OF,Renal Tissue,Scientific Study,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1514845,C1285573,LOCATION_OF,Renal Tissue,Genotype determination,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1514845,C1293992,LOCATION_OF,Renal Tissue,Jones methenamine stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1514845,C1294356,LOCATION_OF,Renal Tissue,Detection of virus procedure,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1515300,C0007584,LOCATION_OF,Testicular Tissue,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1515300,C0010405,LOCATION_OF,Testicular Tissue,Cryopreservation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1515300,C0016318,LOCATION_OF,Testicular Tissue,Fluorescent Antibody Technique,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1515315,C0007584,LOCATION_OF,Mouse Testis,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1515438,C0007584,LOCATION_OF,Mouse Thymus,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1516828,C0007584,LOCATION_OF,Mouse Embryonic Fibroblast,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1516828,C0032102,LOCATION_OF,Mouse Embryonic Fibroblast,plaque assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1516828,C1510438,LOCATION_OF,Mouse Embryonic Fibroblast,Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1516923,C0007584,LOCATION_OF,Mouse Epididymis,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1516966,C0019637,LOCATION_OF,Esophageal Tissue,Histological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1517039,C0007584,LOCATION_OF,External granular layer of cerebral cortex,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1517447,C0007584,LOCATION_OF,Internal pyramidal layer of cerebral cortex,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1517454,C4284307,LOCATION_OF,Gastric Tissue,RNA Isolation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1517534,C0007584,LOCATION_OF,Germinal Epithelium,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1517673,C0007584,LOCATION_OF,Mouse Kidney,Cell Count,tisu,lbpr,8,LOCATION_OF_TISUlocfLBPR
+C1517673,C0598304,LOCATION_OF,Mouse Kidney,Microdissection,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1517914,C0007584,LOCATION_OF,Mouse Liver,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1517914,C0014441,LOCATION_OF,Mouse Liver,Enzyme-Linked Immunosorbent Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1517914,C0016263,LOCATION_OF,Mouse Liver,Flow Cytometry,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1517914,C0026040,LOCATION_OF,Mouse Liver,Microtomy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1517914,C3641250,LOCATION_OF,Mouse Liver,Hepatitis B DNA Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1518039,C0005861,LOCATION_OF,Mouse Lung,Northern Blotting,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1518039,C0005863,LOCATION_OF,Mouse Lung,Western Blotting,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1518039,C0007584,LOCATION_OF,Mouse Lung,Cell Count,tisu,lbpr,15,LOCATION_OF_TISUlocfLBPR
+C1518039,C0007585,LOCATION_OF,Mouse Lung,Cell Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1518039,C0016263,LOCATION_OF,Mouse Lung,Flow Cytometry,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1518039,C0026018,LOCATION_OF,Mouse Lung,Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1518039,C0031753,LOCATION_OF,Mouse Lung,Photomicrography,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1518039,C0040284,LOCATION_OF,Mouse Lung,Tissue culture,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1518039,C0523207,LOCATION_OF,Mouse Lung,Hematoxylin and eosin stain method,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1518039,C0752248,LOCATION_OF,Mouse Lung,Gene Expression Profiling,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C1518047,C0007584,LOCATION_OF,Mouse Lymph Node,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1518744,C0007584,LOCATION_OF,Ovarian Tissue,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1518744,C0010405,LOCATION_OF,Ovarian Tissue,Cryopreservation,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C1518744,C0200665,LOCATION_OF,Ovarian Tissue,Platelet mean volume determination (procedure),tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1518865,C0007584,LOCATION_OF,Mouse Pancreas,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1518970,C0007584,LOCATION_OF,Periarteriolar Lymphoid Sheath,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1519012,C0007584,LOCATION_OF,Mouse Peritoneum,Cell Count,tisu,lbpr,9,LOCATION_OF_TISUlocfLBPR
+C1519352,C0007584,LOCATION_OF,Mouse Skin,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1519474,C0007584,LOCATION_OF,Mouse Spleen,Cell Count,tisu,lbpr,58,LOCATION_OF_TISUlocfLBPR
+C1519474,C0007585,LOCATION_OF,Mouse Spleen,Cell Culture Techniques,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1519474,C2363836,LOCATION_OF,Mouse Spleen,Natural Killer Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1519521,C0020985,LOCATION_OF,Fresh Tissue,Immunoblotting,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1519521,C0022885,LOCATION_OF,Fresh Tissue,Laboratory Procedures,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1519521,C0947630,LOCATION_OF,Fresh Tissue,Scientific Study,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1519524,C0007584,LOCATION_OF,Paraffin Embedded Tissue,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1519524,C0019635,LOCATION_OF,Paraffin Embedded Tissue,Histocytochemistry,tisu,lbpr,5,LOCATION_OF_TISUlocfLBPR
+C1519524,C0021067,LOCATION_OF,Paraffin Embedded Tissue,Immunoperoxidase Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1519524,C0026040,LOCATION_OF,Paraffin Embedded Tissue,Microtomy,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1519524,C0200932,LOCATION_OF,Paraffin Embedded Tissue,Nucleic Acid Amplification Tests,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1519524,C0430389,LOCATION_OF,Paraffin Embedded Tissue,Light Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1519524,C0523207,LOCATION_OF,Paraffin Embedded Tissue,Hematoxylin and eosin stain method,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1519524,C1510438,LOCATION_OF,Paraffin Embedded Tissue,Assay,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1519547,C0949466,LOCATION_OF,Tonsillar Tissue,Western Blot,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1519547,C1294356,LOCATION_OF,Tonsillar Tissue,Detection of virus procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1519575,C0029205,LOCATION_OF,Mouse Trachea,Organ Culture Techniques,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1521713,C0007584,LOCATION_OF,CNS - Brain (MMHCC),Cell Count,tisu,lbpr,36,LOCATION_OF_TISUlocfLBPR
+C1521713,C0007585,LOCATION_OF,CNS - Brain (MMHCC),Cell Culture Techniques,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1521713,C0016318,LOCATION_OF,CNS - Brain (MMHCC),Fluorescent Antibody Technique,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1521713,C0026040,LOCATION_OF,CNS - Brain (MMHCC),Microtomy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1521713,C0201950,LOCATION_OF,CNS - Brain (MMHCC),Cholesterol measurement test,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1521713,C0523207,LOCATION_OF,CNS - Brain (MMHCC),Hematoxylin and eosin stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1521713,C0596795,LOCATION_OF,CNS - Brain (MMHCC),Intravital Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1521713,C1449575,LOCATION_OF,CNS - Brain (MMHCC),Microarray Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1521713,C1510438,LOCATION_OF,CNS - Brain (MMHCC),Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1521713,C1656251,LOCATION_OF,CNS - Brain (MMHCC),subcellular fractionation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1521713,C2825900,LOCATION_OF,CNS - Brain (MMHCC),Monocyte Chemotactic Protein 1 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1521713,C3829129,LOCATION_OF,CNS - Brain (MMHCC),Meningeal Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1521713,C4721550,LOCATION_OF,CNS - Brain (MMHCC),Cell Culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1521747,C0430402,LOCATION_OF,Mammary Gland Parenchyma,Bacterial culture (procedure),tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1521867,C0007584,LOCATION_OF,Exudate (MMHCC),Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C1521998,C0007584,LOCATION_OF,CNS - Brain - Striatum (MMHCC),Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522009,C0200665,LOCATION_OF,Stool (MMHCC),Platelet mean volume determination (procedure),tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522062,C1510438,LOCATION_OF,Liver - Hepatocyte (MMHCC),Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522170,C0007584,LOCATION_OF,Lung - Bronchiole (MMHCC),Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1522255,C0007584,LOCATION_OF,Placenta - Trophoblast (MMHCC),Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522258,C0007584,LOCATION_OF,Muscle - Smooth (MMHCC),Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522272,C0007584,LOCATION_OF,Kidney - Cortex - Renal Tubule (MMHCC),Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522272,C0598304,LOCATION_OF,Kidney - Cortex - Renal Tubule (MMHCC),Microdissection,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522281,C0007584,LOCATION_OF,Intestine - Large Intestine - Colon (MMHCC),Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522513,C0007584,LOCATION_OF,Intestine - Large Intestine - Rectum (MMHCC),Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522514,C2825900,LOCATION_OF,Ear - Inner Ear/ Cochlea (MMHCC),Monocyte Chemotactic Protein 1 Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522516,C0026018,LOCATION_OF,Intestine - Small Intestine - Ileum (MMHCC),Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522579,C0007584,LOCATION_OF,CNS - Brain - Cerebrum/Cortex (MMHCC),Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522592,C0007584,LOCATION_OF,CNS - Spinal Cord (MMHCC),Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522642,C0007584,LOCATION_OF,Clone,Cell Count,tisu,lbpr,19,LOCATION_OF_TISUlocfLBPR
+C1522642,C0007594,LOCATION_OF,Clone,Cell fusion procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522642,C0035269,LOCATION_OF,Clone,Restriction Mapping,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522642,C0040284,LOCATION_OF,Clone,Tissue culture,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1522642,C0079240,LOCATION_OF,Clone,Dilution technique,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1522642,C0085117,LOCATION_OF,Clone,"Electrophoresis, Gel, Pulsed-Field",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522642,C0162801,LOCATION_OF,Clone,Sequence Analysis,tisu,lbpr,31,LOCATION_OF_TISUlocfLBPR
+C1522642,C0206691,LOCATION_OF,Clone,Electroporation,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522642,C0598888,LOCATION_OF,Clone,Gene Cloning,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522642,C0599927,LOCATION_OF,Clone,southern hybridization,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522642,C0949466,LOCATION_OF,Clone,Western Blot,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522642,C1510438,LOCATION_OF,Clone,Assay,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1522642,C1705192,LOCATION_OF,Clone,Seeding,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522642,C3146302,LOCATION_OF,Clone,Mutagenesis Procedure,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1522730,C0007584,LOCATION_OF,CNS (MMHCC),Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1522730,C0040284,LOCATION_OF,CNS (MMHCC),Tissue culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1523991,C1510438,LOCATION_OF,Urine (MMHCC),Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1706784,C0007584,LOCATION_OF,Alveolar Septum,Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C1707510,C0007584,LOCATION_OF,Convoluted Tubule,Cell Count,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C1708239,C0007584,LOCATION_OF,Germinal Layer,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1709151,C0007584,LOCATION_OF,Nasal Cavity Epithelium,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C1709151,C0029205,LOCATION_OF,Nasal Cavity Epithelium,Organ Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1710158,C0007584,LOCATION_OF,Splenic Marginal Zone,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C1711208,C0007584,LOCATION_OF,Bile Duct Epithelium,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1711368,C0007584,LOCATION_OF,Marginal Zone,Cell Count,tisu,lbpr,13,LOCATION_OF_TISUlocfLBPR
+C1955394,C0007584,LOCATION_OF,Tissue specific,Cell Count,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C1955394,C0020980,LOCATION_OF,Tissue specific,Immunoassay method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C1955394,C0022885,LOCATION_OF,Tissue specific,Laboratory Procedures,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0007584,LOCATION_OF,Tissue section,Cell Count,tisu,lbpr,18,LOCATION_OF_TISUlocfLBPR
+C2316368,C0007585,LOCATION_OF,Tissue section,Cell Culture Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0010818,LOCATION_OF,Tissue section,Cytological Techniques,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0014441,LOCATION_OF,Tissue section,Enzyme-Linked Immunosorbent Assay,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0014772,LOCATION_OF,Tissue section,Red Blood Cell Count measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0016318,LOCATION_OF,Tissue section,Fluorescent Antibody Technique,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C2316368,C0019635,LOCATION_OF,Tissue section,Histocytochemistry,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0019637,LOCATION_OF,Tissue section,Histological Techniques,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C2316368,C0021067,LOCATION_OF,Tissue section,Immunoperoxidase Techniques,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C2316368,C0022885,LOCATION_OF,Tissue section,Laboratory Procedures,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C2316368,C0026018,LOCATION_OF,Tissue section,Microscopy,tisu,lbpr,6,LOCATION_OF_TISUlocfLBPR
+C2316368,C0026019,LOCATION_OF,Tissue section,Electron Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0026022,LOCATION_OF,Tissue section,"Microscopy, Fluorescence",tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C2316368,C0031753,LOCATION_OF,Tissue section,Photomicrography,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0200688,LOCATION_OF,Tissue section,Immunocytochemical stain,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C2316368,C0200955,LOCATION_OF,Tissue section,Viral culture procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0242349,LOCATION_OF,Tissue section,Immunocytochemistry,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0282646,LOCATION_OF,Tissue section,Indirect Immunofluorescence,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C2316368,C0282649,LOCATION_OF,Tissue section,"Fluorescent Antibody Technique, Direct",tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0430385,LOCATION_OF,Tissue section,Sample macroscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0430389,LOCATION_OF,Tissue section,Light Microscopy,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0457437,LOCATION_OF,Tissue section,Microscopy technique,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0487602,LOCATION_OF,Tissue section,Staining method,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C2316368,C0523207,LOCATION_OF,Tissue section,Hematoxylin and eosin stain method,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C2316368,C0544711,LOCATION_OF,Tissue section,Autofluorescence,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C2316368,C0554818,LOCATION_OF,Tissue section,Double test,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0597717,LOCATION_OF,Tissue section,Fluorescence Resonance Energy Transfer,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0598304,LOCATION_OF,Tissue section,Microdissection,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C0947630,LOCATION_OF,Tissue section,Scientific Study,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C2316368,C1293950,LOCATION_OF,Tissue section,Silver stain method,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C1318793,LOCATION_OF,Tissue section,Immunofluorescent stain method,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C2316368,C1319309,LOCATION_OF,Tissue section,Hematoxylin stain method,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C2316368,C1441648,LOCATION_OF,Tissue section,Microscopy.electron.thin section,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C1510438,LOCATION_OF,Tissue section,Assay,tisu,lbpr,4,LOCATION_OF_TISUlocfLBPR
+C2316368,C1710378,LOCATION_OF,Tissue section,Thaw,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C4288189,LOCATION_OF,Tissue section,Staining Intensity,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2316368,C4684951,LOCATION_OF,Tissue section,Formalin-Fixed Paraffin-Embedded,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C2698431,C0007584,LOCATION_OF,Nasal-Associated Lymphoid Tissue,Cell Count,tisu,lbpr,22,LOCATION_OF_TISUlocfLBPR
+C2698431,C4317078,LOCATION_OF,Nasal-Associated Lymphoid Tissue,Mycobacterium Tuberculosis Measurement,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2700415,C0007584,LOCATION_OF,Eye - Retina (MMHCC),Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2711421,C1294356,LOCATION_OF,Fresh tissue specimen,Detection of virus procedure,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2711483,C0200932,LOCATION_OF,Formalin-fixed paraffin-embedded tissue specimen,Nucleic Acid Amplification Tests,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C2826787,C0007584,LOCATION_OF,Crypt Epithelium,Cell Count,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR
+C3497612,C0007584,LOCATION_OF,spinal white matter,Cell Count,tisu,lbpr,3,LOCATION_OF_TISUlocfLBPR
+C3497612,C0016318,LOCATION_OF,spinal white matter,Fluorescent Antibody Technique,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C3686616,C0007584,LOCATION_OF,Structure of mesenteric adipose tissue,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C4253999,C0040284,LOCATION_OF,Nasopharyngeal lymphoid tissue,Tissue culture,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C4253999,C0947630,LOCATION_OF,Nasopharyngeal lymphoid tissue,Scientific Study,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C4298990,C0007584,LOCATION_OF,Oral tissue,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C4298990,C0597452,LOCATION_OF,Oral tissue,Single-Cell Analysis,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C4298990,C0752248,LOCATION_OF,Oral tissue,Gene Expression Profiling,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C4524575,C0007584,LOCATION_OF,Placenta Tissue without Amniotic Elements,Cell Count,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C4764221,C0005862,LOCATION_OF,Frozen Tissue,Southern blot assay (procedure),tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C4764221,C0020985,LOCATION_OF,Frozen Tissue,Immunoblotting,tisu,lbpr,1,LOCATION_OF_TISUlocfLBPR
+C4764221,C0022885,LOCATION_OF,Frozen Tissue,Laboratory Procedures,tisu,lbpr,2,LOCATION_OF_TISUlocfLBPR

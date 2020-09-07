@@ -1,0 +1,11 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0006826,C0596263,NEG_AFFECTS,Malignant Neoplasms,Carcinogenesis,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP
+C0006826,C0598934,NEG_AFFECTS,Malignant Neoplasms,tumor growth,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP
+C0007097,C0024121,NEG_AFFECTS,Carcinoma,Lung Neoplasms,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP
+C0027651,C0017636,NEG_AFFECTS,Neoplasms,Glioblastoma,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP
+C0027651,C0598934,NEG_AFFECTS,Neoplasms,tumor growth,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP
+C0178874,C0027651,NEG_AFFECTS,Tumor Progression,Neoplasms,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP
+C0345964,C0024121,NEG_AFFECTS,Adenoma of lung,Lung Neoplasms,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP
+C0376545,C0006826,NEG_AFFECTS,Hematologic Neoplasms,Malignant Neoplasms,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP
+C0596263,C0006826,NEG_AFFECTS,Carcinogenesis,Malignant Neoplasms,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP
+C0598934,C0027651,NEG_AFFECTS,tumor growth,Neoplasms,neop,neop,1,NEG_AFFECTS_NEOPnafctNEOP

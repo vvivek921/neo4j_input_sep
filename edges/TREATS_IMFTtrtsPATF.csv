@@ -1,0 +1,51 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0013990,TREATS,Immunologic Adjuvants,Pathological accumulation of air in tissues,imft,patf,4,TREATS_IMFTtrtsPATF
+C0001551,C0020517,TREATS,Immunologic Adjuvants,Hypersensitivity,imft,patf,1,TREATS_IMFTtrtsPATF
+C0001551,C0021368,TREATS,Immunologic Adjuvants,Inflammation,imft,patf,1,TREATS_IMFTtrtsPATF
+C0001551,C0043241,TREATS,Immunologic Adjuvants,Wound Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C0001551,C1155266,TREATS,Immunologic Adjuvants,Inflammatory Response,imft,patf,3,TREATS_IMFTtrtsPATF
+C0001551,C1373218,TREATS,Immunologic Adjuvants,Decreased Immunologic Activity [PE],imft,patf,1,TREATS_IMFTtrtsPATF
+C0001551,C1520005,TREATS,Immunologic Adjuvants,Viral Pathogenesis,imft,patf,1,TREATS_IMFTtrtsPATF
+C0001551,C3714514,TREATS,Immunologic Adjuvants,Infection,imft,patf,3,TREATS_IMFTtrtsPATF
+C0003320,C0020517,TREATS,Antigens,Hypersensitivity,imft,patf,2,TREATS_IMFTtrtsPATF
+C0003320,C0021368,TREATS,Antigens,Inflammation,imft,patf,1,TREATS_IMFTtrtsPATF
+C0003445,C0020517,TREATS,Antitoxins,Hypersensitivity,imft,patf,1,TREATS_IMFTtrtsPATF
+C0004632,C0004044,TREATS,Bacterial Vaccines,Asphyxia,imft,patf,1,TREATS_IMFTtrtsPATF
+C0004632,C3714514,TREATS,Bacterial Vaccines,Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C0005525,C0016470,TREATS,Biological Response Modifiers,Food Allergy,imft,patf,3,TREATS_IMFTtrtsPATF
+C0005525,C0020517,TREATS,Biological Response Modifiers,Hypersensitivity,imft,patf,4,TREATS_IMFTtrtsPATF
+C0005525,C0151526,TREATS,Biological Response Modifiers,Premature Birth,imft,patf,1,TREATS_IMFTtrtsPATF
+C0005525,C0341950,TREATS,Biological Response Modifiers,Severe pre-eclampsia,imft,patf,1,TREATS_IMFTtrtsPATF
+C0005525,C1155266,TREATS,Biological Response Modifiers,Inflammatory Response,imft,patf,3,TREATS_IMFTtrtsPATF
+C0005525,C1373218,TREATS,Biological Response Modifiers,Decreased Immunologic Activity [PE],imft,patf,1,TREATS_IMFTtrtsPATF
+C0005525,C3714514,TREATS,Biological Response Modifiers,Infection,imft,patf,6,TREATS_IMFTtrtsPATF
+C0021081,C0018188,TREATS,Immunosuppressive Agents,Granuloma,imft,patf,1,TREATS_IMFTtrtsPATF
+C0021081,C0243083,TREATS,Immunosuppressive Agents,associated disease,imft,patf,1,TREATS_IMFTtrtsPATF
+C0021081,C0301889,TREATS,Immunosuppressive Agents,Immune defect,imft,patf,1,TREATS_IMFTtrtsPATF
+C0021081,C0301948,TREATS,Immunosuppressive Agents,Chronic graft rejection,imft,patf,1,TREATS_IMFTtrtsPATF
+C0021081,C1373218,TREATS,Immunosuppressive Agents,Decreased Immunologic Activity [PE],imft,patf,1,TREATS_IMFTtrtsPATF
+C0021081,C3714514,TREATS,Immunosuppressive Agents,Infection,imft,patf,3,TREATS_IMFTtrtsPATF
+C0021403,C3714514,TREATS,Influenza virus vaccine,Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042211,C0242656,TREATS,"Vaccines, Attenuated",Disease Progression,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042211,C1520005,TREATS,"Vaccines, Attenuated",Viral Pathogenesis,imft,patf,2,TREATS_IMFTtrtsPATF
+C0042211,C3714514,TREATS,"Vaccines, Attenuated",Infection,imft,patf,2,TREATS_IMFTtrtsPATF
+C0042212,C1520005,TREATS,"Vaccines, Inactivated",Viral Pathogenesis,imft,patf,1,TREATS_IMFTtrtsPATF
+C0042212,C3714514,TREATS,"Vaccines, Inactivated",Infection,imft,patf,4,TREATS_IMFTtrtsPATF
+C0042742,C3714514,TREATS,Viral Vaccines,Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C0059586,C3714514,TREATS,Escherichia coli Vaccines,Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C0206255,C0242781,TREATS,Malaria Vaccines,disease transmission,imft,patf,1,TREATS_IMFTtrtsPATF
+C0206515,C3714514,TREATS,"Vaccines, Conjugate",Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C0376613,C0020517,TREATS,"Vaccines, DNA",Hypersensitivity,imft,patf,3,TREATS_IMFTtrtsPATF
+C0376613,C0243083,TREATS,"Vaccines, DNA",associated disease,imft,patf,1,TREATS_IMFTtrtsPATF
+C0376613,C3714514,TREATS,"Vaccines, DNA",Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C0770698,C1518304,TREATS,"Poliovirus vaccine, live",Neurotropism,imft,patf,1,TREATS_IMFTtrtsPATF
+C1519887,C1520005,TREATS,Vaccine Antigen,Viral Pathogenesis,imft,patf,1,TREATS_IMFTtrtsPATF
+C1579313,C3714514,TREATS,IMMUNE STIMULANTS,Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C1699926,C0015376,TREATS,fingolimod,Extravasation,imft,patf,1,TREATS_IMFTtrtsPATF
+C2825347,C0020517,TREATS,"immunoglobulin A, human",Hypersensitivity,imft,patf,1,TREATS_IMFTtrtsPATF
+C2825347,C0333547,TREATS,"immunoglobulin A, human",Multiple infarcts,imft,patf,1,TREATS_IMFTtrtsPATF
+C2825347,C3714514,TREATS,"immunoglobulin A, human",Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C3653320,C3714514,TREATS,Interleukin inhibitors,Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C3657824,C3714514,TREATS,siponimod,Infection,imft,patf,1,TREATS_IMFTtrtsPATF
+C4505398,C0020517,TREATS,Intranasal Live-Attenuated Influenza Vaccine,Hypersensitivity,imft,patf,1,TREATS_IMFTtrtsPATF
+C4505398,C0392707,TREATS,Intranasal Live-Attenuated Influenza Vaccine,Atopy,imft,patf,1,TREATS_IMFTtrtsPATF

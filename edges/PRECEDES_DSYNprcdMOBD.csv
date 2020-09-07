@@ -1,0 +1,58 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002395,C0497327,PRECEDES,Alzheimer's Disease,Dementia,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0003123,C0011581,PRECEDES,Anorexia,Depressive disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0004623,C0001973,PRECEDES,Bacterial Infections,"Alcoholic Intoxication, Chronic",dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0007785,C0003537,PRECEDES,Cerebral Infarction,Aphasia,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0009421,C0004352,PRECEDES,Comatose,Autistic Disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0009421,C0085628,PRECEDES,Comatose,Stupor,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0009450,C0038436,PRECEDES,Communicable Diseases,Post-Traumatic Stress Disorder,dsyn,mobd,2,PRECEDES_DSYNprcdMOBD
+C0010340,C0011206,PRECEDES,Critical Illness,Delirium,dsyn,mobd,2,PRECEDES_DSYNprcdMOBD
+C0010340,C0038436,PRECEDES,Critical Illness,Post-Traumatic Stress Disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0010340,C0338656,PRECEDES,Critical Illness,Impaired cognition,dsyn,mobd,8,PRECEDES_DSYNprcdMOBD
+C0010340,C2748208,PRECEDES,Critical Illness,Executive dysfunction,dsyn,mobd,2,PRECEDES_DSYNprcdMOBD
+C0011849,C0497327,PRECEDES,Diabetes Mellitus,Dementia,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0014038,C0338656,PRECEDES,Encephalitis,Impaired cognition,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0014378,C3887551,PRECEDES,Enterovirus Infections,Memory dysfunction,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0019163,C0038443,PRECEDES,Hepatitis B,"Stress, Psychological",dsyn,mobd,2,PRECEDES_DSYNprcdMOBD
+C0021400,C0011581,PRECEDES,Influenza,Depressive disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0021400,C0233514,PRECEDES,Influenza,Abnormal behavior,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0024117,C0497327,PRECEDES,Chronic Obstructive Airway Disease,Dementia,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0032285,C0011581,PRECEDES,Pneumonia,Depressive disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0035222,C0038436,PRECEDES,"Respiratory Distress Syndrome, Adult",Post-Traumatic Stress Disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0035222,C0338656,PRECEDES,"Respiratory Distress Syndrome, Adult",Impaired cognition,dsyn,mobd,5,PRECEDES_DSYNprcdMOBD
+C0035235,C0497327,PRECEDES,Respiratory Syncytial Virus Infections,Dementia,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0038454,C0011206,PRECEDES,Cerebrovascular accident,Delirium,dsyn,mobd,2,PRECEDES_DSYNprcdMOBD
+C0038454,C0011581,PRECEDES,Cerebrovascular accident,Depressive disorder,dsyn,mobd,3,PRECEDES_DSYNprcdMOBD
+C0042769,C0233514,PRECEDES,Virus Diseases,Abnormal behavior,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0042769,C1535926,PRECEDES,Virus Diseases,Neurodevelopmental Disorders,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0149721,C0011581,PRECEDES,Left Ventricular Hypertrophy,Depressive disorder,dsyn,mobd,2,PRECEDES_DSYNprcdMOBD
+C0206750,C4511668,PRECEDES,Coronavirus Infections,Prolonged grief disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0243010,C0338656,PRECEDES,Viral Encephalitis,Impaired cognition,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0275518,C0011581,PRECEDES,Acute infectious disease,Depressive disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0494475,C0009676,PRECEDES,Tonic - clonic seizures,Confusion,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0520680,C0038436,PRECEDES,"Sleep Apnea, Central",Post-Traumatic Stress Disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0741923,C0011581,PRECEDES,cardiac event,Depressive disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0858744,C0085633,PRECEDES,infection induced,Mood swings,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C0948089,C0003467,PRECEDES,Acute Coronary Syndrome,Anxiety,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C1175175,C0003467,PRECEDES,Severe Acute Respiratory Syndrome,Anxiety,dsyn,mobd,2,PRECEDES_DSYNprcdMOBD
+C1175175,C0004352,PRECEDES,Severe Acute Respiratory Syndrome,Autistic Disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C1175175,C0004936,PRECEDES,Severe Acute Respiratory Syndrome,Mental disorders,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C1175175,C0038436,PRECEDES,Severe Acute Respiratory Syndrome,Post-Traumatic Stress Disorder,dsyn,mobd,4,PRECEDES_DSYNprcdMOBD
+C1175175,C0038443,PRECEDES,Severe Acute Respiratory Syndrome,"Stress, Psychological",dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C1175175,C0815107,PRECEDES,Severe Acute Respiratory Syndrome,Psychological Distress,dsyn,mobd,3,PRECEDES_DSYNprcdMOBD
+C1290386,C0497327,PRECEDES,Chronic heart disease,Dementia,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C1305932,C0497327,PRECEDES,Fourth disease,Dementia,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C3694279,C0011581,PRECEDES,Middle East Respiratory Syndrome,Depressive disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C3694279,C0038436,PRECEDES,Middle East Respiratory Syndrome,Post-Traumatic Stress Disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C5139167,C0525045,PRECEDES,Severe infection,Mood Disorders,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C5203670,C0003467,PRECEDES,COVID-19,Anxiety,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C5203670,C0004936,PRECEDES,COVID-19,Mental disorders,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C5203670,C0011581,PRECEDES,COVID-19,Depressive disorder,dsyn,mobd,2,PRECEDES_DSYNprcdMOBD
+C5203670,C0025193,PRECEDES,COVID-19,Melancholia,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C5203670,C0031572,PRECEDES,COVID-19,"Phobia, Social",dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C5203670,C0038436,PRECEDES,COVID-19,Post-Traumatic Stress Disorder,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C5203670,C0042693,PRECEDES,COVID-19,Violence,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C5203670,C0338656,PRECEDES,COVID-19,Impaired cognition,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD
+C5203670,C0344315,PRECEDES,COVID-19,Depressed mood,dsyn,mobd,2,PRECEDES_DSYNprcdMOBD
+C5203670,C0815107,PRECEDES,COVID-19,Psychological Distress,dsyn,mobd,3,PRECEDES_DSYNprcdMOBD
+C5203670,C1392786,PRECEDES,COVID-19,Cognitive changes,dsyn,mobd,1,PRECEDES_DSYNprcdMOBD

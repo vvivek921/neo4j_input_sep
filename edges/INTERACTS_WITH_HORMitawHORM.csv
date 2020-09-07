@@ -1,0 +1,41 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001617,C0020268,INTERACTS_WITH,Adrenal Cortex Hormones,hydrocortisone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0001617,C0025815,INTERACTS_WITH,Adrenal Cortex Hormones,methylprednisolone,horm,horm,2,INTERACTS_WITH_HORMitawHORM
+C0002006,C0020268,INTERACTS_WITH,aldosterone,hydrocortisone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0002844,C0014939,INTERACTS_WITH,Androgens,estrogens,horm,horm,4,INTERACTS_WITH_HORMitawHORM
+C0002844,C0036884,INTERACTS_WITH,Androgens,Gonadal Steroid Hormones,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0002860,C0014912,INTERACTS_WITH,androstenedione,estradiol,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0010139,C0033308,INTERACTS_WITH,Cortodoxone,progesterone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0010961,C0002844,INTERACTS_WITH,danazol,Androgens,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0011710,C0010124,INTERACTS_WITH,desoxycorticosterone,Corticosterone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0011710,C0033308,INTERACTS_WITH,desoxycorticosterone,progesterone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0014912,C0014939,INTERACTS_WITH,estradiol,estrogens,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0014939,C0033308,INTERACTS_WITH,estrogens,progesterone,horm,horm,2,INTERACTS_WITH_HORMitawHORM
+C0014939,C0036884,INTERACTS_WITH,estrogens,Gonadal Steroid Hormones,horm,horm,2,INTERACTS_WITH_HORMitawHORM
+C0017710,C0014563,INTERACTS_WITH,Glucocorticoids,epinephrine,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0017710,C0020268,INTERACTS_WITH,Glucocorticoids,hydrocortisone,horm,horm,2,INTERACTS_WITH_HORMitawHORM
+C0017710,C0032952,INTERACTS_WITH,Glucocorticoids,prednisone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0017710,C0033308,INTERACTS_WITH,Glucocorticoids,progesterone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0020268,C0010137,INTERACTS_WITH,hydrocortisone,cortisone,horm,horm,5,INTERACTS_WITH_HORMitawHORM
+C0020268,C0017710,INTERACTS_WITH,hydrocortisone,Glucocorticoids,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0025219,C0301818,INTERACTS_WITH,melatonin,Steroid hormone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0025815,C0017710,INTERACTS_WITH,methylprednisolone,Glucocorticoids,horm,horm,2,INTERACTS_WITH_HORMitawHORM
+C0026160,C0017710,INTERACTS_WITH,Mineralocorticoids,Glucocorticoids,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0028351,C0014563,INTERACTS_WITH,norepinephrine,epinephrine,horm,horm,2,INTERACTS_WITH_HORMitawHORM
+C0033306,C0014939,INTERACTS_WITH,Progestins,estrogens,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0033308,C0001617,INTERACTS_WITH,progesterone,Adrenal Cortex Hormones,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0033308,C0014939,INTERACTS_WITH,progesterone,estrogens,horm,horm,2,INTERACTS_WITH_HORMitawHORM
+C0033308,C0036884,INTERACTS_WITH,progesterone,Gonadal Steroid Hormones,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0033308,C0044752,INTERACTS_WITH,progesterone,11-hydroxyprogesterone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0033308,C0682762,INTERACTS_WITH,progesterone,pregnancy hormones,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0038148,C0014912,INTERACTS_WITH,Dihydrotestosterone,estradiol,horm,horm,2,INTERACTS_WITH_HORMitawHORM
+C0039601,C0014912,INTERACTS_WITH,testosterone,estradiol,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0039601,C0038148,INTERACTS_WITH,testosterone,Dihydrotestosterone,horm,horm,3,INTERACTS_WITH_HORMitawHORM
+C0039601,C0040135,INTERACTS_WITH,testosterone,Thyroid Hormones,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0040114,C1260930,INTERACTS_WITH,Thymus Hormones,"Hypothalamic and pituitary hormone, NOS",horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0045010,C0010139,INTERACTS_WITH,17-alpha-hydroxyprogesterone,Cortodoxone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0301818,C0020268,INTERACTS_WITH,Steroid hormone,hydrocortisone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0373704,C0014939,INTERACTS_WITH,pregnenolone,estrogens,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0720298,C0020268,INTERACTS_WITH,Estrogenic,hydrocortisone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0720298,C0038148,INTERACTS_WITH,Estrogenic,Dihydrotestosterone,horm,horm,1,INTERACTS_WITH_HORMitawHORM
+C0732611,C0014939,INTERACTS_WITH,Selective Estrogen Receptor Modulators,estrogens,horm,horm,1,INTERACTS_WITH_HORMitawHORM

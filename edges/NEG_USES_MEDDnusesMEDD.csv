@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009836,C0015421,NEG_USES,Contact Lenses,Eyeglasses,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C0013119,C0021102,NEG_USES,Medical dressing,Implants,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C0015421,C0009836,NEG_USES,Eyeglasses,Contact Lenses,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C0024861,C0725865,NEG_USES,Masks,disposable,medd,medd,2,NEG_USES_MEDDnusesMEDD
+C0027524,C0042497,NEG_USES,Nebulizers,Mechanical Ventilator,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C0039142,C3495449,NEG_USES,Syringes,Mobility aid,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C0042497,C0024861,NEG_USES,Mechanical Ventilator,Masks,medd,medd,2,NEG_USES_MEDDnusesMEDD
+C0042497,C0183631,NEG_USES,Mechanical Ventilator,Strap device,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C0085104,C1140607,NEG_USES,Drug Delivery Systems,Commodes,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C0179129,C0183336,NEG_USES,Apron,Sleeve,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C0180231,C0725865,NEG_USES,Cup Device,disposable,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C0180797,C0042497,NEG_USES,Surgical helmet system,Mechanical Ventilator,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C0181904,C0085104,NEG_USES,Monitor Device,Drug Delivery Systems,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C0184165,C0038009,NEG_USES,Tubing,Splint Device,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C0491921,C0183400,NEG_USES,IMPACTOR,Spectrophotometer,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C1139930,C0005971,NEG_USES,Device Plate,Bone plates,medd,medd,1,NEG_USES_MEDDnusesMEDD
+C2363670,C1706912,NEG_USES,developers,BARRIER,medd,medd,1,NEG_USES_MEDDnusesMEDD

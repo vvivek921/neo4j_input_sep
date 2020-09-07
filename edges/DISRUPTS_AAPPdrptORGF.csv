@@ -1,0 +1,907 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000608,C0012238,DISRUPTS,6-aminocaproic acid,Digestion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0001022,C0023796,DISRUPTS,Acetyl-CoA Carboxylase,Lipolysis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0001214,C0015895,DISRUPTS,ACROSIN,Fertility,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0001347,C1327413,DISRUPTS,Acute-Phase Proteins,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0001347,C1819457,DISRUPTS,Acute-Phase Proteins,interleukin-4 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0001898,C0012238,DISRUPTS,alanine,Digestion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0002199,C0018270,DISRUPTS,Interferon-alpha,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0002199,C1819457,DISRUPTS,Interferon-alpha,interleukin-4 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0002520,C0018270,DISRUPTS,Amino Acids,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0002520,C0699900,DISRUPTS,Amino Acids,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0002570,C0699900,DISRUPTS,Aminopeptidase,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0002594,C1819464,DISRUPTS,Transaminases,tumor necrosis factor production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0003009,C0005823,DISRUPTS,angiotensin II,Blood Pressure,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0003017,C0005823,DISRUPTS,Angiotensinogen,Blood Pressure,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0003241,C0018270,DISRUPTS,Antibodies,Growth,aapp,orgf,18,DISRUPTS_AAPPdrptORGF
+C0003241,C0020966,DISRUPTS,Antibodies,Cellular Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0003241,C0233896,DISRUPTS,Antibodies,Sexual Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0003241,C1155328,DISRUPTS,Antibodies,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0003241,C1327413,DISRUPTS,Antibodies,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0003241,C1819431,DISRUPTS,Antibodies,interferon-alpha production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0003241,C3825968,DISRUPTS,Antibodies,Microbial metabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0003242,C0678723,DISRUPTS,"Antibodies, Anti-Idiotypic",Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0003250,C0018270,DISRUPTS,Monoclonal Antibodies,Growth,aapp,orgf,4,DISRUPTS_AAPPdrptORGF
+C0003250,C0026649,DISRUPTS,Monoclonal Antibodies,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0003250,C0678889,DISRUPTS,Monoclonal Antibodies,Immunoregulation,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0003250,C1327413,DISRUPTS,Monoclonal Antibodies,cytokine production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0003805,C0018270,DISRUPTS,Aromatase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0004599,C0018270,DISRUPTS,bacitracin,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0004627,C0004614,DISRUPTS,Bacterial Proteins,Bacterial Adhesion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0004627,C0699900,DISRUPTS,Bacterial Proteins,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0004641,C0018270,DISRUPTS,bacteriocin,Growth,aapp,orgf,4,DISRUPTS_AAPPdrptORGF
+C0005740,C1819464,DISRUPTS,bleomycin,tumor necrosis factor production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0006100,C0699900,DISRUPTS,Bradykinin,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0006560,C0011065,DISRUPTS,C-reactive protein,Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0007267,C0005823,DISRUPTS,carnosine,Blood Pressure,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0007267,C0018270,DISRUPTS,carnosine,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0007578,C1327413,DISRUPTS,Cell Adhesion Molecules,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0008145,C0018270,DISRUPTS,Chitinases,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0009498,C1819437,DISRUPTS,Complement System Proteins,interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0009498,C1819439,DISRUPTS,Complement System Proteins,interleukin-12 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0010590,C0018270,DISRUPTS,cycloserine,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0010590,C0678723,DISRUPTS,cycloserine,Biologic Development,aapp,orgf,7,DISRUPTS_AAPPdrptORGF
+C0010590,C1155328,DISRUPTS,cycloserine,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0010590,C1327413,DISRUPTS,cycloserine,cytokine production,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0010590,C1819437,DISRUPTS,cycloserine,interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0010590,C1819439,DISRUPTS,cycloserine,interleukin-12 production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0010590,C1819457,DISRUPTS,cycloserine,interleukin-4 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0010592,C0018270,DISRUPTS,cyclosporine,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0010592,C0678723,DISRUPTS,cyclosporine,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0010646,C0018270,DISRUPTS,Cystatins,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0010762,C0025519,DISRUPTS,Cytochrome P450,Metabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0010934,C0018270,DISRUPTS,dactinomycin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0011696,C0011065,DISRUPTS,Desmin,Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0013729,C3159140,DISRUPTS,Eukaryotic Initiation Factor-2,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0014027,C1516559,DISRUPTS,enalaprilat,Circulatory Process,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0014230,C1155328,DISRUPTS,endonuclease,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0014298,C0026649,DISRUPTS,Enkephalins,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0014372,C0011135,DISRUPTS,Enterotoxins,Defecation,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0015683,C0018270,DISRUPTS,Fatty-acid synthase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017339,C0018270,DISRUPTS,"Genes, Bacterial",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017345,C0018270,DISRUPTS,"Genes, Fungal",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017376,C0011065,DISRUPTS,"Genes, Viral",Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017687,C0699900,DISRUPTS,glucagon,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017757,C0018270,DISRUPTS,Glucosephosphate Dehydrogenase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017764,C0012238,DISRUPTS,GLUCOSIDASE,Digestion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017817,C0014653,DISRUPTS,glutathione,Equilibrium,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017817,C0018270,DISRUPTS,glutathione,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017890,C0018270,DISRUPTS,glycine,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017890,C0035150,DISRUPTS,glycine,Reproduction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017932,C0023796,DISRUPTS,Glycogen (Starch) Synthase,Lipolysis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017968,C0018270,DISRUPTS,Glycoproteins,Growth,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0017968,C0035150,DISRUPTS,Glycoproteins,Reproduction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017968,C0699900,DISRUPTS,Glycoproteins,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017968,C1155328,DISRUPTS,Glycoproteins,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0017968,C1327413,DISRUPTS,Glycoproteins,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0018284,C0020967,DISRUPTS,Growth Factor,Humoral Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0019043,C0018270,DISRUPTS,Sickle Hemoglobin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0019067,C0043240,DISRUPTS,Hemopexin,Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0019167,C1819436,DISRUPTS,Hepatitis B e Antigens,interleukin-1 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0019643,C1327413,DISRUPTS,Histone Deacetylase,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0019652,C0011065,DISRUPTS,Histones,Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0019652,C1155328,DISRUPTS,Histones,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0019796,C1327413,DISRUPTS,HMGB1 Protein,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0020835,C0018270,DISRUPTS,immunoglobulin A,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0020838,C0004614,DISRUPTS,Secretory Immunoglobulin A,Bacterial Adhesion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0020960,C0014653,DISRUPTS,Immune Sera,Equilibrium,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021027,C0699900,DISRUPTS,Immunoglobulins,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021665,C1327413,DISRUPTS,Insulin-Like Growth Factor I,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021740,C0018270,DISRUPTS,Recombinant Interferon-gamma,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0021740,C0020966,DISRUPTS,Recombinant Interferon-gamma,Cellular Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021743,C0025519,DISRUPTS,Interferon Type I,Metabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021743,C0043240,DISRUPTS,Interferon Type I,Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021743,C3825510,DISRUPTS,Interferon Type I,Viruses--Reproduction,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0021747,C0018270,DISRUPTS,Interferons,Growth,aapp,orgf,6,DISRUPTS_AAPPdrptORGF
+C0021747,C0043240,DISRUPTS,Interferons,Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021747,C1155328,DISRUPTS,Interferons,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021747,C3159140,DISRUPTS,Interferons,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021747,C3825510,DISRUPTS,Interferons,Viruses--Reproduction,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0021753,C0814002,DISRUPTS,"interleukin-1, beta",Neurogenesis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021755,C0018270,DISRUPTS,Interleukin-1,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021755,C0018841,DISRUPTS,Interleukin-1,Thermogenesis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021755,C0043240,DISRUPTS,Interleukin-1,Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021755,C0678889,DISRUPTS,Interleukin-1,Immunoregulation,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021755,C1327413,DISRUPTS,Interleukin-1,cytokine production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0021755,C1819430,DISRUPTS,Interleukin-1,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021755,C1819436,DISRUPTS,Interleukin-1,interleukin-1 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021756,C0018270,DISRUPTS,Interleukin-2,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021756,C0678723,DISRUPTS,Interleukin-2,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021756,C1819447,DISRUPTS,Interleukin-2,interleukin-2 production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0021758,C0020966,DISRUPTS,interleukin-4,Cellular Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021758,C1819439,DISRUPTS,interleukin-4,interleukin-12 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021758,C3159140,DISRUPTS,interleukin-4,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021760,C0018270,DISRUPTS,interleukin-6,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021760,C0018841,DISRUPTS,interleukin-6,Thermogenesis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021760,C0678723,DISRUPTS,interleukin-6,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021760,C0678889,DISRUPTS,interleukin-6,Immunoregulation,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021760,C1561987,DISRUPTS,interleukin-6,Homeostatic mechanism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0021760,C1819437,DISRUPTS,interleukin-6,interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0022942,C0018270,DISRUPTS,lactoferrin,Growth,aapp,orgf,8,DISRUPTS_AAPPdrptORGF
+C0022959,C0018270,DISRUPTS,LacZ Genes,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0023206,C0018270,DISRUPTS,Lectin,Growth,aapp,orgf,10,DISRUPTS_AAPPdrptORGF
+C0023401,C0012238,DISRUPTS,leucine,Digestion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0023764,C0023796,DISRUPTS,lipase,Lipolysis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0024337,C0018270,DISRUPTS,lysine,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0025248,C0018270,DISRUPTS,Membrane Glycoproteins,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0025252,C0018270,DISRUPTS,Membrane Proteins,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0025252,C3159140,DISRUPTS,Membrane Proteins,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0025635,C1148523,DISRUPTS,Methemoglobin,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0025646,C0018270,DISRUPTS,methionine,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0025831,C0018270,DISRUPTS,Methyltransferase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0026455,C0001811,DISRUPTS,Monoamine Oxidase A,Aging,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0026682,C0018270,DISRUPTS,mucins,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0026794,C0018270,DISRUPTS,muramidase,Growth,aapp,orgf,4,DISRUPTS_AAPPdrptORGF
+C0026832,C1625149,DISRUPTS,Muscle Proteins,muscle plasticity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0027021,C0018270,DISRUPTS,peroxidase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0027203,C0018270,DISRUPTS,N-Acetylmuramoyl-L-alanine Amidase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0027803,C0018270,DISRUPTS,Neuraminidase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0027895,C0013470,DISRUPTS,Neuropeptides,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0028115,C0018270,DISRUPTS,Nisin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0028589,C1155328,DISRUPTS,Nuclear Proteins,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0028612,C0018270,DISRUPTS,Nucleoproteins,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0028612,C3159140,DISRUPTS,Nucleoproteins,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0028954,C0018270,DISRUPTS,Oligopeptides,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0029923,C0018270,DISRUPTS,ovalbumin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0029960,C0018270,DISRUPTS,Ovomucin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0030016,C0015264,DISRUPTS,Oxidoreductase,Exertion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0030016,C0018270,DISRUPTS,Oxidoreductase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0030095,C0013470,DISRUPTS,oxytocin,Eating,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0030190,C0678723,DISRUPTS,Plasminogen Activator Inhibitor 1,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0030346,C0014653,DISRUPTS,papain,Equilibrium,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0030913,C1523943,DISRUPTS,Pepsinogens,protein digestion,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0030940,C0001811,DISRUPTS,Peptide Hydrolases,Aging,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0030940,C0018270,DISRUPTS,Peptide Hydrolases,Growth,aapp,orgf,4,DISRUPTS_AAPPdrptORGF
+C0030940,C0678723,DISRUPTS,Peptide Hydrolases,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0030940,C0699900,DISRUPTS,Peptide Hydrolases,Catabolism,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0030940,C1155328,DISRUPTS,Peptide Hydrolases,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0030940,C1516559,DISRUPTS,Peptide Hydrolases,Circulatory Process,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0030940,C1749719,DISRUPTS,Peptide Hydrolases,Adaptive Immune Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0030940,C1819430,DISRUPTS,Peptide Hydrolases,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0030940,C1819439,DISRUPTS,Peptide Hydrolases,interleukin-12 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0030940,C3159140,DISRUPTS,Peptide Hydrolases,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0031165,C0018270,DISRUPTS,permease,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0031671,C1327413,DISRUPTS,Phospholipase,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0032140,C0011065,DISRUPTS,Plasminogen,Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0032143,C0004048,DISRUPTS,alteplase,Inspiration function,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0033382,C0018270,DISRUPTS,proline,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0033382,C1155328,DISRUPTS,proline,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0033452,C0018270,DISRUPTS,Properdin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0033640,C0018270,DISRUPTS,Protein Kinases,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0033640,C3159140,DISRUPTS,Protein Kinases,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0034135,C0018270,DISRUPTS,Purine-Nucleoside Phosphorylase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0034783,C0023796,DISRUPTS,Adrenergic Receptor,Lipolysis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0034786,C0018270,DISRUPTS,Androgen Receptor,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0034798,C0029957,DISRUPTS,Dopamine Receptor,Oviposition,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0034800,C3825510,DISRUPTS,"Receptors, Cell Surface",Viruses--Reproduction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0034805,C0678723,DISRUPTS,Fc Receptor,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0034805,C1327413,DISRUPTS,Fc Receptor,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0034805,C1819439,DISRUPTS,Fc Receptor,interleukin-12 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0034861,C0012238,DISRUPTS,Recombinant Proteins,Digestion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0035542,C0035150,DISRUPTS,Ribonucleases,Reproduction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0035542,C1155328,DISRUPTS,Ribonucleases,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0035565,C0018270,DISRUPTS,Ribulose-Bisphosphate Carboxylase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0035569,C0018270,DISRUPTS,Ricin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0036734,C1819459,DISRUPTS,Serine Endopeptidases,interleukin-6 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0037492,C0004048,DISRUPTS,Sodium Channel,Inspiration function,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0037659,C0162523,DISRUPTS,somatostatin,Portal Pressure,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0037663,C0015895,DISRUPTS,Growth Hormone,Fertility,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0037903,C0035150,DISRUPTS,SPHINGOMYELINASE,Reproduction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0040005,C0018270,DISRUPTS,threonine,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0040498,C1819461,DISRUPTS,Tosylphenylalanyl Chloromethyl Ketone,interleukin-8 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0040627,C3824609,DISRUPTS,Trans-Activators,cellular response to virus,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0040648,C1155328,DISRUPTS,TRANSCRIPTION FACTOR,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0040648,C1820370,DISRUPTS,TRANSCRIPTION FACTOR,flowering,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0040690,C0018270,DISRUPTS,Transforming Growth Factor beta,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0040691,C0043240,DISRUPTS,Transforming Growth Factors,Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0040691,C0678723,DISRUPTS,Transforming Growth Factors,Biologic Development,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0040691,C1819439,DISRUPTS,Transforming Growth Factors,interleukin-12 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0041236,C0018270,DISRUPTS,trypsin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0041242,C0012238,DISRUPTS,Trypsin Inhibitors,Digestion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0041455,C0018270,DISRUPTS,collagen type I,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0041538,C0018270,DISRUPTS,Ubiquitin,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0042071,C0015745,DISRUPTS,urokinase,Feeding behaviors,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042210,C0005823,DISRUPTS,Vaccines,Blood Pressure,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0042210,C0011065,DISRUPTS,Vaccines,Cessation of life,aapp,orgf,6,DISRUPTS_AAPPdrptORGF
+C0042210,C0015895,DISRUPTS,Vaccines,Fertility,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0042210,C0018270,DISRUPTS,Vaccines,Growth,aapp,orgf,7,DISRUPTS_AAPPdrptORGF
+C0042210,C0020967,DISRUPTS,Vaccines,Humoral Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042210,C0598016,DISRUPTS,Vaccines,hatching,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042210,C0678889,DISRUPTS,Vaccines,Immunoregulation,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042210,C1148523,DISRUPTS,Vaccines,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042210,C1516559,DISRUPTS,Vaccines,Circulatory Process,aapp,orgf,4,DISRUPTS_AAPPdrptORGF
+C0042285,C0018270,DISRUPTS,valine,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042287,C0018270,DISRUPTS,Valinomycin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042313,C0018270,DISRUPTS,vancomycin,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0042413,C0162523,DISRUPTS,Vasopressins,Portal Pressure,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042479,C0018270,DISRUPTS,Venoms,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0042666,C0043240,DISRUPTS,Vimentin,Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042720,C0021059,DISRUPTS,Viral Genome,Immunologic Surveillance,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042720,C0043240,DISRUPTS,Viral Genome,Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042731,C0018270,DISRUPTS,Viral Matrix Proteins,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042736,C0014653,DISRUPTS,Viral Proteins,Equilibrium,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042736,C0018270,DISRUPTS,Viral Proteins,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0042736,C0678723,DISRUPTS,Viral Proteins,Biologic Development,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0042736,C1155328,DISRUPTS,Viral Proteins,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042736,C1327413,DISRUPTS,Viral Proteins,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042736,C1654934,DISRUPTS,Viral Proteins,Immune Evasion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0042736,C1819430,DISRUPTS,Viral Proteins,type I interferon production,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0050718,C0018270,DISRUPTS,AD 5,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0052181,C0013470,DISRUPTS,apolipoprotein A-IV,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0052193,C0018270,DISRUPTS,apolipoprotein D,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0052201,C0018270,DISRUPTS,Apolipoprotein E4,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0052642,C0005823,DISRUPTS,atrial natriuretic factor prohormone (31-67),Blood Pressure,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0053355,C0018270,DISRUPTS,ubenimex,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0053851,C0018270,DISRUPTS,blocking factor,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0054015,C1136180,DISRUPTS,nesiritide,Disease Resistance,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0054450,C1819447,DISRUPTS,Calcineurin,interleukin-2 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0054871,C0018270,DISRUPTS,Cathepsin L,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0054943,C0006147,DISRUPTS,ALANINE AMINOPEPTIDASE,Breast Feeding,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0055633,C0699900,DISRUPTS,Chromogranin A,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0055633,C1819432,DISRUPTS,Chromogranin A,interferon-beta production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0057256,C0018270,DISRUPTS,Defensins,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0058988,C1155328,DISRUPTS,Eukaryotic Initiation Factor-4E,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0061057,C0699900,DISRUPTS,gamma-glutamylaminomethylsulfonic acid,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0061132,C0013470,DISRUPTS,Gastrin releasing peptide,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0061355,C0003618,DISRUPTS,Glucagon-Like Peptide 1,Desire for food,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0061355,C0013470,DISRUPTS,Glucagon-Like Peptide 1,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0062533,C0018270,DISRUPTS,hepatoma-derived growth factor,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0062534,C0015264,DISRUPTS,Hepatocyte Growth Factor,Exertion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0063355,C0004614,DISRUPTS,IgY,Bacterial Adhesion,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0063355,C0018270,DISRUPTS,IgY,Growth,aapp,orgf,14,DISRUPTS_AAPPdrptORGF
+C0063695,C0018270,DISRUPTS,Intercellular adhesion molecule 1,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0063695,C1148523,DISRUPTS,Intercellular adhesion molecule 1,Childbirth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0064566,C0018270,DISRUPTS,Laccase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0065042,C0013470,DISRUPTS,Annexins,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0065400,C0699900,DISRUPTS,lysosomal proteins,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0065827,C0018270,DISRUPTS,Measles Virus Nucleoprotein,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0065827,C0699900,DISRUPTS,Measles Virus Nucleoprotein,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0065827,C1155328,DISRUPTS,Measles Virus Nucleoprotein,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0065827,C1819430,DISRUPTS,Measles Virus Nucleoprotein,type I interferon production,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0065827,C3159140,DISRUPTS,Measles Virus Nucleoprotein,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0066511,C0018270,DISRUPTS,microcin,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0068355,C1327413,DISRUPTS,NADPH Oxidase,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0068601,C0013470,DISRUPTS,neuromedin B,Eating,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0069065,C1155328,DISRUPTS,Viral Nonstructural Proteins,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0069151,C0043240,DISRUPTS,Nucleoside Transporter,Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0069515,C0018270,DISRUPTS,erbB-2 Receptor,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0070099,C0018270,DISRUPTS,parathyroid hormone-related protein,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0070358,C0013470,DISRUPTS,Peptide YY,Eating,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0070410,C1819437,DISRUPTS,perforin,interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0071253,C0596570,DISRUPTS,Platelet-Derived Growth Factor Receptor,fibrogenesis,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0071795,C0018270,DISRUPTS,2-5A-dependent ribonuclease,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0075337,C0026559,DISRUPTS,"structural-GP protein, Bos taurus",Morphogenesis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0077401,C1819439,DISRUPTS,Troponin I,interleukin-12 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0077503,C1327413,DISRUPTS,Tumor Necrosis Factor Receptor,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0077503,C1819439,DISRUPTS,Tumor Necrosis Factor Receptor,interleukin-12 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0077580,C0023946,DISRUPTS,tyrosyl-arginyl-phenylalanyl-lysinamide,Locomotion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0078056,C1327413,DISRUPTS,Vascular Cell Adhesion Molecule-1,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079050,C1819432,DISRUPTS,c-abl Proto-Oncogenes,interferon-beta production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079189,C0003618,DISRUPTS,cytokine,Desire for food,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079189,C0013470,DISRUPTS,cytokine,Eating,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0079189,C0018270,DISRUPTS,cytokine,Growth,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0079189,C0032961,DISRUPTS,cytokine,Pregnancy,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0079189,C0678723,DISRUPTS,cytokine,Biologic Development,aapp,orgf,4,DISRUPTS_AAPPdrptORGF
+C0079189,C0887981,DISRUPTS,cytokine,Graft Tolerance,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079189,C1155328,DISRUPTS,cytokine,Antiviral Response,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0079189,C1327413,DISRUPTS,cytokine,cytokine production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0079189,C1819439,DISRUPTS,cytokine,interleukin-12 production,aapp,orgf,4,DISRUPTS_AAPPdrptORGF
+C0079189,C1819464,DISRUPTS,cytokine,tumor necrosis factor production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0079189,C3494405,DISRUPTS,cytokine,Maternal Death,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079405,C1819430,DISRUPTS,"Gene Products, vpr",type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079419,C0018270,DISRUPTS,TP53 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079419,C1155328,DISRUPTS,TP53 gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079427,C0018270,DISRUPTS,Tumor Suppressor Genes,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079460,C0018270,DISRUPTS,Granulocyte-Macrophage Colony-Stimulating Factor,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079460,C3159140,DISRUPTS,Granulocyte-Macrophage Colony-Stimulating Factor,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079633,C0678723,DISRUPTS,interleukin-8,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079633,C1148523,DISRUPTS,interleukin-8,Childbirth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0079785,C1819439,DISRUPTS,Macrophage-1 Antigen,interleukin-12 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079904,C0020966,DISRUPTS,NF-kappa B,Cellular Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0079941,C0018270,DISRUPTS,Open Reading Frames,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0080058,C0018270,DISRUPTS,Proto-Oncogene Proteins p21(ras),Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0080125,C0018270,DISRUPTS,Catalytic RNA,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0082965,C0018270,DISRUPTS,iberiotoxin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0083031,C0011107,DISRUPTS,interleukin-11,Decidual Cell Reaction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0084325,C1819430,DISRUPTS,Zinc-Finger Protein RFP,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0084692,C0018270,DISRUPTS,Pulmonary Surfactant-Associated Protein D,Growth,aapp,orgf,9,DISRUPTS_AAPPdrptORGF
+C0085139,C0026649,DISRUPTS,Kinesin,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0085201,C1327413,DISRUPTS,Apolipoprotein A-I,cytokine production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0085295,C0018270,DISRUPTS,interleukin-10,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0085295,C0020966,DISRUPTS,interleukin-10,Cellular Immunity,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0085295,C0020967,DISRUPTS,interleukin-10,Humoral Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0085295,C0678723,DISRUPTS,interleukin-10,Biologic Development,aapp,orgf,4,DISRUPTS_AAPPdrptORGF
+C0085295,C1327413,DISRUPTS,interleukin-10,cytokine production,aapp,orgf,5,DISRUPTS_AAPPdrptORGF
+C0085295,C1819437,DISRUPTS,interleukin-10,interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0085295,C1819439,DISRUPTS,interleukin-10,interleukin-12 production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0085295,C1819464,DISRUPTS,interleukin-10,tumor necrosis factor production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0085295,C3824609,DISRUPTS,interleukin-10,cellular response to virus,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0085297,C0678723,DISRUPTS,"immunoglobulins, intravenous",Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0085297,C1327413,DISRUPTS,"immunoglobulins, intravenous",cytokine production,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0085297,C1819436,DISRUPTS,"immunoglobulins, intravenous",interleukin-1 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0085297,C1819459,DISRUPTS,"immunoglobulins, intravenous",interleukin-6 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0086376,C2936375,DISRUPTS,GTP-Binding Proteins,Th1-Th2 Balance,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0086379,C0013470,DISRUPTS,Oxyntomodulin,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0100748,C0678723,DISRUPTS,activin A,Biologic Development,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0111208,C1817919,DISRUPTS,cytotoxic T-lymphocyte antigen 4,germinal center formation,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0115305,C1327413,DISRUPTS,E-Selectin,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0118522,C0001811,DISRUPTS,GA-Binding Protein Transcription Factor,Aging,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0120285,C0018270,DISRUPTS,Green Fluorescent Proteins,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0122626,C0018270,DISRUPTS,human pancreatic eicosapeptide,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0123759,C0018270,DISRUPTS,interleukin-12,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0123759,C1327413,DISRUPTS,interleukin-12,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0123759,C1819437,DISRUPTS,interleukin-12,interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0142661,C0678723,DISRUPTS,Small Nuclear Ribonucleoproteins,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0145106,C0018270,DISRUPTS,teicoplanin,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0145947,C0596570,DISRUPTS,Tissue-Inhibitor of Metalloproteinase-1,fibrogenesis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0162330,C0005823,DISRUPTS,Hexosaminidase A,Blood Pressure,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0162827,C0018270,DISRUPTS,Excitatory Amino Acid Receptor,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0162829,C0026649,DISRUPTS,Vasopressin V2 Receptor,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0164786,C0011065,DISRUPTS,Proto-Oncogene Proteins c-akt,Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0164786,C0018270,DISRUPTS,Proto-Oncogene Proteins c-akt,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0165174,C0018270,DISRUPTS,MDL 28170,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0166418,C1327413,DISRUPTS,Peroxisome Proliferator-Activated Receptors,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0166825,C0043240,DISRUPTS,heparin-binding EGF-like growth factor,Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0169101,C0018270,DISRUPTS,Mitogen-Activated Protein Kinase Kinases,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0173532,C0018270,DISRUPTS,cyclin D3,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0178774,C1819430,DISRUPTS,Nucleocapsid,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0208355,C0014653,DISRUPTS,multicatalytic endopeptidase complex,Equilibrium,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0208355,C0018270,DISRUPTS,multicatalytic endopeptidase complex,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0208355,C0699900,DISRUPTS,multicatalytic endopeptidase complex,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0214743,C1819439,DISRUPTS,Interleukin-13,interleukin-12 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0214743,C2610587,DISRUPTS,Interleukin-13,lung growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0214743,C3159140,DISRUPTS,Interleukin-13,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0215955,C3820826,DISRUPTS,"LCN2 protein, human",iron acquisition,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0242275,C0011065,DISRUPTS,epidermal growth factor,Cessation of life,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0242957,C0018270,DISRUPTS,ERBB2 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0243021,C0014653,DISRUPTS,Cell Cycle Proteins,Equilibrium,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0243043,C1327413,DISRUPTS,Heat-Shock Proteins 70,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0243044,C0018270,DISRUPTS,HSP90 Heat-Shock Proteins,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0244989,C0018270,DISRUPTS,Glycogen Synthase Kinase 3,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0244989,C0043240,DISRUPTS,Glycogen Synthase Kinase 3,Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0244989,C1327413,DISRUPTS,Glycogen Synthase Kinase 3,cytokine production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0244989,C1819437,DISRUPTS,Glycogen Synthase Kinase 3,interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0245109,C0011065,DISRUPTS,anakinra,Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0246449,C1155328,DISRUPTS,"M protein, Coronavirus",Antiviral Response,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0246449,C1819430,DISRUPTS,"M protein, Coronavirus",type I interferon production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0248813,C0699900,DISRUPTS,JNK Mitogen-Activated Protein Kinases,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0251914,C0035150,DISRUPTS,"PDIA3 protein, human",Reproduction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0252902,C1749719,DISRUPTS,"PKN1 protein, human",Adaptive Immune Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0256616,C0018270,DISRUPTS,Mannose-Binding Protein-Associated Serine Proteases,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0282554,C1155328,DISRUPTS,chemokine,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0282554,C1819426,DISRUPTS,chemokine,chemokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0282651,C1516559,DISRUPTS,Selectins,Circulatory Process,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0282682,C0678723,DISRUPTS,"Antibodies, Blocking",Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0282682,C1327413,DISRUPTS,"Antibodies, Blocking",cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0286330,C0699900,DISRUPTS,26S proteasome,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0287653,C0018270,DISRUPTS,"CRIP1 protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0290178,C0018270,DISRUPTS,"PLK1 protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0295022,C1819430,DISRUPTS,TNF receptor-associated factor 3,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0295166,C1819430,DISRUPTS,STAT2 Transcription Factor,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0298911,C0021080,DISRUPTS,"TAR1 protein, Colocasia esculenta",Natural immunosuppression,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0299544,C1327413,DISRUPTS,Interferon Regulatory Factor 4,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0299583,C0003618,DISRUPTS,leptin,Desire for food,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0299583,C0013470,DISRUPTS,leptin,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0299583,C0018270,DISRUPTS,leptin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0300824,C1148523,DISRUPTS,SNAP receptor,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0304052,C0018270,DISRUPTS,Plant Lectins,Growth,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0305052,C0018270,DISRUPTS,Gamma globulin serum,Growth,aapp,orgf,4,DISRUPTS_AAPPdrptORGF
+C0309259,C0020966,DISRUPTS,IBR VACCINE,Cellular Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0312558,C0020966,DISRUPTS,Fetal antigen,Cellular Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0358321,C0018270,DISRUPTS,Immune Globulin (Human),Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0376659,C0018270,DISRUPTS,Cancer Vaccines,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0377274,C0018270,DISRUPTS,Collectins,Growth,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0377800,C1819437,DISRUPTS,protein B,interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0377946,C0018270,DISRUPTS,fengycin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0379099,C0018270,DISRUPTS,vacuolar H+-ATPase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0389916,C3159140,DISRUPTS,"nucleocapsid protein, Coronavirus",interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0389916,C3824609,DISRUPTS,"nucleocapsid protein, Coronavirus",cellular response to virus,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0393022,C0020967,DISRUPTS,rituximab,Humoral Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0393022,C1148523,DISRUPTS,rituximab,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0443640,C1327413,DISRUPTS,Specific antibody,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0475463,C0018270,DISRUPTS,"Antibodies, Neutralizing",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0483249,C0011065,DISRUPTS,Protein C (activated),Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0524816,C1155328,DISRUPTS,Nucleocapsid Proteins,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0525037,C0699900,DISRUPTS,CDKN2A gene,Catabolism,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0526870,C0004614,DISRUPTS,"MBL2 protein, human",Bacterial Adhesion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0527721,C0003618,DISRUPTS,"MC4R protein, human",Desire for food,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0529085,C0018270,DISRUPTS,GKLF protein,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0534519,C0678723,DISRUPTS,Caspase-1,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0534519,C1155328,DISRUPTS,Caspase-1,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0538753,C0015914,DISRUPTS,imperatoxin I,Fertilization,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0582263,C0018270,DISRUPTS,Structural protein,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0582263,C0021059,DISRUPTS,Structural protein,Immunologic Surveillance,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0582263,C1155328,DISRUPTS,Structural protein,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0582263,C1819430,DISRUPTS,Structural protein,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0582263,C3159140,DISRUPTS,Structural protein,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0596902,C0018270,DISRUPTS,Membrane Transport Proteins,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0597094,C0018270,DISRUPTS,nuclease,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0597192,C0013470,DISRUPTS,peptide hormone,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0597357,C0699900,DISRUPTS,receptor,Catabolism,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0597357,C1327413,DISRUPTS,receptor,cytokine production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0597418,C0011065,DISRUPTS,Rotavirus Vaccines,Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0597551,C0018270,DISRUPTS,synthetic peptide,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0597721,C1155328,DISRUPTS,Janus kinase,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0597875,C0018270,DISRUPTS,Magainins,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0599220,C0023796,DISRUPTS,Protein Subunits,Lipolysis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0599561,C0018270,DISRUPTS,e protein,Growth,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0599561,C0678723,DISRUPTS,e protein,Biologic Development,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0599561,C1155328,DISRUPTS,e protein,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0599874,C0018270,DISRUPTS,Dioxygenases,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0600251,C0013470,DISRUPTS,interleukin-1 alpha,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0600449,C0018270,DISRUPTS,"Genes, Essential",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0623362,C0699900,DISRUPTS,Matrix Metalloproteinases,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0663914,C1819430,DISRUPTS,IkappaB kinase,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0664336,C0018270,DISRUPTS,survivin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0666411,C3159140,DISRUPTS,Interferon Regulatory Factor-7,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0667477,C2985494,DISRUPTS,"TNFRSF11A protein, human",Resorption,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0670896,C1155328,DISRUPTS,Toll-like receptors,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0670896,C1819439,DISRUPTS,Toll-like receptors,interleukin-12 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0671062,C0018270,DISRUPTS,cathelicidin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0672250,C0018270,DISRUPTS,keratin 7,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0673013,C1155328,DISRUPTS,"GPER protein, human",Antiviral Response,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0673013,C3824609,DISRUPTS,"GPER protein, human",cellular response to virus,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0674540,C0699900,DISRUPTS,valine-pyrrolidide,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0675121,C0018270,DISRUPTS,"DLC1 protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0699918,C0018270,DISRUPTS,Elastases,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0699919,C0014653,DISRUPTS,Cathepsins B,Equilibrium,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0700271,C1819430,DISRUPTS,"M Protein, multiple myeloma",type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0729663,C0699900,DISRUPTS,Maternal antibody,Catabolism,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0729663,C1155250,DISRUPTS,Maternal antibody,immunoglobulin mediated immune response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0732165,C0162523,DISRUPTS,Somatostatin analog,Portal Pressure,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0751455,C0018270,DISRUPTS,"Gene Products, Protein",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0751455,C1819430,DISRUPTS,"Gene Products, Protein",type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0752312,C0018270,DISRUPTS,Mitogen-Activated Protein Kinases,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0752549,C0018270,DISRUPTS,Isolectins,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0753802,C0018270,DISRUPTS,"Neuro-Oncological Ventral Antigen 2, Human",Growth,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C0757844,C0011065,DISRUPTS,"TNFSF13 protein, human",Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0757844,C0026649,DISRUPTS,"TNFSF13 protein, human",Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0757844,C1148523,DISRUPTS,"TNFSF13 protein, human",Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0767037,C0018270,DISRUPTS,antileukinate,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0770558,C0015745,DISRUPTS,human calcitonin,Feeding behaviors,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0796392,C0043240,DISRUPTS,bevacizumab,Wound Healing,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0815047,C1155328,DISRUPTS,Regulatory Protein,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0815047,C1819437,DISRUPTS,Regulatory Protein,interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0872241,C1155328,DISRUPTS,PDZ protein,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0872251,C1155328,DISRUPTS,protein kinase R,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0879427,C0018270,DISRUPTS,panitumumab,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0907411,C0018270,DISRUPTS,"Lectins, C-Type",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0907411,C1327413,DISRUPTS,"Lectins, C-Type",cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0911014,C0013470,DISRUPTS,ghrelin,Eating,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0911117,C0018841,DISRUPTS,Fibroblast Growth Factor Receptor 2c,Thermogenesis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0913749,C3159140,DISRUPTS,"V protein, Human parainfluenza virus 2",interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0914670,C1819430,DISRUPTS,CPG-oligonucleotide,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0916194,C1327413,DISRUPTS,dectin 1,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0919478,C0015946,DISRUPTS,FGR gene,Fetal Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0920283,C0026649,DISRUPTS,DNA Helicases,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0949879,C0026559,DISRUPTS,Nuclear Pore Complex Proteins,Morphogenesis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0961243,C0018270,DISRUPTS,hadrurin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0962190,C0020967,DISRUPTS,interleukin-21,Humoral Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0963057,C1510835,DISRUPTS,Toll-like receptor 9,Aging-Related Process,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0963236,C0021059,DISRUPTS,nischarin,Immunologic Surveillance,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0965245,C1155328,DISRUPTS,"CD274 protein, human",Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0965245,C1327413,DISRUPTS,"CD274 protein, human",cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0969669,C0699900,DISRUPTS,Fibrillar Collagen,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C0995188,C0018270,DISRUPTS,cetuximab,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C0995188,C0027842,DISRUPTS,cetuximab,Neuroimmunomodulation,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1120843,C1327413,DISRUPTS,mitogen-activated protein kinase p38,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1134659,C0018270,DISRUPTS,aflibercept,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1135130,C0018270,DISRUPTS,Avastin,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1144026,C0043240,DISRUPTS,"EIF2C2 protein, human",Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1144026,C0678723,DISRUPTS,"EIF2C2 protein, human",Biologic Development,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1171892,C0018270,DISRUPTS,"VEGF protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1172734,C0021059,DISRUPTS,natalizumab,Immunologic Surveillance,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1173436,C0018270,DISRUPTS,Erbitux,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1256770,C0018270,DISRUPTS,Vascular Endothelial Growth Factors,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1258835,C1819430,DISRUPTS,"N protein, Severe acute respiratory syndrome virus",type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1258836,C1819430,DISRUPTS,"M protein, Severe acute respiratory syndrome virus",type I interferon production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1305923,C0004614,DISRUPTS,Polypeptides,Bacterial Adhesion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1305923,C0018270,DISRUPTS,Polypeptides,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1305923,C2584321,DISRUPTS,Polypeptides,Reaching,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1307407,C0018270,DISRUPTS,"FRAP1 protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1307407,C0814002,DISRUPTS,"FRAP1 protein, human",Neurogenesis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1309025,C0025519,DISRUPTS,"SH2D3A protein, human",Metabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1309025,C0699900,DISRUPTS,"SH2D3A protein, human",Catabolism,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1309025,C1819430,DISRUPTS,"SH2D3A protein, human",type I interferon production,aapp,orgf,5,DISRUPTS_AAPPdrptORGF
+C1309025,C3159140,DISRUPTS,"SH2D3A protein, human",interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1309483,C0043240,DISRUPTS,"DICER1 protein, human",Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1310463,C0018270,DISRUPTS,"IFIH1 protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1310463,C1155328,DISRUPTS,"IFIH1 protein, human",Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1310463,C1819430,DISRUPTS,"IFIH1 protein, human",type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1310468,C0018270,DISRUPTS,"DDX58 protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1310468,C0699900,DISRUPTS,"DDX58 protein, human",Catabolism,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1310468,C1155328,DISRUPTS,"DDX58 protein, human",Antiviral Response,aapp,orgf,5,DISRUPTS_AAPPdrptORGF
+C1310468,C1819430,DISRUPTS,"DDX58 protein, human",type I interferon production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1310468,C1819432,DISRUPTS,"DDX58 protein, human",interferon-beta production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1312248,C0018270,DISRUPTS,"IFITM1 protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1313407,C0043240,DISRUPTS,"HAVCR1 protein, human",Wound Healing,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1332386,C0018270,DISRUPTS,BCAR3 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1332386,C0699900,DISRUPTS,BCAR3 gene,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1332386,C1155328,DISRUPTS,BCAR3 gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1332386,C3824609,DISRUPTS,BCAR3 gene,cellular response to virus,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1332392,C0231800,DISRUPTS,"BAG4 protein, human","Expiration, function",aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1332678,C0699900,DISRUPTS,CCL14 gene,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1332782,C0018270,DISRUPTS,MED23 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1332826,C0025519,DISRUPTS,CYP1A2 gene,Metabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1332838,C1148523,DISRUPTS,Candidate Disease Gene,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1333336,C1155328,DISRUPTS,EP300 gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1333572,C3824609,DISRUPTS,FOXO1 gene,cellular response to virus,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1333574,C1516002,DISRUPTS,FPR1 gene,Antibacterial Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1333664,C0013470,DISRUPTS,GCG gene,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1333723,C1148523,DISRUPTS,GTF2H1 gene,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1334043,C0018270,DISRUPTS,Homologous Gene,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1334043,C1155328,DISRUPTS,Homologous Gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1334078,C0018270,DISRUPTS,IFITM1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1334081,C0699900,DISRUPTS,IFNAR1 gene,Catabolism,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1334122,C1819464,DISRUPTS,IL6 gene,tumor necrosis factor production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1334134,C1819431,DISRUPTS,IRAK1 gene,interferon-alpha production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1334139,C0699900,DISRUPTS,IRF3 gene,Catabolism,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1334139,C1155328,DISRUPTS,IRF3 gene,Antiviral Response,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1334139,C1819430,DISRUPTS,IRF3 gene,type I interferon production,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1334497,C0018270,DISRUPTS,"MCTS1 protein, human",Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1334905,C1819430,DISRUPTS,NRP1 gene,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1334905,C1819432,DISRUPTS,NRP1 gene,interferon-beta production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1335191,C0018270,DISRUPTS,PAWR gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335238,C0018270,DISRUPTS,PPARG gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335280,C1327413,DISRUPTS,PTPN11 gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335280,C1819447,DISRUPTS,PTPN11 gene,interleukin-2 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335283,C1155328,DISRUPTS,PTPN6 gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335283,C1327413,DISRUPTS,PTPN6 gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335283,C1819430,DISRUPTS,PTPN6 gene,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335439,C0000934,DISRUPTS,Polymerase,Acclimatization,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335439,C0018270,DISRUPTS,Polymerase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335631,C0596570,DISRUPTS,ROCK1 gene,fibrogenesis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335804,C2584321,DISRUPTS,SPT/ADA/Gcn5 Acetyltransferase,Reaching,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335818,C0018270,DISRUPTS,SH2D3C gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335818,C0699900,DISRUPTS,SH2D3C gene,Catabolism,aapp,orgf,4,DISRUPTS_AAPPdrptORGF
+C1335818,C1327413,DISRUPTS,SH2D3C gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335872,C0018270,DISRUPTS,STAT1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1335872,C0699900,DISRUPTS,STAT1 gene,Catabolism,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1335873,C0699900,DISRUPTS,STAT2 gene,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1336681,C1155328,DISRUPTS,TSLP gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1336681,C1327413,DISRUPTS,TSLP gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1336763,C0001811,DISRUPTS,Toll-Like Receptor Family Gene,Aging,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1336763,C0018270,DISRUPTS,Toll-Like Receptor Family Gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1366325,C0018270,DISRUPTS,"IL6ST protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1366487,C0018270,DISRUPTS,FAP gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1366557,C0596570,DISRUPTS,TGFB1 gene,fibrogenesis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1367307,C0021059,DISRUPTS,STAT3 gene,Immunologic Surveillance,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1367307,C1155328,DISRUPTS,STAT3 gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1367307,C1819437,DISRUPTS,STAT3 gene,interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1384551,C0018270,DISRUPTS,"TRIM25 protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1412113,C0018270,DISRUPTS,SLC33A1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1412113,C0025519,DISRUPTS,SLC33A1 gene,Metabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1412134,C3658355,DISRUPTS,ACR gene,CRISPR-Cas Systems,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1412208,C0011065,DISRUPTS,ADAMTS2 gene,Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1412504,C0026649,DISRUPTS,ARF1 gene,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1412515,C1155328,DISRUPTS,ARG1 gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1412616,C0018270,DISRUPTS,ATF3 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1412831,C0699900,DISRUPTS,BST2 gene,Catabolism,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1412847,C0018270,DISRUPTS,BTN3A3 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1412995,C1819437,DISRUPTS,C3AR1 gene,interleukin-10 production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1413049,C0018270,DISRUPTS,CA6 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1413172,C0018270,DISRUPTS,CCND1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1413210,C1327413,DISRUPTS,CD1D gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1413284,C1148523,DISRUPTS,CDIPT gene,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1413284,C3825510,DISRUPTS,CDIPT gene,Viruses--Reproduction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1413366,C0013470,DISRUPTS,CGA gene,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1413673,C0018270,DISRUPTS,CPN1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1413687,C1155328,DISRUPTS,CPSF4 gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1413772,C0018270,DISRUPTS,CST3 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1413966,C1327413,DISRUPTS,DHX9 gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1414253,C1516559,DISRUPTS,S1PR1 gene,Circulatory Process,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1414270,C0018270,DISRUPTS,EEF1A1 gene,Growth,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1414352,C3159140,DISRUPTS,EIF4EBP1 gene,interferon production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1414420,C0678723,DISRUPTS,EOMES gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1414444,C0035150,DISRUPTS,ERN1 gene,Reproduction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1414603,C0018270,DISRUPTS,FGF19 gene,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1414609,C0678723,DISRUPTS,FGL2 gene,Biologic Development,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1414691,C1819464,DISRUPTS,FPR2 gene,tumor necrosis factor production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1414805,C0699900,DISRUPTS,MTOR gene,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1414860,C0018270,DISRUPTS,FUS gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415003,C1148523,DISRUPTS,GBP1 gene,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415053,C1819436,DISRUPTS,GGT1 gene,interleukin-1 production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1415099,C0018270,DISRUPTS,GLDC gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415099,C1155328,DISRUPTS,GLDC gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415134,C0018270,DISRUPTS,GML gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415321,C0678723,DISRUPTS,GSK3B gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415408,C1820370,DISRUPTS,H2AFZ gene,flowering,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415489,C0020966,DISRUPTS,HBZ gene,Cellular Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415619,C1327413,DISRUPTS,HMOX1 gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415628,C1155328,DISRUPTS,FOXA3 gene,Antiviral Response,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1415715,C0026649,DISRUPTS,AGFG1 gene,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415761,C1819459,DISRUPTS,HSPA5 gene,interleukin-6 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415801,C0018270,DISRUPTS,HTN3 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415892,C0018270,DISRUPTS,IFIT1 gene,Growth,aapp,orgf,6,DISRUPTS_AAPPdrptORGF
+C1415892,C1819432,DISRUPTS,IFIT1 gene,interferon-beta production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415897,C0018270,DISRUPTS,IFITM2 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1415898,C0018270,DISRUPTS,IFITM3 gene,Growth,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1415900,C1819464,DISRUPTS,IFNA1 gene,tumor necrosis factor production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1416380,C1819430,DISRUPTS,IKBKG gene,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1416433,C0018270,DISRUPTS,IDO1 gene,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1416433,C3159140,DISRUPTS,IDO1 gene,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1416447,C1819430,DISRUPTS,INPP5D gene,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1416448,C1819430,DISRUPTS,INPPL1 gene,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1416471,C1148523,DISRUPTS,IQGAP1 gene,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1416475,C1155328,DISRUPTS,IRF7 gene,Antiviral Response,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1416475,C1654934,DISRUPTS,IRF7 gene,Immune Evasion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1416475,C1819431,DISRUPTS,IRF7 gene,interferon-alpha production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1416595,C0026649,DISRUPTS,KCNK2 gene,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1416655,C0011065,DISRUPTS,KIT gene,Cessation of life,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1416714,C0018270,DISRUPTS,KRT10 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1416797,C0018270,DISRUPTS,STMN1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1416806,C3820826,DISRUPTS,LCN2 gene,iron acquisition,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1416874,C0026649,DISRUPTS,LMAN1 gene,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1417031,C0011065,DISRUPTS,MAPRE3 gene,Cessation of life,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1417063,C0013470,DISRUPTS,MC3R gene,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1417064,C0013470,DISRUPTS,MC4R gene,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1417102,C0243109,DISRUPTS,MEF2C gene,postnatal growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1417126,C0018270,DISRUPTS,MFAP1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1417172,C0018270,DISRUPTS,MITF gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1417196,C0018270,DISRUPTS,MLYCD gene,Growth,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1417530,C1819431,DISRUPTS,MYD88 gene,interferon-alpha production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1417819,C0018270,DISRUPTS,NPY6R gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1417925,C1819431,DISRUPTS,OCA2 gene,interferon-alpha production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1418215,C1819436,DISRUPTS,P2RX7 gene,interleukin-1 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1418215,C1819444,DISRUPTS,P2RX7 gene,interleukin-17 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1418401,C1327413,DISRUPTS,PDCD1 gene,cytokine production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1418401,C1749719,DISRUPTS,PDCD1 gene,Adaptive Immune Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1418407,C1148523,DISRUPTS,PDCD6IP gene,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1418544,C0678723,DISRUPTS,SERPINA1 gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1418597,C1819447,DISRUPTS,PITX3 gene,interleukin-2 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1418620,C1563744,DISRUPTS,PLA2G4A gene,Lipogenesis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1418655,C0678723,DISRUPTS,PLP2 gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1418655,C1819430,DISRUPTS,PLP2 gene,type I interferon production,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1418793,C0035150,DISRUPTS,PPIA gene,Reproduction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1418971,C0015895,DISRUPTS,PRSS21 gene,Fertility,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1419009,C4505207,DISRUPTS,PSMA7 gene,Immune Reconstitution,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1419068,C0018270,DISRUPTS,PTGFR gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1419212,C0678723,DISRUPTS,RAB5A gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1419215,C0026649,DISRUPTS,RAB6A gene,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1419422,C0018270,DISRUPTS,TRIM3 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1419702,C0018270,DISRUPTS,RPS13 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1419788,C1819433,DISRUPTS,S100A6 gene,interferon-gamma production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1419868,C1148523,DISRUPTS,SCNN1A gene,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1420002,C0018270,DISRUPTS,SFTPA1 gene,Growth,aapp,orgf,9,DISRUPTS_AAPPdrptORGF
+C1420002,C1819464,DISRUPTS,SFTPA1 gene,tumor necrosis factor production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1420104,C0018270,DISRUPTS,SLC16A3 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1420144,C1135598,DISRUPTS,SLC23A2 gene,postnatal development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1420362,C0018270,DISRUPTS,SPINT2 gene,Growth,aapp,orgf,12,DISRUPTS_AAPPdrptORGF
+C1420362,C0678723,DISRUPTS,SPINT2 gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1420403,C0018270,DISRUPTS,SRL gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1420610,C1819437,DISRUPTS,TBX21 gene,interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1420699,C0678723,DISRUPTS,TFEB gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1420729,C1819464,DISRUPTS,TIA1 gene,tumor necrosis factor production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1420731,C1819464,DISRUPTS,TIAL1 gene,tumor necrosis factor production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1421270,C0018270,DISRUPTS,UBA7 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1421270,C2610587,DISRUPTS,UBA7 gene,lung growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1421391,C0699900,DISRUPTS,USP14 gene,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1421395,C0018270,DISRUPTS,USP18 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1421403,C0018270,DISRUPTS,USP28 gene,Growth,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1421479,C0011065,DISRUPTS,WASF1 gene,Cessation of life,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1421638,C0026649,DISRUPTS,TRIM25 gene,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1421638,C0699900,DISRUPTS,TRIM25 gene,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1421638,C1819430,DISRUPTS,TRIM25 gene,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1422064,C0001811,DISRUPTS,ACE2 gene,Aging,aapp,orgf,5,DISRUPTS_AAPPdrptORGF
+C1422064,C0005823,DISRUPTS,ACE2 gene,Blood Pressure,aapp,orgf,8,DISRUPTS_AAPPdrptORGF
+C1422064,C0009253,DISRUPTS,ACE2 gene,Coitus,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1422064,C0011107,DISRUPTS,ACE2 gene,Decidual Cell Reaction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1422064,C0014653,DISRUPTS,ACE2 gene,Equilibrium,aapp,orgf,7,DISRUPTS_AAPPdrptORGF
+C1422064,C0018270,DISRUPTS,ACE2 gene,Growth,aapp,orgf,4,DISRUPTS_AAPPdrptORGF
+C1422064,C0025519,DISRUPTS,ACE2 gene,Metabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1422064,C0029976,DISRUPTS,ACE2 gene,"Blastocyst Implantation, natural",aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1422064,C0699900,DISRUPTS,ACE2 gene,Catabolism,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1422179,C0699900,DISRUPTS,HERPUD1 gene,Catabolism,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1422582,C0013470,DISRUPTS,C1QTNF4 gene,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1422629,C1327413,DISRUPTS,DHX36 gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1423506,C0018270,DISRUPTS,SPINK5 gene,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1423633,C0678723,DISRUPTS,TLR9 gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1423633,C1749719,DISRUPTS,TLR9 gene,Adaptive Immune Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1423731,C0018270,DISRUPTS,METAP1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1423842,C1819444,DISRUPTS,NELFCD gene,interleukin-17 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1424025,C0018270,DISRUPTS,MCM8 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1424231,C0018270,DISRUPTS,TRIM22 gene,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1424250,C1148523,DISRUPTS,NLRP3 gene,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1424250,C1327413,DISRUPTS,NLRP3 gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1424450,C0004614,DISRUPTS,RAPGEF3 gene,Bacterial Adhesion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1425009,C0699900,DISRUPTS,UBE2J1 gene,Catabolism,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1425131,C1819439,DISRUPTS,CHPT1 gene,interleukin-12 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1425216,C0018270,DISRUPTS,RTCA gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1425473,C1819440,DISRUPTS,IFNL1 gene,interleukin-13 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1425514,C0011065,DISRUPTS,HAVCR2 gene,Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1425514,C1749719,DISRUPTS,HAVCR2 gene,Adaptive Immune Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1425583,C0018270,DISRUPTS,NUSAP1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1425745,C1327413,DISRUPTS,PDCD1LG2 gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1425923,C1819464,DISRUPTS,SYNJ2BP gene,tumor necrosis factor production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1425927,C0699900,DISRUPTS,EDEM1 gene,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1426104,C0037313,DISRUPTS,NANS gene,Sleep,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1426208,C1155328,DISRUPTS,SOCS1 gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1426208,C1327413,DISRUPTS,SOCS1 gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1426208,C1819430,DISRUPTS,SOCS1 gene,type I interferon production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1426208,C3159140,DISRUPTS,SOCS1 gene,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1426212,C1155328,DISRUPTS,SOCS3 gene,Antiviral Response,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1426212,C1819430,DISRUPTS,SOCS3 gene,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1426212,C3159140,DISRUPTS,SOCS3 gene,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1427185,C0026559,DISRUPTS,CASKIN1 gene,Morphogenesis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1427306,C1327413,DISRUPTS,BTLA gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1427491,C0011065,DISRUPTS,RNF146 gene,Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1428258,C0678723,DISRUPTS,PIKFYVE gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1428427,C1516002,DISRUPTS,HSH2D gene,Antibacterial Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1428431,C1155328,DISRUPTS,DOT1L gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1428785,C0018270,DISRUPTS,KDM1A gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1428987,C0018270,DISRUPTS,SUSD2 gene,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1433062,C1327413,DISRUPTS,"3C-like protease, SARS coronavirus",cytokine production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1434639,C0598016,DISRUPTS,"MAP2K1 protein, human",hatching,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1434641,C1819464,DISRUPTS,"MAP2K2 protein, human",tumor necrosis factor production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1439030,C0005823,DISRUPTS,"SHORT ROOT protein, Arabidopsis",Blood Pressure,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1439284,C0005823,DISRUPTS,AGTR1 gene,Blood Pressure,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1439329,C0018270,DISRUPTS,CBS gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1443145,C1148523,DISRUPTS,BPI gene,Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1448177,C0032961,DISRUPTS,"TNF protein, human",Pregnancy,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1448177,C1819464,DISRUPTS,"TNF protein, human",tumor necrosis factor production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1453118,C1819447,DISRUPTS,"CABIN1 protein, human",interleukin-2 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1456447,C0026649,DISRUPTS,"SLC6A2 protein, human",Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1515333,C0018270,DISRUPTS,Tetanus Toxoid Helper Peptide,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1521863,C1148523,DISRUPTS,"estrogen receptor alpha, human",Childbirth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1527752,C0699900,DISRUPTS,"TNFRSF10B protein, human",Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1534866,C1510835,DISRUPTS,Toll-Like Receptor 3,Aging-Related Process,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1537400,C0018270,DISRUPTS,IFIT1B gene,Growth,aapp,orgf,5,DISRUPTS_AAPPdrptORGF
+C1537447,C0678723,DISRUPTS,RUBCN gene,Biologic Development,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1537719,C0018270,DISRUPTS,MIR21 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1537719,C0678723,DISRUPTS,MIR21 gene,Biologic Development,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1537719,C1819430,DISRUPTS,MIR21 gene,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1538399,C0018270,DISRUPTS,C10orf99 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1538586,C1155328,DISRUPTS,PARP9 gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1538823,C0018270,DISRUPTS,REG3A gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1538915,C0013470,DISRUPTS,APLN gene,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1538915,C0023796,DISRUPTS,APLN gene,Lipolysis,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1538915,C1327413,DISRUPTS,APLN gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1539094,C1819459,DISRUPTS,CLEC4C gene,interleukin-6 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1539221,C0678723,DISRUPTS,DCLK3 gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1539747,C0026649,DISRUPTS,SEPT4 gene,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1540014,C0678723,DISRUPTS,TMEM41B gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1540210,C1819430,DISRUPTS,ASZ1 gene,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1541483,C0011065,DISRUPTS,eculizumab,Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1565860,C0018270,DISRUPTS,"PTGS2 protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1565860,C2610587,DISRUPTS,"PTGS2 protein, human",lung growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1568891,C0003618,DISRUPTS,"HGS protein, human",Desire for food,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1568891,C0005823,DISRUPTS,"HGS protein, human",Blood Pressure,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1609165,C0011065,DISRUPTS,tocilizumab,Cessation of life,aapp,orgf,4,DISRUPTS_AAPPdrptORGF
+C1609165,C1819459,DISRUPTS,tocilizumab,interleukin-6 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1612111,C0018270,DISRUPTS,human MUC1 protein,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1624602,C0018270,DISRUPTS,Anti-Antibodies,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1624602,C1160185,DISRUPTS,Anti-Antibodies,Viral Transduction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1624602,C1327413,DISRUPTS,Anti-Antibodies,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1655202,C0678723,DISRUPTS,Phosphorylated Epidermal Growth Factor Receptor,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1679839,C1819447,DISRUPTS,"PRDM1 protein, human",interleukin-2 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1698754,C0018270,DISRUPTS,"IL6 protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1701790,C1819437,DISRUPTS,"IL17A protein, human",interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1701790,C3820786,DISRUPTS,"IL17A protein, human",chemokine (C-C motif) ligand 17 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1704838,C0000934,DISRUPTS,HIF1A wt Allele,Acclimatization,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1704838,C0018270,DISRUPTS,HIF1A wt Allele,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1705791,C1327413,DISRUPTS,MAPK1 wt Allele,cytokine production,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1705791,C1819459,DISRUPTS,MAPK1 wt Allele,interleukin-6 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1705791,C3156712,DISRUPTS,MAPK1 wt Allele,interleukin-33 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1705982,C1819430,DISRUPTS,KRAS wt Allele,type I interferon production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1706044,C0678723,DISRUPTS,PTPN11 wt Allele,Biologic Development,aapp,orgf,6,DISRUPTS_AAPPdrptORGF
+C1706044,C1155328,DISRUPTS,PTPN11 wt Allele,Antiviral Response,aapp,orgf,6,DISRUPTS_AAPPdrptORGF
+C1706044,C1749719,DISRUPTS,PTPN11 wt Allele,Adaptive Immune Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1706044,C1819430,DISRUPTS,PTPN11 wt Allele,type I interferon production,aapp,orgf,7,DISRUPTS_AAPPdrptORGF
+C1706285,C1327413,DISRUPTS,Interleukin-17 Receptor B,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1706289,C0678723,DISRUPTS,Interleukin-27,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1706289,C1817749,DISRUPTS,Interleukin-27,T cell cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1706289,C1819447,DISRUPTS,Interleukin-27,interleukin-2 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1706869,C0231896,DISRUPTS,BAG1 wt Allele,Chest movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1708995,C0018270,DISRUPTS,Metastasis Gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1709820,C0014653,DISRUPTS,ROS1 wt Allele,Equilibrium,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1709820,C0018270,DISRUPTS,ROS1 wt Allele,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1709820,C1819459,DISRUPTS,ROS1 wt Allele,interleukin-6 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1710602,C0021059,DISRUPTS,VIPR1 wt Allele,Immunologic Surveillance,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1742862,C0026649,DISRUPTS,"CISH protein, human",Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1748474,C0699900,DISRUPTS,Endosomal Sorting Complexes Required for Transport,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1822955,C0023946,DISRUPTS,SNORD50A gene,Locomotion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1823113,C0026649,DISRUPTS,SPRN gene,Movement,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1823437,C1155328,DISRUPTS,TMEM173 gene,Antiviral Response,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1823437,C1819432,DISRUPTS,TMEM173 gene,interferon-beta production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1823635,C0018270,DISRUPTS,DCAF1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1823924,C1327413,DISRUPTS,ZC3H12A gene,cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1824180,C1819437,DISRUPTS,C5AR1 gene,interleukin-10 production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1825044,C1155328,DISRUPTS,EIF2A gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825325,C0018270,DISRUPTS,G3BP1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825325,C0678723,DISRUPTS,G3BP1 gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825477,C1819430,DISRUPTS,PPIP5K1 gene,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825497,C0678723,DISRUPTS,ATG5 gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825497,C0699900,DISRUPTS,ATG5 gene,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825498,C0699900,DISRUPTS,ATG7 gene,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825576,C1654934,DISRUPTS,IGF2BP1 gene,Immune Evasion,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825598,C0003618,DISRUPTS,IMPACT gene,Desire for food,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825598,C0011065,DISRUPTS,IMPACT gene,Cessation of life,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1825598,C0014653,DISRUPTS,IMPACT gene,Equilibrium,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825598,C0018270,DISRUPTS,IMPACT gene,Growth,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C1825598,C0022864,DISRUPTS,IMPACT gene,Labor (Childbirth),aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825598,C0026649,DISRUPTS,IMPACT gene,Movement,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1825598,C0037361,DISRUPTS,IMPACT gene,Smell Perception,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825598,C2584321,DISRUPTS,IMPACT gene,Reaching,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1825621,C0018270,DISRUPTS,ISG15 gene,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1825621,C1155328,DISRUPTS,ISG15 gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1826443,C1155328,DISRUPTS,NMRAL1 gene,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1826449,C0678723,DISRUPTS,NOD2 gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1826545,C0018270,DISRUPTS,PATZ1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1826724,C0043240,DISRUPTS,PRRT2 gene,Wound Healing,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1826732,C0699900,DISRUPTS,PTCH1 gene,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1835886,C0018270,DISRUPTS,ACKR3 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1853685,C0018270,DISRUPTS,PBRM1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1864770,C0699900,DISRUPTS,MAVS gene,Catabolism,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1864770,C1155328,DISRUPTS,MAVS gene,Antiviral Response,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1864770,C1819430,DISRUPTS,MAVS gene,type I interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1864770,C3159140,DISRUPTS,MAVS gene,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1865043,C1819430,DISRUPTS,ATG12 gene,type I interferon production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C1876229,C0025519,DISRUPTS,telaprevir,Metabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1879506,C0018270,DISRUPTS,A/G-Specific Adenine DNA Glycosylase,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1882138,C0020967,DISRUPTS,ocrelizumab,Humoral Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1949480,C0011065,DISRUPTS,"protein C, human",Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1955907,C0018270,DISRUPTS,Adipokines,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1970415,C0013470,DISRUPTS,FTO gene,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1979003,C0018270,DISRUPTS,Rabbit Ab,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C1999501,C0018270,DISRUPTS,vascular endothelial growth factor-165,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C2607887,C0018270,DISRUPTS,FK228,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C2678549,C0018270,DISRUPTS,P4HTM gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C2681106,C0013470,DISRUPTS,UCMA gene,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C2681352,C0678723,DISRUPTS,CDKN2B-AS1 gene,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C2717970,C0015895,DISRUPTS,Cysteine Proteases,Fertility,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C2744535,C0006159,DISRUPTS,"CD69 protein, human",Breeding,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C2744535,C0018270,DISRUPTS,"CD69 protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C2744535,C0678210,DISRUPTS,"CD69 protein, human","Passive immunity, function",aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C2744579,C0018270,DISRUPTS,"ATP8A2 protein, human",Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C2936529,C1819436,DISRUPTS,Inflammasomes,interleukin-1 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C2945616,C0699900,DISRUPTS,protein iii,Catabolism,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C2985546,C0018270,DISRUPTS,"Antibodies, Monoclonal, Humanized",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3147110,C0018270,DISRUPTS,DSCAM-AS1 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3147110,C0026649,DISRUPTS,DSCAM-AS1 gene,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3180482,C0018270,DISRUPTS,vejovine,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3254242,C0678723,DISRUPTS,glutathione-C4,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3272370,C0018270,DISRUPTS,NEDD8 Activating Enzyme,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3273474,C1819430,DISRUPTS,Cytospin-B,type I interferon production,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C3273474,C3159140,DISRUPTS,Cytospin-B,interferon production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3273837,C0678723,DISRUPTS,S100B wt Allele,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3537035,C0018270,DISRUPTS,kinase inhibitor,Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C3538308,C1155328,DISRUPTS,Protein CBFA2T2,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3538735,C0021080,DISRUPTS,AMH wt Allele,Natural immunosuppression,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3538756,C0678723,DISRUPTS,NLRP1 wt Allele,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3538756,C1819437,DISRUPTS,NLRP1 wt Allele,interleukin-10 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3540560,C0018270,DISRUPTS,MVP wt Allele,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3540820,C0014653,DISRUPTS,CAPG wt Allele,Equilibrium,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3541895,C1155328,DISRUPTS,FCGR1A wt Allele,Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3657282,C0005823,DISRUPTS,alamandine,Blood Pressure,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3710914,C0018270,DISRUPTS,"EIF2AK2 protein, human",Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C3710914,C1155328,DISRUPTS,"EIF2AK2 protein, human",Antiviral Response,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C3714928,C0018270,DISRUPTS,"Angiotensin-2, Human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3715044,C0011065,DISRUPTS,AKR1A1 wt Allele,Cessation of life,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3815103,C0026649,DISRUPTS,MRLN gene,Movement,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3816283,C0018270,DISRUPTS,LINC01197 gene,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3849574,C0018270,DISRUPTS,"EPHB2 protein, human",Growth,aapp,orgf,2,DISRUPTS_AAPPdrptORGF
+C3849574,C1327413,DISRUPTS,"EPHB2 protein, human",cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3849701,C0013470,DISRUPTS,"interleukin 18 protein, human",Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3849701,C0018270,DISRUPTS,"interleukin 18 protein, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3887684,C0018270,DISRUPTS,"Kit Ligand, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3887958,C0021080,DISRUPTS,"Indoleamine 2,3-Dioxygenase, human",Natural immunosuppression,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3890397,C0018270,DISRUPTS,PRKAA1 wt Allele,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3890397,C0678723,DISRUPTS,PRKAA1 wt Allele,Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3891557,C1817919,DISRUPTS,Anti-CD20 Antibody,germinal center formation,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C3897398,C0018270,DISRUPTS,T-Cell Chemokine,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4048280,C1327413,DISRUPTS,"T-Cell Surface Glycoprotein CD4, human",cytokine production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4084937,C0018270,DISRUPTS,Antimicrobial Peptide,Growth,aapp,orgf,3,DISRUPTS_AAPPdrptORGF
+C4086522,C0018270,DISRUPTS,Interferon-Induced Protein with Tetratricopeptide Repeats Family,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4281805,C1819447,DISRUPTS,"T-Cell-Specific Surface Glycoprotein CD28, human",interleukin-2 production,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4283742,C0018270,DISRUPTS,"Ceramide Glucosyltransferase, human",Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4283742,C0678723,DISRUPTS,"Ceramide Glucosyltransferase, human",Biologic Development,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4284735,C0015745,DISRUPTS,TH wt Allele,Feeding behaviors,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4317106,C1155328,DISRUPTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Antiviral Response,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4321267,C0005823,DISRUPTS,COMP wt Allele,Blood Pressure,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4519594,C0020967,DISRUPTS,inebilizumab,Humoral Immunity,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4520829,C0013470,DISRUPTS,"Cholecystokinin, human",Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4723666,C0018270,DISRUPTS,SPATA2 wt Allele,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4723885,C1160185,DISRUPTS,DDX41 wt Allele,Viral Transduction,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C4725628,C0013470,DISRUPTS,Circulating Protein,Eating,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C5202672,C0018270,DISRUPTS,TNFRSF19 wt Allele,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF
+C5202748,C0018270,DISRUPTS,PTGDS wt Allele,Growth,aapp,orgf,1,DISRUPTS_AAPPdrptORGF

@@ -1,0 +1,49 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010834,C0028630,PRODUCES,Cytoplasm,Nucleotides,celc,nnon,1,PRODUCES_CELCprodNNON
+C0010834,C0033755,PRODUCES,Cytoplasm,Proviruses,celc,nnon,1,PRODUCES_CELCprodNNON
+C0010834,C0035736,PRODUCES,Cytoplasm,"RNA, Viral",celc,nnon,1,PRODUCES_CELCprodNNON
+C0010834,C1519595,PRODUCES,Cytoplasm,Transcript,celc,nnon,1,PRODUCES_CELCprodNNON
+C0026237,C0035736,PRODUCES,Mitochondria,"RNA, Viral",celc,nnon,1,PRODUCES_CELCprodNNON
+C0026237,C0073429,PRODUCES,Mitochondria,RNA primers,celc,nnon,1,PRODUCES_CELCprodNNON
+C0031310,C0035692,PRODUCES,Phagosomes,"RNA, Bacterial",celc,nnon,1,PRODUCES_CELCprodNNON
+C0034850,C0035736,PRODUCES,Endosomes,"RNA, Viral",celc,nnon,3,PRODUCES_CELCprodNNON
+C0034850,C3272452,PRODUCES,Endosomes,Single-Stranded RNA,celc,nnon,1,PRODUCES_CELCprodNNON
+C0042219,C0035736,PRODUCES,Vacuole,"RNA, Viral",celc,nnon,1,PRODUCES_CELCprodNNON
+C0042760,C0023978,PRODUCES,Virion,Long Terminal Repeat,celc,nnon,1,PRODUCES_CELCprodNNON
+C0042760,C0028630,PRODUCES,Virion,Nucleotides,celc,nnon,1,PRODUCES_CELCprodNNON
+C0042760,C0033755,PRODUCES,Virion,Proviruses,celc,nnon,1,PRODUCES_CELCprodNNON
+C0042760,C0035736,PRODUCES,Virion,"RNA, Viral",celc,nnon,9,PRODUCES_CELCprodNNON
+C0042760,C0056208,PRODUCES,Virion,Complementary RNA,celc,nnon,1,PRODUCES_CELCprodNNON
+C0175996,C0035736,PRODUCES,Protoplasm,"RNA, Viral",celc,nnon,3,PRODUCES_CELCprodNNON
+C0333785,C0006556,PRODUCES,Virus-like particles,"DNA, Complementary",celc,nnon,1,PRODUCES_CELCprodNNON
+C0596901,C0035736,PRODUCES,Membrane,"RNA, Viral",celc,nnon,3,PRODUCES_CELCprodNNON
+C0699040,C0028630,PRODUCES,Cell surface,Nucleotides,celc,nnon,1,PRODUCES_CELCprodNNON
+C0699040,C1519595,PRODUCES,Cell surface,Transcript,celc,nnon,1,PRODUCES_CELCprodNNON
+C0887838,C0006556,PRODUCES,trans-Golgi Network,"DNA, Complementary",celc,nnon,1,PRODUCES_CELCprodNNON
+C1166848,C0035736,PRODUCES,late endosome,"RNA, Viral",celc,nnon,1,PRODUCES_CELCprodNNON
+C1167121,C0012931,PRODUCES,DNA replication factor A complex location,Recombinant DNA,celc,nnon,1,PRODUCES_CELCprodNNON
+C1167121,C0012935,PRODUCES,DNA replication factor A complex location,"DNA, Single-Stranded",celc,nnon,1,PRODUCES_CELCprodNNON
+C1167121,C0206415,PRODUCES,DNA replication factor A complex location,Oligonucleotide Primers,celc,nnon,2,PRODUCES_CELCprodNNON
+C1167519,C0035736,PRODUCES,viral capsid,"RNA, Viral",celc,nnon,1,PRODUCES_CELCprodNNON
+C1167519,C1519595,PRODUCES,viral capsid,Transcript,celc,nnon,1,PRODUCES_CELCprodNNON
+C1179907,C0035736,PRODUCES,Wall of endosome,"RNA, Viral",celc,nnon,1,PRODUCES_CELCprodNNON
+C1179907,C0887909,PRODUCES,Wall of endosome,"RNA, Untranslated",celc,nnon,1,PRODUCES_CELCprodNNON
+C1268456,C0035736,PRODUCES,Viral Components,"RNA, Viral",celc,nnon,1,PRODUCES_CELCprodNNON
+C1268456,C1519595,PRODUCES,Viral Components,Transcript,celc,nnon,1,PRODUCES_CELCprodNNON
+C1268457,C1510800,PRODUCES,Viral core,Adenovirus Vector,celc,nnon,1,PRODUCES_CELCprodNNON
+C1383501,C0045143,PRODUCES,Cytoplasmic matrix,"2',5'-oligoadenylate",celc,nnon,1,PRODUCES_CELCprodNNON
+C1383501,C2930586,PRODUCES,Cytoplasmic matrix,Short Hairpin RNA,celc,nnon,1,PRODUCES_CELCprodNNON
+C1383501,C4321505,PRODUCES,Cytoplasmic matrix,Damage-Induced Noncoding RNA,celc,nnon,3,PRODUCES_CELCprodNNON
+C1511546,C0071360,PRODUCES,Crosslinker,"5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer",celc,nnon,1,PRODUCES_CELCprodNNON
+C1515498,C0073432,PRODUCES,9p21,"RNA, Circular",celc,nnon,1,PRODUCES_CELCprodNNON
+C1819995,C0018353,PRODUCES,Host Cell,Guanosine Triphosphate,celc,nnon,1,PRODUCES_CELCprodNNON
+C1819995,C0033755,PRODUCES,Host Cell,Proviruses,celc,nnon,2,PRODUCES_CELCprodNNON
+C1819995,C0035736,PRODUCES,Host Cell,"RNA, Viral",celc,nnon,3,PRODUCES_CELCprodNNON
+C1819995,C0887909,PRODUCES,Host Cell,"RNA, Untranslated",celc,nnon,1,PRODUCES_CELCprodNNON
+C1819995,C2982391,PRODUCES,Host Cell,Long Intergenic Non-Protein Coding RNA,celc,nnon,1,PRODUCES_CELCprodNNON
+C1819995,C3272452,PRODUCES,Host Cell,Single-Stranded RNA,celc,nnon,2,PRODUCES_CELCprodNNON
+C2247081,C0035736,PRODUCES,host cell membrane,"RNA, Viral",celc,nnon,1,PRODUCES_CELCprodNNON
+C2350307,C1514152,PRODUCES,Cell-Derived Microparticles,Plasmid Cloning Vector,celc,nnon,1,PRODUCES_CELCprodNNON
+C2350332,C0028621,PRODUCES,Exosomes,Nucleosides,celc,nnon,1,PRODUCES_CELCprodNNON
+C2350332,C2936494,PRODUCES,Exosomes,"RNA, Small Untranslated",celc,nnon,1,PRODUCES_CELCprodNNON
+C3549194,C0012939,PRODUCES,viral membrane,"DNA, Viral",celc,nnon,1,PRODUCES_CELCprodNNON

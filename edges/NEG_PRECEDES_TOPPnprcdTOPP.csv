@@ -1,0 +1,17 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011121,C0441509,NEG_PRECEDES,Decontamination,Coagulation procedure,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C0020971,C0042196,NEG_PRECEDES,Immunization,Vaccination,topp,topp,3,NEG_PRECEDES_TOPPnprcdTOPP
+C0021932,C0199470,NEG_PRECEDES,"Intubation, Intratracheal",Mechanical ventilation,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C0035273,C0935576,NEG_PRECEDES,Resuscitation procedure,treatment guideline,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C0040732,C0814357,NEG_PRECEDES,Transplantation,universal prevention,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C0042196,C0052712,NEG_PRECEDES,Vaccination,doxorubicin/mitomycin/vinblastine protocol,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C0198482,C0021925,NEG_PRECEDES,Operation on abdominal region,Intubation,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C0199176,C0152060,NEG_PRECEDES,Prophylactic treatment,Transection (procedure),topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C0472699,C0086818,NEG_PRECEDES,Hemopoietic stem cell transplant,Platelet Transfusion,topp,topp,2,NEG_PRECEDES_TOPPnprcdTOPP
+C0521302,C0678812,NEG_PRECEDES,Fluid replacement,systemic administration,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C0574032,C3850079,NEG_PRECEDES,Infusion procedures,Cytoreductive Surgery,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C0877130,C0035139,NEG_PRECEDES,aortic surgery,Surgical Replantation,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C0877341,C0019004,NEG_PRECEDES,Coronary Revascularization Procedure,Hemodialysis,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C1511790,C0204727,NEG_PRECEDES,Detection,Isolation procedure,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C2368628,C0042196,NEG_PRECEDES,Vaccine Administration,Vaccination,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP
+C3179010,C1520143,NEG_PRECEDES,Induction Chemotherapy,Whole brain radiation therapy,topp,topp,1,NEG_PRECEDES_TOPPnprcdTOPP

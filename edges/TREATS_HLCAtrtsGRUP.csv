@@ -1,0 +1,199 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009470,C0009462,TREATS,Community Health Education,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0009586,C0009462,TREATS,Comprehensive Health Care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0009818,C0009462,TREATS,Consultation,Community,hlca,grup,7,TREATS_HLCAtrtsGRUP
+C0009818,C0009932,TREATS,Consultation,Control Groups,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0009818,C2699414,TREATS,Consultation,Committee,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0009853,C0009462,TREATS,Continuity of Patient Care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0009861,C0086418,TREATS,Family Planning,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0010210,C0009462,TREATS,Counseling,Community,hlca,grup,3,TREATS_HLCAtrtsGRUP
+C0010210,C1633987,TREATS,Counseling,Flock,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0010337,C0871489,TREATS,Care of intensive care unit patient,Team,hlca,grup,3,TREATS_HLCAtrtsGRUP
+C0011211,C0009462,TREATS,Delivery of Health Care,Community,hlca,grup,5,TREATS_HLCAtrtsGRUP
+C0011929,C0086418,TREATS,Diagnostic Services,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0012622,C0008942,TREATS,Discharge Planning,Clients,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0013961,C0009462,TREATS,Emergency medical service,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0015187,C0008942,TREATS,Euthanasia,Clients,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0015187,C0086418,TREATS,Euthanasia,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0017313,C0009462,TREATS,patient care,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0018727,C0009462,TREATS,Health Planning,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0018738,C0009462,TREATS,Health Promotion,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0018738,C0242821,TREATS,Health Promotion,Human body,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0018747,C0009462,TREATS,Health Services,Community,hlca,grup,3,TREATS_HLCAtrtsGRUP
+C0019860,C0009462,TREATS,Home Nursing,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0019948,C0009462,TREATS,Hospital Administration,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0019959,C0009462,TREATS,"Closure, Hospital",Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0019978,C0009462,TREATS,Hospital Planning,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0019993,C0009462,TREATS,Hospitalization,Community,hlca,grup,18,TREATS_HLCAtrtsGRUP
+C0019993,C0009932,TREATS,Hospitalization,Control Groups,hlca,grup,5,TREATS_HLCAtrtsGRUP
+C0019993,C0086418,TREATS,Hospitalization,Homo sapiens,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0020043,C0009462,TREATS,Home visit (procedure),Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0020043,C0871489,TREATS,Home visit (procedure),Team,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0021682,C0009462,TREATS,Health Insurance,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0023977,C0009462,TREATS,long-term care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0023977,C0086418,TREATS,long-term care,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0025355,C0008942,TREATS,Mental Health Services,Clients,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0025355,C0009462,TREATS,Mental Health Services,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0027452,C2699414,TREATS,National Health Insurance,Committee,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0030685,C0009462,TREATS,Patient Discharge,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0030685,C0009932,TREATS,Patient Discharge,Control Groups,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0030685,C0086418,TREATS,Patient Discharge,Homo sapiens,hlca,grup,11,TREATS_HLCAtrtsGRUP
+C0030685,C0242821,TREATS,Patient Discharge,Human body,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0031321,C0009462,TREATS,Pharmaceutical Services,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0031809,C0009462,TREATS,Physical Examination,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0031809,C0009932,TREATS,Physical Examination,Control Groups,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0031809,C0242821,TREATS,Physical Examination,Human body,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0031809,C1633987,TREATS,Physical Examination,Flock,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0033080,C0009462,TREATS,Prescription procedure,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0033101,C0009932,TREATS,pretesting,Control Groups,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0033109,C0748877,TREATS,Preventive Health Services,Support System,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0033137,C0009462,TREATS,Primary Health Care,Community,hlca,grup,12,TREATS_HLCAtrtsGRUP
+C0034024,C0009462,TREATS,Public Health Practice,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0034379,C0009462,TREATS,Quality of Health Care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0034379,C0871489,TREATS,Quality of Health Care,Team,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0034927,C0009462,TREATS,Patient referral,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0035649,C0086418,TREATS,Risk Management,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0035649,C2699414,TREATS,Risk Management,Committee,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0043113,C0009462,TREATS,Wellness Programs,Community,hlca,grup,3,TREATS_HLCAtrtsGRUP
+C0085093,C0086418,TREATS,"Medicine, African Traditional",Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0085204,C0086418,TREATS,Universal Precautions,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0085557,C0009462,TREATS,Infectious disease prevention / control,Community,hlca,grup,7,TREATS_HLCAtrtsGRUP
+C0085557,C0086418,TREATS,Infectious disease prevention / control,Homo sapiens,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0085557,C0871489,TREATS,Infectious disease prevention / control,Team,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0085559,C0009462,TREATS,intensive care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0086930,C0009462,TREATS,Risk Assessment,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0086930,C0086418,TREATS,Risk Assessment,Homo sapiens,hlca,grup,9,TREATS_HLCAtrtsGRUP
+C0150185,C0086418,TREATS,Decision making encouragement,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0150270,C0009932,TREATS,Medication Management,Control Groups,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0150270,C0086418,TREATS,Medication Management,Homo sapiens,hlca,grup,3,TREATS_HLCAtrtsGRUP
+C0150355,C0009462,TREATS,Spiritual support,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0150600,C0009462,TREATS,Advice,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0150600,C0871489,TREATS,Advice,Team,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0150600,C2699414,TREATS,Advice,Committee,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0150788,C0242821,TREATS,Stress management,Human body,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0162648,C0008942,TREATS,Telemedicine,Clients,hlca,grup,4,TREATS_HLCAtrtsGRUP
+C0162648,C0009462,TREATS,Telemedicine,Community,hlca,grup,8,TREATS_HLCAtrtsGRUP
+C0184643,C0009462,TREATS,Mental health care,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0184666,C0009462,TREATS,Hospital admission,Community,hlca,grup,10,TREATS_HLCAtrtsGRUP
+C0199171,C0009462,TREATS,medical procedure,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0199171,C0086418,TREATS,medical procedure,Homo sapiens,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0200345,C0008942,TREATS,Specimen Collection,Clients,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0200345,C0009462,TREATS,Specimen Collection,Community,hlca,grup,6,TREATS_HLCAtrtsGRUP
+C0200345,C0009932,TREATS,Specimen Collection,Control Groups,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0200345,C0086418,TREATS,Specimen Collection,Homo sapiens,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0200345,C1633987,TREATS,Specimen Collection,Flock,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0204688,C0009462,TREATS,Temperature taking,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0204695,C0086418,TREATS,Feeding patient,Homo sapiens,hlca,grup,4,TREATS_HLCAtrtsGRUP
+C0206082,C0009462,TREATS,Immunization Programs,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0206082,C0086418,TREATS,Immunization Programs,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0206082,C1633987,TREATS,Immunization Programs,Flock,hlca,grup,3,TREATS_HLCAtrtsGRUP
+C0220825,C0009462,TREATS,Evaluation,Community,hlca,grup,9,TREATS_HLCAtrtsGRUP
+C0220825,C0009932,TREATS,Evaluation,Control Groups,hlca,grup,3,TREATS_HLCAtrtsGRUP
+C0220825,C0086418,TREATS,Evaluation,Homo sapiens,hlca,grup,51,TREATS_HLCAtrtsGRUP
+C0220825,C0242821,TREATS,Evaluation,Human body,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0220825,C0871489,TREATS,Evaluation,Team,hlca,grup,4,TREATS_HLCAtrtsGRUP
+C0220825,C1633987,TREATS,Evaluation,Flock,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0237070,C0086418,TREATS,Discipline,Homo sapiens,hlca,grup,4,TREATS_HLCAtrtsGRUP
+C0237070,C0871489,TREATS,Discipline,Team,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0243024,C0009462,TREATS,Patient-Centered Care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0259945,C0009462,TREATS,hospital care,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0262685,C2699414,TREATS,Delegation,Committee,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0278329,C0009462,TREATS,Prescribed,Community,hlca,grup,5,TREATS_HLCAtrtsGRUP
+C0344211,C0009462,TREATS,Supportive care,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0344211,C0009932,TREATS,Supportive care,Control Groups,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0344211,C0086418,TREATS,Supportive care,Homo sapiens,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0376708,C0871489,TREATS,Unnecessary Procedures,Team,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0419189,C0009462,TREATS,Social care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0420004,C0009462,TREATS,Tuberculosis screening,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0420388,C0009462,TREATS,Referral to care of the elderly service,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0422202,C0009462,TREATS,Notifications (procedure),Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0441587,C0009462,TREATS,Clinical act of insertion,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0441587,C0086418,TREATS,Clinical act of insertion,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0455202,C0009462,TREATS,Personal assessment,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0545092,C0009462,TREATS,hospital visit,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0553618,C0009462,TREATS,emergency visit,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0554896,C0009462,TREATS,rates reimbursement,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0558024,C0086418,TREATS,Functional behavioral assessment,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0582103,C0008942,TREATS,Medical Examination,Clients,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0587569,C0009462,TREATS,Physician service,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0587597,C0009462,TREATS,Obstetrics service,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0587599,C0009462,TREATS,Pediatric service,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0588388,C0086418,TREATS,General observation,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0600015,C0871489,TREATS,Emotional support,Team,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0677335,C0086418,TREATS,monitor database,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0679226,C0086418,TREATS,disorder analysis,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0679831,C0871489,TREATS,Patient History,Team,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0679878,C0009462,TREATS,acute care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0679878,C0871489,TREATS,acute care,Team,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0679892,C0009462,TREATS,community-based health service,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0679898,C0009462,TREATS,public health program,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C0699943,C0009462,TREATS,Public health service,Community,hlca,grup,9,TREATS_HLCAtrtsGRUP
+C0700325,C0009462,TREATS,Patient observation,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0700325,C0086418,TREATS,Patient observation,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0700325,C1633987,TREATS,Patient observation,Flock,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0729338,C0009462,TREATS,Care provision regimes,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0733511,C0009462,TREATS,Medical Surveillance,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0805586,C0009462,TREATS,Challenge,Community,hlca,grup,37,TREATS_HLCAtrtsGRUP
+C0805586,C0009932,TREATS,Challenge,Control Groups,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0805586,C0086418,TREATS,Challenge,Homo sapiens,hlca,grup,18,TREATS_HLCAtrtsGRUP
+C0805586,C0242821,TREATS,Challenge,Human body,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0805586,C0748877,TREATS,Challenge,Support System,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0805586,C0871489,TREATS,Challenge,Team,hlca,grup,7,TREATS_HLCAtrtsGRUP
+C0814459,C0009932,TREATS,brief intervention,Control Groups,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0814500,C0009462,TREATS,elective care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0850397,C0009462,TREATS,health information,Community,hlca,grup,7,TREATS_HLCAtrtsGRUP
+C0871311,C0009462,TREATS,screening tests,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C0948564,C0009462,TREATS,Medical observation,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1144866,C2699414,TREATS,Multi-disciplinary team,Committee,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1171218,C0086418,TREATS,Social network analysis,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1261322,C0009462,TREATS,Evaluation procedure,Community,hlca,grup,14,TREATS_HLCAtrtsGRUP
+C1261322,C0009932,TREATS,Evaluation procedure,Control Groups,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1261322,C0086418,TREATS,Evaluation procedure,Homo sapiens,hlca,grup,27,TREATS_HLCAtrtsGRUP
+C1261322,C0871489,TREATS,Evaluation procedure,Team,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1292969,C0086418,TREATS,Procedure on blood vessel,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1444562,C0009462,TREATS,Wellness surveillance,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C1512346,C0009462,TREATS,Patient Visit,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1512346,C0009932,TREATS,Patient Visit,Control Groups,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1514821,C0009462,TREATS,Registration,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C1515187,C0009462,TREATS,Take,Community,hlca,grup,3,TREATS_HLCAtrtsGRUP
+C1515187,C0009932,TREATS,Take,Control Groups,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1515187,C0086418,TREATS,Take,Homo sapiens,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C1516193,C0086418,TREATS,Cancer Detection,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1516735,C0009462,TREATS,Community Practice,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1516879,C0009932,TREATS,Enrollment,Control Groups,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C1516879,C0871489,TREATS,Enrollment,Team,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C1522577,C0009462,TREATS,follow-up,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C1522577,C0009932,TREATS,follow-up,Control Groups,hlca,grup,9,TREATS_HLCAtrtsGRUP
+C1704289,C0009462,TREATS,Clinical Services,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1704289,C0871489,TREATS,Clinical Services,Team,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1827659,C0086418,TREATS,Public health investigation,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1999123,C0009462,TREATS,Continued Surveillance,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C1999123,C0086418,TREATS,Continued Surveillance,Homo sapiens,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C2348625,C0086418,TREATS,Sweep,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C2359834,C0086418,TREATS,Additional assessment,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C2599893,C0009462,TREATS,Oral care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C2599893,C0009932,TREATS,Oral care,Control Groups,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C2718016,C0086418,TREATS,Compassionate Use,Homo sapiens,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C2936643,C0009932,TREATS,Standard of Care,Control Groups,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C2945700,C0086418,TREATS,typology,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C3242284,C0009462,TREATS,Population Health,Community,hlca,grup,3,TREATS_HLCAtrtsGRUP
+C3494177,C0009462,TREATS,Informal care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C3494402,C0009462,TREATS,Secondary Care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C3494403,C0871489,TREATS,Tertiary Healthcare,Team,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C3494740,C0009462,TREATS,Alcohol brief intervention,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C3527152,C0009462,TREATS,specialised service,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C3889687,C0009462,TREATS,Clinical Observation,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C3889687,C0086418,TREATS,Clinical Observation,Homo sapiens,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C4036459,C0009462,TREATS,Contacts,Community,hlca,grup,48,TREATS_HLCAtrtsGRUP
+C4036459,C0086418,TREATS,Contacts,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C4042802,C0009462,TREATS,Telerehabilitation,Community,hlca,grup,3,TREATS_HLCAtrtsGRUP
+C4042889,C0086418,TREATS,Children's Health Insurance Program,Homo sapiens,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C4279933,C0009462,TREATS,Vaccination Campaign,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C4279933,C0086418,TREATS,Vaccination Campaign,Homo sapiens,hlca,grup,3,TREATS_HLCAtrtsGRUP
+C4489276,C0009462,TREATS,Readmission,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C4505099,C0009462,TREATS,Antimicrobial Stewardship,Community,hlca,grup,2,TREATS_HLCAtrtsGRUP
+C4505148,C0009462,TREATS,Vaccination Coverage,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C4505149,C0009462,TREATS,Immunization Coverage,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C4520476,C0009462,TREATS,Telehealth service,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C4542604,C0009462,TREATS,Coordinated Care,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP
+C5197919,C0009462,TREATS,Exposome,Community,hlca,grup,1,TREATS_HLCAtrtsGRUP

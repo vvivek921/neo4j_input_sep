@@ -1,0 +1,18 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011304,C0032580,PRECEDES,Demyelination,Adenomatous Polyposis Coli,patf,neop,1,PRECEDES_PATFprcdNEOP
+C0013687,C0006826,PRECEDES,effusion,Malignant Neoplasms,patf,neop,1,PRECEDES_PATFprcdNEOP
+C0021368,C0242596,PRECEDES,Inflammation,"Neoplasm, Residual",patf,neop,1,PRECEDES_PATFprcdNEOP
+C0021376,C0006826,PRECEDES,Chronic inflammation,Malignant Neoplasms,patf,neop,1,PRECEDES_PATFprcdNEOP
+C0021376,C0007621,PRECEDES,Chronic inflammation,Neoplastic Cell Transformation,patf,neop,1,PRECEDES_PATFprcdNEOP
+C0026766,C0024299,PRECEDES,Multiple Organ Failure,Lymphoma,patf,neop,1,PRECEDES_PATFprcdNEOP
+C0036982,C0027627,PRECEDES,"Shock, Hemorrhagic",Neoplasm Metastasis,patf,neop,1,PRECEDES_PATFprcdNEOP
+C0161818,C0024305,PRECEDES,Respiratory complication,"Lymphoma, Non-Hodgkin",patf,neop,1,PRECEDES_PATFprcdNEOP
+C0242656,C0027651,PRECEDES,Disease Progression,Neoplasms,patf,neop,1,PRECEDES_PATFprcdNEOP
+C1373218,C0024299,PRECEDES,Decreased Immunologic Activity [PE],Lymphoma,patf,neop,1,PRECEDES_PATFprcdNEOP
+C1373218,C0024314,PRECEDES,Decreased Immunologic Activity [PE],Lymphoproliferative Disorders,patf,neop,1,PRECEDES_PATFprcdNEOP
+C1373218,C0027651,PRECEDES,Decreased Immunologic Activity [PE],Neoplasms,patf,neop,1,PRECEDES_PATFprcdNEOP
+C1373218,C0376545,PRECEDES,Decreased Immunologic Activity [PE],Hematologic Neoplasms,patf,neop,1,PRECEDES_PATFprcdNEOP
+C3714514,C0006826,PRECEDES,Infection,Malignant Neoplasms,patf,neop,1,PRECEDES_PATFprcdNEOP
+C3714514,C0242647,PRECEDES,Infection,Mucosa-Associated Lymphoid Tissue Lymphoma,patf,neop,1,PRECEDES_PATFprcdNEOP
+C3714514,C0343079,PRECEDES,Infection,"Milia, Multiple Eruptive",patf,neop,1,PRECEDES_PATFprcdNEOP
+C4061114,C0686377,PRECEDES,Acute illness,CNS metastases,patf,neop,1,PRECEDES_PATFprcdNEOP

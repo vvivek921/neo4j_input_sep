@@ -1,0 +1,554 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001060,C0016712,COEXISTS_WITH,Acetylmuramyl-Alanyl-Isoglutamine,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0001347,C0003320,COEXISTS_WITH,Acute-Phase Proteins,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0001347,C0016712,COEXISTS_WITH,Acute-Phase Proteins,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0002520,C0003316,COEXISTS_WITH,Amino Acids,Epitopes,aapp,imft,22,COEXISTS_WITH_AAPPcxwtIMFT
+C0002520,C0003320,COEXISTS_WITH,Amino Acids,Antigens,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0002520,C0018911,COEXISTS_WITH,Amino Acids,"Hemagglutinins, Viral",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0002520,C0058218,COEXISTS_WITH,Amino Acids,dimethyl fumarate,aapp,imft,4,COEXISTS_WITH_AAPPcxwtIMFT
+C0002520,C0282580,COEXISTS_WITH,Amino Acids,"Epitopes, T-Lymphocyte",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0002520,C0282581,COEXISTS_WITH,Amino Acids,"Epitopes, B-Lymphocyte",aapp,imft,6,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0003316,COEXISTS_WITH,Antibodies,Epitopes,aapp,imft,13,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0003320,COEXISTS_WITH,Antibodies,Antigens,aapp,imft,28,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0003342,COEXISTS_WITH,Antibodies,"Antigens, Viral",aapp,imft,4,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0004359,COEXISTS_WITH,Antibodies,Autoantigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0005457,COEXISTS_WITH,Antibodies,"Binding Sites, Antibody",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0005525,COEXISTS_WITH,Antibodies,Biological Response Modifiers,aapp,imft,5,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0005804,COEXISTS_WITH,Antibodies,Blood Group Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0016712,COEXISTS_WITH,Antibodies,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0021009,COEXISTS_WITH,Antibodies,Immunoglobulin Fragments,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0021403,COEXISTS_WITH,Antibodies,Influenza virus vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0022144,COEXISTS_WITH,Antibodies,Isoantibodies,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0042211,COEXISTS_WITH,Antibodies,"Vaccines, Attenuated",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0079600,COEXISTS_WITH,Antibodies,Immunodominant Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0085355,COEXISTS_WITH,Antibodies,Human Platelet Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0086413,COEXISTS_WITH,Antibodies,HIV Vaccine,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0282580,COEXISTS_WITH,Antibodies,"Epitopes, T-Lymphocyte",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0301838,COEXISTS_WITH,Antibodies,Soluble antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0301871,COEXISTS_WITH,Antibodies,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0368675,COEXISTS_WITH,Antibodies,antibody antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0369095,COEXISTS_WITH,Antibodies,d antibody,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0376613,COEXISTS_WITH,Antibodies,"Vaccines, DNA",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0456981,COEXISTS_WITH,Antibodies,Specific antigen,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0770694,COEXISTS_WITH,Antibodies,trivalent influenza vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C0887892,COEXISTS_WITH,Antibodies,"Vaccines, Subunit",aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C1291778,COEXISTS_WITH,Antibodies,Glycoprotein antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C1440440,COEXISTS_WITH,Antibodies,Chicken serum,aapp,imft,5,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C1441055,COEXISTS_WITH,Antibodies,Paraneoplastic,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C1883036,COEXISTS_WITH,Antibodies,Single-Chain Antibodies,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C2825347,COEXISTS_WITH,Antibodies,"immunoglobulin A, human",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0003241,C5203663,COEXISTS_WITH,Antibodies,Skim milk allergenic extract,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0003242,C0001551,COEXISTS_WITH,"Antibodies, Anti-Idiotypic",Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003242,C0005525,COEXISTS_WITH,"Antibodies, Anti-Idiotypic",Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003242,C4282212,COEXISTS_WITH,"Antibodies, Anti-Idiotypic",IgG.serum,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003248,C0003333,COEXISTS_WITH,Heterophile Antibodies,"Antigens, Heterophile",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003250,C0003316,COEXISTS_WITH,Monoclonal Antibodies,Epitopes,aapp,imft,18,COEXISTS_WITH_AAPPcxwtIMFT
+C0003250,C0003320,COEXISTS_WITH,Monoclonal Antibodies,Antigens,aapp,imft,5,COEXISTS_WITH_AAPPcxwtIMFT
+C0003250,C0003342,COEXISTS_WITH,Monoclonal Antibodies,"Antigens, Viral",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003250,C0005525,COEXISTS_WITH,Monoclonal Antibodies,Biological Response Modifiers,aapp,imft,7,COEXISTS_WITH_AAPPcxwtIMFT
+C0003250,C0016712,COEXISTS_WITH,Monoclonal Antibodies,Freund's Adjuvant,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0003250,C0079600,COEXISTS_WITH,Monoclonal Antibodies,Immunodominant Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003250,C0376613,COEXISTS_WITH,Monoclonal Antibodies,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003250,C0456981,COEXISTS_WITH,Monoclonal Antibodies,Specific antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003250,C1291777,COEXISTS_WITH,Monoclonal Antibodies,Protein antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003250,C1883036,COEXISTS_WITH,Monoclonal Antibodies,Single-Chain Antibodies,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0003313,C0016712,COEXISTS_WITH,Immune complex,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003313,C0079600,COEXISTS_WITH,Immune complex,Immunodominant Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003313,C0456981,COEXISTS_WITH,Immune complex,Specific antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0003765,C0599934,COEXISTS_WITH,arginine,"Vaccines, Peptide",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0004358,C0004359,COEXISTS_WITH,Autoantibodies,Autoantigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0007292,C0003320,COEXISTS_WITH,Carrier Proteins,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0007292,C0004632,COEXISTS_WITH,Carrier Proteins,Bacterial Vaccines,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0007292,C0206515,COEXISTS_WITH,Carrier Proteins,"Vaccines, Conjugate",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0007292,C0282580,COEXISTS_WITH,Carrier Proteins,"Epitopes, T-Lymphocyte",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0009498,C0003320,COEXISTS_WITH,Complement System Proteins,Antigens,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0009498,C0016712,COEXISTS_WITH,Complement System Proteins,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0009498,C0022144,COEXISTS_WITH,Complement System Proteins,Isoantibodies,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0009630,C0301869,COEXISTS_WITH,Concanavalin A,Immunostimulating conjugate (antigen),aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0010590,C0003320,COEXISTS_WITH,cycloserine,Antigens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0010590,C0599597,COEXISTS_WITH,cycloserine,genetic vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0010654,C2825347,COEXISTS_WITH,cysteine,"immunoglobulin A, human",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0010803,C0003320,COEXISTS_WITH,Cytokeratin,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0010803,C0003324,COEXISTS_WITH,Cytokeratin,Differentiation Antigens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0013700,C0021403,COEXISTS_WITH,Egg Proteins,Influenza virus vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0013705,C0016712,COEXISTS_WITH,Egg White Proteins,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0014063,C0001551,COEXISTS_WITH,Myelin Basic Proteins,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0014063,C0003320,COEXISTS_WITH,Myelin Basic Proteins,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0014063,C0016712,COEXISTS_WITH,Myelin Basic Proteins,Freund's Adjuvant,aapp,imft,5,COEXISTS_WITH_AAPPcxwtIMFT
+C0015879,C0001551,COEXISTS_WITH,Ferritin,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0016194,C0003316,COEXISTS_WITH,Flagellin,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0017237,C0065828,COEXISTS_WITH,gelatin,Measles-Mumps-Rubella Vaccine,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0017278,C0001551,COEXISTS_WITH,"Gene Products, env",Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0017278,C0016712,COEXISTS_WITH,"Gene Products, env",Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0017350,C0003320,COEXISTS_WITH,"Genes, Immunoglobulin",Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0017350,C1441165,COEXISTS_WITH,"Genes, Immunoglobulin",S-100,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0017363,C1320124,COEXISTS_WITH,Multigene Family,Plasmodium antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0017366,C0376613,COEXISTS_WITH,Structural gene,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0017376,C0376613,COEXISTS_WITH,"Genes, Viral","Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0017890,C0058218,COEXISTS_WITH,glycine,dimethyl fumarate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0017953,C0003316,COEXISTS_WITH,Glycopeptides,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0017968,C0003316,COEXISTS_WITH,Glycoproteins,Epitopes,aapp,imft,4,COEXISTS_WITH_AAPPcxwtIMFT
+C0017968,C0003320,COEXISTS_WITH,Glycoproteins,Antigens,aapp,imft,4,COEXISTS_WITH_AAPPcxwtIMFT
+C0017968,C0005457,COEXISTS_WITH,Glycoproteins,"Binding Sites, Antibody",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0017968,C0042212,COEXISTS_WITH,Glycoproteins,"Vaccines, Inactivated",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0017968,C0282580,COEXISTS_WITH,Glycoproteins,"Epitopes, T-Lymphocyte",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0017968,C1440974,COEXISTS_WITH,Glycoproteins,Monosialoganglioside GM1,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0017968,C1718680,COEXISTS_WITH,Glycoproteins,Avian metapneumovirus C,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0018909,C0001551,COEXISTS_WITH,Hemagglutinin,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0018909,C0003320,COEXISTS_WITH,Hemagglutinin,Antigens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0018909,C0770694,COEXISTS_WITH,Hemagglutinin,trivalent influenza vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0018909,C0887892,COEXISTS_WITH,Hemagglutinin,"Vaccines, Subunit",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0019630,C0003320,COEXISTS_WITH,Histocompatibility Antigens Class II,Antigens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0019691,C0079600,COEXISTS_WITH,HIV Envelope Protein gp120,Immunodominant Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0019721,C0003316,COEXISTS_WITH,HLA Antigens,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0020731,C0016712,COEXISTS_WITH,Pertussis Toxin,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0020838,C2825347,COEXISTS_WITH,Secretory Immunoglobulin A,"immunoglobulin A, human",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0020840,C2825347,COEXISTS_WITH,IgA1,"immunoglobulin A, human",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0020846,C0002092,COEXISTS_WITH,Immunoglobulin E,Allergens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0020960,C0001551,COEXISTS_WITH,Immune Sera,Immunologic Adjuvants,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0020960,C0003316,COEXISTS_WITH,Immune Sera,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0020960,C0003320,COEXISTS_WITH,Immune Sera,Antigens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0020960,C0016712,COEXISTS_WITH,Immune Sera,Freund's Adjuvant,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0020960,C0021403,COEXISTS_WITH,Immune Sera,Influenza virus vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0020960,C0598658,COEXISTS_WITH,Immune Sera,antibody conjugate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021017,C1440949,COEXISTS_WITH,Immunoglobulin Isotypes,Mare milk,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021017,C2825347,COEXISTS_WITH,Immunoglobulin Isotypes,"immunoglobulin A, human",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021024,C0221114,COEXISTS_WITH,Complementarity Determining Regions,Antigen recognition site,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021027,C0003320,COEXISTS_WITH,Immunoglobulins,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021027,C0016712,COEXISTS_WITH,Immunoglobulins,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021027,C0913232,COEXISTS_WITH,Immunoglobulins,Pre-B Cell Receptors,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021031,C0021009,COEXISTS_WITH,Fab Immunoglobulins,Immunoglobulin Fragments,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021032,C0003320,COEXISTS_WITH,Immunoglobulin Fc Fragments,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021665,C0003320,COEXISTS_WITH,Insulin-Like Growth Factor I,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021740,C0003320,COEXISTS_WITH,Recombinant Interferon-gamma,Antigens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0021747,C0005525,COEXISTS_WITH,Interferons,Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021747,C0376613,COEXISTS_WITH,Interferons,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021755,C0071315,COEXISTS_WITH,Interleukin-1,Pneumovax,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021756,C0021009,COEXISTS_WITH,Interleukin-2,Immunoglobulin Fragments,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0021756,C0599796,COEXISTS_WITH,Interleukin-2,mhc antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0022009,C0042211,COEXISTS_WITH,Ion Channel,"Vaccines, Attenuated",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0023206,C0018593,COEXISTS_WITH,Lectin,Haptens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0023764,C0016712,COEXISTS_WITH,lipase,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0024075,C0042742,COEXISTS_WITH,Luciferases,Viral Vaccines,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0024337,C0003316,COEXISTS_WITH,lysine,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0024337,C0003320,COEXISTS_WITH,lysine,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0025252,C0003342,COEXISTS_WITH,Membrane Proteins,"Antigens, Viral",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0025252,C0085408,COEXISTS_WITH,Membrane Proteins,ISCOMs,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0026138,C1440965,COEXISTS_WITH,Milk Proteins,Milk powder,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0027021,C5203662,COEXISTS_WITH,peroxidase,"Milk,processed nonfat dry allergenic extract",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0027078,C1440440,COEXISTS_WITH,Myoglobin,Chicken serum,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0027803,C0003320,COEXISTS_WITH,Neuraminidase,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0027803,C0887892,COEXISTS_WITH,Neuraminidase,"Vaccines, Subunit",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0028115,C0310663,COEXISTS_WITH,Nisin,Animal disease vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0028612,C0282580,COEXISTS_WITH,Nucleoproteins,"Epitopes, T-Lymphocyte",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0029923,C0001551,COEXISTS_WITH,ovalbumin,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0029923,C0016712,COEXISTS_WITH,ovalbumin,Freund's Adjuvant,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0030935,C0003320,COEXISTS_WITH,Peptide Fragments,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0030940,C0002092,COEXISTS_WITH,Peptide Hydrolases,Allergens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0030940,C0003320,COEXISTS_WITH,Peptide Hydrolases,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0031453,C0058218,COEXISTS_WITH,phenylalanine,dimethyl fumarate,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0031721,C2720503,COEXISTS_WITH,Phosphoserine,casein allergenic extract,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0032089,C0016712,COEXISTS_WITH,Plant Proteins,Freund's Adjuvant,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0032350,C1706452,COEXISTS_WITH,Pokeweed Mitogens,Stem cell product,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0033164,C0174878,COEXISTS_WITH,Prions,Syntex adjuvant formulation,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0033382,C0058218,COEXISTS_WITH,proline,dimethyl fumarate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0033382,C1440514,COEXISTS_WITH,proline,Coxsackievirus B3,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0033692,C0016712,COEXISTS_WITH,Proteoglycan,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0033693,C0003320,COEXISTS_WITH,Proteolipids,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0033693,C0016712,COEXISTS_WITH,Proteolipids,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0034789,C0003339,COEXISTS_WITH,"Receptors, Antigen, B-Cell",Surface Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0034789,C1519887,COEXISTS_WITH,"Receptors, Antigen, B-Cell",Vaccine Antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0034790,C0003316,COEXISTS_WITH,T-Cell Receptor,Epitopes,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0034790,C0085358,COEXISTS_WITH,T-Cell Receptor,CD8 Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0034792,C0016712,COEXISTS_WITH,Cholinergic Receptors,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0034800,C0005525,COEXISTS_WITH,"Receptors, Cell Surface",Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0034861,C0001551,COEXISTS_WITH,Recombinant Proteins,Immunologic Adjuvants,aapp,imft,4,COEXISTS_WITH_AAPPcxwtIMFT
+C0034861,C0003316,COEXISTS_WITH,Recombinant Proteins,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0034861,C0003320,COEXISTS_WITH,Recombinant Proteins,Antigens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0034861,C0016712,COEXISTS_WITH,Recombinant Proteins,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0034861,C0376613,COEXISTS_WITH,Recombinant Proteins,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0034861,C4276833,COEXISTS_WITH,Recombinant Proteins,glucopyranosyl lipid-A,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0034862,C0001551,COEXISTS_WITH,"Vaccines, Recombinant",Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0035544,C0001551,COEXISTS_WITH,Ribonucleoproteins,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0035569,C0016712,COEXISTS_WITH,Ricin,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0035685,C0042211,COEXISTS_WITH,RNA-Directed RNA Polymerase,"Vaccines, Attenuated",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0035685,C0599597,COEXISTS_WITH,RNA-Directed RNA Polymerase,genetic vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0036100,C1548483,COEXISTS_WITH,Salivary Proteins,Leishmaniasis Vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0036720,C0076765,COEXISTS_WITH,serine,Tn antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0036774,C0003316,COEXISTS_WITH,"serum albumin, bovine",Epitopes,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0036774,C0003320,COEXISTS_WITH,"serum albumin, bovine",Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0036774,C0016712,COEXISTS_WITH,"serum albumin, bovine",Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0036774,C0042212,COEXISTS_WITH,"serum albumin, bovine","Vaccines, Inactivated",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0040005,C0003316,COEXISTS_WITH,threonine,Epitopes,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0040005,C0003320,COEXISTS_WITH,threonine,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0040078,C0003320,COEXISTS_WITH,Thymidine Kinase,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0040676,C0301871,COEXISTS_WITH,Transferase,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0041260,C0003342,COEXISTS_WITH,Tryptophanase,"Antigens, Viral",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0041350,C0005525,COEXISTS_WITH,tuftsin,Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0041361,C0003320,COEXISTS_WITH,Tumor Antigens,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0041361,C0376613,COEXISTS_WITH,Tumor Antigens,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0041484,C2747605,COEXISTS_WITH,MONOPHENOL MONOOXYGENASE,orange pekoe tea allergenic extract,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0041538,C0282580,COEXISTS_WITH,Ubiquitin,"Epitopes, T-Lymphocyte",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0001551,COEXISTS_WITH,Vaccines,Immunologic Adjuvants,aapp,imft,21,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0003316,COEXISTS_WITH,Vaccines,Epitopes,aapp,imft,14,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0003320,COEXISTS_WITH,Vaccines,Antigens,aapp,imft,10,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0003342,COEXISTS_WITH,Vaccines,"Antigens, Viral",aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0004632,COEXISTS_WITH,Vaccines,Bacterial Vaccines,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0005525,COEXISTS_WITH,Vaccines,Biological Response Modifiers,aapp,imft,9,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0021403,COEXISTS_WITH,Vaccines,Influenza virus vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0039620,COEXISTS_WITH,Vaccines,Tetanus Vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0040555,COEXISTS_WITH,Vaccines,Toxoids,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0042211,COEXISTS_WITH,Vaccines,"Vaccines, Attenuated",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0042212,COEXISTS_WITH,Vaccines,"Vaccines, Inactivated",aapp,imft,4,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0206253,COEXISTS_WITH,Vaccines,"Vaccines, Combined",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0282580,COEXISTS_WITH,Vaccines,"Epitopes, T-Lymphocyte",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0282581,COEXISTS_WITH,Vaccines,"Epitopes, B-Lymphocyte",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0358314,COEXISTS_WITH,Vaccines,Pneumococcal vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0368675,COEXISTS_WITH,Vaccines,antibody antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0376613,COEXISTS_WITH,Vaccines,"Vaccines, DNA",aapp,imft,5,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0456981,COEXISTS_WITH,Vaccines,Specific antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C0675907,COEXISTS_WITH,Vaccines,AIDSVAX,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C1291777,COEXISTS_WITH,Vaccines,Protein antigen,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C1440152,COEXISTS_WITH,Vaccines,Bombay,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C1514218,COEXISTS_WITH,Vaccines,Polyvalent Vaccine,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C1516086,COEXISTS_WITH,Vaccines,Attenuated Live Virus Vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C2986386,COEXISTS_WITH,Vaccines,Virus-neutralizing Antibody,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042210,C4075106,COEXISTS_WITH,Vaccines,Variola virus antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042666,C0301871,COEXISTS_WITH,Vimentin,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042711,C0005525,COEXISTS_WITH,Viral Envelope Proteins,Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042720,C0003316,COEXISTS_WITH,Viral Genome,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042736,C0003316,COEXISTS_WITH,Viral Proteins,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042736,C0003342,COEXISTS_WITH,Viral Proteins,"Antigens, Viral",aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0042736,C1519887,COEXISTS_WITH,Viral Proteins,Vaccine Antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0042736,C5203662,COEXISTS_WITH,Viral Proteins,"Milk,processed nonfat dry allergenic extract",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0051976,C2825347,COEXISTS_WITH,anti-IgA,"immunoglobulin A, human",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0051979,C0003316,COEXISTS_WITH,anti-IgG,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0052051,C0887895,COEXISTS_WITH,"V antigen, Yersinia pestis","Vaccines, Acellular",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0054015,C0022144,COEXISTS_WITH,nesiritide,Isoantibodies,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0054543,C0376613,COEXISTS_WITH,calreticulin,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0054543,C0946132,COEXISTS_WITH,calreticulin,Human papilloma virus (antigen),aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0054943,C0003316,COEXISTS_WITH,ALANINE AMINOPEPTIDASE,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0054943,C0282581,COEXISTS_WITH,ALANINE AMINOPEPTIDASE,"Epitopes, B-Lymphocyte",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0055110,C0042211,COEXISTS_WITH,cereolysin,"Vaccines, Attenuated",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0057256,C2684757,COEXISTS_WITH,Defensins,cat skin extract,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0057256,C2722030,COEXISTS_WITH,Defensins,dog skin extract,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0058610,C0301871,COEXISTS_WITH,HSP40 Heat-Shock Proteins,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0061830,C0016712,COEXISTS_WITH,GP 140,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0061830,C0023767,COEXISTS_WITH,GP 140,Lipid A,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0063355,C0005525,COEXISTS_WITH,IgY,Biological Response Modifiers,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0064332,C0001551,COEXISTS_WITH,keyhole-limpet hemocyanin,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0064332,C0016712,COEXISTS_WITH,keyhole-limpet hemocyanin,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0065827,C0003316,COEXISTS_WITH,Measles Virus Nucleoprotein,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0065827,C0003320,COEXISTS_WITH,Measles Virus Nucleoprotein,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0065827,C0301871,COEXISTS_WITH,Measles Virus Nucleoprotein,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0065827,C0376613,COEXISTS_WITH,Measles Virus Nucleoprotein,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0065827,C0887892,COEXISTS_WITH,Measles Virus Nucleoprotein,"Vaccines, Subunit",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0065827,C1440440,COEXISTS_WITH,Measles Virus Nucleoprotein,Chicken serum,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0066331,C0016712,COEXISTS_WITH,methylated bovine serum albumin,Freund's Adjuvant,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0069428,C0003320,COEXISTS_WITH,Oligodendrocyte-Myelin Glycoprotein,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0069428,C0016712,COEXISTS_WITH,Oligodendrocyte-Myelin Glycoprotein,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0069856,C0003316,COEXISTS_WITH,"oxytocin, 1-penicillamyl-Leu(2)-",Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0077570,C0003320,COEXISTS_WITH,tyrosyl-alanyl-glycyl-nitrophenylalanylamide,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0077967,C0003316,COEXISTS_WITH,vaccin protein,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0079189,C0001551,COEXISTS_WITH,cytokine,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0079189,C0003320,COEXISTS_WITH,cytokine,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0079189,C0003335,COEXISTS_WITH,cytokine,"Antigens, Neoplasm",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0079189,C0005525,COEXISTS_WITH,cytokine,Biological Response Modifiers,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0079189,C0021009,COEXISTS_WITH,cytokine,Immunoglobulin Fragments,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0079189,C0071315,COEXISTS_WITH,cytokine,Pneumovax,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0079189,C0887892,COEXISTS_WITH,cytokine,"Vaccines, Subunit",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0079259,C0003316,COEXISTS_WITH,Dystrophin,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0079419,C0008015,COEXISTS_WITH,TP53 gene,Macrophage Chemotactic Factors,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0079460,C0005525,COEXISTS_WITH,Granulocyte-Macrophage Colony-Stimulating Factor,Biological Response Modifiers,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0079686,C0057317,COEXISTS_WITH,Leucine Zippers,Hepatitis delta Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0079941,C0376613,COEXISTS_WITH,Open Reading Frames,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0084133,C0301869,COEXISTS_WITH,Polyubiquitin,Immunostimulating conjugate (antigen),aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0085219,C0019168,COEXISTS_WITH,HIV Core Protein p24,Hepatitis B Surface Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0085297,C0103647,COEXISTS_WITH,"immunoglobulins, intravenous",Antineutrophil Cytoplasmic Antibodies,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0085845,C0521390,COEXISTS_WITH,aspartate,neuronal,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0086376,C0001551,COEXISTS_WITH,GTP-Binding Proteins,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0086376,C0016712,COEXISTS_WITH,GTP-Binding Proteins,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0086376,C0521390,COEXISTS_WITH,GTP-Binding Proteins,neuronal,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0086376,C0887892,COEXISTS_WITH,GTP-Binding Proteins,"Vaccines, Subunit",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0103404,C0301871,COEXISTS_WITH,Annexin A2,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0111208,C0005525,COEXISTS_WITH,cytotoxic T-lymphocyte antigen 4,Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0115305,C2352839,COEXISTS_WITH,E-Selectin,sialyl Lewis X antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0119880,C0001551,COEXISTS_WITH,glycosylation-enhancing factor,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0123759,C0001551,COEXISTS_WITH,interleukin-12,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0123759,C0376613,COEXISTS_WITH,interleukin-12,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0124412,C0001551,COEXISTS_WITH,K30 antigen,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0134596,C0103647,COEXISTS_WITH,p-ANCA,Antineutrophil Cytoplasmic Antibodies,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0162508,C0301871,COEXISTS_WITH,JUN gene,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0162596,C0255448,COEXISTS_WITH,"Antibodies, Anticardiolipin",anti-endothelial cell antibody,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0162768,C0003316,COEXISTS_WITH,Fusion protein,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0162768,C0003320,COEXISTS_WITH,Fusion protein,Antigens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0162768,C0003342,COEXISTS_WITH,Fusion protein,"Antigens, Viral",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0162768,C0016712,COEXISTS_WITH,Fusion protein,Freund's Adjuvant,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0162768,C1454066,COEXISTS_WITH,Fusion protein,PfCSP DNA vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0165519,C0016712,COEXISTS_WITH,Matrix Metalloproteinase 9,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0165519,C4035504,COEXISTS_WITH,Matrix Metalloproteinase 9,Anti-A3,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0169904,C0206255,COEXISTS_WITH,Merozoite Surface Protein 1,Malaria Vaccines,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0172537,C4035504,COEXISTS_WITH,Matrix Metalloproteinase 2,Anti-A3,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0175168,C1291777,COEXISTS_WITH,"Protein, Organized by Structure",Protein antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0206492,C0005525,COEXISTS_WITH,"Antibodies, Bispecific",Biological Response Modifiers,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0206492,C0221114,COEXISTS_WITH,"Antibodies, Bispecific",Antigen recognition site,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0242738,C1519887,COEXISTS_WITH,ATP-Binding Cassette Transporters,Vaccine Antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0244989,C1720336,COEXISTS_WITH,Glycogen Synthase Kinase 3,Human mesenchymal stem cell,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0254610,C0003320,COEXISTS_WITH,Interleukin-15,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0282552,C0456981,COEXISTS_WITH,beta-Chemokines,Specific antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0282682,C0003316,COEXISTS_WITH,"Antibodies, Blocking",Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0282682,C0003320,COEXISTS_WITH,"Antibodies, Blocking",Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0282682,C0005525,COEXISTS_WITH,"Antibodies, Blocking",Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0287990,C0003339,COEXISTS_WITH,paired basic amino acid cleaving enzyme,Surface Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0291737,C0001551,COEXISTS_WITH,myelin proteolipid protein (139-151),Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0291737,C0016712,COEXISTS_WITH,myelin proteolipid protein (139-151),Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0299544,C0003320,COEXISTS_WITH,Interferon Regulatory Factor 4,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0301843,C0003320,COEXISTS_WITH,Cross reacting antibody,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0308550,C0001551,COEXISTS_WITH,BRSV,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0308550,C0003316,COEXISTS_WITH,BRSV,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0308550,C0003320,COEXISTS_WITH,BRSV,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0308550,C2986386,COEXISTS_WITH,BRSV,Virus-neutralizing Antibody,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0310688,C0001551,COEXISTS_WITH,Bronchitis vaccine,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0310751,C0042211,COEXISTS_WITH,Newcastle disease vaccine,"Vaccines, Attenuated",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0312586,C0016712,COEXISTS_WITH,Polyclonal antibody,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0313106,C0301871,COEXISTS_WITH,Blood group antibody e,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0358321,C0003320,COEXISTS_WITH,Immune Globulin (Human),Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0358321,C1883036,COEXISTS_WITH,Immune Globulin (Human),Single-Chain Antibodies,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0369637,C0080188,COEXISTS_WITH,M NOS ANTIBODY,"Antigens, CD15",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0376147,C0019164,COEXISTS_WITH,SGPT - Glutamate pyruvate transaminase,Hepatitis B Antibodies,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0376147,C0019168,COEXISTS_WITH,SGPT - Glutamate pyruvate transaminase,Hepatitis B Surface Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0376436,C0282580,COEXISTS_WITH,Peptide Library,"Epitopes, T-Lymphocyte",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0376659,C0001551,COEXISTS_WITH,Cancer Vaccines,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0376659,C0005525,COEXISTS_WITH,Cancer Vaccines,Biological Response Modifiers,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0376659,C3530029,COEXISTS_WITH,Cancer Vaccines,advax,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0389916,C0003316,COEXISTS_WITH,"nucleocapsid protein, Coronavirus",Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0432632,C0301871,COEXISTS_WITH,Blood group antibody M,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0443640,C0001551,COEXISTS_WITH,Specific antibody,Immunologic Adjuvants,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0443640,C0003320,COEXISTS_WITH,Specific antibody,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0443640,C0005525,COEXISTS_WITH,Specific antibody,Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0443640,C0016712,COEXISTS_WITH,Specific antibody,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0443640,C1440440,COEXISTS_WITH,Specific antibody,Chicken serum,aapp,imft,4,COEXISTS_WITH_AAPPcxwtIMFT
+C0443803,C0016712,COEXISTS_WITH,e antigen,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0475463,C0003316,COEXISTS_WITH,"Antibodies, Neutralizing",Epitopes,aapp,imft,5,COEXISTS_WITH_AAPPcxwtIMFT
+C0475463,C0003320,COEXISTS_WITH,"Antibodies, Neutralizing",Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0475463,C0376613,COEXISTS_WITH,"Antibodies, Neutralizing","Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0475463,C0887892,COEXISTS_WITH,"Antibodies, Neutralizing","Vaccines, Subunit",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0475463,C1440440,COEXISTS_WITH,"Antibodies, Neutralizing",Chicken serum,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0487637,C0003320,COEXISTS_WITH,T lymphocyte antigen,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0526870,C0004359,COEXISTS_WITH,"MBL2 protein, human",Autoantigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0526870,C0016712,COEXISTS_WITH,"MBL2 protein, human",Freund's Adjuvant,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0530467,C1440514,COEXISTS_WITH,"2B protein, poliovirus",Coxsackievirus B3,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0539751,C0001551,COEXISTS_WITH,macrophage stimulatory lipopeptide 2,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0544420,C0003320,COEXISTS_WITH,Digestive Enzymes,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0582263,C0003342,COEXISTS_WITH,Structural protein,"Antigens, Viral",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0582263,C0019166,COEXISTS_WITH,Structural protein,Hepatitis B Core Antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0592527,C0003342,COEXISTS_WITH,Betaferon,"Antigens, Viral",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0597357,C0003320,COEXISTS_WITH,receptor,Antigens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0597357,C0376613,COEXISTS_WITH,receptor,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0597357,C0456981,COEXISTS_WITH,receptor,Specific antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0597357,C0521390,COEXISTS_WITH,receptor,neuronal,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0597357,C2825347,COEXISTS_WITH,receptor,"immunoglobulin A, human",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0597427,C0001551,COEXISTS_WITH,secretory protein,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0597551,C0003320,COEXISTS_WITH,synthetic peptide,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0598148,C0001551,COEXISTS_WITH,hybrid protein,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0599220,C0001551,COEXISTS_WITH,Protein Subunits,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0599220,C0003316,COEXISTS_WITH,Protein Subunits,Epitopes,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0599220,C0003320,COEXISTS_WITH,Protein Subunits,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0599220,C0016712,COEXISTS_WITH,Protein Subunits,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0599220,C0021403,COEXISTS_WITH,Protein Subunits,Influenza virus vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0599220,C0301871,COEXISTS_WITH,Protein Subunits,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0599561,C0301871,COEXISTS_WITH,e protein,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0599797,C0312653,COEXISTS_WITH,hla gene,HLA class II antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0664336,C1528013,COEXISTS_WITH,survivin,RotaTeq,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0669372,C0003320,COEXISTS_WITH,"NOS2A protein, human",Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0670896,C0002092,COEXISTS_WITH,Toll-like receptors,Allergens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0700271,C0003316,COEXISTS_WITH,"M Protein, multiple myeloma",Epitopes,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0700271,C0003320,COEXISTS_WITH,"M Protein, multiple myeloma",Antigens,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C0700271,C0376613,COEXISTS_WITH,"M Protein, multiple myeloma","Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0728747,C0001551,COEXISTS_WITH,trastuzumab,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0751973,C0003316,COEXISTS_WITH,Proteome,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0752253,C1440666,COEXISTS_WITH,Neuregulins,Hay,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0812445,C0003342,COEXISTS_WITH,CXCL1 gene,"Antigens, Viral",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0815038,C0003316,COEXISTS_WITH,polar amino acids,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0879590,C0376613,COEXISTS_WITH,IL2 gene,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0883327,C0521390,COEXISTS_WITH,Pseudorabies virus Ag,neuronal,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0887910,C0003320,COEXISTS_WITH,Virosomes,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0909606,C0003320,COEXISTS_WITH,Norwalk virus capsid,Antigens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C0949656,C0016712,COEXISTS_WITH,Cardiac Myosins,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0960880,C0003342,COEXISTS_WITH,angiotensin converting enzyme 2,"Antigens, Viral",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0960880,C0521390,COEXISTS_WITH,angiotensin converting enzyme 2,neuronal,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0962190,C0001551,COEXISTS_WITH,interleukin-21,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0965245,C0005525,COEXISTS_WITH,"CD274 protein, human",Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C0966870,C0001551,COEXISTS_WITH,S100 calcium binding protein A10,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1136102,C0003316,COEXISTS_WITH,Capsid Proteins,Epitopes,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1136102,C0003320,COEXISTS_WITH,Capsid Proteins,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1258835,C0003316,COEXISTS_WITH,"N protein, Severe acute respiratory syndrome virus",Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1268874,C0058218,COEXISTS_WITH,Amino acid derivative,dimethyl fumarate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1291779,C0001551,COEXISTS_WITH,Recombinant glycoprotein,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1291779,C0016712,COEXISTS_WITH,Recombinant glycoprotein,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1305923,C0003316,COEXISTS_WITH,Polypeptides,Epitopes,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C1305923,C0003320,COEXISTS_WITH,Polypeptides,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1305923,C0020954,COEXISTS_WITH,Polypeptides,Immune Precipitates,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1305923,C0282581,COEXISTS_WITH,Polypeptides,"Epitopes, B-Lymphocyte",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1305923,C0301871,COEXISTS_WITH,Polypeptides,Immunoprecipitate,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1309526,C0103647,COEXISTS_WITH,"GYPA protein, human",Antineutrophil Cytoplasmic Antibodies,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1332685,C0456981,COEXISTS_WITH,CCL22 gene,Specific antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1332700,C0301869,COEXISTS_WITH,CCR5 gene,Immunostimulating conjugate (antigen),aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1332823,C0301869,COEXISTS_WITH,CXCR4 gene,Immunostimulating conjugate (antigen),aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1333196,C0376613,COEXISTS_WITH,Cytokine Gene,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1334043,C0042211,COEXISTS_WITH,Homologous Gene,"Vaccines, Attenuated",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1334103,C0002092,COEXISTS_WITH,IL13 gene,Allergens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1335190,C1440044,COEXISTS_WITH,PARD6A gene,"A,B",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1335439,C0019168,COEXISTS_WITH,Polymerase,Hepatitis B Surface Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1335440,C0282580,COEXISTS_WITH,Polymerase Gene,"Epitopes, T-Lymphocyte",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1336636,C0887894,COEXISTS_WITH,TLR4 gene,Respiratory Syncytial Virus Vaccines,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1336641,C0521390,COEXISTS_WITH,TMPRSS2 gene,neuronal,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1336763,C0003320,COEXISTS_WITH,Toll-Like Receptor Family Gene,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1336936,C0003316,COEXISTS_WITH,VIPR1 gene,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1366566,C0456981,COEXISTS_WITH,CCL27 gene,Specific antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1412113,C5203662,COEXISTS_WITH,SLC33A1 gene,"Milk,processed nonfat dry allergenic extract",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1412268,C0021403,COEXISTS_WITH,TLE5 gene,Influenza virus vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1412622,C0301871,COEXISTS_WITH,ATF6 gene,Immunoprecipitate,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1413064,C0206253,COEXISTS_WITH,CACNA1S gene,"Vaccines, Combined",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1413064,C4281564,COEXISTS_WITH,CACNA1S gene,Echovirus 1,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1413299,C0003316,COEXISTS_WITH,CDSN gene,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1413351,C0003320,COEXISTS_WITH,CETN2 gene,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1413957,C0003320,COEXISTS_WITH,DDX17 gene,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1414131,C0521390,COEXISTS_WITH,DXO gene,neuronal,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1414134,C0016712,COEXISTS_WITH,DPEP1 gene,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1414174,C0301871,COEXISTS_WITH,DSPP gene,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1414372,C1440152,COEXISTS_WITH,ELAVL2 gene,Bombay,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1414546,C2825347,COEXISTS_WITH,FCAR gene,"immunoglobulin A, human",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1414635,C0301871,COEXISTS_WITH,FLNA gene,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1414968,C1440608,COEXISTS_WITH,GAPDH gene,Eucalyptus spp,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1415068,C0456981,COEXISTS_WITH,GJA1 gene,Specific antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1415189,C0376613,COEXISTS_WITH,GP5 gene,"Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1416161,C2825347,COEXISTS_WITH,JCHAIN gene,"immunoglobulin A, human",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1416797,C0003320,COEXISTS_WITH,STMN1 gene,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1416808,C2825347,COEXISTS_WITH,LCT gene,"immunoglobulin A, human",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1417228,C0016712,COEXISTS_WITH,MOG gene,Freund's Adjuvant,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1417247,C0003320,COEXISTS_WITH,MPV17 gene,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1418616,C1440440,COEXISTS_WITH,PLA2G10 gene,Chicken serum,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1419727,C0016712,COEXISTS_WITH,RPS25 gene,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1419815,C0003316,COEXISTS_WITH,SAR1A gene,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1420192,C0003316,COEXISTS_WITH,SLC3A2 gene,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1420192,C0301871,COEXISTS_WITH,SLC3A2 gene,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1420247,C0016712,COEXISTS_WITH,SLN gene,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1420403,C0003320,COEXISTS_WITH,SRL gene,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1420610,C0002092,COEXISTS_WITH,TBX21 gene,Allergens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1421454,C0001551,COEXISTS_WITH,VIT gene,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1421554,C0003320,COEXISTS_WITH,YME1L1 gene,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1421554,C0368675,COEXISTS_WITH,YME1L1 gene,antibody antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1422064,C0085355,COEXISTS_WITH,ACE2 gene,Human Platelet Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1422064,C0521390,COEXISTS_WITH,ACE2 gene,neuronal,aapp,imft,5,COEXISTS_WITH_AAPPcxwtIMFT
+C1423633,C0005525,COEXISTS_WITH,TLR9 gene,Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1423842,C0456981,COEXISTS_WITH,NELFCD gene,Specific antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1423842,C2825347,COEXISTS_WITH,NELFCD gene,"immunoglobulin A, human",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1424480,C0042211,COEXISTS_WITH,METAP2 gene,"Vaccines, Attenuated",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1424776,C0887892,COEXISTS_WITH,NT5C gene,"Vaccines, Subunit",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1425189,C0003320,COEXISTS_WITH,CD207 gene,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1425219,C0521390,COEXISTS_WITH,SLC22A12 gene,neuronal,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1425514,C0005525,COEXISTS_WITH,HAVCR2 gene,Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1425604,C0058218,COEXISTS_WITH,MYOZ3 gene,dimethyl fumarate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1425927,C0301871,COEXISTS_WITH,EDEM1 gene,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1427539,C0358314,COEXISTS_WITH,SLAMF7 gene,Pneumococcal vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1427539,C0979582,COEXISTS_WITH,SLAMF7 gene,Pneumococcal 7-valent conjugate vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1428114,C0003320,COEXISTS_WITH,TBATA gene,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1430056,C0001551,COEXISTS_WITH,"L1R protein, Vaccinia virus",Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1431543,C0005525,COEXISTS_WITH,"PGRMC1 protein, human",Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1436327,C0521390,COEXISTS_WITH,"AKR1B1 protein, human",neuronal,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1456349,C0003320,COEXISTS_WITH,LGMN gene,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1456447,C0058218,COEXISTS_WITH,"SLC6A2 protein, human",dimethyl fumarate,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1512511,C0001551,COEXISTS_WITH,Human Papilloma Virus Vaccine,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1512511,C0003320,COEXISTS_WITH,Human Papilloma Virus Vaccine,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1512511,C0021403,COEXISTS_WITH,Human Papilloma Virus Vaccine,Influenza virus vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1517495,C0021403,COEXISTS_WITH,Gene Feature,Influenza virus vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1521863,C0005525,COEXISTS_WITH,"estrogen receptor alpha, human",Biological Response Modifiers,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1522002,C0001551,COEXISTS_WITH,RNA Recognition Motif,Immunologic Adjuvants,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C1522002,C0003316,COEXISTS_WITH,RNA Recognition Motif,Epitopes,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1522002,C0003320,COEXISTS_WITH,RNA Recognition Motif,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1522002,C0016712,COEXISTS_WITH,RNA Recognition Motif,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1522002,C0042212,COEXISTS_WITH,RNA Recognition Motif,"Vaccines, Inactivated",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1522002,C0887892,COEXISTS_WITH,RNA Recognition Motif,"Vaccines, Subunit",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1522002,C1519887,COEXISTS_WITH,RNA Recognition Motif,Vaccine Antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1527865,C1440440,COEXISTS_WITH,"CAV1 protein, human",Chicken serum,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1539221,C0005525,COEXISTS_WITH,DCLK3 gene,Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1571593,C0001551,COEXISTS_WITH,"Chimeric Proteins, Recombinant",Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1609165,C0001551,COEXISTS_WITH,tocilizumab,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1609165,C0005525,COEXISTS_WITH,tocilizumab,Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1624602,C0001551,COEXISTS_WITH,Anti-Antibodies,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1624602,C0003320,COEXISTS_WITH,Anti-Antibodies,Antigens,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C1624602,C1440440,COEXISTS_WITH,Anti-Antibodies,Chicken serum,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1624602,C1440949,COEXISTS_WITH,Anti-Antibodies,Mare milk,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1624602,C4282212,COEXISTS_WITH,Anti-Antibodies,IgG.serum,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1701084,C0086413,COEXISTS_WITH,"CD9 protein, human",HIV Vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1701790,C0001551,COEXISTS_WITH,"IL17A protein, human",Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1702088,C0376613,COEXISTS_WITH,"IL5 protein, human","Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1704804,C0003342,COEXISTS_WITH,PLK3 wt Allele,"Antigens, Viral",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1705010,C0003316,COEXISTS_WITH,TNC wt Allele,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1706005,C0770694,COEXISTS_WITH,CD40LG wt Allele,trivalent influenza vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1706005,C2825347,COEXISTS_WITH,CD40LG wt Allele,"immunoglobulin A, human",aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C1708130,C0042211,COEXISTS_WITH,GNAI1 wt Allele,"Vaccines, Attenuated",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1710492,C0003320,COEXISTS_WITH,LINC01194 gene,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1718989,C0305065,COEXISTS_WITH,Streptococcus pneumoniae serotype (antigen),Polyvalent pneumococcal vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1718989,C1579319,COEXISTS_WITH,Streptococcus pneumoniae serotype (antigen),Pneumococcal conjugate vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1741214,C0003316,COEXISTS_WITH,"FKBP5 protein, human",Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1741214,C0003320,COEXISTS_WITH,"FKBP5 protein, human",Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1823375,C0301871,COEXISTS_WITH,WDR82 gene,Immunoprecipitate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1823437,C0005525,COEXISTS_WITH,TMEM173 gene,Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1824510,C0058218,COEXISTS_WITH,RTL10 gene,dimethyl fumarate,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1825516,C0021403,COEXISTS_WITH,ARHGAP45 gene,Influenza virus vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1825546,C0016712,COEXISTS_WITH,HSP90B1 gene,Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1825598,C0003316,COEXISTS_WITH,IMPACT gene,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1825598,C0003320,COEXISTS_WITH,IMPACT gene,Antigens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1825598,C0021403,COEXISTS_WITH,IMPACT gene,Influenza virus vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1825598,C0599934,COEXISTS_WITH,IMPACT gene,"Vaccines, Peptide",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1825621,C0301869,COEXISTS_WITH,ISG15 gene,Immunostimulating conjugate (antigen),aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1826755,C0019168,COEXISTS_WITH,RAB2A gene,Hepatitis B Surface Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1826767,C0599934,COEXISTS_WITH,RASSF7 gene,"Vaccines, Peptide",aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C1847590,C0001551,COEXISTS_WITH,ENDOU gene,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C1953384,C1883036,COEXISTS_WITH,Reverse primer,Single-Chain Antibodies,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C2000001,C0003316,COEXISTS_WITH,CYT006-AngQb,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C2239937,C0022144,COEXISTS_WITH,SMAD5-AS1 gene,Isoantibodies,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C2744535,C0003316,COEXISTS_WITH,"CD69 protein, human",Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C2744535,C0005525,COEXISTS_WITH,"CD69 protein, human",Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C2945616,C1883036,COEXISTS_WITH,protein iii,Single-Chain Antibodies,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C2945724,C0003316,COEXISTS_WITH,f-protein,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3147110,C0042212,COEXISTS_WITH,DSCAM-AS1 gene,"Vaccines, Inactivated",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3175669,C0001551,COEXISTS_WITH,G little e Ab,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3486669,C2825347,COEXISTS_WITH,Canis lupus familiaris milk preparation,"immunoglobulin A, human",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3494454,C0032595,COEXISTS_WITH,Sialic Acid Binding Immunoglobulin-like Lectins,"Polysaccharides, Bacterial",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3538683,C0003316,COEXISTS_WITH,LGALS1 wt Allele,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3538895,C0003342,COEXISTS_WITH,SEPT4 wt Allele,"Antigens, Viral",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3540465,C0023767,COEXISTS_WITH,PDPN wt Allele,Lipid A,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C3540595,C0456981,COEXISTS_WITH,CD8A wt Allele,Specific antigen,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3541854,C0003342,COEXISTS_WITH,PANDAR gene,"Antigens, Viral",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3711684,C0003316,COEXISTS_WITH,"S protein, severe acute respiratory syndrome coronavirus",Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3715044,C0001551,COEXISTS_WITH,AKR1A1 wt Allele,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3715044,C0058218,COEXISTS_WITH,AKR1A1 wt Allele,dimethyl fumarate,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3715044,C1883036,COEXISTS_WITH,AKR1A1 wt Allele,Single-Chain Antibodies,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3849701,C0001551,COEXISTS_WITH,"interleukin 18 protein, human",Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3849701,C0376613,COEXISTS_WITH,"interleukin 18 protein, human","Vaccines, DNA",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3864947,C1721787,COEXISTS_WITH,Gardasil 9,Gardasil,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3887583,C0599597,COEXISTS_WITH,"CD40 Ligand, human",genetic vaccine,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3890018,C0003320,COEXISTS_WITH,HSP90B2P wt Allele,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3890018,C0005525,COEXISTS_WITH,HSP90B2P wt Allele,Biological Response Modifiers,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3890018,C0255448,COEXISTS_WITH,HSP90B2P wt Allele,anti-endothelial cell antibody,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C3891560,C0003320,COEXISTS_WITH,Alarmins,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C4038479,C0003316,COEXISTS_WITH,HLA class I,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C4042815,C0597420,COEXISTS_WITH,Type I Secretion Systems,Salmonella Vaccines,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C4048280,C0001551,COEXISTS_WITH,"T-Cell Surface Glycoprotein CD4, human",Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C4048280,C0003320,COEXISTS_WITH,"T-Cell Surface Glycoprotein CD4, human",Antigens,aapp,imft,2,COEXISTS_WITH_AAPPcxwtIMFT
+C4048280,C0301869,COEXISTS_WITH,"T-Cell Surface Glycoprotein CD4, human",Immunostimulating conjugate (antigen),aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C4048280,C2825347,COEXISTS_WITH,"T-Cell Surface Glycoprotein CD4, human","immunoglobulin A, human",aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C4049595,C0003316,COEXISTS_WITH,HLA Complex,Epitopes,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C4086507,C0905677,COEXISTS_WITH,IL2 Receptor Antibody,inolimomab,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C4281807,C0001551,COEXISTS_WITH,"Vitronectin, human",Immunologic Adjuvants,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C4281807,C0003316,COEXISTS_WITH,"Vitronectin, human",Epitopes,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C4281807,C0003320,COEXISTS_WITH,"Vitronectin, human",Antigens,aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C4281807,C0016712,COEXISTS_WITH,"Vitronectin, human",Freund's Adjuvant,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C4281807,C0042212,COEXISTS_WITH,"Vitronectin, human","Vaccines, Inactivated",aapp,imft,3,COEXISTS_WITH_AAPPcxwtIMFT
+C4284302,C0003320,COEXISTS_WITH,EHD1 wt Allele,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C4723885,C0001551,COEXISTS_WITH,DDX41 wt Allele,Immunologic Adjuvants,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C4723885,C0003320,COEXISTS_WITH,DDX41 wt Allele,Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT
+C4723885,C0019168,COEXISTS_WITH,DDX41 wt Allele,Hepatitis B Surface Antigens,aapp,imft,1,COEXISTS_WITH_AAPPcxwtIMFT

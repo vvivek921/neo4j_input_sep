@@ -1,0 +1,70 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001117,C0178784,AFFECTS,Acid-Base Equilibrium,Organ,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0005775,C0006104,AFFECTS,Blood Circulation,Brain,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0005775,C0018787,AFFECTS,Blood Circulation,Heart,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0005775,C0178784,AFFECTS,Blood Circulation,Organ,phsf,bpoc,3,AFFECTS_PHSFafctBPOC
+C0014272,C0018787,AFFECTS,Energy Metabolism,Heart,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0016017,C0028429,AFFECTS,Fibrinolysis,Nose,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0018767,C0004895,AFFECTS,Hearing,Beak,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0020964,C0005847,AFFECTS,Immunity,Blood Vessel,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0020964,C0006104,AFFECTS,Immunity,Brain,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C0020964,C0018563,AFFECTS,Immunity,Hand,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0020964,C0018787,AFFECTS,Immunity,Heart,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0020964,C0022646,AFFECTS,Immunity,Kidney,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C0020964,C0023884,AFFECTS,Immunity,Liver,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C0020964,C0024109,AFFECTS,Immunity,Lung,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C0020964,C0037993,AFFECTS,Immunity,Spleen,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0020964,C0178784,AFFECTS,Immunity,Organ,phsf,bpoc,4,AFFECTS_PHSFafctBPOC
+C0020964,C0458578,AFFECTS,Immunity,Upper respiratory tract,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0026820,C0018787,AFFECTS,Muscle Contraction,Heart,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0026820,C0687080,AFFECTS,Muscle Contraction,Paw,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0026820,C1882561,AFFECTS,Muscle Contraction,Rat Aorta,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0035203,C0023884,AFFECTS,Respiration,Liver,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C0035203,C0024109,AFFECTS,Respiration,Lung,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C0035203,C0039485,AFFECTS,Respiration,Temporal Lobe,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0035203,C1440080,AFFECTS,Respiration,Alveolar,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0035245,C0024109,AFFECTS,Respiratory physiology,Lung,phsf,bpoc,11,AFFECTS_PHSFafctBPOC
+C0040480,C0796494,AFFECTS,"Musculoskeletal torsion, function",lobe,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0205836,C0042993,AFFECTS,Ovarian Cycle,Vulva,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0221102,C0227317,AFFECTS,Excretory function,Ileal mucous membrane,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0232338,C0003842,AFFECTS,Blood flow,Arteries,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0232338,C0003847,AFFECTS,Blood flow,Structure of arteriole,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0232338,C0022646,AFFECTS,Blood flow,Kidney,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0232338,C0028429,AFFECTS,Blood flow,Nose,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0232338,C0042449,AFFECTS,Blood flow,Veins,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C0242732,C0006270,AFFECTS,Tropism,Bronchioles,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0242732,C0023884,AFFECTS,Tropism,Liver,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0242732,C0178784,AFFECTS,Tropism,Organ,phsf,bpoc,3,AFFECTS_PHSFafctBPOC
+C0242732,C0262304,AFFECTS,Tropism,pars postrema of the ventral lateral nucleus,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0013303,AFFECTS,Uptake,Duodenum,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0018787,AFFECTS,Uptake,Heart,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0022646,AFFECTS,Uptake,Kidney,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0022677,AFFECTS,Uptake,"Kidney Tubules, Proximal",phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0023884,AFFECTS,Uptake,Liver,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0024109,AFFECTS,Uptake,Lung,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C0243144,C0025148,AFFECTS,Uptake,Medulla Oblongata,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0037993,AFFECTS,Uptake,Spleen,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0178784,AFFECTS,Uptake,Organ,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0262304,AFFECTS,Uptake,pars postrema of the ventral lateral nucleus,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0588055,AFFECTS,Uptake,Mediastinal lymph node group,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0598051,AFFECTS,Uptake,vascular bed,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0796494,AFFECTS,Uptake,lobe,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0243144,C0933845,AFFECTS,Uptake,Parenchyma,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0301873,C0178784,AFFECTS,Immunologic reaction,Organ,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C0301944,C0024109,AFFECTS,Graft acceptance,Lung,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C0524828,C0005847,AFFECTS,Cytoprotection,Blood Vessel,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0597170,C0005847,AFFECTS,paracrine,Blood Vessel,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0597170,C0023884,AFFECTS,paracrine,Liver,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0597170,C0024109,AFFECTS,paracrine,Lung,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C0678209,C1440080,AFFECTS,Adaptive Immunity,Alveolar,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C1328821,C0015560,AFFECTS,tissue tropism,Fallopian Tubes,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C1328821,C0022646,AFFECTS,tissue tropism,Kidney,phsf,bpoc,2,AFFECTS_PHSFafctBPOC
+C1328821,C0423866,AFFECTS,tissue tropism,Lanugo,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C1511613,C0024109,AFFECTS,Cytokine Signaling Process,Lung,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C2256468,C0229016,AFFECTS,tubuloglomerular feedback,Structure of least splanchnic nerve,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C2262744,C0006104,AFFECTS,lipid homeostasis,Brain,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C2350828,C0178784,AFFECTS,Physiological Phenomena,Organ,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C2610986,C0022646,AFFECTS,Renal Reabsorption,Kidney,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C2717801,C2331190,AFFECTS,Viral Tropism,S1 segment,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C2945684,C0507816,AFFECTS,pulmonary effects,Pulmonary capillary,phsf,bpoc,1,AFFECTS_PHSFafctBPOC
+C3714584,C0024109,AFFECTS,"Transformation, function",Lung,phsf,bpoc,1,AFFECTS_PHSFafctBPOC

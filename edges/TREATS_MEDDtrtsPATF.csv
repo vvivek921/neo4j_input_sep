@@ -1,0 +1,189 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004726,C0019080,TREATS,Bandage,Hemorrhage,medd,patf,1,TREATS_MEDDtrtsPATF
+C0005971,C0020517,TREATS,Bone plates,Hypersensitivity,medd,patf,2,TREATS_MEDDtrtsPATF
+C0007439,C0019080,TREATS,Indwelling Catheter,Hemorrhage,medd,patf,1,TREATS_MEDDtrtsPATF
+C0008034,C0019123,TREATS,Chest Tubes,Hemothorax,medd,patf,1,TREATS_MEDDtrtsPATF
+C0009653,C0019080,TREATS,"Condoms, Male",Hemorrhage,medd,patf,1,TREATS_MEDDtrtsPATF
+C0009653,C0020517,TREATS,"Condoms, Male",Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0009653,C3714514,TREATS,"Condoms, Male",Infection,medd,patf,13,TREATS_MEDDtrtsPATF
+C0013119,C0041582,TREATS,Medical dressing,Ulcer,medd,patf,1,TREATS_MEDDtrtsPATF
+C0013119,C0043241,TREATS,Medical dressing,Wound Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0013119,C3714514,TREATS,Medical dressing,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0021102,C0020517,TREATS,Implants,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0021113,C0036974,TREATS,Artificial Implants,Shock,medd,patf,1,TREATS_MEDDtrtsPATF
+C0021461,C0242184,TREATS,Inhaler,Hypoxia,medd,patf,1,TREATS_MEDDtrtsPATF
+C0021900,C0025323,TREATS,Intrauterine Devices,Menorrhagia,medd,patf,1,TREATS_MEDDtrtsPATF
+C0024861,C0015376,TREATS,Masks,Extravasation,medd,patf,1,TREATS_MEDDtrtsPATF
+C0024861,C0028778,TREATS,Masks,Obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C0024861,C0162633,TREATS,Masks,Viral Shedding,medd,patf,1,TREATS_MEDDtrtsPATF
+C0024861,C0242184,TREATS,Masks,Hypoxia,medd,patf,1,TREATS_MEDDtrtsPATF
+C0024861,C0242781,TREATS,Masks,disease transmission,medd,patf,4,TREATS_MEDDtrtsPATF
+C0024861,C0543419,TREATS,Masks,Sequela of disorder,medd,patf,1,TREATS_MEDDtrtsPATF
+C0024861,C3714514,TREATS,Masks,Infection,medd,patf,13,TREATS_MEDDtrtsPATF
+C0026032,C0079027,TREATS,Microspheres,Intraoperative Hemorrhage,medd,patf,2,TREATS_MEDDtrtsPATF
+C0027524,C0220787,TREATS,Nebulizers,Endotracheal aspiration,medd,patf,4,TREATS_MEDDtrtsPATF
+C0027524,C0242781,TREATS,Nebulizers,disease transmission,medd,patf,4,TREATS_MEDDtrtsPATF
+C0027524,C0333165,TREATS,Nebulizers,Acute obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C0027524,C3714514,TREATS,Nebulizers,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0027551,C0003090,TREATS,Needle device,Ankylosis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0038257,C0002940,TREATS,"Stent, device",Aneurysm,medd,patf,1,TREATS_MEDDtrtsPATF
+C0038257,C0021368,TREATS,"Stent, device",Inflammation,medd,patf,1,TREATS_MEDDtrtsPATF
+C0038257,C1261287,TREATS,"Stent, device",Stenosis,medd,patf,2,TREATS_MEDDtrtsPATF
+C0038348,C0333241,TREATS,Compression Stockings,Chronic edema,medd,patf,1,TREATS_MEDDtrtsPATF
+C0038969,C0019080,TREATS,Surgical sutures,Hemorrhage,medd,patf,2,TREATS_MEDDtrtsPATF
+C0041158,C0015376,TREATS,Trocar,Extravasation,medd,patf,1,TREATS_MEDDtrtsPATF
+C0042497,C0242781,TREATS,Mechanical Ventilator,disease transmission,medd,patf,2,TREATS_MEDDtrtsPATF
+C0042497,C3714514,TREATS,Mechanical Ventilator,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0042498,C0600228,TREATS,Negative-Pressure Ventilators,Cardiopulmonary Arrest,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085104,C0016059,TREATS,Drug Delivery Systems,Fibrosis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085104,C0020517,TREATS,Drug Delivery Systems,Hypersensitivity,medd,patf,4,TREATS_MEDDtrtsPATF
+C0085104,C0021368,TREATS,Drug Delivery Systems,Inflammation,medd,patf,2,TREATS_MEDDtrtsPATF
+C0085104,C0028778,TREATS,Drug Delivery Systems,Obstruction,medd,patf,3,TREATS_MEDDtrtsPATF
+C0085104,C0030660,TREATS,Drug Delivery Systems,Pathologic Processes,medd,patf,2,TREATS_MEDDtrtsPATF
+C0085104,C0035304,TREATS,Drug Delivery Systems,Retinal Degeneration,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085104,C0036679,TREATS,Drug Delivery Systems,Diastasis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085104,C0041755,TREATS,Drug Delivery Systems,Adverse reaction to drug,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085104,C0242781,TREATS,Drug Delivery Systems,disease transmission,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085104,C0333138,TREATS,Drug Delivery Systems,Stasis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085104,C0333288,TREATS,Drug Delivery Systems,Dissecting hemorrhage,medd,patf,2,TREATS_MEDDtrtsPATF
+C0085104,C0543419,TREATS,Drug Delivery Systems,Sequela of disorder,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085104,C1155266,TREATS,Drug Delivery Systems,Inflammatory Response,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085104,C1383860,TREATS,Drug Delivery Systems,Cardiac Hypertrophy,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085104,C1520005,TREATS,Drug Delivery Systems,Viral Pathogenesis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085104,C3714514,TREATS,Drug Delivery Systems,Infection,medd,patf,7,TREATS_MEDDtrtsPATF
+C0085590,C1261287,TREATS,catheter device,Stenosis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085678,C0012359,TREATS,Nasogastric tube,Pathological Dilatation,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085678,C0232483,TREATS,Nasogastric tube,Reflux,medd,patf,1,TREATS_MEDDtrtsPATF
+C0085842,C0036980,TREATS,Artificial Ventricle,"Shock, Cardiogenic",medd,patf,1,TREATS_MEDDtrtsPATF
+C0087153,C0242184,TREATS,Ventilator - respiratory equipment,Hypoxia,medd,patf,1,TREATS_MEDDtrtsPATF
+C0087153,C0302148,TREATS,Ventilator - respiratory equipment,Blood Clot,medd,patf,1,TREATS_MEDDtrtsPATF
+C0150414,C0019080,TREATS,"tubes, esophageal, blakemore",Hemorrhage,medd,patf,1,TREATS_MEDDtrtsPATF
+C0150789,C0162633,TREATS,Patient Holding Stretchers,Viral Shedding,medd,patf,1,TREATS_MEDDtrtsPATF
+C0150789,C3714514,TREATS,Patient Holding Stretchers,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0150798,C0005001,TREATS,Suprapubic catheter,Benign prostatic hypertrophy,medd,patf,1,TREATS_MEDDtrtsPATF
+C0162645,C0028778,TREATS,Laryngeal Masks,Obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C0175648,C1140716,TREATS,Mats,Hypoxic Brain Damage,medd,patf,1,TREATS_MEDDtrtsPATF
+C0175649,C3887513,TREATS,Prosthesis,Avascular necrosis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0175722,C0028778,TREATS,Clip,Obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C0175722,C0520863,TREATS,Clip,Diastolic dysfunction,medd,patf,1,TREATS_MEDDtrtsPATF
+C0175723,C0020564,TREATS,Bands,Hypertrophy,medd,patf,1,TREATS_MEDDtrtsPATF
+C0175723,C0036679,TREATS,Bands,Diastasis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0175723,C3714514,TREATS,Bands,Infection,medd,patf,2,TREATS_MEDDtrtsPATF
+C0175730,C0024348,TREATS,biomedical tube device,Lysis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0175730,C0028778,TREATS,biomedical tube device,Obstruction,medd,patf,8,TREATS_MEDDtrtsPATF
+C0175730,C0036679,TREATS,biomedical tube device,Diastasis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0175735,C0019080,TREATS,Scissors (device),Hemorrhage,medd,patf,1,TREATS_MEDDtrtsPATF
+C0178959,C0020517,TREATS,ADAPTER,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0178987,C0012359,TREATS,Artificial Airways,Pathological Dilatation,medd,patf,1,TREATS_MEDDtrtsPATF
+C0178987,C0013604,TREATS,Artificial Airways,Edema,medd,patf,1,TREATS_MEDDtrtsPATF
+C0178987,C0019080,TREATS,Artificial Airways,Hemorrhage,medd,patf,1,TREATS_MEDDtrtsPATF
+C0178987,C0021375,TREATS,Artificial Airways,allergic inflammation,medd,patf,1,TREATS_MEDDtrtsPATF
+C0178987,C0028778,TREATS,Artificial Airways,Obstruction,medd,patf,2,TREATS_MEDDtrtsPATF
+C0178987,C0036974,TREATS,Artificial Airways,Shock,medd,patf,1,TREATS_MEDDtrtsPATF
+C0178987,C1261287,TREATS,Artificial Airways,Stenosis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179302,C1520005,TREATS,"Binder, device",Viral Pathogenesis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179302,C3714514,TREATS,"Binder, device",Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179321,C0013604,TREATS,Bite block,Edema,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179323,C0151526,TREATS,Blades (device),Premature Birth,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179433,C0004144,TREATS,Flexible bronchoscope,Atelectasis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179574,C0020542,TREATS,Nasal Cannula,Pulmonary Hypertension,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179574,C0026766,TREATS,Nasal Cannula,Multiple Organ Failure,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179574,C0036974,TREATS,Nasal Cannula,Shock,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179574,C0242184,TREATS,Nasal Cannula,Hypoxia,medd,patf,4,TREATS_MEDDtrtsPATF
+C0179630,C0036679,TREATS,Cartridge device,Diastasis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179790,C0036974,TREATS,Pulmonary artery flotation catheter,Shock,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179800,C0005001,TREATS,Urethral Catheters,Benign prostatic hypertrophy,medd,patf,1,TREATS_MEDDtrtsPATF
+C0179800,C0028778,TREATS,Urethral Catheters,Obstruction,medd,patf,2,TREATS_MEDDtrtsPATF
+C0180266,C0020517,TREATS,CUVETTES,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0180309,C3826020,TREATS,Automated External Defibrillators,Medical emergencies,medd,patf,1,TREATS_MEDDtrtsPATF
+C0180694,C3714514,TREATS,Bovie,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0181200,C0546817,TREATS,homogenizers,Fluid overload,medd,patf,1,TREATS_MEDDtrtsPATF
+C0181633,C0020517,TREATS,Light source,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0181687,C0232342,TREATS,loops,Decreased vascular flow,medd,patf,1,TREATS_MEDDtrtsPATF
+C0181734,C0221204,TREATS,Bone marker,Lytic lesion,medd,patf,1,TREATS_MEDDtrtsPATF
+C0181758,C3714514,TREATS,Surgical face mask,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0181845,C0020517,TREATS,Electron microscope,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0181904,C0019080,TREATS,Monitor Device,Hemorrhage,medd,patf,1,TREATS_MEDDtrtsPATF
+C0181959,C0262627,TREATS,Aspiration needles,Seroma,medd,patf,1,TREATS_MEDDtrtsPATF
+C0182158,C0020517,TREATS,Pads,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0182158,C0242781,TREATS,Pads,disease transmission,medd,patf,1,TREATS_MEDDtrtsPATF
+C0182400,C0020517,TREATS,Probes,Hypersensitivity,medd,patf,14,TREATS_MEDDtrtsPATF
+C0182400,C0028778,TREATS,Probes,Obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C0183089,C0020517,TREATS,saw (device),Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0183115,C0020517,TREATS,Scanning Systems,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0183210,C0020517,TREATS,sensor (device),Hypersensitivity,medd,patf,4,TREATS_MEDDtrtsPATF
+C0183210,C0028778,TREATS,sensor (device),Obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C0183210,C0242184,TREATS,sensor (device),Hypoxia,medd,patf,1,TREATS_MEDDtrtsPATF
+C0183210,C1520005,TREATS,sensor (device),Viral Pathogenesis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0183210,C1704489,TREATS,sensor (device),Extended Rotated Sidebent,medd,patf,1,TREATS_MEDDtrtsPATF
+C0183309,C0333288,TREATS,Simulators,Dissecting hemorrhage,medd,patf,1,TREATS_MEDDtrtsPATF
+C0183652,C0028778,TREATS,String (device),Obstruction,medd,patf,2,TREATS_MEDDtrtsPATF
+C0183675,C0020517,TREATS,Suction Tips,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0184147,C0013687,TREATS,Myringotomy tubes (device),effusion,medd,patf,1,TREATS_MEDDtrtsPATF
+C0184165,C0019080,TREATS,Tubing,Hemorrhage,medd,patf,2,TREATS_MEDDtrtsPATF
+C0184301,C0028778,TREATS,Vial device,Obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C0336587,C0028778,TREATS,"Surgical drill, device (physical object)",Obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C0336630,C0242781,TREATS,Endotracheal tube,disease transmission,medd,patf,1,TREATS_MEDDtrtsPATF
+C0336635,C0036679,TREATS,Glass tube,Diastasis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0392220,C0333288,TREATS,scalpel,Dissecting hemorrhage,medd,patf,1,TREATS_MEDDtrtsPATF
+C0392245,C0162834,TREATS,Alexandrite Lasers,Hyperpigmentation,medd,patf,1,TREATS_MEDDtrtsPATF
+C0392251,C0162834,TREATS,Carbon Dioxide Lasers,Hyperpigmentation,medd,patf,1,TREATS_MEDDtrtsPATF
+C0441161,C3714514,TREATS,Rigid endoscope,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C0441290,C1261287,TREATS,Metal stent,Stenosis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0463060,C0041582,TREATS,Incontinence sheath,Ulcer,medd,patf,1,TREATS_MEDDtrtsPATF
+C0472226,C0036679,TREATS,Blood glucose meters (medical device),Diastasis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0491970,C0332448,TREATS,Light microscope,Infiltration,medd,patf,1,TREATS_MEDDtrtsPATF
+C0492531,C0024348,TREATS,MICRO MIXER,Lysis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0522644,C0019080,TREATS,Embolization coil,Hemorrhage,medd,patf,1,TREATS_MEDDtrtsPATF
+C0563576,C0302148,TREATS,Laryngoscope blade,Blood Clot,medd,patf,1,TREATS_MEDDtrtsPATF
+C0590323,C0019080,TREATS,Gauzes,Hemorrhage,medd,patf,2,TREATS_MEDDtrtsPATF
+C0677875,C0235886,TREATS,Compression Bandages,Leg edema,medd,patf,1,TREATS_MEDDtrtsPATF
+C0702122,C0036974,TREATS,Intra-aortic balloon pump device,Shock,medd,patf,1,TREATS_MEDDtrtsPATF
+C0702122,C0036980,TREATS,Intra-aortic balloon pump device,"Shock, Cardiogenic",medd,patf,1,TREATS_MEDDtrtsPATF
+C0728990,C0036679,TREATS,Clinical Use Template,Diastasis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0728990,C0036981,TREATS,Clinical Use Template,Endotoxic shock,medd,patf,1,TREATS_MEDDtrtsPATF
+C0740043,C0028778,TREATS,medical supplies,Obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C0750164,C0036974,TREATS,venous access,Shock,medd,patf,1,TREATS_MEDDtrtsPATF
+C0810633,C0232219,TREATS,Pacemakers,Abnormal cardiac conduction,medd,patf,1,TREATS_MEDDtrtsPATF
+C0879140,C0028778,TREATS,Towelettes,Obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C0879240,C1520005,TREATS,Nasal Swabs,Viral Pathogenesis,medd,patf,1,TREATS_MEDDtrtsPATF
+C0879241,C0021359,TREATS,Pharyngeal Swabs,Infertility,medd,patf,1,TREATS_MEDDtrtsPATF
+C0972401,C0020517,TREATS,Boards (medical device),Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C0972401,C0032787,TREATS,Boards (medical device),Postoperative Complications,medd,patf,1,TREATS_MEDDtrtsPATF
+C1139730,C3714514,TREATS,monitoring systems,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C1139930,C0028778,TREATS,Device Plate,Obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C1260970,C0333257,TREATS,Tracheal tube,Air leakage,medd,patf,1,TREATS_MEDDtrtsPATF
+C1261188,C0021359,TREATS,Swab,Infertility,medd,patf,3,TREATS_MEDDtrtsPATF
+C1261188,C0162633,TREATS,Swab,Viral Shedding,medd,patf,1,TREATS_MEDDtrtsPATF
+C1272835,C0020517,TREATS,Test kit,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C1273532,C0020517,TREATS,Diagnostic device,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C1314650,C0021368,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Inflammation,medd,patf,1,TREATS_MEDDtrtsPATF
+C1314650,C0242184,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Hypoxia,medd,patf,1,TREATS_MEDDtrtsPATF
+C1314650,C3714514,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C1314650,C4061114,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Acute illness,medd,patf,1,TREATS_MEDDtrtsPATF
+C1322815,C3272317,TREATS,Drug-Eluting Stents,In Stent Restenosis,medd,patf,1,TREATS_MEDDtrtsPATF
+C1322960,C3714514,TREATS,Petri dish,Infection,medd,patf,1,TREATS_MEDDtrtsPATF
+C1328924,C0036679,TREATS,magnetic beads,Diastasis,medd,patf,3,TREATS_MEDDtrtsPATF
+C1512629,C0020581,TREATS,Imaging Device,Hyphema,medd,patf,1,TREATS_MEDDtrtsPATF
+C1553633,C0036983,TREATS,Maxillary right third molar abutment,Septic Shock,medd,patf,3,TREATS_MEDDtrtsPATF
+C1553633,C1383860,TREATS,Maxillary right third molar abutment,Cardiac Hypertrophy,medd,patf,1,TREATS_MEDDtrtsPATF
+C1608324,C0232483,TREATS,Vascular Access Ports,Reflux,medd,patf,1,TREATS_MEDDtrtsPATF
+C1704414,C0028778,TREATS,Valve Device,Obstruction,medd,patf,1,TREATS_MEDDtrtsPATF
+C1706912,C0013604,TREATS,BARRIER,Edema,medd,patf,1,TREATS_MEDDtrtsPATF
+C1706912,C0020517,TREATS,BARRIER,Hypersensitivity,medd,patf,2,TREATS_MEDDtrtsPATF
+C1706912,C0020564,TREATS,BARRIER,Hypertrophy,medd,patf,1,TREATS_MEDDtrtsPATF
+C1706912,C0036679,TREATS,BARRIER,Diastasis,medd,patf,2,TREATS_MEDDtrtsPATF
+C1706912,C0038536,TREATS,BARRIER,Subcutaneous Emphysema,medd,patf,1,TREATS_MEDDtrtsPATF
+C1706912,C0242781,TREATS,BARRIER,disease transmission,medd,patf,1,TREATS_MEDDtrtsPATF
+C1706912,C1155266,TREATS,BARRIER,Inflammatory Response,medd,patf,1,TREATS_MEDDtrtsPATF
+C1706912,C2004491,TREATS,BARRIER,Cicatrix,medd,patf,1,TREATS_MEDDtrtsPATF
+C1706912,C2717792,TREATS,BARRIER,Airway Remodeling,medd,patf,1,TREATS_MEDDtrtsPATF
+C1706912,C3714514,TREATS,BARRIER,Infection,medd,patf,7,TREATS_MEDDtrtsPATF
+C1960093,C0242184,TREATS,Nonrebreather oxygen mask,Hypoxia,medd,patf,2,TREATS_MEDDtrtsPATF
+C1968515,C0019080,TREATS,Pack (physical object),Hemorrhage,medd,patf,1,TREATS_MEDDtrtsPATF
+C2363670,C0020517,TREATS,developers,Hypersensitivity,medd,patf,1,TREATS_MEDDtrtsPATF
+C2720748,C0011071,TREATS,Hoods,Sudden death,medd,patf,1,TREATS_MEDDtrtsPATF
+C3495449,C0020564,TREATS,Mobility aid,Hypertrophy,medd,patf,1,TREATS_MEDDtrtsPATF
+C3873867,C0220787,TREATS,Suction system,Endotracheal aspiration,medd,patf,1,TREATS_MEDDtrtsPATF
+C3876323,C0015376,TREATS,Nosepiece,Extravasation,medd,patf,1,TREATS_MEDDtrtsPATF
+C4528683,C0036983,TREATS,Toraymyxin,Septic Shock,medd,patf,5,TREATS_MEDDtrtsPATF

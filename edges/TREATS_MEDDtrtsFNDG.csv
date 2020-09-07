@@ -1,0 +1,779 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002422,C0020649,TREATS,Ambulances,Hypotension,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0002422,C0427184,TREATS,Ambulances,No incoordination,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0002422,C0428977,TREATS,Ambulances,Bradycardia,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0002422,C4698719,TREATS,Ambulances,Confirmed case,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0003835,C0428890,TREATS,Arterial Lines,Invasive arterial pressure,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0003835,C4050466,TREATS,Arterial Lines,Borg Category-Ratio 10 Perceived Exertion Score 5,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0005971,C0150312,TREATS,Bone plates,Present,medd,fndg,19,TREATS_MEDDtrtsFNDG
+C0005971,C0439663,TREATS,Bone plates,Infected,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0005971,C0442726,TREATS,Bone plates,Detected (finding),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0005971,C0562577,TREATS,Bone plates,Mocking,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0005971,C0750479,TREATS,Bone plates,blank,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0005971,C0860803,TREATS,Bone plates,glucose high,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0005971,C1444656,TREATS,Bone plates,Indicated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0005971,C3845287,TREATS,Bone plates,Weak positive,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0005971,C4288557,TREATS,Bone plates,One Activity Hour,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0005971,C4505222,TREATS,Bone plates,Sleep Onset Latency,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0005971,C4740618,TREATS,Bone plates,5-6 days,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0005975,C0442726,TREATS,Bone Screws,Detected (finding),medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0005978,C0231303,TREATS,Bone Wires,Distress,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0005978,C0332575,TREATS,Bone Wires,Redness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0006086,C0041674,TREATS,Braces-Orthopedic appliances,Unemployment,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0006086,C0332149,TREATS,Braces-Orthopedic appliances,Possible,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0006086,C1317600,TREATS,Braces-Orthopedic appliances,patient symptoms,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0006086,C3840775,TREATS,Braces-Orthopedic appliances,Anticipated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0006086,C4745065,TREATS,Braces-Orthopedic appliances,Skeletally Immature,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0007439,C0080274,TREATS,Indwelling Catheter,Urinary Retention,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0007963,C0332575,TREATS,Charts (device),Redness,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0007963,C0442726,TREATS,Charts (device),Detected (finding),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0007963,C4050466,TREATS,Charts (device),Borg Category-Ratio 10 Perceived Exertion Score 5,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0007963,C4484175,TREATS,Charts (device),Growth Phase,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0007963,C4708981,TREATS,Charts (device),Subsequent encounter by subject,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0008034,C0546333,TREATS,Chest Tubes,Right pneumothorax,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0008034,C0546334,TREATS,Chest Tubes,Left pneumothorax,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0008034,C0677946,TREATS,Chest Tubes,Stable Disease,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0008034,C1299448,TREATS,Chest Tubes,Patient ventilated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0009653,C0085393,TREATS,"Condoms, Male",Immunocompromised Host,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0009653,C0332149,TREATS,"Condoms, Male",Possible,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0009653,C0439662,TREATS,"Condoms, Male",Immune,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0009653,C0439663,TREATS,"Condoms, Male",Infected,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0009653,C0518609,TREATS,"Condoms, Male",Consideration,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0009653,C0743630,TREATS,"Condoms, Male",exacerbation acute,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0009653,C1545588,TREATS,"Condoms, Male",Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0009653,C3272283,TREATS,"Condoms, Male",American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0010317,C0150312,TREATS,Cribs,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0010384,C0240341,TREATS,"Prostheses, Dental, Fixed, Crown, Total, Temporary",Micrographia,medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0010384,C4699181,TREATS,"Prostheses, Dental, Fixed, Crown, Total, Temporary",Lattice,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0013119,C0150077,TREATS,Medical dressing,Broken skin,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0013119,C0241863,TREATS,Medical dressing,diabetic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0013119,C0442797,TREATS,Medical dressing,Decreasing,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0013119,C0679319,TREATS,Medical dressing,Closed wound,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0013119,C3272283,TREATS,Medical dressing,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0013194,C0150312,TREATS,Drug Packaging,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0013194,C0184511,TREATS,Drug Packaging,Improved,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0013194,C0231303,TREATS,Drug Packaging,Distress,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0013194,C0424589,TREATS,Drug Packaging,Vitality,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0013194,C0517226,TREATS,Drug Packaging,Physical Well-being,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0013194,C1854293,TREATS,Drug Packaging,Iterations,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0013194,C1869116,TREATS,Drug Packaging,"ASTHMA, SUSCEPTIBILITY TO (finding)",medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0013194,C3714738,TREATS,Drug Packaging,Compliance,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0013194,C4698719,TREATS,Drug Packaging,Confirmed case,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0013194,C5204818,TREATS,Drug Packaging,Global Response,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0014243,C1849265,TREATS,Endoscopes,Overgrowth,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0015421,C0012569,TREATS,Eyeglasses,Diplopia,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0015421,C3272283,TREATS,Eyeglasses,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0018768,C0011053,TREATS,Hearing Aids,Deafness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0021102,C0332155,TREATS,Implants,Did not receive therapy or drug for,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0021102,C1299586,TREATS,Implants,Has difficulty doing (qualifier value),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0021102,C1545588,TREATS,Implants,Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0021102,C1706712,TREATS,Implants,Additional Therapy,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0021102,C1710427,TREATS,Implants,Tissue Failure,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0021102,C3665347,TREATS,Implants,Visual Impairment,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0021113,C4050466,TREATS,Artificial Implants,Borg Category-Ratio 10 Perceived Exertion Score 5,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0021461,C1299448,TREATS,Inhaler,Patient ventilated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0021461,C4086268,TREATS,Inhaler,Exacerbation,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0021461,C4554631,TREATS,Inhaler,"Nasal Congestion, CTCAE",medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0021461,C4699604,TREATS,Inhaler,<12 months,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0021900,C0231221,TREATS,Intrauterine Devices,Asymptomatic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0009488,TREATS,Masks,Comorbidity,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0013658,TREATS,Masks,Educational Status,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0150312,TREATS,Masks,Present,medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0024861,C0231221,TREATS,Masks,Asymptomatic,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0024861,C0231224,TREATS,Masks,Crisis,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0024861,C0234543,TREATS,Masks,Post-ictal state,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0235195,TREATS,Masks,Sedated state,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0235896,TREATS,Masks,Pulmonary Infiltrate,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0277786,TREATS,Masks,Chief complaint (finding),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0332219,TREATS,Masks,Easy,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0332461,TREATS,Masks,Plaque (lesion),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0332575,TREATS,Masks,Redness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0425945,TREATS,Masks,Prolonged menses,medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0024861,C0425946,TREATS,Masks,Short menstrual periods,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0428642,TREATS,Masks,Pulmonary artery pressure,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0439663,TREATS,Masks,Infected,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0024861,C0442726,TREATS,Masks,Detected (finding),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0442759,TREATS,Masks,3/6,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0442797,TREATS,Masks,Decreasing,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0024861,C0517967,TREATS,Masks,Respiratory pattern,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0557722,TREATS,Masks,High risk environment,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0024861,C0582147,TREATS,Masks,At risk of infection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0595998,TREATS,Masks,Household composition,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0683521,TREATS,Masks,Patient Physiological Condition,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0686750,TREATS,Masks,Well adult,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0024861,C0700292,TREATS,Masks,Hypoxemia,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C0743630,TREATS,Masks,exacerbation acute,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0024861,C0750484,TREATS,Masks,Confirmation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C1318963,TREATS,Masks,Readiness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C1545588,TREATS,Masks,Protection,medd,fndg,42,TREATS_MEDDtrtsFNDG
+C0024861,C1836348,TREATS,Masks,Severe disorder,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C3272281,TREATS,Masks,American College of Cardiology/American Heart Association Lesion Complexity Score A,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0024861,C3272283,TREATS,Masks,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,5,TREATS_MEDDtrtsFNDG
+C0024861,C3540840,TREATS,Masks,Sign or Symptom,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C3714738,TREATS,Masks,Compliance,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0024861,C3841253,TREATS,Masks,Reusable,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0024861,C3843058,TREATS,Masks,First half,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C3844729,TREATS,Masks,Very Important,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C3845714,TREATS,Masks,Several days,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0024861,C4505222,TREATS,Masks,Sleep Onset Latency,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C4698719,TREATS,Masks,Confirmed case,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C4699705,TREATS,Masks,Too long,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C5203671,TREATS,Masks,Suspected COVID-19,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0024861,C5231182,TREATS,Masks,Normal lung,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0026032,C0150312,TREATS,Microspheres,Present,medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0026032,C0459425,TREATS,Microspheres,Indeterminate result,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0027524,C0150312,TREATS,Nebulizers,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0027524,C0349790,TREATS,Nebulizers,Exacerbation of asthma,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0027524,C0517967,TREATS,Nebulizers,Respiratory pattern,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0027524,C1545588,TREATS,Nebulizers,Protection,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0027524,C2597943,TREATS,Nebulizers,Index case,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0027524,C4554418,TREATS,Nebulizers,Parallel,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0027524,C4698386,TREATS,Nebulizers,Intubated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0027551,C0556025,TREATS,Needle device,Injecting drug user,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0027551,C0700285,TREATS,Needle device,Drug addict,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0027551,C4055506,TREATS,Needle device,Accumulation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0030163,C3842523,TREATS,Artificial cardiac pacemaker,Heart condition,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0031246,C3843647,TREATS,Pessaries,> 2 years,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0035208,C0033213,TREATS,"Respirators, Air-Purifying",Problem,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0035208,C0557722,TREATS,"Respirators, Air-Purifying",High risk environment,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0035208,C1545588,TREATS,"Respirators, Air-Purifying",Protection,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0035208,C3272283,TREATS,"Respirators, Air-Purifying",American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0035208,C4698719,TREATS,"Respirators, Air-Purifying",Confirmed case,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0036405,C0150312,TREATS,Scintillation Counters,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0038009,C0332149,TREATS,Splint Device,Possible,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0038257,C0150312,TREATS,"Stent, device",Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0038257,C0221198,TREATS,"Stent, device",Lesion,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0038257,C3280470,TREATS,"Stent, device",Benign condition,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0039142,C0556025,TREATS,Syringes,Injecting drug user,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0039142,C4699604,TREATS,Syringes,<12 months,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0040519,C0020672,TREATS,Tourniquets,"Hypothermia, natural",medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0040661,C0277814,TREATS,Transducers,Sitting position,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0040661,C0439662,TREATS,Transducers,Immune,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0041158,C0231901,TREATS,Trocar,Intraabdominal pressure,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042325,C0428716,TREATS,Vaporizers,Fresh gas flow,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C0009488,TREATS,Mechanical Ventilator,Comorbidity,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C0033213,TREATS,Mechanical Ventilator,Problem,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C0150312,TREATS,Mechanical Ventilator,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C0231170,TREATS,Mechanical Ventilator,Disability,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0042497,C0231221,TREATS,Mechanical Ventilator,Asymptomatic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C0232915,TREATS,Mechanical Ventilator,No visible estrus,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0042497,C0332155,TREATS,Mechanical Ventilator,Did not receive therapy or drug for,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0042497,C0425945,TREATS,Mechanical Ventilator,Prolonged menses,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0042497,C0436345,TREATS,Mechanical Ventilator,Symptom severe,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C0544726,TREATS,Mechanical Ventilator,Hole Finding,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C0677946,TREATS,Mechanical Ventilator,Stable Disease,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C0750484,TREATS,Mechanical Ventilator,Confirmation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C1260922,TREATS,Mechanical Ventilator,Abnormal breathing,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C1545588,TREATS,Mechanical Ventilator,Protection,medd,fndg,25,TREATS_MEDDtrtsFNDG
+C0042497,C1879646,TREATS,Mechanical Ventilator,Affected Area,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C2825142,TREATS,Mechanical Ventilator,Experimental Result,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0042497,C3272281,TREATS,Mechanical Ventilator,American College of Cardiology/American Heart Association Lesion Complexity Score A,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C3272283,TREATS,Mechanical Ventilator,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C3714738,TREATS,Mechanical Ventilator,Compliance,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0042497,C3841937,TREATS,Mechanical Ventilator,Clean-up,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C4035626,TREATS,Mechanical Ventilator,3 times,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0042497,C4055506,TREATS,Mechanical Ventilator,Accumulation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C4698719,TREATS,Mechanical Ventilator,Confirmed case,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C4740674,TREATS,Mechanical Ventilator,Very low risk,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042497,C5203671,TREATS,Mechanical Ventilator,Suspected COVID-19,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0042498,C0728899,TREATS,Negative-Pressure Ventilators,Intoxication,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0043016,C0332575,TREATS,Walkers,Redness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0043303,C0150312,TREATS,X-Ray Film,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0080306,C1301624,TREATS,Vena Cava Filters,Medical contraindication,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0080306,C3272283,TREATS,Vena Cava Filters,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0033213,TREATS,Drug Delivery Systems,Problem,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0085104,C0038435,TREATS,Drug Delivery Systems,Stress,medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0085104,C0087130,TREATS,Drug Delivery Systems,Uncertainty,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0150312,TREATS,Drug Delivery Systems,Present,medd,fndg,35,TREATS_MEDDtrtsFNDG
+C0085104,C0184511,TREATS,Drug Delivery Systems,Improved,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0205161,TREATS,Drug Delivery Systems,Abnormal,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0231221,TREATS,Drug Delivery Systems,Asymptomatic,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0085104,C0231224,TREATS,Drug Delivery Systems,Crisis,medd,fndg,7,TREATS_MEDDtrtsFNDG
+C0085104,C0231901,TREATS,Drug Delivery Systems,Intraabdominal pressure,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0235109,TREATS,Drug Delivery Systems,Mental distress,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0332149,TREATS,Drug Delivery Systems,Possible,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0332461,TREATS,Drug Delivery Systems,Plaque (lesion),medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0085104,C0418624,TREATS,Drug Delivery Systems,Nonadministration of necessary drug or medicine,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0424589,TREATS,Drug Delivery Systems,Vitality,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0085104,C0425152,TREATS,Drug Delivery Systems,Engaged to be married,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0425382,TREATS,Drug Delivery Systems,Personal status - Adopted,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0439663,TREATS,Drug Delivery Systems,Infected,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0085104,C0442726,TREATS,Drug Delivery Systems,Detected (finding),medd,fndg,5,TREATS_MEDDtrtsFNDG
+C0085104,C0517627,TREATS,Drug Delivery Systems,Infection status,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0544452,TREATS,Drug Delivery Systems,Disease remission,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0549649,TREATS,Drug Delivery Systems,MISUSE,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0564182,TREATS,Drug Delivery Systems,Vocalization (finding),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0595998,TREATS,Drug Delivery Systems,Household composition,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0085104,C0600140,TREATS,Drug Delivery Systems,Does run (finding),medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0085104,C0679250,TREATS,Drug Delivery Systems,Disease Outcome,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0085104,C0679836,TREATS,Drug Delivery Systems,diagnostic problem,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0683314,TREATS,Drug Delivery Systems,personal health,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0085104,C0728899,TREATS,Drug Delivery Systems,Intoxication,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0749723,TREATS,Drug Delivery Systems,tuberculosis treated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C0750484,TREATS,Drug Delivery Systems,Confirmation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C1254481,TREATS,Drug Delivery Systems,Patient Problem,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C1290905,TREATS,Drug Delivery Systems,Discrepancy (finding),medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0085104,C1318963,TREATS,Drug Delivery Systems,Readiness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C1545588,TREATS,Drug Delivery Systems,Protection,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0085104,C1706353,TREATS,Drug Delivery Systems,Crack,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C1832073,TREATS,Drug Delivery Systems,Handling,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0085104,C1854293,TREATS,Drug Delivery Systems,Iterations,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0085104,C1881052,TREATS,Drug Delivery Systems,High Sensing,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0085104,C1963076,TREATS,Drug Delivery Systems,"Platelets, CTCAE",medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C2364172,TREATS,Drug Delivery Systems,Adherence To Medication Regime,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C2599730,TREATS,Drug Delivery Systems,Cytomegalovirus immediate-early,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C3272283,TREATS,Drug Delivery Systems,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C3714738,TREATS,Drug Delivery Systems,Compliance,medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0085104,C3816499,TREATS,Drug Delivery Systems,Pathogenic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C3840880,TREATS,Drug Delivery Systems,Traffic,medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0085104,C3846676,TREATS,Drug Delivery Systems,Confidential,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C4035673,TREATS,Drug Delivery Systems,Basic learning,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C4049797,TREATS,Drug Delivery Systems,Chaos,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0085104,C4050466,TREATS,Drug Delivery Systems,Borg Category-Ratio 10 Perceived Exertion Score 5,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0085104,C4068804,TREATS,Drug Delivery Systems,Coherent,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C4280573,TREATS,Drug Delivery Systems,Communication delay,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C4321237,TREATS,Drug Delivery Systems,High Level,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C4330261,TREATS,Drug Delivery Systems,High Confidence,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C4738506,TREATS,Drug Delivery Systems,Operating,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085104,C5141930,TREATS,Drug Delivery Systems,Casualties,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085275,C0150312,TREATS,Rubber Dams,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085590,C0020649,TREATS,catheter device,Hypotension,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085590,C0231957,TREATS,catheter device,Slow vital capacity,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085590,C0419437,TREATS,catheter device,High risk infant,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085590,C0700292,TREATS,catheter device,Hypoxemia,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085678,C0425945,TREATS,Nasogastric tube,Prolonged menses,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0085678,C1318963,TREATS,Nasogastric tube,Readiness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0087153,C0150312,TREATS,Ventilator - respiratory equipment,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0087153,C0231224,TREATS,Ventilator - respiratory equipment,Crisis,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0087153,C0436345,TREATS,Ventilator - respiratory equipment,Symptom severe,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0087153,C0497554,TREATS,Ventilator - respiratory equipment,Limited respiratory function,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0087153,C1299448,TREATS,Ventilator - respiratory equipment,Patient ventilated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0087153,C3890735,TREATS,Ventilator - respiratory equipment,Complete Response with Incomplete Platelet Recovery,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0087153,C4050466,TREATS,Ventilator - respiratory equipment,Borg Category-Ratio 10 Perceived Exertion Score 5,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0087165,C0033213,TREATS,Voice Prosthesis,Problem,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0150683,C0150312,TREATS,"Artificial Airways, Nasopharyngeal",Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0150694,C1299448,TREATS,"Artificial Airways, Oropharyngeal",Patient ventilated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0150789,C0150312,TREATS,Patient Holding Stretchers,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0150789,C4699604,TREATS,Patient Holding Stretchers,<12 months,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175648,C0871269,TREATS,Mats,Rhythm,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175648,C1545588,TREATS,Mats,Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175648,C5202689,TREATS,Mats,HIV Seroconversion,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175649,C0231224,TREATS,Prosthesis,Crisis,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175649,C3272281,TREATS,Prosthesis,American College of Cardiology/American Heart Association Lesion Complexity Score A,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0175649,C4534363,TREATS,Prosthesis,At home,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175663,C0150312,TREATS,Sounds device,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175663,C0424589,TREATS,Sounds device,Vitality,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175722,C0455825,TREATS,Clip,Left ventricular mass,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175722,C3669732,TREATS,Clip,Exhibition animal,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175723,C0150312,TREATS,Bands,Present,medd,fndg,21,TREATS_MEDDtrtsFNDG
+C0175723,C0205160,TREATS,Bands,Negative,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175723,C0205557,TREATS,Bands,False Positive,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175723,C0221198,TREATS,Bands,Lesion,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175723,C0231221,TREATS,Bands,Asymptomatic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175723,C0240322,TREATS,Bands,Menstrual period late,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175723,C0332155,TREATS,Bands,Did not receive therapy or drug for,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175723,C0439662,TREATS,Bands,Immune,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175723,C0439663,TREATS,Bands,Infected,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175723,C0562577,TREATS,Bands,Mocking,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0175723,C0750479,TREATS,Bands,blank,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0175723,C1444656,TREATS,Bands,Indicated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175723,C3715215,TREATS,Bands,S1,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175727,C0150312,TREATS,Stimulator,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175727,C0392209,TREATS,Stimulator,Nutritional status,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0175727,C1883041,TREATS,Stimulator,Device Slipped,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0175730,C4288557,TREATS,biomedical tube device,One Activity Hour,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175730,C4554476,TREATS,biomedical tube device,Remnant,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0175735,C0231303,TREATS,Scissors (device),Distress,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178951,C0016928,TREATS,Accelerometer,Gait,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178959,C0205160,TREATS,ADAPTER,Negative,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C0009488,TREATS,Artificial Airways,Comorbidity,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0178987,C0015663,TREATS,Artificial Airways,Fasting,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C0020440,TREATS,Artificial Airways,Hypercapnia,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C0033213,TREATS,Artificial Airways,Problem,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C0150312,TREATS,Artificial Airways,Present,medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0178987,C0184511,TREATS,Artificial Airways,Improved,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C0237677,TREATS,Artificial Airways,insensitivity,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C0337664,TREATS,Artificial Airways,Smoker,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C0425945,TREATS,Artificial Airways,Prolonged menses,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0178987,C0429208,TREATS,Artificial Airways,Nasal resistance,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0178987,C0429706,TREATS,Artificial Airways,Forced expiratory volume in 1 second finding,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C0439663,TREATS,Artificial Airways,Infected,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C0578757,TREATS,Artificial Airways,Good neonatal condition at birth,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C0581126,TREATS,Artificial Airways,Severe asthma,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C0677946,TREATS,Artificial Airways,Stable Disease,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C1299448,TREATS,Artificial Airways,Patient ventilated,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0178987,C1836348,TREATS,Artificial Airways,Severe disorder,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C3272283,TREATS,Artificial Airways,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C3280118,TREATS,Artificial Airways,Mild disorder,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C3553304,TREATS,Artificial Airways,Subepithelial fibrosis,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C3687337,TREATS,Artificial Airways,Sternal recumbency,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C3841427,TREATS,Artificial Airways,Medical reasons,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C4068833,TREATS,Artificial Airways,Vascularity,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0178987,C4086268,TREATS,Artificial Airways,Exacerbation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179064,C0021294,TREATS,Anesthesia machine,"Infant, Premature",medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179064,C0439663,TREATS,Anesthesia machine,Infected,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179064,C3687378,TREATS,Anesthesia machine,Dorsal recumbency,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179129,C0231221,TREATS,Apron,Asymptomatic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179129,C4698386,TREATS,Apron,Intubated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179199,C1545588,TREATS,"Balance, device",Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179199,C4036283,TREATS,"Balance, device",Basic knowledge,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179245,C0150312,TREATS,Water Bath,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179245,C3842089,TREATS,Water Bath,2 mm,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179302,C3665437,TREATS,"Binder, device",Serum phosphate concentrations above normal (finding),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179323,C0038187,TREATS,Blades (device),Starvation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179323,C0856882,TREATS,Blades (device),potassium high,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179350,C1299448,TREATS,blood gas monitors,Patient ventilated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179407,C0332575,TREATS,brackets,Redness,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0179407,C3843262,TREATS,brackets,Line 5,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179432,C0016815,TREATS,Bronchoscopes,Functional Residual Capacity,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179432,C0442797,TREATS,Bronchoscopes,Decreasing,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179432,C1254481,TREATS,Bronchoscopes,Patient Problem,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179433,C0085393,TREATS,Flexible bronchoscope,Immunocompromised Host,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179433,C0235896,TREATS,Flexible bronchoscope,Pulmonary Infiltrate,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0179574,C0020440,TREATS,Nasal Cannula,Hypercapnia,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179574,C0235195,TREATS,Nasal Cannula,Sedated state,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179574,C0425945,TREATS,Nasal Cannula,Prolonged menses,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179574,C0700292,TREATS,Nasal Cannula,Hypoxemia,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0179574,C1301705,TREATS,Nasal Cannula,Sniffing position,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179574,C4534574,TREATS,Nasal Cannula,Additional day,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179574,C4748623,TREATS,Nasal Cannula,Ventilatory support,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179583,C1442858,TREATS,Venous cannula,Surgical fistula,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179630,C0007294,TREATS,Cartridge device,Genetic Carriers,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179788,C0442797,TREATS,Suction catheter,Decreasing,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179804,C3841427,TREATS,"CATHETER, FOLEY",Medical reasons,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179804,C4699164,TREATS,"CATHETER, FOLEY",Poor function,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179834,C4288085,TREATS,Centrifuges (device),Two to Five Activity Hours,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0179958,C1260922,TREATS,Cleaning Device,Abnormal breathing,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0179958,C3714738,TREATS,Cleaning Device,Compliance,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180011,C1299586,TREATS,Collector device,Has difficulty doing (qualifier value),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180022,C0424589,TREATS,Colonoscopes,Vitality,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180208,C0745114,TREATS,Blood pressure cuff,hypertension chronic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180249,C4288557,TREATS,Cushion,One Activity Hour,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180279,C0332575,TREATS,Flow Cytometer,Redness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180307,C3842523,TREATS,Defibrillators,Heart condition,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180309,C0038435,TREATS,Automated External Defibrillators,Stress,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180389,C0150312,TREATS,Desiccator,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180453,C0231162,TREATS,Laryngoscopes,Normal general body function,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180453,C1301705,TREATS,Laryngoscopes,Sniffing position,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180453,C3687378,TREATS,Laryngoscopes,Dorsal recumbency,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180454,C0150312,TREATS,Culture plate,Present,medd,fndg,5,TREATS_MEDDtrtsFNDG
+C0180454,C1320226,TREATS,Culture plate,Incubation period,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180463,C0150312,TREATS,Dispenser,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180463,C0239846,TREATS,Dispenser,Hand-wringing,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0180463,C2364172,TREATS,Dispenser,Adherence To Medication Regime,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180463,C3714738,TREATS,Dispenser,Compliance,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180694,C0043084,TREATS,Bovie,Weaning,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180694,C0043094,TREATS,Bovie,Weight Gain,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180694,C0442797,TREATS,Bovie,Decreasing,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180694,C3816499,TREATS,Bovie,Pathogenic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180694,C4289767,TREATS,Bovie,Colonization,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180950,C0150312,TREATS,Hemostat,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0180979,C0033213,TREATS,Frame (physical object),Problem,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0180979,C0231224,TREATS,Frame (physical object),Crisis,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0180979,C1854293,TREATS,Frame (physical object),Iterations,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181033,C0150312,TREATS,germicidal lamps,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181033,C0231162,TREATS,germicidal lamps,Normal general body function,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181064,C1545588,TREATS,Gown,Protection,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0181064,C1832073,TREATS,Gown,Handling,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181064,C5203671,TREATS,Gown,Suspected COVID-19,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181115,C1879885,TREATS,Handpiece,Backflow,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181168,C0150312,TREATS,HEMOCYTOMETER,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181222,C1545588,TREATS,Hoses,Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181293,C0231519,TREATS,Incinerator,Gegenhalten,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181467,C0456913,TREATS,knife,Cold medium,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181598,C0009488,TREATS,Left ventricular assist device,Comorbidity,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181633,C0150312,TREATS,Light source,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181670,C0150312,TREATS,Lithotripter,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181687,C0033213,TREATS,loops,Problem,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181687,C0038999,TREATS,loops,Swelling,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0181687,C0150312,TREATS,loops,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181687,C0231224,TREATS,loops,Crisis,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181687,C0231519,TREATS,loops,Gegenhalten,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181687,C0241863,TREATS,loops,diabetic,medd,fndg,6,TREATS_MEDDtrtsFNDG
+C0181687,C0332575,TREATS,loops,Redness,medd,fndg,5,TREATS_MEDDtrtsFNDG
+C0181687,C0424589,TREATS,loops,Vitality,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181687,C0427625,TREATS,loops,Blood group O (finding),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181687,C1334929,TREATS,loops,Necrotic Lesion,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181687,C4551754,TREATS,loops,RhD negative,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181687,C4699181,TREATS,loops,Lattice,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181758,C0150312,TREATS,Surgical face mask,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0181758,C0205160,TREATS,Surgical face mask,Negative,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0181758,C0425945,TREATS,Surgical face mask,Prolonged menses,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181758,C0439663,TREATS,Surgical face mask,Infected,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181758,C0595998,TREATS,Surgical face mask,Household composition,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181758,C1545588,TREATS,Surgical face mask,Protection,medd,fndg,12,TREATS_MEDDtrtsFNDG
+C0181758,C1832073,TREATS,Surgical face mask,Handling,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181758,C3272281,TREATS,Surgical face mask,American College of Cardiology/American Heart Association Lesion Complexity Score A,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0181758,C3272283,TREATS,Surgical face mask,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181758,C3874334,TREATS,Surgical face mask,Severe hearing loss,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0181797,C4554418,TREATS,Medical Gas Cylinders,Parallel,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181839,C0150312,TREATS,Microscopes,Present,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0181839,C0332516,TREATS,Microscopes,Symmetrical,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181839,C3840916,TREATS,Microscopes,4-5 days,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181845,C0150312,TREATS,Electron microscope,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0181845,C3272629,TREATS,Electron microscope,Epithelial Damage,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181904,C0150312,TREATS,Monitor Device,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181904,C0241863,TREATS,Monitor Device,diabetic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181904,C3714738,TREATS,Monitor Device,Compliance,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0181959,C4055482,TREATS,Aspiration needles,Airway Compromise,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182109,C0150312,TREATS,Pulse oximeter,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182109,C0425946,TREATS,Pulse oximeter,Short menstrual periods,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182158,C0009488,TREATS,Pads,Comorbidity,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0182158,C0518609,TREATS,Pads,Consideration,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182158,C0871269,TREATS,Pads,Rhythm,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182258,C0750479,TREATS,Microplate Reader,blank,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182301,C0015663,TREATS,Pipette (physical object),Fasting,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0182400,C0011053,TREATS,Probes,Deafness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C0033213,TREATS,Probes,Problem,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C0085639,TREATS,Probes,Falls,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C0150312,TREATS,Probes,Present,medd,fndg,28,TREATS_MEDDtrtsFNDG
+C0182400,C0184511,TREATS,Probes,Improved,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C0205160,TREATS,Probes,Negative,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C0332155,TREATS,Probes,Did not receive therapy or drug for,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0182400,C0332575,TREATS,Probes,Redness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C0424576,TREATS,Probes,Fit and well,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C0425152,TREATS,Probes,Engaged to be married,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C0439663,TREATS,Probes,Infected,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0182400,C0442726,TREATS,Probes,Detected (finding),medd,fndg,7,TREATS_MEDDtrtsFNDG
+C0182400,C0750479,TREATS,Probes,blank,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C0750484,TREATS,Probes,Confirmation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C1444783,TREATS,Probes,Instability,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C1832073,TREATS,Probes,Handling,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C3257923,TREATS,Probes,Noise level,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182400,C4698386,TREATS,Probes,Intubated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182537,C0150312,TREATS,pump (device),Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182576,C0150312,TREATS,Rack,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182605,C3840880,TREATS,Radiographic unit,Traffic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0182639,C0581296,TREATS,Gamma Knife,intracranial lesion,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183064,C0428646,TREATS,Rotameter,Oxygen concentration,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183086,C0150312,TREATS,sanitizers,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183086,C1545588,TREATS,sanitizers,Protection,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0183086,C3714738,TREATS,sanitizers,Compliance,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183115,C0080274,TREATS,Scanning Systems,Urinary Retention,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183115,C0150312,TREATS,Scanning Systems,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183115,C0235744,TREATS,Scanning Systems,Breath Holding,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183115,C0332575,TREATS,Scanning Systems,Redness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183115,C0442726,TREATS,Scanning Systems,Detected (finding),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183115,C0600140,TREATS,Scanning Systems,Does run (finding),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C0016928,TREATS,sensor (device),Gait,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C0038435,TREATS,sensor (device),Stress,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0183210,C0086972,TREATS,sensor (device),Separated from cohabitee,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C0150312,TREATS,sensor (device),Present,medd,fndg,5,TREATS_MEDDtrtsFNDG
+C0183210,C0232370,TREATS,sensor (device),Florid red complexion (finding),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C0422837,TREATS,sensor (device),Neurological observations,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C0424589,TREATS,sensor (device),Vitality,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C0428642,TREATS,sensor (device),Pulmonary artery pressure,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C0429673,TREATS,sensor (device),Respiratory measure,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C0439662,TREATS,sensor (device),Immune,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C0442726,TREATS,sensor (device),Detected (finding),medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0183210,C0595998,TREATS,sensor (device),Household composition,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0183210,C0679218,TREATS,sensor (device),Resting state,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0183210,C0683314,TREATS,sensor (device),personal health,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C1545588,TREATS,sensor (device),Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C1820407,TREATS,sensor (device),Monitors blood glucose,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C3840880,TREATS,sensor (device),Traffic,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0183210,C4035864,TREATS,sensor (device),Algorithmic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C4050171,TREATS,sensor (device),Sustained Virologic Response,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C4321237,TREATS,sensor (device),High Level,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183210,C5204818,TREATS,sensor (device),Global Response,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183255,C0150312,TREATS,Face shield (physical object),Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183255,C0442749,TREATS,Face shield (physical object),6/5,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0183255,C0518609,TREATS,Face shield (physical object),Consideration,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183255,C1545588,TREATS,Face shield (physical object),Protection,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0183309,C4554418,TREATS,Simulators,Parallel,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183396,C0150312,TREATS,Mass Spectrometers (device),Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183479,C0231221,TREATS,Spreader,Asymptomatic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183479,C4321237,TREATS,Spreader,High Level,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0183518,C3827688,TREATS,Ureteric stent,Ureter Compression,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183559,C0425945,TREATS,Stethoscopes,Prolonged menses,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183644,C0085393,TREATS,Wheeled Stretchers,Immunocompromised Host,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183652,C0240341,TREATS,String (device),Micrographia,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183652,C1854293,TREATS,String (device),Iterations,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183683,C2121474,TREATS,"Support, device",RV Shock,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183875,C3272283,TREATS,Medical Tent,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183884,C0750484,TREATS,Test tube,Confirmation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183884,C1832073,TREATS,Test tube,Handling,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183885,C1832073,TREATS,Tester device,Handling,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183919,C0750484,TREATS,infrared thermometers,Confirmation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0183969,C0578862,TREATS,Tonometer,Intraocular pressure finding,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184047,C0150312,TREATS,Trap medical device,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184047,C0332155,TREATS,Trap medical device,Did not receive therapy or drug for,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184047,C3687361,TREATS,Trap medical device,Body condition,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184047,C3714738,TREATS,Trap medical device,Compliance,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0184047,C4699705,TREATS,Trap medical device,Too long,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184054,C0429627,TREATS,Tray - device,Oxygen uptake,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184066,C0150312,TREATS,Microplate,Present,medd,fndg,5,TREATS_MEDDtrtsFNDG
+C0184066,C0750479,TREATS,Microplate,blank,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184066,C1444656,TREATS,Microplate,Indicated,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0184066,C1832073,TREATS,Microplate,Handling,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184066,C3842089,TREATS,Microplate,2 mm,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184066,C3842491,TREATS,Microplate,2 - scaly,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184106,C3843647,TREATS,breathing tubes,> 2 years,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184108,C0332155,TREATS,"TUBE, COLLECTION, CAPILLARY BLOOD",Did not receive therapy or drug for,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184147,C0011053,TREATS,Myringotomy tubes (device),Deafness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184147,C0743360,TREATS,Myringotomy tubes (device),Recurrent ear infections,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184165,C0150312,TREATS,Tubing,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0184165,C0428642,TREATS,Tubing,Pulmonary artery pressure,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184187,C0150312,TREATS,Tweezer,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184252,C0232021,TREATS,Medical Valves,Peak inspiratory pressure,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184252,C0428686,TREATS,Medical Valves,Inspiratory time,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0184252,C1545588,TREATS,Medical Valves,Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184265,C1832073,TREATS,"unidirectional flow, heart-lung bypass valves",Handling,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0184283,C4698386,TREATS,Intensive-care ventilator,Intubated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0221874,C0150312,TREATS,spacer device,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0221874,C1299448,TREATS,spacer device,Patient ventilated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0302647,C0150312,TREATS,chromatographs,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0336548,C0518609,TREATS,Prosthetic valve,Consideration,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0336561,C0232021,TREATS,Artificial lung,Peak inspiratory pressure,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0336587,C0221198,TREATS,"Surgical drill, device (physical object)",Lesion,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0336587,C1318963,TREATS,"Surgical drill, device (physical object)",Readiness,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0336630,C1299448,TREATS,Endotracheal tube,Patient ventilated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0336630,C4321237,TREATS,Endotracheal tube,High Level,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0336630,C4698386,TREATS,Endotracheal tube,Intubated,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0336648,C0041674,TREATS,Alarm device,Unemployment,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0336648,C0150312,TREATS,Alarm device,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0336648,C0449437,TREATS,Alarm device,Patient status,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0336648,C1545588,TREATS,Alarm device,Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0336648,C3845876,TREATS,Alarm device,Consequent,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0370201,C1444656,TREATS,Blood product unit,Indicated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0376432,C1709157,TREATS,Bioreactors,Negative Surgical Margin,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0392247,C0150312,TREATS,Argon Ion Lasers,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0441052,C0262926,TREATS,Latex rubber gloves,Medical History,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0441247,C3840880,TREATS,Conduit implant,Traffic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0441247,C4289767,TREATS,Conduit implant,Colonization,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0441289,C3280470,TREATS,Plastic stent,Benign condition,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0450240,C0150312,TREATS,Cassette (physical object),Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0450240,C1883041,TREATS,Cassette (physical object),Device Slipped,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0456378,C0184512,TREATS,Type of bridge device,Stabilized (qualifier value),medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0456378,C0332575,TREATS,Type of bridge device,Redness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0456378,C3816745,TREATS,Type of bridge device,1+,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0457169,C1545588,TREATS,Respiratory equipment,Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0457177,C0184511,TREATS,Telescopes,Improved,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0490617,C0745130,TREATS,"CATHETER, PERCUTANEOUS",Resistant hypertensive disorder,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0491931,C0240341,TREATS,Orthopedic Fork,Micrographia,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0491970,C0150312,TREATS,Light microscope,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0491970,C0221198,TREATS,Light microscope,Lesion,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0492253,C0150312,TREATS,PH BUFFER,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0497652,C5203340,TREATS,New equipment,Lethality,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0520453,C0332155,TREATS,Cannula device,Did not receive therapy or drug for,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0522650,C0439662,TREATS,External prosthesis for sonographic procedure,Immune,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0581447,C0085393,TREATS,Arterial catheter,Immunocompromised Host,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0581447,C0428886,TREATS,Arterial catheter,Mean blood pressure,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0596972,C0184511,TREATS,Monitoring Device,Improved,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0596972,C1318963,TREATS,Monitoring Device,Readiness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0687394,C0332155,TREATS,"MICROSCOPE, PHASE CONTRAST",Did not receive therapy or drug for,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0687607,C0750484,TREATS,"Thermometers, Electronic, Infrared, Ear",Confirmation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0702122,C3272283,TREATS,Intra-aortic balloon pump device,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0726930,C0150312,TREATS,Small Ones,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0726930,C5141930,TREATS,Small Ones,Casualties,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0727492,C0150312,TREATS,Plastic Bottle,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0728376,C1456711,TREATS,thermometer digital,Sun Exposure,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0728475,C0425152,TREATS,ultra,Engaged to be married,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0728688,C3843647,TREATS,wrist splint,> 2 years,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0728990,C0150312,TREATS,Clinical Use Template,Present,medd,fndg,10,TREATS_MEDDtrtsFNDG
+C0728990,C0205160,TREATS,Clinical Use Template,Negative,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0728990,C0442726,TREATS,Clinical Use Template,Detected (finding),medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0728990,C0566217,TREATS,Clinical Use Template,Does ask questions,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0728990,C0750479,TREATS,Clinical Use Template,blank,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0728990,C1854293,TREATS,Clinical Use Template,Iterations,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0728990,C4036062,TREATS,Clinical Use Template,Transcribing,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0728990,C5203671,TREATS,Clinical Use Template,Suspected COVID-19,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0740043,C0231224,TREATS,medical supplies,Crisis,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0740043,C0262646,TREATS,medical supplies,SYSTEMIC PROBLEM,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0740043,C1299586,TREATS,medical supplies,Has difficulty doing (qualifier value),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0745442,C4698386,TREATS,Intravenous Catheters,Intubated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0770764,C0700285,TREATS,Disposable Syringe,Drug addict,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0770788,C0442797,TREATS,Transparent dressing,Decreasing,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0776981,C0012569,TREATS,Eye patch,Diplopia,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0777169,C0150312,TREATS,Lancet,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0780418,C1836348,TREATS,"KIT, FIRST AID",Severe disorder,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0788300,C0150312,TREATS,Protein Test device,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0792850,C0442726,TREATS,HIV test kit,Detected (finding),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0810633,C3272283,TREATS,Pacemakers,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0810635,C0679246,TREATS,spinal cord stimulators,advanced disease,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0810635,C4699604,TREATS,spinal cord stimulators,<12 months,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0878826,C0009488,TREATS,"Analyzers, Physiologic, Middle Ear, Acoustic Reflectometry",Comorbidity,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0878826,C0578022,TREATS,"Analyzers, Physiologic, Middle Ear, Acoustic Reflectometry",Finding of body mass index,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0878826,C1320226,TREATS,"Analyzers, Physiologic, Middle Ear, Acoustic Reflectometry",Incubation period,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0879099,C4748623,TREATS,positive pressure ventilators,Ventilatory support,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0879140,C0150312,TREATS,Towelettes,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0879140,C3669716,TREATS,Towelettes,Cow in interlactation period,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0879179,C0700292,TREATS,Nasal catheter,Hypoxemia,medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0879240,C0150312,TREATS,Nasal Swabs,Present,medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0879240,C0231221,TREATS,Nasal Swabs,Asymptomatic,medd,fndg,6,TREATS_MEDDtrtsFNDG
+C0879240,C0439662,TREATS,Nasal Swabs,Immune,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0879240,C1833334,TREATS,Nasal Swabs,Early-onset,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0879240,C3714738,TREATS,Nasal Swabs,Compliance,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0879240,C3845714,TREATS,Nasal Swabs,Several days,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0879240,C4086268,TREATS,Nasal Swabs,Exacerbation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0879240,C4534363,TREATS,Nasal Swabs,At home,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0879240,C4554631,TREATS,Nasal Swabs,"Nasal Congestion, CTCAE",medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0879241,C0150312,TREATS,Pharyngeal Swabs,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0879241,C0231221,TREATS,Pharyngeal Swabs,Asymptomatic,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0879241,C4050466,TREATS,Pharyngeal Swabs,Borg Category-Ratio 10 Perceived Exertion Score 5,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0936234,C0439663,TREATS,Computed Tomography Scanning Systems,Infected,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C0936234,C5203671,TREATS,Computed Tomography Scanning Systems,Suspected COVID-19,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0972401,C0087130,TREATS,Boards (medical device),Uncertainty,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0972401,C0231224,TREATS,Boards (medical device),Crisis,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0972401,C0231303,TREATS,Boards (medical device),Distress,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0972401,C0518609,TREATS,Boards (medical device),Consideration,medd,fndg,4,TREATS_MEDDtrtsFNDG
+C0972401,C0557361,TREATS,Boards (medical device),Unpaid work,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0972401,C0750484,TREATS,Boards (medical device),Confirmation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0994894,C0016815,TREATS,Patch Dosage Form,Functional Residual Capacity,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0994894,C0332461,TREATS,Patch Dosage Form,Plaque (lesion),medd,fndg,7,TREATS_MEDDtrtsFNDG
+C0994894,C0332516,TREATS,Patch Dosage Form,Symmetrical,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0994894,C0332575,TREATS,Patch Dosage Form,Redness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0994894,C0424589,TREATS,Patch Dosage Form,Vitality,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0994894,C1268722,TREATS,Patch Dosage Form,Mammographic difference in size (finding),medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0994894,C1545588,TREATS,Patch Dosage Form,Protection,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0994894,C1854293,TREATS,Patch Dosage Form,Iterations,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1139730,C0234422,TREATS,monitoring systems,Awake,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1139730,C1320226,TREATS,monitoring systems,Incubation period,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1139730,C3714738,TREATS,monitoring systems,Compliance,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1139730,C3840880,TREATS,monitoring systems,Traffic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1139930,C0150312,TREATS,Device Plate,Present,medd,fndg,24,TREATS_MEDDtrtsFNDG
+C1139930,C0439663,TREATS,Device Plate,Infected,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1139930,C0518609,TREATS,Device Plate,Consideration,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1139930,C0562577,TREATS,Device Plate,Mocking,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1139930,C0600140,TREATS,Device Plate,Does run (finding),medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1139930,C0750479,TREATS,Device Plate,blank,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1139930,C1320226,TREATS,Device Plate,Incubation period,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1139930,C1444656,TREATS,Device Plate,Indicated,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1139930,C3843066,TREATS,Device Plate,2 to 3 days,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1139930,C3843197,TREATS,Device Plate,One or Two Days,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1139930,C3845970,TREATS,Device Plate,Nonreactive,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1139930,C3846401,TREATS,Device Plate,M & Y,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1139930,C4288557,TREATS,Device Plate,One Activity Hour,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1140607,C0429886,TREATS,Commodes,Walking distance,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1140609,C3869937,TREATS,Insulin pump,T1d,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1145640,C0518609,TREATS,"Central venous catheter, device",Consideration,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1145640,C3272283,TREATS,"Central venous catheter, device",American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1260969,C0150312,TREATS,Ring device,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1260969,C0231221,TREATS,Ring device,Asymptomatic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1260969,C0332575,TREATS,Ring device,Redness,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1260969,C0578757,TREATS,Ring device,Good neonatal condition at birth,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1260969,C4699181,TREATS,Ring device,Lattice,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1260970,C4698386,TREATS,Tracheal tube,Intubated,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1261188,C0020580,TREATS,Swab,Hypesthesia,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1261188,C0150312,TREATS,Swab,Present,medd,fndg,6,TREATS_MEDDtrtsFNDG
+C1261188,C0231221,TREATS,Swab,Asymptomatic,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C1261188,C1320226,TREATS,Swab,Incubation period,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1272835,C1709157,TREATS,Test kit,Negative Surgical Margin,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1272835,C4698719,TREATS,Test kit,Confirmed case,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1273532,C1820407,TREATS,Diagnostic device,Monitors blood glucose,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1289834,C0015663,TREATS,Continuous Wave Lasers,Fasting,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1314650,C0015663,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Fasting,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1314650,C0033213,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Problem,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C1314650,C0085393,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Immunocompromised Host,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1314650,C0085639,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Falls,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1314650,C0150312,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1314650,C0221198,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Lesion,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1314650,C0231162,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Normal general body function,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1314650,C0231224,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Crisis,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1314650,C0332575,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Redness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1314650,C0439663,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Infected,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1314650,C0518609,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Consideration,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1314650,C0595998,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Household composition,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C1314650,C1318963,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Readiness,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1314650,C1334929,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Necrotic Lesion,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1314650,C1835119,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Early glaucoma,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1314650,C4050466,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Borg Category-Ratio 10 Perceived Exertion Score 5,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1314650,C4698719,TREATS,"SUPPLY, NOT OTHERWISE SPECIFIED",Confirmed case,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1321564,C0150312,TREATS,strip medical device,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1321564,C0332575,TREATS,strip medical device,Redness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1322815,C0221198,TREATS,Drug-Eluting Stents,Lesion,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1322960,C0085393,TREATS,Petri dish,Immunocompromised Host,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1322960,C4288557,TREATS,Petri dish,One Activity Hour,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1328924,C0005758,TREATS,magnetic beads,Bulla,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1328924,C0150312,TREATS,magnetic beads,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1553480,C3687252,TREATS,Diskus,Eosinophilic inflammation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1553642,C0439663,TREATS,Maxillary left lateral incisor abutment,Infected,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1553643,C0150312,TREATS,Maxillary left canine abutment,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1553644,C0150312,TREATS,Maxillary left first premolar abutment,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1553645,C0150312,TREATS,Maxillary left second premolar abutment,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1553647,C0150312,TREATS,Maxillary left second molar abutment,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1553647,C1545588,TREATS,Maxillary left second molar abutment,Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1553661,C0150312,TREATS,Mandibular left lateral incisor abutment,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1553663,C0150312,TREATS,Mandibular right central incisor abutment,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1611676,C0150312,TREATS,Thermal Cycler,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0085988,TREATS,BARRIER,Cephalopelvic Disproportion,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0150312,TREATS,BARRIER,Present,medd,fndg,6,TREATS_MEDDtrtsFNDG
+C1706912,C0150598,TREATS,BARRIER,Sets goals,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0231162,TREATS,BARRIER,Normal general body function,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0231170,TREATS,BARRIER,Disability,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1706912,C0231224,TREATS,BARRIER,Crisis,medd,fndg,7,TREATS_MEDDtrtsFNDG
+C1706912,C0231974,TREATS,BARRIER,Anatomical dead space,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0237154,TREATS,BARRIER,Homelessness,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1706912,C0237849,TREATS,BARRIER,Peeling of skin,medd,fndg,3,TREATS_MEDDtrtsFNDG
+C1706912,C0337600,TREATS,BARRIER,Bachelor,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0392209,TREATS,BARRIER,Nutritional status,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0424589,TREATS,BARRIER,Vitality,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0425152,TREATS,BARRIER,Engaged to be married,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1706912,C0425382,TREATS,BARRIER,Personal status - Adopted,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0439662,TREATS,BARRIER,Immune,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0442816,TREATS,BARRIER,Normal limits,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0452415,TREATS,BARRIER,"Diet, Healthy",medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0560453,TREATS,BARRIER,Does jump,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0566217,TREATS,BARRIER,Does ask questions,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0595998,TREATS,BARRIER,Household composition,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C1299586,TREATS,BARRIER,Has difficulty doing (qualifier value),medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C1317600,TREATS,BARRIER,patient symptoms,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C1318963,TREATS,BARRIER,Readiness,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C1706912,C1545588,TREATS,BARRIER,Protection,medd,fndg,6,TREATS_MEDDtrtsFNDG
+C1706912,C1836348,TREATS,BARRIER,Severe disorder,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C2364172,TREATS,BARRIER,Adherence To Medication Regime,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C3272281,TREATS,BARRIER,American College of Cardiology/American Heart Association Lesion Complexity Score A,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C3714738,TREATS,BARRIER,Compliance,medd,fndg,4,TREATS_MEDDtrtsFNDG
+C1706912,C3841449,TREATS,BARRIER,Much better,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C3841750,TREATS,BARRIER,Mass gathering,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C3841842,TREATS,BARRIER,Person 2,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C3841939,TREATS,BARRIER,Patient access,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C4045969,TREATS,BARRIER,Physical Barriers,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C4289270,TREATS,BARRIER,Five to Seven Days,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C4697852,TREATS,BARRIER,Normal Activity,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1960093,C1998827,TREATS,Nonrebreather oxygen mask,Respiratory Status,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1968515,C0033774,TREATS,Pack (physical object),Pruritus,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1968515,C0150312,TREATS,Pack (physical object),Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1968515,C4699604,TREATS,Pack (physical object),<12 months,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1995447,C0750484,TREATS,"ORAL,SWAB",Confirmation,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C2363670,C0425946,TREATS,developers,Short menstrual periods,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2363670,C1318963,TREATS,developers,Readiness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2363670,C3714738,TREATS,developers,Compliance,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2363670,C3840880,TREATS,developers,Traffic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2363670,C4035864,TREATS,developers,Algorithmic,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2700619,C0456377,TREATS,Test Strip (device),Test interpretation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2700619,C0683525,TREATS,Test Strip (device),treatment options,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2717999,C4075948,TREATS,Insecticide-Treated Bednets,Sleeps during day,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2720748,C0683521,TREATS,Hoods,Patient Physiological Condition,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2720748,C1545588,TREATS,Hoods,Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2720748,C3272283,TREATS,Hoods,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C2720748,C3841939,TREATS,Hoods,Patient access,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2826325,C0240341,TREATS,Fiducial Markers,Micrographia,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2985513,C0439663,TREATS,Peripheral Venous Catheter,Infected,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C2985542,C0392209,TREATS,Percutaneous endoscopic tube,Nutritional status,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3495449,C0086565,TREATS,Mobility aid,Liver Dysfunction,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3495449,C0150312,TREATS,Mobility aid,Present,medd,fndg,11,TREATS_MEDDtrtsFNDG
+C3495449,C0231162,TREATS,Mobility aid,Normal general body function,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3495449,C0439663,TREATS,Mobility aid,Infected,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3495449,C0552597,TREATS,Mobility aid,Receiving facility,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3495449,C0552635,TREATS,Mobility aid,Transport mode,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3495449,C0562577,TREATS,Mobility aid,Mocking,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3495449,C0677946,TREATS,Mobility aid,Stable Disease,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3495449,C0728827,TREATS,Mobility aid,transfers,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3495449,C1550451,TREATS,Mobility aid,Nomadic,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C3495449,C1832073,TREATS,Mobility aid,Handling,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3495449,C3840872,TREATS,Mobility aid,Medical transport,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3495449,C4055062,TREATS,Mobility aid,Enhanced Pause,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3495449,C4699158,TREATS,Mobility aid,Increased risk,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3694424,C1545588,TREATS,Indwelling Device,Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3874006,C0231224,TREATS,Tack,Crisis,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3875892,C0150312,TREATS,Anemometer,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C3879777,C0150312,TREATS,Phase-contrast light microscope,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C4699394,C4740618,TREATS,Pneumatic,5-6 days,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C4725717,C1832072,TREATS,Robotic Uterine Manipulator,Accommodation,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C4744970,C0859038,TREATS,Microneedle Drug Delivery System,Rough skin,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C5203172,C0205160,TREATS,FACE SHIELD,Negative,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C5203172,C1545588,TREATS,FACE SHIELD,Protection,medd,fndg,5,TREATS_MEDDtrtsFNDG
+C5203172,C3272281,TREATS,FACE SHIELD,American College of Cardiology/American Heart Association Lesion Complexity Score A,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C5203172,C3841253,TREATS,FACE SHIELD,Reusable,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C5204982,C3843841,TREATS,Brass Mesh Bolus,Allergen 1,medd,fndg,1,TREATS_MEDDtrtsFNDG

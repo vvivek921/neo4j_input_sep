@@ -1,0 +1,50 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001041,C0242488,PREVENTS,acetylcholine,Acute Lung Injury,bacs,inpo,2,PREVENTS_BACSprevINPO
+C0001443,C0242488,PREVENTS,adenosine,Acute Lung Injury,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0006675,C0016658,PREVENTS,calcium,Fracture,bacs,inpo,2,PREVENTS_BACSprevINPO
+C0007412,C0876994,PREVENTS,Catecholamines,Cardiotoxicity,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0007745,C0010957,PREVENTS,ceramides,Tissue damage,bacs,inpo,2,PREVENTS_BACSprevINPO
+C0010868,C0274281,PREVENTS,Cytotoxin,Injury due to exposure to external cause,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0012854,C0600688,PREVENTS,DNA,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0013982,C0600688,PREVENTS,Emodin,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0017725,C0270611,PREVENTS,glucose,Brain Injuries,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0018966,C0600688,PREVENTS,Heme,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0019134,C0273115,PREVENTS,heparin,Lung Injury,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0019134,C0600688,PREVENTS,heparin,Toxic effect,bacs,inpo,2,PREVENTS_BACSprevINPO
+C0024467,C0876994,PREVENTS,magnesium,Cardiotoxicity,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0025196,C0600688,PREVENTS,Melanins,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0028158,C0600688,PREVENTS,nitrogen,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0028606,C0600688,PREVENTS,Nucleic Acids,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0030054,C0238327,PREVENTS,oxygen,Oxygen toxicity,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0030054,C0273115,PREVENTS,oxygen,Lung Injury,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0030054,C0600688,PREVENTS,oxygen,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0030054,C1302752,PREVENTS,oxygen,Abrasion,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0031676,C0242488,PREVENTS,phospholipids,Acute Lung Injury,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0032081,C0595916,PREVENTS,Plant Extracts,Toxic nephropathy,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0032136,C0596763,PREVENTS,Plasmids,Immunotoxicity,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0032821,C0876994,PREVENTS,potassium,Cardiotoxicity,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0034085,C0273115,PREVENTS,Pulmonary Surfactants,Lung Injury,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0034085,C2350350,PREVENTS,Pulmonary Surfactants,Ventilator-Induced Lung Injury,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0036581,C0600688,PREVENTS,selenium,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0040549,C0010957,PREVENTS,Toxin,Tissue damage,bacs,inpo,2,PREVENTS_BACSprevINPO
+C0043481,C0274986,PREVENTS,zinc,Zinc poisoning,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0062496,C0600688,PREVENTS,hemozoin,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0079925,C0600688,PREVENTS,Antisense Oligonucleotides,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0302583,C0600688,PREVENTS,iron,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0577749,C0600688,PREVENTS,Phytochemicals,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C0599745,C0010957,PREVENTS,lipid mediator,Tissue damage,bacs,inpo,1,PREVENTS_BACSprevINPO
+C1099354,C0035126,PREVENTS,"RNA, Small Interfering",Reperfusion Injury,bacs,inpo,2,PREVENTS_BACSprevINPO
+C1099354,C0600688,PREVENTS,"RNA, Small Interfering",Toxic effect,bacs,inpo,3,PREVENTS_BACSprevINPO
+C1099354,C4552279,PREVENTS,"RNA, Small Interfering",Tissue injury,bacs,inpo,1,PREVENTS_BACSprevINPO
+C1101610,C0600688,PREVENTS,MicroRNAs,Toxic effect,bacs,inpo,2,PREVENTS_BACSprevINPO
+C1136170,C4552279,PREVENTS,Virulence Factors,Tissue injury,bacs,inpo,1,PREVENTS_BACSprevINPO
+C1282240,C0600688,PREVENTS,Aquatic toxin,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C1450008,C4520766,PREVENTS,"Pheromones, Human",Bite of mosquito,bacs,inpo,1,PREVENTS_BACSprevINPO
+C1764827,C0600688,PREVENTS,Isolate - microorganism,Toxic effect,bacs,inpo,1,PREVENTS_BACSprevINPO
+C1999216,C0160420,PREVENTS,Inhibitor,Injury of kidney,bacs,inpo,1,PREVENTS_BACSprevINPO
+C1999216,C0242488,PREVENTS,Inhibitor,Acute Lung Injury,bacs,inpo,1,PREVENTS_BACSprevINPO
+C1999216,C0273115,PREVENTS,Inhibitor,Lung Injury,bacs,inpo,2,PREVENTS_BACSprevINPO
+C1999216,C0600688,PREVENTS,Inhibitor,Toxic effect,bacs,inpo,3,PREVENTS_BACSprevINPO
+C1999216,C2905612,PREVENTS,Inhibitor,Storm NOS,bacs,inpo,2,PREVENTS_BACSprevINPO
+C1999216,C2945681,PREVENTS,Inhibitor,ischemic brain injury,bacs,inpo,1,PREVENTS_BACSprevINPO
+C2987634,C0273115,PREVENTS,Agonist,Lung Injury,bacs,inpo,1,PREVENTS_BACSprevINPO

@@ -1,0 +1,131 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001347,C0010957,AUGMENTS,Acute-Phase Proteins,Tissue damage,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0003009,C0242488,AUGMENTS,angiotensin II,Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0003009,C0273115,AUGMENTS,angiotensin II,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0003241,C0010957,AUGMENTS,Antibodies,Tissue damage,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0003241,C0600688,AUGMENTS,Antibodies,Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0003241,C2905612,AUGMENTS,Antibodies,Storm NOS,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0003241,C4552279,AUGMENTS,Antibodies,Tissue injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0003313,C4552279,AUGMENTS,Immune complex,Tissue injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0003765,C0273115,AUGMENTS,arginine,Lung Injury,aapp,inpo,2,AUGMENTS_AAPPaugmINPO
+C0004358,C0080194,AUGMENTS,Autoantibodies,Muscle strain,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0007578,C0010957,AUGMENTS,Cell Adhesion Molecules,Tissue damage,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0007578,C4552279,AUGMENTS,Cell Adhesion Molecules,Tissue injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0009325,C0273115,AUGMENTS,collagen,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0009332,C0560617,AUGMENTS,Collagen Type III,knocked out,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0009498,C0010957,AUGMENTS,Complement System Proteins,Tissue damage,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0009498,C2905612,AUGMENTS,Complement System Proteins,Storm NOS,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0010592,C0600688,AUGMENTS,cyclosporine,Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0017817,C0273115,AUGMENTS,glutathione,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0017817,C0600688,AUGMENTS,glutathione,Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0017968,C0012691,AUGMENTS,Glycoproteins,Dislocations,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0018284,C0010957,AUGMENTS,Growth Factor,Tissue damage,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0019652,C0039980,AUGMENTS,Histones,Thoracic Injuries,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0021641,C2905612,AUGMENTS,Insulin,Storm NOS,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0021701,C0273115,AUGMENTS,Integrins,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0021740,C2905612,AUGMENTS,Recombinant Interferon-gamma,Storm NOS,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0021755,C0273115,AUGMENTS,Interleukin-1,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0021755,C2905612,AUGMENTS,Interleukin-1,Storm NOS,aapp,inpo,2,AUGMENTS_AAPPaugmINPO
+C0021760,C0026771,AUGMENTS,interleukin-6,Multiple Trauma,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0021760,C0273115,AUGMENTS,interleukin-6,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0021760,C2905612,AUGMENTS,interleukin-6,Storm NOS,aapp,inpo,6,AUGMENTS_AAPPaugmINPO
+C0027021,C0600688,AUGMENTS,peroxidase,Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0030940,C0010957,AUGMENTS,Peptide Hydrolases,Tissue damage,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0039938,C0273115,AUGMENTS,Thioredoxins,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0040690,C0560617,AUGMENTS,Transforming Growth Factor beta,knocked out,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0041368,C2905612,AUGMENTS,Tumor Necrosis Factors,Storm NOS,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0042147,C0242488,AUGMENTS,Uteroglobin,Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0052193,C0005604,AUGMENTS,apolipoprotein D,Birth Injuries,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0052193,C0161479,AUGMENTS,apolipoprotein D,Nerve injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0052193,C1264238,AUGMENTS,apolipoprotein D,Injury of central nervous system,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0068355,C0560617,AUGMENTS,NADPH Oxidase,knocked out,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0078056,C0560617,AUGMENTS,Vascular Cell Adhesion Molecule-1,knocked out,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0079189,C0010957,AUGMENTS,cytokine,Tissue damage,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0079189,C0242488,AUGMENTS,cytokine,Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0079189,C0273115,AUGMENTS,cytokine,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0079189,C0549421,AUGMENTS,cytokine,Cartilage damage,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0079189,C0751792,AUGMENTS,cytokine,"Trauma, Nervous System",aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0079189,C1264238,AUGMENTS,cytokine,Injury of central nervous system,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0079189,C2905612,AUGMENTS,cytokine,Storm NOS,aapp,inpo,3,AUGMENTS_AAPPaugmINPO
+C0079459,C0600688,AUGMENTS,Granulocyte Colony-Stimulating Factor,Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0079459,C2905612,AUGMENTS,Granulocyte Colony-Stimulating Factor,Storm NOS,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0079904,C0178324,AUGMENTS,NF-kappa B,Vascular System Injuries,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0080095,C0242488,AUGMENTS,"Receptors, Colony-Stimulating Factor",Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0085295,C2905612,AUGMENTS,interleukin-10,Storm NOS,aapp,inpo,2,AUGMENTS_AAPPaugmINPO
+C0108082,C0242488,AUGMENTS,Vitamin D3 Receptor,Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0118522,C0273115,AUGMENTS,GA-Binding Protein Transcription Factor,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0172537,C3203359,AUGMENTS,Matrix Metalloproteinase 2,Rupture,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0206492,C2905612,AUGMENTS,"Antibodies, Bispecific",Storm NOS,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0215955,C0160420,AUGMENTS,"LCN2 protein, human",Injury of kidney,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0221141,C4552279,AUGMENTS,Blood group antibody S,Tissue injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0242210,C3203359,AUGMENTS,Binding Proteins,Rupture,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0282554,C0010957,AUGMENTS,chemokine,Tissue damage,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0282554,C0751792,AUGMENTS,chemokine,"Trauma, Nervous System",aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0282554,C2905612,AUGMENTS,chemokine,Storm NOS,aapp,inpo,5,AUGMENTS_AAPPaugmINPO
+C0282554,C4552279,AUGMENTS,chemokine,Tissue injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0282566,C4552279,AUGMENTS,Monocyte Chemoattractant Proteins,Tissue injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0393022,C0600688,AUGMENTS,rituximab,Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0524914,C0270611,AUGMENTS,chemokine receptor,Brain Injuries,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0597094,C0600688,AUGMENTS,nuclease,Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0597357,C0273115,AUGMENTS,receptor,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0670896,C0006434,AUGMENTS,Toll-like receptors,Burn injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0670896,C0043251,AUGMENTS,Toll-like receptors,Wounds and Injuries,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0700271,C0273115,AUGMENTS,"M Protein, multiple myeloma",Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0812445,C0273115,AUGMENTS,CXCL1 gene,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C0909826,C2350350,AUGMENTS,claudin 4,Ventilator-Induced Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1180347,C2905612,AUGMENTS,Protein complex,Storm NOS,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1332822,C0010957,AUGMENTS,CXCR3 gene,Tissue damage,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1336636,C0242488,AUGMENTS,TLR4 gene,Acute Lung Injury,aapp,inpo,2,AUGMENTS_AAPPaugmINPO
+C1337092,C0160420,AUGMENTS,CCL2 gene,Injury of kidney,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1367307,C0242488,AUGMENTS,STAT3 gene,Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1412182,C0043250,AUGMENTS,ADAM12 gene,Injury wounds,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1412812,C0600688,AUGMENTS,BNIP3 gene,Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1413961,C0035126,AUGMENTS,DDX21 gene,Reperfusion Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1414370,C0242488,AUGMENTS,SERPINB1 gene,Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1414609,C0080194,AUGMENTS,FGL2 gene,Muscle strain,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1414609,C4552279,AUGMENTS,FGL2 gene,Tissue injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1414945,C0600688,AUGMENTS,GAL gene,Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1415181,C0410256,AUGMENTS,GOT1 gene,muscle injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1416652,C0600688,AUGMENTS,KIR3DL1 gene,Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1417126,C1301659,AUGMENTS,MFAP1 gene,Airway trauma,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1417530,C0242488,AUGMENTS,MYD88 gene,Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1417530,C0751792,AUGMENTS,MYD88 gene,"Trauma, Nervous System",aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1418253,C0242488,AUGMENTS,SERPINB2 gene,Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1422064,C0160420,AUGMENTS,ACE2 gene,Injury of kidney,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1422064,C0273115,AUGMENTS,ACE2 gene,Lung Injury,aapp,inpo,7,AUGMENTS_AAPPaugmINPO
+C1422064,C0560617,AUGMENTS,ACE2 gene,knocked out,aapp,inpo,2,AUGMENTS_AAPPaugmINPO
+C1422064,C0600688,AUGMENTS,ACE2 gene,Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1423633,C0751792,AUGMENTS,TLR9 gene,"Trauma, Nervous System",aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1423842,C0160390,AUGMENTS,NELFCD gene,Injury of liver,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1424250,C2905612,AUGMENTS,NLRP3 gene,Storm NOS,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1425583,C0600688,AUGMENTS,NUSAP1 gene,Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1428889,C2905612,AUGMENTS,MTUS1 gene,Storm NOS,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1448177,C0242488,AUGMENTS,"TNF protein, human",Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1448177,C0560617,AUGMENTS,"TNF protein, human",knocked out,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1449159,C0270611,AUGMENTS,"CCL2 protein, human",Brain Injuries,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1449159,C0560617,AUGMENTS,"CCL2 protein, human",knocked out,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1452025,C0010957,AUGMENTS,MLN 4760,Tissue damage,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1454489,C0600688,AUGMENTS,"MAPT protein, human",Toxic effect,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1522002,C0242488,AUGMENTS,RNA Recognition Motif,Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1539835,C0151821,AUGMENTS,SPEN gene,ACCIDENTAL OVERDOSE,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1564907,C0010957,AUGMENTS,"Receptors, Pattern Recognition",Tissue damage,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1609165,C2905612,AUGMENTS,tocilizumab,Storm NOS,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1700887,C0340652,AUGMENTS,"IL2RA protein, human",Arterial Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1705791,C0273115,AUGMENTS,MAPK1 wt Allele,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1709820,C0010957,AUGMENTS,ROS1 wt Allele,Tissue damage,aapp,inpo,2,AUGMENTS_AAPPaugmINPO
+C1709820,C4552279,AUGMENTS,ROS1 wt Allele,Tissue injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1742862,C0012691,AUGMENTS,"CISH protein, human",Dislocations,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1823491,C0242488,AUGMENTS,TRIM69 gene,Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1825598,C0004063,AUGMENTS,IMPACT gene,Assault,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1825598,C0043251,AUGMENTS,IMPACT gene,Wounds and Injuries,aapp,inpo,4,AUGMENTS_AAPPaugmINPO
+C1825598,C0080194,AUGMENTS,IMPACT gene,Muscle strain,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C1969043,C0273115,AUGMENTS,SGMS2 gene,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C3470566,C0242488,AUGMENTS,LINC-ROR gene,Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C3811063,C0273115,AUGMENTS,SLC27A4 wt Allele,Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C3826205,C4552279,AUGMENTS,HLA histocompatibility antigens,Tissue injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C3890018,C0160420,AUGMENTS,HSP90B2P wt Allele,Injury of kidney,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C4048280,C0340652,AUGMENTS,"T-Cell Surface Glycoprotein CD4, human",Arterial Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C4281807,C0273115,AUGMENTS,"Vitronectin, human",Lung Injury,aapp,inpo,2,AUGMENTS_AAPPaugmINPO
+C4316927,C0006434,AUGMENTS,"Endothelin-1, human",Burn injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C4316927,C0242488,AUGMENTS,"Endothelin-1, human",Acute Lung Injury,aapp,inpo,1,AUGMENTS_AAPPaugmINPO
+C4317106,C2905612,AUGMENTS,"Zinc Finger FYVE Domain-Containing Protein 9, human",Storm NOS,aapp,inpo,1,AUGMENTS_AAPPaugmINPO

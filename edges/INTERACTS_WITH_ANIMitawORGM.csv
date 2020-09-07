@@ -1,0 +1,25 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003063,C0445623,INTERACTS_WITH,"Animals, Domestic",Microorganism,anim,orgm,2,INTERACTS_WITH_ANIMitawORGM
+C0003063,C0450254,INTERACTS_WITH,"Animals, Domestic",Pathogenic organism,anim,orgm,3,INTERACTS_WITH_ANIMitawORGM
+C0003063,C2985398,INTERACTS_WITH,"Animals, Domestic",Intestinal Microbiome,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C0003064,C2985398,INTERACTS_WITH,"Animals, Laboratory",Intestinal Microbiome,anim,orgm,2,INTERACTS_WITH_ANIMitawORGM
+C0003070,C0314732,INTERACTS_WITH,"Animals, Wild",Infectious agent,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C0003070,C0450254,INTERACTS_WITH,"Animals, Wild",Pathogenic organism,anim,orgm,5,INTERACTS_WITH_ANIMitawORGM
+C0003070,C1167395,INTERACTS_WITH,"Animals, Wild",Host (organism),anim,orgm,2,INTERACTS_WITH_ANIMitawORGM
+C0003070,C4086523,INTERACTS_WITH,"Animals, Wild",Intermediate Host,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C0012656,C0314732,INTERACTS_WITH,Disease Vectors,Infectious agent,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C0012656,C0450254,INTERACTS_WITH,Disease Vectors,Pathogenic organism,anim,orgm,8,INTERACTS_WITH_ANIMitawORGM
+C0012656,C1167395,INTERACTS_WITH,Disease Vectors,Host (organism),anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C0031268,C0445623,INTERACTS_WITH,Pet Animal,Microorganism,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C0162318,C1956108,INTERACTS_WITH,Farm Animals,Microbiome,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C0598744,C0450254,INTERACTS_WITH,juvenile animal,Pathogenic organism,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C0599779,C0445623,INTERACTS_WITH,Animal Model,Microorganism,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C0599779,C0450254,INTERACTS_WITH,Animal Model,Pathogenic organism,anim,orgm,2,INTERACTS_WITH_ANIMitawORGM
+C0599779,C1512692,INTERACTS_WITH,Animal Model,Inbred Strain,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C0599779,C2985398,INTERACTS_WITH,Animal Model,Intestinal Microbiome,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C0683949,C0445623,INTERACTS_WITH,Animal Study,Microorganism,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C0869004,C0020205,INTERACTS_WITH,pests,Hybrids,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C2936506,C0445623,INTERACTS_WITH,Livestock,Microorganism,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C2936506,C0450254,INTERACTS_WITH,Livestock,Pathogenic organism,anim,orgm,3,INTERACTS_WITH_ANIMitawORGM
+C2936506,C1628327,INTERACTS_WITH,Livestock,Zoonotic pathogen,anim,orgm,1,INTERACTS_WITH_ANIMitawORGM
+C3687489,C3887843,INTERACTS_WITH,Animal for breeding,Microbiota (environment),anim,orgm,1,INTERACTS_WITH_ANIMitawORGM

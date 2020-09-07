@@ -1,0 +1,114 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0007582,AFFECTS,Immunologic Adjuvants,Cell Communication,imft,celf,1,AFFECTS_IMFTafctCELF
+C0001551,C0007613,AFFECTS,Immunologic Adjuvants,Cell physiology,imft,celf,2,AFFECTS_IMFTafctCELF
+C0001551,C0031308,AFFECTS,Immunologic Adjuvants,Phagocytosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C0001551,C0037083,AFFECTS,Immunologic Adjuvants,Signal Transduction,imft,celf,1,AFFECTS_IMFTafctCELF
+C0001551,C0206430,AFFECTS,Immunologic Adjuvants,Antigen Processing,imft,celf,1,AFFECTS_IMFTafctCELF
+C0001551,C0596290,AFFECTS,Immunologic Adjuvants,Cell Proliferation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0001551,C1155065,AFFECTS,Immunologic Adjuvants,T-Cell Activation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0001551,C1155080,AFFECTS,Immunologic Adjuvants,T-helper 1 type immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0001551,C1155229,AFFECTS,Immunologic Adjuvants,Humoral immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0001551,C1318468,AFFECTS,Immunologic Adjuvants,cell mediated immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0001551,C1817908,AFFECTS,Immunologic Adjuvants,Cellular Immune Response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0002092,C0004391,AFFECTS,Allergens,Autophagy,imft,celf,1,AFFECTS_IMFTafctCELF
+C0002092,C0037083,AFFECTS,Allergens,Signal Transduction,imft,celf,1,AFFECTS_IMFTafctCELF
+C0002092,C1326501,AFFECTS,Allergens,eosinophil chemotaxis,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003251,C0031308,AFFECTS,"Antibodies, Neoplasm",Phagocytosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003316,C0003272,AFFECTS,Epitopes,Antibody-Dependent Cellular Cytotoxicity,imft,celf,3,AFFECTS_IMFTafctCELF
+C0003316,C0007577,AFFECTS,Epitopes,Cell Adhesion,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003316,C0007582,AFFECTS,Epitopes,Cell Communication,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003316,C0010813,AFFECTS,Epitopes,Cytokinesis,imft,celf,3,AFFECTS_IMFTafctCELF
+C0003316,C0037083,AFFECTS,Epitopes,Signal Transduction,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003316,C1160649,AFFECTS,Epitopes,virion attachment to host cell,imft,celf,2,AFFECTS_IMFTafctCELF
+C0003316,C1318468,AFFECTS,Epitopes,cell mediated immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003316,C1327616,AFFECTS,Epitopes,Cell secretion,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003316,C1516375,AFFECTS,Epitopes,Cellular Tropism,imft,celf,2,AFFECTS_IMFTafctCELF
+C0003320,C0003272,AFFECTS,Antigens,Antibody-Dependent Cellular Cytotoxicity,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C0004391,AFFECTS,Antigens,Autophagy,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C0007582,AFFECTS,Antigens,Cell Communication,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C0007587,AFFECTS,Antigens,Cell Death,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C0007590,AFFECTS,Antigens,Cell division,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C0007620,AFFECTS,Antigens,Cell Survival,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C0010813,AFFECTS,Antigens,Cytokinesis,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C0031308,AFFECTS,Antigens,Phagocytosis,imft,celf,2,AFFECTS_IMFTafctCELF
+C0003320,C0037083,AFFECTS,Antigens,Signal Transduction,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C0162638,AFFECTS,Antigens,Apoptosis,imft,celf,4,AFFECTS_IMFTafctCELF
+C0003320,C0206120,AFFECTS,Antigens,Clonal Anergy,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C0206430,AFFECTS,Antigens,Antigen Processing,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C0206431,AFFECTS,Antigens,Antigen Presentation,imft,celf,2,AFFECTS_IMFTafctCELF
+C0003320,C0334220,AFFECTS,Antigens,Remyelination,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C0596873,AFFECTS,Antigens,lymphocyte proliferation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C1155003,AFFECTS,Antigens,B-Cell Activation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C1155065,AFFECTS,Antigens,T-Cell Activation,imft,celf,5,AFFECTS_IMFTafctCELF
+C0003320,C1155229,AFFECTS,Antigens,Humoral immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C1159918,AFFECTS,Antigens,T cell selection,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C1318468,AFFECTS,Antigens,cell mediated immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C1326230,AFFECTS,Antigens,T cell homeostasis,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C1326500,AFFECTS,Antigens,Leukocyte Trafficking,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C1511002,AFFECTS,Antigens,B-Cell Differentiation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C1622891,AFFECTS,Antigens,Mast cell degranulation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C1817908,AFFECTS,Antigens,Cellular Immune Response,imft,celf,2,AFFECTS_IMFTafctCELF
+C0003320,C2246476,AFFECTS,Antigens,immature T cell proliferation in thymus,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003320,C3269241,AFFECTS,Antigens,hepatocyte apoptotic process,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003321,C1819041,AFFECTS,"Antigens, Bacterial",protein kinase activation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003333,C1155065,AFFECTS,"Antigens, Heterophile",T-Cell Activation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003333,C1318468,AFFECTS,"Antigens, Heterophile",cell mediated immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003335,C0042774,AFFECTS,"Antigens, Neoplasm",Virus Replication,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003335,C3546359,AFFECTS,"Antigens, Neoplasm",pro-apoptosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003339,C0042774,AFFECTS,Surface Antigens,Virus Replication,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003339,C3269241,AFFECTS,Surface Antigens,hepatocyte apoptotic process,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003342,C0162638,AFFECTS,"Antigens, Viral",Apoptosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003342,C1155065,AFFECTS,"Antigens, Viral",T-Cell Activation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0003342,C1155229,AFFECTS,"Antigens, Viral",Humoral immune response,imft,celf,2,AFFECTS_IMFTafctCELF
+C0003445,C0007587,AFFECTS,Antitoxins,Cell Death,imft,celf,1,AFFECTS_IMFTafctCELF
+C0004359,C0007586,AFFECTS,Autoantigens,Cell Cycle,imft,celf,1,AFFECTS_IMFTafctCELF
+C0004359,C0007613,AFFECTS,Autoantigens,Cell physiology,imft,celf,1,AFFECTS_IMFTafctCELF
+C0004359,C1159918,AFFECTS,Autoantigens,T cell selection,imft,celf,1,AFFECTS_IMFTafctCELF
+C0005457,C3158824,AFFECTS,"Binding Sites, Antibody",signal maturation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0005525,C0007613,AFFECTS,Biological Response Modifiers,Cell physiology,imft,celf,1,AFFECTS_IMFTafctCELF
+C0008015,C1326500,AFFECTS,Macrophage Chemotactic Factors,Leukocyte Trafficking,imft,celf,1,AFFECTS_IMFTafctCELF
+C0018911,C1656555,AFFECTS,"Hemagglutinins, Viral",viral entry into host cell,imft,celf,1,AFFECTS_IMFTafctCELF
+C0019168,C0007613,AFFECTS,Hepatitis B Surface Antigens,Cell physiology,imft,celf,1,AFFECTS_IMFTafctCELF
+C0019168,C0599894,AFFECTS,Hepatitis B Surface Antigens,cellular targeting,imft,celf,1,AFFECTS_IMFTafctCELF
+C0021054,C1516375,AFFECTS,Immunologic Factors,Cellular Tropism,imft,celf,1,AFFECTS_IMFTafctCELF
+C0021081,C1817908,AFFECTS,Immunosuppressive Agents,Cellular Immune Response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0023158,C0003272,AFFECTS,Lymphocyte antigen,Antibody-Dependent Cellular Cytotoxicity,imft,celf,1,AFFECTS_IMFTafctCELF
+C0042211,C1155229,AFFECTS,"Vaccines, Attenuated",Humoral immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0042771,C0007587,AFFECTS,Virus inhibitors,Cell Death,imft,celf,1,AFFECTS_IMFTafctCELF
+C0051967,C2610891,AFFECTS,anti-c antibody,T cell apoptotic process,imft,celf,1,AFFECTS_IMFTafctCELF
+C0057317,C0010813,AFFECTS,Hepatitis delta Antigens,Cytokinesis,imft,celf,1,AFFECTS_IMFTafctCELF
+C0057317,C0042774,AFFECTS,Hepatitis delta Antigens,Virus Replication,imft,celf,1,AFFECTS_IMFTafctCELF
+C0282580,C1155065,AFFECTS,"Epitopes, T-Lymphocyte",T-Cell Activation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0282580,C1660003,AFFECTS,"Epitopes, T-Lymphocyte",protein maturation,imft,celf,2,AFFECTS_IMFTafctCELF
+C0368675,C1155008,AFFECTS,antibody antigen,B Cell Proliferation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0376613,C1155229,AFFECTS,"Vaccines, DNA",Humoral immune response,imft,celf,1,AFFECTS_IMFTafctCELF
+C0450099,C0003272,AFFECTS,Influenza virus antigen,Antibody-Dependent Cellular Cytotoxicity,imft,celf,1,AFFECTS_IMFTafctCELF
+C0450099,C0031308,AFFECTS,Influenza virus antigen,Phagocytosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C0450099,C1516743,AFFECTS,Influenza virus antigen,Complement-Dependent Cytotoxicity,imft,celf,1,AFFECTS_IMFTafctCELF
+C0456981,C0037083,AFFECTS,Specific antigen,Signal Transduction,imft,celf,1,AFFECTS_IMFTafctCELF
+C0456981,C1511002,AFFECTS,Specific antigen,B-Cell Differentiation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0521390,C0334220,AFFECTS,neuronal,Remyelination,imft,celf,1,AFFECTS_IMFTafctCELF
+C0521390,C1326169,AFFECTS,neuronal,microglial cell activation,imft,celf,1,AFFECTS_IMFTafctCELF
+C0521390,C1720744,AFFECTS,neuronal,Nerve Impulses,imft,celf,2,AFFECTS_IMFTafctCELF
+C0599796,C0027756,AFFECTS,mhc antigen,Nerve Regeneration,imft,celf,1,AFFECTS_IMFTafctCELF
+C0887892,C0031308,AFFECTS,"Vaccines, Subunit",Phagocytosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C0916226,C1660642,AFFECTS,lymphocryptovirus nuclear antigen 3C,cellular localization,imft,celf,1,AFFECTS_IMFTafctCELF
+C1291802,C0031308,AFFECTS,Human immunodeficiency virus 1 glycoprotein 120 antigen,Phagocytosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C1291802,C0597361,AFFECTS,Human immunodeficiency virus 1 glycoprotein 120 antigen,Receptor Mediated Endocytosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C1440044,C1156032,AFFECTS,"A,B",Microtubule Polymerization Process,imft,celf,1,AFFECTS_IMFTafctCELF
+C1440514,C0007586,AFFECTS,Coxsackievirus B3,Cell Cycle,imft,celf,1,AFFECTS_IMFTafctCELF
+C1440514,C0042774,AFFECTS,Coxsackievirus B3,Virus Replication,imft,celf,2,AFFECTS_IMFTafctCELF
+C1440710,C1156309,AFFECTS,HIV 1 gp41,syncytium formation by plasma membrane fusion,imft,celf,1,AFFECTS_IMFTafctCELF
+C1699926,C1155046,AFFECTS,fingolimod,T-Cell Proliferation,imft,celf,1,AFFECTS_IMFTafctCELF
+C1883036,C0007595,AFFECTS,Single-Chain Antibodies,Cell Growth,imft,celf,1,AFFECTS_IMFTafctCELF
+C1883036,C1156309,AFFECTS,Single-Chain Antibodies,syncytium formation by plasma membrane fusion,imft,celf,1,AFFECTS_IMFTafctCELF
+C2352839,C1154393,AFFECTS,sialyl Lewis X antigen,leukocyte cell-cell adhesion,imft,celf,1,AFFECTS_IMFTafctCELF
+C2825347,C0003272,AFFECTS,"immunoglobulin A, human",Antibody-Dependent Cellular Cytotoxicity,imft,celf,1,AFFECTS_IMFTafctCELF
+C2825347,C0031308,AFFECTS,"immunoglobulin A, human",Phagocytosis,imft,celf,13,AFFECTS_IMFTafctCELF
+C2825347,C0597601,AFFECTS,"immunoglobulin A, human",Transcytosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C2825347,C1159762,AFFECTS,"immunoglobulin A, human",opsonization,imft,celf,1,AFFECTS_IMFTafctCELF
+C2825347,C1326120,AFFECTS,"immunoglobulin A, human",cell activation,imft,celf,1,AFFECTS_IMFTafctCELF
+C2825347,C1622844,AFFECTS,"immunoglobulin A, human",eosinophil degranulation,imft,celf,1,AFFECTS_IMFTafctCELF
+C2825347,C2936268,AFFECTS,"immunoglobulin A, human",Cytophagocytosis,imft,celf,1,AFFECTS_IMFTafctCELF
+C4734224,C0042774,AFFECTS,baloxavir,Virus Replication,imft,celf,1,AFFECTS_IMFTafctCELF
+C4740192,C0042774,AFFECTS,A variant NOS,Virus Replication,imft,celf,1,AFFECTS_IMFTafctCELF

@@ -1,0 +1,93 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010366,C0085732,AFFECTS,"Crossing Over, Genetic",Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C0017256,C0085732,AFFECTS,Gene Amplification,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C0017260,C0220898,AFFECTS,Gene Deletion,Predisposition -- attribute,genf,orga,1,AFFECTS_GENFafctORGA
+C0017260,C1136169,AFFECTS,Gene Deletion,Pathogenicity,genf,orga,1,AFFECTS_GENFafctORGA
+C0017260,C4086242,AFFECTS,Gene Deletion,Disease Phenotype,genf,orga,1,AFFECTS_GENFafctORGA
+C0017262,C0020969,AFFECTS,Gene Expression,"Immunity, Innate",genf,orga,4,AFFECTS_GENFafctORGA
+C0017263,C0085732,AFFECTS,Gene Expression Regulation,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C0017393,C0085732,AFFECTS,Genetic Markers,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C0020202,C0597140,AFFECTS,Crossbreeding,oral tolerance,genf,orga,1,AFFECTS_GENFafctORGA
+C0026882,C0020969,AFFECTS,Mutation,"Immunity, Innate",genf,orga,2,AFFECTS_GENFafctORGA
+C0026882,C0085732,AFFECTS,Mutation,Ability,genf,orga,50,AFFECTS_GENFafctORGA
+C0026882,C0220898,AFFECTS,Mutation,Predisposition -- attribute,genf,orga,8,AFFECTS_GENFafctORGA
+C0026882,C0597653,AFFECTS,Mutation,virus infection mechanism,genf,orga,1,AFFECTS_GENFafctORGA
+C0026882,C0599954,AFFECTS,Mutation,virus tropism,genf,orga,2,AFFECTS_GENFafctORGA
+C0026882,C0949670,AFFECTS,Mutation,"Drug Resistance, Viral",genf,orga,2,AFFECTS_GENFafctORGA
+C0026882,C1136169,AFFECTS,Mutation,Pathogenicity,genf,orga,21,AFFECTS_GENFafctORGA
+C0026882,C4086242,AFFECTS,Mutation,Disease Phenotype,genf,orga,2,AFFECTS_GENFafctORGA
+C0032529,C0020969,AFFECTS,Genetic Polymorphism,"Immunity, Innate",genf,orga,5,AFFECTS_GENFafctORGA
+C0032529,C0036866,AFFECTS,Genetic Polymorphism,Sex Characteristics,genf,orga,1,AFFECTS_GENFafctORGA
+C0032529,C0085732,AFFECTS,Genetic Polymorphism,Ability,genf,orga,3,AFFECTS_GENFafctORGA
+C0032529,C0220898,AFFECTS,Genetic Polymorphism,Predisposition -- attribute,genf,orga,39,AFFECTS_GENFafctORGA
+C0032529,C1136169,AFFECTS,Genetic Polymorphism,Pathogenicity,genf,orga,1,AFFECTS_GENFafctORGA
+C0034865,C0085732,AFFECTS,"Recombination, Genetic",Ability,genf,orga,2,AFFECTS_GENFafctORGA
+C0034865,C0242960,AFFECTS,"Recombination, Genetic",Genetic Heterogeneity,genf,orga,1,AFFECTS_GENFafctORGA
+C0034865,C1136169,AFFECTS,"Recombination, Genetic",Pathogenicity,genf,orga,9,AFFECTS_GENFafctORGA
+C0034865,C4698296,AFFECTS,"Recombination, Genetic",Genotype 1,genf,orga,1,AFFECTS_GENFafctORGA
+C0035380,C0085732,AFFECTS,Reverse Transcription,Ability,genf,orga,2,AFFECTS_GENFafctORGA
+C0040649,C0020969,AFFECTS,"Transcription, Genetic","Immunity, Innate",genf,orga,6,AFFECTS_GENFafctORGA
+C0040649,C0220898,AFFECTS,"Transcription, Genetic",Predisposition -- attribute,genf,orga,2,AFFECTS_GENFafctORGA
+C0040649,C0242640,AFFECTS,"Transcription, Genetic",Multi-Drug Resistance,genf,orga,1,AFFECTS_GENFafctORGA
+C0040649,C1136169,AFFECTS,"Transcription, Genetic",Pathogenicity,genf,orga,2,AFFECTS_GENFafctORGA
+C0162493,C0020969,AFFECTS,Transcriptional Activation,"Immunity, Innate",genf,orga,3,AFFECTS_GENFafctORGA
+C0162493,C0086287,AFFECTS,Transcriptional Activation,Females,genf,orga,1,AFFECTS_GENFafctORGA
+C0162493,C0086582,AFFECTS,Transcriptional Activation,Males,genf,orga,1,AFFECTS_GENFafctORGA
+C0314613,C0220898,AFFECTS,Linked gene,Predisposition -- attribute,genf,orga,1,AFFECTS_GENFafctORGA
+C0314613,C0314657,AFFECTS,Linked gene,Genetic Predisposition to Disease,genf,orga,1,AFFECTS_GENFafctORGA
+C0314627,C0020969,AFFECTS,Gene function,"Immunity, Innate",genf,orga,1,AFFECTS_GENFafctORGA
+C0441748,C0085732,AFFECTS,Autosomal recessive inheritance,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C0525038,C0085732,AFFECTS,Amino Acid Substitution,Ability,genf,orga,3,AFFECTS_GENFafctORGA
+C0525038,C0599954,AFFECTS,Amino Acid Substitution,virus tropism,genf,orga,1,AFFECTS_GENFafctORGA
+C0525038,C1136169,AFFECTS,Amino Acid Substitution,Pathogenicity,genf,orga,4,AFFECTS_GENFafctORGA
+C0596609,C0220898,AFFECTS,Gene-Environment Interaction,Predisposition -- attribute,genf,orga,2,AFFECTS_GENFafctORGA
+C0596610,C0220898,AFFECTS,gene interaction,Predisposition -- attribute,genf,orga,1,AFFECTS_GENFafctORGA
+C0596611,C0220898,AFFECTS,Gene Mutation,Predisposition -- attribute,genf,orga,1,AFFECTS_GENFafctORGA
+C0596611,C0949285,AFFECTS,Gene Mutation,"Antibiotic Resistance, Microbial",genf,orga,1,AFFECTS_GENFafctORGA
+C0598496,C0220898,AFFECTS,Gene Silencing,Predisposition -- attribute,genf,orga,1,AFFECTS_GENFafctORGA
+C0599155,C0085732,AFFECTS,Missense Mutation,Ability,genf,orga,2,AFFECTS_GENFafctORGA
+C0599773,C0085732,AFFECTS,Homologous Recombination,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C0599773,C1136169,AFFECTS,Homologous Recombination,Pathogenicity,genf,orga,1,AFFECTS_GENFafctORGA
+C0678939,C0085732,AFFECTS,spontaneous mutation,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C0678940,C0020969,AFFECTS,induced genetic mutation,"Immunity, Innate",genf,orga,1,AFFECTS_GENFafctORGA
+C0678945,C0005910,AFFECTS,polygene,Body Weight,genf,orga,1,AFFECTS_GENFafctORGA
+C0678951,C0020969,AFFECTS,gene polymorphism,"Immunity, Innate",genf,orga,1,AFFECTS_GENFafctORGA
+C0678951,C0220898,AFFECTS,gene polymorphism,Predisposition -- attribute,genf,orga,4,AFFECTS_GENFafctORGA
+C0678951,C0314657,AFFECTS,gene polymorphism,Genetic Predisposition to Disease,genf,orga,1,AFFECTS_GENFafctORGA
+C0917892,C0085732,AFFECTS,Genetic Drift,Ability,genf,orga,2,AFFECTS_GENFafctORGA
+C0917892,C0220898,AFFECTS,Genetic Drift,Predisposition -- attribute,genf,orga,1,AFFECTS_GENFafctORGA
+C0917892,C0678922,AFFECTS,Genetic Drift,genetic trait,genf,orga,1,AFFECTS_GENFafctORGA
+C0917892,C1136169,AFFECTS,Genetic Drift,Pathogenicity,genf,orga,1,AFFECTS_GENFafctORGA
+C1136031,C0020969,AFFECTS,RNA Interference,"Immunity, Innate",genf,orga,3,AFFECTS_GENFafctORGA
+C1136031,C0085732,AFFECTS,RNA Interference,Ability,genf,orga,2,AFFECTS_GENFafctORGA
+C1136031,C1136169,AFFECTS,RNA Interference,Pathogenicity,genf,orga,1,AFFECTS_GENFafctORGA
+C1136031,C4086242,AFFECTS,RNA Interference,Disease Phenotype,genf,orga,1,AFFECTS_GENFafctORGA
+C1148672,C1706211,AFFECTS,Nucleic Acid Binding,Charge (electrical),genf,orga,1,AFFECTS_GENFafctORGA
+C1148673,C0020969,AFFECTS,DNA Binding,"Immunity, Innate",genf,orga,1,AFFECTS_GENFafctORGA
+C1148806,C1136169,AFFECTS,nuclease activity,Pathogenicity,genf,orga,1,AFFECTS_GENFafctORGA
+C1148846,C0020969,AFFECTS,RNA Binding,"Immunity, Innate",genf,orga,2,AFFECTS_GENFafctORGA
+C1148846,C0085732,AFFECTS,RNA Binding,Ability,genf,orga,2,AFFECTS_GENFafctORGA
+C1148851,C0085732,AFFECTS,double-stranded RNA binding,Ability,genf,orga,2,AFFECTS_GENFafctORGA
+C1148853,C0020969,AFFECTS,mRNA binding,"Immunity, Innate",genf,orga,1,AFFECTS_GENFafctORGA
+C1152412,C0020969,AFFECTS,RNA-directed RNA polymerase activity,"Immunity, Innate",genf,orga,1,AFFECTS_GENFafctORGA
+C1152412,C0085732,AFFECTS,RNA-directed RNA polymerase activity,Ability,genf,orga,2,AFFECTS_GENFafctORGA
+C1157546,C0085732,AFFECTS,translational attenuation,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C1158013,C1136169,AFFECTS,Nonsense Mediated mRNA Decay,Pathogenicity,genf,orga,1,AFFECTS_GENFafctORGA
+C1158730,C0085732,AFFECTS,mRNA modification,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C1158744,C0020969,AFFECTS,RNA modification,"Immunity, Innate",genf,orga,2,AFFECTS_GENFafctORGA
+C1158770,C0020969,AFFECTS,Transcriptional Regulation,"Immunity, Innate",genf,orga,1,AFFECTS_GENFafctORGA
+C1158817,C0085732,AFFECTS,viral transcription,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C1328949,C0085732,AFFECTS,RNA replication,Ability,genf,orga,2,AFFECTS_GENFafctORGA
+C1372275,C0085732,AFFECTS,Increased DNA Replication,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C1513776,C0085732,AFFECTS,Mutate,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C1514248,C0020969,AFFECTS,Post-Transcriptional Regulation,"Immunity, Innate",genf,orga,1,AFFECTS_GENFafctORGA
+C1516924,C0020969,AFFECTS,Epigenetic Process,"Immunity, Innate",genf,orga,4,AFFECTS_GENFafctORGA
+C1516924,C0220898,AFFECTS,Epigenetic Process,Predisposition -- attribute,genf,orga,3,AFFECTS_GENFafctORGA
+C1519613,C0085732,AFFECTS,Translation Initiation,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C1519613,C1136169,AFFECTS,Translation Initiation,Pathogenicity,genf,orga,1,AFFECTS_GENFafctORGA
+C1519614,C0020969,AFFECTS,Genetic Translation Process,"Immunity, Innate",genf,orga,1,AFFECTS_GENFafctORGA
+C1519614,C0085732,AFFECTS,Genetic Translation Process,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C1565556,C0085732,AFFECTS,Gene Flow,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C2247634,C0020969,AFFECTS,stress granule assembly,"Immunity, Innate",genf,orga,1,AFFECTS_GENFafctORGA
+C4505109,C0085732,AFFECTS,Gain of Function Mutation,Ability,genf,orga,1,AFFECTS_GENFafctORGA
+C5197798,C0085732,AFFECTS,Codon Usage,Ability,genf,orga,1,AFFECTS_GENFafctORGA

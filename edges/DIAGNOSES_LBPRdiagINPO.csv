@@ -1,0 +1,111 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004618,C0332798,DIAGNOSES,Bacterial Count Measurement,Open wound,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0005507,C0026953,DIAGNOSES,Biological Assay,Mycotoxicosis,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0005507,C0600688,DIAGNOSES,Biological Assay,Toxic effect,lbpr,inpo,2,DIAGNOSES_LBPRdiagINPO
+C0005863,C0560617,DIAGNOSES,Western Blotting,knocked out,lbpr,inpo,4,DIAGNOSES_LBPRdiagINPO
+C0007584,C0004063,DIAGNOSES,Cell Count,Assault,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0007584,C0010957,DIAGNOSES,Cell Count,Tissue damage,lbpr,inpo,4,DIAGNOSES_LBPRdiagINPO
+C0007584,C0043250,DIAGNOSES,Cell Count,Injury wounds,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0007584,C0242488,DIAGNOSES,Cell Count,Acute Lung Injury,lbpr,inpo,4,DIAGNOSES_LBPRdiagINPO
+C0007584,C0270611,DIAGNOSES,Cell Count,Brain Injuries,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0007584,C0273115,DIAGNOSES,Cell Count,Lung Injury,lbpr,inpo,2,DIAGNOSES_LBPRdiagINPO
+C0007584,C0522560,DIAGNOSES,Cell Count,Needle track,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0007584,C0560617,DIAGNOSES,Cell Count,knocked out,lbpr,inpo,6,DIAGNOSES_LBPRdiagINPO
+C0007584,C0600688,DIAGNOSES,Cell Count,Toxic effect,lbpr,inpo,7,DIAGNOSES_LBPRdiagINPO
+C0007584,C2905612,DIAGNOSES,Cell Count,Storm NOS,lbpr,inpo,2,DIAGNOSES_LBPRdiagINPO
+C0007584,C4552279,DIAGNOSES,Cell Count,Tissue injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0007585,C0080194,DIAGNOSES,Cell Culture Techniques,Muscle strain,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0014441,C0080194,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Muscle strain,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0014441,C2905612,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Storm NOS,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0019633,C4552279,DIAGNOSES,Histocompatibility Testing,Tissue injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0019637,C0010957,DIAGNOSES,Histological Techniques,Tissue damage,lbpr,inpo,4,DIAGNOSES_LBPRdiagINPO
+C0020985,C0000925,DIAGNOSES,Immunoblotting,Incised wound,lbpr,inpo,2,DIAGNOSES_LBPRdiagINPO
+C0020985,C0560617,DIAGNOSES,Immunoblotting,knocked out,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0021073,C0010957,DIAGNOSES,Immunoradiometric Assays,Tissue damage,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0022885,C0000925,DIAGNOSES,Laboratory Procedures,Incised wound,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0022885,C0006437,DIAGNOSES,Laboratory Procedures,"Burns, Inhalation",lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0022885,C0010957,DIAGNOSES,Laboratory Procedures,Tissue damage,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0022885,C0013142,DIAGNOSES,Laboratory Procedures,Drowning,lbpr,inpo,2,DIAGNOSES_LBPRdiagINPO
+C0022885,C0043250,DIAGNOSES,Laboratory Procedures,Injury wounds,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0022885,C0080194,DIAGNOSES,Laboratory Procedures,Muscle strain,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0022885,C0273115,DIAGNOSES,Laboratory Procedures,Lung Injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0022885,C0273163,DIAGNOSES,Laboratory Procedures,Injury of pancreas,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0022885,C0457211,DIAGNOSES,Laboratory Procedures,Non-steroidal anti-inflammatory poisoning,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0022885,C0481388,DIAGNOSES,Laboratory Procedures,Nosocomial condition,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0022885,C0600688,DIAGNOSES,Laboratory Procedures,Toxic effect,lbpr,inpo,2,DIAGNOSES_LBPRdiagINPO
+C0022885,C0746730,DIAGNOSES,Laboratory Procedures,myocardial injury,lbpr,inpo,2,DIAGNOSES_LBPRdiagINPO
+C0022885,C0848373,DIAGNOSES,Laboratory Procedures,chemical toxicity,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0026018,C3203359,DIAGNOSES,Microscopy,Rupture,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0032102,C0080194,DIAGNOSES,plaque assay,Muscle strain,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0034580,C0032343,DIAGNOSES,Radioimmunoassay,Poisoning,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0036743,C0036114,DIAGNOSES,Serologic tests,Salmonella food poisoning,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0036743,C0239044,DIAGNOSES,Serologic tests,chicken exposure,lbpr,inpo,2,DIAGNOSES_LBPRdiagINPO
+C0036759,C0036114,DIAGNOSES,Serotyping,Salmonella food poisoning,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0040284,C0242488,DIAGNOSES,Tissue culture,Acute Lung Injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0043301,C0600688,DIAGNOSES,X-Ray Diffraction,Toxic effect,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0079240,C0600688,DIAGNOSES,Dilution technique,Toxic effect,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0086890,C0080194,DIAGNOSES,Quick Test for Liver Function,Muscle strain,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0162801,C0080194,DIAGNOSES,Sequence Analysis,Muscle strain,lbpr,inpo,7,DIAGNOSES_LBPRdiagINPO
+C0162801,C0560617,DIAGNOSES,Sequence Analysis,knocked out,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0162801,C2921946,DIAGNOSES,Sequence Analysis,multiple Strains,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0200955,C0600688,DIAGNOSES,Viral culture procedure,Toxic effect,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0201622,C0600688,DIAGNOSES,Cytotoxicity assay,Toxic effect,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0201783,C0848373,DIAGNOSES,Inhibition test,chemical toxicity,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0202144,C0018674,DIAGNOSES,Neuron specific enolase measurement,Craniocerebral Trauma,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0206691,C0013781,DIAGNOSES,Electroporation,Shock from electric current,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0243009,C2905612,DIAGNOSES,CD4 Count determination procedure,Storm NOS,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0369320,C0595916,DIAGNOSES,Free hemoglobin (procedure),Toxic nephropathy,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0427979,C0600688,DIAGNOSES,Toxin assay procedure,Toxic effect,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0428493,C0746730,DIAGNOSES,Plasma C-reactive protein measurement,myocardial injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0430385,C0043250,DIAGNOSES,Sample macroscopy,Injury wounds,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0430385,C0332767,DIAGNOSES,Sample macroscopy,"Dislocation, complete",lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0430389,C0010957,DIAGNOSES,Light Microscopy,Tissue damage,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0430420,C2921946,DIAGNOSES,Antigen assay,multiple Strains,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0474643,C0521819,DIAGNOSES,Antibody titer measurement,Vaccination failure,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0525026,C0010957,DIAGNOSES,Biotinylation,Tissue damage,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0597705,C0375740,DIAGNOSES,Cryoelectron Microscopy,Accident caused by tornado,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0678118,C3203359,DIAGNOSES,Transmission Electron Microscopy,Rupture,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0679560,C0600688,DIAGNOSES,Genetic screening method,Toxic effect,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0681827,C0273115,DIAGNOSES,Laboratory Study,Lung Injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0752248,C0273115,DIAGNOSES,Gene Expression Profiling,Lung Injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0752248,C2905612,DIAGNOSES,Gene Expression Profiling,Storm NOS,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0853173,C0600688,DIAGNOSES,blood potassium,Toxic effect,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0883409,C0018805,DIAGNOSES,Cardiac troponin I measurement,Heart Injuries,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0883409,C0746730,DIAGNOSES,Cardiac troponin I measurement,myocardial injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0883409,C2905612,DIAGNOSES,Cardiac troponin I measurement,Storm NOS,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0919386,C0016658,DIAGNOSES,Pathology procedure,Fracture,lbpr,inpo,2,DIAGNOSES_LBPRdiagINPO
+C0919386,C0242488,DIAGNOSES,Pathology procedure,Acute Lung Injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0919386,C0337196,DIAGNOSES,Pathology procedure,Collision,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0947630,C0016542,DIAGNOSES,Scientific Study,Foreign Bodies,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0947630,C0273115,DIAGNOSES,Scientific Study,Lung Injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0947630,C0596763,DIAGNOSES,Scientific Study,Immunotoxicity,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C0949466,C0560617,DIAGNOSES,Western Blot,knocked out,lbpr,inpo,2,DIAGNOSES_LBPRdiagINPO
+C1274044,C0344132,DIAGNOSES,Plasma cholinesterase measurement,Carbamate poisoning,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1285573,C0080194,DIAGNOSES,Genotype determination,Muscle strain,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1294197,C0242488,DIAGNOSES,Nucleic acid sequencing,Acute Lung Injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1319309,C0010957,DIAGNOSES,Hematoxylin stain method,Tissue damage,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1441604,C0010957,DIAGNOSES,High sensitivity,Tissue damage,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1441604,C0016658,DIAGNOSES,High sensitivity,Fracture,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1441657,C0006057,DIAGNOSES,Mouse bioassay,Botulism,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1510438,C0010957,DIAGNOSES,Assay,Tissue damage,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1510438,C0080194,DIAGNOSES,Assay,Muscle strain,lbpr,inpo,8,DIAGNOSES_LBPRdiagINPO
+C1510438,C0343361,DIAGNOSES,Assay,Adenovirus food poisoning,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1510438,C0596763,DIAGNOSES,Assay,Immunotoxicity,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1510438,C0600688,DIAGNOSES,Assay,Toxic effect,lbpr,inpo,8,DIAGNOSES_LBPRdiagINPO
+C1510438,C2921946,DIAGNOSES,Assay,multiple Strains,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1510438,C4552279,DIAGNOSES,Assay,Tissue injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1511124,C0600688,DIAGNOSES,"Bioassay, In Vivo",Toxic effect,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1535922,C0005604,DIAGNOSES,Procalcitonin measurement,Birth Injuries,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1705192,C0037379,DIAGNOSES,Seeding,Snake Bites,lbpr,inpo,3,DIAGNOSES_LBPRdiagINPO
+C1705192,C0238417,DIAGNOSES,Seeding,Scorpion sting,lbpr,inpo,2,DIAGNOSES_LBPRdiagINPO
+C1705192,C0600688,DIAGNOSES,Seeding,Toxic effect,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1720786,C0080194,DIAGNOSES,Antibiogram,Muscle strain,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C1979971,C0273115,DIAGNOSES,Russell,Lung Injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C2238079,C3203359,DIAGNOSES,Blood Smear,Rupture,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C2825900,C1148522,DIAGNOSES,Monocyte Chemotactic Protein 1 Measurement,Acoustic Trauma,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C2827426,C0600688,DIAGNOSES,Particle Size Reduction,Toxic effect,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C3812195,C0273115,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Lung Injury,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C3812195,C2905612,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Storm NOS,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C3897558,C0206063,DIAGNOSES,Soluble Interleukin 6 Receptor Measurement,Radiation Pneumonitis,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C4721550,C0600688,DIAGNOSES,Cell Culture,Toxic effect,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO
+C4744863,C0409312,DIAGNOSES,Magnetic Field Strength,Anterior Cruciate Ligament Tear,lbpr,inpo,1,DIAGNOSES_LBPRdiagINPO

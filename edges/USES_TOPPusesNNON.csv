@@ -1,0 +1,188 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001563,C0001367,USES,"Administration, Oral",acyclovir,topp,nnon,4,USES_TOPPusesNNON
+C0001563,C0035525,USES,"Administration, Oral",ribavirin,topp,nnon,4,USES_TOPPusesNNON
+C0001563,C0056331,USES,"Administration, Oral",cordycepin,topp,nnon,1,USES_TOPPusesNNON
+C0001566,C0001367,USES,"Administration, Topical",acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C0001566,C1579410,USES,"Administration, Topical",Nucleoside Analogs,topp,nnon,1,USES_TOPPusesNNON
+C0005841,C0164815,USES,Blood Transfusion,penciclovir,topp,nnon,1,USES_TOPPusesNNON
+C0009429,C0016360,USES,Combined Modality Therapy,fluorouracil,topp,nnon,1,USES_TOPPusesNNON
+C0009429,C0022230,USES,Combined Modality Therapy,inosine pranobex,topp,nnon,1,USES_TOPPusesNNON
+C0009429,C0035525,USES,Combined Modality Therapy,ribavirin,topp,nnon,41,USES_TOPPusesNNON
+C0009429,C0043474,USES,Combined Modality Therapy,zidovudine,topp,nnon,1,USES_TOPPusesNNON
+C0009429,C0971023,USES,Combined Modality Therapy,entecavir,topp,nnon,1,USES_TOPPusesNNON
+C0009429,C2976303,USES,Combined Modality Therapy,sofosbuvir,topp,nnon,1,USES_TOPPusesNNON
+C0013216,C0010711,USES,Pharmacotherapy,cytarabine,topp,nnon,2,USES_TOPPusesNNON
+C0013216,C0016360,USES,Pharmacotherapy,fluorouracil,topp,nnon,8,USES_TOPPusesNNON
+C0013216,C0045093,USES,Pharmacotherapy,gemcitabine,topp,nnon,2,USES_TOPPusesNNON
+C0013216,C0596581,USES,Pharmacotherapy,Fluoropyrimidine,topp,nnon,1,USES_TOPPusesNNON
+C0013216,C0599013,USES,Pharmacotherapy,Aptamer,topp,nnon,1,USES_TOPPusesNNON
+C0013216,C0907349,USES,Pharmacotherapy,nelarabine,topp,nnon,1,USES_TOPPusesNNON
+C0013216,C1579410,USES,Pharmacotherapy,Nucleoside Analogs,topp,nnon,3,USES_TOPPusesNNON
+C0015252,C0035525,USES,removal technique,ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C0020971,C0035525,USES,Immunization,ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C0020971,C0050178,USES,Immunization,buciclovir,topp,nnon,1,USES_TOPPusesNNON
+C0020971,C0164815,USES,Immunization,penciclovir,topp,nnon,2,USES_TOPPusesNNON
+C0020971,C0914671,USES,Immunization,CPG-ODN,topp,nnon,1,USES_TOPPusesNNON
+C0020971,C4733593,USES,Immunization,cytidine-phosphate-guanosine DNA,topp,nnon,5,USES_TOPPusesNNON
+C0021107,C0050063,USES,Implantation procedure,8-chloro-cyclic adenosine monophosphate,topp,nnon,1,USES_TOPPusesNNON
+C0021107,C0050178,USES,Implantation procedure,buciclovir,topp,nnon,1,USES_TOPPusesNNON
+C0021440,C0016360,USES,Intravenous infusion procedures,fluorouracil,topp,nnon,1,USES_TOPPusesNNON
+C0021440,C0017066,USES,Intravenous infusion procedures,ganciclovir,topp,nnon,1,USES_TOPPusesNNON
+C0021485,C0017066,USES,Injection of therapeutic agent,ganciclovir,topp,nnon,1,USES_TOPPusesNNON
+C0021485,C0032414,USES,Injection of therapeutic agent,Poly I-C,topp,nnon,3,USES_TOPPusesNNON
+C0021485,C0035525,USES,Injection of therapeutic agent,ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C0021490,C0286079,USES,"Injections, Intralesional",cidofovir,topp,nnon,1,USES_TOPPusesNNON
+C0021493,C0022230,USES,"Injections, Intraperitoneal",inosine pranobex,topp,nnon,1,USES_TOPPusesNNON
+C0021493,C0035525,USES,"Injections, Intraperitoneal",ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C0021917,C0286079,USES,"Instillation, Bladder",cidofovir,topp,nnon,2,USES_TOPPusesNNON
+C0021925,C0035525,USES,Intubation,ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C0022671,C0128608,USES,Kidney Transplantation,mizoribine,topp,nnon,1,USES_TOPPusesNNON
+C0030231,C0004475,USES,Palliative Care,azacitidine,topp,nnon,1,USES_TOPPusesNNON
+C0032042,C0021528,USES,Placebos,inosine,topp,nnon,2,USES_TOPPusesNNON
+C0033144,C0001367,USES,Primary Prevention,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C0033144,C0017066,USES,Primary Prevention,ganciclovir,topp,nnon,2,USES_TOPPusesNNON
+C0033972,C0001367,USES,"Psychotherapy, Multiple",acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C0033972,C0035525,USES,"Psychotherapy, Multiple",ribavirin,topp,nnon,4,USES_TOPPusesNNON
+C0033972,C0043474,USES,"Psychotherapy, Multiple",zidovudine,topp,nnon,1,USES_TOPPusesNNON
+C0035139,C0001506,USES,Surgical Replantation,Adenylyl Imidodiphosphate,topp,nnon,1,USES_TOPPusesNNON
+C0040808,C0012133,USES,Treatment Protocols,didanosine,topp,nnon,1,USES_TOPPusesNNON
+C0040808,C0017066,USES,Treatment Protocols,ganciclovir,topp,nnon,1,USES_TOPPusesNNON
+C0040808,C0021528,USES,Treatment Protocols,inosine,topp,nnon,1,USES_TOPPusesNNON
+C0040808,C0022230,USES,Treatment Protocols,inosine pranobex,topp,nnon,1,USES_TOPPusesNNON
+C0040808,C0032414,USES,Treatment Protocols,Poly I-C,topp,nnon,1,USES_TOPPusesNNON
+C0040808,C0035525,USES,Treatment Protocols,ribavirin,topp,nnon,13,USES_TOPPusesNNON
+C0040808,C0043474,USES,Treatment Protocols,zidovudine,topp,nnon,4,USES_TOPPusesNNON
+C0040808,C0286079,USES,Treatment Protocols,cidofovir,topp,nnon,1,USES_TOPPusesNNON
+C0040808,C0384228,USES,Treatment Protocols,tenofovir,topp,nnon,1,USES_TOPPusesNNON
+C0040808,C2976303,USES,Treatment Protocols,sofosbuvir,topp,nnon,1,USES_TOPPusesNNON
+C0042196,C0032414,USES,Vaccination,Poly I-C,topp,nnon,2,USES_TOPPusesNNON
+C0042196,C0035525,USES,Vaccination,ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C0042196,C0050178,USES,Vaccination,buciclovir,topp,nnon,3,USES_TOPPusesNNON
+C0042196,C0071359,USES,Vaccination,poly ICLC,topp,nnon,1,USES_TOPPusesNNON
+C0042196,C0164815,USES,Vaccination,penciclovir,topp,nnon,11,USES_TOPPusesNNON
+C0042196,C0914671,USES,Vaccination,CPG-ODN,topp,nnon,4,USES_TOPPusesNNON
+C0042196,C1870231,USES,Vaccination,immucillin A,topp,nnon,1,USES_TOPPusesNNON
+C0079613,C0035525,USES,Adoptive Immunotherapy,ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C0079613,C0073221,USES,Adoptive Immunotherapy,ribavirin amidine,topp,nnon,1,USES_TOPPusesNNON
+C0079613,C0128608,USES,Adoptive Immunotherapy,mizoribine,topp,nnon,1,USES_TOPPusesNNON
+C0079613,C0286079,USES,Adoptive Immunotherapy,cidofovir,topp,nnon,1,USES_TOPPusesNNON
+C0085405,C0050175,USES,Salvage Therapy,adefovir,topp,nnon,1,USES_TOPPusesNNON
+C0085533,C0045093,USES,"Chemotherapy, Adjuvant",gemcitabine,topp,nnon,2,USES_TOPPusesNNON
+C0149783,C0035525,USES,Steroid therapy,ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C0185023,C0056331,USES,Fixation - action,cordycepin,topp,nnon,1,USES_TOPPusesNNON
+C0185027,C0286536,USES,Imbrication (procedure),lobucavir,topp,nnon,1,USES_TOPPusesNNON
+C0185115,C0045143,USES,Extraction,"2',5'-oligoadenylate",topp,nnon,1,USES_TOPPusesNNON
+C0185115,C0056331,USES,Extraction,cordycepin,topp,nnon,1,USES_TOPPusesNNON
+C0199176,C0001367,USES,Prophylactic treatment,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C0199176,C0017066,USES,Prophylactic treatment,ganciclovir,topp,nnon,3,USES_TOPPusesNNON
+C0199176,C0032414,USES,Prophylactic treatment,Poly I-C,topp,nnon,1,USES_TOPPusesNNON
+C0199176,C0286079,USES,Prophylactic treatment,cidofovir,topp,nnon,2,USES_TOPPusesNNON
+C0204727,C0050178,USES,Isolation procedure,buciclovir,topp,nnon,4,USES_TOPPusesNNON
+C0237125,C0016360,USES,Drugs regimen,fluorouracil,topp,nnon,1,USES_TOPPusesNNON
+C0242297,C2983890,USES,Dietary Supplementation,Saccharomyces cerevisiae RNA,topp,nnon,1,USES_TOPPusesNNON
+C0259961,C0001367,USES,parenteral therapy,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C0259961,C0017066,USES,parenteral therapy,ganciclovir,topp,nnon,1,USES_TOPPusesNNON
+C0279030,C0035525,USES,Interferon Therapy,ribavirin,topp,nnon,3,USES_TOPPusesNNON
+C0280274,C0001367,USES,Antiviral Therapy,acyclovir,topp,nnon,8,USES_TOPPusesNNON
+C0280274,C0035525,USES,Antiviral Therapy,ribavirin,topp,nnon,15,USES_TOPPusesNNON
+C0280274,C0286079,USES,Antiviral Therapy,cidofovir,topp,nnon,5,USES_TOPPusesNNON
+C0280274,C0971023,USES,Antiviral Therapy,entecavir,topp,nnon,1,USES_TOPPusesNNON
+C0280274,C1099776,USES,Antiviral Therapy,tenofovir disoproxil fumarate,topp,nnon,1,USES_TOPPusesNNON
+C0280274,C1579410,USES,Antiviral Therapy,Nucleoside Analogs,topp,nnon,1,USES_TOPPusesNNON
+C0282515,C0001367,USES,Chemoprevention,acyclovir,topp,nnon,2,USES_TOPPusesNNON
+C0282515,C0017066,USES,Chemoprevention,ganciclovir,topp,nnon,2,USES_TOPPusesNNON
+C0376450,C0059985,USES,Transplantation Conditioning,fludarabine,topp,nnon,1,USES_TOPPusesNNON
+C0376495,C0035525,USES,Retreatments,ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C0392920,C0010711,USES,Chemotherapy Regimen,cytarabine,topp,nnon,1,USES_TOPPusesNNON
+C0392920,C1579410,USES,Chemotherapy Regimen,Nucleoside Analogs,topp,nnon,1,USES_TOPPusesNNON
+C0418981,C1999375,USES,Medical therapy,ticagrelor,topp,nnon,1,USES_TOPPusesNNON
+C0436307,C0671970,USES,Chemoradiotherapy,capecitabine,topp,nnon,4,USES_TOPPusesNNON
+C0439775,C0050063,USES,Elevation procedure,8-chloro-cyclic adenosine monophosphate,topp,nnon,1,USES_TOPPusesNNON
+C0444735,C0021528,USES,Intermittent administration,inosine,topp,nnon,3,USES_TOPPusesNNON
+C0455142,C0001367,USES,Intravenous therapy,acyclovir,topp,nnon,6,USES_TOPPusesNNON
+C0455142,C0017066,USES,Intravenous therapy,ganciclovir,topp,nnon,3,USES_TOPPusesNNON
+C0455142,C0035525,USES,Intravenous therapy,ribavirin,topp,nnon,7,USES_TOPPusesNNON
+C0455142,C0286079,USES,Intravenous therapy,cidofovir,topp,nnon,1,USES_TOPPusesNNON
+C0520484,C0045093,USES,Xenograft procedure,gemcitabine,topp,nnon,1,USES_TOPPusesNNON
+C0547070,C0045093,USES,Ablation,gemcitabine,topp,nnon,1,USES_TOPPusesNNON
+C0563648,C0001367,USES,Suppression treatment,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C0596052,C0043474,USES,AIDS therapy,zidovudine,topp,nnon,1,USES_TOPPusesNNON
+C0600080,C0041984,USES,Stretching exercises,uridine,topp,nnon,2,USES_TOPPusesNNON
+C0600558,C0010711,USES,Neoadjuvant Therapy,cytarabine,topp,nnon,1,USES_TOPPusesNNON
+C0600558,C0017066,USES,Neoadjuvant Therapy,ganciclovir,topp,nnon,2,USES_TOPPusesNNON
+C0677908,C0017066,USES,Maintenance therapy,ganciclovir,topp,nnon,1,USES_TOPPusesNNON
+C0678812,C0001367,USES,systemic administration,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C0678812,C0035525,USES,systemic administration,ribavirin,topp,nnon,2,USES_TOPPusesNNON
+C0678812,C0059985,USES,systemic administration,fludarabine,topp,nnon,1,USES_TOPPusesNNON
+C0678812,C0286079,USES,systemic administration,cidofovir,topp,nnon,1,USES_TOPPusesNNON
+C0678823,C0001367,USES,parenteral administration,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C0748359,C0001367,USES,Respiratory isolation,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C0814357,C0017066,USES,universal prevention,ganciclovir,topp,nnon,1,USES_TOPPusesNNON
+C0854621,C0035525,USES,Human leukocyte interferon therapy,ribavirin,topp,nnon,3,USES_TOPPusesNNON
+C0857208,C0164815,USES,routine immunization,penciclovir,topp,nnon,1,USES_TOPPusesNNON
+C0877629,C0001367,USES,infection prophylaxis,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C0887947,C0286079,USES,"Antiretroviral Therapy, Highly Active",cidofovir,topp,nnon,1,USES_TOPPusesNNON
+C0917707,C0050178,USES,Cannulation,buciclovir,topp,nnon,10,USES_TOPPusesNNON
+C0935576,C0035525,USES,treatment guideline,ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C0949266,C0035525,USES,"Therapies, Investigational",ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C0949266,C1579410,USES,"Therapies, Investigational",Nucleoside Analogs,topp,nnon,1,USES_TOPPusesNNON
+C1280903,C0045143,USES,Exploration procedure,"2',5'-oligoadenylate",topp,nnon,1,USES_TOPPusesNNON
+C1293132,C1744513,USES,Anchoring procedure,AS 1411,topp,nnon,1,USES_TOPPusesNNON
+C1299597,C0035525,USES,Empirical therapy,ribavirin,topp,nnon,2,USES_TOPPusesNNON
+C1443861,C0001367,USES,Post-Exposure Prophylaxis,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C1443861,C0035525,USES,Post-Exposure Prophylaxis,ribavirin,topp,nnon,3,USES_TOPPusesNNON
+C1443861,C0043474,USES,Post-Exposure Prophylaxis,zidovudine,topp,nnon,1,USES_TOPPusesNNON
+C1443861,C0286079,USES,Post-Exposure Prophylaxis,cidofovir,topp,nnon,1,USES_TOPPusesNNON
+C1456647,C0164815,USES,Childhood Immunization,penciclovir,topp,nnon,2,USES_TOPPusesNNON
+C1511237,C4043243,USES,bolus infusion,AVI-7288,topp,nnon,1,USES_TOPPusesNNON
+C1511790,C0020811,USES,Detection,idoxuridine,topp,nnon,1,USES_TOPPusesNNON
+C1511790,C0045143,USES,Detection,"2',5'-oligoadenylate",topp,nnon,1,USES_TOPPusesNNON
+C1511790,C0048806,USES,Detection,5'-deoxy-5'-S-isobutylthioadenosine,topp,nnon,9,USES_TOPPusesNNON
+C1511790,C0050063,USES,Detection,8-chloro-cyclic adenosine monophosphate,topp,nnon,1,USES_TOPPusesNNON
+C1511790,C0050178,USES,Detection,buciclovir,topp,nnon,16,USES_TOPPusesNNON
+C1511790,C0164815,USES,Detection,penciclovir,topp,nnon,4,USES_TOPPusesNNON
+C1511790,C0217154,USES,Detection,thrombin aptamer,topp,nnon,2,USES_TOPPusesNNON
+C1511790,C0599013,USES,Detection,Aptamer,topp,nnon,1,USES_TOPPusesNNON
+C1511790,C1744513,USES,Detection,AS 1411,topp,nnon,1,USES_TOPPusesNNON
+C1512814,C0671970,USES,"Radiotherapy, Intensity-Modulated",capecitabine,topp,nnon,1,USES_TOPPusesNNON
+C1515119,C0017066,USES,Systemic Therapy,ganciclovir,topp,nnon,1,USES_TOPPusesNNON
+C1519252,C1579410,USES,Sequential Treatment,Nucleoside Analogs,topp,nnon,1,USES_TOPPusesNNON
+C1522449,C0041984,USES,Therapeutic radiology procedure,uridine,topp,nnon,2,USES_TOPPusesNNON
+C1656259,C0001367,USES,preventive Drugs,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C1659427,C1622085,USES,nebulization-mediated drug administration,Virazole,topp,nnon,1,USES_TOPPusesNNON
+C1704536,C2976303,USES,Direct Method,sofosbuvir,topp,nnon,1,USES_TOPPusesNNON
+C1707479,C0035525,USES,Concomitant Therapy,ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C1707479,C0384228,USES,Concomitant Therapy,tenofovir,topp,nnon,1,USES_TOPPusesNNON
+C1708063,C0017066,USES,First line treatment,ganciclovir,topp,nnon,1,USES_TOPPusesNNON
+C1963724,C0043474,USES,Antiretroviral therapy,zidovudine,topp,nnon,1,USES_TOPPusesNNON
+C1963724,C0909839,USES,Antiretroviral therapy,emtricitabine,topp,nnon,1,USES_TOPPusesNNON
+C1964029,C0035525,USES,early/brief intervention/therapy (treatment),ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C2347900,C0045093,USES,Rechallenge,gemcitabine,topp,nnon,1,USES_TOPPusesNNON
+C2347900,C0663655,USES,Rechallenge,abacavir,topp,nnon,2,USES_TOPPusesNNON
+C2827774,C0035525,USES,Current Therapy,ribavirin,topp,nnon,2,USES_TOPPusesNNON
+C2945704,C0035525,USES,Conventional Treatment,ribavirin,topp,nnon,1,USES_TOPPusesNNON
+C2985566,C0001367,USES,Targeted Therapy,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C3162255,C0016360,USES,post surgery radiation therapy,fluorouracil,topp,nnon,1,USES_TOPPusesNNON
+C3177188,C0001367,USES,Early Therapy,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C3177188,C0035525,USES,Early Therapy,ribavirin,topp,nnon,3,USES_TOPPusesNNON
+C3540512,C0001367,USES,Circumferential Supracrestal Fiberotomy,acyclovir,topp,nnon,1,USES_TOPPusesNNON
+C3650840,C1579410,USES,Traditional therapy,Nucleoside Analogs,topp,nnon,1,USES_TOPPusesNNON
+C3714568,C0035525,USES,Aerosol therapy,ribavirin,topp,nnon,4,USES_TOPPusesNNON
+C4763675,C0012133,USES,Single Agent Therapy,didanosine,topp,nnon,1,USES_TOPPusesNNON
+C4763675,C0016278,USES,Single Agent Therapy,flucytosine,topp,nnon,1,USES_TOPPusesNNON
+C4763675,C0016778,USES,Single Agent Therapy,tegafur,topp,nnon,1,USES_TOPPusesNNON
+C4763675,C0035525,USES,Single Agent Therapy,ribavirin,topp,nnon,46,USES_TOPPusesNNON
+C4763675,C0043474,USES,Single Agent Therapy,zidovudine,topp,nnon,9,USES_TOPPusesNNON
+C4763675,C0045093,USES,Single Agent Therapy,gemcitabine,topp,nnon,1,USES_TOPPusesNNON
+C4763675,C0049065,USES,Single Agent Therapy,decitabine,topp,nnon,1,USES_TOPPusesNNON
+C4763675,C0050175,USES,Single Agent Therapy,adefovir,topp,nnon,3,USES_TOPPusesNNON
+C4763675,C0384228,USES,Single Agent Therapy,tenofovir,topp,nnon,1,USES_TOPPusesNNON
+C4763675,C0671970,USES,Single Agent Therapy,capecitabine,topp,nnon,3,USES_TOPPusesNNON
+C4763675,C0909839,USES,Single Agent Therapy,emtricitabine,topp,nnon,1,USES_TOPPusesNNON
+C4763675,C0971023,USES,Single Agent Therapy,entecavir,topp,nnon,3,USES_TOPPusesNNON
+C4763675,C1099776,USES,Single Agent Therapy,tenofovir disoproxil fumarate,topp,nnon,1,USES_TOPPusesNNON
+C4763675,C1453933,USES,Single Agent Therapy,telbivudine,topp,nnon,2,USES_TOPPusesNNON
+C4763675,C1579410,USES,Single Agent Therapy,Nucleoside Analogs,topp,nnon,1,USES_TOPPusesNNON
+C4763675,C1871526,USES,Single Agent Therapy,raltegravir,topp,nnon,1,USES_TOPPusesNNON
+C4763675,C1999375,USES,Single Agent Therapy,ticagrelor,topp,nnon,8,USES_TOPPusesNNON
+C4763675,C2976303,USES,Single Agent Therapy,sofosbuvir,topp,nnon,1,USES_TOPPusesNNON

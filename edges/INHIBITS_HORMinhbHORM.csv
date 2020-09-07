@@ -1,0 +1,19 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001617,C0032952,INHIBITS,Adrenal Cortex Hormones,prednisone,horm,horm,1,INHIBITS_HORMinhbHORM
+C0012472,C0033554,INHIBITS,dinoprostone,Prostaglandins,horm,horm,1,INHIBITS_HORMinhbHORM
+C0014912,C0002844,INHIBITS,estradiol,Androgens,horm,horm,1,INHIBITS_HORMinhbHORM
+C0014939,C0002844,INHIBITS,estrogens,Androgens,horm,horm,1,INHIBITS_HORMinhbHORM
+C0014942,C0002844,INHIBITS,estrone,Androgens,horm,horm,1,INHIBITS_HORMinhbHORM
+C0016280,C0020268,INHIBITS,fludrocortisone,hydrocortisone,horm,horm,1,INHIBITS_HORMinhbHORM
+C0017710,C0033554,INHIBITS,Glucocorticoids,Prostaglandins,horm,horm,1,INHIBITS_HORMinhbHORM
+C0017710,C0036884,INHIBITS,Glucocorticoids,Gonadal Steroid Hormones,horm,horm,1,INHIBITS_HORMinhbHORM
+C0020268,C0016280,INHIBITS,hydrocortisone,fludrocortisone,horm,horm,1,INHIBITS_HORMinhbHORM
+C0020268,C0028351,INHIBITS,hydrocortisone,norepinephrine,horm,horm,1,INHIBITS_HORMinhbHORM
+C0020268,C0033308,INHIBITS,hydrocortisone,progesterone,horm,horm,1,INHIBITS_HORMinhbHORM
+C0025219,C0301818,INHIBITS,melatonin,Steroid hormone,horm,horm,1,INHIBITS_HORMinhbHORM
+C0039601,C0060389,INHIBITS,testosterone,finasteride,horm,horm,1,INHIBITS_HORMinhbHORM
+C0040125,C0040135,INHIBITS,Antithyroid Agents,Thyroid Hormones,horm,horm,1,INHIBITS_HORMinhbHORM
+C0720298,C0036884,INHIBITS,Estrogenic,Gonadal Steroid Hormones,horm,horm,1,INHIBITS_HORMinhbHORM
+C0729349,C0020268,INHIBITS,Serum cortisol,hydrocortisone,horm,horm,1,INHIBITS_HORMinhbHORM
+C0857937,C0039601,INHIBITS,Serum gonadotropin,testosterone,horm,horm,1,INHIBITS_HORMinhbHORM
+C3540777,C0020268,INHIBITS,"Glucocorticoids, Systemic",hydrocortisone,horm,horm,1,INHIBITS_HORMinhbHORM

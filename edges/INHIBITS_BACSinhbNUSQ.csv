@@ -1,0 +1,47 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003284,C0009221,INHIBITS,Anticodon,Codon (nucleotide sequence),bacs,nusq,2,INHIBITS_BACSinhbNUSQ
+C0012854,C0162326,INHIBITS,DNA,DNA Sequence,bacs,nusq,7,INHIBITS_BACSinhbNUSQ
+C0012854,C0598509,INHIBITS,DNA,hormone response element,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0012854,C0752046,INHIBITS,DNA,Single Nucleotide Polymorphism,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0012925,C0242610,INHIBITS,"DNA, Circular","Codon, Initiator",bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0028606,C0004793,INHIBITS,Nucleic Acids,Base Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0028606,C0162326,INHIBITS,Nucleic Acids,DNA Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0028606,C1517336,INHIBITS,Nucleic Acids,G-Quadruplexes,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0028606,C1883644,INHIBITS,Nucleic Acids,5' Region,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0032136,C1512886,INHIBITS,Plasmids,Internal Ribosome Entry Sites,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0032712,C1956090,INHIBITS,Porphyrins,"G-Quadruplexes, DNA",bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035693,C0162326,INHIBITS,"RNA, Double-Stranded",DNA Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035696,C0162326,INHIBITS,"RNA, Messenger",DNA Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035696,C0242612,INHIBITS,"RNA, Messenger","Codon, Nonsense",bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035696,C0600600,INHIBITS,"RNA, Messenger",3' Untranslated Regions,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035701,C3178797,INHIBITS,Ribosomal RNA,RNA Motifs,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035702,C0162326,INHIBITS,"RNA, Ribosomal, 16S",DNA Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035711,C0009221,INHIBITS,Transfer RNA,Codon (nucleotide sequence),bacs,nusq,2,INHIBITS_BACSinhbNUSQ
+C0035711,C0086908,INHIBITS,Transfer RNA,Repetitive Region,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035711,C0242611,INHIBITS,Transfer RNA,"Codon, Terminator",bacs,nusq,3,INHIBITS_BACSinhbNUSQ
+C0035711,C0242612,INHIBITS,Transfer RNA,"Codon, Nonsense",bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0035711,C1956148,INHIBITS,Transfer RNA,Amber Stop Codon,bacs,nusq,3,INHIBITS_BACSinhbNUSQ
+C0035711,C1956150,INHIBITS,Transfer RNA,Opal Stop Codon,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0079925,C0242610,INHIBITS,Antisense Oligonucleotides,"Codon, Initiator",bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0079925,C0887917,INHIBITS,Antisense Oligonucleotides,Splice Donor Site,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0079925,C1512886,INHIBITS,Antisense Oligonucleotides,Internal Ribosome Entry Sites,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0079925,C1517336,INHIBITS,Antisense Oligonucleotides,G-Quadruplexes,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0079925,C1720838,INHIBITS,Antisense Oligonucleotides,Cryptic Splice Sites,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0080124,C0162326,INHIBITS,Antisense RNA,DNA Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0082774,C0162326,INHIBITS,"RNA, Guide",DNA Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0178681,C0009802,INHIBITS,Homovanillate,Conserved Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0242494,C1512886,INHIBITS,Poly(A) Tail,Internal Ribosome Entry Sites,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0600493,C0009802,INHIBITS,5' Untranslated Regions,Conserved Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C0887859,C0162327,INHIBITS,Intergenic Region,RNA Sequence,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C1099354,C0004793,INHIBITS,"RNA, Small Interfering",Base Sequence,bacs,nusq,3,INHIBITS_BACSinhbNUSQ
+C1099354,C0009802,INHIBITS,"RNA, Small Interfering",Conserved Sequence,bacs,nusq,12,INHIBITS_BACSinhbNUSQ
+C1099354,C0162326,INHIBITS,"RNA, Small Interfering",DNA Sequence,bacs,nusq,31,INHIBITS_BACSinhbNUSQ
+C1099354,C0242610,INHIBITS,"RNA, Small Interfering","Codon, Initiator",bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C1099354,C0600600,INHIBITS,"RNA, Small Interfering",3' Untranslated Regions,bacs,nusq,4,INHIBITS_BACSinhbNUSQ
+C1099354,C1511518,INHIBITS,"RNA, Small Interfering",Copy Number Polymorphism,bacs,nusq,2,INHIBITS_BACSinhbNUSQ
+C1099354,C1512886,INHIBITS,"RNA, Small Interfering",Internal Ribosome Entry Sites,bacs,nusq,3,INHIBITS_BACSinhbNUSQ
+C1099354,C1883644,INHIBITS,"RNA, Small Interfering",5' Region,bacs,nusq,2,INHIBITS_BACSinhbNUSQ
+C1101610,C0162326,INHIBITS,MicroRNAs,DNA Sequence,bacs,nusq,8,INHIBITS_BACSinhbNUSQ
+C1101610,C0600600,INHIBITS,MicroRNAs,3' Untranslated Regions,bacs,nusq,11,INHIBITS_BACSinhbNUSQ
+C1677802,C1512886,INHIBITS,prunin,Internal Ribosome Entry Sites,bacs,nusq,1,INHIBITS_BACSinhbNUSQ
+C1764827,C0242611,INHIBITS,Isolate - microorganism,"Codon, Terminator",bacs,nusq,1,INHIBITS_BACSinhbNUSQ

@@ -1,0 +1,406 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003794,C0543419,CAUSES,Arm Injuries,Sequela of disorder,inpo,patf,1,CAUSES_INPOcausPATF
+C0004063,C1155266,CAUSES,Assault,Inflammatory Response,inpo,patf,1,CAUSES_INPOcausPATF
+C0004760,C0026766,CAUSES,Dysbarism,Multiple Organ Failure,inpo,patf,1,CAUSES_INPOcausPATF
+C0004760,C0038536,CAUSES,Dysbarism,Subcutaneous Emphysema,inpo,patf,2,CAUSES_INPOcausPATF
+C0004760,C0553987,CAUSES,Dysbarism,Arterial air embolus,inpo,patf,1,CAUSES_INPOcausPATF
+C0005658,C0020517,CAUSES,bite injury,Hypersensitivity,inpo,patf,1,CAUSES_INPOcausPATF
+C0005658,C0341950,CAUSES,bite injury,Severe pre-eclampsia,inpo,patf,1,CAUSES_INPOcausPATF
+C0005658,C1265833,CAUSES,bite injury,Deep abscess,inpo,patf,1,CAUSES_INPOcausPATF
+C0005658,C3714514,CAUSES,bite injury,Infection,inpo,patf,3,CAUSES_INPOcausPATF
+C0005660,C3714514,CAUSES,Human Bite,Infection,inpo,patf,2,CAUSES_INPOcausPATF
+C0005700,C0013604,CAUSES,Blast Injuries,Edema,inpo,patf,1,CAUSES_INPOcausPATF
+C0005700,C0036974,CAUSES,Blast Injuries,Shock,inpo,patf,1,CAUSES_INPOcausPATF
+C0005700,C0036982,CAUSES,Blast Injuries,"Shock, Hemorrhagic",inpo,patf,1,CAUSES_INPOcausPATF
+C0005700,C0151701,CAUSES,Blast Injuries,Pulmonary hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0005700,C3714514,CAUSES,Blast Injuries,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0006434,C0015376,CAUSES,Burn injury,Extravasation,inpo,patf,1,CAUSES_INPOcausPATF
+C0006434,C0021368,CAUSES,Burn injury,Inflammation,inpo,patf,3,CAUSES_INPOcausPATF
+C0006434,C0036983,CAUSES,Burn injury,Septic Shock,inpo,patf,1,CAUSES_INPOcausPATF
+C0006434,C0235395,CAUSES,Burn injury,Fluid loss,inpo,patf,1,CAUSES_INPOcausPATF
+C0006434,C1155266,CAUSES,Burn injury,Inflammatory Response,inpo,patf,1,CAUSES_INPOcausPATF
+C0006434,C3714514,CAUSES,Burn injury,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0007020,C0242184,CAUSES,Carbon Monoxide Poisoning,Hypoxia,inpo,patf,1,CAUSES_INPOcausPATF
+C0007020,C0281169,CAUSES,Carbon Monoxide Poisoning,Pulmonary Complication,inpo,patf,1,CAUSES_INPOcausPATF
+C0009938,C0002940,CAUSES,Contusions,Aneurysm,inpo,patf,1,CAUSES_INPOcausPATF
+C0009938,C0019123,CAUSES,Contusions,Hemothorax,inpo,patf,1,CAUSES_INPOcausPATF
+C0009938,C0475714,CAUSES,Contusions,Tracheobronchial hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0010957,C0001349,CAUSES,Tissue damage,Acute-Phase Reaction,inpo,patf,1,CAUSES_INPOcausPATF
+C0010957,C0008767,CAUSES,Tissue damage,Cicatrization,inpo,patf,1,CAUSES_INPOcausPATF
+C0010957,C0013604,CAUSES,Tissue damage,Edema,inpo,patf,2,CAUSES_INPOcausPATF
+C0010957,C0013990,CAUSES,Tissue damage,Pathological accumulation of air in tissues,inpo,patf,1,CAUSES_INPOcausPATF
+C0010957,C0015376,CAUSES,Tissue damage,Extravasation,inpo,patf,1,CAUSES_INPOcausPATF
+C0010957,C0016059,CAUSES,Tissue damage,Fibrosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0010957,C0021368,CAUSES,Tissue damage,Inflammation,inpo,patf,11,CAUSES_INPOcausPATF
+C0010957,C0021376,CAUSES,Tissue damage,Chronic inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0010957,C0026766,CAUSES,Tissue damage,Multiple Organ Failure,inpo,patf,6,CAUSES_INPOcausPATF
+C0010957,C0030660,CAUSES,Tissue damage,Pathologic Processes,inpo,patf,2,CAUSES_INPOcausPATF
+C0010957,C0242184,CAUSES,Tissue damage,Hypoxia,inpo,patf,1,CAUSES_INPOcausPATF
+C0010957,C0443146,CAUSES,Tissue damage,Autoimmune reaction,inpo,patf,1,CAUSES_INPOcausPATF
+C0010957,C0700148,CAUSES,Tissue damage,Congestion,inpo,patf,1,CAUSES_INPOcausPATF
+C0010957,C1155266,CAUSES,Tissue damage,Inflammatory Response,inpo,patf,4,CAUSES_INPOcausPATF
+C0010957,C2717792,CAUSES,Tissue damage,Airway Remodeling,inpo,patf,2,CAUSES_INPOcausPATF
+C0012254,C0541782,CAUSES,Digitalis Toxicity,Atrial standstill,inpo,patf,1,CAUSES_INPOcausPATF
+C0012691,C0011071,CAUSES,Dislocations,Sudden death,inpo,patf,1,CAUSES_INPOcausPATF
+C0012691,C0021368,CAUSES,Dislocations,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0013142,C0035229,CAUSES,Drowning,Respiratory Insufficiency,inpo,patf,1,CAUSES_INPOcausPATF
+C0013142,C0242184,CAUSES,Drowning,Hypoxia,inpo,patf,1,CAUSES_INPOcausPATF
+C0013221,C0030660,CAUSES,Drug toxicity,Pathologic Processes,inpo,patf,1,CAUSES_INPOcausPATF
+C0013221,C0151763,CAUSES,Drug toxicity,Liver damage,inpo,patf,3,CAUSES_INPOcausPATF
+C0013221,C0152254,CAUSES,Drug toxicity,Fatty degeneration,inpo,patf,1,CAUSES_INPOcausPATF
+C0014412,C0021376,CAUSES,Environmental Exposure,Chronic inflammation,inpo,patf,2,CAUSES_INPOcausPATF
+C0014412,C0032962,CAUSES,Environmental Exposure,Pregnancy Complications,inpo,patf,1,CAUSES_INPOcausPATF
+C0014412,C3714514,CAUSES,Environmental Exposure,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0015459,C0019080,CAUSES,Facial Injuries,Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0016196,C0035229,CAUSES,Flail Chest,Respiratory Insufficiency,inpo,patf,1,CAUSES_INPOcausPATF
+C0016542,C0004144,CAUSES,Foreign Bodies,Atelectasis,inpo,patf,1,CAUSES_INPOcausPATF
+C0016542,C0012359,CAUSES,Foreign Bodies,Pathological Dilatation,inpo,patf,1,CAUSES_INPOcausPATF
+C0016542,C0016549,CAUSES,Foreign Bodies,Foreign-Body Reaction,inpo,patf,1,CAUSES_INPOcausPATF
+C0016542,C0018188,CAUSES,Foreign Bodies,Granuloma,inpo,patf,1,CAUSES_INPOcausPATF
+C0016542,C0028778,CAUSES,Foreign Bodies,Obstruction,inpo,patf,3,CAUSES_INPOcausPATF
+C0016542,C0034194,CAUSES,Foreign Bodies,Pyloric Stenosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0016542,C0035229,CAUSES,Foreign Bodies,Respiratory Insufficiency,inpo,patf,1,CAUSES_INPOcausPATF
+C0016542,C0240278,CAUSES,Foreign Bodies,Lymphatic obstruction,inpo,patf,1,CAUSES_INPOcausPATF
+C0016542,C3714514,CAUSES,Foreign Bodies,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0016658,C0013928,CAUSES,Fracture,Fat embolism (disorder),inpo,patf,3,CAUSES_INPOcausPATF
+C0016658,C0021368,CAUSES,Fracture,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0016658,C0028778,CAUSES,Fracture,Obstruction,inpo,patf,1,CAUSES_INPOcausPATF
+C0018674,C3714514,CAUSES,Craniocerebral Trauma,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0018805,C0161816,CAUSES,Heart Injuries,Cardiac complication,inpo,patf,1,CAUSES_INPOcausPATF
+C0018805,C2004491,CAUSES,Heart Injuries,Cicatrix,inpo,patf,1,CAUSES_INPOcausPATF
+C0018843,C0022116,CAUSES,Heat Stroke,Ischemia,inpo,patf,1,CAUSES_INPOcausPATF
+C0021564,C0007642,CAUSES,Insect Bites,Cellulitis,inpo,patf,1,CAUSES_INPOcausPATF
+C0026771,C0006110,CAUSES,Multiple Trauma,Brain Death,inpo,patf,1,CAUSES_INPOcausPATF
+C0026771,C0019080,CAUSES,Multiple Trauma,Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0026771,C0021368,CAUSES,Multiple Trauma,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0026771,C0036974,CAUSES,Multiple Trauma,Shock,inpo,patf,1,CAUSES_INPOcausPATF
+C0028798,C0242781,CAUSES,Occupational Exposure,disease transmission,inpo,patf,1,CAUSES_INPOcausPATF
+C0028798,C3714514,CAUSES,Occupational Exposure,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0029944,C0035410,CAUSES,Drug Overdose,Rhabdomyolysis,inpo,patf,1,CAUSES_INPOcausPATF
+C0032343,C0011071,CAUSES,Poisoning,Sudden death,inpo,patf,1,CAUSES_INPOcausPATF
+C0032343,C0028778,CAUSES,Poisoning,Obstruction,inpo,patf,1,CAUSES_INPOcausPATF
+C0032343,C0340515,CAUSES,Poisoning,Myocardial dysfunction,inpo,patf,2,CAUSES_INPOcausPATF
+C0033119,C3714514,CAUSES,Puncture wound,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0035126,C0001511,CAUSES,Reperfusion Injury,Tissue Adhesions,inpo,patf,1,CAUSES_INPOcausPATF
+C0035126,C0026766,CAUSES,Reperfusion Injury,Multiple Organ Failure,inpo,patf,1,CAUSES_INPOcausPATF
+C0035126,C0027055,CAUSES,Reperfusion Injury,Myocardial Reperfusion Injury,inpo,patf,1,CAUSES_INPOcausPATF
+C0035126,C0151763,CAUSES,Reperfusion Injury,Liver damage,inpo,patf,1,CAUSES_INPOcausPATF
+C0035126,C0546817,CAUSES,Reperfusion Injury,Fluid overload,inpo,patf,1,CAUSES_INPOcausPATF
+C0035126,C0948031,CAUSES,Reperfusion Injury,Primary Graft Dysfunction,inpo,patf,1,CAUSES_INPOcausPATF
+C0035126,C1167870,CAUSES,Reperfusion Injury,Graft dysfunction,inpo,patf,1,CAUSES_INPOcausPATF
+C0035126,C1262018,CAUSES,Reperfusion Injury,Graft failure,inpo,patf,2,CAUSES_INPOcausPATF
+C0035522,C0015376,CAUSES,Rib Fractures,Extravasation,inpo,patf,1,CAUSES_INPOcausPATF
+C0035955,C0333276,CAUSES,Traumatic Rupture,Acute hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0036114,C3714514,CAUSES,Salmonella food poisoning,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0037379,C0021368,CAUSES,Snake Bites,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0037929,C0011304,CAUSES,Spinal Cord Injuries,Demyelination,inpo,patf,2,CAUSES_INPOcausPATF
+C0037937,C0036974,CAUSES,Spinal Injuries,Shock,inpo,patf,1,CAUSES_INPOcausPATF
+C0038000,C0011071,CAUSES,Splenic Rupture,Sudden death,inpo,patf,1,CAUSES_INPOcausPATF
+C0038561,C0032780,CAUSES,Submersion,Postmortem Changes,inpo,patf,1,CAUSES_INPOcausPATF
+C0040533,C0543419,CAUSES,Toxic effect of venom,Sequela of disorder,inpo,patf,1,CAUSES_INPOcausPATF
+C0043242,C0021368,CAUSES,Superficial abrasion,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0043242,C0036974,CAUSES,Superficial abrasion,Shock,inpo,patf,1,CAUSES_INPOcausPATF
+C0043246,C0019080,CAUSES,Laceration,Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0043246,C0019123,CAUSES,Laceration,Hemothorax,inpo,patf,2,CAUSES_INPOcausPATF
+C0043246,C0341950,CAUSES,Laceration,Severe pre-eclampsia,inpo,patf,1,CAUSES_INPOcausPATF
+C0043250,C0018944,CAUSES,Injury wounds,Hematoma,inpo,patf,1,CAUSES_INPOcausPATF
+C0043250,C0334097,CAUSES,Injury wounds,Epithelial proliferation,inpo,patf,1,CAUSES_INPOcausPATF
+C0043250,C3714514,CAUSES,Injury wounds,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0011071,CAUSES,Wounds and Injuries,Sudden death,inpo,patf,2,CAUSES_INPOcausPATF
+C0043251,C0011304,CAUSES,Wounds and Injuries,Demyelination,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0012359,CAUSES,Wounds and Injuries,Pathological Dilatation,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0013491,CAUSES,Wounds and Injuries,Ecchymosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0013687,CAUSES,Wounds and Injuries,effusion,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0014591,CAUSES,Wounds and Injuries,Epistaxis,inpo,patf,2,CAUSES_INPOcausPATF
+C0043251,C0017639,CAUSES,Wounds and Injuries,Gliosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0018944,CAUSES,Wounds and Injuries,Hematoma,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0019080,CAUSES,Wounds and Injuries,Hemorrhage,inpo,patf,11,CAUSES_INPOcausPATF
+C0043251,C0019123,CAUSES,Wounds and Injuries,Hemothorax,inpo,patf,2,CAUSES_INPOcausPATF
+C0043251,C0020581,CAUSES,Wounds and Injuries,Hyphema,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0021368,CAUSES,Wounds and Injuries,Inflammation,inpo,patf,5,CAUSES_INPOcausPATF
+C0043251,C0023052,CAUSES,Wounds and Injuries,Laryngeal Edema,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0027686,CAUSES,Wounds and Injuries,Pathologic Neovascularization,inpo,patf,2,CAUSES_INPOcausPATF
+C0043251,C0029445,CAUSES,Wounds and Injuries,Bone necrosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0030660,CAUSES,Wounds and Injuries,Pathologic Processes,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0031154,CAUSES,Wounds and Injuries,Peritonitis,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0032787,CAUSES,Wounds and Injuries,Postoperative Complications,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0035410,CAUSES,Wounds and Injuries,Rhabdomyolysis,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0036679,CAUSES,Wounds and Injuries,Diastasis,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0038536,CAUSES,Wounds and Injuries,Subcutaneous Emphysema,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0041582,CAUSES,Wounds and Injuries,Ulcer,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0151705,CAUSES,Wounds and Injuries,Retroperitoneal Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0238154,CAUSES,Wounds and Injuries,"Hematoma, Epidural, Cranial",inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0242184,CAUSES,Wounds and Injuries,Hypoxia,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0281839,CAUSES,Wounds and Injuries,Rupture of esophagus,inpo,patf,2,CAUSES_INPOcausPATF
+C0043251,C0333276,CAUSES,Wounds and Injuries,Acute hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0333279,CAUSES,Wounds and Injuries,Massive hemorrhage,inpo,patf,2,CAUSES_INPOcausPATF
+C0043251,C0333287,CAUSES,Wounds and Injuries,Subcapsular hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0392175,CAUSES,Wounds and Injuries,Hemorrhage of kidney,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0442856,CAUSES,Wounds and Injuries,Hypoperfusion,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C0543419,CAUSES,Wounds and Injuries,Sequela of disorder,inpo,patf,2,CAUSES_INPOcausPATF
+C0043251,C1253936,CAUSES,Wounds and Injuries,Hydrarthrosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C1262023,CAUSES,Wounds and Injuries,dilutional coagulopathy,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C1817978,CAUSES,Wounds and Injuries,acute inflammatory response,inpo,patf,2,CAUSES_INPOcausPATF
+C0043251,C3160770,CAUSES,Wounds and Injuries,Minor bleeding problems,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C3241936,CAUSES,Wounds and Injuries,Non-cardiogenic pulmonary edema,inpo,patf,1,CAUSES_INPOcausPATF
+C0043251,C3714514,CAUSES,Wounds and Injuries,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0043253,C0020581,CAUSES,Nonpenetrating Wounds,Hyphema,inpo,patf,1,CAUSES_INPOcausPATF
+C0043253,C1720824,CAUSES,Nonpenetrating Wounds,Sudden Cardiac Arrest,inpo,patf,1,CAUSES_INPOcausPATF
+C0043254,C0019080,CAUSES,"Wounds, Penetrating",Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0043254,C0151702,CAUSES,"Wounds, Penetrating",Muscle hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0079626,C3714514,CAUSES,Insect Sting,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0080194,C3714514,CAUSES,Muscle strain,Infection,inpo,patf,7,CAUSES_INPOcausPATF
+C0085178,C3714514,CAUSES,Needlestick Injuries,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0085742,C0034063,CAUSES,"Injuries, Acute Brain",Pulmonary Edema,inpo,patf,1,CAUSES_INPOcausPATF
+C0149992,C0543419,CAUSES,Injury of trachea,Sequela of disorder,inpo,patf,1,CAUSES_INPOcausPATF
+C0151736,C0018944,CAUSES,Accidental Injuries,Hematoma,inpo,patf,1,CAUSES_INPOcausPATF
+C0151736,C0151699,CAUSES,Accidental Injuries,Intracranial Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0160390,C0020510,CAUSES,Injury of liver,Nodular hyperplasia,inpo,patf,1,CAUSES_INPOcausPATF
+C0160390,C0151763,CAUSES,Injury of liver,Liver damage,inpo,patf,1,CAUSES_INPOcausPATF
+C0160390,C0152254,CAUSES,Injury of liver,Fatty degeneration,inpo,patf,1,CAUSES_INPOcausPATF
+C0160390,C0599335,CAUSES,Injury of liver,pulmonary hypoxia,inpo,patf,1,CAUSES_INPOcausPATF
+C0160420,C0036974,CAUSES,Injury of kidney,Shock,inpo,patf,1,CAUSES_INPOcausPATF
+C0160420,C0333641,CAUSES,Injury of kidney,Atrophic,inpo,patf,1,CAUSES_INPOcausPATF
+C0160420,C0546817,CAUSES,Injury of kidney,Fluid overload,inpo,patf,1,CAUSES_INPOcausPATF
+C0161479,C0017639,CAUSES,Nerve injury,Gliosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0161479,C1817976,CAUSES,Nerve injury,hypersensitivity response,inpo,patf,1,CAUSES_INPOcausPATF
+C0161479,C3203358,CAUSES,Nerve injury,Hypoventilation,inpo,patf,1,CAUSES_INPOcausPATF
+C0161544,C1736173,CAUSES,Poisoning by salicylate,Acute Metabolic acidosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0161750,C3714514,CAUSES,Exhaustion due to excessive exertion,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0178324,C0020507,CAUSES,Vascular System Injuries,Hyperplasia,inpo,patf,1,CAUSES_INPOcausPATF
+C0178324,C0022116,CAUSES,Vascular System Injuries,Ischemia,inpo,patf,4,CAUSES_INPOcausPATF
+C0178324,C0028778,CAUSES,Vascular System Injuries,Obstruction,inpo,patf,1,CAUSES_INPOcausPATF
+C0178324,C0036982,CAUSES,Vascular System Injuries,"Shock, Hemorrhagic",inpo,patf,1,CAUSES_INPOcausPATF
+C0178324,C0040053,CAUSES,Vascular System Injuries,Thrombosis,inpo,patf,2,CAUSES_INPOcausPATF
+C0178324,C0334096,CAUSES,Vascular System Injuries,Intimal proliferation,inpo,patf,1,CAUSES_INPOcausPATF
+C0231275,C0151942,CAUSES,Cold exposure,Arterial thrombosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0235378,C0013604,CAUSES,Hepatotoxicity,Edema,inpo,patf,1,CAUSES_INPOcausPATF
+C0235378,C0151763,CAUSES,Hepatotoxicity,Liver damage,inpo,patf,2,CAUSES_INPOcausPATF
+C0235378,C3714514,CAUSES,Hepatotoxicity,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0238327,C0021368,CAUSES,Oxygen toxicity,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0239686,C1155266,CAUSES,FORMALDEHYDE EXPOSURE,Inflammatory Response,inpo,patf,1,CAUSES_INPOcausPATF
+C0241407,C0041582,CAUSES,Tick bite (disorder),Ulcer,inpo,patf,1,CAUSES_INPOcausPATF
+C0241407,C3714514,CAUSES,Tick bite (disorder),Infection,inpo,patf,3,CAUSES_INPOcausPATF
+C0242154,C0006663,CAUSES,Poisoning by vitamin D,Calcinosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0242488,C0008767,CAUSES,Acute Lung Injury,Cicatrization,inpo,patf,1,CAUSES_INPOcausPATF
+C0242488,C0013604,CAUSES,Acute Lung Injury,Edema,inpo,patf,3,CAUSES_INPOcausPATF
+C0242488,C0016059,CAUSES,Acute Lung Injury,Fibrosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0242488,C0021359,CAUSES,Acute Lung Injury,Infertility,inpo,patf,1,CAUSES_INPOcausPATF
+C0242488,C0021368,CAUSES,Acute Lung Injury,Inflammation,inpo,patf,3,CAUSES_INPOcausPATF
+C0242488,C0034063,CAUSES,Acute Lung Injury,Pulmonary Edema,inpo,patf,2,CAUSES_INPOcausPATF
+C0242488,C0231176,CAUSES,Acute Lung Injury,Acute failure,inpo,patf,2,CAUSES_INPOcausPATF
+C0242488,C0235063,CAUSES,Acute Lung Injury,Respiratory Depression,inpo,patf,1,CAUSES_INPOcausPATF
+C0242488,C0242184,CAUSES,Acute Lung Injury,Hypoxia,inpo,patf,1,CAUSES_INPOcausPATF
+C0242488,C0442856,CAUSES,Acute Lung Injury,Hypoperfusion,inpo,patf,1,CAUSES_INPOcausPATF
+C0242488,C1265831,CAUSES,Acute Lung Injury,Interstitial inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0242488,C2586211,CAUSES,Acute Lung Injury,Thrombosis of blood vessel,inpo,patf,1,CAUSES_INPOcausPATF
+C0259797,C0007642,CAUSES,Dog Bite,Cellulitis,inpo,patf,1,CAUSES_INPOcausPATF
+C0259797,C3714514,CAUSES,Dog Bite,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0262593,C0332448,CAUSES,Peripheral Nerve Injuries,Infiltration,inpo,patf,1,CAUSES_INPOcausPATF
+C0270611,C0206277,CAUSES,Brain Injuries,Fatal Outcome,inpo,patf,1,CAUSES_INPOcausPATF
+C0270611,C0392676,CAUSES,Brain Injuries,Hyperpyrexia,inpo,patf,2,CAUSES_INPOcausPATF
+C0270611,C0543419,CAUSES,Brain Injuries,Sequela of disorder,inpo,patf,1,CAUSES_INPOcausPATF
+C0272423,C0018944,CAUSES,Injury of ear,Hematoma,inpo,patf,1,CAUSES_INPOcausPATF
+C0273115,C0011071,CAUSES,Lung Injury,Sudden death,inpo,patf,1,CAUSES_INPOcausPATF
+C0273115,C0013604,CAUSES,Lung Injury,Edema,inpo,patf,2,CAUSES_INPOcausPATF
+C0273115,C0015376,CAUSES,Lung Injury,Extravasation,inpo,patf,2,CAUSES_INPOcausPATF
+C0273115,C0019080,CAUSES,Lung Injury,Hemorrhage,inpo,patf,3,CAUSES_INPOcausPATF
+C0273115,C0021368,CAUSES,Lung Injury,Inflammation,inpo,patf,5,CAUSES_INPOcausPATF
+C0273115,C0026766,CAUSES,Lung Injury,Multiple Organ Failure,inpo,patf,2,CAUSES_INPOcausPATF
+C0273115,C0036983,CAUSES,Lung Injury,Septic Shock,inpo,patf,1,CAUSES_INPOcausPATF
+C0273115,C0242184,CAUSES,Lung Injury,Hypoxia,inpo,patf,3,CAUSES_INPOcausPATF
+C0273115,C0302158,CAUSES,Lung Injury,Leucocytic infiltrate,inpo,patf,1,CAUSES_INPOcausPATF
+C0273115,C1155266,CAUSES,Lung Injury,Inflammatory Response,inpo,patf,3,CAUSES_INPOcausPATF
+C0273454,C0021368,CAUSES,Pulmonary blood vessel injury,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0273486,C0235029,CAUSES,Vagus Nerve Injuries,neurological complication,inpo,patf,1,CAUSES_INPOcausPATF
+C0274281,C0000786,CAUSES,Injury due to exposure to external cause,Spontaneous abortion,inpo,patf,1,CAUSES_INPOcausPATF
+C0274281,C0021359,CAUSES,Injury due to exposure to external cause,Infertility,inpo,patf,2,CAUSES_INPOcausPATF
+C0274281,C0021368,CAUSES,Injury due to exposure to external cause,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0274281,C0242781,CAUSES,Injury due to exposure to external cause,disease transmission,inpo,patf,1,CAUSES_INPOcausPATF
+C0274281,C3714514,CAUSES,Injury due to exposure to external cause,Infection,inpo,patf,3,CAUSES_INPOcausPATF
+C0274911,C0151763,CAUSES,Toxic effect of aflatoxin,Liver damage,inpo,patf,1,CAUSES_INPOcausPATF
+C0274986,C0333501,CAUSES,Zinc poisoning,Acute necrosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0280952,C0520893,CAUSES,Extravasation of drug,Localized desquamation,inpo,patf,1,CAUSES_INPOcausPATF
+C0281342,C1373218,CAUSES,Bone Marrow Ablation,Decreased Immunologic Activity [PE],inpo,patf,1,CAUSES_INPOcausPATF
+C0281980,C0021368,CAUSES,Injury of integument,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0282507,C1373218,CAUSES,Heat Stress Disorders,Decreased Immunologic Activity [PE],inpo,patf,1,CAUSES_INPOcausPATF
+C0332673,C0022116,CAUSES,Minor injury,Ischemia,inpo,patf,1,CAUSES_INPOcausPATF
+C0332679,C0443146,CAUSES,Crushing injury,Autoimmune reaction,inpo,patf,1,CAUSES_INPOcausPATF
+C0332685,C0021368,CAUSES,Thermal injury,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0332685,C0235620,CAUSES,Thermal injury,Urinary Tract Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0332685,C0521481,CAUSES,Thermal injury,Mucous membrane edema,inpo,patf,1,CAUSES_INPOcausPATF
+C0332694,C1522058,CAUSES,Acid chemical burn,Coagulative necrosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0332768,C0021368,CAUSES,Joint Subluxations,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0332768,C0543419,CAUSES,Joint Subluxations,Sequela of disorder,inpo,patf,1,CAUSES_INPOcausPATF
+C0332805,C0026766,CAUSES,Deep wound injury,Multiple Organ Failure,inpo,patf,1,CAUSES_INPOcausPATF
+C0337196,C0015376,CAUSES,Collision,Extravasation,inpo,patf,1,CAUSES_INPOcausPATF
+C0337196,C0242781,CAUSES,Collision,disease transmission,inpo,patf,1,CAUSES_INPOcausPATF
+C0337196,C0700148,CAUSES,Collision,Congestion,inpo,patf,1,CAUSES_INPOcausPATF
+C0337196,C3714514,CAUSES,Collision,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0340652,C2936381,CAUSES,Arterial Injury,Neointima Formation,inpo,patf,1,CAUSES_INPOcausPATF
+C0340779,C0019080,CAUSES,Venous laceration,Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0347625,C0034088,CAUSES,Contusion of lung,Pulmonary Valve Insufficiency,inpo,patf,1,CAUSES_INPOcausPATF
+C0347625,C0035229,CAUSES,Contusion of lung,Respiratory Insufficiency,inpo,patf,1,CAUSES_INPOcausPATF
+C0406226,C0029163,CAUSES,Traumatic skin ulcer,Oral Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0410256,C0026846,CAUSES,muscle injury,Muscular Atrophy,inpo,patf,2,CAUSES_INPOcausPATF
+C0413080,C0019080,CAUSES,Anticoagulant rodenticide toxicity,Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0413399,C2717779,CAUSES,Blow -accident,Commotio Cordis,inpo,patf,1,CAUSES_INPOcausPATF
+C0417725,C3714514,CAUSES,Monkey bite,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0441713,C0021368,CAUSES,Chemical injury,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0441713,C0027686,CAUSES,Chemical injury,Pathologic Neovascularization,inpo,patf,1,CAUSES_INPOcausPATF
+C0441718,C0011304,CAUSES,Direct trauma,Demyelination,inpo,patf,2,CAUSES_INPOcausPATF
+C0441718,C0013604,CAUSES,Direct trauma,Edema,inpo,patf,1,CAUSES_INPOcausPATF
+C0441718,C0020517,CAUSES,Direct trauma,Hypersensitivity,inpo,patf,1,CAUSES_INPOcausPATF
+C0441718,C0040053,CAUSES,Direct trauma,Thrombosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0441718,C0151763,CAUSES,Direct trauma,Liver damage,inpo,patf,1,CAUSES_INPOcausPATF
+C0441718,C0161816,CAUSES,Direct trauma,Cardiac complication,inpo,patf,2,CAUSES_INPOcausPATF
+C0441718,C0243069,CAUSES,Direct trauma,Hypoplasia,inpo,patf,1,CAUSES_INPOcausPATF
+C0441718,C0333563,CAUSES,Direct trauma,Hyaline membrane,inpo,patf,1,CAUSES_INPOcausPATF
+C0441718,C0700148,CAUSES,Direct trauma,Congestion,inpo,patf,1,CAUSES_INPOcausPATF
+C0441718,C1155266,CAUSES,Direct trauma,Inflammatory Response,inpo,patf,1,CAUSES_INPOcausPATF
+C0441718,C3550269,CAUSES,Direct trauma,Reactive gliosis,inpo,patf,2,CAUSES_INPOcausPATF
+C0524800,C0021368,CAUSES,Inhalation Exposure,Inflammation,inpo,patf,2,CAUSES_INPOcausPATF
+C0524800,C0334094,CAUSES,Inhalation Exposure,Proliferation (morphologic abnormality),inpo,patf,1,CAUSES_INPOcausPATF
+C0544691,C1140716,CAUSES,Hanging,Hypoxic Brain Damage,inpo,patf,1,CAUSES_INPOcausPATF
+C0555307,C3714514,CAUSES,Injury of large intestine,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0560617,C0020510,CAUSES,knocked out,Nodular hyperplasia,inpo,patf,1,CAUSES_INPOcausPATF
+C0560617,C0020517,CAUSES,knocked out,Hypersensitivity,inpo,patf,1,CAUSES_INPOcausPATF
+C0560617,C0035304,CAUSES,knocked out,Retinal Degeneration,inpo,patf,1,CAUSES_INPOcausPATF
+C0560632,C0019080,CAUSES,Lower back injury,Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0560637,C0021368,CAUSES,Genital injury,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0561224,C0020517,CAUSES,Fly bite,Hypersensitivity,inpo,patf,1,CAUSES_INPOcausPATF
+C0561546,C0007642,CAUSES,Bite wound,Cellulitis,inpo,patf,1,CAUSES_INPOcausPATF
+C0561546,C0021368,CAUSES,Bite wound,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0561855,C0019080,CAUSES,Abdominal cavity injury,Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0572025,C0151763,CAUSES,Acetaminophen overdose,Liver damage,inpo,patf,1,CAUSES_INPOcausPATF
+C0595916,C0342579,CAUSES,Toxic nephropathy,Electrolyte imbalance,inpo,patf,1,CAUSES_INPOcausPATF
+C0596763,C1373218,CAUSES,Immunotoxicity,Decreased Immunologic Activity [PE],inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0011304,CAUSES,Toxic effect,Demyelination,inpo,patf,2,CAUSES_INPOcausPATF
+C0600688,C0013604,CAUSES,Toxic effect,Edema,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0015376,CAUSES,Toxic effect,Extravasation,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0015927,CAUSES,Toxic effect,Fetal Death,inpo,patf,2,CAUSES_INPOcausPATF
+C0600688,C0019080,CAUSES,Toxic effect,Hemorrhage,inpo,patf,2,CAUSES_INPOcausPATF
+C0600688,C0020517,CAUSES,Toxic effect,Hypersensitivity,inpo,patf,2,CAUSES_INPOcausPATF
+C0600688,C0021368,CAUSES,Toxic effect,Inflammation,inpo,patf,2,CAUSES_INPOcausPATF
+C0600688,C0021376,CAUSES,Toxic effect,Chronic inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0026766,CAUSES,Toxic effect,Multiple Organ Failure,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0036974,CAUSES,Toxic effect,Shock,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0036980,CAUSES,Toxic effect,"Shock, Cardiogenic",inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0041582,CAUSES,Toxic effect,Ulcer,inpo,patf,3,CAUSES_INPOcausPATF
+C0600688,C0041755,CAUSES,Toxic effect,Adverse reaction to drug,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0151763,CAUSES,Toxic effect,Liver damage,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0220981,CAUSES,Toxic effect,Metabolic acidosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0235957,CAUSES,Toxic effect,myonecrosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0333355,CAUSES,Toxic effect,Inflammatory disease of mucous membrane,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0333442,CAUSES,Toxic effect,Hydropic degeneration,inpo,patf,2,CAUSES_INPOcausPATF
+C0600688,C0333501,CAUSES,Toxic effect,Acute necrosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0333641,CAUSES,Toxic effect,Atrophic,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0342579,CAUSES,Toxic effect,Electrolyte imbalance,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C0541782,CAUSES,Toxic effect,Atrial standstill,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C1155266,CAUSES,Toxic effect,Inflammatory Response,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C1265872,CAUSES,Toxic effect,Centrilobular zone necrosis,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C1373218,CAUSES,Toxic effect,Decreased Immunologic Activity [PE],inpo,patf,2,CAUSES_INPOcausPATF
+C0600688,C2717957,CAUSES,Toxic effect,Vasoplegia,inpo,patf,1,CAUSES_INPOcausPATF
+C0600688,C3714514,CAUSES,Toxic effect,Infection,inpo,patf,5,CAUSES_INPOcausPATF
+C0745334,C0013604,CAUSES,Inhalation injury,Edema,inpo,patf,1,CAUSES_INPOcausPATF
+C0745334,C0021368,CAUSES,Inhalation injury,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0745334,C1155266,CAUSES,Inhalation injury,Inflammatory Response,inpo,patf,1,CAUSES_INPOcausPATF
+C0746730,C0011071,CAUSES,myocardial injury,Sudden death,inpo,patf,1,CAUSES_INPOcausPATF
+C0746730,C0021368,CAUSES,myocardial injury,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C0746730,C0036980,CAUSES,myocardial injury,"Shock, Cardiogenic",inpo,patf,1,CAUSES_INPOcausPATF
+C0746730,C0161816,CAUSES,myocardial injury,Cardiac complication,inpo,patf,1,CAUSES_INPOcausPATF
+C0746730,C0520863,CAUSES,myocardial injury,Diastolic dysfunction,inpo,patf,1,CAUSES_INPOcausPATF
+C0750971,C0006114,CAUSES,Cerebral Contusion,Cerebral Edema,inpo,patf,1,CAUSES_INPOcausPATF
+C0751792,C0151699,CAUSES,"Trauma, Nervous System",Intracranial Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0751792,C1155266,CAUSES,"Trauma, Nervous System",Inflammatory Response,inpo,patf,1,CAUSES_INPOcausPATF
+C0848377,C0020564,CAUSES,trauma to the abdomen,Hypertrophy,inpo,patf,1,CAUSES_INPOcausPATF
+C0848377,C1390214,CAUSES,trauma to the abdomen,Internal hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C0852885,C0259768,CAUSES,bucking,Wound dehiscence,inpo,patf,1,CAUSES_INPOcausPATF
+C0853846,C0919924,CAUSES,Intentional poisoning,pulmonary toxicity,inpo,patf,1,CAUSES_INPOcausPATF
+C0854391,C0002940,CAUSES,Aortic Injury,Aneurysm,inpo,patf,1,CAUSES_INPOcausPATF
+C0870679,C3714514,CAUSES,iatrogenic effects,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C0876926,C0442856,CAUSES,Traumatic Brain Injury,Hypoperfusion,inpo,patf,1,CAUSES_INPOcausPATF
+C0876994,C0011071,CAUSES,Cardiotoxicity,Sudden death,inpo,patf,1,CAUSES_INPOcausPATF
+C0876994,C0036974,CAUSES,Cardiotoxicity,Shock,inpo,patf,1,CAUSES_INPOcausPATF
+C0876994,C0161816,CAUSES,Cardiotoxicity,Cardiac complication,inpo,patf,1,CAUSES_INPOcausPATF
+C1096559,C0020564,CAUSES,Post biopsy Haemorrhage,Hypertrophy,inpo,patf,1,CAUSES_INPOcausPATF
+C1264238,C1155266,CAUSES,Injury of central nervous system,Inflammatory Response,inpo,patf,1,CAUSES_INPOcausPATF
+C1301659,C0013604,CAUSES,Airway trauma,Edema,inpo,patf,1,CAUSES_INPOcausPATF
+C1301659,C0018944,CAUSES,Airway trauma,Hematoma,inpo,patf,1,CAUSES_INPOcausPATF
+C1301659,C0021368,CAUSES,Airway trauma,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C1301659,C0854375,CAUSES,Airway trauma,mucosal hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C1302752,C0021368,CAUSES,Abrasion,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C1302752,C0043241,CAUSES,Abrasion,Wound Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C1368081,C0021368,CAUSES,Physical trauma,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C1828252,C0013604,CAUSES,Blunt injury of thorax,Edema,inpo,patf,1,CAUSES_INPOcausPATF
+C1828252,C0019080,CAUSES,Blunt injury of thorax,Hemorrhage,inpo,patf,1,CAUSES_INPOcausPATF
+C1828252,C0019123,CAUSES,Blunt injury of thorax,Hemothorax,inpo,patf,1,CAUSES_INPOcausPATF
+C2350350,C0021376,CAUSES,Ventilator-Induced Lung Injury,Chronic inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C2350350,C1155266,CAUSES,Ventilator-Induced Lung Injury,Inflammatory Response,inpo,patf,1,CAUSES_INPOcausPATF
+C2362502,C0004144,CAUSES,Safety Issues,Atelectasis,inpo,patf,1,CAUSES_INPOcausPATF
+C2362502,C1527304,CAUSES,Safety Issues,Allergic Reaction,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0004144,CAUSES,Storm NOS,Atelectasis,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0011071,CAUSES,Storm NOS,Sudden death,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0013604,CAUSES,Storm NOS,Edema,inpo,patf,5,CAUSES_INPOcausPATF
+C2905612,C0015376,CAUSES,Storm NOS,Extravasation,inpo,patf,7,CAUSES_INPOcausPATF
+C2905612,C0019080,CAUSES,Storm NOS,Hemorrhage,inpo,patf,5,CAUSES_INPOcausPATF
+C2905612,C0021368,CAUSES,Storm NOS,Inflammation,inpo,patf,33,CAUSES_INPOcausPATF
+C2905612,C0021389,CAUSES,Storm NOS,Serous inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0022116,CAUSES,Storm NOS,Ischemia,inpo,patf,2,CAUSES_INPOcausPATF
+C2905612,C0026766,CAUSES,Storm NOS,Multiple Organ Failure,inpo,patf,68,CAUSES_INPOcausPATF
+C2905612,C0030660,CAUSES,Storm NOS,Pathologic Processes,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0034063,CAUSES,Storm NOS,Pulmonary Edema,inpo,patf,4,CAUSES_INPOcausPATF
+C2905612,C0035229,CAUSES,Storm NOS,Respiratory Insufficiency,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0035410,CAUSES,Storm NOS,Rhabdomyolysis,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0036974,CAUSES,Storm NOS,Shock,inpo,patf,11,CAUSES_INPOcausPATF
+C2905612,C0036983,CAUSES,Storm NOS,Septic Shock,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0040053,CAUSES,Storm NOS,Thrombosis,inpo,patf,4,CAUSES_INPOcausPATF
+C2905612,C0042487,CAUSES,Storm NOS,Venous Thrombosis,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0087086,CAUSES,Storm NOS,Thrombus,inpo,patf,2,CAUSES_INPOcausPATF
+C2905612,C0161816,CAUSES,Storm NOS,Cardiac complication,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0161818,CAUSES,Storm NOS,Respiratory complication,inpo,patf,3,CAUSES_INPOcausPATF
+C2905612,C0235029,CAUSES,Storm NOS,neurological complication,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0242184,CAUSES,Storm NOS,Hypoxia,inpo,patf,2,CAUSES_INPOcausPATF
+C2905612,C0281169,CAUSES,Storm NOS,Pulmonary Complication,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0302158,CAUSES,Storm NOS,Leucocytic infiltrate,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0332448,CAUSES,Storm NOS,Infiltration,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0333138,CAUSES,Storm NOS,Stasis,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0333501,CAUSES,Storm NOS,Acute necrosis,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0340515,CAUSES,Storm NOS,Myocardial dysfunction,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0341950,CAUSES,Storm NOS,Severe pre-eclampsia,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0679223,CAUSES,Storm NOS,functional failure,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C0679429,CAUSES,Storm NOS,platelet dysfunction,inpo,patf,2,CAUSES_INPOcausPATF
+C2905612,C0865752,CAUSES,Storm NOS,postoperative hypotension,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C1155266,CAUSES,Storm NOS,Inflammatory Response,inpo,patf,8,CAUSES_INPOcausPATF
+C2905612,C1817978,CAUSES,Storm NOS,acute inflammatory response,inpo,patf,1,CAUSES_INPOcausPATF
+C2905612,C3714514,CAUSES,Storm NOS,Infection,inpo,patf,3,CAUSES_INPOcausPATF
+C2921946,C3714514,CAUSES,multiple Strains,Infection,inpo,patf,2,CAUSES_INPOcausPATF
+C3203359,C0011071,CAUSES,Rupture,Sudden death,inpo,patf,4,CAUSES_INPOcausPATF
+C3203359,C0013922,CAUSES,Rupture,Embolism,inpo,patf,1,CAUSES_INPOcausPATF
+C3203359,C0015376,CAUSES,Rupture,Extravasation,inpo,patf,2,CAUSES_INPOcausPATF
+C3203359,C0017181,CAUSES,Rupture,Gastrointestinal Hemorrhage,inpo,patf,2,CAUSES_INPOcausPATF
+C3203359,C0019065,CAUSES,Rupture,Hemoperitoneum,inpo,patf,1,CAUSES_INPOcausPATF
+C3203359,C0019080,CAUSES,Rupture,Hemorrhage,inpo,patf,6,CAUSES_INPOcausPATF
+C3203359,C0019123,CAUSES,Rupture,Hemothorax,inpo,patf,1,CAUSES_INPOcausPATF
+C3203359,C0021308,CAUSES,Rupture,Infarction,inpo,patf,2,CAUSES_INPOcausPATF
+C3203359,C0021870,CAUSES,Rupture,Intracerebral hematoma,inpo,patf,1,CAUSES_INPOcausPATF
+C3203359,C0022116,CAUSES,Rupture,Ischemia,inpo,patf,2,CAUSES_INPOcausPATF
+C3203359,C0022876,CAUSES,Rupture,Premature Obstetric Labor,inpo,patf,1,CAUSES_INPOcausPATF
+C3203359,C0024348,CAUSES,Rupture,Lysis,inpo,patf,3,CAUSES_INPOcausPATF
+C3203359,C0026266,CAUSES,Rupture,Mitral Valve Insufficiency,inpo,patf,2,CAUSES_INPOcausPATF
+C3203359,C0087086,CAUSES,Rupture,Thrombus,inpo,patf,2,CAUSES_INPOcausPATF
+C3203359,C0151526,CAUSES,Rupture,Premature Birth,inpo,patf,1,CAUSES_INPOcausPATF
+C3203359,C0151942,CAUSES,Rupture,Arterial thrombosis,inpo,patf,1,CAUSES_INPOcausPATF
+C3203359,C0333373,CAUSES,Rupture,Microabscess,inpo,patf,1,CAUSES_INPOcausPATF
+C3203359,C1155266,CAUSES,Rupture,Inflammatory Response,inpo,patf,1,CAUSES_INPOcausPATF
+C3203359,C1720824,CAUSES,Rupture,Sudden Cardiac Arrest,inpo,patf,1,CAUSES_INPOcausPATF
+C3203359,C3714514,CAUSES,Rupture,Infection,inpo,patf,1,CAUSES_INPOcausPATF
+C3263723,C0021368,CAUSES,Traumatic injury,Inflammation,inpo,patf,1,CAUSES_INPOcausPATF
+C3639957,C0018946,CAUSES,Intentional Trauma,"Hematoma, Subdural",inpo,patf,1,CAUSES_INPOcausPATF
+C4552279,C0016059,CAUSES,Tissue injury,Fibrosis,inpo,patf,1,CAUSES_INPOcausPATF
+C4552279,C0021368,CAUSES,Tissue injury,Inflammation,inpo,patf,4,CAUSES_INPOcausPATF
+C4552279,C0026766,CAUSES,Tissue injury,Multiple Organ Failure,inpo,patf,1,CAUSES_INPOcausPATF
+C4552279,C0030660,CAUSES,Tissue injury,Pathologic Processes,inpo,patf,2,CAUSES_INPOcausPATF
+C4552279,C1155266,CAUSES,Tissue injury,Inflammatory Response,inpo,patf,2,CAUSES_INPOcausPATF
+C4552279,C2717792,CAUSES,Tissue injury,Airway Remodeling,inpo,patf,1,CAUSES_INPOcausPATF
+C4552279,C3672482,CAUSES,Tissue injury,Soft tissue mineralization,inpo,patf,1,CAUSES_INPOcausPATF

@@ -1,0 +1,81 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002773,C2364135,PREVENTS,"Analgesics, Anti-Inflammatory",Discomfort,phsu,sosy,2,PREVENTS_PHSUprevSOSY
+C0003138,C2364135,PREVENTS,Antacids,Discomfort,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003205,C0030193,PREVENTS,"Anti-Infective Agents, Local",Pain,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003209,C0015967,PREVENTS,Anti-Inflammatory Agents,Fever,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003209,C0030193,PREVENTS,Anti-Inflammatory Agents,Pain,phsu,sosy,3,PREVENTS_PHSUprevSOSY
+C0003209,C0037090,PREVENTS,Anti-Inflammatory Agents,"Signs and Symptoms, Respiratory",phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003209,C0231918,PREVENTS,Anti-Inflammatory Agents,Nose symptoms,phsu,sosy,2,PREVENTS_PHSUprevSOSY
+C0003209,C0849791,PREVENTS,Anti-Inflammatory Agents,sinus drainage,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003211,C0010200,PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Coughing,phsu,sosy,3,PREVENTS_PHSUprevSOSY
+C0003211,C0015967,PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Fever,phsu,sosy,7,PREVENTS_PHSUprevSOSY
+C0003211,C0018681,PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Headache,phsu,sosy,2,PREVENTS_PHSUprevSOSY
+C0003211,C0030193,PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Pain,phsu,sosy,6,PREVENTS_PHSUprevSOSY
+C0003211,C0231218,PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Malaise,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003211,C0234233,PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Sore to touch,phsu,sosy,2,PREVENTS_PHSUprevSOSY
+C0003211,C0234238,PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Ache,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003211,C0242429,PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Sore Throat,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003211,C1260880,PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Rhinorrhea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003211,C2364135,PREVENTS,"Anti-Inflammatory Agents, Non-Steroidal",Discomfort,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003286,C0036572,PREVENTS,Anticonvulsants,Seizures,phsu,sosy,4,PREVENTS_PHSUprevSOSY
+C0003289,C3839861,PREVENTS,Antidepressive Agents,Medically Unexplained Symptoms,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003297,C0027497,PREVENTS,Antiemetics,Nausea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003297,C0042963,PREVENTS,Antiemetics,Vomiting,phsu,sosy,9,PREVENTS_PHSUprevSOSY
+C0003297,C0232602,PREVENTS,Antiemetics,Retching,phsu,sosy,3,PREVENTS_PHSUprevSOSY
+C0003402,C0948786,PREVENTS,Antioxidants,Blanching,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003419,C0015967,PREVENTS,Antipyretics,Fever,phsu,sosy,4,PREVENTS_PHSUprevSOSY
+C0003419,C2364135,PREVENTS,Antipyretics,Discomfort,phsu,sosy,2,PREVENTS_PHSUprevSOSY
+C0003449,C0010200,PREVENTS,Antitussive Agents,Coughing,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003451,C0010200,PREVENTS,Antiviral Agents,Coughing,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003451,C0015967,PREVENTS,Antiviral Agents,Fever,phsu,sosy,2,PREVENTS_PHSUprevSOSY
+C0003451,C0030193,PREVENTS,Antiviral Agents,Pain,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003451,C0476273,PREVENTS,Antiviral Agents,Respiratory distress,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0003451,C0853813,PREVENTS,Antiviral Agents,Local Reaction,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0006280,C0476273,PREVENTS,Bronchodilator Agents,Respiratory distress,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0020592,C0010200,PREVENTS,Hypnotics and Sedatives,Coughing,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0020592,C0085631,PREVENTS,Hypnotics and Sedatives,Agitation,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0020592,C1260880,PREVENTS,Hypnotics and Sedatives,Rhinorrhea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0032393,C1291077,PREVENTS,poloxalene,Abdominal bloating,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0036557,C0010200,PREVENTS,Sedatives,Coughing,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0036557,C0030193,PREVENTS,Sedatives,Pain,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0036753,C0042963,PREVENTS,Serotonin Antagonists,Vomiting,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0036753,C0520904,PREVENTS,Serotonin Antagonists,Postoperative Nausea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0040614,C0010200,PREVENTS,Tranquilizing Agents,Coughing,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0040615,C0009806,PREVENTS,Antipsychotic Agents,Constipation,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0040616,C0011991,PREVENTS,Anti-Anxiety Agents,Diarrhea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0040616,C0085631,PREVENTS,Anti-Anxiety Agents,Agitation,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0242889,C0087169,PREVENTS,Adrenergic Antagonists,Withdrawal Symptoms,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0242896,C0010200,PREVENTS,Anticholinergic Agents,Coughing,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0242896,C0013404,PREVENTS,Anticholinergic Agents,Dyspnea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0242896,C1260880,PREVENTS,Anticholinergic Agents,Rhinorrhea,phsu,sosy,2,PREVENTS_PHSUprevSOSY
+C0282374,C1260880,PREVENTS,Decongestants,Rhinorrhea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0302837,C0043144,PREVENTS,Vitamin supplementation,Wheezing,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0304462,C0011991,PREVENTS,Acidifiers,Diarrhea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0304604,C1260880,PREVENTS,Topical form corticosteroids,Rhinorrhea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0357797,C2364135,PREVENTS,oxymetazoline hydrochloride,Discomfort,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0358430,C0010200,PREVENTS,Muscle relaxants,Coughing,phsu,sosy,7,PREVENTS_PHSUprevSOSY
+C0456386,C0030193,PREVENTS,Medicament,Pain,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0546857,C1260880,PREVENTS,chlorpheniramine maleate,Rhinorrhea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0598695,C0235169,PREVENTS,NMDA receptor antagonist,Excitability,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0617623,C0030193,PREVENTS,Lidocaine / Prilocaine,Pain,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0939237,C0011991,PREVENTS,lopinavir / Ritonavir,Diarrhea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0939237,C2926602,PREVENTS,lopinavir / Ritonavir,"Discharge, body substance",phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0939806,C0600142,PREVENTS,Matricaria recutita extract,Hot flushes,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C0949854,C0392171,PREVENTS,Plant Preparations,Influenza-like symptoms,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C1134558,C0015967,PREVENTS,Chinese Herbs,Fever,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C1136254,C0011991,PREVENTS,Microbicides,Diarrhea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C1136254,C0015967,PREVENTS,Microbicides,Fever,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C1136254,C0349410,PREVENTS,Microbicides,Single organ dysfunction,phsu,sosy,2,PREVENTS_PHSUprevSOSY
+C1136312,C0037383,PREVENTS,"Histamine H1 Antagonists, Non-Sedating",Sneezing,phsu,sosy,2,PREVENTS_PHSUprevSOSY
+C1268865,C0042963,PREVENTS,Prokinetic Agent,Vomiting,phsu,sosy,2,PREVENTS_PHSUprevSOSY
+C1320235,C0750152,PREVENTS,Estrasorb,vasomotor symptom,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C1366262,C0011991,PREVENTS,Hyperimmune Colostrum,Diarrhea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C1874237,C0030193,PREVENTS,"ANALGESICS,TOPICAL",Pain,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C1874237,C2364135,PREVENTS,"ANALGESICS,TOPICAL",Discomfort,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C1874451,C0015672,PREVENTS,Basis,Fatigue,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C3539125,C0011991,PREVENTS,other medicated shampoos in ATC,Diarrhea,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C3539125,C0015672,PREVENTS,other medicated shampoos in ATC,Fatigue,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C3539125,C0030193,PREVENTS,other medicated shampoos in ATC,Pain,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C3539125,C0042963,PREVENTS,other medicated shampoos in ATC,Vomiting,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C4042398,C0426649,PREVENTS,"7,8-dimethoxy-9,10-dihydro-5H-naphtho(8,1,2-cde)chromene-2,6-diol",Bowel spasm,phsu,sosy,1,PREVENTS_PHSUprevSOSY
+C5231360,C0011991,PREVENTS,Anti-Diarrheal Agents,Diarrhea,phsu,sosy,1,PREVENTS_PHSUprevSOSY

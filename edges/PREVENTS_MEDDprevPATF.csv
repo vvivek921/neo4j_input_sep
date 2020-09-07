@@ -1,0 +1,181 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004726,C0043241,PREVENTS,Bandage,Wound Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0004726,C0151521,PREVENTS,Bandage,Bacterial resistance,medd,patf,1,PREVENTS_MEDDprevPATF
+C0005971,C0015376,PREVENTS,Bone plates,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0009346,C0034063,PREVENTS,Balloon pump,Pulmonary Edema,medd,patf,1,PREVENTS_MEDDprevPATF
+C0009653,C0019080,PREVENTS,"Condoms, Male",Hemorrhage,medd,patf,1,PREVENTS_MEDDprevPATF
+C0009653,C0021368,PREVENTS,"Condoms, Male",Inflammation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0009653,C0040053,PREVENTS,"Condoms, Male",Thrombosis,medd,patf,2,PREVENTS_MEDDprevPATF
+C0009653,C0162633,PREVENTS,"Condoms, Male",Viral Shedding,medd,patf,1,PREVENTS_MEDDprevPATF
+C0009653,C3714514,PREVENTS,"Condoms, Male",Infection,medd,patf,2,PREVENTS_MEDDprevPATF
+C0013119,C0043241,PREVENTS,Medical dressing,Wound Infection,medd,patf,2,PREVENTS_MEDDprevPATF
+C0013119,C0860239,PREVENTS,Medical dressing,Catheter related infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0013119,C3714514,PREVENTS,Medical dressing,Infection,medd,patf,3,PREVENTS_MEDDprevPATF
+C0013194,C0242781,PREVENTS,Drug Packaging,disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0016266,C0004144,PREVENTS,Flowmeters,Atelectasis,medd,patf,1,PREVENTS_MEDDprevPATF
+C0016533,C0232483,PREVENTS,Forceps,Reflux,medd,patf,1,PREVENTS_MEDDprevPATF
+C0017108,C3714514,PREVENTS,Gas Scavengers,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0021102,C0001511,PREVENTS,Implants,Tissue Adhesions,medd,patf,1,PREVENTS_MEDDprevPATF
+C0021102,C0161818,PREVENTS,Implants,Respiratory complication,medd,patf,1,PREVENTS_MEDDprevPATF
+C0024861,C0001511,PREVENTS,Masks,Tissue Adhesions,medd,patf,1,PREVENTS_MEDDprevPATF
+C0024861,C0015376,PREVENTS,Masks,Extravasation,medd,patf,9,PREVENTS_MEDDprevPATF
+C0024861,C0020517,PREVENTS,Masks,Hypersensitivity,medd,patf,1,PREVENTS_MEDDprevPATF
+C0024861,C0038941,PREVENTS,Masks,Surgical Wound Infection,medd,patf,2,PREVENTS_MEDDprevPATF
+C0024861,C0162633,PREVENTS,Masks,Viral Shedding,medd,patf,2,PREVENTS_MEDDprevPATF
+C0024861,C0242781,PREVENTS,Masks,disease transmission,medd,patf,8,PREVENTS_MEDDprevPATF
+C0024861,C0333257,PREVENTS,Masks,Air leakage,medd,patf,3,PREVENTS_MEDDprevPATF
+C0024861,C0854457,PREVENTS,Masks,Direct disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0024861,C1520005,PREVENTS,Masks,Viral Pathogenesis,medd,patf,1,PREVENTS_MEDDprevPATF
+C0024861,C3714514,PREVENTS,Masks,Infection,medd,patf,19,PREVENTS_MEDDprevPATF
+C0024861,C4287874,PREVENTS,Masks,Droplet transmission,medd,patf,13,PREVENTS_MEDDprevPATF
+C0024861,C4289744,PREVENTS,Masks,Contact Transmission,medd,patf,5,PREVENTS_MEDDprevPATF
+C0028791,C3714514,PREVENTS,Occlusive Dressings,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0035208,C3714514,PREVENTS,"Respirators, Air-Purifying",Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0038257,C1261287,PREVENTS,"Stent, device",Stenosis,medd,patf,1,PREVENTS_MEDDprevPATF
+C0038348,C0302148,PREVENTS,Compression Stockings,Blood Clot,medd,patf,1,PREVENTS_MEDDprevPATF
+C0038923,C4289744,PREVENTS,Surgical Equipment,Contact Transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0039142,C0020517,PREVENTS,Syringes,Hypersensitivity,medd,patf,1,PREVENTS_MEDDprevPATF
+C0039142,C0036974,PREVENTS,Syringes,Shock,medd,patf,1,PREVENTS_MEDDprevPATF
+C0039142,C0087086,PREVENTS,Syringes,Thrombus,medd,patf,1,PREVENTS_MEDDprevPATF
+C0040519,C0019080,PREVENTS,Tourniquets,Hemorrhage,medd,patf,1,PREVENTS_MEDDprevPATF
+C0041158,C0023183,PREVENTS,Trocar,"Leakage, gas",medd,patf,3,PREVENTS_MEDDprevPATF
+C0042497,C0015376,PREVENTS,Mechanical Ventilator,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0042497,C0020517,PREVENTS,Mechanical Ventilator,Hypersensitivity,medd,patf,1,PREVENTS_MEDDprevPATF
+C0042497,C0242781,PREVENTS,Mechanical Ventilator,disease transmission,medd,patf,3,PREVENTS_MEDDprevPATF
+C0042497,C0333257,PREVENTS,Mechanical Ventilator,Air leakage,medd,patf,1,PREVENTS_MEDDprevPATF
+C0042497,C3714514,PREVENTS,Mechanical Ventilator,Infection,medd,patf,10,PREVENTS_MEDDprevPATF
+C0042497,C4287874,PREVENTS,Mechanical Ventilator,Droplet transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0085104,C0011071,PREVENTS,Drug Delivery Systems,Sudden death,medd,patf,1,PREVENTS_MEDDprevPATF
+C0085104,C0015376,PREVENTS,Drug Delivery Systems,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0085104,C0019080,PREVENTS,Drug Delivery Systems,Hemorrhage,medd,patf,1,PREVENTS_MEDDprevPATF
+C0085104,C0038941,PREVENTS,Drug Delivery Systems,Surgical Wound Infection,medd,patf,2,PREVENTS_MEDDprevPATF
+C0085104,C0242781,PREVENTS,Drug Delivery Systems,disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0085104,C0600228,PREVENTS,Drug Delivery Systems,Cardiopulmonary Arrest,medd,patf,2,PREVENTS_MEDDprevPATF
+C0085104,C3714514,PREVENTS,Drug Delivery Systems,Infection,medd,patf,2,PREVENTS_MEDDprevPATF
+C0085104,C4505499,PREVENTS,Drug Delivery Systems,Transfusion-Transmitted Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0085590,C0001511,PREVENTS,catheter device,Tissue Adhesions,medd,patf,1,PREVENTS_MEDDprevPATF
+C0085590,C0087086,PREVENTS,catheter device,Thrombus,medd,patf,1,PREVENTS_MEDDprevPATF
+C0085590,C0860239,PREVENTS,catheter device,Catheter related infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0085590,C3714514,PREVENTS,catheter device,Infection,medd,patf,3,PREVENTS_MEDDprevPATF
+C0085678,C0034065,PREVENTS,Nasogastric tube,Pulmonary Embolism,medd,patf,1,PREVENTS_MEDDprevPATF
+C0150683,C0015376,PREVENTS,"Artificial Airways, Nasopharyngeal",Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0162589,C0011071,PREVENTS,Implantable defibrillator,Sudden death,medd,patf,6,PREVENTS_MEDDprevPATF
+C0162589,C0036974,PREVENTS,Implantable defibrillator,Shock,medd,patf,1,PREVENTS_MEDDprevPATF
+C0175648,C0011304,PREVENTS,Mats,Demyelination,medd,patf,1,PREVENTS_MEDDprevPATF
+C0175648,C0015376,PREVENTS,Mats,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0175648,C0302158,PREVENTS,Mats,Leucocytic infiltrate,medd,patf,1,PREVENTS_MEDDprevPATF
+C0175648,C0332448,PREVENTS,Mats,Infiltration,medd,patf,1,PREVENTS_MEDDprevPATF
+C0175648,C1373218,PREVENTS,Mats,Decreased Immunologic Activity [PE],medd,patf,1,PREVENTS_MEDDprevPATF
+C0175723,C0004372,PREVENTS,Bands,Autolysis,medd,patf,1,PREVENTS_MEDDprevPATF
+C0175730,C0521481,PREVENTS,biomedical tube device,Mucous membrane edema,medd,patf,1,PREVENTS_MEDDprevPATF
+C0178987,C0021368,PREVENTS,Artificial Airways,Inflammation,medd,patf,2,PREVENTS_MEDDprevPATF
+C0178987,C0036974,PREVENTS,Artificial Airways,Shock,medd,patf,1,PREVENTS_MEDDprevPATF
+C0178987,C0235395,PREVENTS,Artificial Airways,Fluid loss,medd,patf,1,PREVENTS_MEDDprevPATF
+C0178987,C0700198,PREVENTS,Artificial Airways,Pulmonary aspiration,medd,patf,1,PREVENTS_MEDDprevPATF
+C0179321,C0028778,PREVENTS,Bite block,Obstruction,medd,patf,1,PREVENTS_MEDDprevPATF
+C0179574,C4287874,PREVENTS,Nasal Cannula,Droplet transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0179768,C0019080,PREVENTS,Peripheral intravenous catheter,Hemorrhage,medd,patf,1,PREVENTS_MEDDprevPATF
+C0179802,C0001511,PREVENTS,Urinary catheter,Tissue Adhesions,medd,patf,1,PREVENTS_MEDDprevPATF
+C0179802,C0012359,PREVENTS,Urinary catheter,Pathological Dilatation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0179802,C0860239,PREVENTS,Urinary catheter,Catheter related infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0180212,C0015376,PREVENTS,Endotracheal tube cuff,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0180212,C0700198,PREVENTS,Endotracheal tube cuff,Pulmonary aspiration,medd,patf,1,PREVENTS_MEDDprevPATF
+C0180236,C0013604,PREVENTS,Curette,Edema,medd,patf,1,PREVENTS_MEDDprevPATF
+C0180431,C0020542,PREVENTS,Dilator,Pulmonary Hypertension,medd,patf,1,PREVENTS_MEDDprevPATF
+C0180504,C0015376,PREVENTS,Drapes (device),Extravasation,medd,patf,2,PREVENTS_MEDDprevPATF
+C0180504,C0242781,PREVENTS,Drapes (device),disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0181064,C0015376,PREVENTS,Gown,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0181064,C0020517,PREVENTS,Gown,Hypersensitivity,medd,patf,1,PREVENTS_MEDDprevPATF
+C0181064,C0242781,PREVENTS,Gown,disease transmission,medd,patf,2,PREVENTS_MEDDprevPATF
+C0181064,C3714514,PREVENTS,Gown,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0181687,C0021368,PREVENTS,loops,Inflammation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0181758,C0043241,PREVENTS,Surgical face mask,Wound Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0181758,C0162633,PREVENTS,Surgical face mask,Viral Shedding,medd,patf,3,PREVENTS_MEDDprevPATF
+C0181758,C0242781,PREVENTS,Surgical face mask,disease transmission,medd,patf,9,PREVENTS_MEDDprevPATF
+C0181758,C0333257,PREVENTS,Surgical face mask,Air leakage,medd,patf,3,PREVENTS_MEDDprevPATF
+C0181758,C3714514,PREVENTS,Surgical face mask,Infection,medd,patf,4,PREVENTS_MEDDprevPATF
+C0181758,C4287874,PREVENTS,Surgical face mask,Droplet transmission,medd,patf,12,PREVENTS_MEDDprevPATF
+C0181982,C0028778,PREVENTS,Spinal needle,Obstruction,medd,patf,1,PREVENTS_MEDDprevPATF
+C0182158,C0015376,PREVENTS,Pads,Extravasation,medd,patf,2,PREVENTS_MEDDprevPATF
+C0182158,C0036974,PREVENTS,Pads,Shock,medd,patf,1,PREVENTS_MEDDprevPATF
+C0182400,C0020517,PREVENTS,Probes,Hypersensitivity,medd,patf,1,PREVENTS_MEDDprevPATF
+C0183086,C3714514,PREVENTS,sanitizers,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0183210,C0020517,PREVENTS,sensor (device),Hypersensitivity,medd,patf,1,PREVENTS_MEDDprevPATF
+C0183255,C0242781,PREVENTS,Face shield (physical object),disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0183255,C3714514,PREVENTS,Face shield (physical object),Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0183336,C0020517,PREVENTS,Sleeve,Hypersensitivity,medd,patf,1,PREVENTS_MEDDprevPATF
+C0183355,C4287874,PREVENTS,Slit lamp biomicroscope (physical object),Droplet transmission,medd,patf,2,PREVENTS_MEDDprevPATF
+C0183391,C0015376,PREVENTS,Specimen container,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0183479,C3714514,PREVENTS,Spreader,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0184159,C0015376,PREVENTS,Tracheostomy tube,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0184159,C0151799,PREVENTS,Tracheostomy tube,Skin necrosis,medd,patf,1,PREVENTS_MEDDprevPATF
+C0184159,C0333257,PREVENTS,Tracheostomy tube,Air leakage,medd,patf,1,PREVENTS_MEDDprevPATF
+C0184165,C0018944,PREVENTS,Tubing,Hematoma,medd,patf,1,PREVENTS_MEDDprevPATF
+C0184165,C0262627,PREVENTS,Tubing,Seroma,medd,patf,1,PREVENTS_MEDDprevPATF
+C0184187,C0242781,PREVENTS,Tweezer,disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0184252,C0015376,PREVENTS,Medical Valves,Extravasation,medd,patf,2,PREVENTS_MEDDprevPATF
+C0184252,C0232483,PREVENTS,Medical Valves,Reflux,medd,patf,1,PREVENTS_MEDDprevPATF
+C0336630,C0015376,PREVENTS,Endotracheal tube,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0336630,C0242184,PREVENTS,Endotracheal tube,Hypoxia,medd,patf,1,PREVENTS_MEDDprevPATF
+C0336630,C0333257,PREVENTS,Endotracheal tube,Air leakage,medd,patf,2,PREVENTS_MEDDprevPATF
+C0336630,C3203358,PREVENTS,Endotracheal tube,Hypoventilation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0392251,C0019080,PREVENTS,Carbon Dioxide Lasers,Hemorrhage,medd,patf,1,PREVENTS_MEDDprevPATF
+C0441134,C3714514,PREVENTS,Vascular Catheters,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0441186,C0015376,PREVENTS,Fine needle,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0441290,C0333106,PREVENTS,Metal stent,Bleeding varices,medd,patf,1,PREVENTS_MEDDprevPATF
+C0456378,C3714514,PREVENTS,Type of bridge device,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0457169,C0242781,PREVENTS,Respiratory equipment,disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0521197,C0333138,PREVENTS,Indwelling urinary catheter,Stasis,medd,patf,1,PREVENTS_MEDDprevPATF
+C0522644,C0019080,PREVENTS,Embolization coil,Hemorrhage,medd,patf,1,PREVENTS_MEDDprevPATF
+C0590323,C0015376,PREVENTS,Gauzes,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C0590323,C0333257,PREVENTS,Gauzes,Air leakage,medd,patf,1,PREVENTS_MEDDprevPATF
+C0590323,C3714514,PREVENTS,Gauzes,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0687568,C0333186,PREVENTS,Coronary artery stent,Restenosis,medd,patf,1,PREVENTS_MEDDprevPATF
+C0726194,C3714514,PREVENTS,Stool Collection,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0728990,C3714514,PREVENTS,Clinical Use Template,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0740043,C0242781,PREVENTS,medical supplies,disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0750164,C0920165,PREVENTS,venous access,Vascular Access Complication,medd,patf,1,PREVENTS_MEDDprevPATF
+C0772494,C0242781,PREVENTS,STERILE FIELD,disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C0772494,C3714514,PREVENTS,STERILE FIELD,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C0993596,C4287874,PREVENTS,Metered Dose Inhaler,Droplet transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C1140607,C0242781,PREVENTS,Commodes,disease transmission,medd,patf,2,PREVENTS_MEDDprevPATF
+C1145640,C2886794,PREVENTS,"Central venous catheter, device",Catheter related bloodstream infection,medd,patf,3,PREVENTS_MEDDprevPATF
+C1145640,C4534318,PREVENTS,"Central venous catheter, device",Catheter-related blood stream infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C1261188,C0162633,PREVENTS,Swab,Viral Shedding,medd,patf,1,PREVENTS_MEDDprevPATF
+C1261188,C0242648,PREVENTS,Swab,Vertical Disease Transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C1272600,C0267716,PREVENTS,Trocar - 10 mm,Incisional hernia,medd,patf,1,PREVENTS_MEDDprevPATF
+C1273294,C3714514,PREVENTS,Silver catheter,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C1301953,C3714514,PREVENTS,Antibiotic-coated catheter,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C1314650,C0036429,PREVENTS,"SUPPLY, NOT OTHERWISE SPECIFIED",Sclerosis,medd,patf,1,PREVENTS_MEDDprevPATF
+C1314650,C0036974,PREVENTS,"SUPPLY, NOT OTHERWISE SPECIFIED",Shock,medd,patf,1,PREVENTS_MEDDprevPATF
+C1314650,C0041582,PREVENTS,"SUPPLY, NOT OTHERWISE SPECIFIED",Ulcer,medd,patf,1,PREVENTS_MEDDprevPATF
+C1322815,C3272317,PREVENTS,Drug-Eluting Stents,In Stent Restenosis,medd,patf,1,PREVENTS_MEDDprevPATF
+C1328924,C0020517,PREVENTS,magnetic beads,Hypersensitivity,medd,patf,1,PREVENTS_MEDDprevPATF
+C1553649,C0035228,PREVENTS,Mandibular left third molar abutment,Respiratory Hypersensitivity,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C0001511,PREVENTS,BARRIER,Tissue Adhesions,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C0012359,PREVENTS,BARRIER,Pathological Dilatation,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C0015376,PREVENTS,BARRIER,Extravasation,medd,patf,6,PREVENTS_MEDDprevPATF
+C1706912,C0021368,PREVENTS,BARRIER,Inflammation,medd,patf,3,PREVENTS_MEDDprevPATF
+C1706912,C0034063,PREVENTS,BARRIER,Pulmonary Edema,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C0235395,PREVENTS,BARRIER,Fluid loss,medd,patf,2,PREVENTS_MEDDprevPATF
+C1706912,C0242781,PREVENTS,BARRIER,disease transmission,medd,patf,3,PREVENTS_MEDDprevPATF
+C1706912,C0302158,PREVENTS,BARRIER,Leucocytic infiltrate,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C0333257,PREVENTS,BARRIER,Air leakage,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C0854457,PREVENTS,BARRIER,Direct disease transmission,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C2717779,PREVENTS,BARRIER,Commotio Cordis,medd,patf,1,PREVENTS_MEDDprevPATF
+C1706912,C3714514,PREVENTS,BARRIER,Infection,medd,patf,4,PREVENTS_MEDDprevPATF
+C1706912,C4287874,PREVENTS,BARRIER,Droplet transmission,medd,patf,2,PREVENTS_MEDDprevPATF
+C1720852,C4551518,PREVENTS,Pneumatic Compression Stockings,Venous stasis,medd,patf,1,PREVENTS_MEDDprevPATF
+C2363670,C0700148,PREVENTS,developers,Congestion,medd,patf,1,PREVENTS_MEDDprevPATF
+C2363670,C3714514,PREVENTS,developers,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C2711254,C0036974,PREVENTS,Nasal mask,Shock,medd,patf,1,PREVENTS_MEDDprevPATF
+C2720748,C0015376,PREVENTS,Hoods,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C2825203,C0087086,PREVENTS,Mechanical Aortic Valve,Thrombus,medd,patf,1,PREVENTS_MEDDprevPATF
+C2945625,C0232483,PREVENTS,Feeding tube,Reflux,medd,patf,1,PREVENTS_MEDDprevPATF
+C3495449,C0004372,PREVENTS,Mobility aid,Autolysis,medd,patf,1,PREVENTS_MEDDprevPATF
+C3495449,C0020517,PREVENTS,Mobility aid,Hypersensitivity,medd,patf,1,PREVENTS_MEDDprevPATF
+C3495449,C3714514,PREVENTS,Mobility aid,Infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C3873867,C0860239,PREVENTS,Suction system,Catheter related infection,medd,patf,1,PREVENTS_MEDDprevPATF
+C3876322,C1520005,PREVENTS,Viral filter,Viral Pathogenesis,medd,patf,1,PREVENTS_MEDDprevPATF
+C3876323,C0015376,PREVENTS,Nosepiece,Extravasation,medd,patf,1,PREVENTS_MEDDprevPATF
+C3880365,C0004144,PREVENTS,Kinetic bed,Atelectasis,medd,patf,1,PREVENTS_MEDDprevPATF

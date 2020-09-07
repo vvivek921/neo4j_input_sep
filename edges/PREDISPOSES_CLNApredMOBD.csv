@@ -1,0 +1,34 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005516,C0005586,PREDISPOSES,Biological Markers,Bipolar Disorder,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0005516,C0036341,PREDISPOSES,Biological Markers,Schizophrenia,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0005516,C0870281,PREDISPOSES,Biological Markers,Chronic mental disorder,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0032930,C0003467,PREDISPOSES,Precipitating Factors,Anxiety,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0032930,C0011206,PREDISPOSES,Precipitating Factors,Delirium,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0032930,C0344315,PREDISPOSES,Precipitating Factors,Depressed mood,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0080078,C0011206,PREDISPOSES,"Range of Motion, Articular",Delirium,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0080078,C0233514,PREDISPOSES,"Range of Motion, Articular",Abnormal behavior,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0080078,C4721772,PREDISPOSES,"Range of Motion, Articular",Postoperative delirium,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0798503,C0004936,PREDISPOSES,Challenge:Type:Point in time:^Patient:Nominal,Mental disorders,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0798503,C0011206,PREDISPOSES,Challenge:Type:Point in time:^Patient:Nominal,Delirium,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0798503,C0497327,PREDISPOSES,Challenge:Type:Point in time:^Patient:Nominal,Dementia,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0798503,C0851265,PREDISPOSES,Challenge:Type:Point in time:^Patient:Nominal,Learning problems,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C0814305,C0038436,PREDISPOSES,psychological risk factors,Post-Traumatic Stress Disorder,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C1316572,C0003467,PREDISPOSES,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},Anxiety,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C1456627,C0242510,PREDISPOSES,Antimicrobial Resistance,Drug usage,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C1718267,C0004936,PREDISPOSES,Reduced social interaction,Mental disorders,clna,mobd,2,PREDISPOSES_CLNApredMOBD
+C2713234,C0004936,PREDISPOSES,Mood:-:Point in time:^Patient:-,Mental disorders,clna,mobd,2,PREDISPOSES_CLNApredMOBD
+C2713234,C0011581,PREDISPOSES,Mood:-:Point in time:^Patient:-,Depressive disorder,clna,mobd,2,PREDISPOSES_CLNApredMOBD
+C2713234,C0525045,PREDISPOSES,Mood:-:Point in time:^Patient:-,Mood Disorders,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C2713234,C1269683,PREDISPOSES,Mood:-:Point in time:^Patient:-,Major Depressive Disorder,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C2926606,C0003467,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Anxiety,clna,mobd,3,PREDISPOSES_CLNApredMOBD
+C2926606,C0003469,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Anxiety Disorders,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C2926606,C0009595,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Obsessive-Compulsive Personality,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C2926606,C0011206,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Delirium,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C2926606,C0011581,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Depressive disorder,clna,mobd,2,PREDISPOSES_CLNApredMOBD
+C2926606,C0233494,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Tension,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C2926606,C0233514,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Abnormal behavior,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C2926606,C0815107,PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Psychological Distress,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C3166387,C0438696,PREDISPOSES,Suicidality,Suicidal,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C3167821,C0086168,PREDISPOSES,Temperature.ambient:Temperature:Point in time:Room:Quantitative,Dissociation,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C5203606,C0011581,PREDISPOSES,Sleep duration:Time:Pt:^Patient:Qn,Depressive disorder,clna,mobd,1,PREDISPOSES_CLNApredMOBD
+C5203606,C0038436,PREDISPOSES,Sleep duration:Time:Pt:^Patient:Qn,Post-Traumatic Stress Disorder,clna,mobd,1,PREDISPOSES_CLNApredMOBD

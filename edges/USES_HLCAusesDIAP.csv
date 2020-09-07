@@ -1,0 +1,526 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001559,C0430561,USES,Inhalation Drug Administration,Skin prick test,hlca,diap,1,USES_HLCAusesDIAP
+C0001758,C0040405,USES,Aftercare,X-Ray Computed Tomography,hlca,diap,1,USES_HLCAusesDIAP
+C0009586,C0037981,USES,Comprehensive Health Care,Spirometry,hlca,diap,3,USES_HLCAusesDIAP
+C0009818,C0004286,USES,Consultation,Audiometry,hlca,diap,2,USES_HLCAusesDIAP
+C0009818,C0041618,USES,Consultation,Ultrasonography,hlca,diap,1,USES_HLCAusesDIAP
+C0009818,C0043299,USES,Consultation,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C0009818,C0086143,USES,Consultation,Diagnostic tests,hlca,diap,1,USES_HLCAusesDIAP
+C0009818,C0220908,USES,Consultation,Screening procedure,hlca,diap,3,USES_HLCAusesDIAP
+C0009818,C0282674,USES,Consultation,Remote Consultation,hlca,diap,1,USES_HLCAusesDIAP
+C0009818,C0282675,USES,Consultation,Teleconsultation,hlca,diap,1,USES_HLCAusesDIAP
+C0009818,C0522769,USES,Consultation,Diagnostic surgical procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0011929,C0043299,USES,Diagnostic Services,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C0013164,C0220908,USES,Drug Compounding,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0013961,C0282674,USES,Emergency medical service,Remote Consultation,hlca,diap,1,USES_HLCAusesDIAP
+C0013961,C3889661,USES,Emergency medical service,High-Resolution Microendoscopy,hlca,diap,1,USES_HLCAusesDIAP
+C0017313,C0086143,USES,patient care,Diagnostic tests,hlca,diap,1,USES_HLCAusesDIAP
+C0017313,C0282674,USES,patient care,Remote Consultation,hlca,diap,1,USES_HLCAusesDIAP
+C0017313,C0596350,USES,patient care,communicable disease diagnosis (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C0018747,C0220908,USES,Health Services,Screening procedure,hlca,diap,3,USES_HLCAusesDIAP
+C0018747,C1964257,USES,Health Services,Observation - diagnostic procedure,hlca,diap,3,USES_HLCAusesDIAP
+C0019993,C0202823,USES,Hospitalization,Chest CT,hlca,diap,1,USES_HLCAusesDIAP
+C0019993,C0220908,USES,Hospitalization,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0019993,C1547864,USES,Hospitalization,Specimen Collection Method,hlca,diap,1,USES_HLCAusesDIAP
+C0019993,C1623258,USES,Hospitalization,Electrocardiography,hlca,diap,1,USES_HLCAusesDIAP
+C0019993,C4042833,USES,Hospitalization,Surgical Clearance,hlca,diap,1,USES_HLCAusesDIAP
+C0019993,C4049798,USES,Hospitalization,Total Respiratory System Resistance,hlca,diap,1,USES_HLCAusesDIAP
+C0024870,C0039810,USES,Mass Screening,thermography,hlca,diap,2,USES_HLCAusesDIAP
+C0024870,C0043299,USES,Mass Screening,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C0024870,C0220908,USES,Mass Screening,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0027459,C0007089,USES,National Health Programs,Carcinogenicity Tests,hlca,diap,1,USES_HLCAusesDIAP
+C0027459,C0220908,USES,National Health Programs,Screening procedure,hlca,diap,3,USES_HLCAusesDIAP
+C0028900,C4725909,USES,Office Visits,Videostroboscopy,hlca,diap,1,USES_HLCAusesDIAP
+C0029210,C0006290,USES,Organ Procurement,Bronchoscopy,hlca,diap,1,USES_HLCAusesDIAP
+C0030673,C0220908,USES,Patient Admission,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0030685,C0004398,USES,Patient Discharge,Autopsy,hlca,diap,1,USES_HLCAusesDIAP
+C0030685,C0040399,USES,Patient Discharge,"Tomography, Emission-Computed, Single-Photon",hlca,diap,1,USES_HLCAusesDIAP
+C0030685,C0043299,USES,Patient Discharge,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C0030685,C0220908,USES,Patient Discharge,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0030685,C0376335,USES,Patient Discharge,fMRI,hlca,diap,1,USES_HLCAusesDIAP
+C0030695,C0013819,USES,Patient Monitoring,Electroencephalography,hlca,diap,1,USES_HLCAusesDIAP
+C0030695,C0014245,USES,Patient Monitoring,Endoscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C0030695,C0039451,USES,Patient Monitoring,Telemetry,hlca,diap,2,USES_HLCAusesDIAP
+C0030695,C0039985,USES,Patient Monitoring,Plain chest X-ray,hlca,diap,1,USES_HLCAusesDIAP
+C0030695,C0041618,USES,Patient Monitoring,Ultrasonography,hlca,diap,1,USES_HLCAusesDIAP
+C0030695,C0043299,USES,Patient Monitoring,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C0030695,C0206054,USES,Patient Monitoring,"Echocardiography, Transesophageal",hlca,diap,1,USES_HLCAusesDIAP
+C0030695,C0376335,USES,Patient Monitoring,fMRI,hlca,diap,1,USES_HLCAusesDIAP
+C0030695,C0376529,USES,Patient Monitoring,Capnography,hlca,diap,1,USES_HLCAusesDIAP
+C0030695,C0599519,USES,Patient Monitoring,remote sensing,hlca,diap,1,USES_HLCAusesDIAP
+C0030695,C4699984,USES,Patient Monitoring,Direct observation,hlca,diap,1,USES_HLCAusesDIAP
+C0030695,C4733451,USES,Patient Monitoring,electrical impedance tomography,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0004339,USES,Physical Examination,Auscultation,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0004398,USES,Physical Examination,Autopsy,hlca,diap,21,USES_HLCAusesDIAP
+C0031809,C0005558,USES,Physical Examination,Biopsy,hlca,diap,5,USES_HLCAusesDIAP
+C0031809,C0006290,USES,Physical Examination,Bronchoscopy,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0009378,USES,Physical Examination,colonoscopy,hlca,diap,2,USES_HLCAusesDIAP
+C0031809,C0011906,USES,Physical Examination,Differential Diagnosis,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0011923,USES,Physical Examination,Diagnostic Imaging,hlca,diap,7,USES_HLCAusesDIAP
+C0031809,C0013516,USES,Physical Examination,Echocardiography,hlca,diap,8,USES_HLCAusesDIAP
+C0031809,C0013526,USES,Physical Examination,Echoencephalography,hlca,diap,3,USES_HLCAusesDIAP
+C0031809,C0013798,USES,Physical Examination,Electrocardiogram,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0013819,USES,Physical Examination,Electroencephalography,hlca,diap,3,USES_HLCAusesDIAP
+C0031809,C0018071,USES,Physical Examination,Gonioscopy,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0021044,USES,Physical Examination,Immunohistochemistry,hlca,diap,7,USES_HLCAusesDIAP
+C0031809,C0024485,USES,Physical Examination,Magnetic Resonance Imaging,hlca,diap,44,USES_HLCAusesDIAP
+C0031809,C0024671,USES,Physical Examination,Mammography,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0027853,USES,Physical Examination,Neurologic Examination,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0031150,USES,Physical Examination,Laparoscopy,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0032743,USES,Physical Examination,Positron-Emission Tomography,hlca,diap,2,USES_HLCAusesDIAP
+C0031809,C0034606,USES,Physical Examination,Radionuclide Imaging,hlca,diap,3,USES_HLCAusesDIAP
+C0031809,C0037981,USES,Physical Examination,Spirometry,hlca,diap,2,USES_HLCAusesDIAP
+C0031809,C0039810,USES,Physical Examination,thermography,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0039985,USES,Physical Examination,Plain chest X-ray,hlca,diap,5,USES_HLCAusesDIAP
+C0031809,C0040395,USES,Physical Examination,tomography,hlca,diap,8,USES_HLCAusesDIAP
+C0031809,C0040398,USES,Physical Examination,"Tomography, Emission-Computed",hlca,diap,6,USES_HLCAusesDIAP
+C0031809,C0040405,USES,Physical Examination,X-Ray Computed Tomography,hlca,diap,5,USES_HLCAusesDIAP
+C0031809,C0041618,USES,Physical Examination,Ultrasonography,hlca,diap,5,USES_HLCAusesDIAP
+C0031809,C0043299,USES,Physical Examination,Diagnostic radiologic examination,hlca,diap,6,USES_HLCAusesDIAP
+C0031809,C0189024,USES,Physical Examination,Endoscopy of nose,hlca,diap,3,USES_HLCAusesDIAP
+C0031809,C0200152,USES,Physical Examination,Schirmer tear test procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0202691,USES,Physical Examination,CAT scan of head,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0202823,USES,Physical Examination,Chest CT,hlca,diap,71,USES_HLCAusesDIAP
+C0031809,C0206054,USES,Physical Examination,"Echocardiography, Transesophageal",hlca,diap,10,USES_HLCAusesDIAP
+C0031809,C0242845,USES,Physical Examination,"Ultrasonography, Doppler, Duplex",hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0373345,USES,Physical Examination,Transrectal Ultrasound,hlca,diap,2,USES_HLCAusesDIAP
+C0031809,C0396473,USES,Physical Examination,Bronchoscopic irrigation,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0412604,USES,Physical Examination,Computed Tomography (CT) of Neck,hlca,diap,2,USES_HLCAusesDIAP
+C0031809,C0412611,USES,Physical Examination,CT of lungs,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0412618,USES,Physical Examination,Computed tomography of heart,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0412650,USES,Physical Examination,Computed tomography of cervical spine,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0412712,USES,Physical Examination,Magnetic Resonance Imaging (MRI) of Hip,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0412714,USES,Physical Examination,Magnetic Resonance Imaging (MRI) of Knee,hlca,diap,4,USES_HLCAusesDIAP
+C0031809,C0419360,USES,Physical Examination,Slit lamp biomicroscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0430022,USES,Physical Examination,diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0430462,USES,Physical Examination,Transthoracic echocardiography,hlca,diap,3,USES_HLCAusesDIAP
+C0031809,C0430483,USES,Physical Examination,Continuous wave ultrasonic Doppler,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0430885,USES,Physical Examination,Keratometry,hlca,diap,4,USES_HLCAusesDIAP
+C0031809,C0455973,USES,Physical Examination,Retinoscopy,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0679575,USES,Physical Examination,Neuroimaging,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0807679,USES,Physical Examination,Radiology studies,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0856927,USES,Physical Examination,Head X-ray,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0883613,USES,Physical Examination,ultrasound chest,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C0920367,USES,Physical Examination,"Tomography, Optical Coherence",hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C1301988,USES,Physical Examination,Physical activity assessment,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C1306645,USES,Physical Examination,Plain x-ray,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C1319069,USES,Physical Examination,Point-of-Care Testing,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C1510486,USES,Physical Examination,Dual-Energy X-Ray Absorptiometry,hlca,diap,9,USES_HLCAusesDIAP
+C0031809,C1512457,USES,Physical Examination,High Resolution Computed Tomography,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C1518156,USES,Physical Examination,Magnetic Resonance Elastography,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C1531652,USES,Physical Examination,Chest imaging,hlca,diap,5,USES_HLCAusesDIAP
+C0031809,C1536105,USES,Physical Examination,Computed Tomography Angiography,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C1623258,USES,Physical Examination,Electrocardiography,hlca,diap,3,USES_HLCAusesDIAP
+C0031809,C1659593,USES,Physical Examination,Sialogram,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C1699633,USES,Physical Examination,PET/CT scan,hlca,diap,7,USES_HLCAusesDIAP
+C0031809,C1956110,USES,Physical Examination,Cone-Beam Computed Tomography,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C1964257,USES,Physical Examination,Observation - diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C2041160,USES,Physical Examination,bedside Transthoracic Echocardiography,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C2348813,USES,Physical Examination,Transabdominal Ultrasound,hlca,diap,2,USES_HLCAusesDIAP
+C0031809,C2985394,USES,Physical Examination,3 Tesla Magnetic Resonance Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C2986746,USES,Physical Examination,Emission scan,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C3179130,USES,Physical Examination,Multidetector Computed Tomography,hlca,diap,2,USES_HLCAusesDIAP
+C0031809,C3272310,USES,Physical Examination,Cardiac Computerized Tomographic Angiography,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C3842377,USES,Physical Examination,Chest radiograph,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C4028269,USES,Physical Examination,Nuclear magnetic resonance imaging brain,hlca,diap,2,USES_HLCAusesDIAP
+C0031809,C4072674,USES,Physical Examination,Pachymetry,hlca,diap,1,USES_HLCAusesDIAP
+C0031809,C4724956,USES,Physical Examination,Contrast-Enhanced Ultrasound,hlca,diap,16,USES_HLCAusesDIAP
+C0031809,C4733451,USES,Physical Examination,electrical impedance tomography,hlca,diap,3,USES_HLCAusesDIAP
+C0032678,C0220908,USES,Population Programs,Screening procedure,hlca,diap,2,USES_HLCAusesDIAP
+C0033052,C1319069,USES,Prenatal care,Point-of-Care Testing,hlca,diap,1,USES_HLCAusesDIAP
+C0033137,C0430022,USES,Primary Health Care,diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0034107,C0034606,USES,Pulse taking,Radionuclide Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C0034107,C0041618,USES,Pulse taking,Ultrasonography,hlca,diap,3,USES_HLCAusesDIAP
+C0034107,C1623258,USES,Pulse taking,Electrocardiography,hlca,diap,1,USES_HLCAusesDIAP
+C0034117,C0005558,USES,Puncture procedure,Biopsy,hlca,diap,1,USES_HLCAusesDIAP
+C0034117,C0024485,USES,Puncture procedure,Magnetic Resonance Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C0034117,C0041618,USES,Puncture procedure,Ultrasonography,hlca,diap,1,USES_HLCAusesDIAP
+C0034117,C0189485,USES,Puncture procedure,Biopsy of lung,hlca,diap,1,USES_HLCAusesDIAP
+C0034117,C0302357,USES,Puncture procedure,Test of Visual Evoked Responses in Children,hlca,diap,1,USES_HLCAusesDIAP
+C0034117,C1510483,USES,Puncture procedure,Fine needle aspiration biopsy,hlca,diap,2,USES_HLCAusesDIAP
+C0034927,C0014245,USES,Patient referral,Endoscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C0034927,C0027646,USES,Patient referral,Diagnostic Neoplasm Staging,hlca,diap,1,USES_HLCAusesDIAP
+C0034927,C0043299,USES,Patient referral,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C0034927,C0162650,USES,Patient referral,Intrauterine Cordocentesis,hlca,diap,1,USES_HLCAusesDIAP
+C0034927,C0220908,USES,Patient referral,Screening procedure,hlca,diap,2,USES_HLCAusesDIAP
+C0034927,C0679557,USES,Patient referral,histological diagnosis,hlca,diap,1,USES_HLCAusesDIAP
+C0035843,C0004398,USES,Rooming-in Care,Autopsy,hlca,diap,1,USES_HLCAusesDIAP
+C0037943,C0027853,USES,Spinal Puncture,Neurologic Examination,hlca,diap,1,USES_HLCAusesDIAP
+C0039343,C0014245,USES,Tattooing,Endoscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C0043113,C0220908,USES,Wellness Programs,Screening procedure,hlca,diap,3,USES_HLCAusesDIAP
+C0085557,C0004398,USES,Infectious disease prevention / control,Autopsy,hlca,diap,1,USES_HLCAusesDIAP
+C0085557,C0041618,USES,Infectious disease prevention / control,Ultrasonography,hlca,diap,1,USES_HLCAusesDIAP
+C0085557,C1513743,USES,Infectious disease prevention / control,Multimodal Imaging,hlca,diap,2,USES_HLCAusesDIAP
+C0085559,C0041618,USES,intensive care,Ultrasonography,hlca,diap,1,USES_HLCAusesDIAP
+C0085566,C0086143,USES,"Process Assessment, Health Care",Diagnostic tests,hlca,diap,1,USES_HLCAusesDIAP
+C0086930,C0085105,USES,Risk Assessment,Breast Self-Examination,hlca,diap,2,USES_HLCAusesDIAP
+C0150600,C0220908,USES,Advice,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0150600,C1134631,USES,Advice,Annual Screening,hlca,diap,1,USES_HLCAusesDIAP
+C0162648,C0200189,USES,Telemedicine,Fundus photography,hlca,diap,1,USES_HLCAusesDIAP
+C0162648,C0220908,USES,Telemedicine,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0162648,C0282674,USES,Telemedicine,Remote Consultation,hlca,diap,1,USES_HLCAusesDIAP
+C0162648,C0302488,USES,Telemedicine,Specialized medical examination (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C0162648,C0431080,USES,Telemedicine,Diagnostic assessment,hlca,diap,1,USES_HLCAusesDIAP
+C0184666,C0011930,USES,Hospital admission,"Diagnostic Tests, Routine",hlca,diap,1,USES_HLCAusesDIAP
+C0184666,C0220908,USES,Hospital admission,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0184666,C1964257,USES,Hospital admission,Observation - diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0184666,C4042877,USES,Hospital admission,Clinical Decision-Making,hlca,diap,1,USES_HLCAusesDIAP
+C0184666,C4049798,USES,Hospital admission,Total Respiratory System Resistance,hlca,diap,1,USES_HLCAusesDIAP
+C0184666,C4277740,USES,Hospital admission,Walk Test,hlca,diap,1,USES_HLCAusesDIAP
+C0199174,C0014245,USES,General treatment,Endoscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C0199175,C0220908,USES,Preventive service healthcare,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0200345,C0004398,USES,Specimen Collection,Autopsy,hlca,diap,1,USES_HLCAusesDIAP
+C0200345,C0006290,USES,Specimen Collection,Bronchoscopy,hlca,diap,4,USES_HLCAusesDIAP
+C0200345,C0014245,USES,Specimen Collection,Endoscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C0200345,C0190979,USES,Specimen Collection,Venous blood sampling,hlca,diap,1,USES_HLCAusesDIAP
+C0200345,C0220908,USES,Specimen Collection,Screening procedure,hlca,diap,2,USES_HLCAusesDIAP
+C0200345,C0396473,USES,Specimen Collection,Bronchoscopic irrigation,hlca,diap,1,USES_HLCAusesDIAP
+C0200345,C1548752,USES,Specimen Collection,"Transport Media,",hlca,diap,1,USES_HLCAusesDIAP
+C0200345,C1548757,USES,Specimen Collection,"Transport Media, Viral",hlca,diap,1,USES_HLCAusesDIAP
+C0200345,C1548759,USES,Specimen Collection,"Swab, Wooden Shaft",hlca,diap,1,USES_HLCAusesDIAP
+C0205908,C0750430,USES,Preoperative Procedure,Work-up,hlca,diap,1,USES_HLCAusesDIAP
+C0206082,C0040398,USES,Immunization Programs,"Tomography, Emission-Computed",hlca,diap,2,USES_HLCAusesDIAP
+C0206082,C0162734,USES,Immunization Programs,Echo-Planar Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0002978,USES,Evaluation,angiogram,hlca,diap,3,USES_HLCAusesDIAP
+C0220825,C0004286,USES,Evaluation,Audiometry,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C0004292,USES,Evaluation,"Audiometry, Pure-Tone",hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0004398,USES,Evaluation,Autopsy,hlca,diap,49,USES_HLCAusesDIAP
+C0220825,C0005558,USES,Evaluation,Biopsy,hlca,diap,5,USES_HLCAusesDIAP
+C0220825,C0005954,USES,Evaluation,Bone marrow biopsy,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C0006153,USES,Evaluation,Breath Tests,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0006290,USES,Evaluation,Bronchoscopy,hlca,diap,4,USES_HLCAusesDIAP
+C0220825,C0008310,USES,Evaluation,Endoscopic Retrograde Cholangiopancreatography,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0009378,USES,Evaluation,colonoscopy,hlca,diap,3,USES_HLCAusesDIAP
+C0220825,C0011906,USES,Evaluation,Differential Diagnosis,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C0013516,USES,Evaluation,Echocardiography,hlca,diap,43,USES_HLCAusesDIAP
+C0220825,C0013798,USES,Evaluation,Electrocardiogram,hlca,diap,3,USES_HLCAusesDIAP
+C0220825,C0013819,USES,Evaluation,Electroencephalography,hlca,diap,6,USES_HLCAusesDIAP
+C0220825,C0013839,USES,Evaluation,Electromyography,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C0014245,USES,Evaluation,Endoscopy (procedure),hlca,diap,52,USES_HLCAusesDIAP
+C0220825,C0015260,USES,Evaluation,Exercise stress test,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0016356,USES,Evaluation,Fluoroscopy,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C0017195,USES,Evaluation,Endoscopy of stomach,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0021044,USES,Evaluation,Immunohistochemistry,hlca,diap,8,USES_HLCAusesDIAP
+C0220825,C0023072,USES,Evaluation,Laryngoscopy,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C0024485,USES,Evaluation,Magnetic Resonance Imaging,hlca,diap,19,USES_HLCAusesDIAP
+C0220825,C0027853,USES,Evaluation,Neurologic Examination,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0029090,USES,Evaluation,Ophthalmoscopy,hlca,diap,3,USES_HLCAusesDIAP
+C0220825,C0031150,USES,Evaluation,Laparoscopy,hlca,diap,4,USES_HLCAusesDIAP
+C0220825,C0032743,USES,Evaluation,Positron-Emission Tomography,hlca,diap,4,USES_HLCAusesDIAP
+C0220825,C0033920,USES,Evaluation,Psychometrics,hlca,diap,19,USES_HLCAusesDIAP
+C0220825,C0034573,USES,Evaluation,"Radiography, Abdominal",hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0034606,USES,Evaluation,Radionuclide Imaging,hlca,diap,6,USES_HLCAusesDIAP
+C0220825,C0037981,USES,Evaluation,Spirometry,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C0039451,USES,Evaluation,Telemetry,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0039810,USES,Evaluation,thermography,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0039985,USES,Evaluation,Plain chest X-ray,hlca,diap,5,USES_HLCAusesDIAP
+C0220825,C0040395,USES,Evaluation,tomography,hlca,diap,6,USES_HLCAusesDIAP
+C0220825,C0040398,USES,Evaluation,"Tomography, Emission-Computed",hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0040404,USES,Evaluation,"Tomography, X-Ray",hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0040405,USES,Evaluation,X-Ray Computed Tomography,hlca,diap,10,USES_HLCAusesDIAP
+C0220825,C0041618,USES,Evaluation,Ultrasonography,hlca,diap,62,USES_HLCAusesDIAP
+C0220825,C0043299,USES,Evaluation,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0079595,USES,Evaluation,Imaging Techniques,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0086143,USES,Evaluation,Diagnostic tests,hlca,diap,5,USES_HLCAusesDIAP
+C0220825,C0162481,USES,Evaluation,Doppler Ultrasound (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0162734,USES,Evaluation,Echo-Planar Imaging,hlca,diap,3,USES_HLCAusesDIAP
+C0220825,C0177803,USES,Evaluation,Magnetic Resonance Imaging (MRI) of Spine,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0184921,USES,Evaluation,Excision biopsy,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0189024,USES,Evaluation,Endoscopy of nose,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0189391,USES,Evaluation,Fiberoptic bronchoscopy,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0191244,USES,Evaluation,Biopsy of pericardium,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0193504,USES,Evaluation,Endoscopic retrograde cholangiography,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C0199747,USES,Evaluation,Allergy testing,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0200152,USES,Evaluation,Schirmer tear test procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0200778,USES,Evaluation,"Necropsy (autopsy), gross examination only; without CNS",hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0202823,USES,Evaluation,Chest CT,hlca,diap,15,USES_HLCAusesDIAP
+C0220825,C0203108,USES,Evaluation,Intravenous pyelogram (procedure),hlca,diap,5,USES_HLCAusesDIAP
+C0220825,C0206054,USES,Evaluation,"Echocardiography, Transesophageal",hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C0206077,USES,Evaluation,"Ultrasonography, Doppler, Transcranial",hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0220908,USES,Evaluation,Screening procedure,hlca,diap,12,USES_HLCAusesDIAP
+C0220825,C0282674,USES,Evaluation,Remote Consultation,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0374190,USES,Evaluation,Anorectal manometry,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0376443,USES,Evaluation,Endoscopic Ultrasound,hlca,diap,3,USES_HLCAusesDIAP
+C0220825,C0396473,USES,Evaluation,Bronchoscopic irrigation,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C0412692,USES,Evaluation,Magnetic Resonance Imaging (MRI) of Heart,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0419360,USES,Evaluation,Slit lamp biomicroscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0430022,USES,Evaluation,diagnostic procedure,hlca,diap,5,USES_HLCAusesDIAP
+C0220825,C0430462,USES,Evaluation,Transthoracic echocardiography,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C0430797,USES,Evaluation,Electrocorticogram,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C0449900,USES,Evaluation,Contrast used,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0473915,USES,Evaluation,Radionuclide imaging of radioisotope labeled platelets,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0558820,USES,Evaluation,Gait Analysis,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0597356,USES,Evaluation,rapid diagnosis,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0679575,USES,Evaluation,Neuroimaging,hlca,diap,3,USES_HLCAusesDIAP
+C0220825,C0750430,USES,Evaluation,Work-up,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0872187,USES,Evaluation,High Throughput Screening,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0919611,USES,Evaluation,Posturography procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0948501,USES,Evaluation,Ultrasound examination,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0994163,USES,Evaluation,"Cholangiopancreatography, Magnetic Resonance",hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C1302229,USES,Evaluation,"Echography, M-mode",hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C1306645,USES,Evaluation,Plain x-ray,hlca,diap,5,USES_HLCAusesDIAP
+C0220825,C1319069,USES,Evaluation,Point-of-Care Testing,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C1510486,USES,Evaluation,Dual-Energy X-Ray Absorptiometry,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C1512457,USES,Evaluation,High Resolution Computed Tomography,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C1513743,USES,Evaluation,Multimodal Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C1531652,USES,Evaluation,Chest imaging,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C1537007,USES,Evaluation,Diffusion Tensor Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C1655737,USES,Evaluation,cardiac ultrasound,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C1660599,USES,Evaluation,videofluoroscopy,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C1699633,USES,Evaluation,PET/CT scan,hlca,diap,4,USES_HLCAusesDIAP
+C0220825,C1704746,USES,Evaluation,Bioelectric Impedance Analysis,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C1831737,USES,Evaluation,Infrared Thermography,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C1880308,USES,Evaluation,Thoracoscopy (& diagnostic),hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C1881134,USES,Evaluation,Image Study,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C1964257,USES,Evaluation,Observation - diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C2348813,USES,Evaluation,Transabdominal Ultrasound,hlca,diap,3,USES_HLCAusesDIAP
+C0220825,C2350281,USES,Evaluation,X-Ray Microtomography,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C2350394,USES,Evaluation,Perfusion Scintigraphy,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C3179130,USES,Evaluation,Multidetector Computed Tomography,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C3272310,USES,Evaluation,Cardiac Computerized Tomographic Angiography,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C3842377,USES,Evaluation,Chest radiograph,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C4028269,USES,Evaluation,Nuclear magnetic resonance imaging brain,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C4287652,USES,Evaluation,Perfusion-Weighted Magnetic Resonance Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C4521453,USES,Evaluation,FDG-Positron Emission Tomography and Computed Tomography Scan,hlca,diap,2,USES_HLCAusesDIAP
+C0220825,C4522043,USES,Evaluation,Liver Ultrasonographic Elastography,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C4528280,USES,Evaluation,New Target Lesion Identification,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C4699984,USES,Evaluation,Direct observation,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C4721829,USES,Evaluation,Radiographic Examination,hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C5203114,USES,Evaluation,Quantitative Computed Tomography,hlca,diap,1,USES_HLCAusesDIAP
+C0262500,C0203634,USES,Health maintenance,Nuclear medicine procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0282660,C0041618,USES,Bedside Technology,Ultrasonography,hlca,diap,1,USES_HLCAusesDIAP
+C0282664,C0041618,USES,Point-of-Care Systems,Ultrasonography,hlca,diap,1,USES_HLCAusesDIAP
+C0376306,C0043299,USES,Oral Examination,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C0376306,C0220908,USES,Oral Examination,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0376583,C0332140,USES,Clinical Laboratory Techniques,"Diagnosis, clinical",hlca,diap,1,USES_HLCAusesDIAP
+C0436120,C0004398,USES,"Physical examination, complete",Autopsy,hlca,diap,7,USES_HLCAusesDIAP
+C0441587,C0040399,USES,Clinical act of insertion,"Tomography, Emission-Computed, Single-Photon",hlca,diap,1,USES_HLCAusesDIAP
+C0441587,C0206054,USES,Clinical act of insertion,"Echocardiography, Transesophageal",hlca,diap,1,USES_HLCAusesDIAP
+C0441587,C0262485,USES,Clinical act of insertion,Flash,hlca,diap,1,USES_HLCAusesDIAP
+C0455202,C0027853,USES,Personal assessment,Neurologic Examination,hlca,diap,1,USES_HLCAusesDIAP
+C0545084,C0041618,USES,Outpatient visits,Ultrasonography,hlca,diap,1,USES_HLCAusesDIAP
+C0545084,C4049798,USES,Outpatient visits,Total Respiratory System Resistance,hlca,diap,3,USES_HLCAusesDIAP
+C0556657,C0043299,USES,Case conference,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C0557037,C0683457,USES,Assisting with procedure,State-trait anger expression inventory,hlca,diap,1,USES_HLCAusesDIAP
+C0557980,C0220908,USES,Evaluating interventions,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0557980,C4521453,USES,Evaluating interventions,FDG-Positron Emission Tomography and Computed Tomography Scan,hlca,diap,1,USES_HLCAusesDIAP
+C0558024,C0024485,USES,Functional behavioral assessment,Magnetic Resonance Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C0562319,C0002978,USES,Examination of heart,angiogram,hlca,diap,1,USES_HLCAusesDIAP
+C0562319,C0024485,USES,Examination of heart,Magnetic Resonance Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C0562319,C0041618,USES,Examination of heart,Ultrasonography,hlca,diap,10,USES_HLCAusesDIAP
+C0582103,C0004398,USES,Medical Examination,Autopsy,hlca,diap,15,USES_HLCAusesDIAP
+C0582103,C0011923,USES,Medical Examination,Diagnostic Imaging,hlca,diap,2,USES_HLCAusesDIAP
+C0582103,C0013516,USES,Medical Examination,Echocardiography,hlca,diap,3,USES_HLCAusesDIAP
+C0582103,C0013798,USES,Medical Examination,Electrocardiogram,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C0013819,USES,Medical Examination,Electroencephalography,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C0014245,USES,Medical Examination,Endoscopy (procedure),hlca,diap,15,USES_HLCAusesDIAP
+C0582103,C0024485,USES,Medical Examination,Magnetic Resonance Imaging,hlca,diap,3,USES_HLCAusesDIAP
+C0582103,C0029090,USES,Medical Examination,Ophthalmoscopy,hlca,diap,7,USES_HLCAusesDIAP
+C0582103,C0034606,USES,Medical Examination,Radionuclide Imaging,hlca,diap,5,USES_HLCAusesDIAP
+C0582103,C0039985,USES,Medical Examination,Plain chest X-ray,hlca,diap,4,USES_HLCAusesDIAP
+C0582103,C0040405,USES,Medical Examination,X-Ray Computed Tomography,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C0041618,USES,Medical Examination,Ultrasonography,hlca,diap,12,USES_HLCAusesDIAP
+C0582103,C0043299,USES,Medical Examination,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C0162502,USES,Medical Examination,Fetal Ultrasonography,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C0202823,USES,Medical Examination,Chest CT,hlca,diap,12,USES_HLCAusesDIAP
+C0582103,C0206054,USES,Medical Examination,"Echocardiography, Transesophageal",hlca,diap,6,USES_HLCAusesDIAP
+C0582103,C0220908,USES,Medical Examination,Screening procedure,hlca,diap,24,USES_HLCAusesDIAP
+C0582103,C0412099,USES,Medical Examination,Videofluoroscopy swallow,hlca,diap,4,USES_HLCAusesDIAP
+C0582103,C0412564,USES,Medical Examination,Fetal echocardiography,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C0412611,USES,Medical Examination,CT of lungs,hlca,diap,3,USES_HLCAusesDIAP
+C0582103,C0431080,USES,Medical Examination,Diagnostic assessment,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C0596473,USES,Medical Examination,Early Diagnosis,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C0860888,USES,Medical Examination,"Tomography, Spiral Computed",hlca,diap,3,USES_HLCAusesDIAP
+C0582103,C1134631,USES,Medical Examination,Annual Screening,hlca,diap,6,USES_HLCAusesDIAP
+C0582103,C1623258,USES,Medical Examination,Electrocardiography,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C1699633,USES,Medical Examination,PET/CT scan,hlca,diap,2,USES_HLCAusesDIAP
+C0582103,C1964257,USES,Medical Examination,Observation - diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C3472245,USES,Medical Examination,Single Photon Emission Computed Tomography Computed Tomography,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C3842377,USES,Medical Examination,Chest radiograph,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C4045986,USES,Medical Examination,Videocapillaroscopy,hlca,diap,1,USES_HLCAusesDIAP
+C0582103,C4075962,USES,Medical Examination,Low dose computed tomography of thorax,hlca,diap,2,USES_HLCAusesDIAP
+C0582103,C4521453,USES,Medical Examination,FDG-Positron Emission Tomography and Computed Tomography Scan,hlca,diap,1,USES_HLCAusesDIAP
+C0587599,C0014245,USES,Pediatric service,Endoscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C0587668,C0005558,USES,Surgical service,Biopsy,hlca,diap,2,USES_HLCAusesDIAP
+C0589121,C0027853,USES,Follow-up visit,Neurologic Examination,hlca,diap,1,USES_HLCAusesDIAP
+C0598836,C0220908,USES,checkup examination,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0679803,C0043299,USES,guided intervention,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C0679830,C0041618,USES,patient assessment,Ultrasonography,hlca,diap,2,USES_HLCAusesDIAP
+C0679830,C0220908,USES,patient assessment,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0699943,C0162734,USES,Public health service,Echo-Planar Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C0700325,C0596473,USES,Patient observation,Early Diagnosis,hlca,diap,1,USES_HLCAusesDIAP
+C0700325,C1964257,USES,Patient observation,Observation - diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0733511,C0086143,USES,Medical Surveillance,Diagnostic tests,hlca,diap,1,USES_HLCAusesDIAP
+C0733511,C0597356,USES,Medical Surveillance,rapid diagnosis,hlca,diap,1,USES_HLCAusesDIAP
+C0752189,C0220908,USES,"Technology, Health Care",Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0805586,C0011906,USES,Challenge,Differential Diagnosis,hlca,diap,1,USES_HLCAusesDIAP
+C0805586,C0040405,USES,Challenge,X-Ray Computed Tomography,hlca,diap,1,USES_HLCAusesDIAP
+C0805586,C0086143,USES,Challenge,Diagnostic tests,hlca,diap,2,USES_HLCAusesDIAP
+C0805586,C0087028,USES,Challenge,Step Test,hlca,diap,1,USES_HLCAusesDIAP
+C0805586,C0087029,USES,Challenge,Stereophotogrammetry,hlca,diap,1,USES_HLCAusesDIAP
+C0805586,C0220908,USES,Challenge,Screening procedure,hlca,diap,3,USES_HLCAusesDIAP
+C0805586,C0332140,USES,Challenge,"Diagnosis, clinical",hlca,diap,1,USES_HLCAusesDIAP
+C0805586,C0431080,USES,Challenge,Diagnostic assessment,hlca,diap,1,USES_HLCAusesDIAP
+C0805586,C0599519,USES,Challenge,remote sensing,hlca,diap,2,USES_HLCAusesDIAP
+C0812170,C0220908,USES,telephone triage,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0846606,C0412714,USES,ageing assessment,Magnetic Resonance Imaging (MRI) of Knee,hlca,diap,1,USES_HLCAusesDIAP
+C0849983,C0041618,USES,prenatal examination,Ultrasonography,hlca,diap,1,USES_HLCAusesDIAP
+C0871311,C0220908,USES,screening tests,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0871311,C0430561,USES,screening tests,Skin prick test,hlca,diap,1,USES_HLCAusesDIAP
+C0871311,C0870300,USES,screening tests,Assessment: Cognition,hlca,diap,1,USES_HLCAusesDIAP
+C0940824,C0220908,USES,Additional procedure,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C1138559,C0220908,USES,Voluntary Programs,Screening procedure,hlca,diap,2,USES_HLCAusesDIAP
+C1160858,C0220908,USES,Behavior assessment,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C1255664,C0004398,USES,standardized assessments,Autopsy,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0002978,USES,Evaluation procedure,angiogram,hlca,diap,3,USES_HLCAusesDIAP
+C1261322,C0003885,USES,Evaluation procedure,Arthrogram,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0004398,USES,Evaluation procedure,Autopsy,hlca,diap,9,USES_HLCAusesDIAP
+C1261322,C0005558,USES,Evaluation procedure,Biopsy,hlca,diap,2,USES_HLCAusesDIAP
+C1261322,C0005834,USES,Evaluation procedure,Collection of blood specimen for laboratory procedure,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0006290,USES,Evaluation procedure,Bronchoscopy,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0011923,USES,Evaluation procedure,Diagnostic Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0013516,USES,Evaluation procedure,Echocardiography,hlca,diap,34,USES_HLCAusesDIAP
+C1261322,C0013524,USES,Evaluation procedure,2D Echocardiography,hlca,diap,2,USES_HLCAusesDIAP
+C1261322,C0013798,USES,Evaluation procedure,Electrocardiogram,hlca,diap,4,USES_HLCAusesDIAP
+C1261322,C0013819,USES,Evaluation procedure,Electroencephalography,hlca,diap,2,USES_HLCAusesDIAP
+C1261322,C0013839,USES,Evaluation procedure,Electromyography,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0013867,USES,Evaluation procedure,Electroretinography,hlca,diap,2,USES_HLCAusesDIAP
+C1261322,C0014245,USES,Evaluation procedure,Endoscopy (procedure),hlca,diap,37,USES_HLCAusesDIAP
+C1261322,C0016313,USES,Evaluation procedure,Fluorescein Angiography,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0017195,USES,Evaluation procedure,Endoscopy of stomach,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0018795,USES,Evaluation procedure,Cardiac Catheterization Procedures,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0021044,USES,Evaluation procedure,Immunohistochemistry,hlca,diap,2,USES_HLCAusesDIAP
+C1261322,C0023072,USES,Evaluation procedure,Laryngoscopy,hlca,diap,4,USES_HLCAusesDIAP
+C1261322,C0024119,USES,Evaluation procedure,Pulmonary function tests,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0024485,USES,Evaluation procedure,Magnetic Resonance Imaging,hlca,diap,21,USES_HLCAusesDIAP
+C1261322,C0027902,USES,Evaluation procedure,Neuropsychological Tests,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0032222,USES,Evaluation procedure,"Plethysmography, Impedance",hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0033920,USES,Evaluation procedure,Psychometrics,hlca,diap,7,USES_HLCAusesDIAP
+C1261322,C0034606,USES,Evaluation procedure,Radionuclide Imaging,hlca,diap,4,USES_HLCAusesDIAP
+C1261322,C0037981,USES,Evaluation procedure,Spirometry,hlca,diap,3,USES_HLCAusesDIAP
+C1261322,C0039985,USES,Evaluation procedure,Plain chest X-ray,hlca,diap,4,USES_HLCAusesDIAP
+C1261322,C0040395,USES,Evaluation procedure,tomography,hlca,diap,5,USES_HLCAusesDIAP
+C1261322,C0041618,USES,Evaluation procedure,Ultrasonography,hlca,diap,48,USES_HLCAusesDIAP
+C1261322,C0042815,USES,Evaluation procedure,Visual Analog Pain Scale,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0043299,USES,Evaluation procedure,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0079595,USES,Evaluation procedure,Imaging Techniques,hlca,diap,4,USES_HLCAusesDIAP
+C1261322,C0086143,USES,Evaluation procedure,Diagnostic tests,hlca,diap,3,USES_HLCAusesDIAP
+C1261322,C0200189,USES,Evaluation procedure,Fundus photography,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0202823,USES,Evaluation procedure,Chest CT,hlca,diap,4,USES_HLCAusesDIAP
+C1261322,C0202850,USES,Evaluation procedure,Cardiac tomography,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0203683,USES,Evaluation procedure,Radioisotope scan of lung,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0206054,USES,Evaluation procedure,"Echocardiography, Transesophageal",hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0206077,USES,Evaluation procedure,"Ultrasonography, Doppler, Transcranial",hlca,diap,2,USES_HLCAusesDIAP
+C1261322,C0220908,USES,Evaluation procedure,Screening procedure,hlca,diap,24,USES_HLCAusesDIAP
+C1261322,C0242845,USES,Evaluation procedure,"Ultrasonography, Doppler, Duplex",hlca,diap,2,USES_HLCAusesDIAP
+C1261322,C0412585,USES,Evaluation procedure,CAT scan of brain,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0430022,USES,Evaluation procedure,diagnostic procedure,hlca,diap,2,USES_HLCAusesDIAP
+C1261322,C0430462,USES,Evaluation procedure,Transthoracic echocardiography,hlca,diap,3,USES_HLCAusesDIAP
+C1261322,C0430483,USES,Evaluation procedure,Continuous wave ultrasonic Doppler,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0430872,USES,Evaluation procedure,Psychophysical tests,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0430942,USES,Evaluation procedure,Amsler chart assessment,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0442842,USES,Evaluation procedure,Conventional angiography,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0585632,USES,Evaluation procedure,Diagnostic bronchoscopy,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0596473,USES,Evaluation procedure,Early Diagnosis,hlca,diap,4,USES_HLCAusesDIAP
+C1261322,C0679575,USES,Evaluation procedure,Neuroimaging,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0683441,USES,Evaluation procedure,serologic diagnosis,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0729619,USES,Evaluation procedure,Computed tomography imaging - action,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C0872257,USES,Evaluation procedure,rapid technique,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C1510486,USES,Evaluation procedure,Dual-Energy X-Ray Absorptiometry,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C1513743,USES,Evaluation procedure,Multimodal Imaging,hlca,diap,2,USES_HLCAusesDIAP
+C1261322,C1660599,USES,Evaluation procedure,videofluoroscopy,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C1964257,USES,Evaluation procedure,Observation - diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C2350281,USES,Evaluation procedure,X-Ray Microtomography,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C2959886,USES,Evaluation procedure,Cardiopulmonary Exercise Test,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C2985583,USES,Evaluation procedure,Defined Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C3179130,USES,Evaluation procedure,Multidetector Computed Tomography,hlca,diap,2,USES_HLCAusesDIAP
+C1261322,C3272310,USES,Evaluation procedure,Cardiac Computerized Tomographic Angiography,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C3641247,USES,Evaluation procedure,FDG-Positron Emission Tomography,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C4054003,USES,Evaluation procedure,Specific Airway Resistance,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C4085351,USES,Evaluation procedure,Tubingen electric campimetry,hlca,diap,4,USES_HLCAusesDIAP
+C1261322,C4086729,USES,Evaluation procedure,Pathologic Examination,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C4505151,USES,Evaluation procedure,Liquid Biopsy,hlca,diap,3,USES_HLCAusesDIAP
+C1261322,C4528280,USES,Evaluation procedure,New Target Lesion Identification,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C4724956,USES,Evaluation procedure,Contrast-Enhanced Ultrasound,hlca,diap,1,USES_HLCAusesDIAP
+C1261322,C4745335,USES,Evaluation procedure,Initial Diagnosis,hlca,diap,2,USES_HLCAusesDIAP
+C1261322,C5206576,USES,Evaluation procedure,Spectral Domain-Optical Coherence Tomography,hlca,diap,1,USES_HLCAusesDIAP
+C1269815,C0004398,USES,Patient identification,Autopsy,hlca,diap,2,USES_HLCAusesDIAP
+C1269815,C0220908,USES,Patient identification,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C1269815,C0430022,USES,Patient identification,diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C1292960,C0002978,USES,Procedure on lung,angiogram,hlca,diap,1,USES_HLCAusesDIAP
+C1292969,C1510483,USES,Procedure on blood vessel,Fine needle aspiration biopsy,hlca,diap,1,USES_HLCAusesDIAP
+C1301725,C0021044,USES,Documented,Immunohistochemistry,hlca,diap,2,USES_HLCAusesDIAP
+C1320674,C0202823,USES,Planned admission,Chest CT,hlca,diap,1,USES_HLCAusesDIAP
+C1320712,C0014245,USES,Planned procedure,Endoscopy (procedure),hlca,diap,3,USES_HLCAusesDIAP
+C1449559,C0040405,USES,Donor Selection,X-Ray Computed Tomography,hlca,diap,1,USES_HLCAusesDIAP
+C1456692,C0041618,USES,Prenatal Testing,Ultrasonography,hlca,diap,1,USES_HLCAusesDIAP
+C1514821,C0024485,USES,Registration,Magnetic Resonance Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C1514821,C0162734,USES,Registration,Echo-Planar Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C1514821,C1513743,USES,Registration,Multimodal Imaging,hlca,diap,7,USES_HLCAusesDIAP
+C1515187,C0039985,USES,Take,Plain chest X-ray,hlca,diap,1,USES_HLCAusesDIAP
+C1515187,C0202823,USES,Take,Chest CT,hlca,diap,1,USES_HLCAusesDIAP
+C1516193,C0014245,USES,Cancer Detection,Endoscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C1516615,C0596473,USES,Clinical Management,Early Diagnosis,hlca,diap,1,USES_HLCAusesDIAP
+C1516735,C0043299,USES,Community Practice,Diagnostic radiologic examination,hlca,diap,2,USES_HLCAusesDIAP
+C1516879,C1547864,USES,Enrollment,Specimen Collection Method,hlca,diap,1,USES_HLCAusesDIAP
+C1517942,C1964257,USES,Long-term Follow-up,Observation - diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C1522577,C0009378,USES,follow-up,colonoscopy,hlca,diap,1,USES_HLCAusesDIAP
+C1522577,C0013516,USES,follow-up,Echocardiography,hlca,diap,3,USES_HLCAusesDIAP
+C1522577,C0014245,USES,follow-up,Endoscopy (procedure),hlca,diap,4,USES_HLCAusesDIAP
+C1522577,C0024119,USES,follow-up,Pulmonary function tests,hlca,diap,1,USES_HLCAusesDIAP
+C1522577,C0024485,USES,follow-up,Magnetic Resonance Imaging,hlca,diap,3,USES_HLCAusesDIAP
+C1522577,C0034606,USES,follow-up,Radionuclide Imaging,hlca,diap,1,USES_HLCAusesDIAP
+C1522577,C0039985,USES,follow-up,Plain chest X-ray,hlca,diap,2,USES_HLCAusesDIAP
+C1522577,C0040395,USES,follow-up,tomography,hlca,diap,1,USES_HLCAusesDIAP
+C1522577,C0040405,USES,follow-up,X-Ray Computed Tomography,hlca,diap,1,USES_HLCAusesDIAP
+C1522577,C0041618,USES,follow-up,Ultrasonography,hlca,diap,3,USES_HLCAusesDIAP
+C1522577,C0043299,USES,follow-up,Diagnostic radiologic examination,hlca,diap,17,USES_HLCAusesDIAP
+C1522577,C0190979,USES,follow-up,Venous blood sampling,hlca,diap,1,USES_HLCAusesDIAP
+C1522577,C0202823,USES,follow-up,Chest CT,hlca,diap,2,USES_HLCAusesDIAP
+C1522577,C0220908,USES,follow-up,Screening procedure,hlca,diap,3,USES_HLCAusesDIAP
+C1522577,C0282675,USES,follow-up,Teleconsultation,hlca,diap,2,USES_HLCAusesDIAP
+C1522577,C0400018,USES,follow-up,Diagnostic endoscopic examination on colon,hlca,diap,1,USES_HLCAusesDIAP
+C1522577,C0412611,USES,follow-up,CT of lungs,hlca,diap,2,USES_HLCAusesDIAP
+C1522577,C0430462,USES,follow-up,Transthoracic echocardiography,hlca,diap,1,USES_HLCAusesDIAP
+C1522577,C1623258,USES,follow-up,Electrocardiography,hlca,diap,1,USES_HLCAusesDIAP
+C1522577,C1964257,USES,follow-up,Observation - diagnostic procedure,hlca,diap,2,USES_HLCAusesDIAP
+C1522577,C4331246,USES,follow-up,Restaging,hlca,diap,1,USES_HLCAusesDIAP
+C1698490,C1964257,USES,short stay encounter,Observation - diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C1827871,C0013516,USES,Cardiac assessment,Echocardiography,hlca,diap,2,USES_HLCAusesDIAP
+C1883350,C4733451,USES,Titrate,electrical impedance tomography,hlca,diap,1,USES_HLCAusesDIAP
+C1999110,C0005558,USES,Collecting Sample,Biopsy,hlca,diap,2,USES_HLCAusesDIAP
+C1999110,C0430022,USES,Collecting Sample,diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C1999123,C0596473,USES,Continued Surveillance,Early Diagnosis,hlca,diap,1,USES_HLCAusesDIAP
+C2004150,C0040398,USES,Caretaking,"Tomography, Emission-Computed",hlca,diap,1,USES_HLCAusesDIAP
+C2350442,C0042815,USES,Nasal Lavage,Visual Analog Pain Scale,hlca,diap,1,USES_HLCAusesDIAP
+C2359834,C0014245,USES,Additional assessment,Endoscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C2359834,C0041618,USES,Additional assessment,Ultrasonography,hlca,diap,1,USES_HLCAusesDIAP
+C2359834,C0220908,USES,Additional assessment,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C2364225,C0024487,USES,Assessing Rejection,Magnetic Resonance Spectroscopy,hlca,diap,1,USES_HLCAusesDIAP
+C2717795,C0043299,USES,Teaching Rounds,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
+C2963216,C0599519,USES,Vital signs measurements,remote sensing,hlca,diap,1,USES_HLCAusesDIAP
+C2983567,C0006290,USES,Pediatric Intervention or Procedure,Bronchoscopy,hlca,diap,1,USES_HLCAusesDIAP
+C3494318,C0599519,USES,Public Health Surveillance,remote sensing,hlca,diap,1,USES_HLCAusesDIAP
+C3527150,C0455252,USES,Special Intervention,Collection of sputum (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C3658216,C0086143,USES,Clinical Laboratory Services,Diagnostic tests,hlca,diap,1,USES_HLCAusesDIAP
+C3658216,C1319069,USES,Clinical Laboratory Services,Point-of-Care Testing,hlca,diap,1,USES_HLCAusesDIAP
+C3658272,C1964257,USES,Hazard Analysis and Critical Control Points,Observation - diagnostic procedure,hlca,diap,1,USES_HLCAusesDIAP
+C3826004,C0220908,USES,Medical screening,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C3826454,C0005558,USES,Diagnostic specimens,Biopsy,hlca,diap,1,USES_HLCAusesDIAP
+C3889687,C0032222,USES,Clinical Observation,"Plethysmography, Impedance",hlca,diap,1,USES_HLCAusesDIAP
+C3889687,C0034108,USES,Clinical Observation,"Oximetry, Pulse",hlca,diap,1,USES_HLCAusesDIAP
+C4036459,C0040398,USES,Contacts,"Tomography, Emission-Computed",hlca,diap,1,USES_HLCAusesDIAP
+C4036459,C0086143,USES,Contacts,Diagnostic tests,hlca,diap,1,USES_HLCAusesDIAP
+C4036459,C0220908,USES,Contacts,Screening procedure,hlca,diap,4,USES_HLCAusesDIAP
+C4042889,C0013798,USES,Children's Health Insurance Program,Electrocardiogram,hlca,diap,1,USES_HLCAusesDIAP
+C4042889,C0034606,USES,Children's Health Insurance Program,Radionuclide Imaging,hlca,diap,2,USES_HLCAusesDIAP
+C4042889,C0220908,USES,Children's Health Insurance Program,Screening procedure,hlca,diap,3,USES_HLCAusesDIAP
+C4042889,C0332140,USES,Children's Health Insurance Program,"Diagnosis, clinical",hlca,diap,1,USES_HLCAusesDIAP
+C4042889,C0596473,USES,Children's Health Insurance Program,Early Diagnosis,hlca,diap,1,USES_HLCAusesDIAP
+C4042889,C1319069,USES,Children's Health Insurance Program,Point-of-Care Testing,hlca,diap,2,USES_HLCAusesDIAP
+C4277718,C0282675,USES,Emergency Medical Dispatch,Teleconsultation,hlca,diap,1,USES_HLCAusesDIAP
+C4505100,C0597356,USES,Antibiotic Stewardship,rapid diagnosis,hlca,diap,1,USES_HLCAusesDIAP
+C4554477,C0599913,USES,Handover,X ray visualization,hlca,diap,1,USES_HLCAusesDIAP
+C4684780,C0220908,USES,Standard Treatment,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C4761508,C0004398,USES,Vascular Study,Autopsy,hlca,diap,1,USES_HLCAusesDIAP
+C5205785,C1293900,USES,Dynamometry,Hand grip,hlca,diap,3,USES_HLCAusesDIAP

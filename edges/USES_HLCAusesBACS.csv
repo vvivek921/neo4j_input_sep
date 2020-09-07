@@ -1,0 +1,56 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0019993,C0019134,USES,Hospitalization,heparin,hlca,bacs,1,USES_HLCAusesBACS
+C0019993,C0030054,USES,Hospitalization,oxygen,hlca,bacs,1,USES_HLCAusesBACS
+C0021634,C0030054,USES,Insufflation,oxygen,hlca,bacs,14,USES_HLCAusesBACS
+C0023977,C0030054,USES,long-term care,oxygen,hlca,bacs,3,USES_HLCAusesBACS
+C0023977,C0034085,USES,long-term care,Pulmonary Surfactants,hlca,bacs,1,USES_HLCAusesBACS
+C0023977,C0043481,USES,long-term care,zinc,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0001041,USES,Patient Discharge,acetylcholine,hlca,bacs,34,USES_HLCAusesBACS
+C0030685,C0001443,USES,Patient Discharge,adenosine,hlca,bacs,3,USES_HLCAusesBACS
+C0030685,C0001480,USES,Patient Discharge,adenosine triphosphate,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0005496,USES,Patient Discharge,Biogenic Amines,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0006675,USES,Patient Discharge,calcium,hlca,bacs,69,USES_HLCAusesBACS
+C0030685,C0007412,USES,Patient Discharge,Catecholamines,hlca,bacs,23,USES_HLCAusesBACS
+C0030685,C0008405,USES,Patient Discharge,choline,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0009968,USES,Patient Discharge,copper,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0013030,USES,Patient Discharge,dopamine,hlca,bacs,30,USES_HLCAusesBACS
+C0030685,C0017725,USES,Patient Discharge,glucose,hlca,bacs,12,USES_HLCAusesBACS
+C0030685,C0017861,USES,Patient Discharge,glycerin,hlca,bacs,2,USES_HLCAusesBACS
+C0030685,C0017973,USES,Patient Discharge,Glycosaminoglycans,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0019134,USES,Patient Discharge,heparin,hlca,bacs,2,USES_HLCAusesBACS
+C0030685,C0030054,USES,Patient Discharge,oxygen,hlca,bacs,9,USES_HLCAusesBACS
+C0030685,C0032821,USES,Patient Discharge,potassium,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0033567,USES,Patient Discharge,epoprostenol,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0034085,USES,Patient Discharge,Pulmonary Surfactants,hlca,bacs,6,USES_HLCAusesBACS
+C0030685,C0041942,USES,Patient Discharge,urea,hlca,bacs,1,USES_HLCAusesBACS
+C0030685,C0043481,USES,Patient Discharge,zinc,hlca,bacs,23,USES_HLCAusesBACS
+C0030685,C0064582,USES,Patient Discharge,lactic acid,hlca,bacs,3,USES_HLCAusesBACS
+C0030685,C0302583,USES,Patient Discharge,iron,hlca,bacs,20,USES_HLCAusesBACS
+C0030695,C0000545,USES,Patient Monitoring,eicosapentaenoic acid,hlca,bacs,1,USES_HLCAusesBACS
+C0085559,C0015689,USES,intensive care,omega-3 fatty acids,hlca,bacs,1,USES_HLCAusesBACS
+C0086969,C0017725,USES,Self-Management,glucose,hlca,bacs,1,USES_HLCAusesBACS
+C0184959,C0034085,USES,Instillation (procedure),Pulmonary Surfactants,hlca,bacs,1,USES_HLCAusesBACS
+C0199174,C0030054,USES,General treatment,oxygen,hlca,bacs,1,USES_HLCAusesBACS
+C0204695,C0017725,USES,Feeding patient,glucose,hlca,bacs,2,USES_HLCAusesBACS
+C0204792,C0013030,USES,Routine care of newborn,dopamine,hlca,bacs,1,USES_HLCAusesBACS
+C0220825,C0000378,USES,Evaluation,droxidopa,hlca,bacs,1,USES_HLCAusesBACS
+C0220825,C0006675,USES,Evaluation,calcium,hlca,bacs,1,USES_HLCAusesBACS
+C0220825,C0013030,USES,Evaluation,dopamine,hlca,bacs,1,USES_HLCAusesBACS
+C0220825,C0016072,USES,Evaluation,ficusin,hlca,bacs,1,USES_HLCAusesBACS
+C0220825,C0017725,USES,Evaluation,glucose,hlca,bacs,2,USES_HLCAusesBACS
+C0220825,C0022511,USES,Evaluation,kappa-Carrageenan,hlca,bacs,1,USES_HLCAusesBACS
+C0220825,C0032821,USES,Evaluation,potassium,hlca,bacs,2,USES_HLCAusesBACS
+C0344211,C0030054,USES,Supportive care,oxygen,hlca,bacs,10,USES_HLCAusesBACS
+C0344211,C0036581,USES,Supportive care,selenium,hlca,bacs,1,USES_HLCAusesBACS
+C0344211,C0043481,USES,Supportive care,zinc,hlca,bacs,1,USES_HLCAusesBACS
+C0558005,C0030054,USES,Needs Assessment,oxygen,hlca,bacs,1,USES_HLCAusesBACS
+C0558024,C0000545,USES,Functional behavioral assessment,eicosapentaenoic acid,hlca,bacs,1,USES_HLCAusesBACS
+C0700325,C0034085,USES,Patient observation,Pulmonary Surfactants,hlca,bacs,1,USES_HLCAusesBACS
+C0805586,C0001443,USES,Challenge,adenosine,hlca,bacs,1,USES_HLCAusesBACS
+C1261322,C0017725,USES,Evaluation procedure,glucose,hlca,bacs,3,USES_HLCAusesBACS
+C1406915,C0034085,USES,breathing therapy,Pulmonary Surfactants,hlca,bacs,1,USES_HLCAusesBACS
+C1516879,C0302583,USES,Enrollment,iron,hlca,bacs,1,USES_HLCAusesBACS
+C2936643,C0030054,USES,Standard of Care,oxygen,hlca,bacs,61,USES_HLCAusesBACS
+C4036459,C0030054,USES,Contacts,oxygen,hlca,bacs,1,USES_HLCAusesBACS
+C4042889,C0019134,USES,Children's Health Insurance Program,heparin,hlca,bacs,1,USES_HLCAusesBACS
+C4684780,C0019134,USES,Standard Treatment,heparin,hlca,bacs,1,USES_HLCAusesBACS

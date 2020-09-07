@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010827,C0042774,NEG_AFFECTS,"Cytopathogenic Effect, Viral",Virus Replication,comd,celf,1,NEG_AFFECTS_COMDnafctCELF
+C0021943,C1816571,NEG_AFFECTS,Chromosome inversion,auto-aggregation,comd,celf,1,NEG_AFFECTS_COMDnafctCELF
+C0162735,C0007608,NEG_AFFECTS,Point Mutation,cell motility,comd,celf,1,NEG_AFFECTS_COMDnafctCELF
+C0162735,C0042774,NEG_AFFECTS,Point Mutation,Virus Replication,comd,celf,1,NEG_AFFECTS_COMDnafctCELF
+C0242606,C0004391,NEG_AFFECTS,Oxidative Stress,Autophagy,comd,celf,2,NEG_AFFECTS_COMDnafctCELF
+C0242606,C0007586,NEG_AFFECTS,Oxidative Stress,Cell Cycle,comd,celf,1,NEG_AFFECTS_COMDnafctCELF
+C0242606,C1326356,NEG_AFFECTS,Oxidative Stress,amino acid import,comd,celf,2,NEG_AFFECTS_COMDnafctCELF
+C0596402,C0007620,NEG_AFFECTS,cytotoxicity,Cell Survival,comd,celf,1,NEG_AFFECTS_COMDnafctCELF
+C0596402,C1326120,NEG_AFFECTS,cytotoxicity,cell activation,comd,celf,1,NEG_AFFECTS_COMDnafctCELF
+C1511760,C0042774,NEG_AFFECTS,Deletion Mutation,Virus Replication,comd,celf,2,NEG_AFFECTS_COMDnafctCELF
+C4476796,C0162638,NEG_AFFECTS,Increased reactive oxygen species production,Apoptosis,comd,celf,1,NEG_AFFECTS_COMDnafctCELF

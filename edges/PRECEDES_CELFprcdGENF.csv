@@ -1,0 +1,19 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007590,C0598312,PRECEDES,Cell division,DNA Replication,celf,genf,1,PRECEDES_CELFprcdGENF
+C0010813,C1152412,PRECEDES,Cytokinesis,RNA-directed RNA polymerase activity,celf,genf,1,PRECEDES_CELFprcdGENF
+C0010813,C1158770,PRECEDES,Cytokinesis,Transcriptional Regulation,celf,genf,1,PRECEDES_CELFprcdGENF
+C0014139,C0040649,PRECEDES,Endocytosis,"Transcription, Genetic",celf,genf,1,PRECEDES_CELFprcdGENF
+C0014139,C0599283,PRECEDES,Endocytosis,receptor density,celf,genf,1,PRECEDES_CELFprcdGENF
+C0025186,C1156187,PRECEDES,Meiosis,chromatin organization,celf,genf,1,PRECEDES_CELFprcdGENF
+C0026255,C0598312,PRECEDES,Mitosis,DNA Replication,celf,genf,1,PRECEDES_CELFprcdGENF
+C0026255,C1158811,PRECEDES,Mitosis,rRNA transcription,celf,genf,1,PRECEDES_CELFprcdGENF
+C0042774,C0017262,PRECEDES,Virus Replication,Gene Expression,celf,genf,1,PRECEDES_CELFprcdGENF
+C0042774,C0023099,PRECEDES,Virus Replication,Late Gene Transcription,celf,genf,1,PRECEDES_CELFprcdGENF
+C0042774,C0040649,PRECEDES,Virus Replication,"Transcription, Genetic",celf,genf,1,PRECEDES_CELFprcdGENF
+C0597361,C0678935,PRECEDES,Receptor Mediated Endocytosis,RNA translation,celf,genf,1,PRECEDES_CELFprcdGENF
+C0887839,C0035380,PRECEDES,Nuclear Import,Reverse Transcription,celf,genf,1,PRECEDES_CELFprcdGENF
+C0887839,C0040649,PRECEDES,Nuclear Import,"Transcription, Genetic",celf,genf,1,PRECEDES_CELFprcdGENF
+C1155065,C0597360,PRECEDES,T-Cell Activation,receptor expression,celf,genf,2,PRECEDES_CELFprcdGENF
+C1160657,C2247634,PRECEDES,Virus Uncoating,stress granule assembly,celf,genf,1,PRECEDES_CELFprcdGENF
+C1656555,C1519613,PRECEDES,viral entry into host cell,Translation Initiation,celf,genf,1,PRECEDES_CELFprcdGENF
+C4759804,C0599773,PRECEDES,conjugation,Homologous Recombination,celf,genf,1,PRECEDES_CELFprcdGENF

@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005516,C0032285,NEG_PREDISPOSES,Biological Markers,Pneumonia,clna,dsyn,2,NEG_PREDISPOSES_CLNAnpredDSYN
+C0798503,C0024115,NEG_PREDISPOSES,Challenge:Type:Point in time:^Patient:Nominal,Lung diseases,clna,dsyn,1,NEG_PREDISPOSES_CLNAnpredDSYN
+C2926606,C0009450,NEG_PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Communicable Diseases,clna,dsyn,1,NEG_PREDISPOSES_CLNAnpredDSYN
+C2926606,C0032285,NEG_PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Pneumonia,clna,dsyn,1,NEG_PREDISPOSES_CLNAnpredDSYN
+C2926606,C0206750,NEG_PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Coronavirus Infections,clna,dsyn,1,NEG_PREDISPOSES_CLNAnpredDSYN
+C2926606,C0442893,NEG_PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,Systemic disease,clna,dsyn,1,NEG_PREDISPOSES_CLNAnpredDSYN
+C2926606,C5203670,NEG_PREDISPOSES,Procedure findings:Finding:Point in time:^Patient:Narrative,COVID-19,clna,dsyn,1,NEG_PREDISPOSES_CLNAnpredDSYN
+C3173209,C5203670,NEG_PREDISPOSES,Current smoker:Finding:Point in time:^Patient:Ordinal,COVID-19,clna,dsyn,1,NEG_PREDISPOSES_CLNAnpredDSYN

@@ -1,0 +1,51 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0031308,AUGMENTS,Immunologic Adjuvants,Phagocytosis,imft,celf,2,AUGMENTS_IMFTaugmCELF
+C0001551,C0206431,AUGMENTS,Immunologic Adjuvants,Antigen Presentation,imft,celf,4,AUGMENTS_IMFTaugmCELF
+C0001551,C1155003,AUGMENTS,Immunologic Adjuvants,B-Cell Activation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1155065,AUGMENTS,Immunologic Adjuvants,T-Cell Activation,imft,celf,3,AUGMENTS_IMFTaugmCELF
+C0001551,C1155080,AUGMENTS,Immunologic Adjuvants,T-helper 1 type immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1155229,AUGMENTS,Immunologic Adjuvants,Humoral immune response,imft,celf,7,AUGMENTS_IMFTaugmCELF
+C0001551,C1155263,AUGMENTS,Immunologic Adjuvants,T-helper 2 type immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1257986,AUGMENTS,Immunologic Adjuvants,Cross-Presentation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1318468,AUGMENTS,Immunologic Adjuvants,cell mediated immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1326120,AUGMENTS,Immunologic Adjuvants,cell activation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1327439,AUGMENTS,Immunologic Adjuvants,immunoglobulin secretion,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1516014,AUGMENTS,Immunologic Adjuvants,Antigen Presentation Pathway,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1516022,AUGMENTS,Immunologic Adjuvants,Antimicrobial Effect,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0001551,C1817908,AUGMENTS,Immunologic Adjuvants,Cellular Immune Response,imft,celf,9,AUGMENTS_IMFTaugmCELF
+C0003320,C0206431,AUGMENTS,Antigens,Antigen Presentation,imft,celf,2,AUGMENTS_IMFTaugmCELF
+C0003320,C1326120,AUGMENTS,Antigens,cell activation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0004886,C0031308,AUGMENTS,BCG Vaccine,Phagocytosis,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0005525,C0031308,AUGMENTS,Biological Response Modifiers,Phagocytosis,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0005525,C0042774,AUGMENTS,Biological Response Modifiers,Virus Replication,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0008014,C1622880,AUGMENTS,"Chemotactic Factors, Eosinophil",eosinophil activation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0019168,C1155229,AUGMENTS,Hepatitis B Surface Antigens,Humoral immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0021081,C1155604,AUGMENTS,Immunosuppressive Agents,macroautophagy,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0021081,C1524026,AUGMENTS,Immunosuppressive Agents,"Metabolic Process, Cellular",imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0021403,C1817908,AUGMENTS,Influenza virus vaccine,Cellular Immune Response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0021742,C1327616,AUGMENTS,Interferon Inducers,Cell secretion,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0023158,C3156756,AUGMENTS,Lymphocyte antigen,lymphocyte migration,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042211,C0007595,AUGMENTS,"Vaccines, Attenuated",Cell Growth,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042211,C1327616,AUGMENTS,"Vaccines, Attenuated",Cell secretion,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042211,C1817908,AUGMENTS,"Vaccines, Attenuated",Cellular Immune Response,imft,celf,2,AUGMENTS_IMFTaugmCELF
+C0042212,C1318468,AUGMENTS,"Vaccines, Inactivated",cell mediated immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0042212,C1817908,AUGMENTS,"Vaccines, Inactivated",Cellular Immune Response,imft,celf,2,AUGMENTS_IMFTaugmCELF
+C0370148,C0032174,AUGMENTS,von Willebrand factor multimer,"Platelet adhesion, function",imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C1155003,AUGMENTS,"Vaccines, DNA",B-Cell Activation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C1155046,AUGMENTS,"Vaccines, DNA",T-Cell Proliferation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C1155080,AUGMENTS,"Vaccines, DNA",T-helper 1 type immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C1155229,AUGMENTS,"Vaccines, DNA",Humoral immune response,imft,celf,2,AUGMENTS_IMFTaugmCELF
+C0376613,C1158716,AUGMENTS,"Vaccines, DNA",mRNA export from nucleus,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0376613,C1318468,AUGMENTS,"Vaccines, DNA",cell mediated immune response,imft,celf,5,AUGMENTS_IMFTaugmCELF
+C0376613,C1817908,AUGMENTS,"Vaccines, DNA",Cellular Immune Response,imft,celf,5,AUGMENTS_IMFTaugmCELF
+C0597641,C1817908,AUGMENTS,plasmid vaccine,Cellular Immune Response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C0887892,C1155229,AUGMENTS,"Vaccines, Subunit",Humoral immune response,imft,celf,2,AUGMENTS_IMFTaugmCELF
+C1311738,C0003272,AUGMENTS,lintuzumab,Antibody-Dependent Cellular Cytotoxicity,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C1519887,C1155229,AUGMENTS,Vaccine Antigen,Humoral immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C1720918,C1318468,AUGMENTS,Herpes Zoster Vaccine,cell mediated immune response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C2825347,C0003272,AUGMENTS,"immunoglobulin A, human",Antibody-Dependent Cellular Cytotoxicity,imft,celf,2,AUGMENTS_IMFTaugmCELF
+C2825347,C0007582,AUGMENTS,"immunoglobulin A, human",Cell Communication,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C2825347,C0597601,AUGMENTS,"immunoglobulin A, human",Transcytosis,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C2933874,C1817908,AUGMENTS,MVA 85A,Cellular Immune Response,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C3530029,C1155003,AUGMENTS,advax,B-Cell Activation,imft,celf,1,AUGMENTS_IMFTaugmCELF
+C3641733,C0334220,AUGMENTS,Ganglioside GQ,Remyelination,imft,celf,1,AUGMENTS_IMFTaugmCELF

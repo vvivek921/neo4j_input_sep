@@ -1,0 +1,285 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001559,C0008100,TREATS,Inhalation Drug Administration,"Child, Preschool",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0002423,C0008059,TREATS,ambulatory care services,Child,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0002423,C0205653,TREATS,ambulatory care services,Adolescent (age group),hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0008078,C0008059,TREATS,Child health care,Child,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0008952,C0008059,TREATS,Clinic Visits,Child,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0009818,C0001675,TREATS,Consultation,Adult,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0009818,C0008059,TREATS,Consultation,Child,hlca,aggp,11,TREATS_HLCAtrtsAGGP
+C0009818,C0008100,TREATS,Consultation,"Child, Preschool",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0009818,C0021270,TREATS,Consultation,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0010210,C0008059,TREATS,Counseling,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0010337,C0001675,TREATS,Care of intensive care unit patient,Adult,hlca,aggp,5,TREATS_HLCAtrtsAGGP
+C0010337,C0008059,TREATS,Care of intensive care unit patient,Child,hlca,aggp,4,TREATS_HLCAtrtsAGGP
+C0011017,C0008059,TREATS,"Day Care, Medical",Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0011929,C0008059,TREATS,Diagnostic Services,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0013961,C0001675,TREATS,Emergency medical service,Adult,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0013961,C0008059,TREATS,Emergency medical service,Child,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0013961,C0205653,TREATS,Emergency medical service,Adolescent (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0015187,C0021270,TREATS,Euthanasia,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0018747,C0001675,TREATS,Health Services,Adult,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0018747,C0008059,TREATS,Health Services,Child,hlca,aggp,9,TREATS_HLCAtrtsAGGP
+C0018747,C0205653,TREATS,Health Services,Adolescent (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0019700,C0001675,TREATS,HIV Seroprevalence,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0019993,C0001675,TREATS,Hospitalization,Adult,hlca,aggp,23,TREATS_HLCAtrtsAGGP
+C0019993,C0008059,TREATS,Hospitalization,Child,hlca,aggp,181,TREATS_HLCAtrtsAGGP
+C0019993,C0021270,TREATS,Hospitalization,Infant,hlca,aggp,79,TREATS_HLCAtrtsAGGP
+C0019993,C0079377,TREATS,Hospitalization,Frail Elderly,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0019993,C0238598,TREATS,Hospitalization,Young Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0019993,C0870221,TREATS,Hospitalization,Boys,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0019993,C3898619,TREATS,Hospitalization,Late Preterm Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0021682,C0008059,TREATS,Health Insurance,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0021711,C4048294,TREATS,Neonatal Intensive Care,Preterm Infant,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0023977,C0008059,TREATS,long-term care,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0023977,C0021270,TREATS,long-term care,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0025355,C0001675,TREATS,Mental Health Services,Adult,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0025355,C0008059,TREATS,Mental Health Services,Child,hlca,aggp,6,TREATS_HLCAtrtsAGGP
+C0025355,C0205653,TREATS,Mental Health Services,Adolescent (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0026214,C0008059,TREATS,Investigative Techniques,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0028900,C0008059,TREATS,Office Visits,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0030672,C0008059,TREATS,Patient Acceptance of Health Care,Child,hlca,aggp,10,TREATS_HLCAtrtsAGGP
+C0030672,C0021270,TREATS,Patient Acceptance of Health Care,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0030685,C0001675,TREATS,Patient Discharge,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0030685,C0008059,TREATS,Patient Discharge,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0030685,C0238598,TREATS,Patient Discharge,Young Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0030695,C0021270,TREATS,Patient Monitoring,Infant,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0030700,C0238598,TREATS,Patient Readmission,Young Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0030768,C0001675,TREATS,Peer Review,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0031321,C0001675,TREATS,Pharmaceutical Services,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0031809,C0008059,TREATS,Physical Examination,Child,hlca,aggp,9,TREATS_HLCAtrtsAGGP
+C0031809,C0021270,TREATS,Physical Examination,Infant,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0031809,C0021289,TREATS,Physical Examination,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0032678,C0008059,TREATS,Population Programs,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0032782,C0008059,TREATS,Postnatal Care,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0033080,C0008059,TREATS,Prescription procedure,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0033101,C0001675,TREATS,pretesting,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0033109,C0008059,TREATS,Preventive Health Services,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0033137,C0001675,TREATS,Primary Health Care,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0033137,C0008059,TREATS,Primary Health Care,Child,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0033137,C0021270,TREATS,Primary Health Care,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0033325,C0008059,TREATS,Forecast of outcome,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0034117,C0008059,TREATS,Puncture procedure,Child,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0034927,C0008059,TREATS,Patient referral,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0037943,C0001675,TREATS,Spinal Puncture,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0037943,C0008059,TREATS,Spinal Puncture,Child,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0037943,C0021270,TREATS,Spinal Puncture,Infant,hlca,aggp,4,TREATS_HLCAtrtsAGGP
+C0037943,C0021289,TREATS,Spinal Puncture,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0039548,C0001675,TREATS,terminal patient care,Adult,hlca,aggp,5,TREATS_HLCAtrtsAGGP
+C0085557,C0001675,TREATS,Infectious disease prevention / control,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0085557,C0008059,TREATS,Infectious disease prevention / control,Child,hlca,aggp,4,TREATS_HLCAtrtsAGGP
+C0085559,C0008059,TREATS,intensive care,Child,hlca,aggp,4,TREATS_HLCAtrtsAGGP
+C0085559,C0021270,TREATS,intensive care,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0085559,C0021289,TREATS,intensive care,"Infant, Newborn",hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0086930,C0001675,TREATS,Risk Assessment,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0086930,C0008059,TREATS,Risk Assessment,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0086930,C0021289,TREATS,Risk Assessment,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0086965,C0001675,TREATS,Selection for Treatment,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0086965,C0008059,TREATS,Selection for Treatment,Child,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0086969,C0008100,TREATS,Self-Management,"Child, Preschool",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0086969,C0205653,TREATS,Self-Management,Adolescent (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0150177,C0001675,TREATS,Vision therapy,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0150270,C0001675,TREATS,Medication Management,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0150270,C0008059,TREATS,Medication Management,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0150523,C0008059,TREATS,Encouragement of compliance,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0150600,C0008059,TREATS,Advice,Child,hlca,aggp,4,TREATS_HLCAtrtsAGGP
+C0150706,C0008059,TREATS,Perioperative Care,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0162648,C0008059,TREATS,Telemedicine,Child,hlca,aggp,10,TREATS_HLCAtrtsAGGP
+C0162648,C0205653,TREATS,Telemedicine,Adolescent (age group),hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0162648,C0238598,TREATS,Telemedicine,Young Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0162648,C0682053,TREATS,Telemedicine,Toddler (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0175637,C0008059,TREATS,Health evaluation,Child,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0184634,C0008059,TREATS,Ventilator care,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0184643,C0008059,TREATS,Mental health care,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0184643,C0205653,TREATS,Mental health care,Adolescent (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0184666,C0001675,TREATS,Hospital admission,Adult,hlca,aggp,6,TREATS_HLCAtrtsAGGP
+C0184666,C0008059,TREATS,Hospital admission,Child,hlca,aggp,39,TREATS_HLCAtrtsAGGP
+C0184666,C0021270,TREATS,Hospital admission,Infant,hlca,aggp,5,TREATS_HLCAtrtsAGGP
+C0184666,C0021289,TREATS,Hospital admission,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0184666,C0238598,TREATS,Hospital admission,Young Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0184666,C4048294,TREATS,Hospital admission,Preterm Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0199171,C0008059,TREATS,medical procedure,Child,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0199175,C0001675,TREATS,Preventive service healthcare,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0200345,C0008059,TREATS,Specimen Collection,Child,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0204695,C0001675,TREATS,Feeding patient,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0204695,C0021289,TREATS,Feeding patient,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0204695,C4048294,TREATS,Feeding patient,Preterm Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0206082,C0001675,TREATS,Immunization Programs,Adult,hlca,aggp,4,TREATS_HLCAtrtsAGGP
+C0206082,C0008059,TREATS,Immunization Programs,Child,hlca,aggp,10,TREATS_HLCAtrtsAGGP
+C0206082,C0021270,TREATS,Immunization Programs,Infant,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0206082,C0021289,TREATS,Immunization Programs,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0206082,C0205653,TREATS,Immunization Programs,Adolescent (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0220825,C0001675,TREATS,Evaluation,Adult,hlca,aggp,12,TREATS_HLCAtrtsAGGP
+C0220825,C0008059,TREATS,Evaluation,Child,hlca,aggp,50,TREATS_HLCAtrtsAGGP
+C0220825,C0021270,TREATS,Evaluation,Infant,hlca,aggp,27,TREATS_HLCAtrtsAGGP
+C0220825,C0021289,TREATS,Evaluation,"Infant, Newborn",hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0220825,C0205653,TREATS,Evaluation,Adolescent (age group),hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0220825,C0724000,TREATS,Evaluation,Twenties,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0220825,C3146221,TREATS,Evaluation,Juvenile,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0220825,C4048294,TREATS,Evaluation,Preterm Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0242963,C0021270,TREATS,Perinatal Care,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0242963,C0021289,TREATS,Perinatal Care,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0259945,C0008059,TREATS,hospital care,Child,hlca,aggp,8,TREATS_HLCAtrtsAGGP
+C0259945,C0021289,TREATS,hospital care,"Infant, Newborn",hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0262500,C0008059,TREATS,Health maintenance,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0278329,C0001675,TREATS,Prescribed,Adult,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0278329,C0008059,TREATS,Prescribed,Child,hlca,aggp,14,TREATS_HLCAtrtsAGGP
+C0302186,C0008059,TREATS,telephone call,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0302186,C3146221,TREATS,telephone call,Juvenile,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0344211,C0001675,TREATS,Supportive care,Adult,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0344211,C0008059,TREATS,Supportive care,Child,hlca,aggp,9,TREATS_HLCAtrtsAGGP
+C0344211,C0021270,TREATS,Supportive care,Infant,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0344211,C0205653,TREATS,Supportive care,Adolescent (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0422202,C0008059,TREATS,Notifications (procedure),Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0436120,C0008059,TREATS,"Physical examination, complete",Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0441640,C0008059,TREATS,Tapering - action,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0541653,C0008059,TREATS,Chart evaluation by healthcare professional,Child,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0545084,C0001675,TREATS,Outpatient visits,Adult,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0545084,C0008059,TREATS,Outpatient visits,Child,hlca,aggp,5,TREATS_HLCAtrtsAGGP
+C0553618,C0001675,TREATS,emergency visit,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0553618,C0008059,TREATS,emergency visit,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0557038,C0001675,TREATS,Providing material,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0557980,C0001588,TREATS,Evaluating interventions,"Adolescents, Female",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0558005,C0001675,TREATS,Needs Assessment,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0558005,C0008059,TREATS,Needs Assessment,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0558005,C3146221,TREATS,Needs Assessment,Juvenile,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0581122,C0001675,TREATS,Asthma severity,Adult,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0581122,C0008059,TREATS,Asthma severity,Child,hlca,aggp,5,TREATS_HLCAtrtsAGGP
+C0582103,C0008059,TREATS,Medical Examination,Child,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0582103,C0021289,TREATS,Medical Examination,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0582103,C0205653,TREATS,Medical Examination,Adolescent (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0582103,C0682053,TREATS,Medical Examination,Toddler (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0587569,C0008059,TREATS,Physician service,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0587599,C0008059,TREATS,Pediatric service,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0587668,C0008059,TREATS,Surgical service,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0600015,C0008059,TREATS,Emotional support,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0600290,C0008100,TREATS,Hospital Readmissions,"Child, Preschool",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0600290,C0021289,TREATS,Hospital Readmissions,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0679830,C0001675,TREATS,patient assessment,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0679831,C0008059,TREATS,Patient History,Child,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0679878,C0001675,TREATS,acute care,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0679878,C0008059,TREATS,acute care,Child,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0679897,C0008059,TREATS,health care program,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0700325,C0001675,TREATS,Patient observation,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0700325,C0008059,TREATS,Patient observation,Child,hlca,aggp,8,TREATS_HLCAtrtsAGGP
+C0700325,C0021270,TREATS,Patient observation,Infant,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0729338,C0008059,TREATS,Care provision regimes,Child,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0805586,C0001675,TREATS,Challenge,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0805586,C0008059,TREATS,Challenge,Child,hlca,aggp,13,TREATS_HLCAtrtsAGGP
+C0805586,C0021270,TREATS,Challenge,Infant,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0805586,C0021289,TREATS,Challenge,"Infant, Newborn",hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0805586,C4048294,TREATS,Challenge,Preterm Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0814500,C0008059,TREATS,elective care,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0850397,C0001675,TREATS,health information,Adult,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C0850397,C0008059,TREATS,health information,Child,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C0868975,C0021270,TREATS,institutional care,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0871311,C0008059,TREATS,screening tests,Child,hlca,aggp,4,TREATS_HLCAtrtsAGGP
+C0871311,C0021270,TREATS,screening tests,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0871311,C0205653,TREATS,screening tests,Adolescent (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0871549,C0008059,TREATS,Withholding Treatment,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C0872387,C0001675,TREATS,Procedures on liver,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1144866,C0008059,TREATS,Multi-disciplinary team,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1144866,C0021289,TREATS,Multi-disciplinary team,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1160858,C0008059,TREATS,Behavior assessment,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1255664,C0021289,TREATS,standardized assessments,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1255664,C4048294,TREATS,standardized assessments,Preterm Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1258068,C0001675,TREATS,Nutrition management,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1261322,C0001675,TREATS,Evaluation procedure,Adult,hlca,aggp,7,TREATS_HLCAtrtsAGGP
+C1261322,C0008059,TREATS,Evaluation procedure,Child,hlca,aggp,27,TREATS_HLCAtrtsAGGP
+C1261322,C0021270,TREATS,Evaluation procedure,Infant,hlca,aggp,9,TREATS_HLCAtrtsAGGP
+C1261322,C0021289,TREATS,Evaluation procedure,"Infant, Newborn",hlca,aggp,11,TREATS_HLCAtrtsAGGP
+C1261322,C0205653,TREATS,Evaluation procedure,Adolescent (age group),hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C1261322,C0699810,TREATS,Evaluation procedure,age differences,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1261322,C2827631,TREATS,Evaluation procedure,School Age Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1261322,C3494262,TREATS,Evaluation procedure,"Infant, Extremely Premature",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1261322,C4048294,TREATS,Evaluation procedure,Preterm Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1269815,C0001675,TREATS,Patient identification,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1283169,C0001675,TREATS,Monitoring - action,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1318955,C0008059,TREATS,Asthma management,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1318955,C0008100,TREATS,Asthma management,"Child, Preschool",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1406915,C0008059,TREATS,breathing therapy,Child,hlca,aggp,4,TREATS_HLCAtrtsAGGP
+C1406915,C0021270,TREATS,breathing therapy,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1456630,C0008059,TREATS,Assisted Living,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1514821,C0008100,TREATS,Registration,"Child, Preschool",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1515089,C0001675,TREATS,Surgical Management,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1516615,C0001675,TREATS,Clinical Management,Adult,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C1516615,C0008059,TREATS,Clinical Management,Child,hlca,aggp,5,TREATS_HLCAtrtsAGGP
+C1516615,C0021270,TREATS,Clinical Management,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1516615,C0021289,TREATS,Clinical Management,"Infant, Newborn",hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C1516879,C0001675,TREATS,Enrollment,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1516879,C0008059,TREATS,Enrollment,Child,hlca,aggp,4,TREATS_HLCAtrtsAGGP
+C1516879,C0021270,TREATS,Enrollment,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1516879,C0205653,TREATS,Enrollment,Adolescent (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1516879,C0682053,TREATS,Enrollment,Toddler (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1517942,C0008059,TREATS,Long-term Follow-up,Child,hlca,aggp,4,TREATS_HLCAtrtsAGGP
+C1517942,C0021289,TREATS,Long-term Follow-up,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1522577,C0001675,TREATS,follow-up,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1522577,C0008059,TREATS,follow-up,Child,hlca,aggp,17,TREATS_HLCAtrtsAGGP
+C1522577,C0021270,TREATS,follow-up,Infant,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C1522577,C0021289,TREATS,follow-up,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1522577,C0205653,TREATS,follow-up,Adolescent (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1522577,C0238598,TREATS,follow-up,Young Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1522577,C0870221,TREATS,follow-up,Boys,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1522577,C4048294,TREATS,follow-up,Preterm Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1535528,C0001675,TREATS,Tracheal aspiration,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1553687,C0008059,TREATS,public healthcare,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1555324,C0008059,TREATS,inpatient encounter,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1960376,C0008059,TREATS,Hearing assessment,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1960376,C0021289,TREATS,Hearing assessment,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C1999123,C0008059,TREATS,Continued Surveillance,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2239117,C2827631,TREATS,Prescription of drug (procedure),School Age Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2350442,C0008059,TREATS,Nasal Lavage,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2350442,C0021270,TREATS,Nasal Lavage,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2359834,C0021270,TREATS,Additional assessment,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2599893,C0008059,TREATS,Oral care,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2599893,C0021270,TREATS,Oral care,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2599893,C0021289,TREATS,Oral care,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2718016,C0001675,TREATS,Compassionate Use,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2718016,C0008059,TREATS,Compassionate Use,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2826232,C0021270,TREATS,Dose Adjustment,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2936643,C0001675,TREATS,Standard of Care,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2936643,C0008059,TREATS,Standard of Care,Child,hlca,aggp,4,TREATS_HLCAtrtsAGGP
+C2936643,C0021270,TREATS,Standard of Care,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2936643,C0021289,TREATS,Standard of Care,"Infant, Newborn",hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C2945700,C0001675,TREATS,typology,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C2958078,C0008059,TREATS,Psychosocial care (regime/therapy),Child,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C3176875,C0021289,TREATS,Asymptomatic screening,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C3494403,C0001675,TREATS,Tertiary Healthcare,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C3494403,C0008059,TREATS,Tertiary Healthcare,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C3494437,C0008059,TREATS,Symptom Assessment,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C3509523,C0008059,TREATS,Haematopoietic stem cell transplant,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C3665478,C0001675,TREATS,chemotherapy administration,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C3825865,C0021270,TREATS,Pediatric anesthesia,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C3826004,C0008059,TREATS,Medical screening,Child,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C3826454,C3843826,TREATS,Diagnostic specimens,Thirties,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C3889687,C0008059,TREATS,Clinical Observation,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C3889687,C0021270,TREATS,Clinical Observation,Infant,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C3889687,C0021289,TREATS,Clinical Observation,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C3898714,C0001675,TREATS,Internet-Based Intervention,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4019079,C0021270,TREATS,Patient Transition,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4036459,C0001675,TREATS,Contacts,Adult,hlca,aggp,5,TREATS_HLCAtrtsAGGP
+C4036459,C0008059,TREATS,Contacts,Child,hlca,aggp,4,TREATS_HLCAtrtsAGGP
+C4036459,C0205653,TREATS,Contacts,Adolescent (age group),hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4042781,C0008059,TREATS,Black Box Warning,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4042802,C0008059,TREATS,Telerehabilitation,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4082936,C4048294,TREATS,Hemodynamic Monitoring,Preterm Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4279933,C0008059,TREATS,Vaccination Campaign,Child,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C4279933,C0021270,TREATS,Vaccination Campaign,Infant,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C4279933,C0021289,TREATS,Vaccination Campaign,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4489276,C0008059,TREATS,Readmission,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4505148,C0001675,TREATS,Vaccination Coverage,Adult,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C4505148,C0008059,TREATS,Vaccination Coverage,Child,hlca,aggp,10,TREATS_HLCAtrtsAGGP
+C4505148,C0021270,TREATS,Vaccination Coverage,Infant,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4505148,C0205653,TREATS,Vaccination Coverage,Adolescent (age group),hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C4505148,C0920381,TREATS,Vaccination Coverage,1 year old,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4505149,C0008059,TREATS,Immunization Coverage,Child,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C4505149,C0021270,TREATS,Immunization Coverage,Infant,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C4520844,C0008059,TREATS,School Health,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4542605,C0001588,TREATS,Demonstration Project,"Adolescents, Female",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4551696,C0001675,TREATS,Prone positioning,Adult,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4551696,C0008059,TREATS,Prone positioning,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4684571,C0008059,TREATS,Baseline Assessment,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4684780,C0001675,TREATS,Standard Treatment,Adult,hlca,aggp,3,TREATS_HLCAtrtsAGGP
+C4684780,C0008059,TREATS,Standard Treatment,Child,hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C4684780,C0021289,TREATS,Standard Treatment,"Infant, Newborn",hlca,aggp,1,TREATS_HLCAtrtsAGGP
+C5190601,C0008059,TREATS,Bronchoscopic bronchoalveolar lavage,Child,hlca,aggp,2,TREATS_HLCAtrtsAGGP
+C5190601,C0021289,TREATS,Bronchoscopic bronchoalveolar lavage,"Infant, Newborn",hlca,aggp,2,TREATS_HLCAtrtsAGGP

@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0001551,LOWER_THAN,Immunologic Adjuvants,Immunologic Adjuvants,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0003316,C0003316,LOWER_THAN,Epitopes,Epitopes,imft,imft,2,LOWER_THAN_IMFTlowtIMFT
+C0003320,C0003320,LOWER_THAN,Antigens,Antigens,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0003320,C0003342,LOWER_THAN,Antigens,"Antigens, Viral",imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0042211,C0037355,LOWER_THAN,"Vaccines, Attenuated",smallpox vaccine,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0042211,C0376613,LOWER_THAN,"Vaccines, Attenuated","Vaccines, DNA",imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0042212,C0042211,LOWER_THAN,"Vaccines, Inactivated","Vaccines, Attenuated",imft,imft,12,LOWER_THAN_IMFTlowtIMFT
+C0282580,C0003316,LOWER_THAN,"Epitopes, T-Lymphocyte",Epitopes,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0376613,C0042211,LOWER_THAN,"Vaccines, DNA","Vaccines, Attenuated",imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0535644,C1277100,LOWER_THAN,Diphtheria-Tetanus-acellular Pertussis Vaccines,Diphtheria-Tetanus-(whole-cell) Pertussis Vaccine,imft,imft,1,LOWER_THAN_IMFTlowtIMFT
+C0887892,C0042211,LOWER_THAN,"Vaccines, Subunit","Vaccines, Attenuated",imft,imft,2,LOWER_THAN_IMFTlowtIMFT
+C0887892,C0042742,LOWER_THAN,"Vaccines, Subunit",Viral Vaccines,imft,imft,1,LOWER_THAN_IMFTlowtIMFT

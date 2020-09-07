@@ -1,0 +1,446 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002423,C0021436,USES,ambulatory care services,Infusion Pump,hlca,medd,1,USES_HLCAusesMEDD
+C0008078,C0181904,USES,Child health care,Monitor Device,hlca,medd,1,USES_HLCAusesMEDD
+C0008952,C0728990,USES,Clinic Visits,Clinical Use Template,hlca,medd,1,USES_HLCAusesMEDD
+C0009449,C0085104,USES,Communicable Disease Control,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0009586,C1706912,USES,Comprehensive Health Care,BARRIER,hlca,medd,1,USES_HLCAusesMEDD
+C0009818,C0024861,USES,Consultation,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C0009818,C0085104,USES,Consultation,Drug Delivery Systems,hlca,medd,2,USES_HLCAusesMEDD
+C0009818,C0181064,USES,Consultation,Gown,hlca,medd,1,USES_HLCAusesMEDD
+C0009818,C0728990,USES,Consultation,Clinical Use Template,hlca,medd,1,USES_HLCAusesMEDD
+C0009818,C0972401,USES,Consultation,Boards (medical device),hlca,medd,1,USES_HLCAusesMEDD
+C0009818,C1314650,USES,Consultation,"SUPPLY, NOT OTHERWISE SPECIFIED",hlca,medd,1,USES_HLCAusesMEDD
+C0009818,C2363670,USES,Consultation,developers,hlca,medd,2,USES_HLCAusesMEDD
+C0010337,C0087153,USES,Care of intensive care unit patient,Ventilator - respiratory equipment,hlca,medd,2,USES_HLCAusesMEDD
+C0010337,C0178987,USES,Care of intensive care unit patient,Artificial Airways,hlca,medd,1,USES_HLCAusesMEDD
+C0010337,C0179064,USES,Care of intensive care unit patient,Anesthesia machine,hlca,medd,1,USES_HLCAusesMEDD
+C0011211,C0524724,USES,Delivery of Health Care,"Staple, Surgical",hlca,medd,1,USES_HLCAusesMEDD
+C0013961,C0002422,USES,Emergency medical service,Ambulances,hlca,medd,1,USES_HLCAusesMEDD
+C0015187,C0788304,USES,Euthanasia,uric acid test,hlca,medd,1,USES_HLCAusesMEDD
+C0017313,C0024861,USES,patient care,Masks,hlca,medd,4,USES_HLCAusesMEDD
+C0017313,C0042497,USES,patient care,Mechanical Ventilator,hlca,medd,7,USES_HLCAusesMEDD
+C0017313,C0087153,USES,patient care,Ventilator - respiratory equipment,hlca,medd,1,USES_HLCAusesMEDD
+C0017313,C0181064,USES,patient care,Gown,hlca,medd,2,USES_HLCAusesMEDD
+C0017313,C0181758,USES,patient care,Surgical face mask,hlca,medd,4,USES_HLCAusesMEDD
+C0017313,C0183716,USES,patient care,bolsters,hlca,medd,1,USES_HLCAusesMEDD
+C0017313,C0336573,USES,patient care,Life support equipment,hlca,medd,1,USES_HLCAusesMEDD
+C0017313,C0336587,USES,patient care,"Surgical drill, device (physical object)",hlca,medd,1,USES_HLCAusesMEDD
+C0017313,C0497652,USES,patient care,New equipment,hlca,medd,1,USES_HLCAusesMEDD
+C0017313,C1314650,USES,patient care,"SUPPLY, NOT OTHERWISE SPECIFIED",hlca,medd,1,USES_HLCAusesMEDD
+C0017313,C1706912,USES,patient care,BARRIER,hlca,medd,1,USES_HLCAusesMEDD
+C0018570,C0180463,USES,Hand Disinfection,Dispenser,hlca,medd,1,USES_HLCAusesMEDD
+C0018570,C0183086,USES,Hand Disinfection,sanitizers,hlca,medd,1,USES_HLCAusesMEDD
+C0018570,C0879140,USES,Hand Disinfection,Towelettes,hlca,medd,1,USES_HLCAusesMEDD
+C0018727,C0085104,USES,Health Planning,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0018738,C0024861,USES,Health Promotion,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C0018747,C0002422,USES,Health Services,Ambulances,hlca,medd,1,USES_HLCAusesMEDD
+C0018747,C0039818,USES,Health Services,"Thermometer, device",hlca,medd,1,USES_HLCAusesMEDD
+C0018747,C0085104,USES,Health Services,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0018747,C0087153,USES,Health Services,Ventilator - respiratory equipment,hlca,medd,1,USES_HLCAusesMEDD
+C0018747,C0183210,USES,Health Services,sensor (device),hlca,medd,1,USES_HLCAusesMEDD
+C0019948,C0178987,USES,Hospital Administration,Artificial Airways,hlca,medd,12,USES_HLCAusesMEDD
+C0019993,C0085104,USES,Hospitalization,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0019993,C1261188,USES,Hospitalization,Swab,hlca,medd,2,USES_HLCAusesMEDD
+C0020042,C0181598,USES,Hotlines,Left ventricular assist device,hlca,medd,1,USES_HLCAusesMEDD
+C0021634,C0024861,USES,Insufflation,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C0021634,C0085104,USES,Insufflation,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0023977,C0009653,USES,long-term care,"Condoms, Male",hlca,medd,3,USES_HLCAusesMEDD
+C0026426,C0003835,USES,Blood pressure monitoring,Arterial Lines,hlca,medd,3,USES_HLCAusesMEDD
+C0026426,C0180208,USES,Blood pressure monitoring,Blood pressure cuff,hlca,medd,1,USES_HLCAusesMEDD
+C0026426,C0581447,USES,Blood pressure monitoring,Arterial catheter,hlca,medd,1,USES_HLCAusesMEDD
+C0027452,C0085104,USES,National Health Insurance,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0027462,C0002422,USES,"Health Services, National",Ambulances,hlca,medd,2,USES_HLCAusesMEDD
+C0027462,C0087153,USES,"Health Services, National",Ventilator - respiratory equipment,hlca,medd,1,USES_HLCAusesMEDD
+C0030494,C0009653,USES,Parasite Control,"Condoms, Male",hlca,medd,1,USES_HLCAusesMEDD
+C0030672,C0181904,USES,Patient Acceptance of Health Care,Monitor Device,hlca,medd,1,USES_HLCAusesMEDD
+C0030672,C1139730,USES,Patient Acceptance of Health Care,monitoring systems,hlca,medd,1,USES_HLCAusesMEDD
+C0030685,C0013194,USES,Patient Discharge,Drug Packaging,hlca,medd,3,USES_HLCAusesMEDD
+C0030685,C0015421,USES,Patient Discharge,Eyeglasses,hlca,medd,1,USES_HLCAusesMEDD
+C0030685,C0026032,USES,Patient Discharge,Microspheres,hlca,medd,1,USES_HLCAusesMEDD
+C0030685,C0085104,USES,Patient Discharge,Drug Delivery Systems,hlca,medd,2,USES_HLCAusesMEDD
+C0030685,C0175722,USES,Patient Discharge,Clip,hlca,medd,2,USES_HLCAusesMEDD
+C0030685,C0175727,USES,Patient Discharge,Stimulator,hlca,medd,1,USES_HLCAusesMEDD
+C0030685,C0180142,USES,Patient Discharge,Gamma counter,hlca,medd,2,USES_HLCAusesMEDD
+C0030685,C0181758,USES,Patient Discharge,Surgical face mask,hlca,medd,1,USES_HLCAusesMEDD
+C0030685,C0182258,USES,Patient Discharge,Microplate Reader,hlca,medd,2,USES_HLCAusesMEDD
+C0030685,C0182400,USES,Patient Discharge,Probes,hlca,medd,1,USES_HLCAusesMEDD
+C0030685,C0183400,USES,Patient Discharge,Spectrophotometer,hlca,medd,1,USES_HLCAusesMEDD
+C0030685,C0221872,USES,Patient Discharge,Sizer,hlca,medd,1,USES_HLCAusesMEDD
+C0030685,C0262880,USES,Patient Discharge,Transmission Electron Microscopes,hlca,medd,1,USES_HLCAusesMEDD
+C0030685,C1706912,USES,Patient Discharge,BARRIER,hlca,medd,3,USES_HLCAusesMEDD
+C0030695,C0039818,USES,Patient Monitoring,"Thermometer, device",hlca,medd,1,USES_HLCAusesMEDD
+C0030695,C0178951,USES,Patient Monitoring,Accelerometer,hlca,medd,2,USES_HLCAusesMEDD
+C0030695,C0182281,USES,Patient Monitoring,Picture Archiving and Communication Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0030695,C3876349,USES,Patient Monitoring,Wall mount,hlca,medd,1,USES_HLCAusesMEDD
+C0030704,C0007963,USES,Patient Transfer,Charts (device),hlca,medd,1,USES_HLCAusesMEDD
+C0030768,C0777169,USES,Peer Review,Lancet,hlca,medd,1,USES_HLCAusesMEDD
+C0031148,C0179630,USES,Peritoneal lavage,Cartridge device,hlca,medd,1,USES_HLCAusesMEDD
+C0031809,C0024861,USES,Physical Examination,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C0031809,C0039818,USES,Physical Examination,"Thermometer, device",hlca,medd,1,USES_HLCAusesMEDD
+C0031809,C0179432,USES,Physical Examination,Bronchoscopes,hlca,medd,2,USES_HLCAusesMEDD
+C0031809,C0179433,USES,Physical Examination,Flexible bronchoscope,hlca,medd,1,USES_HLCAusesMEDD
+C0031809,C0182098,USES,Physical Examination,Otoscopes,hlca,medd,2,USES_HLCAusesMEDD
+C0031809,C0182400,USES,Physical Examination,Probes,hlca,medd,4,USES_HLCAusesMEDD
+C0031809,C0183044,USES,Physical Examination,Rhinoscope,hlca,medd,1,USES_HLCAusesMEDD
+C0031809,C0183115,USES,Physical Examination,Scanning Systems,hlca,medd,6,USES_HLCAusesMEDD
+C0031809,C0183309,USES,Physical Examination,Simulators,hlca,medd,1,USES_HLCAusesMEDD
+C0031809,C0183414,USES,Physical Examination,Nasal speculum,hlca,medd,1,USES_HLCAusesMEDD
+C0031809,C0936234,USES,Physical Examination,Computed Tomography Scanning Systems,hlca,medd,4,USES_HLCAusesMEDD
+C0031809,C0972401,USES,Physical Examination,Boards (medical device),hlca,medd,12,USES_HLCAusesMEDD
+C0033101,C0994894,USES,pretesting,Patch Dosage Form,hlca,medd,1,USES_HLCAusesMEDD
+C0033137,C0042497,USES,Primary Health Care,Mechanical Ventilator,hlca,medd,4,USES_HLCAusesMEDD
+C0033137,C0179177,USES,Primary Health Care,Autoclave,hlca,medd,4,USES_HLCAusesMEDD
+C0033137,C1706912,USES,Primary Health Care,BARRIER,hlca,medd,1,USES_HLCAusesMEDD
+C0033137,C3880082,USES,Primary Health Care,Epinephrine autoinjector,hlca,medd,1,USES_HLCAusesMEDD
+C0034107,C0175723,USES,Pulse taking,Bands,hlca,medd,1,USES_HLCAusesMEDD
+C0034107,C0180476,USES,Pulse taking,Cell disrupter,hlca,medd,1,USES_HLCAusesMEDD
+C0034107,C0182400,USES,Pulse taking,Probes,hlca,medd,4,USES_HLCAusesMEDD
+C0034107,C0184187,USES,Pulse taking,Tweezer,hlca,medd,1,USES_HLCAusesMEDD
+C0034107,C1140627,USES,Pulse taking,pulse generators,hlca,medd,2,USES_HLCAusesMEDD
+C0034117,C0027551,USES,Puncture procedure,Needle device,hlca,medd,1,USES_HLCAusesMEDD
+C0034117,C0039142,USES,Puncture procedure,Syringes,hlca,medd,5,USES_HLCAusesMEDD
+C0034117,C0175730,USES,Puncture procedure,biomedical tube device,hlca,medd,1,USES_HLCAusesMEDD
+C0034117,C0179313,USES,Puncture procedure,Biopsy gun,hlca,medd,1,USES_HLCAusesMEDD
+C0034117,C0181089,USES,Puncture procedure,"Catheter guide wire, device",hlca,medd,1,USES_HLCAusesMEDD
+C0034117,C0221093,USES,Puncture procedure,Hypodermic Needles,hlca,medd,1,USES_HLCAusesMEDD
+C0034117,C0770764,USES,Puncture procedure,Disposable Syringe,hlca,medd,1,USES_HLCAusesMEDD
+C0034117,C0776677,USES,Puncture procedure,Disposable Needle,hlca,medd,1,USES_HLCAusesMEDD
+C0034117,C0777169,USES,Puncture procedure,Lancet,hlca,medd,2,USES_HLCAusesMEDD
+C0034117,C3880144,USES,Puncture procedure,Micro-needle,hlca,medd,1,USES_HLCAusesMEDD
+C0034117,C4744970,USES,Puncture procedure,Microneedle Drug Delivery System,hlca,medd,1,USES_HLCAusesMEDD
+C0035649,C1706912,USES,Risk Management,BARRIER,hlca,medd,1,USES_HLCAusesMEDD
+C0037943,C0181982,USES,Spinal Puncture,Spinal needle,hlca,medd,1,USES_HLCAusesMEDD
+C0038280,C0024861,USES,Sterilization for infection control,Masks,hlca,medd,2,USES_HLCAusesMEDD
+C0039423,C0085104,USES,"Technology Assessment, Biomedical",Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0085204,C0024861,USES,Universal Precautions,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C0085204,C1706912,USES,Universal Precautions,BARRIER,hlca,medd,3,USES_HLCAusesMEDD
+C0085557,C0002422,USES,Infectious disease prevention / control,Ambulances,hlca,medd,1,USES_HLCAusesMEDD
+C0085557,C0042497,USES,Infectious disease prevention / control,Mechanical Ventilator,hlca,medd,1,USES_HLCAusesMEDD
+C0085557,C0085104,USES,Infectious disease prevention / control,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0085557,C0179423,USES,Infectious disease prevention / control,Breathing circuit (physical object),hlca,medd,1,USES_HLCAusesMEDD
+C0085557,C0183255,USES,Infectious disease prevention / control,Face shield (physical object),hlca,medd,3,USES_HLCAusesMEDD
+C0085557,C1706912,USES,Infectious disease prevention / control,BARRIER,hlca,medd,1,USES_HLCAusesMEDD
+C0085557,C5203172,USES,Infectious disease prevention / control,FACE SHIELD,hlca,medd,1,USES_HLCAusesMEDD
+C0085559,C0087153,USES,intensive care,Ventilator - respiratory equipment,hlca,medd,1,USES_HLCAusesMEDD
+C0085559,C0178987,USES,intensive care,Artificial Airways,hlca,medd,1,USES_HLCAusesMEDD
+C0085566,C0182590,USES,"Process Assessment, Health Care",radiation detector,hlca,medd,1,USES_HLCAusesMEDD
+C0086265,C0972401,USES,Ethical Review,Boards (medical device),hlca,medd,2,USES_HLCAusesMEDD
+C0086390,C0183559,USES,Medical Care Team,Stethoscopes,hlca,medd,2,USES_HLCAusesMEDD
+C0086930,C1139730,USES,Risk Assessment,monitoring systems,hlca,medd,1,USES_HLCAusesMEDD
+C0150270,C0027524,USES,Medication Management,Nebulizers,hlca,medd,1,USES_HLCAusesMEDD
+C0150270,C1314650,USES,Medication Management,"SUPPLY, NOT OTHERWISE SPECIFIED",hlca,medd,4,USES_HLCAusesMEDD
+C0150390,C0002422,USES,Patient Transport,Ambulances,hlca,medd,1,USES_HLCAusesMEDD
+C0150600,C0024861,USES,Advice,Masks,hlca,medd,2,USES_HLCAusesMEDD
+C0150600,C0085678,USES,Advice,Nasogastric tube,hlca,medd,1,USES_HLCAusesMEDD
+C0161959,C0021102,USES,Cardiovascular monitoring,Implants,hlca,medd,2,USES_HLCAusesMEDD
+C0162648,C0007963,USES,Telemedicine,Charts (device),hlca,medd,2,USES_HLCAusesMEDD
+C0162648,C0085104,USES,Telemedicine,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0162648,C0596972,USES,Telemedicine,Monitoring Device,hlca,medd,1,USES_HLCAusesMEDD
+C0162648,C0728990,USES,Telemedicine,Clinical Use Template,hlca,medd,1,USES_HLCAusesMEDD
+C0162648,C1706912,USES,Telemedicine,BARRIER,hlca,medd,4,USES_HLCAusesMEDD
+C0175637,C1706912,USES,Health evaluation,BARRIER,hlca,medd,1,USES_HLCAusesMEDD
+C0178906,C0677048,USES,Quality monitoring,Manual Cytometers,hlca,medd,1,USES_HLCAusesMEDD
+C0184624,C0005975,USES,feeding technique,Bone Screws,hlca,medd,1,USES_HLCAusesMEDD
+C0184624,C1314650,USES,feeding technique,"SUPPLY, NOT OTHERWISE SPECIFIED",hlca,medd,1,USES_HLCAusesMEDD
+C0184821,C0007963,USES,Retrospective audit,Charts (device),hlca,medd,1,USES_HLCAusesMEDD
+C0184959,C0178987,USES,Instillation (procedure),Artificial Airways,hlca,medd,1,USES_HLCAusesMEDD
+C0199171,C0024861,USES,medical procedure,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C0199171,C0035208,USES,medical procedure,"Respirators, Air-Purifying",hlca,medd,1,USES_HLCAusesMEDD
+C0199171,C0184165,USES,medical procedure,Tubing,hlca,medd,1,USES_HLCAusesMEDD
+C0199182,C0009836,USES,History taking,Contact Lenses,hlca,medd,1,USES_HLCAusesMEDD
+C0199614,C0182117,USES,Monitoring of pulse,"Oxygen analyzer, device",hlca,medd,1,USES_HLCAusesMEDD
+C0200345,C0005971,USES,Specimen Collection,Bone plates,hlca,medd,2,USES_HLCAusesMEDD
+C0200345,C0013194,USES,Specimen Collection,Drug Packaging,hlca,medd,1,USES_HLCAusesMEDD
+C0200345,C0175730,USES,Specimen Collection,biomedical tube device,hlca,medd,2,USES_HLCAusesMEDD
+C0200345,C0178987,USES,Specimen Collection,Artificial Airways,hlca,medd,1,USES_HLCAusesMEDD
+C0200345,C0184108,USES,Specimen Collection,"TUBE, COLLECTION, CAPILLARY BLOOD",hlca,medd,1,USES_HLCAusesMEDD
+C0200345,C0184165,USES,Specimen Collection,Tubing,hlca,medd,1,USES_HLCAusesMEDD
+C0200345,C0770764,USES,Specimen Collection,Disposable Syringe,hlca,medd,1,USES_HLCAusesMEDD
+C0200345,C0777169,USES,Specimen Collection,Lancet,hlca,medd,1,USES_HLCAusesMEDD
+C0200345,C0879140,USES,Specimen Collection,Towelettes,hlca,medd,1,USES_HLCAusesMEDD
+C0200345,C0879240,USES,Specimen Collection,Nasal Swabs,hlca,medd,6,USES_HLCAusesMEDD
+C0200345,C1261188,USES,Specimen Collection,Swab,hlca,medd,20,USES_HLCAusesMEDD
+C0204695,C0005975,USES,Feeding patient,Bone Screws,hlca,medd,1,USES_HLCAusesMEDD
+C0204695,C0005978,USES,Feeding patient,Bone Wires,hlca,medd,3,USES_HLCAusesMEDD
+C0204695,C0039142,USES,Feeding patient,Syringes,hlca,medd,1,USES_HLCAusesMEDD
+C0204695,C0179177,USES,Feeding patient,Autoclave,hlca,medd,1,USES_HLCAusesMEDD
+C0204695,C0182400,USES,Feeding patient,Probes,hlca,medd,1,USES_HLCAusesMEDD
+C0204695,C0336572,USES,Feeding patient,Applicator stick,hlca,medd,1,USES_HLCAusesMEDD
+C0204695,C0376432,USES,Feeding patient,Bioreactors,hlca,medd,1,USES_HLCAusesMEDD
+C0206082,C0009653,USES,Immunization Programs,"Condoms, Male",hlca,medd,1,USES_HLCAusesMEDD
+C0206082,C0973726,USES,Immunization Programs,"NEEDLES,INJECTION",hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0002422,USES,Evaluation,Ambulances,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0009836,USES,Evaluation,Contact Lenses,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0011355,USES,Evaluation,Dental Equipment,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0013194,USES,Evaluation,Drug Packaging,hlca,medd,2,USES_HLCAusesMEDD
+C0220825,C0016266,USES,Evaluation,Flowmeters,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0021102,USES,Evaluation,Implants,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0021461,USES,Evaluation,Inhaler,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0024861,USES,Evaluation,Masks,hlca,medd,3,USES_HLCAusesMEDD
+C0220825,C0025973,USES,Evaluation,Microelectrodes,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0042497,USES,Evaluation,Mechanical Ventilator,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0085104,USES,Evaluation,Drug Delivery Systems,hlca,medd,7,USES_HLCAusesMEDD
+C0220825,C0150789,USES,Evaluation,Patient Holding Stretchers,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0175663,USES,Evaluation,Sounds device,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0175723,USES,Evaluation,Bands,hlca,medd,2,USES_HLCAusesMEDD
+C0220825,C0175730,USES,Evaluation,biomedical tube device,hlca,medd,2,USES_HLCAusesMEDD
+C0220825,C0178951,USES,Evaluation,Accelerometer,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0178987,USES,Evaluation,Artificial Airways,hlca,medd,20,USES_HLCAusesMEDD
+C0220825,C0179433,USES,Evaluation,Flexible bronchoscope,hlca,medd,3,USES_HLCAusesMEDD
+C0220825,C0180006,USES,Evaluation,Cold pack (medical device),hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0181839,USES,Evaluation,Microscopes,hlca,medd,3,USES_HLCAusesMEDD
+C0220825,C0182098,USES,Evaluation,Otoscopes,hlca,medd,3,USES_HLCAusesMEDD
+C0220825,C0182158,USES,Evaluation,Pads,hlca,medd,3,USES_HLCAusesMEDD
+C0220825,C0182281,USES,Evaluation,Picture Archiving and Communication Systems,hlca,medd,2,USES_HLCAusesMEDD
+C0220825,C0182400,USES,Evaluation,Probes,hlca,medd,3,USES_HLCAusesMEDD
+C0220825,C0183044,USES,Evaluation,Rhinoscope,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0183086,USES,Evaluation,sanitizers,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0183115,USES,Evaluation,Scanning Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0183309,USES,Evaluation,Simulators,hlca,medd,3,USES_HLCAusesMEDD
+C0220825,C0183885,USES,Evaluation,Tester device,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C0184108,USES,Evaluation,"TUBE, COLLECTION, CAPILLARY BLOOD",hlca,medd,2,USES_HLCAusesMEDD
+C0220825,C0262878,USES,Evaluation,"Microscopes, Electron, Scanning",hlca,medd,2,USES_HLCAusesMEDD
+C0220825,C0262880,USES,Evaluation,Transmission Electron Microscopes,hlca,medd,2,USES_HLCAusesMEDD
+C0220825,C0392308,USES,Evaluation,vacuum cleaners,hlca,medd,2,USES_HLCAusesMEDD
+C0220825,C0491243,USES,Evaluation,Flexible endoscope,hlca,medd,7,USES_HLCAusesMEDD
+C0220825,C0491970,USES,Evaluation,Light microscope,hlca,medd,3,USES_HLCAusesMEDD
+C0220825,C0728990,USES,Evaluation,Clinical Use Template,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C1139952,USES,Evaluation,"Recorders, Physiologic, Physical Activity",hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C1261188,USES,Evaluation,Swab,hlca,medd,2,USES_HLCAusesMEDD
+C0220825,C1314650,USES,Evaluation,"SUPPLY, NOT OTHERWISE SPECIFIED",hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C1321564,USES,Evaluation,strip medical device,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C1512629,USES,Evaluation,Imaging Device,hlca,medd,2,USES_HLCAusesMEDD
+C0220825,C1553430,USES,Evaluation,Serum Separator Tube,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C1608928,USES,Evaluation,Refractometer,hlca,medd,1,USES_HLCAusesMEDD
+C0220825,C1706912,USES,Evaluation,BARRIER,hlca,medd,2,USES_HLCAusesMEDD
+C0220825,C2713471,USES,Evaluation,In Vitro Diagnostic Devices,hlca,medd,1,USES_HLCAusesMEDD
+C0237070,C0013194,USES,Discipline,Drug Packaging,hlca,medd,1,USES_HLCAusesMEDD
+C0237070,C1706912,USES,Discipline,BARRIER,hlca,medd,1,USES_HLCAusesMEDD
+C0262754,C1314650,USES,drug management,"SUPPLY, NOT OTHERWISE SPECIFIED",hlca,medd,4,USES_HLCAusesMEDD
+C0278329,C0179834,USES,Prescribed,Centrifuges (device),hlca,medd,1,USES_HLCAusesMEDD
+C0344211,C0181744,USES,Supportive care,Oxygen mask,hlca,medd,1,USES_HLCAusesMEDD
+C0344211,C0879179,USES,Supportive care,Nasal catheter,hlca,medd,1,USES_HLCAusesMEDD
+C0376306,C0182400,USES,Oral Examination,Probes,hlca,medd,1,USES_HLCAusesMEDD
+C0376306,C0972401,USES,Oral Examination,Boards (medical device),hlca,medd,1,USES_HLCAusesMEDD
+C0398523,C0027551,USES,Bone marrow aspiration procedure,Needle device,hlca,medd,1,USES_HLCAusesMEDD
+C0419342,C0777169,USES,Capillary specimen collection (procedure),Lancet,hlca,medd,1,USES_HLCAusesMEDD
+C0422202,C0085104,USES,Notifications (procedure),Drug Delivery Systems,hlca,medd,2,USES_HLCAusesMEDD
+C0422202,C0182400,USES,Notifications (procedure),Probes,hlca,medd,1,USES_HLCAusesMEDD
+C0422202,C1706912,USES,Notifications (procedure),BARRIER,hlca,medd,2,USES_HLCAusesMEDD
+C0422301,C0178987,USES,Encounter for problem,Artificial Airways,hlca,medd,1,USES_HLCAusesMEDD
+C0441549,C0024861,USES,Custom fitting,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C0441587,C0080306,USES,Clinical act of insertion,Vena Cava Filters,hlca,medd,1,USES_HLCAusesMEDD
+C0441587,C0179407,USES,Clinical act of insertion,brackets,hlca,medd,1,USES_HLCAusesMEDD
+C0441587,C0181089,USES,Clinical act of insertion,"Catheter guide wire, device",hlca,medd,1,USES_HLCAusesMEDD
+C0441587,C0181168,USES,Clinical act of insertion,HEMOCYTOMETER,hlca,medd,1,USES_HLCAusesMEDD
+C0441587,C0182400,USES,Clinical act of insertion,Probes,hlca,medd,2,USES_HLCAusesMEDD
+C0441587,C0728990,USES,Clinical act of insertion,Clinical Use Template,hlca,medd,4,USES_HLCAusesMEDD
+C0441587,C1272835,USES,Clinical act of insertion,Test kit,hlca,medd,2,USES_HLCAusesMEDD
+C0441673,C0008034,USES,Drainage measurement,Chest Tubes,hlca,medd,1,USES_HLCAusesMEDD
+C0444753,C0184252,USES,prosthetic replacement,Medical Valves,hlca,medd,1,USES_HLCAusesMEDD
+C0455242,C0024861,USES,Covering eye,Masks,hlca,medd,2,USES_HLCAusesMEDD
+C0545092,C3495449,USES,hospital visit,Mobility aid,hlca,medd,1,USES_HLCAusesMEDD
+C0548441,C0024861,USES,Preparation for procedure,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C0554832,C0180915,USES,Asthma monitoring,Peak flow meter (device),hlca,medd,1,USES_HLCAusesMEDD
+C0557980,C0024861,USES,Evaluating interventions,Masks,hlca,medd,3,USES_HLCAusesMEDD
+C0558024,C1140606,USES,Functional behavioral assessment,"SORTER, CELL",hlca,medd,1,USES_HLCAusesMEDD
+C0558033,C1512629,USES,Wound assessment,Imaging Device,hlca,medd,1,USES_HLCAusesMEDD
+C0582103,C0024861,USES,Medical Examination,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C0582103,C0037816,USES,Medical Examination,Speculum,hlca,medd,2,USES_HLCAusesMEDD
+C0582103,C0039818,USES,Medical Examination,"Thermometer, device",hlca,medd,1,USES_HLCAusesMEDD
+C0582103,C0040661,USES,Medical Examination,Transducers,hlca,medd,2,USES_HLCAusesMEDD
+C0582103,C0175663,USES,Medical Examination,Sounds device,hlca,medd,2,USES_HLCAusesMEDD
+C0582103,C0181758,USES,Medical Examination,Surgical face mask,hlca,medd,1,USES_HLCAusesMEDD
+C0582103,C0182098,USES,Medical Examination,Otoscopes,hlca,medd,1,USES_HLCAusesMEDD
+C0582103,C0182400,USES,Medical Examination,Probes,hlca,medd,2,USES_HLCAusesMEDD
+C0582103,C0182605,USES,Medical Examination,Radiographic unit,hlca,medd,1,USES_HLCAusesMEDD
+C0582103,C0183044,USES,Medical Examination,Rhinoscope,hlca,medd,1,USES_HLCAusesMEDD
+C0582103,C0725865,USES,Medical Examination,disposable,hlca,medd,3,USES_HLCAusesMEDD
+C0582103,C0972401,USES,Medical Examination,Boards (medical device),hlca,medd,35,USES_HLCAusesMEDD
+C0587569,C0002422,USES,Physician service,Ambulances,hlca,medd,1,USES_HLCAusesMEDD
+C0679809,C0085104,USES,Health Risk Assessment,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0683509,C0183919,USES,disease detection,infrared thermometers,hlca,medd,1,USES_HLCAusesMEDD
+C0699943,C0085104,USES,Public health service,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0700325,C0085104,USES,Patient observation,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C0700325,C0183919,USES,Patient observation,infrared thermometers,hlca,medd,1,USES_HLCAusesMEDD
+C0700325,C1995447,USES,Patient observation,"ORAL,SWAB",hlca,medd,1,USES_HLCAusesMEDD
+C0733511,C0085104,USES,Medical Surveillance,Drug Delivery Systems,hlca,medd,2,USES_HLCAusesMEDD
+C0805586,C0085104,USES,Challenge,Drug Delivery Systems,hlca,medd,2,USES_HLCAusesMEDD
+C0805586,C0087153,USES,Challenge,Ventilator - respiratory equipment,hlca,medd,1,USES_HLCAusesMEDD
+C0805586,C0178987,USES,Challenge,Artificial Airways,hlca,medd,1,USES_HLCAusesMEDD
+C0805586,C0180917,USES,Challenge,Fluorescence immunoassay analyzer,hlca,medd,1,USES_HLCAusesMEDD
+C0805586,C0183559,USES,Challenge,Stethoscopes,hlca,medd,1,USES_HLCAusesMEDD
+C0805586,C0336648,USES,Challenge,Alarm device,hlca,medd,1,USES_HLCAusesMEDD
+C0805586,C0994894,USES,Challenge,Patch Dosage Form,hlca,medd,1,USES_HLCAusesMEDD
+C0805586,C1140607,USES,Challenge,Commodes,hlca,medd,1,USES_HLCAusesMEDD
+C0805586,C1314650,USES,Challenge,"SUPPLY, NOT OTHERWISE SPECIFIED",hlca,medd,5,USES_HLCAusesMEDD
+C0805586,C3879089,USES,Challenge,Whole-body plethysmograph,hlca,medd,1,USES_HLCAusesMEDD
+C0846663,C1314650,USES,resource education,"SUPPLY, NOT OTHERWISE SPECIFIED",hlca,medd,1,USES_HLCAusesMEDD
+C0850397,C0013194,USES,health information,Drug Packaging,hlca,medd,1,USES_HLCAusesMEDD
+C0868975,C0007439,USES,institutional care,Indwelling Catheter,hlca,medd,1,USES_HLCAusesMEDD
+C0871311,C0182158,USES,screening tests,Pads,hlca,medd,1,USES_HLCAusesMEDD
+C0872369,C0183210,USES,telecare,sensor (device),hlca,medd,1,USES_HLCAusesMEDD
+C0886414,C0183924,USES,Body temperature measurement,"THERMOMETER, CLINICAL MERCURY",hlca,medd,1,USES_HLCAusesMEDD
+C0940824,C1706912,USES,Additional procedure,BARRIER,hlca,medd,1,USES_HLCAusesMEDD
+C0947323,C0009653,USES,Dispensing medication,"Condoms, Male",hlca,medd,1,USES_HLCAusesMEDD
+C1138559,C0009653,USES,Voluntary Programs,"Condoms, Male",hlca,medd,1,USES_HLCAusesMEDD
+C1144889,C0810633,USES,Follow-up service,Pacemakers,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0005971,USES,Evaluation procedure,Bone plates,hlca,medd,3,USES_HLCAusesMEDD
+C1261322,C0007963,USES,Evaluation procedure,Charts (device),hlca,medd,2,USES_HLCAusesMEDD
+C1261322,C0009653,USES,Evaluation procedure,"Condoms, Male",hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0013194,USES,Evaluation procedure,Drug Packaging,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0016266,USES,Evaluation procedure,Flowmeters,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0021102,USES,Evaluation procedure,Implants,hlca,medd,2,USES_HLCAusesMEDD
+C1261322,C0024861,USES,Evaluation procedure,Masks,hlca,medd,2,USES_HLCAusesMEDD
+C1261322,C0026032,USES,Evaluation procedure,Microspheres,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0040661,USES,Evaluation procedure,Transducers,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0085099,USES,Evaluation procedure,Incontinence pads,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0085104,USES,Evaluation procedure,Drug Delivery Systems,hlca,medd,4,USES_HLCAusesMEDD
+C1261322,C0162589,USES,Evaluation procedure,Implantable defibrillator,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0175730,USES,Evaluation procedure,biomedical tube device,hlca,medd,4,USES_HLCAusesMEDD
+C1261322,C0178951,USES,Evaluation procedure,Accelerometer,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0178987,USES,Evaluation procedure,Artificial Airways,hlca,medd,30,USES_HLCAusesMEDD
+C1261322,C0179790,USES,Evaluation procedure,Pulmonary artery flotation catheter,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0179840,USES,Evaluation procedure,"CENTRIFUGE, HEMATOCRIT",hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0180279,USES,Evaluation procedure,Flow Cytometer,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0180666,USES,Evaluation procedure,Electroglottograph,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0181839,USES,Evaluation procedure,Microscopes,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0181967,USES,Evaluation procedure,"ELECTRODE, NEEDLE",hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0182334,USES,Evaluation procedure,Pneumotachograph,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0182400,USES,Evaluation procedure,Probes,hlca,medd,2,USES_HLCAusesMEDD
+C1261322,C0183044,USES,Evaluation procedure,Rhinoscope,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0183210,USES,Evaluation procedure,sensor (device),hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0183309,USES,Evaluation procedure,Simulators,hlca,medd,2,USES_HLCAusesMEDD
+C1261322,C0183400,USES,Evaluation procedure,Spectrophotometer,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0184047,USES,Evaluation procedure,Trap medical device,hlca,medd,2,USES_HLCAusesMEDD
+C1261322,C0184066,USES,Evaluation procedure,Microplate,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0262880,USES,Evaluation procedure,Transmission Electron Microscopes,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0457177,USES,Evaluation procedure,Telescopes,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0492229,USES,Evaluation procedure,PNEUMOTACHOMETER,hlca,medd,2,USES_HLCAusesMEDD
+C1261322,C0563574,USES,Evaluation procedure,Fiberoptic laryngoscope,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0581447,USES,Evaluation procedure,Arterial catheter,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0810635,USES,Evaluation procedure,spinal cord stimulators,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0878835,USES,Evaluation procedure,blood gas analyzer,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C0879240,USES,Evaluation procedure,Nasal Swabs,hlca,medd,2,USES_HLCAusesMEDD
+C1261322,C1139730,USES,Evaluation procedure,monitoring systems,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C1139930,USES,Evaluation procedure,Device Plate,hlca,medd,2,USES_HLCAusesMEDD
+C1261322,C1160927,USES,Evaluation procedure,urine dip stick,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C1261188,USES,Evaluation procedure,Swab,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C1512629,USES,Evaluation procedure,Imaging Device,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C1553430,USES,Evaluation procedure,Serum Separator Tube,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C1608928,USES,Evaluation procedure,Refractometer,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C1706912,USES,Evaluation procedure,BARRIER,hlca,medd,2,USES_HLCAusesMEDD
+C1261322,C2700619,USES,Evaluation procedure,Test Strip (device),hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C3495449,USES,Evaluation procedure,Mobility aid,hlca,medd,1,USES_HLCAusesMEDD
+C1261322,C4759784,USES,Evaluation procedure,Atomic Force Microscope,hlca,medd,1,USES_HLCAusesMEDD
+C1269815,C0085104,USES,Patient identification,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C1273863,C0039818,USES,OTC sale,"Thermometer, device",hlca,medd,2,USES_HLCAusesMEDD
+C1279986,C0038257,USES,Procedure on heart,"Stent, device",hlca,medd,1,USES_HLCAusesMEDD
+C1283217,C0972401,USES,Discussion - action,Boards (medical device),hlca,medd,1,USES_HLCAusesMEDD
+C1318493,C0013194,USES,Inflation procedure,Drug Packaging,hlca,medd,1,USES_HLCAusesMEDD
+C1318493,C0039142,USES,Inflation procedure,Syringes,hlca,medd,1,USES_HLCAusesMEDD
+C1318493,C0040519,USES,Inflation procedure,Tourniquets,hlca,medd,1,USES_HLCAusesMEDD
+C1318493,C0175723,USES,Inflation procedure,Bands,hlca,medd,1,USES_HLCAusesMEDD
+C1318493,C0180208,USES,Inflation procedure,Blood pressure cuff,hlca,medd,2,USES_HLCAusesMEDD
+C1318493,C0180212,USES,Inflation procedure,Endotracheal tube cuff,hlca,medd,1,USES_HLCAusesMEDD
+C1318493,C0181904,USES,Inflation procedure,Monitor Device,hlca,medd,1,USES_HLCAusesMEDD
+C1318493,C0182334,USES,Inflation procedure,Pneumotachograph,hlca,medd,1,USES_HLCAusesMEDD
+C1318493,C0184159,USES,Inflation procedure,Tracheostomy tube,hlca,medd,1,USES_HLCAusesMEDD
+C1318493,C0581447,USES,Inflation procedure,Arterial catheter,hlca,medd,1,USES_HLCAusesMEDD
+C1318493,C0702122,USES,Inflation procedure,Intra-aortic balloon pump device,hlca,medd,1,USES_HLCAusesMEDD
+C1318493,C4302698,USES,Inflation procedure,Deflator,hlca,medd,1,USES_HLCAusesMEDD
+C1318955,C1706912,USES,Asthma management,BARRIER,hlca,medd,1,USES_HLCAusesMEDD
+C1331096,C0026032,USES,vaccine delivery,Microspheres,hlca,medd,1,USES_HLCAusesMEDD
+C1331096,C0027551,USES,vaccine delivery,Needle device,hlca,medd,1,USES_HLCAusesMEDD
+C1331096,C0994894,USES,vaccine delivery,Patch Dosage Form,hlca,medd,2,USES_HLCAusesMEDD
+C1331096,C4725395,USES,vaccine delivery,Needle-free Injector,hlca,medd,1,USES_HLCAusesMEDD
+C1406915,C0009653,USES,breathing therapy,"Condoms, Male",hlca,medd,1,USES_HLCAusesMEDD
+C1406915,C0024861,USES,breathing therapy,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C1406915,C0027524,USES,breathing therapy,Nebulizers,hlca,medd,1,USES_HLCAusesMEDD
+C1406915,C0179630,USES,breathing therapy,Cartridge device,hlca,medd,1,USES_HLCAusesMEDD
+C1406915,C0497878,USES,breathing therapy,Mouth piece,hlca,medd,1,USES_HLCAusesMEDD
+C1406915,C0993596,USES,breathing therapy,Metered Dose Inhaler,hlca,medd,1,USES_HLCAusesMEDD
+C1441722,C0184252,USES,Rebreathing,Medical Valves,hlca,medd,1,USES_HLCAusesMEDD
+C1444338,C0178987,USES,Respiratory function management,Artificial Airways,hlca,medd,1,USES_HLCAusesMEDD
+C1449559,C1261188,USES,Donor Selection,Swab,hlca,medd,1,USES_HLCAusesMEDD
+C1512346,C0042497,USES,Patient Visit,Mechanical Ventilator,hlca,medd,2,USES_HLCAusesMEDD
+C1512346,C0183255,USES,Patient Visit,Face shield (physical object),hlca,medd,1,USES_HLCAusesMEDD
+C1514821,C0024861,USES,Registration,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C1514821,C0183391,USES,Registration,Specimen container,hlca,medd,1,USES_HLCAusesMEDD
+C1515089,C0178987,USES,Surgical Management,Artificial Airways,hlca,medd,3,USES_HLCAusesMEDD
+C1515187,C0085104,USES,Take,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C1516193,C1273532,USES,Cancer Detection,Diagnostic device,hlca,medd,1,USES_HLCAusesMEDD
+C1516735,C1706912,USES,Community Practice,BARRIER,hlca,medd,2,USES_HLCAusesMEDD
+C1516879,C0879240,USES,Enrollment,Nasal Swabs,hlca,medd,1,USES_HLCAusesMEDD
+C1516879,C1608928,USES,Enrollment,Refractometer,hlca,medd,1,USES_HLCAusesMEDD
+C1518360,C0182400,USES,Non-Invasive Cancer Detection,Probes,hlca,medd,1,USES_HLCAusesMEDD
+C1535528,C0183309,USES,Tracheal aspiration,Simulators,hlca,medd,1,USES_HLCAusesMEDD
+C1535528,C3873867,USES,Tracheal aspiration,Suction system,hlca,medd,2,USES_HLCAusesMEDD
+C1621943,C0085104,USES,Energy Management,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C1706385,C0005971,USES,Device Evaluation Method,Bone plates,hlca,medd,1,USES_HLCAusesMEDD
+C1883350,C1139930,USES,Titrate,Device Plate,hlca,medd,1,USES_HLCAusesMEDD
+C1999110,C0178987,USES,Collecting Sample,Artificial Airways,hlca,medd,2,USES_HLCAusesMEDD
+C1999110,C0879240,USES,Collecting Sample,Nasal Swabs,hlca,medd,1,USES_HLCAusesMEDD
+C1999110,C1261188,USES,Collecting Sample,Swab,hlca,medd,1,USES_HLCAusesMEDD
+C2348625,C0004726,USES,Sweep,Bandage,hlca,medd,1,USES_HLCAusesMEDD
+C2348625,C0040519,USES,Sweep,Tourniquets,hlca,medd,1,USES_HLCAusesMEDD
+C2348625,C0182400,USES,Sweep,Probes,hlca,medd,1,USES_HLCAusesMEDD
+C2348625,C3873738,USES,Sweep,Laser system,hlca,medd,1,USES_HLCAusesMEDD
+C2350442,C0183783,USES,Nasal Lavage,bulb syringe,hlca,medd,1,USES_HLCAusesMEDD
+C2350442,C0337184,USES,Nasal Lavage,Physical restraint equipment (device),hlca,medd,1,USES_HLCAusesMEDD
+C2585914,C0183210,USES,Mechanical construction,sensor (device),hlca,medd,1,USES_HLCAusesMEDD
+C2599893,C0590323,USES,Oral care,Gauzes,hlca,medd,1,USES_HLCAusesMEDD
+C2718016,C0085104,USES,Compassionate Use,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C2718026,C0085104,USES,Capacity Building,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C2718034,C0179650,USES,Code Team,"CART, EMERGENCY, CARDIOPULMONARY (EXCLUDING EQUIPMENT)",hlca,medd,1,USES_HLCAusesMEDD
+C2718080,C0183210,USES,Mobile Health,sensor (device),hlca,medd,3,USES_HLCAusesMEDD
+C2919279,C0183115,USES,Administration of digitalis,Scanning Systems,hlca,medd,1,USES_HLCAusesMEDD
+C2919279,C1706912,USES,Administration of digitalis,BARRIER,hlca,medd,1,USES_HLCAusesMEDD
+C2936643,C0021461,USES,Standard of Care,Inhaler,hlca,medd,1,USES_HLCAusesMEDD
+C2963216,C0183210,USES,Vital signs measurements,sensor (device),hlca,medd,2,USES_HLCAusesMEDD
+C2983567,C0024861,USES,Pediatric Intervention or Procedure,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C2983567,C0178987,USES,Pediatric Intervention or Procedure,Artificial Airways,hlca,medd,2,USES_HLCAusesMEDD
+C3242284,C0085104,USES,Population Health,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C3494318,C0085104,USES,Public Health Surveillance,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C3527150,C0178987,USES,Special Intervention,Artificial Airways,hlca,medd,1,USES_HLCAusesMEDD
+C3658216,C0182400,USES,Clinical Laboratory Services,Probes,hlca,medd,1,USES_HLCAusesMEDD
+C3826454,C1261188,USES,Diagnostic specimens,Swab,hlca,medd,2,USES_HLCAusesMEDD
+C4019079,C0085104,USES,Patient Transition,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C4036459,C0024861,USES,Contacts,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C4036459,C0042497,USES,Contacts,Mechanical Ventilator,hlca,medd,2,USES_HLCAusesMEDD
+C4036459,C0181758,USES,Contacts,Surgical face mask,hlca,medd,1,USES_HLCAusesMEDD
+C4036459,C0183210,USES,Contacts,sensor (device),hlca,medd,1,USES_HLCAusesMEDD
+C4036459,C0183212,USES,Contacts,Separators,hlca,medd,2,USES_HLCAusesMEDD
+C4036459,C0879140,USES,Contacts,Towelettes,hlca,medd,1,USES_HLCAusesMEDD
+C4036459,C1260969,USES,Contacts,Ring device,hlca,medd,1,USES_HLCAusesMEDD
+C4042889,C0007963,USES,Children's Health Insurance Program,Charts (device),hlca,medd,2,USES_HLCAusesMEDD
+C4042889,C0024861,USES,Children's Health Insurance Program,Masks,hlca,medd,1,USES_HLCAusesMEDD
+C4042889,C0025973,USES,Children's Health Insurance Program,Microelectrodes,hlca,medd,1,USES_HLCAusesMEDD
+C4042889,C0178987,USES,Children's Health Insurance Program,Artificial Airways,hlca,medd,2,USES_HLCAusesMEDD
+C4042889,C0180279,USES,Children's Health Insurance Program,Flow Cytometer,hlca,medd,2,USES_HLCAusesMEDD
+C4042889,C0181168,USES,Children's Health Insurance Program,HEMOCYTOMETER,hlca,medd,2,USES_HLCAusesMEDD
+C4042889,C0181332,USES,Children's Health Insurance Program,Syringe pump,hlca,medd,1,USES_HLCAusesMEDD
+C4042889,C0182400,USES,Children's Health Insurance Program,Probes,hlca,medd,4,USES_HLCAusesMEDD
+C4042889,C0182557,USES,Children's Health Insurance Program,"Punches, Biopsy (device)",hlca,medd,1,USES_HLCAusesMEDD
+C4042889,C0183115,USES,Children's Health Insurance Program,Scanning Systems,hlca,medd,1,USES_HLCAusesMEDD
+C4042889,C0183210,USES,Children's Health Insurance Program,sensor (device),hlca,medd,1,USES_HLCAusesMEDD
+C4042889,C0183396,USES,Children's Health Insurance Program,Mass Spectrometers (device),hlca,medd,1,USES_HLCAusesMEDD
+C4042889,C0492226,USES,Children's Health Insurance Program,"SCANNER, FLUORESCENT",hlca,medd,2,USES_HLCAusesMEDD
+C4042889,C0492531,USES,Children's Health Insurance Program,MICRO MIXER,hlca,medd,1,USES_HLCAusesMEDD
+C4042889,C0725865,USES,Children's Health Insurance Program,disposable,hlca,medd,8,USES_HLCAusesMEDD
+C4042889,C0878992,USES,Children's Health Insurance Program,Cooling Units,hlca,medd,1,USES_HLCAusesMEDD
+C4042889,C1321564,USES,Children's Health Insurance Program,strip medical device,hlca,medd,1,USES_HLCAusesMEDD
+C4042889,C1328924,USES,Children's Health Insurance Program,magnetic beads,hlca,medd,1,USES_HLCAusesMEDD
+C4042889,C1626420,USES,Children's Health Insurance Program,Confocal microscope,hlca,medd,1,USES_HLCAusesMEDD
+C4279933,C0009653,USES,Vaccination Campaign,"Condoms, Male",hlca,medd,1,USES_HLCAusesMEDD
+C4505099,C0085104,USES,Antimicrobial Stewardship,Drug Delivery Systems,hlca,medd,1,USES_HLCAusesMEDD
+C4520519,C0175723,USES,Behavior monitoring,Bands,hlca,medd,1,USES_HLCAusesMEDD
+C4551696,C0179574,USES,Prone positioning,Nasal Cannula,hlca,medd,1,USES_HLCAusesMEDD
+C4551696,C0181130,USES,Prone positioning,Headrest,hlca,medd,1,USES_HLCAusesMEDD
+C4554477,C0002422,USES,Handover,Ambulances,hlca,medd,1,USES_HLCAusesMEDD
+C4684583,C1139730,USES,Causality Assessment,monitoring systems,hlca,medd,1,USES_HLCAusesMEDD
+C4684780,C0009653,USES,Standard Treatment,"Condoms, Male",hlca,medd,1,USES_HLCAusesMEDD
+C4684780,C0027524,USES,Standard Treatment,Nebulizers,hlca,medd,3,USES_HLCAusesMEDD
+C4684780,C0180063,USES,Standard Treatment,compressor,hlca,medd,1,USES_HLCAusesMEDD
+C4740655,C0184165,USES,Dispatching,Tubing,hlca,medd,1,USES_HLCAusesMEDD
+C5228953,C0728990,USES,Screening Services,Clinical Use Template,hlca,medd,1,USES_HLCAusesMEDD

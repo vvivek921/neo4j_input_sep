@@ -1,0 +1,62 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001566,C0021368,NEG_TREATS,"Administration, Topical",Inflammation,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0007471,C0019080,NEG_TREATS,Cauterization - action,Hemorrhage,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0011079,C3714514,NEG_TREATS,Debridement,Infection,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0013216,C0020517,NEG_TREATS,Pharmacotherapy,Hypersensitivity,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0013216,C0151526,NEG_TREATS,Pharmacotherapy,Premature Birth,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0013931,C0017181,NEG_TREATS,"Embolization, Therapeutic",Gastrointestinal Hemorrhage,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0015250,C0032787,NEG_TREATS,Complete excision,Postoperative Complications,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0015252,C0019080,NEG_TREATS,removal technique,Hemorrhage,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0015357,C0242184,NEG_TREATS,Extracorporeal Membrane Oxygenation,Hypoxia,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0019014,C0001122,NEG_TREATS,Hemofiltration,Acidosis,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0020944,C0020517,NEG_TREATS,Immobilization,Hypersensitivity,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0021925,C0035229,NEG_TREATS,Intubation,Respiratory Insufficiency,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0022100,C0009814,NEG_TREATS,Irrigation,Acquired stenosis,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0022100,C3714514,NEG_TREATS,Irrigation,Infection,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0023911,C0242656,NEG_TREATS,Transplantation of liver,Disease Progression,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0034386,C0020517,NEG_TREATS,Quarantine,Hypersensitivity,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0035273,C0036974,NEG_TREATS,Resuscitation procedure,Shock,topp,patf,2,NEG_TREATS_TOPPntrtsPATF
+C0036435,C0019080,NEG_TREATS,Sclerotherapy,Hemorrhage,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0040732,C0021368,NEG_TREATS,Transplantation,Inflammation,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0040732,C0333641,NEG_TREATS,Transplantation,Atrophic,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0040739,C0919924,NEG_TREATS,"Transplantation, Homologous",pulmonary toxicity,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0040808,C0021368,NEG_TREATS,Treatment Protocols,Inflammation,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0040808,C0036983,NEG_TREATS,Treatment Protocols,Septic Shock,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0040808,C3714514,NEG_TREATS,Treatment Protocols,Infection,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0042196,C3714514,NEG_TREATS,Vaccination,Infection,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0065772,C0024348,NEG_TREATS,MCC protocol,Lysis,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0085430,C0019080,NEG_TREATS,Blood Component Transfusion,Hemorrhage,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0086225,C0036983,NEG_TREATS,Enteral Feeding,Septic Shock,topp,patf,2,NEG_TREATS_TOPPntrtsPATF
+C0149783,C0036974,NEG_TREATS,Steroid therapy,Shock,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0150238,C0030660,NEG_TREATS,Fluid resuscitation,Pathologic Processes,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0150238,C0036974,NEG_TREATS,Fluid resuscitation,Shock,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0150238,C0036983,NEG_TREATS,Fluid resuscitation,Septic Shock,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0150457,C0242656,NEG_TREATS,Anticoagulant therapy,Disease Progression,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0184967,C0019080,NEG_TREATS,Insertion of pack (procedure),Hemorrhage,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0189477,C0013687,NEG_TREATS,Thoracentesis,effusion,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0199176,C0242781,NEG_TREATS,Prophylactic treatment,disease transmission,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0199470,C0035229,NEG_TREATS,Mechanical ventilation,Respiratory Insufficiency,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0199470,C3714514,NEG_TREATS,Mechanical ventilation,Infection,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0199779,C0021368,NEG_TREATS,Administration of antibiotic,Inflammation,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0199779,C3714514,NEG_TREATS,Administration of antibiotic,Infection,topp,patf,4,NEG_TREATS_TOPPntrtsPATF
+C0280274,C3714514,NEG_TREATS,Antiviral Therapy,Infection,topp,patf,2,NEG_TREATS_TOPPntrtsPATF
+C0349707,C0013687,NEG_TREATS,Aspiration-action,effusion,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0398480,C0013604,NEG_TREATS,Drainage of lymphatics,Edema,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0418981,C0016059,NEG_TREATS,Medical therapy,Fibrosis,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0442967,C0026766,NEG_TREATS,Salvage procedure,Multiple Organ Failure,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0459914,C0004144,NEG_TREATS,Conservative Treatment,Atelectasis,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0545447,C0242781,NEG_TREATS,monitoring temperature,disease transmission,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0679699,C0151526,NEG_TREATS,Secondary Prevention,Premature Birth,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0848112,C0040053,NEG_TREATS,on anti-coagulants,Thrombosis,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C0857242,C3714514,NEG_TREATS,Postoperative Antibiotic Prophylaxis,Infection,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C1293132,C0024348,NEG_TREATS,Anchoring procedure,Lysis,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C1708063,C0019080,NEG_TREATS,First line treatment,Hemorrhage,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C2945704,C0019080,NEG_TREATS,Conventional Treatment,Hemorrhage,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C2945704,C0021368,NEG_TREATS,Conventional Treatment,Inflammation,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C2945704,C0040038,NEG_TREATS,Conventional Treatment,Thromboembolism,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C2945704,C0231176,NEG_TREATS,Conventional Treatment,Acute failure,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C2945704,C0242184,NEG_TREATS,Conventional Treatment,Hypoxia,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C2945704,C3714514,NEG_TREATS,Conventional Treatment,Infection,topp,patf,2,NEG_TREATS_TOPPntrtsPATF
+C3274791,C0036974,NEG_TREATS,Mechanical Circulatory Support,Shock,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C3650840,C3714514,NEG_TREATS,Traditional therapy,Infection,topp,patf,1,NEG_TREATS_TOPPntrtsPATF
+C3867743,C0020517,NEG_TREATS,1-stage,Hypersensitivity,topp,patf,1,NEG_TREATS_TOPPntrtsPATF

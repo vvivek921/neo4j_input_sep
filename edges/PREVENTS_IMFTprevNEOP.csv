@@ -1,0 +1,16 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0027651,PREVENTS,Immunologic Adjuvants,Neoplasms,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0005525,C0024314,PREVENTS,Biological Response Modifiers,Lymphoproliferative Disorders,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0005525,C0027627,PREVENTS,Biological Response Modifiers,Neoplasm Metastasis,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0005525,C0920420,PREVENTS,Biological Response Modifiers,cancer recurrence,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0021403,C0027627,PREVENTS,Influenza virus vaccine,Neoplasm Metastasis,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0023767,C0007847,PREVENTS,Lipid A,Malignant tumor of cervix,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0376613,C0027651,PREVENTS,"Vaccines, DNA",Neoplasms,imft,neop,1,PREVENTS_IMFTprevNEOP
+C0376613,C3899717,PREVENTS,"Vaccines, DNA",Canine Melanoma,imft,neop,1,PREVENTS_IMFTprevNEOP
+C1512318,C0027651,PREVENTS,HPV 16 L1-VLP,Neoplasms,imft,neop,1,PREVENTS_IMFTprevNEOP
+C1514218,C0007847,PREVENTS,Polyvalent Vaccine,Malignant tumor of cervix,imft,neop,1,PREVENTS_IMFTprevNEOP
+C1721787,C0007847,PREVENTS,Gardasil,Malignant tumor of cervix,imft,neop,1,PREVENTS_IMFTprevNEOP
+C1721789,C0007847,PREVENTS,Cervarix,Malignant tumor of cervix,imft,neop,1,PREVENTS_IMFTprevNEOP
+C2240392,C0006826,PREVENTS,Hepatitis B Vaccines,Malignant Neoplasms,imft,neop,1,PREVENTS_IMFTprevNEOP
+C2240392,C0220630,PREVENTS,Hepatitis B Vaccines,Adult Liver Carcinoma,imft,neop,2,PREVENTS_IMFTprevNEOP
+C4684977,C0006826,PREVENTS,Immune Checkpoint Inhibitor,Malignant Neoplasms,imft,neop,1,PREVENTS_IMFTprevNEOP

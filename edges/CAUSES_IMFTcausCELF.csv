@@ -1,0 +1,59 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0007587,CAUSES,Immunologic Adjuvants,Cell Death,imft,celf,1,CAUSES_IMFTcausCELF
+C0001551,C1155003,CAUSES,Immunologic Adjuvants,B-Cell Activation,imft,celf,1,CAUSES_IMFTcausCELF
+C0001551,C1155046,CAUSES,Immunologic Adjuvants,T-Cell Proliferation,imft,celf,1,CAUSES_IMFTcausCELF
+C0001551,C1155065,CAUSES,Immunologic Adjuvants,T-Cell Activation,imft,celf,4,CAUSES_IMFTcausCELF
+C0001551,C1155080,CAUSES,Immunologic Adjuvants,T-helper 1 type immune response,imft,celf,2,CAUSES_IMFTcausCELF
+C0001551,C1155229,CAUSES,Immunologic Adjuvants,Humoral immune response,imft,celf,3,CAUSES_IMFTcausCELF
+C0001551,C1155263,CAUSES,Immunologic Adjuvants,T-helper 2 type immune response,imft,celf,2,CAUSES_IMFTcausCELF
+C0001551,C1257986,CAUSES,Immunologic Adjuvants,Cross-Presentation,imft,celf,1,CAUSES_IMFTcausCELF
+C0001551,C1318468,CAUSES,Immunologic Adjuvants,cell mediated immune response,imft,celf,1,CAUSES_IMFTcausCELF
+C0001551,C1327414,CAUSES,Immunologic Adjuvants,cytokine secretion,imft,celf,1,CAUSES_IMFTcausCELF
+C0001551,C1372517,CAUSES,Immunologic Adjuvants,Increased Phagocytosis,imft,celf,1,CAUSES_IMFTcausCELF
+C0001551,C1515126,CAUSES,Immunologic Adjuvants,T-Cell Development,imft,celf,1,CAUSES_IMFTcausCELF
+C0001551,C1622501,CAUSES,Immunologic Adjuvants,"Migration, Cell",imft,celf,1,CAUSES_IMFTcausCELF
+C0001551,C1817908,CAUSES,Immunologic Adjuvants,Cellular Immune Response,imft,celf,5,CAUSES_IMFTcausCELF
+C0004632,C0596873,CAUSES,Bacterial Vaccines,lymphocyte proliferation,imft,celf,1,CAUSES_IMFTcausCELF
+C0004632,C1155229,CAUSES,Bacterial Vaccines,Humoral immune response,imft,celf,1,CAUSES_IMFTcausCELF
+C0016712,C0596873,CAUSES,Freund's Adjuvant,lymphocyte proliferation,imft,celf,1,CAUSES_IMFTcausCELF
+C0021081,C0162638,CAUSES,Immunosuppressive Agents,Apoptosis,imft,celf,1,CAUSES_IMFTcausCELF
+C0021403,C0031308,CAUSES,Influenza virus vaccine,Phagocytosis,imft,celf,1,CAUSES_IMFTcausCELF
+C0025010,C4235361,CAUSES,Measles Vaccine,tumor necrosis factor secretion,imft,celf,1,CAUSES_IMFTcausCELF
+C0032172,C0015283,CAUSES,Platelet Activating Factor,Exocytosis,imft,celf,1,CAUSES_IMFTcausCELF
+C0032172,C0032176,CAUSES,Platelet Activating Factor,Platelet aggregation,imft,celf,1,CAUSES_IMFTcausCELF
+C0032172,C3821784,CAUSES,Platelet Activating Factor,Eryptosis,imft,celf,1,CAUSES_IMFTcausCELF
+C0042211,C0042774,CAUSES,"Vaccines, Attenuated",Virus Replication,imft,celf,1,CAUSES_IMFTcausCELF
+C0042211,C1155229,CAUSES,"Vaccines, Attenuated",Humoral immune response,imft,celf,5,CAUSES_IMFTcausCELF
+C0042211,C1817908,CAUSES,"Vaccines, Attenuated",Cellular Immune Response,imft,celf,1,CAUSES_IMFTcausCELF
+C0042212,C0003272,CAUSES,"Vaccines, Inactivated",Antibody-Dependent Cellular Cytotoxicity,imft,celf,1,CAUSES_IMFTcausCELF
+C0042212,C1155229,CAUSES,"Vaccines, Inactivated",Humoral immune response,imft,celf,2,CAUSES_IMFTcausCELF
+C0042212,C1155263,CAUSES,"Vaccines, Inactivated",T-helper 2 type immune response,imft,celf,1,CAUSES_IMFTcausCELF
+C0042212,C1817908,CAUSES,"Vaccines, Inactivated",Cellular Immune Response,imft,celf,1,CAUSES_IMFTcausCELF
+C0058218,C0598958,CAUSES,dimethyl fumarate,Neuroprotection,imft,celf,1,CAUSES_IMFTcausCELF
+C0138547,C0162638,CAUSES,Prohibit,Apoptosis,imft,celf,1,CAUSES_IMFTcausCELF
+C0138547,C3178824,CAUSES,Prohibit,G2 Cell Cycle Arrest,imft,celf,1,CAUSES_IMFTcausCELF
+C0376613,C1155046,CAUSES,"Vaccines, DNA",T-Cell Proliferation,imft,celf,2,CAUSES_IMFTcausCELF
+C0376613,C1155080,CAUSES,"Vaccines, DNA",T-helper 1 type immune response,imft,celf,5,CAUSES_IMFTcausCELF
+C0376613,C1155229,CAUSES,"Vaccines, DNA",Humoral immune response,imft,celf,5,CAUSES_IMFTcausCELF
+C0376613,C1318468,CAUSES,"Vaccines, DNA",cell mediated immune response,imft,celf,2,CAUSES_IMFTcausCELF
+C0376613,C1817908,CAUSES,"Vaccines, DNA",Cellular Immune Response,imft,celf,15,CAUSES_IMFTcausCELF
+C0597641,C1155080,CAUSES,plasmid vaccine,T-helper 1 type immune response,imft,celf,1,CAUSES_IMFTcausCELF
+C0597641,C1155229,CAUSES,plasmid vaccine,Humoral immune response,imft,celf,1,CAUSES_IMFTcausCELF
+C0597641,C1318468,CAUSES,plasmid vaccine,cell mediated immune response,imft,celf,1,CAUSES_IMFTcausCELF
+C0597641,C1817908,CAUSES,plasmid vaccine,Cellular Immune Response,imft,celf,1,CAUSES_IMFTcausCELF
+C0599934,C1817908,CAUSES,"Vaccines, Peptide",Cellular Immune Response,imft,celf,1,CAUSES_IMFTcausCELF
+C0700144,C0004391,CAUSES,Meningococcal vaccine,Autophagy,imft,celf,1,CAUSES_IMFTcausCELF
+C0887892,C1155080,CAUSES,"Vaccines, Subunit",T-helper 1 type immune response,imft,celf,1,CAUSES_IMFTcausCELF
+C0887892,C1817908,CAUSES,"Vaccines, Subunit",Cellular Immune Response,imft,celf,3,CAUSES_IMFTcausCELF
+C0887894,C1155263,CAUSES,Respiratory Syncytial Virus Vaccines,T-helper 2 type immune response,imft,celf,1,CAUSES_IMFTcausCELF
+C0887908,C1318468,CAUSES,"Vaccines, Marker",cell mediated immune response,imft,celf,1,CAUSES_IMFTcausCELF
+C1514218,C1155046,CAUSES,Polyvalent Vaccine,T-Cell Proliferation,imft,celf,1,CAUSES_IMFTcausCELF
+C1519887,C1155229,CAUSES,Vaccine Antigen,Humoral immune response,imft,celf,1,CAUSES_IMFTcausCELF
+C1519887,C1159954,CAUSES,Vaccine Antigen,monocyte differentiation,imft,celf,1,CAUSES_IMFTcausCELF
+C2825347,C0003272,CAUSES,"immunoglobulin A, human",Antibody-Dependent Cellular Cytotoxicity,imft,celf,1,CAUSES_IMFTcausCELF
+C2825347,C0031308,CAUSES,"immunoglobulin A, human",Phagocytosis,imft,celf,5,CAUSES_IMFTcausCELF
+C2825347,C2611812,CAUSES,"immunoglobulin A, human",signaling cascade,imft,celf,1,CAUSES_IMFTcausCELF
+C3273243,C1817908,CAUSES,Polysaccharide Vaccine,Cellular Immune Response,imft,celf,1,CAUSES_IMFTcausCELF
+C3530029,C1155229,CAUSES,advax,Humoral immune response,imft,celf,1,CAUSES_IMFTcausCELF
+C3530029,C1257986,CAUSES,advax,Cross-Presentation,imft,celf,1,CAUSES_IMFTcausCELF
+C4684977,C1326120,CAUSES,Immune Checkpoint Inhibitor,cell activation,imft,celf,1,CAUSES_IMFTcausCELF

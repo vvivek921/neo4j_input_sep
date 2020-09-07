@@ -1,0 +1,46 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0019993,C0001617,USES,Hospitalization,Adrenal Cortex Hormones,hlca,horm,5,USES_HLCAusesHORM
+C0019993,C0025815,USES,Hospitalization,methylprednisolone,hlca,horm,1,USES_HLCAusesHORM
+C0023977,C0001617,USES,long-term care,Adrenal Cortex Hormones,hlca,horm,16,USES_HLCAusesHORM
+C0023977,C0010961,USES,long-term care,danazol,hlca,horm,1,USES_HLCAusesHORM
+C0023977,C0014939,USES,long-term care,estrogens,hlca,horm,2,USES_HLCAusesHORM
+C0030677,C0001617,USES,Patient Care Management,Adrenal Cortex Hormones,hlca,horm,2,USES_HLCAusesHORM
+C0030685,C0001617,USES,Patient Discharge,Adrenal Cortex Hormones,hlca,horm,2,USES_HLCAusesHORM
+C0030685,C0002006,USES,Patient Discharge,aldosterone,hlca,horm,14,USES_HLCAusesHORM
+C0030685,C0002844,USES,Patient Discharge,Androgens,hlca,horm,2,USES_HLCAusesHORM
+C0030685,C0010124,USES,Patient Discharge,Corticosterone,hlca,horm,4,USES_HLCAusesHORM
+C0030685,C0012472,USES,Patient Discharge,dinoprostone,hlca,horm,21,USES_HLCAusesHORM
+C0030685,C0014563,USES,Patient Discharge,epinephrine,hlca,horm,2,USES_HLCAusesHORM
+C0030685,C0018066,USES,Patient Discharge,Pituitary Gonadotropins,hlca,horm,1,USES_HLCAusesHORM
+C0030685,C0020268,USES,Patient Discharge,hydrocortisone,hlca,horm,18,USES_HLCAusesHORM
+C0030685,C0025219,USES,Patient Discharge,melatonin,hlca,horm,2,USES_HLCAusesHORM
+C0030685,C0028351,USES,Patient Discharge,norepinephrine,hlca,horm,31,USES_HLCAusesHORM
+C0030685,C0033308,USES,Patient Discharge,progesterone,hlca,horm,2,USES_HLCAusesHORM
+C0030685,C0033554,USES,Patient Discharge,Prostaglandins,hlca,horm,13,USES_HLCAusesHORM
+C0030685,C0039601,USES,Patient Discharge,testosterone,hlca,horm,1,USES_HLCAusesHORM
+C0034107,C0001617,USES,Pulse taking,Adrenal Cortex Hormones,hlca,horm,2,USES_HLCAusesHORM
+C0034107,C0025815,USES,Pulse taking,methylprednisolone,hlca,horm,5,USES_HLCAusesHORM
+C0085559,C0772289,USES,intensive care,"corticotropin-releasing factor, human",hlca,horm,1,USES_HLCAusesHORM
+C0184666,C0001617,USES,Hospital admission,Adrenal Cortex Hormones,hlca,horm,1,USES_HLCAusesHORM
+C0199174,C0001617,USES,General treatment,Adrenal Cortex Hormones,hlca,horm,1,USES_HLCAusesHORM
+C0199174,C0025219,USES,General treatment,melatonin,hlca,horm,1,USES_HLCAusesHORM
+C0282664,C0014563,USES,Point-of-Care Systems,epinephrine,hlca,horm,1,USES_HLCAusesHORM
+C0344211,C0025815,USES,Supportive care,methylprednisolone,hlca,horm,1,USES_HLCAusesHORM
+C0441587,C0033308,USES,Clinical act of insertion,progesterone,hlca,horm,1,USES_HLCAusesHORM
+C0441640,C0001617,USES,Tapering - action,Adrenal Cortex Hormones,hlca,horm,13,USES_HLCAusesHORM
+C0441640,C0020268,USES,Tapering - action,hydrocortisone,hlca,horm,1,USES_HLCAusesHORM
+C0441640,C0032952,USES,Tapering - action,prednisone,hlca,horm,14,USES_HLCAusesHORM
+C0679860,C0025219,USES,nontreatment,melatonin,hlca,horm,1,USES_HLCAusesHORM
+C1261322,C0010124,USES,Evaluation procedure,Corticosterone,hlca,horm,2,USES_HLCAusesHORM
+C1261322,C0014912,USES,Evaluation procedure,estradiol,hlca,horm,1,USES_HLCAusesHORM
+C1318955,C0001617,USES,Asthma management,Adrenal Cortex Hormones,hlca,horm,1,USES_HLCAusesHORM
+C1406915,C0001617,USES,breathing therapy,Adrenal Cortex Hormones,hlca,horm,23,USES_HLCAusesHORM
+C1406915,C0014563,USES,breathing therapy,epinephrine,hlca,horm,1,USES_HLCAusesHORM
+C1522577,C0001617,USES,follow-up,Adrenal Cortex Hormones,hlca,horm,1,USES_HLCAusesHORM
+C1827449,C0001617,USES,Medication dosage tapering,Adrenal Cortex Hormones,hlca,horm,1,USES_HLCAusesHORM
+C2826232,C0020268,USES,Dose Adjustment,hydrocortisone,hlca,horm,1,USES_HLCAusesHORM
+C2936643,C0001617,USES,Standard of Care,Adrenal Cortex Hormones,hlca,horm,2,USES_HLCAusesHORM
+C2936643,C0025815,USES,Standard of Care,methylprednisolone,hlca,horm,1,USES_HLCAusesHORM
+C4551696,C0001617,USES,Prone positioning,Adrenal Cortex Hormones,hlca,horm,1,USES_HLCAusesHORM
+C4684780,C0001617,USES,Standard Treatment,Adrenal Cortex Hormones,hlca,horm,2,USES_HLCAusesHORM
+C4684780,C0032952,USES,Standard Treatment,prednisone,hlca,horm,1,USES_HLCAusesHORM

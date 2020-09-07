@@ -1,0 +1,107 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003862,C0220825,CAUSES,Arthralgia,Evaluation,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0004134,C0015187,CAUSES,Ataxia,Euthanasia,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0008031,C0184666,CAUSES,Chest Pain,Hospital admission,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0010200,C0019993,CAUSES,Coughing,Hospitalization,sosy,hlca,2,CAUSES_SOSYcausHLCA
+C0010200,C0032786,CAUSES,Coughing,Postoperative Care,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0010200,C0184673,CAUSES,Coughing,Emergency hospital admission,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0010200,C0199171,CAUSES,Coughing,medical procedure,sosy,hlca,2,CAUSES_SOSYcausHLCA
+C0010200,C4036459,CAUSES,Coughing,Contacts,sosy,hlca,4,CAUSES_SOSYcausHLCA
+C0011991,C0019993,CAUSES,Diarrhea,Hospitalization,sosy,hlca,11,CAUSES_SOSYcausHLCA
+C0011991,C0033052,CAUSES,Diarrhea,Prenatal care,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0011991,C0184666,CAUSES,Diarrhea,Hospital admission,sosy,hlca,3,CAUSES_SOSYcausHLCA
+C0011991,C0220825,CAUSES,Diarrhea,Evaluation,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0011991,C1261322,CAUSES,Diarrhea,Evaluation procedure,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0011991,C4489276,CAUSES,Diarrhea,Readmission,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0013404,C0013961,CAUSES,Dyspnea,Emergency medical service,sosy,hlca,2,CAUSES_SOSYcausHLCA
+C0013404,C0019993,CAUSES,Dyspnea,Hospitalization,sosy,hlca,3,CAUSES_SOSYcausHLCA
+C0013404,C0184666,CAUSES,Dyspnea,Hospital admission,sosy,hlca,2,CAUSES_SOSYcausHLCA
+C0013404,C1522577,CAUSES,Dyspnea,follow-up,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0015230,C0019993,CAUSES,Exanthema,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0015230,C0220825,CAUSES,Exanthema,Evaluation,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0015672,C0679886,CAUSES,Fatigue,health services by provider,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0015967,C0009818,CAUSES,Fever,Consultation,sosy,hlca,3,CAUSES_SOSYcausHLCA
+C0015967,C0019993,CAUSES,Fever,Hospitalization,sosy,hlca,6,CAUSES_SOSYcausHLCA
+C0015967,C0184666,CAUSES,Fever,Hospital admission,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0015967,C0184673,CAUSES,Fever,Emergency hospital admission,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0015967,C0220825,CAUSES,Fever,Evaluation,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0015967,C0376708,CAUSES,Fever,Unnecessary Procedures,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0015967,C0545084,CAUSES,Fever,Outpatient visits,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0015967,C1261322,CAUSES,Fever,Evaluation procedure,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0015967,C1522577,CAUSES,Fever,follow-up,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0016204,C0030685,CAUSES,Flatulence,Patient Discharge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0016204,C4036459,CAUSES,Flatulence,Contacts,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0016382,C0030685,CAUSES,Flushing,Patient Discharge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0018681,C0019993,CAUSES,Headache,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0018681,C0033052,CAUSES,Headache,Prenatal care,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0023380,C0019993,CAUSES,Lethargy,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0027497,C0033052,CAUSES,Nausea,Prenatal care,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0027497,C0871549,CAUSES,Nausea,Withholding Treatment,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0027497,C1522577,CAUSES,Nausea,follow-up,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0030193,C0015187,CAUSES,Pain,Euthanasia,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0030193,C0545092,CAUSES,Pain,hospital visit,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0030193,C4489276,CAUSES,Pain,Readmission,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0037088,C0030685,CAUSES,Signs and Symptoms,Patient Discharge,sosy,hlca,3,CAUSES_SOSYcausHLCA
+C0037088,C0220825,CAUSES,Signs and Symptoms,Evaluation,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0037088,C0278329,CAUSES,Signs and Symptoms,Prescribed,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0037088,C1261322,CAUSES,Signs and Symptoms,Evaluation procedure,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0037088,C3534325,CAUSES,Signs and Symptoms,VAERS,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0037090,C0019993,CAUSES,"Signs and Symptoms, Respiratory",Hospitalization,sosy,hlca,6,CAUSES_SOSYcausHLCA
+C0037383,C0030685,CAUSES,Sneezing,Patient Discharge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0037383,C4036459,CAUSES,Sneezing,Contacts,sosy,hlca,3,CAUSES_SOSYcausHLCA
+C0039070,C0019993,CAUSES,Syncope,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0040822,C0015187,CAUSES,Tremor,Euthanasia,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0042963,C0019993,CAUSES,Vomiting,Hospitalization,sosy,hlca,2,CAUSES_SOSYcausHLCA
+C0042963,C0030685,CAUSES,Vomiting,Patient Discharge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0042963,C0033052,CAUSES,Vomiting,Prenatal care,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0043144,C0019993,CAUSES,Wheezing,Hospitalization,sosy,hlca,13,CAUSES_SOSYcausHLCA
+C0043144,C0030672,CAUSES,Wheezing,Patient Acceptance of Health Care,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0043144,C0259945,CAUSES,Wheezing,hospital care,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0043144,C0545084,CAUSES,Wheezing,Outpatient visits,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0043144,C1516879,CAUSES,Wheezing,Enrollment,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0043144,C4042889,CAUSES,Wheezing,Children's Health Insurance Program,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0085593,C0376708,CAUSES,Chills,Unnecessary Procedures,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0151827,C0220825,CAUSES,Eye pain,Evaluation,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0152032,C0220825,CAUSES,Urinary hesitation,Evaluation,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0184567,C0019993,CAUSES,Acute onset pain,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0231218,C0205787,CAUSES,Malaise,Health Campaigns,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0231239,C0031809,CAUSES,Fluctuation,Physical Examination,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0231239,C1261322,CAUSES,Fluctuation,Evaluation procedure,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0231818,C0030685,CAUSES,Airway constriction,Patient Discharge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0242706,C0030685,CAUSES,Hyperoxia,Patient Discharge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0312422,C0805586,CAUSES,Blackout - symptom,Challenge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0392171,C0019993,CAUSES,Influenza-like symptoms,Hospitalization,sosy,hlca,3,CAUSES_SOSYcausHLCA
+C0392674,C0026428,CAUSES,Exhaustion,"Monitoring, Immunologic",sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0476273,C0015187,CAUSES,Respiratory distress,Euthanasia,sosy,hlca,4,CAUSES_SOSYcausHLCA
+C0476273,C0019993,CAUSES,Respiratory distress,Hospitalization,sosy,hlca,4,CAUSES_SOSYcausHLCA
+C0476273,C0184666,CAUSES,Respiratory distress,Hospital admission,sosy,hlca,2,CAUSES_SOSYcausHLCA
+C0476273,C0220825,CAUSES,Respiratory distress,Evaluation,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0476273,C0259945,CAUSES,Respiratory distress,hospital care,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0476273,C0679830,CAUSES,Respiratory distress,patient assessment,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0521989,C0019993,CAUSES,Associated symptom,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0574066,C0019993,CAUSES,Increasing breathlessness,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0578454,C0019993,CAUSES,Neck swelling,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0740418,C0019993,CAUSES,Chronic back pain,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0742857,C0028900,CAUSES,Acute onset cough,Office Visits,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0742857,C0030685,CAUSES,Acute onset cough,Patient Discharge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0749874,C0019993,CAUSES,upper respiratory symptom,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0751378,C0015187,CAUSES,Neurologic Signs,Euthanasia,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0848237,C0030685,CAUSES,acute stress,Patient Discharge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0858854,C0733511,CAUSES,Unrest,Medical Surveillance,sosy,hlca,2,CAUSES_SOSYcausHLCA
+C0858854,C4279933,CAUSES,Unrest,Vaccination Campaign,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C0920505,C1261322,CAUSES,emotional shock,Evaluation procedure,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C1397014,C0184666,CAUSES,Imbalance,Hospital admission,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C1397014,C0805586,CAUSES,Imbalance,Challenge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C1443924,C0015187,CAUSES,Severe diarrhea,Euthanasia,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C1517205,C0019993,CAUSES,Flare,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C2364135,C0017313,CAUSES,Discomfort,patient care,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C2364135,C0220825,CAUSES,Discomfort,Evaluation,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C2926602,C0019993,CAUSES,"Discharge, body substance",Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C2926602,C1261322,CAUSES,"Discharge, body substance",Evaluation procedure,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C2957106,C0019993,CAUSES,headache severe,Hospitalization,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C3258060,C0030685,CAUSES,Primary sign and symptom,Patient Discharge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C3714552,C0009818,CAUSES,Weakness,Consultation,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C3714552,C0019978,CAUSES,Weakness,Hospital Planning,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C3714552,C0030685,CAUSES,Weakness,Patient Discharge,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C3714552,C0587569,CAUSES,Weakness,Physician service,sosy,hlca,1,CAUSES_SOSYcausHLCA
+C3714552,C0805586,CAUSES,Weakness,Challenge,sosy,hlca,1,CAUSES_SOSYcausHLCA

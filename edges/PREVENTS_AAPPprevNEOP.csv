@@ -1,0 +1,174 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003011,C0598934,PREVENTS,"Receptor, Angiotensin II",tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0003011,C2939419,PREVENTS,"Receptor, Angiotensin II",Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0003242,C2939419,PREVENTS,"Antibodies, Anti-Idiotypic",Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0003250,C0006826,PREVENTS,Monoclonal Antibodies,Malignant Neoplasms,aapp,neop,2,PREVENTS_AAPPprevNEOP
+C0003250,C0027651,PREVENTS,Monoclonal Antibodies,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0003250,C0598934,PREVENTS,Monoclonal Antibodies,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0003250,C2939419,PREVENTS,Monoclonal Antibodies,Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0007428,C0007621,PREVENTS,Cathepsins,Neoplastic Cell Transformation,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0008546,C0002793,PREVENTS,Chromatin,Anaplasia,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0010286,C0007102,PREVENTS,creatine,Malignant tumor of colon,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0010590,C0006826,PREVENTS,cycloserine,Malignant Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0010590,C0027651,PREVENTS,cycloserine,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0010590,C0598934,PREVENTS,cycloserine,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0010654,C0598934,PREVENTS,cysteine,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0017007,C0206695,PREVENTS,Gamma globulin,"Carcinoma, Neuroendocrine",aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0017278,C0027627,PREVENTS,"Gene Products, env",Neoplasm Metastasis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0017817,C0027627,PREVENTS,glutathione,Neoplasm Metastasis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0017968,C0027651,PREVENTS,Glycoproteins,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0017968,C0027960,PREVENTS,Glycoproteins,Nevus,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0019629,C0153676,PREVENTS,Histocompatibility Antigens Class I,Secondary malignant neoplasm of lung,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0020838,C0206695,PREVENTS,Secretory Immunoglobulin A,"Carcinoma, Neuroendocrine",aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0020960,C0347390,PREVENTS,Immune Sera,Skin Papilloma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0021027,C0206695,PREVENTS,Immunoglobulins,"Carcinoma, Neuroendocrine",aapp,neop,5,PREVENTS_AAPPprevNEOP
+C0021747,C1512409,PREVENTS,Interferons,Hepatocarcinogenesis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0021755,C0027627,PREVENTS,Interleukin-1,Neoplasm Metastasis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0022457,C0598934,PREVENTS,K-ras Oncogene,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0022942,C0206695,PREVENTS,lactoferrin,"Carcinoma, Neuroendocrine",aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0025250,C0153676,PREVENTS,Neprilysin,Secondary malignant neoplasm of lung,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0025252,C0220630,PREVENTS,Membrane Proteins,Adult Liver Carcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0025543,C0027651,PREVENTS,Metalloproteases,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0026682,C0009402,PREVENTS,mucins,Colorectal Carcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0026682,C4551463,PREVENTS,mucins,Colonic adenomas,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0027597,C0598934,PREVENTS,Zinostatin,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0029005,C0027651,PREVENTS,Oncogene Proteins,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0034804,C0178874,PREVENTS,Estrogen Receptors,Tumor Progression,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0035031,C0027651,PREVENTS,Relaxin,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0036538,C0006118,PREVENTS,Secretory Component,Brain Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0036584,C0006826,PREVENTS,selenomethionine,Malignant Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0041361,C0027651,PREVENTS,Tumor Antigens,Neoplasms,aapp,neop,2,PREVENTS_AAPPprevNEOP
+C0041361,C0598934,PREVENTS,Tumor Antigens,tumor growth,aapp,neop,2,PREVENTS_AAPPprevNEOP
+C0042210,C0006826,PREVENTS,Vaccines,Malignant Neoplasms,aapp,neop,7,PREVENTS_AAPPprevNEOP
+C0042210,C0007847,PREVENTS,Vaccines,Malignant tumor of cervix,aapp,neop,8,PREVENTS_AAPPprevNEOP
+C0042210,C0007873,PREVENTS,Vaccines,Uterine Cervical Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0042210,C0027627,PREVENTS,Vaccines,Neoplasm Metastasis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0042210,C0027651,PREVENTS,Vaccines,Neoplasms,aapp,neop,4,PREVENTS_AAPPprevNEOP
+C0042210,C0220630,PREVENTS,Vaccines,Adult Liver Carcinoma,aapp,neop,2,PREVENTS_AAPPprevNEOP
+C0042210,C0349459,PREVENTS,Vaccines,Cervical intraepithelial neoplasia grade 2,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0042210,C0878500,PREVENTS,Vaccines,Intraepithelial Neoplasia,aapp,neop,3,PREVENTS_AAPPprevNEOP
+C0042210,C2239176,PREVENTS,Vaccines,Liver carcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0051979,C0027651,PREVENTS,anti-IgG,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0061465,C1292780,PREVENTS,Glutamate Receptor,Therapy-related myelodysplastic syndrome,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0069508,C0027651,PREVENTS,"oncogene protein E7, Human papillomavirus type 16",Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0078056,C1519670,PREVENTS,Vascular Cell Adhesion Molecule-1,Tumor Angiogenesis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0079419,C0006826,PREVENTS,TP53 gene,Malignant Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0079419,C0598934,PREVENTS,TP53 gene,tumor growth,aapp,neop,2,PREVENTS_AAPPprevNEOP
+C0079427,C0007621,PREVENTS,Tumor Suppressor Genes,Neoplastic Cell Transformation,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0079459,C0006142,PREVENTS,Granulocyte Colony-Stimulating Factor,Malignant neoplasm of breast,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0080065,C0027651,PREVENTS,Proto-Oncogene Proteins c-myc,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0081714,C0178874,PREVENTS,"Antigens, CD147",Tumor Progression,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0085295,C0027651,PREVENTS,interleukin-10,Neoplasms,aapp,neop,2,PREVENTS_AAPPprevNEOP
+C0087071,C0598934,PREVENTS,Telomerase,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0118522,C0007621,PREVENTS,GA-Binding Protein Transcription Factor,Neoplastic Cell Transformation,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0120285,C0598934,PREVENTS,Green Fluorescent Proteins,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0123759,C0027651,PREVENTS,interleukin-12,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0130296,C0598934,PREVENTS,CA 074,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0145779,C0032580,PREVENTS,Thrombomodulin,Adenomatous Polyposis Coli,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0145946,C0598934,PREVENTS,Tissue Inhibitor of Metalloproteinase-2,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0145947,C0598934,PREVENTS,Tissue-Inhibitor of Metalloproteinase-1,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0166586,C0027651,PREVENTS,lysyl-aspartyl-glutamyl-leucine,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0243043,C0006826,PREVENTS,Heat-Shock Proteins 70,Malignant Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0246694,C0598934,PREVENTS,MG 132,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0259275,C1512981,PREVENTS,BRCA1 Protein,Mammary Tumorigenesis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0282554,C0007621,PREVENTS,chemokine,Neoplastic Cell Transformation,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0282651,C0598934,PREVENTS,Selectins,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0282651,C2939419,PREVENTS,Selectins,Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0376659,C0007847,PREVENTS,Cancer Vaccines,Malignant tumor of cervix,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0376659,C0027651,PREVENTS,Cancer Vaccines,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0385333,C0598934,PREVENTS,Cyclin B1,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0386983,C0001418,PREVENTS,glypican 3,Adenocarcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0387583,C2939419,PREVENTS,cyclooxygenase 2,Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0393022,C0432487,PREVENTS,rituximab,Post-transplant lymphoproliferative disorder,aapp,neop,2,PREVENTS_AAPPprevNEOP
+C0443640,C0023418,PREVENTS,Specific antibody,leukemia,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0539471,C0007621,PREVENTS,"NS1 protein, parvovirus",Neoplastic Cell Transformation,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0597357,C1519670,PREVENTS,receptor,Tumor Angiogenesis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0633225,C0024623,PREVENTS,"PRDX4 protein, human",Malignant neoplasm of stomach,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0699919,C0333516,PREVENTS,Cathepsins B,Tumor necrosis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0732165,C2939419,PREVENTS,Somatostatin analog,Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0752312,C0007114,PREVENTS,Mitogen-Activated Protein Kinases,Malignant neoplasm of skin,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0757844,C0006826,PREVENTS,"TNFSF13 protein, human",Malignant Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0965245,C0027651,PREVENTS,"CD274 protein, human",Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C0971207,C0220630,PREVENTS,"TLR7 protein, human",Adult Liver Carcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1136102,C0027651,PREVENTS,Capsid Proteins,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1256770,C0027627,PREVENTS,Vascular Endothelial Growth Factors,Neoplasm Metastasis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1256770,C0027651,PREVENTS,Vascular Endothelial Growth Factors,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1256770,C0598934,PREVENTS,Vascular Endothelial Growth Factors,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1310463,C0027627,PREVENTS,"IFIH1 protein, human",Neoplasm Metastasis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1310468,C0027627,PREVENTS,"DDX58 protein, human",Neoplasm Metastasis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1311470,C2239176,PREVENTS,"PARK2 protein, human",Liver carcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1332672,C0006826,PREVENTS,CBLB gene,Malignant Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1334885,C0598934,PREVENTS,NMI gene,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1366480,C0027651,PREVENTS,KITLG gene,Neoplasms,aapp,neop,2,PREVENTS_AAPPprevNEOP
+C1367456,C0376358,PREVENTS,ACPP gene,Malignant neoplasm of prostate,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1412616,C0597645,PREVENTS,ATF3 gene,Viral Carcinogenesis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1414141,C2239176,PREVENTS,DPP4 gene,Liver carcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1414342,C0006826,PREVENTS,EIF3F gene,Malignant Neoplasms,aapp,neop,2,PREVENTS_AAPPprevNEOP
+C1414342,C0345832,PREVENTS,EIF3F gene,Neoplasm of small intestine,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1414507,C0279626,PREVENTS,F2RL2 gene,Squamous cell carcinoma of esophagus,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1414691,C0007621,PREVENTS,FPR2 gene,Neoplastic Cell Transformation,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1415629,C2239176,PREVENTS,HNF4A gene,Liver carcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1415761,C2239176,PREVENTS,HSPA5 gene,Liver carcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1415764,C0006826,PREVENTS,HSPA8 gene,Malignant Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1416507,C0677898,PREVENTS,ITIH2 gene,Invasive Malignant Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1416939,C0079731,PREVENTS,LY75 gene,B-Cell Lymphomas,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1417530,C0598934,PREVENTS,MYD88 gene,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1417861,C0598934,PREVENTS,NT5E gene,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1417861,C2939419,PREVENTS,NT5E gene,Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1418619,C0007114,PREVENTS,PLA2G2D gene,Malignant neoplasm of skin,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1418880,C0005684,PREVENTS,PRDX2 gene,Malignant neoplasm of urinary bladder,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1418881,C0279702,PREVENTS,PRDX3 gene,Conventional (Clear Cell) Renal Cell Carcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1419063,C0024667,PREVENTS,PTGER3 gene,Animal Mammary Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1420362,C0598934,PREVENTS,SPINT2 gene,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1420362,C2939419,PREVENTS,SPINT2 gene,Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1420412,C0153676,PREVENTS,SRPK1 gene,Secondary malignant neoplasm of lung,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1420635,C0153676,PREVENTS,TCF19 gene,Secondary malignant neoplasm of lung,aapp,neop,2,PREVENTS_AAPPprevNEOP
+C1421403,C0021841,PREVENTS,USP28 gene,Intestinal Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1421527,C2939419,PREVENTS,XBP1 gene,Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1422064,C0007131,PREVENTS,ACE2 gene,Non-Small Cell Lung Carcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1422064,C0027960,PREVENTS,ACE2 gene,Nevus,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1425569,C0007621,PREVENTS,ZHX2 gene,Neoplastic Cell Transformation,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1426652,C0242379,PREVENTS,USP44 gene,Malignant neoplasm of lung,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1426669,C0027651,PREVENTS,DDX53 gene,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1427460,C0023434,PREVENTS,OARD1 gene,Chronic Lymphocytic Leukemia,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1428924,C0007114,PREVENTS,PLA2G2F gene,Malignant neoplasm of skin,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1440867,C0007621,PREVENTS,"lactoferrin, bovine",Neoplastic Cell Transformation,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1447020,C0025202,PREVENTS,"DPP4 protein, human",melanoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1447020,C0029925,PREVENTS,"DPP4 protein, human",Ovarian Carcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1453431,C3489398,PREVENTS,"BECN1 protein, human","Neuroepithelioma, Peripheral",aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1512511,C0006826,PREVENTS,Human Papilloma Virus Vaccine,Malignant Neoplasms,aapp,neop,3,PREVENTS_AAPPprevNEOP
+C1512511,C0007847,PREVENTS,Human Papilloma Virus Vaccine,Malignant tumor of cervix,aapp,neop,11,PREVENTS_AAPPprevNEOP
+C1512511,C0206708,PREVENTS,Human Papilloma Virus Vaccine,Cervical Intraepithelial Neoplasia,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1539098,C2939419,PREVENTS,CLEC4G gene,Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1539099,C2939419,PREVENTS,CLEC4M gene,Secondary Neoplasm,aapp,neop,2,PREVENTS_AAPPprevNEOP
+C1540289,C0598934,PREVENTS,CD200 gene,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1540290,C0027651,PREVENTS,CD200R1 gene,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1565860,C0242379,PREVENTS,"PTGS2 protein, human",Malignant neoplasm of lung,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1609165,C1266129,PREVENTS,tocilizumab,Atypical Lipoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1612111,C0007847,PREVENTS,human MUC1 protein,Malignant tumor of cervix,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1624602,C0598934,PREVENTS,Anti-Antibodies,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1823437,C0006826,PREVENTS,TMEM173 gene,Malignant Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1823437,C0178874,PREVENTS,TMEM173 gene,Tumor Progression,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1825598,C0006142,PREVENTS,IMPACT gene,Malignant neoplasm of breast,aapp,neop,3,PREVENTS_AAPPprevNEOP
+C1825598,C0006826,PREVENTS,IMPACT gene,Malignant Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1825598,C0009402,PREVENTS,IMPACT gene,Colorectal Carcinoma,aapp,neop,3,PREVENTS_AAPPprevNEOP
+C1825598,C0019621,PREVENTS,IMPACT gene,"Histiocytosis, Langerhans-Cell",aapp,neop,2,PREVENTS_AAPPprevNEOP
+C1825598,C1863925,PREVENTS,IMPACT gene,"Nonmedullary thyroid carcinoma, with or without cell oxyphilia",aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1825598,C2939419,PREVENTS,IMPACT gene,Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1860425,C0598934,PREVENTS,EWSR1/FLI1 Fusion Gene,tumor growth,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C1865068,C0027651,PREVENTS,MIR122 gene,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C2047258,C0007847,PREVENTS,"human papilloma virus vaccine, quadrivalent",Malignant tumor of cervix,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C2352715,C0027651,PREVENTS,"CEACAM5 protein, human",Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C2936529,C0685938,PREVENTS,Inflammasomes,Malignant neoplasm of gastrointestinal tract,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C2985160,C0027651,PREVENTS,ARID1A wt Allele,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C3537035,C0598934,PREVENTS,kinase inhibitor,tumor growth,aapp,neop,2,PREVENTS_AAPPprevNEOP
+C3537035,C2939419,PREVENTS,kinase inhibitor,Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C3540818,C0027651,PREVENTS,LAMP1 wt Allele,Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C3715044,C0006826,PREVENTS,AKR1A1 wt Allele,Malignant Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C3715044,C0027627,PREVENTS,AKR1A1 wt Allele,Neoplasm Metastasis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C3849574,C0596263,PREVENTS,"EPHB2 protein, human",Carcinogenesis,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C3849701,C2939419,PREVENTS,"interleukin 18 protein, human",Secondary Neoplasm,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C3885145,C1266129,PREVENTS,sarilumab,Atypical Lipoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C4048280,C0024299,PREVENTS,"T-Cell Surface Glycoprotein CD4, human",Lymphoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C4084937,C0600139,PREVENTS,Antimicrobial Peptide,Prostate carcinoma,aapp,neop,1,PREVENTS_AAPPprevNEOP
+C4284450,C0027651,PREVENTS,"HPV-16 Major Capsid Protein L1, human",Neoplasms,aapp,neop,1,PREVENTS_AAPPprevNEOP

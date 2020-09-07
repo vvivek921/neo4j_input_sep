@@ -1,0 +1,54 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017256,C0006826,AFFECTS,Gene Amplification,Malignant Neoplasms,genf,neop,1,AFFECTS_GENFafctNEOP
+C0017259,C0027708,AFFECTS,Gene Conversion,Nephroblastoma,genf,neop,1,AFFECTS_GENFafctNEOP
+C0017259,C0035335,AFFECTS,Gene Conversion,Retinoblastoma,genf,neop,1,AFFECTS_GENFafctNEOP
+C0017262,C0027651,AFFECTS,Gene Expression,Neoplasms,genf,neop,2,AFFECTS_GENFafctNEOP
+C0017263,C0007621,AFFECTS,Gene Expression Regulation,Neoplastic Cell Transformation,genf,neop,1,AFFECTS_GENFafctNEOP
+C0017263,C0027627,AFFECTS,Gene Expression Regulation,Neoplasm Metastasis,genf,neop,1,AFFECTS_GENFafctNEOP
+C0026882,C0006826,AFFECTS,Mutation,Malignant Neoplasms,genf,neop,10,AFFECTS_GENFafctNEOP
+C0026882,C0007621,AFFECTS,Mutation,Neoplastic Cell Transformation,genf,neop,2,AFFECTS_GENFafctNEOP
+C0026882,C0019829,AFFECTS,Mutation,Hodgkin Disease,genf,neop,1,AFFECTS_GENFafctNEOP
+C0026882,C0027627,AFFECTS,Mutation,Neoplasm Metastasis,genf,neop,1,AFFECTS_GENFafctNEOP
+C0026882,C0027651,AFFECTS,Mutation,Neoplasms,genf,neop,1,AFFECTS_GENFafctNEOP
+C0026882,C0027672,AFFECTS,Mutation,"Neoplastic Syndromes, Hereditary",genf,neop,1,AFFECTS_GENFafctNEOP
+C0026882,C0027708,AFFECTS,Mutation,Nephroblastoma,genf,neop,1,AFFECTS_GENFafctNEOP
+C0026882,C0027832,AFFECTS,Mutation,Neurofibromatosis 2,genf,neop,1,AFFECTS_GENFafctNEOP
+C0026882,C0596263,AFFECTS,Mutation,Carcinogenesis,genf,neop,1,AFFECTS_GENFafctNEOP
+C0026882,C4553572,AFFECTS,Mutation,Stage III Prostate Cancer AJCC v8,genf,neop,1,AFFECTS_GENFafctNEOP
+C0032529,C2239176,AFFECTS,Genetic Polymorphism,Liver carcinoma,genf,neop,1,AFFECTS_GENFafctNEOP
+C0034865,C1516669,AFFECTS,"Recombination, Genetic",Clonal Evolution,genf,neop,2,AFFECTS_GENFafctNEOP
+C0040624,C0007621,AFFECTS,"Trans-Activation, Genetic",Neoplastic Cell Transformation,genf,neop,1,AFFECTS_GENFafctNEOP
+C0040624,C0376358,AFFECTS,"Trans-Activation, Genetic",Malignant neoplasm of prostate,genf,neop,1,AFFECTS_GENFafctNEOP
+C0040649,C0006826,AFFECTS,"Transcription, Genetic",Malignant Neoplasms,genf,neop,1,AFFECTS_GENFafctNEOP
+C0040649,C0007621,AFFECTS,"Transcription, Genetic",Neoplastic Cell Transformation,genf,neop,1,AFFECTS_GENFafctNEOP
+C0040649,C0027627,AFFECTS,"Transcription, Genetic",Neoplasm Metastasis,genf,neop,1,AFFECTS_GENFafctNEOP
+C0040649,C0035335,AFFECTS,"Transcription, Genetic",Retinoblastoma,genf,neop,1,AFFECTS_GENFafctNEOP
+C0040649,C2939419,AFFECTS,"Transcription, Genetic",Secondary Neoplasm,genf,neop,1,AFFECTS_GENFafctNEOP
+C0162493,C0006826,AFFECTS,Transcriptional Activation,Malignant Neoplasms,genf,neop,1,AFFECTS_GENFafctNEOP
+C0206530,C0006826,AFFECTS,Germ-Line Mutation,Malignant Neoplasms,genf,neop,1,AFFECTS_GENFafctNEOP
+C0596611,C0001418,AFFECTS,Gene Mutation,Adenocarcinoma,genf,neop,1,AFFECTS_GENFafctNEOP
+C0596611,C0596263,AFFECTS,Gene Mutation,Carcinogenesis,genf,neop,1,AFFECTS_GENFafctNEOP
+C0598496,C0006826,AFFECTS,Gene Silencing,Malignant Neoplasms,genf,neop,1,AFFECTS_GENFafctNEOP
+C0872263,C0677930,AFFECTS,RNA marker,Primary Neoplasm,genf,neop,1,AFFECTS_GENFafctNEOP
+C0917892,C0021841,AFFECTS,Genetic Drift,Intestinal Neoplasms,genf,neop,1,AFFECTS_GENFafctNEOP
+C1136031,C0598934,AFFECTS,RNA Interference,tumor growth,genf,neop,1,AFFECTS_GENFafctNEOP
+C1148846,C0023467,AFFECTS,RNA Binding,"Leukemia, Myelocytic, Acute",genf,neop,1,AFFECTS_GENFafctNEOP
+C1158013,C0006826,AFFECTS,Nonsense Mediated mRNA Decay,Malignant Neoplasms,genf,neop,2,AFFECTS_GENFafctNEOP
+C1158013,C0027651,AFFECTS,Nonsense Mediated mRNA Decay,Neoplasms,genf,neop,2,AFFECTS_GENFafctNEOP
+C1158501,C0027708,AFFECTS,Mitotic Recombination,Nephroblastoma,genf,neop,1,AFFECTS_GENFafctNEOP
+C1158501,C0035335,AFFECTS,Mitotic Recombination,Retinoblastoma,genf,neop,1,AFFECTS_GENFafctNEOP
+C1158517,C0206655,AFFECTS,strand displacement,Alveolar rhabdomyosarcoma,genf,neop,1,AFFECTS_GENFafctNEOP
+C1158728,C0006826,AFFECTS,RNA Processing,Malignant Neoplasms,genf,neop,1,AFFECTS_GENFafctNEOP
+C1171362,C0027627,AFFECTS,protein expression,Neoplasm Metastasis,genf,neop,1,AFFECTS_GENFafctNEOP
+C1257759,C0027627,AFFECTS,mRNA Degradation,Neoplasm Metastasis,genf,neop,2,AFFECTS_GENFafctNEOP
+C1512554,C0007621,AFFECTS,Hypermethylation,Neoplastic Cell Transformation,genf,neop,1,AFFECTS_GENFafctNEOP
+C1516924,C0006826,AFFECTS,Epigenetic Process,Malignant Neoplasms,genf,neop,2,AFFECTS_GENFafctNEOP
+C1516924,C0007621,AFFECTS,Epigenetic Process,Neoplastic Cell Transformation,genf,neop,1,AFFECTS_GENFafctNEOP
+C1516924,C0596263,AFFECTS,Epigenetic Process,Carcinogenesis,genf,neop,1,AFFECTS_GENFafctNEOP
+C1519323,C0027627,AFFECTS,Silent Mutation,Neoplasm Metastasis,genf,neop,1,AFFECTS_GENFafctNEOP
+C1563774,C0023418,AFFECTS,Cytoplasmic Inheritance,leukemia,genf,neop,1,AFFECTS_GENFafctNEOP
+C1749524,C0178874,AFFECTS,mRNA processing,Tumor Progression,genf,neop,1,AFFECTS_GENFafctNEOP
+C2247938,C0027627,AFFECTS,RNA chaperone,Neoplasm Metastasis,genf,neop,1,AFFECTS_GENFafctNEOP
+C2257077,C0030354,AFFECTS,Transcriptase activity,Papilloma,genf,neop,1,AFFECTS_GENFafctNEOP
+C2610186,C0027819,AFFECTS,"nuclear mRNA cis splicing, via spliceosome",Neuroblastoma,genf,neop,1,AFFECTS_GENFafctNEOP
+C4042934,C0006826,AFFECTS,Mutation Accumulation,Malignant Neoplasms,genf,neop,1,AFFECTS_GENFafctNEOP

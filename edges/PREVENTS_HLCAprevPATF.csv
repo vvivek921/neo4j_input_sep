@@ -1,0 +1,138 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001559,C0020517,PREVENTS,Inhalation Drug Administration,Hypersensitivity,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0002423,C0162633,PREVENTS,ambulatory care services,Viral Shedding,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0002423,C0242656,PREVENTS,ambulatory care services,Disease Progression,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0009586,C3714514,PREVENTS,Comprehensive Health Care,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0009818,C0242781,PREVENTS,Consultation,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0009861,C0282474,PREVENTS,Family Planning,Maternal-Fetal Infection Transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0010210,C0282474,PREVENTS,Counseling,Maternal-Fetal Infection Transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0013961,C0242656,PREVENTS,Emergency medical service,Disease Progression,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0017313,C0242781,PREVENTS,patient care,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0018727,C3714514,PREVENTS,Health Planning,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0018747,C0036974,PREVENTS,Health Services,Shock,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0018747,C0242781,PREVENTS,Health Services,disease transmission,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0018747,C0282474,PREVENTS,Health Services,Maternal-Fetal Infection Transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0019948,C3714514,PREVENTS,Hospital Administration,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0019993,C0040038,PREVENTS,Hospitalization,Thromboembolism,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0019993,C0242781,PREVENTS,Hospitalization,disease transmission,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0019993,C3714514,PREVENTS,Hospitalization,Infection,hlca,patf,3,PREVENTS_HLCAprevPATF
+C0021634,C0013926,PREVENTS,Insufflation,Air Embolism,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0021634,C0015376,PREVENTS,Insufflation,Extravasation,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0030685,C0019080,PREVENTS,Patient Discharge,Hemorrhage,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0030685,C0020517,PREVENTS,Patient Discharge,Hypersensitivity,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0030685,C0020542,PREVENTS,Patient Discharge,Pulmonary Hypertension,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0030685,C0021368,PREVENTS,Patient Discharge,Inflammation,hlca,patf,3,PREVENTS_HLCAprevPATF
+C0030685,C0035228,PREVENTS,Patient Discharge,Respiratory Hypersensitivity,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0030685,C0040053,PREVENTS,Patient Discharge,Thrombosis,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0030685,C0162633,PREVENTS,Patient Discharge,Viral Shedding,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0030685,C0543419,PREVENTS,Patient Discharge,Sequela of disorder,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0030685,C1155266,PREVENTS,Patient Discharge,Inflammatory Response,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0030685,C1520005,PREVENTS,Patient Discharge,Viral Pathogenesis,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0030685,C3714514,PREVENTS,Patient Discharge,Infection,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0030704,C0242781,PREVENTS,Patient Transfer,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0031321,C0242781,PREVENTS,Pharmaceutical Services,disease transmission,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0031809,C3714514,PREVENTS,Physical Examination,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0033052,C0020542,PREVENTS,Prenatal care,Pulmonary Hypertension,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0033137,C0020517,PREVENTS,Primary Health Care,Hypersensitivity,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0033137,C3714514,PREVENTS,Primary Health Care,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0034117,C0034063,PREVENTS,Puncture procedure,Pulmonary Edema,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0035649,C0242781,PREVENTS,Risk Management,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0043113,C3714514,PREVENTS,Wellness Programs,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0085204,C0242781,PREVENTS,Universal Precautions,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0085204,C3714514,PREVENTS,Universal Precautions,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0085557,C0242781,PREVENTS,Infectious disease prevention / control,disease transmission,hlca,patf,3,PREVENTS_HLCAprevPATF
+C0085557,C0333257,PREVENTS,Infectious disease prevention / control,Air leakage,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0085557,C0392618,PREVENTS,Infectious disease prevention / control,Postoperative infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0085557,C3714514,PREVENTS,Infectious disease prevention / control,Infection,hlca,patf,3,PREVENTS_HLCAprevPATF
+C0085557,C4287874,PREVENTS,Infectious disease prevention / control,Droplet transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0085559,C0242656,PREVENTS,intensive care,Disease Progression,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0086930,C0242781,PREVENTS,Risk Assessment,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0086930,C3826020,PREVENTS,Risk Assessment,Medical emergencies,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0150270,C0020517,PREVENTS,Medication Management,Hypersensitivity,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0150270,C0333456,PREVENTS,Medication Management,Primary demyelination,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0162648,C0543419,PREVENTS,Telemedicine,Sequela of disorder,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0162648,C3714514,PREVENTS,Telemedicine,Infection,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0175745,C0040038,PREVENTS,Telephone consultation,Thromboembolism,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0184666,C0700148,PREVENTS,Hospital admission,Congestion,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0184666,C3203358,PREVENTS,Hospital admission,Hypoventilation,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0199178,C3714514,PREVENTS,Comprehensive consultation,Infection,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0200345,C0020517,PREVENTS,Specimen Collection,Hypersensitivity,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0204695,C3714514,PREVENTS,Feeding patient,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0205787,C0242781,PREVENTS,Health Campaigns,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0206082,C1520005,PREVENTS,Immunization Programs,Viral Pathogenesis,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0206082,C3714514,PREVENTS,Immunization Programs,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0220825,C0015376,PREVENTS,Evaluation,Extravasation,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0220825,C0020507,PREVENTS,Evaluation,Hyperplasia,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0220825,C0020517,PREVENTS,Evaluation,Hypersensitivity,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0220825,C0032787,PREVENTS,Evaluation,Postoperative Complications,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0220825,C0242781,PREVENTS,Evaluation,disease transmission,hlca,patf,4,PREVENTS_HLCAprevPATF
+C0220825,C0520817,PREVENTS,Evaluation,Physical disability,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0220825,C0854460,PREVENTS,Evaluation,Indirect Transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0220825,C3714514,PREVENTS,Evaluation,Infection,hlca,patf,4,PREVENTS_HLCAprevPATF
+C0259945,C0242781,PREVENTS,hospital care,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0278329,C0041755,PREVENTS,Prescribed,Adverse reaction to drug,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0278329,C3714514,PREVENTS,Prescribed,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0344211,C0021368,PREVENTS,Supportive care,Inflammation,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0344211,C0026766,PREVENTS,Supportive care,Multiple Organ Failure,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0344211,C0342579,PREVENTS,Supportive care,Electrolyte imbalance,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0344211,C0546817,PREVENTS,Supportive care,Fluid overload,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0344211,C1373218,PREVENTS,Supportive care,Decreased Immunologic Activity [PE],hlca,patf,1,PREVENTS_HLCAprevPATF
+C0344211,C1527311,PREVENTS,Supportive care,Brain Edema,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0545092,C3714514,PREVENTS,hospital visit,Infection,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0582103,C0032787,PREVENTS,Medical Examination,Postoperative Complications,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0597720,C3714514,PREVENTS,interdisciplinary collaboration,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0598836,C0456057,PREVENTS,checkup examination,Fetal stress,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0679783,C0282474,PREVENTS,condom distribution,Maternal-Fetal Infection Transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0805586,C0020517,PREVENTS,Challenge,Hypersensitivity,hlca,patf,3,PREVENTS_HLCAprevPATF
+C0805586,C0242781,PREVENTS,Challenge,disease transmission,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0805586,C0815080,PREVENTS,Challenge,organ rejection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0805586,C1167870,PREVENTS,Challenge,Graft dysfunction,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0805586,C3714514,PREVENTS,Challenge,Infection,hlca,patf,3,PREVENTS_HLCAprevPATF
+C0814500,C0020517,PREVENTS,elective care,Hypersensitivity,hlca,patf,2,PREVENTS_HLCAprevPATF
+C0871311,C3714514,PREVENTS,screening tests,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C0940824,C3714514,PREVENTS,Additional procedure,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1113679,C0032787,PREVENTS,patient safety,Postoperative Complications,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1144866,C3714514,PREVENTS,Multi-disciplinary team,Infection,hlca,patf,2,PREVENTS_HLCAprevPATF
+C1144866,C3838785,PREVENTS,Multi-disciplinary team,Catheter-associated urinary tract infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1261322,C0011071,PREVENTS,Evaluation procedure,Sudden death,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1261322,C0032787,PREVENTS,Evaluation procedure,Postoperative Complications,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1261322,C1262018,PREVENTS,Evaluation procedure,Graft failure,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1261322,C1520005,PREVENTS,Evaluation procedure,Viral Pathogenesis,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1261322,C3714514,PREVENTS,Evaluation procedure,Infection,hlca,patf,6,PREVENTS_HLCAprevPATF
+C1269815,C0206277,PREVENTS,Patient identification,Fatal Outcome,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1273999,C0242656,PREVENTS,Monitoring procedure,Disease Progression,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1283821,C4287874,PREVENTS,Barrier nursing,Droplet transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1318493,C0004144,PREVENTS,Inflation procedure,Atelectasis,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1406915,C0242656,PREVENTS,breathing therapy,Disease Progression,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1449559,C0242781,PREVENTS,Donor Selection,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1449559,C3714514,PREVENTS,Donor Selection,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1514821,C0242648,PREVENTS,Registration,Vertical Disease Transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1516615,C0013604,PREVENTS,Clinical Management,Edema,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1516615,C0022116,PREVENTS,Clinical Management,Ischemia,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1516879,C0700148,PREVENTS,Enrollment,Congestion,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1522577,C0161816,PREVENTS,follow-up,Cardiac complication,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1522577,C0242781,PREVENTS,follow-up,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1522577,C3714514,PREVENTS,follow-up,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C1882499,C0034063,PREVENTS,Provisional Registration,Pulmonary Edema,hlca,patf,1,PREVENTS_HLCAprevPATF
+C2350442,C0028778,PREVENTS,Nasal Lavage,Obstruction,hlca,patf,1,PREVENTS_HLCAprevPATF
+C2599893,C0860239,PREVENTS,Oral care,Catheter related infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C2718026,C3714514,PREVENTS,Capacity Building,Infection,hlca,patf,2,PREVENTS_HLCAprevPATF
+C2735310,C0034063,PREVENTS,Care management,Pulmonary Edema,hlca,patf,2,PREVENTS_HLCAprevPATF
+C2936303,C0041755,PREVENTS,Inappropriate Prescribing,Adverse reaction to drug,hlca,patf,1,PREVENTS_HLCAprevPATF
+C2936643,C1373218,PREVENTS,Standard of Care,Decreased Immunologic Activity [PE],hlca,patf,2,PREVENTS_HLCAprevPATF
+C3242005,C0392618,PREVENTS,surgical prophylaxis,Postoperative infection,hlca,patf,2,PREVENTS_HLCAprevPATF
+C3658272,C3714514,PREVENTS,Hazard Analysis and Critical Control Points,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C3714364,C0036679,PREVENTS,Counseling approach,Diastasis,hlca,patf,1,PREVENTS_HLCAprevPATF
+C3889687,C0242656,PREVENTS,Clinical Observation,Disease Progression,hlca,patf,1,PREVENTS_HLCAprevPATF
+C4036459,C0854460,PREVENTS,Contacts,Indirect Transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C4036459,C3714514,PREVENTS,Contacts,Infection,hlca,patf,4,PREVENTS_HLCAprevPATF
+C4042802,C0242781,PREVENTS,Telerehabilitation,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C4042889,C0015376,PREVENTS,Children's Health Insurance Program,Extravasation,hlca,patf,2,PREVENTS_HLCAprevPATF
+C4277528,C3714514,PREVENTS,Preventive Health Programs,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C4279933,C3714514,PREVENTS,Vaccination Campaign,Infection,hlca,patf,1,PREVENTS_HLCAprevPATF
+C4505148,C0242781,PREVENTS,Vaccination Coverage,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C4520476,C0242781,PREVENTS,Telehealth service,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF
+C4551696,C0012359,PREVENTS,Prone positioning,Pathological Dilatation,hlca,patf,3,PREVENTS_HLCAprevPATF
+C4551696,C0036974,PREVENTS,Prone positioning,Shock,hlca,patf,4,PREVENTS_HLCAprevPATF
+C4684780,C0333106,PREVENTS,Standard Treatment,Bleeding varices,hlca,patf,1,PREVENTS_HLCAprevPATF
+C4704902,C0242781,PREVENTS,Water Birth,disease transmission,hlca,patf,1,PREVENTS_HLCAprevPATF

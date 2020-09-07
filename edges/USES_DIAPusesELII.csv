@@ -1,0 +1,87 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002978,C0016911,USES,angiogram,gadolinium,diap,elii,1,USES_DIAPusesELII
+C0004398,C0303403,USES,Autopsy,indium-111,diap,elii,1,USES_DIAPusesELII
+C0006153,C0302945,USES,Breath Tests,Carbon-14,diap,elii,1,USES_DIAPusesELII
+C0011923,C0034595,USES,Diagnostic Imaging,Radioisotopes,diap,elii,2,USES_DIAPusesELII
+C0013516,C0022023,USES,Echocardiography,Ions,diap,elii,1,USES_DIAPusesELII
+C0013798,C0023175,USES,Electrocardiogram,lead,diap,elii,6,USES_DIAPusesELII
+C0021044,C0260055,USES,Immunohistochemistry,Liquid nitrogen,diap,elii,2,USES_DIAPusesELII
+C0024485,C0006030,USES,Magnetic Resonance Imaging,boron,diap,elii,2,USES_DIAPusesELII
+C0024485,C0007009,USES,Magnetic Resonance Imaging,Carbon,diap,elii,4,USES_DIAPusesELII
+C0024485,C0011744,USES,Magnetic Resonance Imaging,Deuterium,diap,elii,1,USES_DIAPusesELII
+C0024485,C0016911,USES,Magnetic Resonance Imaging,gadolinium,diap,elii,7,USES_DIAPusesELII
+C0024485,C0018880,USES,Magnetic Resonance Imaging,helium,diap,elii,1,USES_DIAPusesELII
+C0024485,C0033727,USES,Magnetic Resonance Imaging,Protons,diap,elii,7,USES_DIAPusesELII
+C0024485,C0041119,USES,Magnetic Resonance Imaging,Tritium,diap,elii,2,USES_DIAPusesELII
+C0024485,C0303559,USES,Magnetic Resonance Imaging,Rubidium-87,diap,elii,1,USES_DIAPusesELII
+C0024485,C0700308,USES,Magnetic Resonance Imaging,Protium,diap,elii,1,USES_DIAPusesELII
+C0024487,C0031705,USES,Magnetic Resonance Spectroscopy,phosphorus,diap,elii,1,USES_DIAPusesELII
+C0029161,C0011744,USES,Oral Glucose Tolerance Test,Deuterium,diap,elii,1,USES_DIAPusesELII
+C0032743,C0022262,USES,Positron-Emission Tomography,Isotopes,diap,elii,1,USES_DIAPusesELII
+C0032743,C0302944,USES,Positron-Emission Tomography,Carbon-11,diap,elii,1,USES_DIAPusesELII
+C0032743,C0303024,USES,Positron-Emission Tomography,Iodine-124,diap,elii,1,USES_DIAPusesELII
+C0034606,C0016911,USES,Radionuclide Imaging,gadolinium,diap,elii,1,USES_DIAPusesELII
+C0034606,C0022023,USES,Radionuclide Imaging,Ions,diap,elii,9,USES_DIAPusesELII
+C0034606,C0039411,USES,Radionuclide Imaging,Technetium,diap,elii,2,USES_DIAPusesELII
+C0034606,C0039738,USES,Radionuclide Imaging,thallium,diap,elii,1,USES_DIAPusesELII
+C0034606,C0303225,USES,Radionuclide Imaging,gallium-67,diap,elii,32,USES_DIAPusesELII
+C0034606,C0303226,USES,Radionuclide Imaging,Gallium-68,diap,elii,1,USES_DIAPusesELII
+C0034606,C0303322,USES,Radionuclide Imaging,Thallium-201,diap,elii,1,USES_DIAPusesELII
+C0034606,C0872916,USES,Radionuclide Imaging,xenon-133,diap,elii,1,USES_DIAPusesELII
+C0034606,C3495095,USES,Radionuclide Imaging,lithium cation,diap,elii,1,USES_DIAPusesELII
+C0040395,C0013852,USES,tomography,Electrons,diap,elii,6,USES_DIAPusesELII
+C0040398,C0022262,USES,"Tomography, Emission-Computed",Isotopes,diap,elii,1,USES_DIAPusesELII
+C0040398,C0033727,USES,"Tomography, Emission-Computed",Protons,diap,elii,1,USES_DIAPusesELII
+C0040398,C0034595,USES,"Tomography, Emission-Computed",Radioisotopes,diap,elii,2,USES_DIAPusesELII
+C0040398,C0302995,USES,"Tomography, Emission-Computed",Fluorine-18,diap,elii,2,USES_DIAPusesELII
+C0040399,C0022262,USES,"Tomography, Emission-Computed, Single-Photon",Isotopes,diap,elii,3,USES_DIAPusesELII
+C0040399,C0034595,USES,"Tomography, Emission-Computed, Single-Photon",Radioisotopes,diap,elii,1,USES_DIAPusesELII
+C0040399,C0303596,USES,"Tomography, Emission-Computed, Single-Photon",Yttrium-90,diap,elii,1,USES_DIAPusesELII
+C0040405,C0022023,USES,X-Ray Computed Tomography,Ions,diap,elii,1,USES_DIAPusesELII
+C0041618,C2347816,USES,Ultrasonography,cobaltous cation,diap,elii,1,USES_DIAPusesELII
+C0079304,C0004749,USES,Esophagogastroduodenoscopy,barium,diap,elii,1,USES_DIAPusesELII
+C0079835,C0018026,USES,"Microscopy, Immunoelectron",gold,diap,elii,1,USES_DIAPusesELII
+C0150496,C0023175,USES,Cardiac monitoring,lead,diap,elii,1,USES_DIAPusesELII
+C0180580,C0023175,USES,Electrocardiographic monitoring,lead,diap,elii,2,USES_DIAPusesELII
+C0202762,C0016911,USES,Magnetic Resonance Imaging (MRI) of Neck,gadolinium,diap,elii,1,USES_DIAPusesELII
+C0203669,C0303225,USES,Whole Body Imaging,gallium-67,diap,elii,1,USES_DIAPusesELII
+C0203683,C0872916,USES,Radioisotope scan of lung,xenon-133,diap,elii,2,USES_DIAPusesELII
+C0220908,C0022023,USES,Screening procedure,Ions,diap,elii,1,USES_DIAPusesELII
+C0220908,C0023175,USES,Screening procedure,lead,diap,elii,3,USES_DIAPusesELII
+C0220908,C0037107,USES,Screening procedure,silicon,diap,elii,1,USES_DIAPusesELII
+C0220908,C0567415,USES,Screening procedure,Atom (substance),diap,elii,1,USES_DIAPusesELII
+C0220908,C2346661,USES,Screening procedure,Pb2+,diap,elii,1,USES_DIAPusesELII
+C0262485,C0043339,USES,Flash,xenon,diap,elii,1,USES_DIAPusesELII
+C0302357,C3848561,USES,Test of Visual Evoked Responses in Children,ferric cation,diap,elii,1,USES_DIAPusesELII
+C0412692,C0016911,USES,Magnetic Resonance Imaging (MRI) of Heart,gadolinium,diap,elii,1,USES_DIAPusesELII
+C0419358,C0023175,USES,Exploration with a probe,lead,diap,elii,7,USES_DIAPusesELII
+C0419358,C0302918,USES,Exploration with a probe,Stable isotope,diap,elii,5,USES_DIAPusesELII
+C0430471,C0034595,USES,Radionuclide myocardial perfusion study,Radioisotopes,diap,elii,1,USES_DIAPusesELII
+C0431080,C0034595,USES,Diagnostic assessment,Radioisotopes,diap,elii,1,USES_DIAPusesELII
+C0596473,C0022023,USES,Early Diagnosis,Ions,diap,elii,1,USES_DIAPusesELII
+C0813145,C0022023,USES,Genetic Screening (procedure),Ions,diap,elii,1,USES_DIAPusesELII
+C0852248,C0033727,USES,Pulmonary irradiation,Protons,diap,elii,1,USES_DIAPusesELII
+C0877853,C0008574,USES,"Spectroscopy, Nuclear Magnetic Resonance",chromium,diap,elii,1,USES_DIAPusesELII
+C0877853,C0011744,USES,"Spectroscopy, Nuclear Magnetic Resonance",Deuterium,diap,elii,1,USES_DIAPusesELII
+C0877853,C0022023,USES,"Spectroscopy, Nuclear Magnetic Resonance",Ions,diap,elii,1,USES_DIAPusesELII
+C0877853,C0033727,USES,"Spectroscopy, Nuclear Magnetic Resonance",Protons,diap,elii,3,USES_DIAPusesELII
+C0877853,C0303559,USES,"Spectroscopy, Nuclear Magnetic Resonance",Rubidium-87,diap,elii,5,USES_DIAPusesELII
+C0877853,C0682906,USES,"Spectroscopy, Nuclear Magnetic Resonance",Transition Elements,diap,elii,2,USES_DIAPusesELII
+C0948898,C0303403,USES,Leukocyte scintigraphy,indium-111,diap,elii,1,USES_DIAPusesELII
+C1282538,C0004749,USES,Contrast enema,barium,diap,elii,2,USES_DIAPusesELII
+C1306645,C0004749,USES,Plain x-ray,barium,diap,elii,2,USES_DIAPusesELII
+C1318509,C0004749,USES,Esophagram,barium,diap,elii,2,USES_DIAPusesELII
+C1328868,C0007009,USES,Diffuse Optical Tomography,Carbon,diap,elii,3,USES_DIAPusesELII
+C1328868,C0018026,USES,Diffuse Optical Tomography,gold,diap,elii,4,USES_DIAPusesELII
+C1328868,C0022262,USES,Diffuse Optical Tomography,Isotopes,diap,elii,1,USES_DIAPusesELII
+C1441534,C0013852,USES,3D COMPUTERIZED TOMOGRAPHY,Electrons,diap,elii,2,USES_DIAPusesELII
+C1522706,C0033727,USES,magnetic resonance spectroscopic imaging,Protons,diap,elii,3,USES_DIAPusesELII
+C1964257,C0018026,USES,Observation - diagnostic procedure,gold,diap,elii,1,USES_DIAPusesELII
+C1964257,C0022023,USES,Observation - diagnostic procedure,Ions,diap,elii,1,USES_DIAPusesELII
+C1964257,C0022262,USES,Observation - diagnostic procedure,Isotopes,diap,elii,5,USES_DIAPusesELII
+C2350391,C0039738,USES,Myocardial Scintigraphy,thallium,diap,elii,1,USES_DIAPusesELII
+C3472245,C2828294,USES,Single Photon Emission Computed Tomography Computed Tomography,iodide ion I-131,diap,elii,1,USES_DIAPusesELII
+C3494508,C0039738,USES,Stress Test,thallium,diap,elii,1,USES_DIAPusesELII
+C3641247,C0302995,USES,FDG-Positron Emission Tomography,Fluorine-18,diap,elii,2,USES_DIAPusesELII
+C4699984,C0022262,USES,Direct observation,Isotopes,diap,elii,6,USES_DIAPusesELII
+C4733399,C3495095,USES,infrared imaging,lithium cation,diap,elii,1,USES_DIAPusesELII

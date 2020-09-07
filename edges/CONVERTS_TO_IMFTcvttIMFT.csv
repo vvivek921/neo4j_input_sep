@@ -1,0 +1,17 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002092,C0003320,CONVERTS_TO,Allergens,Antigens,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0003316,C0001551,CONVERTS_TO,Epitopes,Immunologic Adjuvants,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0003316,C0003320,CONVERTS_TO,Epitopes,Antigens,imft,imft,2,CONVERTS_TO_IMFTcvttIMFT
+C0003320,C0003316,CONVERTS_TO,Antigens,Epitopes,imft,imft,8,CONVERTS_TO_IMFTcvttIMFT
+C0003320,C0021403,CONVERTS_TO,Antigens,Influenza virus vaccine,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0003320,C0282580,CONVERTS_TO,Antigens,"Epitopes, T-Lymphocyte",imft,imft,2,CONVERTS_TO_IMFTcvttIMFT
+C0003320,C1883036,CONVERTS_TO,Antigens,Single-Chain Antibodies,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0003342,C0003320,CONVERTS_TO,"Antigens, Viral",Antigens,imft,imft,3,CONVERTS_TO_IMFTcvttIMFT
+C0004359,C0282580,CONVERTS_TO,Autoantigens,"Epitopes, T-Lymphocyte",imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0019168,C0887892,CONVERTS_TO,Hepatitis B Surface Antigens,"Vaccines, Subunit",imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0039620,C0282580,CONVERTS_TO,Tetanus Vaccine,"Epitopes, T-Lymphocyte",imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C0887894,C1569170,CONVERTS_TO,Respiratory Syncytial Virus Vaccines,polyvalent mechanical bacterial lysate,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C1291777,C0003316,CONVERTS_TO,Protein antigen,Epitopes,imft,imft,2,CONVERTS_TO_IMFTcvttIMFT
+C1291777,C0282580,CONVERTS_TO,Protein antigen,"Epitopes, T-Lymphocyte",imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C1291802,C0282581,CONVERTS_TO,Human immunodeficiency virus 1 glycoprotein 120 antigen,"Epitopes, B-Lymphocyte",imft,imft,1,CONVERTS_TO_IMFTcvttIMFT
+C1545500,C0003316,CONVERTS_TO,Influenza virus A hemagglutinin,Epitopes,imft,imft,1,CONVERTS_TO_IMFTcvttIMFT

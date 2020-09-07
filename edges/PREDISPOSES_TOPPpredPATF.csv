@@ -1,0 +1,346 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001563,C0020517,PREDISPOSES,"Administration, Oral",Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0001563,C0021375,PREDISPOSES,"Administration, Oral",allergic inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0002688,C3714514,PREDISPOSES,Amputation,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0002903,C0040053,PREDISPOSES,Anesthesia procedures,Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0002913,C0238154,PREDISPOSES,Epidural Anesthesia,"Hematoma, Epidural, Cranial",topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0002915,C1265580,PREDISPOSES,General Anesthesia,Acute collapse,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0003281,C0040038,PREDISPOSES,Anticoagulation Therapy,Thromboembolism,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0004910,C0040038,PREDISPOSES,Bed rest,Thromboembolism,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0004910,C0040053,PREDISPOSES,Bed rest,Thrombosis,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0005794,C0242781,PREDISPOSES,Blood Donation,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0005841,C0026766,PREDISPOSES,Blood Transfusion,Multiple Organ Failure,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0005841,C0242781,PREDISPOSES,Blood Transfusion,disease transmission,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0005841,C0854457,PREDISPOSES,Blood Transfusion,Direct disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0005841,C2886794,PREDISPOSES,Blood Transfusion,Catheter related bloodstream infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0005841,C3714514,PREDISPOSES,Blood Transfusion,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0007202,C0034063,PREDISPOSES,Cardiopulmonary Bypass,Pulmonary Edema,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0007202,C2717957,PREDISPOSES,Cardiopulmonary Bypass,Vasoplegia,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0007203,C0022116,PREDISPOSES,Cardiopulmonary Resuscitation,Ischemia,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0007876,C0032914,PREDISPOSES,Cesarean section,Pre-Eclampsia,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0007876,C0151526,PREDISPOSES,Cesarean section,Premature Birth,topp,patf,3,PREDISPOSES_TOPPpredPATF
+C0009429,C0021368,PREDISPOSES,Combined Modality Therapy,Inflammation,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0010280,C0006114,PREDISPOSES,Craniotomy,Cerebral Edema,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0010280,C0151699,PREDISPOSES,Craniotomy,Intracranial Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0011307,C0021368,PREDISPOSES,Denervation,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0011331,C0242781,PREDISPOSES,Dental Procedures,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0012002,C0019080,PREDISPOSES,Diathermy,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0012683,C0242781,PREDISPOSES,Disinfection,disease transmission,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0012737,C0032787,PREDISPOSES,Tissue Dissection,Postoperative Complications,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0013216,C0032787,PREDISPOSES,Pharmacotherapy,Postoperative Complications,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0013216,C0242656,PREDISPOSES,Pharmacotherapy,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0013216,C0543419,PREDISPOSES,Pharmacotherapy,Sequela of disorder,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0013216,C0919924,PREDISPOSES,Pharmacotherapy,pulmonary toxicity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0013806,C0016059,PREDISPOSES,Electroconvulsive Therapy,Fibrosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0013806,C0021368,PREDISPOSES,Electroconvulsive Therapy,Inflammation,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0013806,C0040053,PREDISPOSES,Electroconvulsive Therapy,Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0013806,C0333186,PREDISPOSES,Electroconvulsive Therapy,Restenosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0013806,C1155266,PREDISPOSES,Electroconvulsive Therapy,Inflammatory Response,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0013806,C2936381,PREDISPOSES,Electroconvulsive Therapy,Neointima Formation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0013931,C1861246,PREDISPOSES,"Embolization, Therapeutic",Paradoxical cerebral emboli,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0014327,C3714514,PREDISPOSES,Enteral Nutrition,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0015250,C0019080,PREDISPOSES,Complete excision,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0015252,C0151763,PREDISPOSES,removal technique,Liver damage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0015357,C0019080,PREDISPOSES,Extracorporeal Membrane Oxygenation,Hemorrhage,topp,patf,3,PREDISPOSES_TOPPpredPATF
+C0015357,C0040038,PREDISPOSES,Extracorporeal Membrane Oxygenation,Thromboembolism,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0015357,C0151701,PREDISPOSES,Extracorporeal Membrane Oxygenation,Pulmonary hemorrhage,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0015357,C0546817,PREDISPOSES,Extracorporeal Membrane Oxygenation,Fluid overload,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0015825,C0013926,PREDISPOSES,Labyrinth fenestration,Air Embolism,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0016286,C0034063,PREDISPOSES,Fluid Therapy,Pulmonary Edema,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0016286,C0546817,PREDISPOSES,Fluid Therapy,Fluid overload,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0017296,C0041755,PREDISPOSES,gene therapy,Adverse reaction to drug,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0017296,C0151526,PREDISPOSES,gene therapy,Premature Birth,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0017296,C0242656,PREDISPOSES,gene therapy,Disease Progression,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0017296,C0242781,PREDISPOSES,gene therapy,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0017296,C1520005,PREDISPOSES,gene therapy,Viral Pathogenesis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0017296,C3714514,PREDISPOSES,gene therapy,Infection,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0018823,C0019080,PREDISPOSES,Heart Transplantation,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0018833,C0242656,PREDISPOSES,Heart-Lung Transplantation,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0019004,C3714514,PREDISPOSES,Hemodialysis,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0020699,C0242648,PREDISPOSES,Hysterectomy,Vertical Disease Transmission,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0020944,C0034065,PREDISPOSES,Immobilization,Pulmonary Embolism,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0020944,C0040053,PREDISPOSES,Immobilization,Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0020944,C0042487,PREDISPOSES,Immobilization,Venous Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0020944,C0087086,PREDISPOSES,Immobilization,Thrombus,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0020944,C3714514,PREDISPOSES,Immobilization,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0020971,C0011164,PREDISPOSES,Immunization,Abnormal degeneration,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0020971,C3714514,PREDISPOSES,Immunization,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0020975,C0021368,PREDISPOSES,Secondary Immunization,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021079,C0020517,PREDISPOSES,Therapeutic immunosuppression,Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021079,C3714514,PREDISPOSES,Therapeutic immunosuppression,Infection,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0021083,C0020517,PREDISPOSES,Immunotherapy,Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021107,C0019080,PREDISPOSES,Implantation procedure,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021107,C0040053,PREDISPOSES,Implantation procedure,Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021107,C0087086,PREDISPOSES,Implantation procedure,Thrombus,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0021107,C0520863,PREDISPOSES,Implantation procedure,Diastolic dysfunction,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021107,C0546817,PREDISPOSES,Implantation procedure,Fluid overload,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021107,C0860239,PREDISPOSES,Implantation procedure,Catheter related infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021107,C1096243,PREDISPOSES,Implantation procedure,Central Line Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021485,C0020517,PREDISPOSES,Injection of therapeutic agent,Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021488,C1373218,PREDISPOSES,Intra-Articular Injections,Decreased Immunologic Activity [PE],topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0021925,C0020517,PREDISPOSES,Intubation,Hypersensitivity,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0021925,C0242781,PREDISPOSES,Intubation,disease transmission,topp,patf,3,PREDISPOSES_TOPPpredPATF
+C0021932,C0002994,PREDISPOSES,"Intubation, Intratracheal",Angioedema,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0022100,C0021368,PREDISPOSES,Irrigation,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0022671,C0877042,PREDISPOSES,Kidney Transplantation,graft loss,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0023038,C0032787,PREDISPOSES,Laparotomy,Postoperative Complications,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0023690,C1155266,PREDISPOSES,Ligation,Inflammatory Response,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0023911,C0392106,PREDISPOSES,Transplantation of liver,Hepatic artery thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0024128,C0231178,PREDISPOSES,Lung Transplantation,Chronic failure,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0024203,C0007642,PREDISPOSES,Lymph node excision,Cellulitis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0029216,C0242781,PREDISPOSES,Organ Transplantation,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0029216,C3714514,PREDISPOSES,Organ Transplantation,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0030547,C3714514,PREDISPOSES,Parenteral Nutrition,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0032042,C0242656,PREDISPOSES,Placebos,Disease Progression,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0032113,C0034063,PREDISPOSES,Plasma Exchange,Pulmonary Edema,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0032134,C0231178,PREDISPOSES,Plasmapheresis,Chronic failure,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0032740,C0004144,PREDISPOSES,Positive End-Expiratory Pressure,Atelectasis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0033045,C0020517,PREDISPOSES,Premedication,Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0033972,C0019080,PREDISPOSES,"Psychotherapy, Multiple",Hemorrhage,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0033972,C0087086,PREDISPOSES,"Psychotherapy, Multiple",Thrombus,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0033972,C0242656,PREDISPOSES,"Psychotherapy, Multiple",Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0034386,C0242781,PREDISPOSES,Quarantine,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0034386,C3714514,PREDISPOSES,Quarantine,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0034771,C0030660,PREDISPOSES,Recanalization,Pathologic Processes,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0035110,C0019080,PREDISPOSES,Repeat Surgery,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0035273,C0034063,PREDISPOSES,Resuscitation procedure,Pulmonary Edema,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0035273,C0546817,PREDISPOSES,Resuscitation procedure,Fluid overload,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0037995,C3887513,PREDISPOSES,Splenectomy,Avascular necrosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0038847,C0242781,PREDISPOSES,Supplementary Feeding,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0038904,C0019080,PREDISPOSES,Minor Surgical Procedures,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040044,C0019080,PREDISPOSES,Thrombolytic Therapy,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040044,C0040053,PREDISPOSES,Thrombolytic Therapy,Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040044,C0087086,PREDISPOSES,Thrombolytic Therapy,Thrombus,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040044,C0333565,PREDISPOSES,Thrombolytic Therapy,Fibrin deposition,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040508,C3887513,PREDISPOSES,Total Hip Replacement (procedure),Avascular necrosis,topp,patf,4,PREDISPOSES_TOPPpredPATF
+C0040590,C0019080,PREDISPOSES,Tracheostomy procedure,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040590,C0242781,PREDISPOSES,Tracheostomy procedure,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040591,C0019080,PREDISPOSES,Tracheotomy procedure,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040732,C0021308,PREDISPOSES,Transplantation,Infarction,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040732,C0021368,PREDISPOSES,Transplantation,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040732,C0242656,PREDISPOSES,Transplantation,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040732,C0242781,PREDISPOSES,Transplantation,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040732,C0281169,PREDISPOSES,Transplantation,Pulmonary Complication,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040732,C1262018,PREDISPOSES,Transplantation,Graft failure,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040732,C1373218,PREDISPOSES,Transplantation,Decreased Immunologic Activity [PE],topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0040732,C3714514,PREDISPOSES,Transplantation,Infection,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0040739,C0013604,PREDISPOSES,"Transplantation, Homologous",Edema,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040739,C0333138,PREDISPOSES,"Transplantation, Homologous",Stasis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040739,C0815080,PREDISPOSES,"Transplantation, Homologous",organ rejection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040808,C0019080,PREDISPOSES,Treatment Protocols,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040808,C0232910,PREDISPOSES,Treatment Protocols,Teratogenesis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040808,C1832055,PREDISPOSES,Treatment Protocols,Hepatic Complication,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0040808,C4087225,PREDISPOSES,Treatment Protocols,Immune-Mediated Adverse Reaction,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0042019,C0043241,PREDISPOSES,Urinary Catheterization,Wound Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0042196,C0007642,PREDISPOSES,Vaccination,Cellulitis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0042196,C0020517,PREDISPOSES,Vaccination,Hypersensitivity,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0042196,C0021368,PREDISPOSES,Vaccination,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0042196,C0242781,PREDISPOSES,Vaccination,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0042196,C1373218,PREDISPOSES,Vaccination,Decreased Immunologic Activity [PE],topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0042196,C3714514,PREDISPOSES,Vaccination,Infection,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0043162,C0019080,PREDISPOSES,Whole-Body Irradiation,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0052712,C0020517,PREDISPOSES,doxorubicin/mitomycin/vinblastine protocol,Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0057163,C0242656,PREDISPOSES,DAV regimen,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0057163,C1373218,PREDISPOSES,DAV regimen,Decreased Immunologic Activity [PE],topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0065764,C1510411,PREDISPOSES,bleomycin/cisplatin/methotrexate protocol,metaplastic cell transformation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0065764,C1520005,PREDISPOSES,bleomycin/cisplatin/methotrexate protocol,Viral Pathogenesis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0065772,C1383860,PREDISPOSES,MCC protocol,Cardiac Hypertrophy,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0078140,C0020517,PREDISPOSES,bleomycin/methotrexate/vincristine protocol,Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0080232,C0242781,PREDISPOSES,Tissue Transplantation,disease transmission,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0082139,C0040046,PREDISPOSES,Cyclophosphamide/Dexamethasone/Doxorubicin/Vincristine,Thrombophlebitis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0085148,C0030922,PREDISPOSES,"Hemostasis, Endoscopic",Peptic Ulcer Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0085198,C0281169,PREDISPOSES,Esophagectomy,Pulmonary Complication,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0085430,C0026766,PREDISPOSES,Blood Component Transfusion,Multiple Organ Failure,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0085867,C0449430,PREDISPOSES,Balneotherapy,Physiological Stress,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0086818,C0019080,PREDISPOSES,Platelet Transfusion,Hemorrhage,topp,patf,3,PREDISPOSES_TOPPpredPATF
+C0086818,C0022116,PREDISPOSES,Platelet Transfusion,Ischemia,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0086818,C0040053,PREDISPOSES,Platelet Transfusion,Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0086818,C0151701,PREDISPOSES,Platelet Transfusion,Pulmonary hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0086818,C0242781,PREDISPOSES,Platelet Transfusion,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0086818,C1321132,PREDISPOSES,Platelet Transfusion,Spontaneous hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0149783,C0029445,PREDISPOSES,Steroid therapy,Bone necrosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0149783,C0877042,PREDISPOSES,Steroid therapy,graft loss,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0149783,C3714514,PREDISPOSES,Steroid therapy,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0150211,C3714514,PREDISPOSES,Environmental care procedure,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0150238,C0546817,PREDISPOSES,Fluid resuscitation,Fluid overload,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0150457,C0019080,PREDISPOSES,Anticoagulant therapy,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0150457,C0032788,PREDISPOSES,Anticoagulant therapy,Postoperative Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0150457,C0087086,PREDISPOSES,Anticoagulant therapy,Thrombus,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0152054,C0242781,PREDISPOSES,Therapeutic tactile stimulation,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0152060,C0001122,PREDISPOSES,Transection (procedure),Acidosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0152060,C0032797,PREDISPOSES,Transection (procedure),Postpartum Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0152060,C0151526,PREDISPOSES,Transection (procedure),Premature Birth,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0162563,C0040038,PREDISPOSES,Cardiac ablation,Thromboembolism,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0162563,C0087086,PREDISPOSES,Cardiac ablation,Thrombus,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0184893,C0019080,PREDISPOSES,Emergency operation,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0184967,C0020517,PREDISPOSES,Insertion of pack (procedure),Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0185026,C0020517,PREDISPOSES,Plication,Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0185026,C0020564,PREDISPOSES,Plication,Hypertrophy,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0185027,C0021368,PREDISPOSES,Imbrication (procedure),Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0185115,C0020517,PREDISPOSES,Extraction,Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0185115,C0021368,PREDISPOSES,Extraction,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0185115,C0031154,PREDISPOSES,Extraction,Peritonitis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0193535,C0745283,PREDISPOSES,Anastomosis of bile ducts,INFECTIOUS PROCESS,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0193959,C0019080,PREDISPOSES,Tonsillectomy and adenoidectomy,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0194086,C1520005,PREDISPOSES,Partial nephrectomy,Viral Pathogenesis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0194133,C0267373,PREDISPOSES,Local perfusion of kidney,Intestinal hemorrhage NOS,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0198482,C0281169,PREDISPOSES,Operation on abdominal region,Pulmonary Complication,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199176,C0019080,PREDISPOSES,Prophylactic treatment,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199176,C0021655,PREDISPOSES,Prophylactic treatment,Insulin Resistance,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199176,C0022116,PREDISPOSES,Prophylactic treatment,Ischemia,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199176,C0040053,PREDISPOSES,Prophylactic treatment,Thrombosis,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0199176,C0087086,PREDISPOSES,Prophylactic treatment,Thrombus,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199176,C0151701,PREDISPOSES,Prophylactic treatment,Pulmonary hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199176,C0242656,PREDISPOSES,Prophylactic treatment,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199176,C0242781,PREDISPOSES,Prophylactic treatment,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199176,C3714514,PREDISPOSES,Prophylactic treatment,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199176,C4061114,PREDISPOSES,Prophylactic treatment,Acute illness,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199244,C3714514,PREDISPOSES,Antimalarial prophylaxis,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199470,C0032787,PREDISPOSES,Mechanical ventilation,Postoperative Complications,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199470,C0036974,PREDISPOSES,Mechanical ventilation,Shock,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199470,C0087086,PREDISPOSES,Mechanical ventilation,Thrombus,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199470,C0161818,PREDISPOSES,Mechanical ventilation,Respiratory complication,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0199470,C3714514,PREDISPOSES,Mechanical ventilation,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0204193,C0242781,PREDISPOSES,Orthodontic procedure,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0204727,C0206277,PREDISPOSES,Isolation procedure,Fatal Outcome,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0206058,C0034065,PREDISPOSES,Elective Surgical Procedures,Pulmonary Embolism,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0206058,C0392618,PREDISPOSES,Elective Surgical Procedures,Postoperative infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0206058,C3714514,PREDISPOSES,Elective Surgical Procedures,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0206074,C0021368,PREDISPOSES,Renal Replacement Therapy,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0278347,C0274435,PREDISPOSES,Transfusion of plasma,Transfusion Reaction,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0279025,C0040038,PREDISPOSES,Hormone Therapy,Thromboembolism,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0279391,C0333165,PREDISPOSES,mercaptopurine/methotrexate/vincristine,Acute obstruction,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0280604,C0032787,PREDISPOSES,altretamine/cisplatin/cyclophosphamide protocol,Postoperative Complications,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0280604,C0040038,PREDISPOSES,altretamine/cisplatin/cyclophosphamide protocol,Thromboembolism,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0280604,C1155266,PREDISPOSES,altretamine/cisplatin/cyclophosphamide protocol,Inflammatory Response,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0282046,C0242781,PREDISPOSES,"Surgery, Day",disease transmission,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0282402,C0087086,PREDISPOSES,Hormone replacement therapy,Thrombus,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0339897,C0333186,PREDISPOSES,Transjugular intrahepatic portosystemic shunt procedure,Restenosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0349707,C0015376,PREDISPOSES,Aspiration-action,Extravasation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0349707,C0019080,PREDISPOSES,Aspiration-action,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0376450,C3714514,PREDISPOSES,Transplantation Conditioning,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0398480,C0034063,PREDISPOSES,Drainage of lymphatics,Pulmonary Edema,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0418981,C3897493,PREDISPOSES,Medical therapy,Stent Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0419997,C3714514,PREDISPOSES,Viral screening,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0436307,C0267716,PREDISPOSES,Chemoradiotherapy,Incisional hernia,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0439775,C0021368,PREDISPOSES,Elevation procedure,Inflammation,topp,patf,4,PREDISPOSES_TOPPpredPATF
+C0439775,C0040053,PREDISPOSES,Elevation procedure,Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0439775,C0151763,PREDISPOSES,Elevation procedure,Liver damage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0439775,C0242656,PREDISPOSES,Elevation procedure,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0441509,C0001511,PREDISPOSES,Coagulation procedure,Tissue Adhesions,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0441509,C0019080,PREDISPOSES,Coagulation procedure,Hemorrhage,topp,patf,3,PREDISPOSES_TOPPpredPATF
+C0441509,C0020517,PREDISPOSES,Coagulation procedure,Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0441509,C0021368,PREDISPOSES,Coagulation procedure,Inflammation,topp,patf,4,PREDISPOSES_TOPPpredPATF
+C0441509,C0026766,PREDISPOSES,Coagulation procedure,Multiple Organ Failure,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0441509,C0040053,PREDISPOSES,Coagulation procedure,Thrombosis,topp,patf,4,PREDISPOSES_TOPPpredPATF
+C0441509,C0087086,PREDISPOSES,Coagulation procedure,Thrombus,topp,patf,5,PREDISPOSES_TOPPpredPATF
+C0441509,C0151942,PREDISPOSES,Coagulation procedure,Arterial thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0441509,C0333565,PREDISPOSES,Coagulation procedure,Fibrin deposition,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0441509,C0442860,PREDISPOSES,Coagulation procedure,Intravascular thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0456276,C0281169,PREDISPOSES,Midline incision,Pulmonary Complication,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0472699,C0019080,PREDISPOSES,Hemopoietic stem cell transplant,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0472699,C0281169,PREDISPOSES,Hemopoietic stem cell transplant,Pulmonary Complication,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0472699,C3714514,PREDISPOSES,Hemopoietic stem cell transplant,Infection,topp,patf,4,PREDISPOSES_TOPPpredPATF
+C0475745,C0600228,PREDISPOSES,Apneic oxygenation,Cardiopulmonary Arrest,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0520251,C0242781,PREDISPOSES,Multiple interventional procedures,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0520484,C0242781,PREDISPOSES,Xenograft procedure,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0520484,C3714514,PREDISPOSES,Xenograft procedure,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0521974,C0030660,PREDISPOSES,"Diet, High-Fat",Pathologic Processes,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0543467,C0002994,PREDISPOSES,Operative Surgical Procedures,Angioedema,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0543467,C0032787,PREDISPOSES,Operative Surgical Procedures,Postoperative Complications,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0543467,C0038941,PREDISPOSES,Operative Surgical Procedures,Surgical Wound Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0543467,C0040038,PREDISPOSES,Operative Surgical Procedures,Thromboembolism,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0543467,C0087086,PREDISPOSES,Operative Surgical Procedures,Thrombus,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0543467,C0242656,PREDISPOSES,Operative Surgical Procedures,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0543467,C0242781,PREDISPOSES,Operative Surgical Procedures,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0543467,C3714514,PREDISPOSES,Operative Surgical Procedures,Infection,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0554804,C0021368,PREDISPOSES,Assisted breathing,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0554804,C0242184,PREDISPOSES,Assisted breathing,Hypoxia,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0557061,C0021368,PREDISPOSES,Discussion (procedure),Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0574032,C0019080,PREDISPOSES,Infusion procedures,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0576773,C0007642,PREDISPOSES,Subcutaneous Infusions,Cellulitis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0580105,C0020517,PREDISPOSES,Change of medication,Hypersensitivity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0581528,C3714514,PREDISPOSES,Close observation,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0581602,C3714514,PREDISPOSES,Structural modification,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0600558,C0267716,PREDISPOSES,Neoadjuvant Therapy,Incisional hernia,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0678812,C1373218,PREDISPOSES,systemic administration,Decreased Immunologic Activity [PE],topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0678823,C3714514,PREDISPOSES,parenteral administration,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0679637,C1373218,PREDISPOSES,major surgery,Decreased Immunologic Activity [PE],topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0679698,C0242781,PREDISPOSES,disease prevention,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0683468,C0040053,PREDISPOSES,invasive treatment,Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0695584,C0028778,PREDISPOSES,functional activities,Obstruction,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0700632,C0019080,PREDISPOSES,Endodontic procedure,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0746415,C0019080,PREDISPOSES,mass removal,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0813207,C0242184,PREDISPOSES,Creation of shunt,Hypoxia,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0814435,C0242656,PREDISPOSES,early identification,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0852216,C0281169,PREDISPOSES,Breast Cancer Radiotherapy,Pulmonary Complication,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0857208,C3838777,PREDISPOSES,routine immunization,Sensitization process,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0872259,C0021368,PREDISPOSES,"Transcranial Magnetic Stimulation, Repetitive",Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0883301,C0018944,PREDISPOSES,catheter placement,Hematoma,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0920424,C0242656,PREDISPOSES,cancer surgery,Disease Progression,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C0920424,C4545429,PREDISPOSES,cancer surgery,Perioperative complication,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0920425,C3714514,PREDISPOSES,Cancer Therapeutic Procedure,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0947647,C0032787,PREDISPOSES,Manipulation procedure,Postoperative Complications,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0947647,C1262018,PREDISPOSES,Manipulation procedure,Graft failure,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C0948575,C0546817,PREDISPOSES,Diuretic therapy,Fluid overload,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1096021,C0019080,PREDISPOSES,antiplatelet therapy,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1096021,C0151942,PREDISPOSES,antiplatelet therapy,Arterial thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1261381,C0011304,PREDISPOSES,Destructive procedure (surgical),Demyelination,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1261381,C0021368,PREDISPOSES,Destructive procedure (surgical),Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1261381,C0024348,PREDISPOSES,Destructive procedure (surgical),Lysis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1261381,C0034063,PREDISPOSES,Destructive procedure (surgical),Pulmonary Edema,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1261381,C0242656,PREDISPOSES,Destructive procedure (surgical),Disease Progression,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C1261381,C1155266,PREDISPOSES,Destructive procedure (surgical),Inflammatory Response,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1261381,C1373218,PREDISPOSES,Destructive procedure (surgical),Decreased Immunologic Activity [PE],topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1262302,C0242656,PREDISPOSES,joint immobilization,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1273428,C0242656,PREDISPOSES,Total mesorectal excision,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1276413,C0040053,PREDISPOSES,Therapeutic regimen,Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1276413,C0860239,PREDISPOSES,Therapeutic regimen,Catheter related infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1278454,C1373218,PREDISPOSES,Statin prophylaxis,Decreased Immunologic Activity [PE],topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1292856,C1516670,PREDISPOSES,Stimulation procedure,Clonal Expansion,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1299597,C3714514,PREDISPOSES,Empirical therapy,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1321916,C3714514,PREDISPOSES,cisplatin/etoposide/vindesine protocol,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1443867,C3714514,PREDISPOSES,Standard precautions,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1456587,C0242656,PREDISPOSES,Bariatric Surgery,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1511790,C0002940,PREDISPOSES,Detection,Aneurysm,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1511790,C0004366,PREDISPOSES,Detection,Autoimmune Response,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1511790,C0021368,PREDISPOSES,Detection,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1511790,C0028778,PREDISPOSES,Detection,Obstruction,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1511790,C0040038,PREDISPOSES,Detection,Thromboembolism,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1511790,C0242781,PREDISPOSES,Detection,disease transmission,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C1511790,C0854460,PREDISPOSES,Detection,Indirect Transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1511790,C1520005,PREDISPOSES,Detection,Viral Pathogenesis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1515119,C0019080,PREDISPOSES,Systemic Therapy,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1518963,C0013604,PREDISPOSES,Percutaneous Neuromodulation Therapy,Edema,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1519252,C1373218,PREDISPOSES,Sequential Treatment,Decreased Immunologic Activity [PE],topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1531698,C3714514,PREDISPOSES,Active monitoring,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1532338,C0151699,PREDISPOSES,Percutaneous Coronary Intervention,Intracranial Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1541822,C0040053,PREDISPOSES,Vaginal delivery procedure,Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1541822,C0282474,PREDISPOSES,Vaginal delivery procedure,Maternal-Fetal Infection Transmission,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C1563921,C1262018,PREDISPOSES,Cold Ischemia,Graft failure,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1883256,C1373218,PREDISPOSES,Systemic Chemotherapy,Decreased Immunologic Activity [PE],topp,patf,1,PREDISPOSES_TOPPpredPATF
+C1963724,C0340515,PREDISPOSES,Antiretroviral therapy,Myocardial dysfunction,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C2242628,C0242781,PREDISPOSES,Fecal Microbiota Transplantation,disease transmission,topp,patf,2,PREDISPOSES_TOPPpredPATF
+C2718059,C3714514,PREDISPOSES,Precision Medicine,Infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C2827774,C0087086,PREDISPOSES,Current Therapy,Thrombus,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C2922974,C0041755,PREDISPOSES,Polypharmacy,Adverse reaction to drug,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C2985296,C0242781,PREDISPOSES,Hormonal Contraception,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C2986592,C0242656,PREDISPOSES,Definitive Treatment,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C3241973,C0392618,PREDISPOSES,Pediatric Surgical Procedures,Postoperative infection,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C3274791,C0013604,PREDISPOSES,Mechanical Circulatory Support,Edema,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C3274791,C0021368,PREDISPOSES,Mechanical Circulatory Support,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C3274791,C0040053,PREDISPOSES,Mechanical Circulatory Support,Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C3540512,C0011304,PREDISPOSES,Circumferential Supracrestal Fiberotomy,Demyelination,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C3642481,C0000832,PREDISPOSES,Neonatal Resuscitation,Abruptio Placentae,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C3665674,C0919924,PREDISPOSES,Warburg Therapy,pulmonary toxicity,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C3714568,C0242781,PREDISPOSES,Aerosol therapy,disease transmission,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C3897730,C1262018,PREDISPOSES,Reduced-Intensity Transplant Conditioning Procedure,Graft failure,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C4255212,C0079027,PREDISPOSES,Myomectomy,Intraoperative Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C4319756,C0242656,PREDISPOSES,Myeloablative Conditioning,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C4526535,C0013418,PREDISPOSES,Bendamustine/Lenalidomide/Dexamethasone Regimen,Dystocia,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C4699846,C0019080,PREDISPOSES,Mechanical devices,Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C4699846,C0040053,PREDISPOSES,Mechanical devices,Thrombosis,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C4723833,C0017181,PREDISPOSES,vertebral augmentation procedure,Gastrointestinal Hemorrhage,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C4723833,C0232483,PREDISPOSES,vertebral augmentation procedure,Reflux,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C4723833,C0242656,PREDISPOSES,vertebral augmentation procedure,Disease Progression,topp,patf,1,PREDISPOSES_TOPPpredPATF
+C4763675,C0021368,PREDISPOSES,Single Agent Therapy,Inflammation,topp,patf,1,PREDISPOSES_TOPPpredPATF

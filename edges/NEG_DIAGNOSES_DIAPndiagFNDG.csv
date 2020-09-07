@@ -1,0 +1,116 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004339,C0231856,NEG_DIAGNOSES,Auscultation,Abnormal breath sounds,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0004398,C0150312,NEG_DIAGNOSES,Autopsy,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0004398,C0221198,NEG_DIAGNOSES,Autopsy,Lesion,diap,fndg,5,NEG_DIAGNOSES_DIAPndiagFNDG
+C0004398,C3540840,NEG_DIAGNOSES,Autopsy,Sign or Symptom,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0004398,C4699474,NEG_DIAGNOSES,Autopsy,Pathological findings,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0005558,C0085393,NEG_DIAGNOSES,Biopsy,Immunocompromised Host,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0005558,C0150312,NEG_DIAGNOSES,Biopsy,Present,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0005558,C0241148,NEG_DIAGNOSES,Biopsy,Cutaneous plaque,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0005558,C0333361,NEG_DIAGNOSES,Biopsy,Acute inflammation,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0005558,C0700329,NEG_DIAGNOSES,Biopsy,Physical shape,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0005558,C1853237,NEG_DIAGNOSES,Biopsy,Isolated cases,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0005558,C3273245,NEG_DIAGNOSES,Biopsy,Acute Rejection,diap,fndg,3,NEG_DIAGNOSES_DIAPndiagFNDG
+C0005558,C3687252,NEG_DIAGNOSES,Biopsy,Eosinophilic inflammation,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0006265,C0857465,NEG_DIAGNOSES,Bronchial Provocation Tests,peak flow,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0006290,C0221198,NEG_DIAGNOSES,Bronchoscopy,Lesion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0006290,C3687252,NEG_DIAGNOSES,Bronchoscopy,Eosinophilic inflammation,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0009378,C0240395,NEG_DIAGNOSES,colonoscopy,Lesion of mucosa,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0011906,C2826279,NEG_DIAGNOSES,Differential Diagnosis,Abnormal Finding,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0011930,C0332149,NEG_DIAGNOSES,"Diagnostic Tests, Routine",Possible,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0013516,C0221198,NEG_DIAGNOSES,Echocardiography,Lesion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0013516,C3277906,NEG_DIAGNOSES,Echocardiography,Cardiac dysfunction,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0013798,C0150312,NEG_DIAGNOSES,Electrocardiogram,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0013819,C0150312,NEG_DIAGNOSES,Electroencephalography,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0013819,C1148454,NEG_DIAGNOSES,Electroencephalography,seizure activity,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0021044,C0150312,NEG_DIAGNOSES,Immunohistochemistry,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0021044,C0221198,NEG_DIAGNOSES,Immunohistochemistry,Lesion,diap,fndg,3,NEG_DIAGNOSES_DIAPndiagFNDG
+C0021044,C3887644,NEG_DIAGNOSES,Immunohistochemistry,Inflammatory infiltrate,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0024485,C0205161,NEG_DIAGNOSES,Magnetic Resonance Imaging,Abnormal,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0024485,C0221198,NEG_DIAGNOSES,Magnetic Resonance Imaging,Lesion,diap,fndg,3,NEG_DIAGNOSES_DIAPndiagFNDG
+C0024485,C0241224,NEG_DIAGNOSES,Magnetic Resonance Imaging,Spinal cord lesion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0024485,C1704258,NEG_DIAGNOSES,Magnetic Resonance Imaging,Abnormality,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0024485,C2826279,NEG_DIAGNOSES,Magnetic Resonance Imaging,Abnormal Finding,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0024485,C3278495,NEG_DIAGNOSES,Magnetic Resonance Imaging,Thalamic lesions,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0024485,C4699474,NEG_DIAGNOSES,Magnetic Resonance Imaging,Pathological findings,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0024671,C2826609,NEG_DIAGNOSES,Mammography,Architectural Distortion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0024671,C4321237,NEG_DIAGNOSES,Mammography,High Level,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0027853,C0422837,NEG_DIAGNOSES,Neurologic Examination,Neurological observations,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0027853,C0521654,NEG_DIAGNOSES,Neurologic Examination,Neurologic Deficits,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0030247,C0019209,NEG_DIAGNOSES,Palpation,Hepatomegaly,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0032743,C0150312,NEG_DIAGNOSES,Positron-Emission Tomography,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0034573,C1704258,NEG_DIAGNOSES,"Radiography, Abdominal",Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0034606,C0019209,NEG_DIAGNOSES,Radionuclide Imaging,Hepatomegaly,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0034606,C0038002,NEG_DIAGNOSES,Radionuclide Imaging,Splenomegaly,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0034606,C0419438,NEG_DIAGNOSES,Radionuclide Imaging,One of twins,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0034606,C0750484,NEG_DIAGNOSES,Radionuclide Imaging,Confirmation,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0039985,C0029053,NEG_DIAGNOSES,Plain chest X-ray,Decreased translucency,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0039985,C0221198,NEG_DIAGNOSES,Plain chest X-ray,Lesion,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0039985,C0235896,NEG_DIAGNOSES,Plain chest X-ray,Pulmonary Infiltrate,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0039985,C1290916,NEG_DIAGNOSES,Plain chest X-ray,Radiologic finding,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0039985,C3827002,NEG_DIAGNOSES,Plain chest X-ray,Ground Glass Opacity,diap,fndg,5,NEG_DIAGNOSES_DIAPndiagFNDG
+C0039985,C3840935,NEG_DIAGNOSES,Plain chest X-ray,Unplanned extubation,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0039985,C4086268,NEG_DIAGNOSES,Plain chest X-ray,Exacerbation,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0039985,C4697773,NEG_DIAGNOSES,Plain chest X-ray,Ground glass,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0040395,C0150312,NEG_DIAGNOSES,tomography,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0040395,C1704258,NEG_DIAGNOSES,tomography,Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0040395,C3827002,NEG_DIAGNOSES,tomography,Ground Glass Opacity,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0040405,C0150312,NEG_DIAGNOSES,X-Ray Computed Tomography,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0040405,C0221198,NEG_DIAGNOSES,X-Ray Computed Tomography,Lesion,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0040405,C1290916,NEG_DIAGNOSES,X-Ray Computed Tomography,Radiologic finding,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0040405,C1334398,NEG_DIAGNOSES,X-Ray Computed Tomography,Limited Stage Lesion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0040405,C1704258,NEG_DIAGNOSES,X-Ray Computed Tomography,Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0041618,C0000734,NEG_DIAGNOSES,Ultrasonography,Abdominal mass,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0041618,C0221198,NEG_DIAGNOSES,Ultrasonography,Lesion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0041618,C1704258,NEG_DIAGNOSES,Ultrasonography,Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0041618,C2826279,NEG_DIAGNOSES,Ultrasonography,Abnormal Finding,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0041618,C4055506,NEG_DIAGNOSES,Ultrasonography,Accumulation,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0043299,C1290916,NEG_DIAGNOSES,Diagnostic radiologic examination,Radiologic finding,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0043299,C4699474,NEG_DIAGNOSES,Diagnostic radiologic examination,Pathological findings,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0086143,C0020649,NEG_DIAGNOSES,Diagnostic tests,Hypotension,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0086143,C0150872,NEG_DIAGNOSES,Diagnostic tests,chest findings,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0086143,C0449411,NEG_DIAGNOSES,Diagnostic tests,Causative_agents,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0178091,C4699474,NEG_DIAGNOSES,Rotational test,Pathological findings,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0184922,C0150312,NEG_DIAGNOSES,Incisional biopsy - action,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0199221,C0221198,NEG_DIAGNOSES,Bimanual examination,Lesion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0202691,C1704258,NEG_DIAGNOSES,CAT scan of head,Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0220908,C0150312,NEG_DIAGNOSES,Screening procedure,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0220908,C0150637,NEG_DIAGNOSES,Screening procedure,assessment.initial,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0220908,C0231221,NEG_DIAGNOSES,Screening procedure,Asymptomatic,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0220908,C0332149,NEG_DIAGNOSES,Screening procedure,Possible,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0220908,C0439663,NEG_DIAGNOSES,Screening procedure,Infected,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0220908,C0596020,NEG_DIAGNOSES,Screening procedure,Does hit (finding),diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0220908,C3843647,NEG_DIAGNOSES,Screening procedure,> 2 years,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0220908,C4698719,NEG_DIAGNOSES,Screening procedure,Confirmed case,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0376443,C1709157,NEG_DIAGNOSES,Endoscopic Ultrasound,Negative Surgical Margin,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0412585,C1704258,NEG_DIAGNOSES,CAT scan of brain,Abnormality,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C0412692,C0150312,NEG_DIAGNOSES,Magnetic Resonance Imaging (MRI) of Heart,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0412694,C1704258,NEG_DIAGNOSES,Magnetic Resonance Imaging (MRI) of Liver,Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0430022,C0332149,NEG_DIAGNOSES,diagnostic procedure,Possible,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0430462,C0241654,NEG_DIAGNOSES,Transthoracic echocardiography,Abnormal heart valve morphology,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0430561,C0150312,NEG_DIAGNOSES,Skin prick test,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0597356,C1709157,NEG_DIAGNOSES,rapid diagnosis,Negative Surgical Margin,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0677490,C0522054,NEG_DIAGNOSES,Pulmonary angiogram,ECG normal,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0740463,C0686750,NEG_DIAGNOSES,Biopsy of bronchus,Well adult,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0871813,C0231224,NEG_DIAGNOSES,medical diagnosis,Crisis,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C0877853,C0150312,NEG_DIAGNOSES,"Spectroscopy, Nuclear Magnetic Resonance",Present,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C1293095,C1829458,NEG_DIAGNOSES,Reexploration procedure,Tunneling,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1306645,C0029053,NEG_DIAGNOSES,Plain x-ray,Decreased translucency,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1306645,C0150312,NEG_DIAGNOSES,Plain x-ray,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1531652,C1514241,NEG_DIAGNOSES,Chest imaging,Positive Finding,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1536105,C0221198,NEG_DIAGNOSES,Computed Tomography Angiography,Lesion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1623258,C2826576,NEG_DIAGNOSES,Electrocardiography,Ischemic Change,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1699633,C0221198,NEG_DIAGNOSES,PET/CT scan,Lesion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1964257,C0150312,NEG_DIAGNOSES,Observation - diagnostic procedure,Present,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1964257,C0750484,NEG_DIAGNOSES,Observation - diagnostic procedure,Confirmation,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1964257,C1320226,NEG_DIAGNOSES,Observation - diagnostic procedure,Incubation period,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1964257,C3554289,NEG_DIAGNOSES,Observation - diagnostic procedure,Bone spicules,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C1964257,C4054143,NEG_DIAGNOSES,Observation - diagnostic procedure,Pulmonary Compliance,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C2348813,C1704258,NEG_DIAGNOSES,Transabdominal Ultrasound,Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C2457026,C0221198,NEG_DIAGNOSES,Plain Radiography of Chest,Lesion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C2983609,C0221198,NEG_DIAGNOSES,Gross Pathologic Examination,Lesion,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C3272310,C0205161,NEG_DIAGNOSES,Cardiac Computerized Tomographic Angiography,Abnormal,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C3842377,C0150312,NEG_DIAGNOSES,Chest radiograph,Present,diap,fndg,2,NEG_DIAGNOSES_DIAPndiagFNDG
+C3842377,C1290916,NEG_DIAGNOSES,Chest radiograph,Radiologic finding,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C3842377,C1704258,NEG_DIAGNOSES,Chest radiograph,Abnormality,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG
+C4745335,C0150637,NEG_DIAGNOSES,Initial Diagnosis,assessment.initial,diap,fndg,1,NEG_DIAGNOSES_DIAPndiagFNDG

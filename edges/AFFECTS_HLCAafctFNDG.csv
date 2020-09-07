@@ -1,0 +1,614 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001758,C4699158,AFFECTS,Aftercare,Increased risk,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0002423,C0003126,AFFECTS,ambulatory care services,Anosmia,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0002423,C0439663,AFFECTS,ambulatory care services,Infected,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0008078,C0231224,AFFECTS,Child health care,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0008078,C0549649,AFFECTS,Child health care,MISUSE,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0008952,C1457868,AFFECTS,Clinic Visits,Worse,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0009449,C0033213,AFFECTS,Communicable Disease Control,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0009818,C0150312,AFFECTS,Consultation,Present,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0009818,C0205160,AFFECTS,Consultation,Negative,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0009818,C0332149,AFFECTS,Consultation,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0009818,C0439662,AFFECTS,Consultation,Immune,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0009818,C0518609,AFFECTS,Consultation,Consideration,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0009818,C4049797,AFFECTS,Consultation,Chaos,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0009818,C4534363,AFFECTS,Consultation,At home,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0009818,C5197778,AFFECTS,Consultation,Missed Diagnosis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0010210,C0041674,AFFECTS,Counseling,Unemployment,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0010210,C0425152,AFFECTS,Counseling,Engaged to be married,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0010210,C0595998,AFFECTS,Counseling,Household composition,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0010337,C0231187,AFFECTS,Care of intensive care unit patient,Decompensation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0010337,C1318963,AFFECTS,Care of intensive care unit patient,Readiness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0011211,C0037420,AFFECTS,Delivery of Health Care,Social Interaction,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0011211,C1709157,AFFECTS,Delivery of Health Care,Negative Surgical Margin,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0015187,C0700361,AFFECTS,Euthanasia,Emotional distress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0017313,C0038435,AFFECTS,patient care,Stress,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0017313,C0205160,AFFECTS,patient care,Negative,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0017313,C0476644,AFFECTS,patient care,Physical and emotional exhaustion state,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0017313,C0700361,AFFECTS,patient care,Emotional distress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0017313,C3272281,AFFECTS,patient care,American College of Cardiology/American Heart Association Lesion Complexity Score A,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0017313,C3714738,AFFECTS,patient care,Compliance,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0017313,C4699158,AFFECTS,patient care,Increased risk,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0018570,C1545588,AFFECTS,Hand Disinfection,Protection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0018747,C0035648,AFFECTS,Health Services,risk factors,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0018747,C0038435,AFFECTS,Health Services,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0018747,C0087130,AFFECTS,Health Services,Uncertainty,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0018747,C0205160,AFFECTS,Health Services,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0018747,C0231224,AFFECTS,Health Services,Crisis,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0018747,C0427184,AFFECTS,Health Services,No incoordination,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0018747,C0439663,AFFECTS,Health Services,Infected,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0018747,C3806166,AFFECTS,Health Services,Poor outcome,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0018747,C3845593,AFFECTS,Health Services,Major change,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0018747,C3845726,AFFECTS,Health Services,Staffing level,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0018747,C4050466,AFFECTS,Health Services,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0018747,C4321237,AFFECTS,Health Services,High Level,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019948,C0038435,AFFECTS,Hospital Administration,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019948,C0476644,AFFECTS,Hospital Administration,Physical and emotional exhaustion state,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0019948,C0813996,AFFECTS,Hospital Administration,acute stressor,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019948,C1516998,AFFECTS,Hospital Administration,Exogenous Factors,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019948,C3816499,AFFECTS,Hospital Administration,Pathogenic,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0009488,AFFECTS,Hospitalization,Comorbidity,hlca,fndg,9,AFFECTS_HLCAafctFNDG
+C0019993,C0021294,AFFECTS,Hospitalization,"Infant, Premature",hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0035648,AFFECTS,Hospitalization,risk factors,hlca,fndg,17,AFFECTS_HLCAafctFNDG
+C0019993,C0038435,AFFECTS,Hospitalization,Stress,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0019993,C0150312,AFFECTS,Hospitalization,Present,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0019993,C0205160,AFFECTS,Hospitalization,Negative,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0019993,C0231224,AFFECTS,Hospitalization,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0231225,AFFECTS,Hospitalization,Pain crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0231303,AFFECTS,Hospitalization,Distress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0231337,AFFECTS,Hospitalization,Senility,hlca,fndg,4,AFFECTS_HLCAafctFNDG
+C0019993,C0231835,AFFECTS,Hospitalization,Tachypnea,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0233481,AFFECTS,Hospitalization,Worried,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0238983,AFFECTS,Hospitalization,Chest deformity,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0239702,AFFECTS,Hospitalization,ggt elevated,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0332149,AFFECTS,Hospitalization,Possible,hlca,fndg,4,AFFECTS_HLCAafctFNDG
+C0019993,C0332523,AFFECTS,Hospitalization,Retraction (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0424594,AFFECTS,Hospitalization,Frailty,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0428695,AFFECTS,Hospitalization,Absolute humidity,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0436345,AFFECTS,Hospitalization,Symptom severe,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0455002,AFFECTS,Hospitalization,Education and schooling detail,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0497406,AFFECTS,Hospitalization,Overweight,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0517226,AFFECTS,Hospitalization,Physical Well-being,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0578022,AFFECTS,Hospitalization,Finding of body mass index,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0019993,C0582147,AFFECTS,Hospitalization,At risk of infection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0595998,AFFECTS,Hospitalization,Household composition,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0814466,AFFECTS,Hospitalization,Overdiagnosis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C0948688,AFFECTS,Hospitalization,Physical deconditioning,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C1299586,AFFECTS,Hospitalization,Has difficulty doing (qualifier value),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C1320226,AFFECTS,Hospitalization,Incubation period,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C1556381,AFFECTS,Hospitalization,Class III obesity,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C1659989,AFFECTS,Hospitalization,Respiratory problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C1836348,AFFECTS,Hospitalization,Severe disorder,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0019993,C1855073,AFFECTS,Hospitalization,"Mortality, Premature",hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C1879646,AFFECTS,Hospitalization,Affected Area,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C2048011,AFFECTS,Hospitalization,Elevated immunoglobulin levels,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C2597943,AFFECTS,Hospitalization,Index case,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C3806166,AFFECTS,Hospitalization,Poor outcome,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C3829315,AFFECTS,Hospitalization,Late Preterm Birth,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C3843156,AFFECTS,Hospitalization,Less often,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C4050466,AFFECTS,Hospitalization,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,8,AFFECTS_HLCAafctFNDG
+C0019993,C4086268,AFFECTS,Hospitalization,Exacerbation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C4289767,AFFECTS,Hospitalization,Colonization,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C4321237,AFFECTS,Hospitalization,High Level,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0019993,C4321351,AFFECTS,Hospitalization,Low Level,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0019993,C4534574,AFFECTS,Hospitalization,Additional day,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C4698719,AFFECTS,Hospitalization,Confirmed case,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0019993,C4699158,AFFECTS,Hospitalization,Increased risk,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0019993,C4699572,AFFECTS,Hospitalization,High probability,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0019993,C5203671,AFFECTS,Hospitalization,Suspected COVID-19,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0020042,C0231303,AFFECTS,Hotlines,Distress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0021629,C0231170,AFFECTS,Institutionalization,Disability,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0021634,C0221198,AFFECTS,Insufflation,Lesion,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0021677,C1290905,AFFECTS,Insurance Claim Review,Discrepancy (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0021682,C0205160,AFFECTS,Health Insurance,Negative,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0021682,C0425092,AFFECTS,Health Insurance,Self-employed,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0023977,C0205160,AFFECTS,long-term care,Negative,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0023977,C0314761,AFFECTS,long-term care,Normal flora,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0023977,C2911645,AFFECTS,long-term care,"Weight Loss, CTCAE",hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0025355,C0038435,AFFECTS,Mental Health Services,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0025355,C0231187,AFFECTS,Mental Health Services,Decompensation,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0025355,C0231224,AFFECTS,Mental Health Services,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0025355,C0231303,AFFECTS,Mental Health Services,Distress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0025355,C0277787,AFFECTS,Mental Health Services,Social stigmata,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0025355,C0595998,AFFECTS,Mental Health Services,Household composition,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0027462,C0332149,AFFECTS,"Health Services, National",Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0027484,C0392209,AFFECTS,Natural Childbirth assistance,Nutritional status,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030677,C0205160,AFFECTS,Patient Care Management,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0029053,AFFECTS,Patient Discharge,Decreased translucency,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0033213,AFFECTS,Patient Discharge,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0038435,AFFECTS,Patient Discharge,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0086439,AFFECTS,Patient Discharge,Hypokinesia,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0150312,AFFECTS,Patient Discharge,Present,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0030685,C0205160,AFFECTS,Patient Discharge,Negative,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0030685,C0205161,AFFECTS,Patient Discharge,Abnormal,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0030685,C0205255,AFFECTS,Patient Discharge,Imprisonment (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0239997,AFFECTS,Patient Discharge,Maternal infection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0277786,AFFECTS,Patient Discharge,Chief complaint (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0332149,AFFECTS,Patient Discharge,Possible,hlca,fndg,4,AFFECTS_HLCAafctFNDG
+C0030685,C0332219,AFFECTS,Patient Discharge,Easy,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0333361,AFFECTS,Patient Discharge,Acute inflammation,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0030685,C0392209,AFFECTS,Patient Discharge,Nutritional status,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0030685,C0424829,AFFECTS,Patient Discharge,Distention of blood vessel,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0427184,AFFECTS,Patient Discharge,No incoordination,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0436345,AFFECTS,Patient Discharge,Symptom severe,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0439662,AFFECTS,Patient Discharge,Immune,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0030685,C0518609,AFFECTS,Patient Discharge,Consideration,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C0750558,AFFECTS,Patient Discharge,Unlikely,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C1709157,AFFECTS,Patient Discharge,Negative Surgical Margin,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C1836348,AFFECTS,Patient Discharge,Severe disorder,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C2826244,AFFECTS,Patient Discharge,Life Threatening,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0030685,C3151529,AFFECTS,Patient Discharge,Lethal,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0030685,C3540840,AFFECTS,Patient Discharge,Sign or Symptom,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C3714738,AFFECTS,Patient Discharge,Compliance,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C3816499,AFFECTS,Patient Discharge,Pathogenic,hlca,fndg,4,AFFECTS_HLCAafctFNDG
+C0030685,C3843156,AFFECTS,Patient Discharge,Less often,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C3845593,AFFECTS,Patient Discharge,Major change,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C3845876,AFFECTS,Patient Discharge,Consequent,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C4014164,AFFECTS,Patient Discharge,Lymphoproliferation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C4050466,AFFECTS,Patient Discharge,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C4055506,AFFECTS,Patient Discharge,Accumulation,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0030685,C4086268,AFFECTS,Patient Discharge,Exacerbation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0030685,C4321237,AFFECTS,Patient Discharge,High Level,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0030685,C4747870,AFFECTS,Patient Discharge,Elevated cortisol levels,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031321,C0150312,AFFECTS,Pharmaceutical Services,Present,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031321,C0205160,AFFECTS,Pharmaceutical Services,Negative,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0031321,C0205557,AFFECTS,Pharmaceutical Services,False Positive,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031321,C1318963,AFFECTS,Pharmaceutical Services,Readiness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0018808,AFFECTS,Physical Examination,Heart murmur,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0019209,AFFECTS,Physical Examination,Hepatomegaly,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0034642,AFFECTS,Physical Examination,Rales,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0035232,AFFECTS,Physical Examination,Respiratory Paralysis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0150637,AFFECTS,Physical Examination,assessment.initial,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0205160,AFFECTS,Physical Examination,Negative,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0031809,C0206076,AFFECTS,Physical Examination,Reproductive History,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0221198,AFFECTS,Physical Examination,Lesion,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0239340,AFFECTS,Physical Examination,Edema of lower extremity,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0277786,AFFECTS,Physical Examination,Chief complaint (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0332148,AFFECTS,Physical Examination,Probable diagnosis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0332523,AFFECTS,Physical Examination,Retraction (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0425687,AFFECTS,Physical Examination,Jugular venous engorgement,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0679254,AFFECTS,Physical Examination,disease recurrence,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0679837,AFFECTS,Physical Examination,underdiagnosis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0679838,AFFECTS,Physical Examination,Misdiagnosis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0750484,AFFECTS,Physical Examination,Confirmation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C0814466,AFFECTS,Physical Examination,Overdiagnosis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0031809,C4321237,AFFECTS,Physical Examination,High Level,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0033080,C0332149,AFFECTS,Prescription procedure,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0033137,C0231224,AFFECTS,Primary Health Care,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0033137,C3840736,AFFECTS,Primary Health Care,Early discharge,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0033137,C4050466,AFFECTS,Primary Health Care,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0033333,C0205160,AFFECTS,Program Development,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0033333,C0595998,AFFECTS,Program Development,Household composition,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0034107,C1706353,AFFECTS,Pulse taking,Crack,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0035649,C0033213,AFFECTS,Risk Management,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0035649,C0087130,AFFECTS,Risk Management,Uncertainty,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0035649,C0205160,AFFECTS,Risk Management,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0035649,C4050466,AFFECTS,Risk Management,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0035649,C4699573,AFFECTS,Risk Management,Low probability,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0043113,C0013658,AFFECTS,Wellness Programs,Educational Status,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0085557,C0205160,AFFECTS,Infectious disease prevention / control,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0085557,C0518609,AFFECTS,Infectious disease prevention / control,Consideration,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0085557,C0814090,AFFECTS,Infectious disease prevention / control,Occupational Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0085557,C1318963,AFFECTS,Infectious disease prevention / control,Readiness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0085557,C1545588,AFFECTS,Infectious disease prevention / control,Protection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0085557,C3714738,AFFECTS,Infectious disease prevention / control,Compliance,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0085559,C0033213,AFFECTS,intensive care,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0085559,C0231224,AFFECTS,intensive care,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0085559,C0517226,AFFECTS,intensive care,Physical Well-being,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0085559,C3280118,AFFECTS,intensive care,Mild disorder,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0085566,C1278452,AFFECTS,"Process Assessment, Health Care",Time from arrival at facility to administration of parenteral treatment,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0085882,C0038435,AFFECTS,Bereavement Care,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086390,C1275743,AFFECTS,Medical Care Team,Co-morbid conditions,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086390,C1457868,AFFECTS,Medical Care Team,Worse,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086583,C2004062,AFFECTS,Managed Care,History of previous events,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086584,C3242228,AFFECTS,"Management, Nursing Care",new information,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C0023974,AFFECTS,Risk Assessment,Loneliness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C0033213,AFFECTS,Risk Assessment,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C0038435,AFFECTS,Risk Assessment,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C0087130,AFFECTS,Risk Assessment,Uncertainty,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C0205160,AFFECTS,Risk Assessment,Negative,hlca,fndg,4,AFFECTS_HLCAafctFNDG
+C0086930,C0231224,AFFECTS,Risk Assessment,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C0332149,AFFECTS,Risk Assessment,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C0439662,AFFECTS,Risk Assessment,Immune,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C0474417,AFFECTS,Risk Assessment,Self-care behavior,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C0582147,AFFECTS,Risk Assessment,At risk of infection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C1545588,AFFECTS,Risk Assessment,Protection,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0086930,C1879646,AFFECTS,Risk Assessment,Affected Area,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C3816499,AFFECTS,Risk Assessment,Pathogenic,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C3840775,AFFECTS,Risk Assessment,Anticipated,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086930,C4699158,AFFECTS,Risk Assessment,Increased risk,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086969,C0023974,AFFECTS,Self-Management,Loneliness,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0086969,C0149775,AFFECTS,Self-Management,Fit frequency,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086969,C0150312,AFFECTS,Self-Management,Present,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086969,C0205160,AFFECTS,Self-Management,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086969,C1319536,AFFECTS,Self-Management,Inappropriate referral,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0086969,C1854494,AFFECTS,Self-Management,Slow progression,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150270,C0032646,AFFECTS,Medication Management,Poor compliance,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150270,C0221198,AFFECTS,Medication Management,Lesion,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150270,C0595998,AFFECTS,Medication Management,Household composition,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150270,C0750558,AFFECTS,Medication Management,Unlikely,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150270,C1832406,AFFECTS,Medication Management,Severe clinical course,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150270,C2825142,AFFECTS,Medication Management,Experimental Result,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150270,C3844126,AFFECTS,Medication Management,Can Do Very Little,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150270,C4698491,AFFECTS,Medication Management,Rather,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150390,C0033213,AFFECTS,Patient Transport,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150544,C0150312,AFFECTS,Diabetic care,Present,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150600,C0038435,AFFECTS,Advice,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150600,C0231224,AFFECTS,Advice,Crisis,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0150600,C0332149,AFFECTS,Advice,Possible,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0150600,C1318963,AFFECTS,Advice,Readiness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150600,C3714738,AFFECTS,Advice,Compliance,hlca,fndg,4,AFFECTS_HLCAafctFNDG
+C0150600,C5204818,AFFECTS,Advice,Global Response,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0150788,C0038435,AFFECTS,Stress management,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0162648,C0033213,AFFECTS,Telemedicine,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0162648,C0150312,AFFECTS,Telemedicine,Present,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0162648,C1545588,AFFECTS,Telemedicine,Protection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0162648,C3841939,AFFECTS,Telemedicine,Patient access,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0162648,C3844729,AFFECTS,Telemedicine,Very Important,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0162648,C5204818,AFFECTS,Telemedicine,Global Response,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0175636,C1545588,AFFECTS,Act of Documentation,Protection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184641,C0595998,AFFECTS,personal safety,Household composition,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184641,C3272283,AFFECTS,personal safety,American College of Cardiology/American Heart Association Lesion Complexity Score C,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C0009488,AFFECTS,Hospital admission,Comorbidity,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C0035648,AFFECTS,Hospital admission,risk factors,hlca,fndg,4,AFFECTS_HLCAafctFNDG
+C0184666,C0205160,AFFECTS,Hospital admission,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C0332149,AFFECTS,Hospital admission,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C0442797,AFFECTS,Hospital admission,Decreasing,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C0678803,AFFECTS,Hospital admission,Chemical Exposure,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C0749647,AFFECTS,Hospital admission,treatment empiric,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C1290916,AFFECTS,Hospital admission,Radiologic finding,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C1514241,AFFECTS,Hospital admission,Positive Finding,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C1628992,AFFECTS,Hospital admission,Admission diagnosis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C1836407,AFFECTS,Hospital admission,Early death,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C2080700,AFFECTS,Hospital admission,severe Breathlessness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C3840423,AFFECTS,Hospital admission,Body condition score,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C4050466,AFFECTS,Hospital admission,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0184666,C4086268,AFFECTS,Hospital admission,Exacerbation,hlca,fndg,4,AFFECTS_HLCAafctFNDG
+C0184666,C4321237,AFFECTS,Hospital admission,High Level,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0200044,C0557930,AFFECTS,Gynecological examination,Unpleasant memories,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0200345,C0038435,AFFECTS,Specimen Collection,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0200345,C0205160,AFFECTS,Specimen Collection,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0200345,C0205557,AFFECTS,Specimen Collection,False Positive,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0200345,C1290905,AFFECTS,Specimen Collection,Discrepancy (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0200345,C1299586,AFFECTS,Specimen Collection,Has difficulty doing (qualifier value),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0200345,C5197778,AFFECTS,Specimen Collection,Missed Diagnosis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0204695,C0038435,AFFECTS,Feeding patient,Stress,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0204695,C0184511,AFFECTS,Feeding patient,Improved,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0204695,C0240417,AFFECTS,Feeding patient,muscle mass,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0204695,C0332149,AFFECTS,Feeding patient,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0204695,C0518609,AFFECTS,Feeding patient,Consideration,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0204695,C1299586,AFFECTS,Feeding patient,Has difficulty doing (qualifier value),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0204695,C3816499,AFFECTS,Feeding patient,Pathogenic,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0204695,C3842089,AFFECTS,Feeding patient,2 mm,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0204695,C4055506,AFFECTS,Feeding patient,Accumulation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0204695,C4740705,AFFECTS,Feeding patient,Moderate risk,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0204792,C0150312,AFFECTS,Routine care of newborn,Present,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0009488,AFFECTS,Evaluation,Comorbidity,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0030318,AFFECTS,Evaluation,Panic,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0033213,AFFECTS,Evaluation,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0035648,AFFECTS,Evaluation,risk factors,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0220825,C0037420,AFFECTS,Evaluation,Social Interaction,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0038435,AFFECTS,Evaluation,Stress,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0220825,C0043084,AFFECTS,Evaluation,Weaning,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0085639,AFFECTS,Evaluation,Falls,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0220825,C0086439,AFFECTS,Evaluation,Hypokinesia,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0220825,C0087130,AFFECTS,Evaluation,Uncertainty,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0220825,C0150312,AFFECTS,Evaluation,Present,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0220825,C0184512,AFFECTS,Evaluation,Stabilized (qualifier value),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0205160,AFFECTS,Evaluation,Negative,hlca,fndg,11,AFFECTS_HLCAafctFNDG
+C0220825,C0231224,AFFECTS,Evaluation,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0231303,AFFECTS,Evaluation,Distress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0231337,AFFECTS,Evaluation,Senility,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0332149,AFFECTS,Evaluation,Possible,hlca,fndg,10,AFFECTS_HLCAafctFNDG
+C0220825,C0332516,AFFECTS,Evaluation,Symmetrical,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0349790,AFFECTS,Evaluation,Exacerbation of asthma,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0424594,AFFECTS,Evaluation,Frailty,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0425152,AFFECTS,Evaluation,Engaged to be married,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0427096,AFFECTS,Evaluation,Patterning of movement,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0439662,AFFECTS,Evaluation,Immune,hlca,fndg,4,AFFECTS_HLCAafctFNDG
+C0220825,C0517496,AFFECTS,Evaluation,Health promotion behavior,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0518609,AFFECTS,Evaluation,Consideration,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0220825,C0596519,AFFECTS,Evaluation,environmental stressor,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0598463,AFFECTS,Evaluation,Functional Status,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0679250,AFFECTS,Evaluation,Disease Outcome,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0683314,AFFECTS,Evaluation,personal health,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0700327,AFFECTS,Evaluation,Memory observations,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0750484,AFFECTS,Evaluation,Confirmation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0750558,AFFECTS,Evaluation,Unlikely,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C0814090,AFFECTS,Evaluation,Occupational Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C1318963,AFFECTS,Evaluation,Readiness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C1446614,AFFECTS,Evaluation,Convergent gaze,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C1516998,AFFECTS,Evaluation,Exogenous Factors,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C1545588,AFFECTS,Evaluation,Protection,hlca,fndg,5,AFFECTS_HLCAafctFNDG
+C0220825,C1837655,AFFECTS,Evaluation,Multifactorial,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C1963076,AFFECTS,Evaluation,"Platelets, CTCAE",hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C2597943,AFFECTS,Evaluation,Index case,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C2825142,AFFECTS,Evaluation,Experimental Result,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C2826210,AFFECTS,Evaluation,Complete Recovery,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C3272629,AFFECTS,Evaluation,Epithelial Damage,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C3272903,AFFECTS,Evaluation,Overall Response,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C3714738,AFFECTS,Evaluation,Compliance,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0220825,C3806166,AFFECTS,Evaluation,Poor outcome,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C3816499,AFFECTS,Evaluation,Pathogenic,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C4050466,AFFECTS,Evaluation,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0220825,C4055506,AFFECTS,Evaluation,Accumulation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C4086268,AFFECTS,Evaluation,Exacerbation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C4321237,AFFECTS,Evaluation,High Level,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C4699158,AFFECTS,Evaluation,Increased risk,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0220825,C4722602,AFFECTS,Evaluation,Underlying,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0237070,C1545588,AFFECTS,Discipline,Protection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0237070,C4036059,AFFECTS,Discipline,Drug-disease,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0259945,C5203340,AFFECTS,hospital care,Lethality,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0278329,C0009488,AFFECTS,Prescribed,Comorbidity,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0344211,C0278250,AFFECTS,Supportive care,Prognosis good,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0344211,C0439662,AFFECTS,Supportive care,Immune,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0422202,C1299586,AFFECTS,Notifications (procedure),Has difficulty doing (qualifier value),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0441587,C0205160,AFFECTS,Clinical act of insertion,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0441587,C0332149,AFFECTS,Clinical act of insertion,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0441587,C0424589,AFFECTS,Clinical act of insertion,Vitality,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0441587,C0917731,AFFECTS,Clinical act of insertion,Male sterility,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0441587,C4554418,AFFECTS,Clinical act of insertion,Parallel,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0444793,C4055506,AFFECTS,Position change,Accumulation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0449327,C0150312,AFFECTS,Method of biopsy,Present,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0456150,C0205160,AFFECTS,Mechanical assistance,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0545084,C0332575,AFFECTS,Outpatient visits,Redness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0553618,C4050466,AFFECTS,emergency visit,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0553618,C4321351,AFFECTS,emergency visit,Low Level,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0554896,C0451370,AFFECTS,rates reimbursement,Patient satisfaction score,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0558004,C1299586,AFFECTS,Environmental assessment,Has difficulty doing (qualifier value),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0558024,C0332149,AFFECTS,Functional behavioral assessment,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0558024,C0517627,AFFECTS,Functional behavioral assessment,Infection status,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0558024,C1545588,AFFECTS,Functional behavioral assessment,Protection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0561873,C2712124,AFFECTS,Core temperature monitoring,Effective temperature,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0581122,C0349790,AFFECTS,Asthma severity,Exacerbation of asthma,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0581122,C4050466,AFFECTS,Asthma severity,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0582103,C0015663,AFFECTS,Medical Examination,Fasting,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0582103,C0038435,AFFECTS,Medical Examination,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0582103,C0085639,AFFECTS,Medical Examination,Falls,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0582103,C0205160,AFFECTS,Medical Examination,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0582103,C0231224,AFFECTS,Medical Examination,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0582103,C0332219,AFFECTS,Medical Examination,Easy,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0582103,C1318963,AFFECTS,Medical Examination,Readiness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0582103,C1998827,AFFECTS,Medical Examination,Respiratory Status,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0582103,C3272283,AFFECTS,Medical Examination,American College of Cardiology/American Heart Association Lesion Complexity Score C,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0582103,C4489134,AFFECTS,Medical Examination,Lateral margin,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0586182,C2945640,AFFECTS,Meetings and conferences,compromise,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0587569,C4321237,AFFECTS,Physician service,High Level,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0587597,C0205160,AFFECTS,Obstetrics service,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0587607,C0205160,AFFECTS,Transfusion medicine service,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0588388,C4722602,AFFECTS,General observation,Underlying,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0588446,C0442726,AFFECTS,Informing patient,Detected (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0589121,C3242274,AFFECTS,Follow-up visit,new therapy,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0598609,C0035648,AFFECTS,long term hospitalization,risk factors,hlca,fndg,12,AFFECTS_HLCAafctFNDG
+C0600015,C0037420,AFFECTS,Emotional support,Social Interaction,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0600015,C0038435,AFFECTS,Emotional support,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0600015,C0425152,AFFECTS,Emotional support,Engaged to be married,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0600371,C0332149,AFFECTS,Advance Care Planning,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0600371,C0743630,AFFECTS,Advance Care Planning,exacerbation acute,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0679830,C0425382,AFFECTS,patient assessment,Personal status - Adopted,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0679841,C0332149,AFFECTS,treatment program,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0679878,C1318963,AFFECTS,acute care,Readiness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0683510,C0205557,AFFECTS,Identifying problems,False Positive,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0699943,C2945640,AFFECTS,Public health service,compromise,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0700325,C0150312,AFFECTS,Patient observation,Present,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0700325,C0332149,AFFECTS,Patient observation,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0700325,C4086268,AFFECTS,Patient observation,Exacerbation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0700325,C4698719,AFFECTS,Patient observation,Confirmed case,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0729338,C0332149,AFFECTS,Care provision regimes,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0729338,C1457868,AFFECTS,Care provision regimes,Worse,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0729338,C1545588,AFFECTS,Care provision regimes,Protection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0733511,C0231224,AFFECTS,Medical Surveillance,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0733511,C0449426,AFFECTS,Medical Surveillance,Source of infection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0752189,C2945640,AFFECTS,"Technology, Health Care",compromise,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C0021138,AFFECTS,Challenge,Encounter due to economic problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C0033213,AFFECTS,Challenge,Problem,hlca,fndg,11,AFFECTS_HLCAafctFNDG
+C0805586,C0038435,AFFECTS,Challenge,Stress,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C0805586,C0087130,AFFECTS,Challenge,Uncertainty,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C0150312,AFFECTS,Challenge,Present,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C0205160,AFFECTS,Challenge,Negative,hlca,fndg,11,AFFECTS_HLCAafctFNDG
+C0805586,C0231224,AFFECTS,Challenge,Crisis,hlca,fndg,9,AFFECTS_HLCAafctFNDG
+C0805586,C0332149,AFFECTS,Challenge,Possible,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0805586,C0332219,AFFECTS,Challenge,Easy,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C0422837,AFFECTS,Challenge,Neurological observations,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C0425092,AFFECTS,Challenge,Self-employed,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C0425152,AFFECTS,Challenge,Engaged to be married,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0805586,C0425382,AFFECTS,Challenge,Personal status - Adopted,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C0427184,AFFECTS,Challenge,No incoordination,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0805586,C0442726,AFFECTS,Challenge,Detected (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C0476644,AFFECTS,Challenge,Physical and emotional exhaustion state,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C0558261,AFFECTS,Challenge,Terrified,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C0600109,AFFECTS,Challenge,Willing,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C0682132,AFFECTS,Challenge,regional difference,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0805586,C0700361,AFFECTS,Challenge,Emotional distress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C1299586,AFFECTS,Challenge,Has difficulty doing (qualifier value),hlca,fndg,4,AFFECTS_HLCAafctFNDG
+C0805586,C1318963,AFFECTS,Challenge,Readiness,hlca,fndg,7,AFFECTS_HLCAafctFNDG
+C0805586,C1405990,AFFECTS,Challenge,Disaster Victims,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C1545588,AFFECTS,Challenge,Protection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C1832073,AFFECTS,Challenge,Handling,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C1879646,AFFECTS,Challenge,Affected Area,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C2945640,AFFECTS,Challenge,compromise,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C2983605,AFFECTS,Challenge,Food Consumption,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C3714738,AFFECTS,Challenge,Compliance,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0805586,C3816499,AFFECTS,Challenge,Pathogenic,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C3840775,AFFECTS,Challenge,Anticipated,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C3841750,AFFECTS,Challenge,Mass gathering,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0805586,C3842568,AFFECTS,Challenge,Expatriate,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C4321237,AFFECTS,Challenge,High Level,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0805586,C4722602,AFFECTS,Challenge,Underlying,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0814500,C1320226,AFFECTS,elective care,Incubation period,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C0846606,C0332149,AFFECTS,ageing assessment,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0846663,C0205160,AFFECTS,resource education,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0846663,C3494174,AFFECTS,resource education,Food Insecurity,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0850397,C0205160,AFFECTS,health information,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0850397,C0562443,AFFECTS,health information,Maladaptive behavior,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0871311,C1301624,AFFECTS,screening tests,Medical contraindication,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0871311,C3845500,AFFECTS,screening tests,Scheduled surgical procedure,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0871436,C1262477,AFFECTS,Stimulus control,Weight decreased,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0886296,C0205557,AFFECTS,Nursing interventions,False Positive,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0886414,C0184512,AFFECTS,Body temperature measurement,Stabilized (qualifier value),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0940824,C0442797,AFFECTS,Additional procedure,Decreasing,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C0940824,C4699158,AFFECTS,Additional procedure,Increased risk,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1113679,C0033213,AFFECTS,patient safety,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1113679,C0476644,AFFECTS,patient safety,Physical and emotional exhaustion state,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C1144866,C0427184,AFFECTS,Multi-disciplinary team,No incoordination,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0009488,AFFECTS,Evaluation procedure,Comorbidity,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C1261322,C0032646,AFFECTS,Evaluation procedure,Poor compliance,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0033213,AFFECTS,Evaluation procedure,Problem,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C1261322,C0038435,AFFECTS,Evaluation procedure,Stress,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C1261322,C0038661,AFFECTS,Evaluation procedure,Suicide,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0043084,AFFECTS,Evaluation procedure,Weaning,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0087130,AFFECTS,Evaluation procedure,Uncertainty,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C1261322,C0184511,AFFECTS,Evaluation procedure,Improved,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0205160,AFFECTS,Evaluation procedure,Negative,hlca,fndg,6,AFFECTS_HLCAafctFNDG
+C1261322,C0205255,AFFECTS,Evaluation procedure,Imprisonment (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0231224,AFFECTS,Evaluation procedure,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0237849,AFFECTS,Evaluation procedure,Peeling of skin,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0241863,AFFECTS,Evaluation procedure,diabetic,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0278252,AFFECTS,Evaluation procedure,Prognosis bad,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0332148,AFFECTS,Evaluation procedure,Probable diagnosis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0332149,AFFECTS,Evaluation procedure,Possible,hlca,fndg,19,AFFECTS_HLCAafctFNDG
+C1261322,C0424575,AFFECTS,Evaluation procedure,General health,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0427184,AFFECTS,Evaluation procedure,No incoordination,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0428977,AFFECTS,Evaluation procedure,Bradycardia,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0439662,AFFECTS,Evaluation procedure,Immune,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C1261322,C0456261,AFFECTS,Evaluation procedure,Pulmonary Vascular Resistance,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0518609,AFFECTS,Evaluation procedure,Consideration,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0558187,AFFECTS,Evaluation procedure,Lactation established (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0743553,AFFECTS,Evaluation procedure,epistasis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C0848067,AFFECTS,Evaluation procedure,Mental problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C1275743,AFFECTS,Evaluation procedure,Co-morbid conditions,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C1299586,AFFECTS,Evaluation procedure,Has difficulty doing (qualifier value),hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C1261322,C1318963,AFFECTS,Evaluation procedure,Readiness,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C1261322,C1446377,AFFECTS,Evaluation procedure,Mental health problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C1516998,AFFECTS,Evaluation procedure,Exogenous Factors,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C1518681,AFFECTS,Evaluation procedure,Outcome of Therapy,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C1545588,AFFECTS,Evaluation procedure,Protection,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C1261322,C1829822,AFFECTS,Evaluation procedure,Mental health.status,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C1850165,AFFECTS,Evaluation procedure,Elevated IL6,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C2004062,AFFECTS,Evaluation procedure,History of previous events,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C2597943,AFFECTS,Evaluation procedure,Index case,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C2825972,AFFECTS,Evaluation procedure,Cant,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C2923839,AFFECTS,Evaluation procedure,Risk level,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C3476546,AFFECTS,Evaluation procedure,Symptoms score,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C3640837,AFFECTS,Evaluation procedure,Bacteriological Finding,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C3714738,AFFECTS,Evaluation procedure,Compliance,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C3816499,AFFECTS,Evaluation procedure,Pathogenic,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C1261322,C3841253,AFFECTS,Evaluation procedure,Reusable,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C3845726,AFFECTS,Evaluation procedure,Staffing level,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1261322,C4050466,AFFECTS,Evaluation procedure,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C1261322,C4684714,AFFECTS,Evaluation procedure,Missing Data,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1262471,C1545588,AFFECTS,Substance administration,Protection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1269815,C0750484,AFFECTS,Patient identification,Confirmation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1269815,C4684773,AFFECTS,Patient identification,Serious Risk,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1272435,C0033213,AFFECTS,Infection control management,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1301725,C0087130,AFFECTS,Documented,Uncertainty,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1318493,C0007166,AFFECTS,Inflation procedure,Low Cardiac Output,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1318493,C0020649,AFFECTS,Inflation procedure,Hypotension,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1318493,C0205160,AFFECTS,Inflation procedure,Negative,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C1318493,C4050466,AFFECTS,Inflation procedure,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1320712,C0038435,AFFECTS,Planned procedure,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1331096,C0033213,AFFECTS,vaccine delivery,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1331096,C1299586,AFFECTS,vaccine delivery,Has difficulty doing (qualifier value),hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C1444165,C0231224,AFFECTS,Pre-hospital care,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1444500,C0449416,AFFECTS,Supply management,Source,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1444526,C0033213,AFFECTS,Food surveillance,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1444526,C1318963,AFFECTS,Food surveillance,Readiness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1444562,C0205160,AFFECTS,Wellness surveillance,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1456630,C0425152,AFFECTS,Assisted Living,Engaged to be married,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1512343,C0595998,AFFECTS,Head and Neck Surgery,Household composition,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1514821,C0015663,AFFECTS,Registration,Fasting,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1514821,C0087130,AFFECTS,Registration,Uncertainty,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1514821,C0517627,AFFECTS,Registration,Infection status,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1514821,C1545588,AFFECTS,Registration,Protection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1515187,C0150312,AFFECTS,Take,Present,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1515187,C0205160,AFFECTS,Take,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1515187,C1444783,AFFECTS,Take,Instability,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1516615,C0332149,AFFECTS,Clinical Management,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1516615,C1844666,AFFECTS,Clinical Management,Immune dysregulation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1516879,C0038435,AFFECTS,Enrollment,Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1516879,C1457868,AFFECTS,Enrollment,Worse,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1516879,C2169571,AFFECTS,Enrollment,Recent infection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1516879,C4050466,AFFECTS,Enrollment,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C1522577,C0035648,AFFECTS,follow-up,risk factors,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C0041747,AFFECTS,follow-up,Unplanned pregnancy,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C0205160,AFFECTS,follow-up,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C0231170,AFFECTS,follow-up,Disability,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C0231224,AFFECTS,follow-up,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C0237849,AFFECTS,follow-up,Peeling of skin,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C0277814,AFFECTS,follow-up,Sitting position,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C0332149,AFFECTS,follow-up,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C0422837,AFFECTS,follow-up,Neurological observations,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C0425152,AFFECTS,follow-up,Engaged to be married,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C1709157,AFFECTS,follow-up,Negative Surgical Margin,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C3274775,AFFECTS,follow-up,Mildly Abnormal Ejection Fraction,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C3693346,AFFECTS,follow-up,Delayed Treatment,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C3816499,AFFECTS,follow-up,Pathogenic,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C3841750,AFFECTS,follow-up,Mass gathering,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1522577,C4050466,AFFECTS,follow-up,Borg Category-Ratio 10 Perceived Exertion Score 5,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1533162,C1545588,AFFECTS,maternal care,Protection,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1533810,C1832073,AFFECTS,Placement action,Handling,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1535528,C4698386,AFFECTS,Tracheal aspiration,Intubated,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1704289,C1318963,AFFECTS,Clinical Services,Readiness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1827449,C0205160,AFFECTS,Medication dosage tapering,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1827449,C3714738,AFFECTS,Medication dosage tapering,Compliance,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C1882127,C0392209,AFFECTS,Nutritional Intervention,Nutritional status,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2347682,C0240320,AFFECTS,Private Health Insurance,medication use,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2359834,C0205160,AFFECTS,Additional assessment,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2359834,C0442797,AFFECTS,Additional assessment,Decreasing,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2919279,C0041674,AFFECTS,Administration of digitalis,Unemployment,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2919279,C0595998,AFFECTS,Administration of digitalis,Household composition,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2919279,C3697854,AFFECTS,Administration of digitalis,Equipment requirement,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2936304,C0205160,AFFECTS,Inappropriate Prescriptions,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2936643,C0231187,AFFECTS,Standard of Care,Decompensation,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2936643,C0518239,AFFECTS,Standard of Care,Ventilation status,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2945700,C0150312,AFFECTS,typology,Present,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2945700,C0231224,AFFECTS,typology,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2945700,C4722602,AFFECTS,typology,Underlying,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2958078,C0038435,AFFECTS,Psychosocial care (regime/therapy),Stress,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C2958078,C0205160,AFFECTS,Psychosocial care (regime/therapy),Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3179079,C0497406,AFFECTS,Weight Reduction Programs,Overweight,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3242284,C0033213,AFFECTS,Population Health,Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3242284,C0205160,AFFECTS,Population Health,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3242284,C0205255,AFFECTS,Population Health,Imprisonment (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3494324,C0031206,AFFECTS,Meaningful Use,Personal Satisfaction,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3494324,C0518609,AFFECTS,Meaningful Use,Consideration,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3494403,C0231224,AFFECTS,Tertiary Healthcare,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3658216,C0231224,AFFECTS,Clinical Laboratory Services,Crisis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3714363,C1254481,AFFECTS,Health belief model,Patient Problem,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3824919,C0041674,AFFECTS,Insurance Claim,Unemployment,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3826454,C0205160,AFFECTS,Diagnostic specimens,Negative,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3889687,C0349790,AFFECTS,Clinical Observation,Exacerbation of asthma,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3889687,C0439662,AFFECTS,Clinical Observation,Immune,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3889687,C3842675,AFFECTS,Clinical Observation,Day 3,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C3889687,C3869937,AFFECTS,Clinical Observation,T1d,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C0015663,AFFECTS,Contacts,Fasting,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C4036459,C0184512,AFFECTS,Contacts,Stabilized (qualifier value),hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C4036459,C0231221,AFFECTS,Contacts,Asymptomatic,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C0237849,AFFECTS,Contacts,Peeling of skin,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C0242271,AFFECTS,Contacts,Employment status,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C0332149,AFFECTS,Contacts,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C0424589,AFFECTS,Contacts,Vitality,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C0427184,AFFECTS,Contacts,No incoordination,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C0442726,AFFECTS,Contacts,Detected (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C0595998,AFFECTS,Contacts,Household composition,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C0679837,AFFECTS,Contacts,underdiagnosis,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C1320226,AFFECTS,Contacts,Incubation period,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C1516998,AFFECTS,Contacts,Exogenous Factors,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C2597943,AFFECTS,Contacts,Index case,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C4036459,C4699158,AFFECTS,Contacts,Increased risk,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4036459,C4699572,AFFECTS,Contacts,High probability,hlca,fndg,2,AFFECTS_HLCAafctFNDG
+C4042781,C2825972,AFFECTS,Black Box Warning,Cant,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4042889,C0332149,AFFECTS,Children's Health Insurance Program,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4046039,C0035648,AFFECTS,Overtreatment,risk factors,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4277663,C1318963,AFFECTS,Intersectoral Collaboration,Readiness,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4279933,C1299586,AFFECTS,Vaccination Campaign,Has difficulty doing (qualifier value),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4329797,C0087130,AFFECTS,Estimated Body Weight,Uncertainty,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4489276,C1275743,AFFECTS,Readmission,Co-morbid conditions,hlca,fndg,3,AFFECTS_HLCAafctFNDG
+C4489276,C3845714,AFFECTS,Readmission,Several days,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4505100,C0332149,AFFECTS,Antibiotic Stewardship,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4505148,C0332509,AFFECTS,Vaccination Coverage,Increased size (finding),hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4505148,C0748864,AFFECTS,Vaccination Coverage,small size,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4520844,C0332149,AFFECTS,School Health,Possible,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4542584,C4699604,AFFECTS,Psychological Services,<12 months,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C4684571,C0233485,AFFECTS,Baseline Assessment,apprehension,hlca,fndg,1,AFFECTS_HLCAafctFNDG
+C5197919,C1516998,AFFECTS,Exposome,Exogenous Factors,hlca,fndg,2,AFFECTS_HLCAafctFNDG

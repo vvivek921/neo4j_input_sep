@@ -1,0 +1,822 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001280,C0040649,LOCATION_OF,Armed macrophage,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0001280,C0920532,LOCATION_OF,Armed macrophage,gene induction,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0003315,C0017262,LOCATION_OF,Antigen-Presenting Cells,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0003315,C0162493,LOCATION_OF,Antigen-Presenting Cells,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0003315,C0598496,LOCATION_OF,Antigen-Presenting Cells,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004112,C0017255,LOCATION_OF,Astrocytes,Gene Activation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0004112,C0017262,LOCATION_OF,Astrocytes,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004112,C0017263,LOCATION_OF,Astrocytes,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004112,C0040649,LOCATION_OF,Astrocytes,"Transcription, Genetic",cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0004112,C0162493,LOCATION_OF,Astrocytes,Transcriptional Activation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0004112,C0597360,LOCATION_OF,Astrocytes,receptor expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0004112,C1158770,LOCATION_OF,Astrocytes,Transcriptional Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004112,C1158816,LOCATION_OF,Astrocytes,mRNA transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004112,C1171362,LOCATION_OF,Astrocytes,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004112,C1328949,LOCATION_OF,Astrocytes,RNA replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004112,C1515670,LOCATION_OF,Astrocytes,mRNA Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0004112,C1519516,LOCATION_OF,Astrocytes,Tissue-Specific Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004112,C1519614,LOCATION_OF,Astrocytes,Genetic Translation Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004112,C1622984,LOCATION_OF,Astrocytes,mRNA synthesis,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004561,C0017262,LOCATION_OF,B-Lymphocytes,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004561,C0017263,LOCATION_OF,B-Lymphocytes,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004561,C0026882,LOCATION_OF,B-Lymphocytes,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004561,C0034865,LOCATION_OF,B-Lymphocytes,"Recombination, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004561,C0162493,LOCATION_OF,B-Lymphocytes,Transcriptional Activation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0004561,C0206071,LOCATION_OF,B-Lymphocytes,Immunoglobulin Class Switching,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0004561,C0314633,LOCATION_OF,B-Lymphocytes,Allelic exclusion,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004561,C0598312,LOCATION_OF,B-Lymphocytes,DNA Replication,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0004561,C1148846,LOCATION_OF,B-Lymphocytes,RNA Binding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004561,C1257759,LOCATION_OF,B-Lymphocytes,mRNA Degradation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0004561,C1511658,LOCATION_OF,B-Lymphocytes,DNA-Protein Interaction,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0004561,C2613367,LOCATION_OF,B-Lymphocytes,Hypomethylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0005773,C0017262,LOCATION_OF,Blood Cells,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0005773,C0026882,LOCATION_OF,Blood Cells,Mutation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0005773,C0040649,LOCATION_OF,Blood Cells,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0005773,C0598312,LOCATION_OF,Blood Cells,DNA Replication,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0005821,C0026882,LOCATION_OF,Blood Platelets,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0005821,C1515670,LOCATION_OF,Blood Platelets,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0005821,C1519614,LOCATION_OF,Blood Platelets,Genetic Translation Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0005955,C0026882,LOCATION_OF,Bone Marrow Cells,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C0017255,LOCATION_OF,Cultured Cell Line,Gene Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C0017262,LOCATION_OF,Cultured Cell Line,Gene Expression,cell,genf,8,LOCATION_OF_CELLlocfGENF
+C0007600,C0017393,LOCATION_OF,Cultured Cell Line,Genetic Markers,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0007600,C0020202,LOCATION_OF,Cultured Cell Line,Crossbreeding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C0026882,LOCATION_OF,Cultured Cell Line,Mutation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0007600,C0032529,LOCATION_OF,Cultured Cell Line,Genetic Polymorphism,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C0034865,LOCATION_OF,Cultured Cell Line,"Recombination, Genetic",cell,genf,5,LOCATION_OF_CELLlocfGENF
+C0007600,C0040624,LOCATION_OF,Cultured Cell Line,"Trans-Activation, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C0040649,LOCATION_OF,Cultured Cell Line,"Transcription, Genetic",cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0007600,C0162493,LOCATION_OF,Cultured Cell Line,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C0314627,LOCATION_OF,Cultured Cell Line,Gene function,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C0597360,LOCATION_OF,Cultured Cell Line,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C0598312,LOCATION_OF,Cultured Cell Line,DNA Replication,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0007600,C0598496,LOCATION_OF,Cultured Cell Line,Gene Silencing,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0007600,C0917892,LOCATION_OF,Cultured Cell Line,Genetic Drift,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0007600,C1136031,LOCATION_OF,Cultured Cell Line,RNA Interference,cell,genf,13,LOCATION_OF_CELLlocfGENF
+C0007600,C1148807,LOCATION_OF,Cultured Cell Line,endonuclease activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C1155650,LOCATION_OF,Cultured Cell Line,Replication Initiation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C1158816,LOCATION_OF,Cultured Cell Line,mRNA transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C1158817,LOCATION_OF,Cultured Cell Line,viral transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C1171362,LOCATION_OF,Cultured Cell Line,protein expression,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0007600,C1257756,LOCATION_OF,Cultured Cell Line,RNA Degradation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C1328949,LOCATION_OF,Cultured Cell Line,RNA replication,cell,genf,6,LOCATION_OF_CELLlocfGENF
+C0007600,C1511695,LOCATION_OF,Cultured Cell Line,DNA Sequence Rearrangement,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0007600,C1512167,LOCATION_OF,Cultured Cell Line,Ectopic Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0007600,C1519516,LOCATION_OF,Cultured Cell Line,Tissue-Specific Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0007600,C1519614,LOCATION_OF,Cultured Cell Line,Genetic Translation Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0007600,C1622984,LOCATION_OF,Cultured Cell Line,mRNA synthesis,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C0010366,LOCATION_OF,Clone Cells,"Crossing Over, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C0017256,LOCATION_OF,Clone Cells,Gene Amplification,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C0017262,LOCATION_OF,Clone Cells,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0009013,C0020202,LOCATION_OF,Clone Cells,Crossbreeding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C0026882,LOCATION_OF,Clone Cells,Mutation,cell,genf,27,LOCATION_OF_CELLlocfGENF
+C0009013,C0034865,LOCATION_OF,Clone Cells,"Recombination, Genetic",cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0009013,C0035380,LOCATION_OF,Clone Cells,Reverse Transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C0040649,LOCATION_OF,Clone Cells,"Transcription, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0009013,C0079870,LOCATION_OF,Clone Cells,"Mutagenesis, Site-Directed",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C0525038,LOCATION_OF,Clone Cells,Amino Acid Substitution,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0009013,C0598312,LOCATION_OF,Clone Cells,DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C0678713,LOCATION_OF,Clone Cells,DNA template,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C1148846,LOCATION_OF,Clone Cells,RNA Binding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C1158016,LOCATION_OF,Clone Cells,rRNA catabolic process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C1158478,LOCATION_OF,Clone Cells,DNA Integration,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0009013,C1257756,LOCATION_OF,Clone Cells,RNA Degradation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0009013,C1257825,LOCATION_OF,Clone Cells,Genomic Stability,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C1328949,LOCATION_OF,Clone Cells,RNA replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C1515670,LOCATION_OF,Clone Cells,mRNA Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0009013,C1516924,LOCATION_OF,Clone Cells,Epigenetic Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0009013,C2610186,LOCATION_OF,Clone Cells,"nuclear mRNA cis splicing, via spliceosome",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0011306,C0017262,LOCATION_OF,Dendritic Cells,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0011306,C0040649,LOCATION_OF,Dendritic Cells,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0011306,C0598496,LOCATION_OF,Dendritic Cells,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0011306,C1516924,LOCATION_OF,Dendritic Cells,Epigenetic Process,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0014597,C0012899,LOCATION_OF,Epithelial Cells,DNA Repair,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0014597,C0017262,LOCATION_OF,Epithelial Cells,Gene Expression,cell,genf,10,LOCATION_OF_CELLlocfGENF
+C0014597,C0026882,LOCATION_OF,Epithelial Cells,Mutation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0014597,C0040649,LOCATION_OF,Epithelial Cells,"Transcription, Genetic",cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0014597,C0162493,LOCATION_OF,Epithelial Cells,Transcriptional Activation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0014597,C0597360,LOCATION_OF,Epithelial Cells,receptor expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0014597,C1136031,LOCATION_OF,Epithelial Cells,RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0014597,C1158770,LOCATION_OF,Epithelial Cells,Transcriptional Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0014597,C1372275,LOCATION_OF,Epithelial Cells,Increased DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0014597,C1512167,LOCATION_OF,Epithelial Cells,Ectopic Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0014597,C1513838,LOCATION_OF,Epithelial Cells,NFKB Signaling Pathway,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0014597,C1515670,LOCATION_OF,Epithelial Cells,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0014597,C1516924,LOCATION_OF,Epithelial Cells,Epigenetic Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0014792,C0020202,LOCATION_OF,Erythrocytes,Crossbreeding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0014792,C0040649,LOCATION_OF,Erythrocytes,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C0002345,LOCATION_OF,Eukaryotic Cells,Alternative Splicing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C0017261,LOCATION_OF,Eukaryotic Cells,Gene Duplication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C0017262,LOCATION_OF,Eukaryotic Cells,Gene Expression,cell,genf,16,LOCATION_OF_CELLlocfGENF
+C0015161,C0017263,LOCATION_OF,Eukaryotic Cells,Gene Expression Regulation,cell,genf,6,LOCATION_OF_CELLlocfGENF
+C0015161,C0035687,LOCATION_OF,Eukaryotic Cells,RNA Splicing,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0015161,C0040649,LOCATION_OF,Eukaryotic Cells,"Transcription, Genetic",cell,genf,8,LOCATION_OF_CELLlocfGENF
+C0015161,C0086934,LOCATION_OF,Eukaryotic Cells,"RNA, Messenger, Splicing",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C0162493,LOCATION_OF,Eukaryotic Cells,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C0162782,LOCATION_OF,Eukaryotic Cells,RNA Editing,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0015161,C0282572,LOCATION_OF,Eukaryotic Cells,"Frameshifting, Ribosomal",cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0015161,C0314627,LOCATION_OF,Eukaryotic Cells,Gene function,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C0597415,LOCATION_OF,Eukaryotic Cells,RNA methylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C0597600,LOCATION_OF,Eukaryotic Cells,Transcription Termination,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C0598312,LOCATION_OF,Eukaryotic Cells,DNA Replication,cell,genf,6,LOCATION_OF_CELLlocfGENF
+C0015161,C0599773,LOCATION_OF,Eukaryotic Cells,Homologous Recombination,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0015161,C0678713,LOCATION_OF,Eukaryotic Cells,DNA template,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C0683143,LOCATION_OF,Eukaryotic Cells,RNA metabolic process,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0015161,C0887912,LOCATION_OF,Eukaryotic Cells,"Gene Transfer, Horizontal",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C1136031,LOCATION_OF,Eukaryotic Cells,RNA Interference,cell,genf,11,LOCATION_OF_CELLlocfGENF
+C0015161,C1148824,LOCATION_OF,Eukaryotic Cells,exonuclease activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C1152412,LOCATION_OF,Eukaryotic Cells,RNA-directed RNA polymerase activity,cell,genf,5,LOCATION_OF_CELLlocfGENF
+C0015161,C1155650,LOCATION_OF,Eukaryotic Cells,Replication Initiation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C1156152,LOCATION_OF,Eukaryotic Cells,rRNA processing,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0015161,C1157562,LOCATION_OF,Eukaryotic Cells,translational elongation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C1158013,LOCATION_OF,Eukaryotic Cells,Nonsense Mediated mRNA Decay,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C1158727,LOCATION_OF,Eukaryotic Cells,Polyadenylation Pathway,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0015161,C1158770,LOCATION_OF,Eukaryotic Cells,Transcriptional Regulation,cell,genf,5,LOCATION_OF_CELLlocfGENF
+C0015161,C1171362,LOCATION_OF,Eukaryotic Cells,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C1257758,LOCATION_OF,Eukaryotic Cells,mRNA Decay,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0015161,C1511695,LOCATION_OF,Eukaryotic Cells,DNA Sequence Rearrangement,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C1515671,LOCATION_OF,Eukaryotic Cells,mRNA Surveillance,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C1519613,LOCATION_OF,Eukaryotic Cells,Translation Initiation,cell,genf,5,LOCATION_OF_CELLlocfGENF
+C0015161,C1519614,LOCATION_OF,Eukaryotic Cells,Genetic Translation Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C1622984,LOCATION_OF,Eukaryotic Cells,mRNA synthesis,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C1622990,LOCATION_OF,Eukaryotic Cells,pre-mRNA splicing,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0015161,C1818650,LOCATION_OF,Eukaryotic Cells,ribonucleoprotein complex assembly,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C2610186,LOCATION_OF,Eukaryotic Cells,"nuclear mRNA cis splicing, via spliceosome",cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0015161,C2754181,LOCATION_OF,Eukaryotic Cells,RNA surveillance,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0015161,C3268337,LOCATION_OF,Eukaryotic Cells,cap-dependent translational initiation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0015161,C3537096,LOCATION_OF,Eukaryotic Cells,Translational Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0015161,C5197799,LOCATION_OF,Eukaryotic Cells,Codon Bias,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0016030,C0017262,LOCATION_OF,Fibroblasts,Gene Expression,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0016030,C0026882,LOCATION_OF,Fibroblasts,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0016030,C0034865,LOCATION_OF,Fibroblasts,"Recombination, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0016030,C0036576,LOCATION_OF,Fibroblasts,Genetic Selection,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0016030,C0040624,LOCATION_OF,Fibroblasts,"Trans-Activation, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0016030,C0040649,LOCATION_OF,Fibroblasts,"Transcription, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0016030,C0596611,LOCATION_OF,Fibroblasts,Gene Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0016030,C0597360,LOCATION_OF,Fibroblasts,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0016030,C0598312,LOCATION_OF,Fibroblasts,DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0016030,C0598496,LOCATION_OF,Fibroblasts,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0016030,C1136031,LOCATION_OF,Fibroblasts,RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0016030,C1148673,LOCATION_OF,Fibroblasts,DNA Binding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0016030,C1171362,LOCATION_OF,Fibroblasts,protein expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0016030,C1372275,LOCATION_OF,Fibroblasts,Increased DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0016030,C1515670,LOCATION_OF,Fibroblasts,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0016030,C1516924,LOCATION_OF,Fibroblasts,Epigenetic Process,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0017471,C0026882,LOCATION_OF,Germ Cells,Mutation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0017471,C0034865,LOCATION_OF,Germ Cells,"Recombination, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017471,C0678940,LOCATION_OF,Germ Cells,induced genetic mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017471,C1156212,LOCATION_OF,Germ Cells,chromatin silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017471,C1158501,LOCATION_OF,Germ Cells,Mitotic Recombination,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017471,C1514925,LOCATION_OF,Germ Cells,Retrotransposition,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017471,C1515670,LOCATION_OF,Germ Cells,mRNA Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0017471,C1516924,LOCATION_OF,Germ Cells,Epigenetic Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017471,C2755352,LOCATION_OF,Germ Cells,DNA Demethylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017473,C0017263,LOCATION_OF,Germ Line,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017473,C0017287,LOCATION_OF,Germ Line,Gene Rearrangement,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017473,C0026882,LOCATION_OF,Germ Line,Mutation,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0017473,C0034865,LOCATION_OF,Germ Line,"Recombination, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017473,C0040649,LOCATION_OF,Germ Line,"Transcription, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0017473,C0598496,LOCATION_OF,Germ Line,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017473,C0678936,LOCATION_OF,Germ Line,gene recombination,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017473,C1136031,LOCATION_OF,Germ Line,RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0017473,C4505109,LOCATION_OF,Germ Line,Gain of Function Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018183,C0017262,LOCATION_OF,granulocyte,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018183,C0162493,LOCATION_OF,granulocyte,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018183,C1171362,LOCATION_OF,granulocyte,protein expression,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0018183,C1515670,LOCATION_OF,granulocyte,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018207,C1515670,LOCATION_OF,granulosa cell,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C0017263,LOCATION_OF,HeLa Cells,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C0020202,LOCATION_OF,HeLa Cells,Crossbreeding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C0026882,LOCATION_OF,HeLa Cells,Mutation,cell,genf,5,LOCATION_OF_CELLlocfGENF
+C0018873,C0034865,LOCATION_OF,HeLa Cells,"Recombination, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C0040649,LOCATION_OF,HeLa Cells,"Transcription, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0018873,C0525038,LOCATION_OF,HeLa Cells,Amino Acid Substitution,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C1148755,LOCATION_OF,HeLa Cells,telomeric DNA binding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C1152412,LOCATION_OF,HeLa Cells,RNA-directed RNA polymerase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C1158016,LOCATION_OF,HeLa Cells,rRNA catabolic process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C1171362,LOCATION_OF,HeLa Cells,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C1328949,LOCATION_OF,HeLa Cells,RNA replication,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0018873,C1511702,LOCATION_OF,HeLa Cells,DNA Synthesis Rescue,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C1512167,LOCATION_OF,HeLa Cells,Ectopic Gene Expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0018873,C1513838,LOCATION_OF,HeLa Cells,NFKB Signaling Pathway,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C1519323,LOCATION_OF,HeLa Cells,Silent Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C1519613,LOCATION_OF,HeLa Cells,Translation Initiation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C1519619,LOCATION_OF,HeLa Cells,Translational Repression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018873,C2260797,LOCATION_OF,HeLa Cells,RNase activity,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0018894,C0034865,LOCATION_OF,Helper-Inducer T-Lymphocyte,"Recombination, Genetic",cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0018956,C0017262,LOCATION_OF,Hematopoietic stem cells,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018956,C0026882,LOCATION_OF,Hematopoietic stem cells,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0018956,C0086934,LOCATION_OF,Hematopoietic stem cells,"RNA, Messenger, Splicing",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0018956,C1158513,LOCATION_OF,Hematopoietic stem cells,double-strand break repair via homologous recombination,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0019000,C0040649,LOCATION_OF,Hemocytes (cell),"Transcription, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0020204,C0017262,LOCATION_OF,Hybridomas,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022567,C0012899,LOCATION_OF,keratinocyte,DNA Repair,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022567,C0013458,LOCATION_OF,keratinocyte,Early Gene Transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022567,C0017262,LOCATION_OF,keratinocyte,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022567,C0026882,LOCATION_OF,keratinocyte,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022567,C2610186,LOCATION_OF,keratinocyte,"nuclear mRNA cis splicing, via spliceosome",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022688,C0017262,LOCATION_OF,Natural Killer Cells,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022688,C0017263,LOCATION_OF,Natural Killer Cells,Gene Expression Regulation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0022688,C0026882,LOCATION_OF,Natural Killer Cells,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022688,C0032529,LOCATION_OF,Natural Killer Cells,Genetic Polymorphism,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022688,C0596611,LOCATION_OF,Natural Killer Cells,Gene Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022688,C0597360,LOCATION_OF,Natural Killer Cells,receptor expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0022688,C0598312,LOCATION_OF,Natural Killer Cells,DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022801,C0920532,LOCATION_OF,Hepatic macrophage,gene induction,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022801,C1171362,LOCATION_OF,Hepatic macrophage,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022801,C2260797,LOCATION_OF,Hepatic macrophage,RNase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0022827,C0525038,LOCATION_OF,L Cells,Amino Acid Substitution,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0023516,C0017262,LOCATION_OF,Leukocytes,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0023516,C0034865,LOCATION_OF,Leukocytes,"Recombination, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0023516,C0040649,LOCATION_OF,Leukocytes,"Transcription, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0023516,C0597360,LOCATION_OF,Leukocytes,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0023516,C1515670,LOCATION_OF,Leukocytes,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024264,C0017262,LOCATION_OF,Lymphocyte,Gene Expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0024264,C0040624,LOCATION_OF,Lymphocyte,"Trans-Activation, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024264,C0040649,LOCATION_OF,Lymphocyte,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024264,C0597360,LOCATION_OF,Lymphocyte,receptor expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0024264,C0598312,LOCATION_OF,Lymphocyte,DNA Replication,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0024264,C0598496,LOCATION_OF,Lymphocyte,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024264,C1171362,LOCATION_OF,Lymphocyte,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024264,C1512554,LOCATION_OF,Lymphocyte,Hypermethylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024264,C1516924,LOCATION_OF,Lymphocyte,Epigenetic Process,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0024264,C2260797,LOCATION_OF,Lymphocyte,RNase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024264,C2753997,LOCATION_OF,Lymphocyte,UV-damage excision repair,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024264,C3537096,LOCATION_OF,Lymphocyte,Translational Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C0017255,LOCATION_OF,macrophage,Gene Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C0017262,LOCATION_OF,macrophage,Gene Expression,cell,genf,9,LOCATION_OF_CELLlocfGENF
+C0024432,C0017263,LOCATION_OF,macrophage,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C0026882,LOCATION_OF,macrophage,Mutation,cell,genf,5,LOCATION_OF_CELLlocfGENF
+C0024432,C0032529,LOCATION_OF,macrophage,Genetic Polymorphism,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C0035380,LOCATION_OF,macrophage,Reverse Transcription,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0024432,C0040649,LOCATION_OF,macrophage,"Transcription, Genetic",cell,genf,10,LOCATION_OF_CELLlocfGENF
+C0024432,C0162493,LOCATION_OF,macrophage,Transcriptional Activation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0024432,C0596611,LOCATION_OF,macrophage,Gene Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C0597360,LOCATION_OF,macrophage,receptor expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0024432,C0598496,LOCATION_OF,macrophage,Gene Silencing,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0024432,C0599177,LOCATION_OF,macrophage,protein activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C0678939,LOCATION_OF,macrophage,spontaneous mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C1136031,LOCATION_OF,macrophage,RNA Interference,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0024432,C1148673,LOCATION_OF,macrophage,DNA Binding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C1148807,LOCATION_OF,macrophage,endonuclease activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C1158730,LOCATION_OF,macrophage,mRNA modification,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C1171362,LOCATION_OF,macrophage,protein expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0024432,C1257756,LOCATION_OF,macrophage,RNA Degradation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C1328949,LOCATION_OF,macrophage,RNA replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C1372275,LOCATION_OF,macrophage,Increased DNA Replication,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0024432,C1515670,LOCATION_OF,macrophage,mRNA Expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0024432,C1516924,LOCATION_OF,macrophage,Epigenetic Process,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0024432,C1519516,LOCATION_OF,macrophage,Tissue-Specific Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C1520006,LOCATION_OF,macrophage,Viral Reverse Transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C2260797,LOCATION_OF,macrophage,RNase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0024432,C2753997,LOCATION_OF,macrophage,UV-damage excision repair,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0026473,C0017262,LOCATION_OF,Monocytes,Gene Expression,cell,genf,8,LOCATION_OF_CELLlocfGENF
+C0026473,C0026882,LOCATION_OF,Monocytes,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0026473,C0040649,LOCATION_OF,Monocytes,"Transcription, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0026473,C0162493,LOCATION_OF,Monocytes,Transcriptional Activation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0026473,C0597360,LOCATION_OF,Monocytes,receptor expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0026473,C0678939,LOCATION_OF,Monocytes,spontaneous mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0026473,C1158817,LOCATION_OF,Monocytes,viral transcription,cell,genf,5,LOCATION_OF_CELLlocfGENF
+C0026473,C1171362,LOCATION_OF,Monocytes,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0026473,C1516924,LOCATION_OF,Monocytes,Epigenetic Process,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0026473,C2613367,LOCATION_OF,Monocytes,Hypomethylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0026609,C0017262,LOCATION_OF,Motor Neurons,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0026609,C1158516,LOCATION_OF,Motor Neurons,DNA repair synthesis,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0026609,C1171362,LOCATION_OF,Motor Neurons,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0026609,C1515670,LOCATION_OF,Motor Neurons,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027836,C0017262,LOCATION_OF,Neuroglia,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027836,C0026882,LOCATION_OF,Neuroglia,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027836,C0040649,LOCATION_OF,Neuroglia,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027836,C0162493,LOCATION_OF,Neuroglia,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027836,C0597360,LOCATION_OF,Neuroglia,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027836,C0598312,LOCATION_OF,Neuroglia,DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027836,C1171362,LOCATION_OF,Neuroglia,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027836,C1372275,LOCATION_OF,Neuroglia,Increased DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027836,C1514248,LOCATION_OF,Neuroglia,Post-Transcriptional Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027882,C0017260,LOCATION_OF,Neurons,Gene Deletion,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027882,C0017262,LOCATION_OF,Neurons,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0027882,C0017263,LOCATION_OF,Neurons,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027882,C0020202,LOCATION_OF,Neurons,Crossbreeding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027882,C0026882,LOCATION_OF,Neurons,Mutation,cell,genf,10,LOCATION_OF_CELLlocfGENF
+C0027882,C0040649,LOCATION_OF,Neurons,"Transcription, Genetic",cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0027882,C0597360,LOCATION_OF,Neurons,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027882,C1136031,LOCATION_OF,Neurons,RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027882,C1149372,LOCATION_OF,Neurons,cAMP response element binding protein binding activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027882,C1157546,LOCATION_OF,Neurons,translational attenuation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027882,C1158817,LOCATION_OF,Neurons,viral transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027882,C1257825,LOCATION_OF,Neurons,Genomic Stability,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027882,C1511695,LOCATION_OF,Neurons,DNA Sequence Rearrangement,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027882,C1512167,LOCATION_OF,Neurons,Ectopic Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027882,C1514248,LOCATION_OF,Neurons,Post-Transcriptional Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027950,C0026882,LOCATION_OF,neutrophil,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027950,C0040649,LOCATION_OF,neutrophil,"Transcription, Genetic",cell,genf,5,LOCATION_OF_CELLlocfGENF
+C0027950,C0597360,LOCATION_OF,neutrophil,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0027950,C1515670,LOCATION_OF,neutrophil,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0028944,C0026882,LOCATION_OF,Oligodendroglia,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0028944,C0040649,LOCATION_OF,Oligodendroglia,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0028944,C0162493,LOCATION_OF,Oligodendroglia,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0028944,C0920533,LOCATION_OF,Oligodendroglia,Transcriptional Repression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0028944,C1515670,LOCATION_OF,Oligodendroglia,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0028944,C1624043,LOCATION_OF,Oligodendroglia,mitochondrial DNA repair,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0029045,C0086934,LOCATION_OF,Oocytes,"RNA, Messenger, Splicing",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0029045,C0206530,LOCATION_OF,Oocytes,Germ-Line Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0029045,C1136031,LOCATION_OF,Oocytes,RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0029418,C1519614,LOCATION_OF,Osteoblasts,Genetic Translation Process,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0031307,C0597360,LOCATION_OF,Phagocytes,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0031307,C1515670,LOCATION_OF,Phagocytes,mRNA Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0031760,C0017262,LOCATION_OF,Photoreceptors,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0031760,C0026882,LOCATION_OF,Photoreceptors,Mutation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0031760,C1156187,LOCATION_OF,Photoreceptors,chromatin organization,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0033416,C1515670,LOCATION_OF,Promyelocytes,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0033731,C0010366,LOCATION_OF,Protoplasts,"Crossing Over, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0033731,C0017262,LOCATION_OF,Protoplasts,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0033731,C0017393,LOCATION_OF,Protoplasts,Genetic Markers,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0033731,C0026882,LOCATION_OF,Protoplasts,Mutation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0033731,C0034865,LOCATION_OF,Protoplasts,"Recombination, Genetic",cell,genf,6,LOCATION_OF_CELLlocfGENF
+C0033731,C0040624,LOCATION_OF,Protoplasts,"Trans-Activation, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0033731,C0599773,LOCATION_OF,Protoplasts,Homologous Recombination,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0033731,C1158817,LOCATION_OF,Protoplasts,viral transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0033731,C1328949,LOCATION_OF,Protoplasts,RNA replication,cell,genf,9,LOCATION_OF_CELLlocfGENF
+C0033731,C1371860,LOCATION_OF,Protoplasts,Decreased RNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0033731,C1519323,LOCATION_OF,Protoplasts,Silent Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0035286,C0040649,LOCATION_OF,Reticulocytes,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0036770,C1136031,LOCATION_OF,Structure of sertoli cell,RNA Interference,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0036770,C1515670,LOCATION_OF,Structure of sertoli cell,mRNA Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0037863,C3156894,LOCATION_OF,Spermatocytes,meiotic DNA synthesis,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0037866,C0598312,LOCATION_OF,Spermatogonia,DNA Replication,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0038250,C0017262,LOCATION_OF,Stem cells,Gene Expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0038250,C0026882,LOCATION_OF,Stem cells,Mutation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0038250,C0040649,LOCATION_OF,Stem cells,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0038250,C0162493,LOCATION_OF,Stem cells,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0038250,C0598312,LOCATION_OF,Stem cells,DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0038250,C0678926,LOCATION_OF,Stem cells,wild-type genetics,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0038250,C1158013,LOCATION_OF,Stem cells,Nonsense Mediated mRNA Decay,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0038250,C1511695,LOCATION_OF,Stem cells,DNA Sequence Rearrangement,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0038250,C1512554,LOCATION_OF,Stem cells,Hypermethylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0038856,C0598312,LOCATION_OF,Suppressor T Lymphocyte,DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039194,C0017262,LOCATION_OF,T-Lymphocyte,Gene Expression,cell,genf,7,LOCATION_OF_CELLlocfGENF
+C0039194,C0026882,LOCATION_OF,T-Lymphocyte,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039194,C0040649,LOCATION_OF,T-Lymphocyte,"Transcription, Genetic",cell,genf,7,LOCATION_OF_CELLlocfGENF
+C0039194,C0043297,LOCATION_OF,T-Lymphocyte,X Chromosome Inactivation function,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039194,C0162493,LOCATION_OF,T-Lymphocyte,Transcriptional Activation,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0039194,C0597360,LOCATION_OF,T-Lymphocyte,receptor expression,cell,genf,72,LOCATION_OF_CELLlocfGENF
+C0039194,C0598496,LOCATION_OF,T-Lymphocyte,Gene Silencing,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0039194,C1148759,LOCATION_OF,T-Lymphocyte,transcription factor activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039194,C1152411,LOCATION_OF,T-Lymphocyte,RNA-directed DNA polymerase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039194,C1158816,LOCATION_OF,T-Lymphocyte,mRNA transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039194,C1257758,LOCATION_OF,T-Lymphocyte,mRNA Decay,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039194,C1511695,LOCATION_OF,T-Lymphocyte,DNA Sequence Rearrangement,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0039194,C1514559,LOCATION_OF,T-Lymphocyte,Protein Overexpression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039194,C1515670,LOCATION_OF,T-Lymphocyte,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039194,C1516924,LOCATION_OF,T-Lymphocyte,Epigenetic Process,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0039194,C1519877,LOCATION_OF,T-Lymphocyte,V(D)J Recombination,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039194,C1622990,LOCATION_OF,T-Lymphocyte,pre-mRNA splicing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039195,C0206530,LOCATION_OF,Cytotoxic T-Lymphocytes,Germ-Line Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039195,C0596611,LOCATION_OF,Cytotoxic T-Lymphocytes,Gene Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039198,C1158770,LOCATION_OF,Regulatory T-Lymphocytes,Transcriptional Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039198,C2613365,LOCATION_OF,Regulatory T-Lymphocytes,DNA hypermethylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039215,C0017262,LOCATION_OF,CD4 Positive T Lymphocytes,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039215,C0040649,LOCATION_OF,CD4 Positive T Lymphocytes,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039215,C0162493,LOCATION_OF,CD4 Positive T Lymphocytes,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039215,C1158770,LOCATION_OF,CD4 Positive T Lymphocytes,Transcriptional Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0039215,C2613367,LOCATION_OF,CD4 Positive T Lymphocytes,Hypomethylation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0039215,C5137395,LOCATION_OF,CD4 Positive T Lymphocytes,pumilio-response element binding,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0042542,C0026882,LOCATION_OF,Vero Cells,Mutation,cell,genf,8,LOCATION_OF_CELLlocfGENF
+C0042542,C0040649,LOCATION_OF,Vero Cells,"Transcription, Genetic",cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0042542,C0079394,LOCATION_OF,Vero Cells,"Resting Phase, Cell Cycle",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0042542,C0162493,LOCATION_OF,Vero Cells,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0042542,C0598312,LOCATION_OF,Vero Cells,DNA Replication,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0042542,C0598496,LOCATION_OF,Vero Cells,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0042542,C0599283,LOCATION_OF,Vero Cells,receptor density,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0042542,C1136031,LOCATION_OF,Vero Cells,RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0042542,C1149372,LOCATION_OF,Vero Cells,cAMP response element binding protein binding activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0042542,C1152412,LOCATION_OF,Vero Cells,RNA-directed RNA polymerase activity,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0042542,C1171362,LOCATION_OF,Vero Cells,protein expression,cell,genf,6,LOCATION_OF_CELLlocfGENF
+C0042542,C1257825,LOCATION_OF,Vero Cells,Genomic Stability,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0042542,C1511695,LOCATION_OF,Vero Cells,DNA Sequence Rearrangement,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0042542,C1512167,LOCATION_OF,Vero Cells,Ectopic Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0042542,C1514849,LOCATION_OF,Vero Cells,Replication-Associated Process,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0042542,C1622984,LOCATION_OF,Vero Cells,mRNA synthesis,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0042542,C2247634,LOCATION_OF,Vero Cells,stress granule assembly,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0042542,C2610186,LOCATION_OF,Vero Cells,"nuclear mRNA cis splicing, via spliceosome",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0080202,C0017263,LOCATION_OF,T-Lymphocyte Subsets,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0085080,C0017256,LOCATION_OF,Chinese Hamster Ovary Cell,Gene Amplification,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0085080,C0017262,LOCATION_OF,Chinese Hamster Ovary Cell,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0085080,C0034865,LOCATION_OF,Chinese Hamster Ovary Cell,"Recombination, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0085080,C0040649,LOCATION_OF,Chinese Hamster Ovary Cell,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0085080,C0598312,LOCATION_OF,Chinese Hamster Ovary Cell,DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0085080,C1171362,LOCATION_OF,Chinese Hamster Ovary Cell,protein expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0085236,C0017262,LOCATION_OF,"Macrophages, Alveolar",Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0085236,C0162493,LOCATION_OF,"Macrophages, Alveolar",Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0085236,C1136031,LOCATION_OF,"Macrophages, Alveolar",RNA Interference,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0085236,C2245743,LOCATION_OF,"Macrophages, Alveolar",mitochondrial translation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0085983,C1511695,LOCATION_OF,"Cell Line, Tumor",DNA Sequence Rearrangement,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0086574,C0040649,LOCATION_OF,Lymphoid Cells,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0178708,C1148756,LOCATION_OF,immortalized cell,telomerase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0206116,C0017259,LOCATION_OF,Microglia,Gene Conversion,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0206116,C0017262,LOCATION_OF,Microglia,Gene Expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0206116,C0040649,LOCATION_OF,Microglia,"Transcription, Genetic",cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0206116,C0162493,LOCATION_OF,Microglia,Transcriptional Activation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0206116,C0596611,LOCATION_OF,Microglia,Gene Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0206116,C0597360,LOCATION_OF,Microglia,receptor expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0206116,C1515670,LOCATION_OF,Microglia,mRNA Expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0206131,C0162493,LOCATION_OF,Adipocytes,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0206131,C2613365,LOCATION_OF,Adipocytes,DNA hypermethylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0206190,C0026882,LOCATION_OF,"Macrophages, Peritoneal",Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0206190,C1171362,LOCATION_OF,"Macrophages, Peritoneal",protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0221284,C0017262,LOCATION_OF,Leptocyte,Gene Expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0221284,C0026882,LOCATION_OF,Leptocyte,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0221284,C0035380,LOCATION_OF,Leptocyte,Reverse Transcription,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0221284,C0040649,LOCATION_OF,Leptocyte,"Transcription, Genetic",cell,genf,5,LOCATION_OF_CELLlocfGENF
+C0221284,C0597360,LOCATION_OF,Leptocyte,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0221284,C0598496,LOCATION_OF,Leptocyte,Gene Silencing,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0221284,C0599177,LOCATION_OF,Leptocyte,protein activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0221284,C1136031,LOCATION_OF,Leptocyte,RNA Interference,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0221284,C1152412,LOCATION_OF,Leptocyte,RNA-directed RNA polymerase activity,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0221284,C1515670,LOCATION_OF,Leptocyte,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0221284,C1516924,LOCATION_OF,Leptocyte,Epigenetic Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0221284,C2610186,LOCATION_OF,Leptocyte,"nuclear mRNA cis splicing, via spliceosome",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0221284,C3537096,LOCATION_OF,Leptocyte,Translational Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225335,C0017262,LOCATION_OF,Mesothelial cell,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225335,C0026882,LOCATION_OF,Mesothelial cell,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225336,C0017260,LOCATION_OF,Endothelial Cells,Gene Deletion,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225336,C0017262,LOCATION_OF,Endothelial Cells,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225336,C0040649,LOCATION_OF,Endothelial Cells,"Transcription, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0225336,C0597360,LOCATION_OF,Endothelial Cells,receptor expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0225336,C1171362,LOCATION_OF,Endothelial Cells,protein expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0225336,C1372275,LOCATION_OF,Endothelial Cells,Increased DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225369,C0012899,LOCATION_OF,Chondrocyte,DNA Repair,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225369,C0020202,LOCATION_OF,Chondrocyte,Crossbreeding,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0225369,C1171362,LOCATION_OF,Chondrocyte,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225668,C1171362,LOCATION_OF,Clara cell,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225698,C0597360,LOCATION_OF,Alveolar Epithelial Cells,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225698,C1171362,LOCATION_OF,Alveolar Epithelial Cells,protein expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0225698,C1515670,LOCATION_OF,Alveolar Epithelial Cells,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225700,C0597360,LOCATION_OF,Type-II Pneumocytes,receptor expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0225700,C1171362,LOCATION_OF,Type-II Pneumocytes,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225828,C0017262,LOCATION_OF,"Myocytes, Cardiac",Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0225828,C0040624,LOCATION_OF,"Myocytes, Cardiac","Trans-Activation, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225828,C0598312,LOCATION_OF,"Myocytes, Cardiac",DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225828,C0598496,LOCATION_OF,"Myocytes, Cardiac",Gene Silencing,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0225828,C1148759,LOCATION_OF,"Myocytes, Cardiac",transcription factor activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0225828,C1372275,LOCATION_OF,"Myocytes, Cardiac",Increased DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0227525,C0012899,LOCATION_OF,Hepatocyte,DNA Repair,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0227525,C0017262,LOCATION_OF,Hepatocyte,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0227525,C0017263,LOCATION_OF,Hepatocyte,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0227525,C0026882,LOCATION_OF,Hepatocyte,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0227525,C0040649,LOCATION_OF,Hepatocyte,"Transcription, Genetic",cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0227525,C0282572,LOCATION_OF,Hepatocyte,"Frameshifting, Ribosomal",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0227525,C0597360,LOCATION_OF,Hepatocyte,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0227525,C0598312,LOCATION_OF,Hepatocyte,DNA Replication,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0227525,C0598496,LOCATION_OF,Hepatocyte,Gene Silencing,cell,genf,6,LOCATION_OF_CELLlocfGENF
+C0227525,C0920532,LOCATION_OF,Hepatocyte,gene induction,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0227525,C1136031,LOCATION_OF,Hepatocyte,RNA Interference,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0227525,C1171362,LOCATION_OF,Hepatocyte,protein expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0227525,C1328949,LOCATION_OF,Hepatocyte,RNA replication,cell,genf,5,LOCATION_OF_CELLlocfGENF
+C0227525,C1512167,LOCATION_OF,Hepatocyte,Ectopic Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0227525,C1515670,LOCATION_OF,Hepatocyte,mRNA Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0227650,C0040649,LOCATION_OF,Juxtaglomerular cell,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0229525,C1519516,LOCATION_OF,Endocrine Cells,Tissue-Specific Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0229571,C0597360,LOCATION_OF,Type I cell of carotid body,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0229579,C0017262,LOCATION_OF,Structure of thyroid parafollicular cell,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0229604,C1136031,LOCATION_OF,Reticuloendothelial cell,RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0229649,C1515670,LOCATION_OF,Heterophil,mRNA Expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0242245,C0597360,LOCATION_OF,"Dendritic Cells, Follicular",receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0242598,C0017393,LOCATION_OF,LLC-PK1 Cells,Genetic Markers,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0242629,C0017262,LOCATION_OF,CD8-Positive T-Lymphocytes,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0242629,C0026882,LOCATION_OF,CD8-Positive T-Lymphocytes,Mutation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0242629,C0040649,LOCATION_OF,CD8-Positive T-Lymphocytes,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0242629,C1158770,LOCATION_OF,CD8-Positive T-Lymphocytes,Transcriptional Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0282549,C0598312,LOCATION_OF,HL-60 Cells,DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0282560,C0599177,LOCATION_OF,Caco-2 Cells,protein activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0282560,C1158816,LOCATION_OF,Caco-2 Cells,mRNA transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0282560,C1515670,LOCATION_OF,Caco-2 Cells,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0312740,C0017255,LOCATION_OF,Immune effector cell,Gene Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0333843,C0020202,LOCATION_OF,Myeloma cell,Crossbreeding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C0012899,LOCATION_OF,"Tumor cells, malignant",DNA Repair,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C0017262,LOCATION_OF,"Tumor cells, malignant",Gene Expression,cell,genf,5,LOCATION_OF_CELLlocfGENF
+C0334227,C0026882,LOCATION_OF,"Tumor cells, malignant",Mutation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C0334227,C0162493,LOCATION_OF,"Tumor cells, malignant",Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C0596611,LOCATION_OF,"Tumor cells, malignant",Gene Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C0598312,LOCATION_OF,"Tumor cells, malignant",DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C1156152,LOCATION_OF,"Tumor cells, malignant",rRNA processing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C1158013,LOCATION_OF,"Tumor cells, malignant",Nonsense Mediated mRNA Decay,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C1158486,LOCATION_OF,"Tumor cells, malignant",DNA Packaging,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C1171362,LOCATION_OF,"Tumor cells, malignant",protein expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0334227,C1372275,LOCATION_OF,"Tumor cells, malignant",Increased DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C1516924,LOCATION_OF,"Tumor cells, malignant",Epigenetic Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C1519516,LOCATION_OF,"Tumor cells, malignant",Tissue-Specific Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C1519614,LOCATION_OF,"Tumor cells, malignant",Genetic Translation Process,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0334227,C1622445,LOCATION_OF,"Tumor cells, malignant",rRNA synthesis,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C1622642,LOCATION_OF,"Tumor cells, malignant",mitotic DNA replication checkpoint,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C1707931,LOCATION_OF,"Tumor cells, malignant",Epigenetic Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0334227,C2247629,LOCATION_OF,"Tumor cells, malignant",DNA polymerase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0376448,C0162493,LOCATION_OF,Jurkat Cells,Transcriptional Activation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0376448,C1171362,LOCATION_OF,Jurkat Cells,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0376702,C0079870,LOCATION_OF,COS Cells,"Mutagenesis, Site-Directed",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0440752,C1148673,LOCATION_OF,Inflammatory cell,DNA Binding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0444746,C0017262,LOCATION_OF,Endocyte,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0506994,C1515670,LOCATION_OF,Goblet Cells,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0524984,C0040649,LOCATION_OF,Somatostatin-Secreting Cells,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0524984,C0598496,LOCATION_OF,Somatostatin-Secreting Cells,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0524984,C1136031,LOCATION_OF,Somatostatin-Secreting Cells,RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0524984,C1516924,LOCATION_OF,Somatostatin-Secreting Cells,Epigenetic Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0553257,C0017262,LOCATION_OF,Epithelial cell of renal tubule,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0553257,C0597360,LOCATION_OF,Epithelial cell of renal tubule,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0553257,C1148924,LOCATION_OF,Epithelial cell of renal tubule,2'-5'-oligoadenylate synthetase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0553257,C1515670,LOCATION_OF,Epithelial cell of renal tubule,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0553257,C1519516,LOCATION_OF,Epithelial cell of renal tubule,Tissue-Specific Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0596155,C1257758,LOCATION_OF,Basal Cell,mRNA Decay,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0596208,C0026882,LOCATION_OF,brain cell,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0596508,C0010366,LOCATION_OF,Embryonic Stem Cells,"Crossing Over, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0596508,C0017262,LOCATION_OF,Embryonic Stem Cells,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0596508,C0034865,LOCATION_OF,Embryonic Stem Cells,"Recombination, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0596508,C0079870,LOCATION_OF,Embryonic Stem Cells,"Mutagenesis, Site-Directed",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0596508,C0599773,LOCATION_OF,Embryonic Stem Cells,Homologous Recombination,cell,genf,15,LOCATION_OF_CELLlocfGENF
+C0596890,C0598312,LOCATION_OF,MCF-7 Cells,DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0596981,C0017262,LOCATION_OF,Muscle Cells,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0596995,C0017262,LOCATION_OF,Myoblasts,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0597690,C1149630,LOCATION_OF,WI38 cell,NAD-dependent histone deacetylase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0597690,C3271468,LOCATION_OF,WI38 cell,senescence-associated heterochromatin focus assembly,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0597694,C0079868,LOCATION_OF,Xenopus oocyte,"Mutagenesis, Insertional",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0597694,C0282572,LOCATION_OF,Xenopus oocyte,"Frameshifting, Ribosomal",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0598088,C0034865,LOCATION_OF,continuous cell line,"Recombination, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0598091,C0040683,LOCATION_OF,stable cell line,"Transformation, Bacterial",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0598091,C1171362,LOCATION_OF,stable cell line,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0598102,C1511695,LOCATION_OF,polarized cell,DNA Sequence Rearrangement,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0598117,C0597360,LOCATION_OF,stellate cell,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0598800,C0020202,LOCATION_OF,Pericytes,Crossbreeding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0598800,C0162493,LOCATION_OF,Pericytes,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0598829,C0017262,LOCATION_OF,Madin Darby Canine Kidney Cells,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0598829,C0026882,LOCATION_OF,Madin Darby Canine Kidney Cells,Mutation,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C0598829,C0040649,LOCATION_OF,Madin Darby Canine Kidney Cells,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0598829,C1152411,LOCATION_OF,Madin Darby Canine Kidney Cells,RNA-directed DNA polymerase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0598829,C1171362,LOCATION_OF,Madin Darby Canine Kidney Cells,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0598829,C1328949,LOCATION_OF,Madin Darby Canine Kidney Cells,RNA replication,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0598829,C1372275,LOCATION_OF,Madin Darby Canine Kidney Cells,Increased DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0599757,C0597360,LOCATION_OF,Microfold cell,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0599757,C1749515,LOCATION_OF,Microfold cell,apoptotic DNA fragmentation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0600432,C1171362,LOCATION_OF,K562 Cells,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0600531,C0017262,LOCATION_OF,U937 Cells,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0677626,C0026882,LOCATION_OF,hepatoma cell,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0677626,C0040649,LOCATION_OF,hepatoma cell,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0677626,C1171362,LOCATION_OF,hepatoma cell,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0677626,C1328949,LOCATION_OF,hepatoma cell,RNA replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0677626,C1512167,LOCATION_OF,hepatoma cell,Ectopic Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0677626,C1622984,LOCATION_OF,hepatoma cell,mRNA synthesis,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682523,C0017262,LOCATION_OF,Human Cell Line,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682523,C0079394,LOCATION_OF,Human Cell Line,"Resting Phase, Cell Cycle",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682523,C0597360,LOCATION_OF,Human Cell Line,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682523,C0598496,LOCATION_OF,Human Cell Line,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682523,C1158016,LOCATION_OF,Human Cell Line,rRNA catabolic process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682523,C1171362,LOCATION_OF,Human Cell Line,protein expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0682523,C1328949,LOCATION_OF,Human Cell Line,RNA replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682523,C1512554,LOCATION_OF,Human Cell Line,Hypermethylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682523,C1515670,LOCATION_OF,Human Cell Line,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682523,C1519619,LOCATION_OF,Human Cell Line,Translational Repression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682524,C0314627,LOCATION_OF,fibroblast cell line,Gene function,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682524,C1512167,LOCATION_OF,fibroblast cell line,Ectopic Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682526,C0017263,LOCATION_OF,lymphoblastoid cell line,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682538,C0020202,LOCATION_OF,intact cell,Crossbreeding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682538,C0040649,LOCATION_OF,intact cell,"Transcription, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0682610,C0017262,LOCATION_OF,Enterocytes,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682610,C0020202,LOCATION_OF,Enterocytes,Crossbreeding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682610,C0026882,LOCATION_OF,Enterocytes,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682610,C0597360,LOCATION_OF,Enterocytes,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682610,C1171362,LOCATION_OF,Enterocytes,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0682638,C1148756,LOCATION_OF,Memory B-Lymphocyte,telomerase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0806987,C1148673,LOCATION_OF,Mononuclear cells,DNA Binding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0814990,C0040649,LOCATION_OF,neural cell line,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0814999,C0017262,LOCATION_OF,thymocyte,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0814999,C1511695,LOCATION_OF,thymocyte,DNA Sequence Rearrangement,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0814999,C2246554,LOCATION_OF,thymocyte,T cell receptor V(D)J recombination,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0872076,C0026882,LOCATION_OF,Pluripotent Stem Cells,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0872372,C0599773,LOCATION_OF,Totipotent Stem Cells,Homologous Recombination,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0882784,C0017262,LOCATION_OF,Cell positive for CD11C antigen,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0882784,C1515670,LOCATION_OF,Cell positive for CD11C antigen,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0882784,C1519516,LOCATION_OF,Cell positive for CD11C antigen,Tissue-Specific Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C0882849,C0026882,LOCATION_OF,Cell positive for CD34 antigen,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0887899,C0035380,LOCATION_OF,Myeloid Cells,Reverse Transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0887899,C1372275,LOCATION_OF,Myeloid Cells,Increased DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0887899,C2260797,LOCATION_OF,Myeloid Cells,RNase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C0920751,C0598496,LOCATION_OF,Heart cell,Gene Silencing,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1135918,C0162493,LOCATION_OF,"Myocytes, Smooth Muscle",Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1135918,C0597360,LOCATION_OF,"Myocytes, Smooth Muscle",receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1135918,C0598312,LOCATION_OF,"Myocytes, Smooth Muscle",DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1135918,C1136031,LOCATION_OF,"Myocytes, Smooth Muscle",RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1135918,C1171362,LOCATION_OF,"Myocytes, Smooth Muscle",protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1148382,C0017262,LOCATION_OF,Monocytes+Macrophages,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1148382,C0026882,LOCATION_OF,Monocytes+Macrophages,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1148382,C0162493,LOCATION_OF,Monocytes+Macrophages,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1179870,C0026882,LOCATION_OF,Nodal myocyte,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1179870,C0598312,LOCATION_OF,Nodal myocyte,DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1179870,C1171362,LOCATION_OF,Nodal myocyte,protein expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1182789,C0040649,LOCATION_OF,Epithelial cell of visceral layer of glomerular capsule,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1183428,C0034865,LOCATION_OF,Solocyte,"Recombination, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1183428,C0040649,LOCATION_OF,Solocyte,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1183428,C0678713,LOCATION_OF,Solocyte,DNA template,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1257739,C0026882,LOCATION_OF,NIH 3T3 Cells,Mutation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1257739,C1152412,LOCATION_OF,NIH 3T3 Cells,RNA-directed RNA polymerase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1257739,C1515670,LOCATION_OF,NIH 3T3 Cells,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1257740,C0598312,LOCATION_OF,Swiss 3T3 Cells,DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1257858,C0162493,LOCATION_OF,COS-7 Cells,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1257909,C0012899,LOCATION_OF,Diploid Cell,DNA Repair,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1257909,C0017259,LOCATION_OF,Diploid Cell,Gene Conversion,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1257909,C0017287,LOCATION_OF,Diploid Cell,Gene Rearrangement,cell,genf,6,LOCATION_OF_CELLlocfGENF
+C1257909,C0026882,LOCATION_OF,Diploid Cell,Mutation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1257909,C0034865,LOCATION_OF,Diploid Cell,"Recombination, Genetic",cell,genf,23,LOCATION_OF_CELLlocfGENF
+C1257909,C0043297,LOCATION_OF,Diploid Cell,X Chromosome Inactivation function,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1257909,C0596611,LOCATION_OF,Diploid Cell,Gene Mutation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1257909,C1136031,LOCATION_OF,Diploid Cell,RNA Interference,cell,genf,8,LOCATION_OF_CELLlocfGENF
+C1257909,C1511695,LOCATION_OF,Diploid Cell,DNA Sequence Rearrangement,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1257909,C1515670,LOCATION_OF,Diploid Cell,mRNA Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1257909,C1516924,LOCATION_OF,Diploid Cell,Epigenetic Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1257909,C1519877,LOCATION_OF,Diploid Cell,V(D)J Recombination,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1257909,C3159025,LOCATION_OF,Diploid Cell,reciprocal DNA recombination,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1257912,C0079868,LOCATION_OF,Haploid Cell,"Mutagenesis, Insertional",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1258005,C0598496,LOCATION_OF,HCT116 Cells,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1267822,C1515670,LOCATION_OF,CD4+ CD25+ Regulatory T Cells,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1269647,C0020202,LOCATION_OF,Entire cell,Crossbreeding,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1272578,C0017262,LOCATION_OF,Skin fibroblast,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1272578,C0026882,LOCATION_OF,Skin fibroblast,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1321301,C0017262,LOCATION_OF,Peripheral blood mononuclear cell (cell),Gene Expression,cell,genf,17,LOCATION_OF_CELLlocfGENF
+C1321301,C0035380,LOCATION_OF,Peripheral blood mononuclear cell (cell),Reverse Transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1321301,C0040649,LOCATION_OF,Peripheral blood mononuclear cell (cell),"Transcription, Genetic",cell,genf,7,LOCATION_OF_CELLlocfGENF
+C1321301,C0162493,LOCATION_OF,Peripheral blood mononuclear cell (cell),Transcriptional Activation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1321301,C0598496,LOCATION_OF,Peripheral blood mononuclear cell (cell),Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1321301,C1148673,LOCATION_OF,Peripheral blood mononuclear cell (cell),DNA Binding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1321301,C1148756,LOCATION_OF,Peripheral blood mononuclear cell (cell),telomerase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1321301,C1152411,LOCATION_OF,Peripheral blood mononuclear cell (cell),RNA-directed DNA polymerase activity,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1321301,C1158816,LOCATION_OF,Peripheral blood mononuclear cell (cell),mRNA transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1321301,C1171362,LOCATION_OF,Peripheral blood mononuclear cell (cell),protein expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C1321301,C1511695,LOCATION_OF,Peripheral blood mononuclear cell (cell),DNA Sequence Rearrangement,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1321301,C1515670,LOCATION_OF,Peripheral blood mononuclear cell (cell),mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1321301,C1519323,LOCATION_OF,Peripheral blood mononuclear cell (cell),Silent Mutation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C1328818,C0596611,LOCATION_OF,Podocytes,Gene Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1511762,C1512167,LOCATION_OF,Mouse Dendritic Cell,Ectopic Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512035,C0026882,LOCATION_OF,Dopaminergic Neurons,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512035,C0597360,LOCATION_OF,Dopaminergic Neurons,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512310,C1136031,LOCATION_OF,HL60,RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512505,C1171362,LOCATION_OF,Breast Cancer Cell,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512631,C0206071,LOCATION_OF,Immature B-Lymphocyte,Immunoglobulin Class Switching,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512899,C1136031,LOCATION_OF,Interphase Cell,RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512899,C1158816,LOCATION_OF,Interphase Cell,mRNA transcription,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C0012899,LOCATION_OF,Mammalian Cell,DNA Repair,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C0017262,LOCATION_OF,Mammalian Cell,Gene Expression,cell,genf,12,LOCATION_OF_CELLlocfGENF
+C1512977,C0017263,LOCATION_OF,Mammalian Cell,Gene Expression Regulation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1512977,C0026882,LOCATION_OF,Mammalian Cell,Mutation,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C1512977,C0034865,LOCATION_OF,Mammalian Cell,"Recombination, Genetic",cell,genf,8,LOCATION_OF_CELLlocfGENF
+C1512977,C0035687,LOCATION_OF,Mammalian Cell,RNA Splicing,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1512977,C0040649,LOCATION_OF,Mammalian Cell,"Transcription, Genetic",cell,genf,7,LOCATION_OF_CELLlocfGENF
+C1512977,C0598312,LOCATION_OF,Mammalian Cell,DNA Replication,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C1512977,C0598496,LOCATION_OF,Mammalian Cell,Gene Silencing,cell,genf,11,LOCATION_OF_CELLlocfGENF
+C1512977,C0599155,LOCATION_OF,Mammalian Cell,Missense Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C0599559,LOCATION_OF,Mammalian Cell,genetic inhibitor,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C0599773,LOCATION_OF,Mammalian Cell,Homologous Recombination,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1512977,C0678939,LOCATION_OF,Mammalian Cell,spontaneous mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C1136031,LOCATION_OF,Mammalian Cell,RNA Interference,cell,genf,80,LOCATION_OF_CELLlocfGENF
+C1512977,C1148806,LOCATION_OF,Mammalian Cell,nuclease activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C1148813,LOCATION_OF,Mammalian Cell,ribonuclease H activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C1152412,LOCATION_OF,Mammalian Cell,RNA-directed RNA polymerase activity,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1512977,C1156212,LOCATION_OF,Mammalian Cell,chromatin silencing,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C1512977,C1158013,LOCATION_OF,Mammalian Cell,Nonsense Mediated mRNA Decay,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1512977,C1158016,LOCATION_OF,Mammalian Cell,rRNA catabolic process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C1158480,LOCATION_OF,Mammalian Cell,Depurination,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C1158483,LOCATION_OF,Mammalian Cell,DNA Alkylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C1158755,LOCATION_OF,Mammalian Cell,tRNA methylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C1171362,LOCATION_OF,Mammalian Cell,protein expression,cell,genf,10,LOCATION_OF_CELLlocfGENF
+C1512977,C1257759,LOCATION_OF,Mammalian Cell,mRNA Degradation,cell,genf,5,LOCATION_OF_CELLlocfGENF
+C1512977,C1328949,LOCATION_OF,Mammalian Cell,RNA replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C1511701,LOCATION_OF,Mammalian Cell,DNA Synthesis Inhibition,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C1512167,LOCATION_OF,Mammalian Cell,Ectopic Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1512977,C1514559,LOCATION_OF,Mammalian Cell,Protein Overexpression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C1516924,LOCATION_OF,Mammalian Cell,Epigenetic Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C1519613,LOCATION_OF,Mammalian Cell,Translation Initiation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C1512977,C1818892,LOCATION_OF,Mammalian Cell,mitochondrial DNA catabolic process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C2257075,LOCATION_OF,Mammalian Cell,RNA polymerase II activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C2610186,LOCATION_OF,Mammalian Cell,"nuclear mRNA cis splicing, via spliceosome",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1512977,C5197798,LOCATION_OF,Mammalian Cell,Codon Usage,cell,genf,5,LOCATION_OF_CELLlocfGENF
+C1513019,C1519877,LOCATION_OF,Mature B-Lymphocyte,V(D)J Recombination,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1513095,C1148756,LOCATION_OF,Melanoma Cell,telomerase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1513095,C1171362,LOCATION_OF,Melanoma Cell,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1514657,C0026882,LOCATION_OF,RL13,Mutation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1514716,C0040649,LOCATION_OF,Raji Cell,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1516469,C0017262,LOCATION_OF,Chicken Cells,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1516469,C0034865,LOCATION_OF,Chicken Cells,"Recombination, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1516469,C0598496,LOCATION_OF,Chicken Cells,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1517548,C1171362,LOCATION_OF,Glandular cell,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1517631,C1513838,LOCATION_OF,K-562,NFKB Signaling Pathway,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1518174,C0026882,LOCATION_OF,Malignant Epithelial Cell,Mutation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1518997,C0678951,LOCATION_OF,Peripheral Blood Lymphocyte,gene polymorphism,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1518997,C1515670,LOCATION_OF,Peripheral Blood Lymphocyte,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1519424,C0034865,LOCATION_OF,Somatotrophs,"Recombination, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1519449,C0017262,LOCATION_OF,Spermatogenic Cell,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1519477,C0017262,LOCATION_OF,Splenocyte,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1519477,C0040649,LOCATION_OF,Splenocyte,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1522131,C0040649,LOCATION_OF,Leukocyte - Lymphocyte - T-Lymphocyte (MMHCC),"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1522173,C0920532,LOCATION_OF,CNS - Brain - Astrocyte (MMHCC),gene induction,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1523993,C0017262,LOCATION_OF,Leukocyte - Monocyte - Macrophage (MMHCC),Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1640380,C1512167,LOCATION_OF,Bone Marrow Stromal Cells,Ectopic Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1707937,C0026882,LOCATION_OF,Epithelial Stem Cell,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1711178,C0012899,LOCATION_OF,Bronchial Epithelial Cell,DNA Repair,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1711178,C0017262,LOCATION_OF,Bronchial Epithelial Cell,Gene Expression,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1711178,C0017263,LOCATION_OF,Bronchial Epithelial Cell,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1711178,C0026882,LOCATION_OF,Bronchial Epithelial Cell,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1711178,C0040649,LOCATION_OF,Bronchial Epithelial Cell,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1711178,C0598496,LOCATION_OF,Bronchial Epithelial Cell,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1711178,C1171362,LOCATION_OF,Bronchial Epithelial Cell,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1711178,C1372275,LOCATION_OF,Bronchial Epithelial Cell,Increased DNA Replication,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1720857,C0017262,LOCATION_OF,"Adipocytes, Brown",Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1861193,C0040649,LOCATION_OF,THROMBOCYTE B,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1883178,C0020202,LOCATION_OF,Subclone,Crossbreeding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1883178,C0596611,LOCATION_OF,Subclone,Gene Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1953382,C0020202,LOCATION_OF,Forward primer,Crossbreeding,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1955926,C0034865,LOCATION_OF,Pro-B Lymphocytes,"Recombination, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1956385,C0017262,LOCATION_OF,Plasmacytoid Dendritic Cells,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1956385,C0162493,LOCATION_OF,Plasmacytoid Dendritic Cells,Transcriptional Activation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C1956385,C1136031,LOCATION_OF,Plasmacytoid Dendritic Cells,RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1956385,C1171362,LOCATION_OF,Plasmacytoid Dendritic Cells,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1956385,C1519516,LOCATION_OF,Plasmacytoid Dendritic Cells,Tissue-Specific Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1956385,C2613367,LOCATION_OF,Plasmacytoid Dendritic Cells,Hypomethylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1956422,C0012899,LOCATION_OF,Cancer Stem Cells,DNA Repair,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C1956422,C0017263,LOCATION_OF,Cancer Stem Cells,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2323499,C0040649,LOCATION_OF,Hematopoietic cell,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2323499,C0598496,LOCATION_OF,Hematopoietic cell,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2323499,C1512167,LOCATION_OF,Hematopoietic cell,Ectopic Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2338017,C0026882,LOCATION_OF,Neuron of retina,Mutation,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C2340138,C0079870,LOCATION_OF,Hepatic Stellate Cells,"Mutagenesis, Site-Directed",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2599885,C0040649,LOCATION_OF,Immature neutrophils,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2709199,C0206530,LOCATION_OF,Natural killer,Germ-Line Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2717940,C0017262,LOCATION_OF,Hep G2 Cells,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2717940,C0598495,LOCATION_OF,Hep G2 Cells,genetic silencer,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2717940,C0598496,LOCATION_OF,Hep G2 Cells,Gene Silencing,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2717940,C1136031,LOCATION_OF,Hep G2 Cells,RNA Interference,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2717940,C1512167,LOCATION_OF,Hep G2 Cells,Ectopic Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2717940,C1514849,LOCATION_OF,Hep G2 Cells,Replication-Associated Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2717959,C0040649,LOCATION_OF,Induced Pluripotent Stem Cells,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2936239,C0017255,LOCATION_OF,HEK293 Cells,Gene Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2936239,C0017262,LOCATION_OF,HEK293 Cells,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2936239,C0026882,LOCATION_OF,HEK293 Cells,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2936239,C0034865,LOCATION_OF,HEK293 Cells,"Recombination, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2936239,C0040649,LOCATION_OF,HEK293 Cells,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2936239,C0079394,LOCATION_OF,HEK293 Cells,"Resting Phase, Cell Cycle",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2936239,C0282630,LOCATION_OF,HEK293 Cells,"Packaging, Virus",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2936239,C0599773,LOCATION_OF,HEK293 Cells,Homologous Recombination,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C2936239,C0920533,LOCATION_OF,HEK293 Cells,Transcriptional Repression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2936239,C1171362,LOCATION_OF,HEK293 Cells,protein expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C2936239,C1328949,LOCATION_OF,HEK293 Cells,RNA replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2936239,C1512167,LOCATION_OF,HEK293 Cells,Ectopic Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C2936411,C0162493,LOCATION_OF,Th17 Cells,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C3178867,C1171362,LOCATION_OF,Plant Cells,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C3178867,C1328949,LOCATION_OF,Plant Cells,RNA replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C3179121,C0040649,LOCATION_OF,Human Umbilical Vein Endothelial Cells,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C3179121,C0162493,LOCATION_OF,Human Umbilical Vein Endothelial Cells,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C3494245,C0599773,LOCATION_OF,Sf9 Cells,Homologous Recombination,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C3494245,C1171362,LOCATION_OF,Sf9 Cells,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C3494246,C0040649,LOCATION_OF,Sf21 Cells,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C3641721,C1516924,LOCATION_OF,Naive T-Lymphocyte,Epigenetic Process,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C3686472,C0597360,LOCATION_OF,Biliary epithelial cell,receptor expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C3714800,C0314644,LOCATION_OF,SCID-Repopulating Cell,Homology region,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C3826603,C1158744,LOCATION_OF,Cell metabolism,RNA modification,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C3826603,C1514248,LOCATION_OF,Cell metabolism,Post-Transcriptional Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C3896693,C0040649,LOCATION_OF,Bone Marrow-Derived Cell,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C3896693,C1158770,LOCATION_OF,Bone Marrow-Derived Cell,Transcriptional Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4042840,C0162493,LOCATION_OF,RAW 264.7 Cells,Transcriptional Activation,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C4042840,C1171362,LOCATION_OF,RAW 264.7 Cells,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4042840,C1328949,LOCATION_OF,RAW 264.7 Cells,RNA replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4042879,C0017263,LOCATION_OF,Mouse Embryonic Stem Cells,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4042879,C0040649,LOCATION_OF,Mouse Embryonic Stem Cells,"Transcription, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4042879,C1148846,LOCATION_OF,Mouse Embryonic Stem Cells,RNA Binding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4082861,C0597360,LOCATION_OF,Vascular smooth muscle cell,receptor expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4082861,C0599177,LOCATION_OF,Vascular smooth muscle cell,protein activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4277577,C0017262,LOCATION_OF,A549 Cells,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4277577,C0017263,LOCATION_OF,A549 Cells,Gene Expression Regulation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4277577,C0026882,LOCATION_OF,A549 Cells,Mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4277577,C0040649,LOCATION_OF,A549 Cells,"Transcription, Genetic",cell,genf,4,LOCATION_OF_CELLlocfGENF
+C4277577,C1136031,LOCATION_OF,A549 Cells,RNA Interference,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C4277577,C1148673,LOCATION_OF,A549 Cells,DNA Binding,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4277577,C1148756,LOCATION_OF,A549 Cells,telomerase activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4277577,C1148807,LOCATION_OF,A549 Cells,endonuclease activity,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C4277577,C1148844,LOCATION_OF,A549 Cells,Ribonuclease T1 activity,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4277577,C1152412,LOCATION_OF,A549 Cells,RNA-directed RNA polymerase activity,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C4277577,C1158016,LOCATION_OF,A549 Cells,rRNA catabolic process,cell,genf,2,LOCATION_OF_CELLlocfGENF
+C4277577,C1171362,LOCATION_OF,A549 Cells,protein expression,cell,genf,5,LOCATION_OF_CELLlocfGENF
+C4277577,C1514559,LOCATION_OF,A549 Cells,Protein Overexpression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4277577,C1515670,LOCATION_OF,A549 Cells,mRNA Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4322678,C0010366,LOCATION_OF,Chromosome pair,"Crossing Over, Genetic",cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4330475,C0017259,LOCATION_OF,Immune Cell,Gene Conversion,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4330475,C0017262,LOCATION_OF,Immune Cell,Gene Expression,cell,genf,5,LOCATION_OF_CELLlocfGENF
+C4330475,C0017393,LOCATION_OF,Immune Cell,Genetic Markers,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4330475,C0162493,LOCATION_OF,Immune Cell,Transcriptional Activation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4330475,C0597360,LOCATION_OF,Immune Cell,receptor expression,cell,genf,4,LOCATION_OF_CELLlocfGENF
+C4330475,C0598312,LOCATION_OF,Immune Cell,DNA Replication,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4330475,C0678939,LOCATION_OF,Immune Cell,spontaneous mutation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4330475,C1158744,LOCATION_OF,Immune Cell,RNA modification,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4330475,C1171362,LOCATION_OF,Immune Cell,protein expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4330475,C1516924,LOCATION_OF,Immune Cell,Epigenetic Process,cell,genf,10,LOCATION_OF_CELLlocfGENF
+C4330475,C2755352,LOCATION_OF,Immune Cell,DNA Demethylation,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4505105,C0017262,LOCATION_OF,Oligodendrocyte Precursor Cells,Gene Expression,cell,genf,1,LOCATION_OF_CELLlocfGENF
+C4505192,C0040649,LOCATION_OF,THP-1 Cells,"Transcription, Genetic",cell,genf,2,LOCATION_OF_CELLlocfGENF
+C4505192,C1519516,LOCATION_OF,THP-1 Cells,Tissue-Specific Gene Expression,cell,genf,3,LOCATION_OF_CELLlocfGENF
+C4744827,C0598496,LOCATION_OF,Derived Cell Line,Gene Silencing,cell,genf,2,LOCATION_OF_CELLlocfGENF

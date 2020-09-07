@@ -1,0 +1,10 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0009221,C0162326,NEG_PART_OF,Codon (nucleotide sequence),DNA Sequence,nusq,nusq,2,NEG_PART_OF_NUSQnprtfNUSQ
+C0080089,C0242611,NEG_PART_OF,Reading Frames (Nucleotide Sequence),"Codon, Terminator",nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ
+C0162326,C1883633,NEG_PART_OF,DNA Sequence,3' Region,nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ
+C0242610,C0162326,NEG_PART_OF,"Codon, Initiator",DNA Sequence,nusq,nusq,2,NEG_PART_OF_NUSQnprtfNUSQ
+C0242610,C1512886,NEG_PART_OF,"Codon, Initiator",Internal Ribosome Entry Sites,nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ
+C0242611,C0080089,NEG_PART_OF,"Codon, Terminator",Reading Frames (Nucleotide Sequence),nusq,nusq,2,NEG_PART_OF_NUSQnprtfNUSQ
+C0242611,C0162326,NEG_PART_OF,"Codon, Terminator",DNA Sequence,nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ
+C0242611,C0242612,NEG_PART_OF,"Codon, Terminator","Codon, Nonsense",nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ
+C1512886,C0242610,NEG_PART_OF,Internal Ribosome Entry Sites,"Codon, Initiator",nusq,nusq,1,NEG_PART_OF_NUSQnprtfNUSQ

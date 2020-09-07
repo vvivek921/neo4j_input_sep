@@ -1,0 +1,32 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010827,C0596402,AFFECTS,"Cytopathogenic Effect, Viral",cytotoxicity,comd,comd,1,AFFECTS_COMDafctCOMD
+C0012860,C0598309,AFFECTS,DNA Damage,genotoxicity,comd,comd,1,AFFECTS_COMDafctCOMD
+C0012860,C0919532,AFFECTS,DNA Damage,Genomic Instability,comd,comd,1,AFFECTS_COMDafctCOMD
+C0012860,C1257899,AFFECTS,DNA Damage,Genotoxic Stress,comd,comd,1,AFFECTS_COMDafctCOMD
+C0012860,C1515263,AFFECTS,DNA Damage,Telomere Shortening,comd,comd,1,AFFECTS_COMDafctCOMD
+C0027746,C0085400,AFFECTS,Nerve Degeneration,Neurofibrillary degeneration (morphologic abnormality),comd,comd,1,AFFECTS_COMDafctCOMD
+C0162735,C1512032,AFFECTS,Point Mutation,Dominant-Negative Mutation,comd,comd,1,AFFECTS_COMDafctCOMD
+C0242606,C0012860,AFFECTS,Oxidative Stress,DNA Damage,comd,comd,1,AFFECTS_COMDafctCOMD
+C0242606,C0027746,AFFECTS,Oxidative Stress,Nerve Degeneration,comd,comd,1,AFFECTS_COMDafctCOMD
+C0242606,C0596402,AFFECTS,Oxidative Stress,cytotoxicity,comd,comd,2,AFFECTS_COMDafctCOMD
+C0242606,C0598309,AFFECTS,Oxidative Stress,genotoxicity,comd,comd,2,AFFECTS_COMDafctCOMD
+C0242606,C0599732,AFFECTS,Oxidative Stress,cell injury,comd,comd,1,AFFECTS_COMDafctCOMD
+C0541642,C3178870,AFFECTS,Membrane Alteration,Endoplasmic Reticulum Stress,comd,comd,1,AFFECTS_COMDafctCOMD
+C0596402,C0010827,AFFECTS,cytotoxicity,"Cytopathogenic Effect, Viral",comd,comd,1,AFFECTS_COMDafctCOMD
+C0596402,C0012860,AFFECTS,cytotoxicity,DNA Damage,comd,comd,1,AFFECTS_COMDafctCOMD
+C0596402,C0392769,AFFECTS,cytotoxicity,Patch formation,comd,comd,1,AFFECTS_COMDafctCOMD
+C0598309,C0242606,AFFECTS,genotoxicity,Oxidative Stress,comd,comd,1,AFFECTS_COMDafctCOMD
+C0599732,C1516373,AFFECTS,cell injury,Cellular Stress,comd,comd,1,AFFECTS_COMDafctCOMD
+C0919532,C0040715,AFFECTS,Genomic Instability,Chromosomal translocation,comd,comd,1,AFFECTS_COMDafctCOMD
+C0919532,C1515001,AFFECTS,Genomic Instability,Chromosomal structural abnormalities,comd,comd,1,AFFECTS_COMDafctCOMD
+C1257806,C0002938,AFFECTS,Chromosomal Instability,Aneuploidy,comd,comd,1,AFFECTS_COMDafctCOMD
+C1511667,C0012860,AFFECTS,"DNA Breaks, Double-Stranded",DNA Damage,comd,comd,1,AFFECTS_COMDafctCOMD
+C1515001,C0333704,AFFECTS,Chromosomal structural abnormalities,Chromosome Breaks,comd,comd,1,AFFECTS_COMDafctCOMD
+C1515001,C0919532,AFFECTS,Chromosomal structural abnormalities,Genomic Instability,comd,comd,1,AFFECTS_COMDafctCOMD
+C1516373,C0010827,AFFECTS,Cellular Stress,"Cytopathogenic Effect, Viral",comd,comd,1,AFFECTS_COMDafctCOMD
+C1705285,C0596402,AFFECTS,Mutation Abnormality,cytotoxicity,comd,comd,2,AFFECTS_COMDafctCOMD
+C2985438,C0544885,AFFECTS,Novel Mutation,Nonsense mutation,comd,comd,1,AFFECTS_COMDafctCOMD
+C2985439,C2985437,AFFECTS,De novo mutation,Null Allele,comd,comd,1,AFFECTS_COMDafctCOMD
+C4049599,C0919532,AFFECTS,Homologous Recombination Deficiency,Genomic Instability,comd,comd,2,AFFECTS_COMDafctCOMD
+C4277538,C0919532,AFFECTS,Chromothripsis,Genomic Instability,comd,comd,1,AFFECTS_COMDafctCOMD
+C4545193,C0010827,AFFECTS,Partial deletion,"Cytopathogenic Effect, Viral",comd,comd,1,AFFECTS_COMDafctCOMD

@@ -1,0 +1,29 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000934,C0243144,PRECEDES,Acclimatization,Uptake,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0004048,C0005775,PRECEDES,Inspiration function,Blood Circulation,orgf,phsf,5,PRECEDES_ORGFprcdPHSF
+C0004048,C0243144,PRECEDES,Inspiration function,Uptake,orgf,phsf,2,PRECEDES_ORGFprcdPHSF
+C0004048,C0678662,PRECEDES,Inspiration function,regulatory loop,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0004048,C1514892,PRECEDES,Inspiration function,Resistance Process,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0005615,C0020964,PRECEDES,Birth,Immunity,orgf,phsf,2,PRECEDES_ORGFprcdPHSF
+C0005615,C0221102,PRECEDES,Birth,Excretory function,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0011065,C0020964,PRECEDES,Cessation of life,Immunity,orgf,phsf,2,PRECEDES_ORGFprcdPHSF
+C0011065,C0221102,PRECEDES,Cessation of life,Excretory function,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0011065,C0242732,PRECEDES,Cessation of life,Tropism,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0011065,C2917212,PRECEDES,Cessation of life,Negative Regulation of Coagulation,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0012238,C0005775,PRECEDES,Digestion,Blood Circulation,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0012238,C0243144,PRECEDES,Digestion,Uptake,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0012238,C0868946,PRECEDES,Digestion,digest,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0012238,C3714584,PRECEDES,Digestion,"Transformation, function",orgf,phsf,3,PRECEDES_ORGFprcdPHSF
+C0013470,C3179504,PRECEDES,Eating,Incretin Effect,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0018270,C3714584,PRECEDES,Growth,"Transformation, function",orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0026649,C3714584,PRECEDES,Movement,"Transformation, function",orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C0560560,C0020964,PRECEDES,Moving,Immunity,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C1148523,C0005775,PRECEDES,Childbirth,Blood Circulation,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C1148523,C0020964,PRECEDES,Childbirth,Immunity,orgf,phsf,2,PRECEDES_ORGFprcdPHSF
+C1148523,C0233927,PRECEDES,Childbirth,Sucking,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C1148523,C0243144,PRECEDES,Childbirth,Uptake,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C1148523,C2267003,PRECEDES,Childbirth,Increased Immunologic Activity [PE],orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C1148523,C3179230,PRECEDES,Childbirth,Anti-Angiogenesis Effect,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C1314680,C0243144,PRECEDES,"Non-human parturition, function",Uptake,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C1749719,C0221102,PRECEDES,Adaptive Immune Response,Excretory function,orgf,phsf,1,PRECEDES_ORGFprcdPHSF
+C2985494,C0005775,PRECEDES,Resorption,Blood Circulation,orgf,phsf,2,PRECEDES_ORGFprcdPHSF

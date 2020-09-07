@@ -1,0 +1,355 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002199,C0003320,STIMULATES,Interferon-alpha,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0002520,C0003316,STIMULATES,Amino Acids,Epitopes,aapp,imft,3,STIMULATES_AAPPstimIMFT
+C0002716,C0003320,STIMULATES,Amyloid,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003241,C0001551,STIMULATES,Antibodies,Immunologic Adjuvants,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003241,C0003316,STIMULATES,Antibodies,Epitopes,aapp,imft,12,STIMULATES_AAPPstimIMFT
+C0003241,C0003320,STIMULATES,Antibodies,Antigens,aapp,imft,27,STIMULATES_AAPPstimIMFT
+C0003241,C0003342,STIMULATES,Antibodies,"Antigens, Viral",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003241,C0004359,STIMULATES,Antibodies,Autoantigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003241,C0018593,STIMULATES,Antibodies,Haptens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0003241,C0034496,STIMULATES,Antibodies,Rabies Vaccines,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003241,C0069180,STIMULATES,Antibodies,O Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003241,C0079600,STIMULATES,Antibodies,Immunodominant Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003241,C0282581,STIMULATES,Antibodies,"Epitopes, B-Lymphocyte",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003241,C0376613,STIMULATES,Antibodies,"Vaccines, DNA",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003241,C0456981,STIMULATES,Antibodies,Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003241,C0770694,STIMULATES,Antibodies,trivalent influenza vaccine,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003242,C0018593,STIMULATES,"Antibodies, Anti-Idiotypic",Haptens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003250,C0003316,STIMULATES,Monoclonal Antibodies,Epitopes,aapp,imft,11,STIMULATES_AAPPstimIMFT
+C0003250,C0003320,STIMULATES,Monoclonal Antibodies,Antigens,aapp,imft,4,STIMULATES_AAPPstimIMFT
+C0003250,C0003339,STIMULATES,Monoclonal Antibodies,Surface Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003250,C0005525,STIMULATES,Monoclonal Antibodies,Biological Response Modifiers,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003250,C0079600,STIMULATES,Monoclonal Antibodies,Immunodominant Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003250,C0206515,STIMULATES,Monoclonal Antibodies,"Vaccines, Conjugate",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003250,C1175421,STIMULATES,Monoclonal Antibodies,Globo-H,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003250,C1291777,STIMULATES,Monoclonal Antibodies,Protein antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003313,C0003320,STIMULATES,Immune complex,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003313,C0301838,STIMULATES,Immune complex,Soluble antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003323,C0003320,STIMULATES,CD4 Antigens,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003343,C0521390,STIMULATES,Viral Tumor Antigens,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0003993,C0021403,STIMULATES,asparaginase,Influenza virus vaccine,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0003993,C0770694,STIMULATES,asparaginase,trivalent influenza vaccine,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0004358,C0003320,STIMULATES,Autoantibodies,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0004358,C0103647,STIMULATES,Autoantibodies,Antineutrophil Cytoplasmic Antibodies,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0006100,C0521390,STIMULATES,Bradykinin,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0007332,C2720503,STIMULATES,caseins,casein allergenic extract,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0008356,C0521390,STIMULATES,Cholera Toxin,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0009498,C0282681,STIMULATES,Complement System Proteins,Enhancing Antibodies,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0009498,C2986386,STIMULATES,Complement System Proteins,Virus-neutralizing Antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0009630,C0003320,STIMULATES,Concanavalin A,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0009630,C0456981,STIMULATES,Concanavalin A,Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0010590,C0003316,STIMULATES,cycloserine,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0010590,C0003320,STIMULATES,cycloserine,Antigens,aapp,imft,4,STIMULATES_AAPPstimIMFT
+C0010590,C0023158,STIMULATES,cycloserine,Lymphocyte antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0010590,C0301508,STIMULATES,cycloserine,yellow fever vaccine,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0010590,C0456981,STIMULATES,cycloserine,Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0010590,C2825347,STIMULATES,cycloserine,"immunoglobulin A, human",aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0012020,C2825347,STIMULATES,Diazooxonorleucine,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0014063,C0003320,STIMULATES,Myelin Basic Proteins,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0014063,C0456981,STIMULATES,Myelin Basic Proteins,Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0016194,C2825347,STIMULATES,Flagellin,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0017376,C0486379,STIMULATES,"Genes, Viral",B lymphocyte antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0017626,C1441165,STIMULATES,Glial Fibrillary Acidic Protein,S-100,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0017649,C0003320,STIMULATES,Globulins,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0017817,C0003320,STIMULATES,glutathione,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0017837,C0301869,STIMULATES,Glutathione S-Transferase,Immunostimulating conjugate (antigen),aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0017968,C0003316,STIMULATES,Glycoproteins,Epitopes,aapp,imft,3,STIMULATES_AAPPstimIMFT
+C0017968,C0887892,STIMULATES,Glycoproteins,"Vaccines, Subunit",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0017968,C2825347,STIMULATES,Glycoproteins,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0017968,C2986386,STIMULATES,Glycoproteins,Virus-neutralizing Antibody,aapp,imft,8,STIMULATES_AAPPstimIMFT
+C0018284,C0521390,STIMULATES,Growth Factor,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0019629,C0008897,STIMULATES,Histocompatibility Antigens Class I,Human Class I Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0019630,C0003320,STIMULATES,Histocompatibility Antigens Class II,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0020960,C0002092,STIMULATES,Immune Sera,Allergens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0020960,C0003316,STIMULATES,Immune Sera,Epitopes,aapp,imft,3,STIMULATES_AAPPstimIMFT
+C0020960,C0003320,STIMULATES,Immune Sera,Antigens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0020960,C0018442,STIMULATES,Immune Sera,H-2 Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0020960,C0535644,STIMULATES,Immune Sera,Diphtheria-Tetanus-acellular Pertussis Vaccines,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021017,C0003320,STIMULATES,Immunoglobulin Isotypes,Antigens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0021017,C0003340,STIMULATES,Immunoglobulin Isotypes,"Antigens, T-Independent",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021024,C0005457,STIMULATES,Complementarity Determining Regions,"Binding Sites, Antibody",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021740,C0003320,STIMULATES,Recombinant Interferon-gamma,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021740,C0026484,STIMULATES,Recombinant Interferon-gamma,Monokines,aapp,imft,7,STIMULATES_AAPPstimIMFT
+C0021740,C0599796,STIMULATES,Recombinant Interferon-gamma,mhc antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021743,C0042742,STIMULATES,Interferon Type I,Viral Vaccines,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021747,C0003320,STIMULATES,Interferons,Antigens,aapp,imft,10,STIMULATES_AAPPstimIMFT
+C0021747,C0026484,STIMULATES,Interferons,Monokines,aapp,imft,11,STIMULATES_AAPPstimIMFT
+C0021747,C0032172,STIMULATES,Interferons,Platelet Activating Factor,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021747,C0599796,STIMULATES,Interferons,mhc antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021755,C0003320,STIMULATES,Interleukin-1,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021755,C2825347,STIMULATES,Interleukin-1,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021756,C0003320,STIMULATES,Interleukin-2,Antigens,aapp,imft,7,STIMULATES_AAPPstimIMFT
+C0021756,C0019628,STIMULATES,Interleukin-2,Histocompatibility Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021756,C0085355,STIMULATES,Interleukin-2,Human Platelet Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021756,C0376613,STIMULATES,Interleukin-2,"Vaccines, DNA",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021758,C0003320,STIMULATES,interleukin-4,Antigens,aapp,imft,3,STIMULATES_AAPPstimIMFT
+C0021758,C0282580,STIMULATES,interleukin-4,"Epitopes, T-Lymphocyte",aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0021760,C0003320,STIMULATES,interleukin-6,Antigens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0021760,C0456981,STIMULATES,interleukin-6,Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0021760,C2825347,STIMULATES,interleukin-6,"immunoglobulin A, human",aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0021764,C0003320,STIMULATES,Interleukins,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0022942,C2825347,STIMULATES,lactoferrin,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0022959,C0003320,STIMULATES,LacZ Genes,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0023206,C0003324,STIMULATES,Lectin,Differentiation Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0024297,C0312653,STIMULATES,Lymphokines,HLA class II antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0025248,C2986386,STIMULATES,Membrane Glycoproteins,Virus-neutralizing Antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0025250,C1440514,STIMULATES,Neprilysin,Coxsackievirus B3,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0025252,C2825347,STIMULATES,Membrane Proteins,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0025252,C2986386,STIMULATES,Membrane Proteins,Virus-neutralizing Antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0028612,C2986386,STIMULATES,Nucleoproteins,Virus-neutralizing Antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0029282,C0032172,STIMULATES,Ornithine Decarboxylase,Platelet Activating Factor,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0029923,C0001551,STIMULATES,ovalbumin,Immunologic Adjuvants,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0030817,C0103647,STIMULATES,penicillamine,Antineutrophil Cytoplasmic Antibodies,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0030940,C0002092,STIMULATES,Peptide Hydrolases,Allergens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0030940,C0003316,STIMULATES,Peptide Hydrolases,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0030940,C0003320,STIMULATES,Peptide Hydrolases,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0030940,C0018911,STIMULATES,Peptide Hydrolases,"Hemagglutinins, Viral",aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0030940,C1545500,STIMULATES,Peptide Hydrolases,Influenza virus A hemagglutinin,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0032089,C0003320,STIMULATES,Plant Proteins,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0034789,C0003320,STIMULATES,"Receptors, Antigen, B-Cell",Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0034790,C0002131,STIMULATES,T-Cell Receptor,Alloantigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0034800,C2986386,STIMULATES,"Receptors, Cell Surface",Virus-neutralizing Antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0034805,C0003320,STIMULATES,Fc Receptor,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0034830,C0521390,STIMULATES,Nicotinic Receptors,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0034862,C0003316,STIMULATES,"Vaccines, Recombinant",Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0034862,C2825347,STIMULATES,"Vaccines, Recombinant","immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0035448,C1441092,STIMULATES,Rheumatoid Factor,PL-7,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0035544,C2986386,STIMULATES,Ribonucleoproteins,Virus-neutralizing Antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0036734,C0018911,STIMULATES,Serine Endopeptidases,"Hemagglutinins, Viral",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0040018,C0032172,STIMULATES,thrombin,Platelet Activating Factor,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0040123,C0003316,STIMULATES,thyroglobulin,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0040648,C0521390,STIMULATES,TRANSCRIPTION FACTOR,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0040676,C0003320,STIMULATES,Transferase,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0040691,C2825347,STIMULATES,Transforming Growth Factors,"immunoglobulin A, human",aapp,imft,3,STIMULATES_AAPPstimIMFT
+C0041368,C0003320,STIMULATES,Tumor Necrosis Factors,Antigens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0041368,C0599796,STIMULATES,Tumor Necrosis Factors,mhc antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042210,C0001551,STIMULATES,Vaccines,Immunologic Adjuvants,aapp,imft,4,STIMULATES_AAPPstimIMFT
+C0042210,C0003316,STIMULATES,Vaccines,Epitopes,aapp,imft,5,STIMULATES_AAPPstimIMFT
+C0042210,C0003320,STIMULATES,Vaccines,Antigens,aapp,imft,17,STIMULATES_AAPPstimIMFT
+C0042210,C0003333,STIMULATES,Vaccines,"Antigens, Heterophile",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042210,C0021403,STIMULATES,Vaccines,Influenza virus vaccine,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042210,C0022144,STIMULATES,Vaccines,Isoantibodies,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0042210,C0032375,STIMULATES,Vaccines,Oral Poliovirus Vaccine,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042210,C0037355,STIMULATES,Vaccines,smallpox vaccine,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042210,C0042211,STIMULATES,Vaccines,"Vaccines, Attenuated",aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0042210,C0042212,STIMULATES,Vaccines,"Vaccines, Inactivated",aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0042210,C0042742,STIMULATES,Vaccines,Viral Vaccines,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042210,C0282580,STIMULATES,Vaccines,"Epitopes, T-Lymphocyte",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042210,C0376613,STIMULATES,Vaccines,"Vaccines, DNA",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042210,C0456981,STIMULATES,Vaccines,Specific antigen,aapp,imft,3,STIMULATES_AAPPstimIMFT
+C0042210,C0599597,STIMULATES,Vaccines,genetic vaccine,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0042210,C1291802,STIMULATES,Vaccines,Human immunodeficiency virus 1 glycoprotein 120 antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042210,C1305958,STIMULATES,Vaccines,Agglutinating antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042210,C1320124,STIMULATES,Vaccines,Plasmodium antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042210,C2825347,STIMULATES,Vaccines,"immunoglobulin A, human",aapp,imft,10,STIMULATES_AAPPstimIMFT
+C0042210,C2986386,STIMULATES,Vaccines,Virus-neutralizing Antibody,aapp,imft,12,STIMULATES_AAPPstimIMFT
+C0042731,C0042211,STIMULATES,Viral Matrix Proteins,"Vaccines, Attenuated",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042736,C0001551,STIMULATES,Viral Proteins,Immunologic Adjuvants,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042736,C0887892,STIMULATES,Viral Proteins,"Vaccines, Subunit",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0042736,C4505399,STIMULATES,Viral Proteins,Universal Flu Vaccines,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0051979,C0003316,STIMULATES,anti-IgG,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0052908,C1883036,STIMULATES,bacteriophage T7 RNA polymerase,Single-Chain Antibodies,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0054015,C0022144,STIMULATES,nesiritide,Isoantibodies,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0054871,C0003320,STIMULATES,Cathepsin L,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0060623,C0002092,STIMULATES,Follistatin,Allergens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0062529,C0019168,STIMULATES,hepatitis B virus X protein,Hepatitis B Surface Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0063355,C0003316,STIMULATES,IgY,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0063355,C0003320,STIMULATES,IgY,Antigens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0065827,C0003316,STIMULATES,Measles Virus Nucleoprotein,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0069428,C0003316,STIMULATES,Oligodendrocyte-Myelin Glycoprotein,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0070410,C0003320,STIMULATES,perforin,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0072074,C0368675,STIMULATES,Profilins,antibody antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0072978,C0003342,STIMULATES,RANTES,"Antigens, Viral",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0079189,C0002131,STIMULATES,cytokine,Alloantigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0079189,C0003316,STIMULATES,cytokine,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0079189,C0003320,STIMULATES,cytokine,Antigens,aapp,imft,14,STIMULATES_AAPPstimIMFT
+C0079189,C0003342,STIMULATES,cytokine,"Antigens, Viral",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0079189,C0085355,STIMULATES,cytokine,Human Platelet Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0079189,C0456981,STIMULATES,cytokine,Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0079189,C0521390,STIMULATES,cytokine,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0079189,C0599796,STIMULATES,cytokine,mhc antigen,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0079189,C0887892,STIMULATES,cytokine,"Vaccines, Subunit",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0079460,C0026484,STIMULATES,Granulocyte-Macrophage Colony-Stimulating Factor,Monokines,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0079633,C0301975,STIMULATES,interleukin-8,Plasma kinin,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0080093,C0521390,STIMULATES,N-Methyl-D-Aspartate Receptors,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0083735,C0521390,STIMULATES,neurotrophin 3,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0085295,C0003320,STIMULATES,interleukin-10,Antigens,aapp,imft,3,STIMULATES_AAPPstimIMFT
+C0085295,C0456981,STIMULATES,interleukin-10,Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0085295,C2825347,STIMULATES,interleukin-10,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0086376,C2986386,STIMULATES,GTP-Binding Proteins,Virus-neutralizing Antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0100748,C0002092,STIMULATES,activin A,Allergens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0108801,C2986386,STIMULATES,"TFRC protein, human",Virus-neutralizing Antibody,aapp,imft,4,STIMULATES_AAPPstimIMFT
+C0111208,C0003320,STIMULATES,cytotoxic T-lymphocyte antigen 4,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0123515,C0456981,STIMULATES,indolicidin,Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0123759,C0001551,STIMULATES,interleukin-12,Immunologic Adjuvants,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0123759,C0003320,STIMULATES,interleukin-12,Antigens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0123759,C0456981,STIMULATES,interleukin-12,Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0128897,C0003320,STIMULATES,Monocyte Chemoattractant Protein-1,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0142251,C0003316,STIMULATES,Sialic Acid Binding Ig-like Lectin 1,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0164786,C1440514,STIMULATES,Proto-Oncogene Proteins c-akt,Coxsackievirus B3,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0165519,C0021054,STIMULATES,Matrix Metalloproteinase 9,Immunologic Factors,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0169964,C2825347,STIMULATES,somatropin,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0172004,C2825347,STIMULATES,"gp53, bovine viral diarrhea virus","immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0178774,C0003316,STIMULATES,Nucleocapsid,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0206256,C1440537,STIMULATES,"Genes, Immediate-Early",Cytomegalovirus early,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0208355,C0003316,STIMULATES,multicatalytic endopeptidase complex,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0214743,C0002092,STIMULATES,Interleukin-13,Allergens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0214743,C0003320,STIMULATES,Interleukin-13,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0215469,C0003342,STIMULATES,"CXCL9 protein, human","Antigens, Viral",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0243040,C2825347,STIMULATES,"Adhesins, Bacterial","immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0243041,C0003316,STIMULATES,Molecular Chaperones,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0243043,C0001551,STIMULATES,Heat-Shock Proteins 70,Immunologic Adjuvants,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0243043,C0456981,STIMULATES,Heat-Shock Proteins 70,Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0243044,C0003316,STIMULATES,HSP90 Heat-Shock Proteins,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0252902,C0521390,STIMULATES,"PKN1 protein, human",neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0282554,C0003320,STIMULATES,chemokine,Antigens,aapp,imft,4,STIMULATES_AAPPstimIMFT
+C0282554,C0005525,STIMULATES,chemokine,Biological Response Modifiers,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0282554,C0521390,STIMULATES,chemokine,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0282554,C2825347,STIMULATES,chemokine,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0282682,C0003316,STIMULATES,"Antibodies, Blocking",Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0282682,C0003320,STIMULATES,"Antibodies, Blocking",Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0290378,C0001551,STIMULATES,"ADAM11 protein, human",Immunologic Adjuvants,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0301512,C0003316,STIMULATES,Vaccinia virus vaccine,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0312586,C0069180,STIMULATES,Polyclonal antibody,O Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0358321,C0456981,STIMULATES,Immune Globulin (Human),Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0359168,C0003320,STIMULATES,Mouse monoclonal antibody,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0369718,C0003320,STIMULATES,N not otherwise specified Antibody,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0385112,C2825347,STIMULATES,HLA-DR13 antigen,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0385463,C0521390,STIMULATES,leptin receptor,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0443640,C0003316,STIMULATES,Specific antibody,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0443640,C0003320,STIMULATES,Specific antibody,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0443640,C0018593,STIMULATES,Specific antibody,Haptens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0443640,C2825347,STIMULATES,Specific antibody,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0475463,C0001551,STIMULATES,"Antibodies, Neutralizing",Immunologic Adjuvants,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0475463,C0003316,STIMULATES,"Antibodies, Neutralizing",Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0475463,C0003320,STIMULATES,"Antibodies, Neutralizing",Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0475463,C0042211,STIMULATES,"Antibodies, Neutralizing","Vaccines, Attenuated",aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0475463,C0211671,STIMULATES,"Antibodies, Neutralizing",ALVAC vaccine,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0475463,C0887892,STIMULATES,"Antibodies, Neutralizing","Vaccines, Subunit",aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0475463,C2825347,STIMULATES,"Antibodies, Neutralizing","immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0524914,C0003320,STIMULATES,chemokine receptor,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0526870,C0003320,STIMULATES,"MBL2 protein, human",Antigens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0528480,C0003320,STIMULATES,Presenilin-2,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0537670,C0001551,STIMULATES,oprelvekin,Immunologic Adjuvants,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0582263,C2986386,STIMULATES,Structural protein,Virus-neutralizing Antibody,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0597357,C0003316,STIMULATES,receptor,Epitopes,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0597357,C2986386,STIMULATES,receptor,Virus-neutralizing Antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0597427,C0521390,STIMULATES,secretory protein,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0599220,C0003316,STIMULATES,Protein Subunits,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0599220,C2825347,STIMULATES,Protein Subunits,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0599220,C2986386,STIMULATES,Protein Subunits,Virus-neutralizing Antibody,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0599561,C2986386,STIMULATES,e protein,Virus-neutralizing Antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0700271,C2825347,STIMULATES,"M Protein, multiple myeloma","immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0700271,C2986386,STIMULATES,"M Protein, multiple myeloma",Virus-neutralizing Antibody,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0757844,C2825347,STIMULATES,"TNFSF13 protein, human","immunoglobulin A, human",aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0812309,C2825347,STIMULATES,LTB gene,"immunoglobulin A, human",aapp,imft,2,STIMULATES_AAPPstimIMFT
+C0913092,C0003316,STIMULATES,DC-specific ICAM-3 grabbing nonintegrin,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0913092,C0003320,STIMULATES,DC-specific ICAM-3 grabbing nonintegrin,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0913092,C0018911,STIMULATES,DC-specific ICAM-3 grabbing nonintegrin,"Hemagglutinins, Viral",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0913641,C0003320,STIMULATES,"ITGAD protein, human",Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C0950373,C0002092,STIMULATES,Eosinophil cationic protein,Allergens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1136240,C1440514,STIMULATES,"Ribosomal Protein S6 Kinases, 70-kDa",Coxsackievirus B3,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1141628,C0003316,STIMULATES,CD103,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1305923,C0003316,STIMULATES,Polypeptides,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1310510,C0521390,STIMULATES,"POU3F2 protein, human",neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1332821,C0026484,STIMULATES,CXCL9 gene,Monokines,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1332823,C1440710,STIMULATES,CXCR4 gene,HIV 1 gp41,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1332838,C0376613,STIMULATES,Candidate Disease Gene,"Vaccines, DNA",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1333877,C0004359,STIMULATES,Granzymes,Autoantigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1334335,C0003320,STIMULATES,LGALS3BP gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1334981,C1545500,STIMULATES,Non-Human Gene,Influenza virus A hemagglutinin,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1335057,C0312559,STIMULATES,"PTPN22 protein, human",Thymus-dependent antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1335267,C0103647,STIMULATES,PRTN3 gene,Antineutrophil Cytoplasmic Antibodies,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1335439,C1440514,STIMULATES,Polymerase,Coxsackievirus B3,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C1335439,C1883036,STIMULATES,Polymerase,Single-Chain Antibodies,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1336636,C2825347,STIMULATES,TLR4 gene,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1336763,C2825347,STIMULATES,Toll-Like Receptor Family Gene,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1366572,C0521390,STIMULATES,CXCL13 gene,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1366763,C0003320,STIMULATES,ELF3 gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1367477,C0003320,STIMULATES,CD14 gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1413191,C0003320,STIMULATES,CCR7 gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1413772,C0003320,STIMULATES,CST3 gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1414141,C0369342,STIMULATES,DPP4 gene,Simplexvirus antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1414409,C0456981,STIMULATES,ENPP3 gene,Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1415189,C0003320,STIMULATES,GP5 gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1415888,C2825347,STIMULATES,IFI30 gene,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1416161,C0003320,STIMULATES,JCHAIN gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1416467,C0003320,STIMULATES,FOXP3 gene,Antigens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C1417530,C1440514,STIMULATES,MYD88 gene,Coxsackievirus B3,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1417530,C2825347,STIMULATES,MYD88 gene,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1418224,C0003320,STIMULATES,P4HB gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1418401,C0003320,STIMULATES,PDCD1 gene,Antigens,aapp,imft,3,STIMULATES_AAPPstimIMFT
+C1418569,C2825347,STIMULATES,PIGR gene,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1419089,C0770694,STIMULATES,PTP4A2 gene,trivalent influenza vaccine,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1419206,C0521390,STIMULATES,RAB3A gene,neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1420002,C0003320,STIMULATES,SFTPA1 gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1420002,C2825347,STIMULATES,SFTPA1 gene,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1420176,C0003320,STIMULATES,SLC2A5 gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1420192,C0003316,STIMULATES,SLC3A2 gene,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1420816,C2825347,STIMULATES,TNFSF13B gene,"immunoglobulin A, human",aapp,imft,2,STIMULATES_AAPPstimIMFT
+C1422019,C0003320,STIMULATES,WDR7 gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1422036,C2986386,STIMULATES,ERVW-1 gene,Virus-neutralizing Antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1423842,C0003320,STIMULATES,NELFCD gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1423842,C2825347,STIMULATES,NELFCD gene,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1425189,C0001551,STIMULATES,CD207 gene,Immunologic Adjuvants,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1425473,C0021054,STIMULATES,IFNL1 gene,Immunologic Factors,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1447020,C0002131,STIMULATES,"DPP4 protein, human",Alloantigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1448177,C0003320,STIMULATES,"TNF protein, human",Antigens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C1456447,C0003320,STIMULATES,"SLC6A2 protein, human",Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1512511,C0003316,STIMULATES,Human Papilloma Virus Vaccine,Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1517488,C0005525,STIMULATES,Gene Family,Biological Response Modifiers,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1522002,C0001551,STIMULATES,RNA Recognition Motif,Immunologic Adjuvants,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1522002,C2986386,STIMULATES,RNA Recognition Motif,Virus-neutralizing Antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1522537,C0599796,STIMULATES,Recombinant Interferon,mhc antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1539221,C0003320,STIMULATES,DCLK3 gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1539479,C0003320,STIMULATES,FATE1 gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1539835,C0376613,STIMULATES,SPEN gene,"Vaccines, DNA",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1539835,C2825347,STIMULATES,SPEN gene,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1624602,C0003320,STIMULATES,Anti-Antibodies,Antigens,aapp,imft,3,STIMULATES_AAPPstimIMFT
+C1624602,C2986386,STIMULATES,Anti-Antibodies,Virus-neutralizing Antibody,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1664181,C0599796,STIMULATES,"LTB protein, human",mhc antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1679839,C0003320,STIMULATES,"PRDM1 protein, human",Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1701032,C0003320,STIMULATES,"ITGAM protein, human",Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1701790,C1441165,STIMULATES,"IL17A protein, human",S-100,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C1702088,C2825347,STIMULATES,"IL5 protein, human","immunoglobulin A, human",aapp,imft,2,STIMULATES_AAPPstimIMFT
+C1705599,C0521390,STIMULATES,MMP3 wt Allele,neuronal,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C1706005,C0003320,STIMULATES,CD40LG wt Allele,Antigens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C1706005,C0003321,STIMULATES,CD40LG wt Allele,"Antigens, Bacterial",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1706289,C0003320,STIMULATES,Interleukin-27,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1706821,C0003320,STIMULATES,Antigen Gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1708010,C0001551,STIMULATES,FES wt Allele,Immunologic Adjuvants,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C1708421,C0003320,STIMULATES,IL12RB2 wt Allele,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1823491,C0021403,STIMULATES,TRIM69 gene,Influenza virus vaccine,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1824180,C0003320,STIMULATES,C5AR1 gene,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1825598,C0003320,STIMULATES,IMPACT gene,Antigens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C1825598,C2825347,STIMULATES,IMPACT gene,"immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1825598,C4734224,STIMULATES,IMPACT gene,baloxavir,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C1883559,C3530029,STIMULATES,Wild Type,advax,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C2350701,C0003320,STIMULATES,Macrophage Inflammatory Protein-1,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C2744535,C0003320,STIMULATES,"CD69 protein, human",Antigens,aapp,imft,2,STIMULATES_AAPPstimIMFT
+C2986635,C0003320,STIMULATES,Programmed Cell Death Protein 1,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C3494454,C0003320,STIMULATES,Sialic Acid Binding Immunoglobulin-like Lectins,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C3539705,C0456981,STIMULATES,MS4A2 wt Allele,Specific antigen,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C3540595,C0003320,STIMULATES,CD8A wt Allele,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C3711684,C2825347,STIMULATES,"S protein, severe acute respiratory syndrome coronavirus","immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C3814443,C0002092,STIMULATES,DUSP5 wt Allele,Allergens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C3889161,C0003320,STIMULATES,LTBR wt Allele,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4048280,C0003316,STIMULATES,"T-Cell Surface Glycoprotein CD4, human",Epitopes,aapp,imft,17,STIMULATES_AAPPstimIMFT
+C4048280,C0003320,STIMULATES,"T-Cell Surface Glycoprotein CD4, human",Antigens,aapp,imft,5,STIMULATES_AAPPstimIMFT
+C4048280,C1440710,STIMULATES,"T-Cell Surface Glycoprotein CD4, human",HIV 1 gp41,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4048302,C0003320,STIMULATES,"T-Lymphocyte Activation Antigen CD80, human",Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4082165,C0521390,STIMULATES,"Oxytocin, human",neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4082333,C0521390,STIMULATES,"Proto-Oncogene c-Fos, human",neuronal,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4281805,C0003320,STIMULATES,"T-Cell-Specific Surface Glycoprotein CD28, human",Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4281807,C0003320,STIMULATES,"Vitronectin, human",Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4281807,C0282580,STIMULATES,"Vitronectin, human","Epitopes, T-Lymphocyte",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4281807,C0282681,STIMULATES,"Vitronectin, human",Enhancing Antibodies,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4281807,C0599934,STIMULATES,"Vitronectin, human","Vaccines, Peptide",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4281807,C0887892,STIMULATES,"Vitronectin, human","Vaccines, Subunit",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4281807,C2825347,STIMULATES,"Vitronectin, human","immunoglobulin A, human",aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4281807,C2986386,STIMULATES,"Vitronectin, human",Virus-neutralizing Antibody,aapp,imft,9,STIMULATES_AAPPstimIMFT
+C4721543,C0003316,STIMULATES,"HLA Class I Histocompatibility Antigen, A-2 Alpha Chain, human",Epitopes,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4723666,C0003320,STIMULATES,SPATA2 wt Allele,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C4723885,C0019168,STIMULATES,DDX41 wt Allele,Hepatitis B Surface Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT
+C5197773,C0003320,STIMULATES,Broadly Neutralizing Antibodies,Antigens,aapp,imft,1,STIMULATES_AAPPstimIMFT

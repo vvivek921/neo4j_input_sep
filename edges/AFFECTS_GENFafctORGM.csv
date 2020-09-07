@@ -1,0 +1,29 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0017262,C0445623,AFFECTS,Gene Expression,Microorganism,genf,orgm,1,AFFECTS_GENFafctORGM
+C0017262,C1956108,AFFECTS,Gene Expression,Microbiome,genf,orgm,1,AFFECTS_GENFafctORGM
+C0017393,C0450254,AFFECTS,Genetic Markers,Pathogenic organism,genf,orgm,1,AFFECTS_GENFafctORGM
+C0020202,C0450254,AFFECTS,Crossbreeding,Pathogenic organism,genf,orgm,1,AFFECTS_GENFafctORGM
+C0026882,C0445623,AFFECTS,Mutation,Microorganism,genf,orgm,4,AFFECTS_GENFafctORGM
+C0026882,C0450254,AFFECTS,Mutation,Pathogenic organism,genf,orgm,3,AFFECTS_GENFafctORGM
+C0026882,C1167395,AFFECTS,Mutation,Host (organism),genf,orgm,2,AFFECTS_GENFafctORGM
+C0032529,C0445623,AFFECTS,Genetic Polymorphism,Microorganism,genf,orgm,1,AFFECTS_GENFafctORGM
+C0032529,C0450254,AFFECTS,Genetic Polymorphism,Pathogenic organism,genf,orgm,1,AFFECTS_GENFafctORGM
+C0034865,C0450254,AFFECTS,"Recombination, Genetic",Pathogenic organism,genf,orgm,2,AFFECTS_GENFafctORGM
+C0034865,C1167395,AFFECTS,"Recombination, Genetic",Host (organism),genf,orgm,2,AFFECTS_GENFafctORGM
+C0040649,C0445623,AFFECTS,"Transcription, Genetic",Microorganism,genf,orgm,1,AFFECTS_GENFafctORGM
+C0079870,C1167395,AFFECTS,"Mutagenesis, Site-Directed",Host (organism),genf,orgm,1,AFFECTS_GENFafctORGM
+C0162493,C0450254,AFFECTS,Transcriptional Activation,Pathogenic organism,genf,orgm,2,AFFECTS_GENFafctORGM
+C0162782,C1167395,AFFECTS,RNA Editing,Host (organism),genf,orgm,1,AFFECTS_GENFafctORGM
+C0314627,C1167395,AFFECTS,Gene function,Host (organism),genf,orgm,1,AFFECTS_GENFafctORGM
+C0598312,C0450254,AFFECTS,DNA Replication,Pathogenic organism,genf,orgm,1,AFFECTS_GENFafctORGM
+C0678713,C0450254,AFFECTS,DNA template,Pathogenic organism,genf,orgm,1,AFFECTS_GENFafctORGM
+C0678939,C0445623,AFFECTS,spontaneous mutation,Microorganism,genf,orgm,1,AFFECTS_GENFafctORGM
+C0887912,C0686817,AFFECTS,"Gene Transfer, Horizontal",Prokaryote,genf,orgm,1,AFFECTS_GENFafctORGM
+C0917892,C1512692,AFFECTS,Genetic Drift,Inbred Strain,genf,orgm,1,AFFECTS_GENFafctORGM
+C1136031,C0450254,AFFECTS,RNA Interference,Pathogenic organism,genf,orgm,3,AFFECTS_GENFafctORGM
+C1158729,C0450254,AFFECTS,mRNA maturation,Pathogenic organism,genf,orgm,1,AFFECTS_GENFafctORGM
+C1257758,C0686817,AFFECTS,mRNA Decay,Prokaryote,genf,orgm,1,AFFECTS_GENFafctORGM
+C1519613,C0038027,AFFECTS,Translation Initiation,Reproduction spores,genf,orgm,1,AFFECTS_GENFafctORGM
+C4551805,C0445623,AFFECTS,Polygenic Traits,Microorganism,genf,orgm,1,AFFECTS_GENFafctORGM
+C4551805,C0450254,AFFECTS,Polygenic Traits,Pathogenic organism,genf,orgm,1,AFFECTS_GENFafctORGM
+C5197799,C1167395,AFFECTS,Codon Bias,Host (organism),genf,orgm,1,AFFECTS_GENFafctORGM

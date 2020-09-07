@@ -1,0 +1,69 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001122,C0064582,PRODUCES,Acidosis,lactic acid,patf,bacs,1,PRODUCES_PATFprodBACS
+C0001122,C0162772,PRODUCES,Acidosis,Reactive Oxygen Species,patf,bacs,1,PRODUCES_PATFprodBACS
+C0001511,C0017973,PRODUCES,Tissue Adhesions,Glycosaminoglycans,patf,bacs,1,PRODUCES_PATFprodBACS
+C0001511,C0040549,PRODUCES,Tissue Adhesions,Toxin,patf,bacs,1,PRODUCES_PATFprodBACS
+C0001511,C0162772,PRODUCES,Tissue Adhesions,Reactive Oxygen Species,patf,bacs,1,PRODUCES_PATFprodBACS
+C0003130,C0162772,PRODUCES,Anoxia,Reactive Oxygen Species,patf,bacs,3,PRODUCES_PATFprodBACS
+C0004144,C0162772,PRODUCES,Atelectasis,Reactive Oxygen Species,patf,bacs,1,PRODUCES_PATFprodBACS
+C0011304,C0016693,PRODUCES,Demyelination,Free Radicals,patf,bacs,1,PRODUCES_PATFprodBACS
+C0013604,C0034085,PRODUCES,Edema,Pulmonary Surfactants,patf,bacs,1,PRODUCES_PATFprodBACS
+C0013604,C1099354,PRODUCES,Edema,"RNA, Small Interfering",patf,bacs,1,PRODUCES_PATFprodBACS
+C0015376,C0162772,PRODUCES,Extravasation,Reactive Oxygen Species,patf,bacs,1,PRODUCES_PATFprodBACS
+C0015376,C0302583,PRODUCES,Extravasation,iron,patf,bacs,1,PRODUCES_PATFprodBACS
+C0016059,C0034085,PRODUCES,Fibrosis,Pulmonary Surfactants,patf,bacs,1,PRODUCES_PATFprodBACS
+C0016059,C0162772,PRODUCES,Fibrosis,Reactive Oxygen Species,patf,bacs,2,PRODUCES_PATFprodBACS
+C0019080,C0040549,PRODUCES,Hemorrhage,Toxin,patf,bacs,1,PRODUCES_PATFprodBACS
+C0020517,C0000702,PRODUCES,Hypersensitivity,"DNA, A-Form",patf,bacs,2,PRODUCES_PATFprodBACS
+C0020517,C0019588,PRODUCES,Hypersensitivity,histamine,patf,bacs,1,PRODUCES_PATFprodBACS
+C0020517,C0023545,PRODUCES,Hypersensitivity,Leukotrienes,patf,bacs,1,PRODUCES_PATFprodBACS
+C0020517,C0028606,PRODUCES,Hypersensitivity,Nucleic Acids,patf,bacs,2,PRODUCES_PATFprodBACS
+C0021368,C0007412,PRODUCES,Inflammation,Catecholamines,patf,bacs,1,PRODUCES_PATFprodBACS
+C0021368,C0008013,PRODUCES,Inflammation,Chemotactic Factors,patf,bacs,1,PRODUCES_PATFprodBACS
+C0021368,C0016693,PRODUCES,Inflammation,Free Radicals,patf,bacs,1,PRODUCES_PATFprodBACS
+C0021368,C0023546,PRODUCES,Inflammation,Leukotriene B4,patf,bacs,1,PRODUCES_PATFprodBACS
+C0021368,C0033567,PRODUCES,Inflammation,epoprostenol,patf,bacs,1,PRODUCES_PATFprodBACS
+C0021368,C0034085,PRODUCES,Inflammation,Pulmonary Surfactants,patf,bacs,1,PRODUCES_PATFprodBACS
+C0021368,C0040549,PRODUCES,Inflammation,Toxin,patf,bacs,2,PRODUCES_PATFprodBACS
+C0021368,C0162772,PRODUCES,Inflammation,Reactive Oxygen Species,patf,bacs,2,PRODUCES_PATFprodBACS
+C0021368,C0599689,PRODUCES,Inflammation,Lipoxins,patf,bacs,1,PRODUCES_PATFprodBACS
+C0021368,C0599745,PRODUCES,Inflammation,lipid mediator,patf,bacs,2,PRODUCES_PATFprodBACS
+C0021376,C0031676,PRODUCES,Chronic inflammation,phospholipids,patf,bacs,1,PRODUCES_PATFprodBACS
+C0021376,C0162772,PRODUCES,Chronic inflammation,Reactive Oxygen Species,patf,bacs,1,PRODUCES_PATFprodBACS
+C0021655,C0017725,PRODUCES,Insulin Resistance,glucose,patf,bacs,1,PRODUCES_PATFprodBACS
+C0022116,C0002976,PRODUCES,Ischemia,Angiogenesis Factor,patf,bacs,1,PRODUCES_PATFprodBACS
+C0024348,C0012854,PRODUCES,Lysis,DNA,patf,bacs,3,PRODUCES_PATFprodBACS
+C0024348,C0028606,PRODUCES,Lysis,Nucleic Acids,patf,bacs,5,PRODUCES_PATFprodBACS
+C0024348,C0032136,PRODUCES,Lysis,Plasmids,patf,bacs,1,PRODUCES_PATFprodBACS
+C0028778,C0016693,PRODUCES,Obstruction,Free Radicals,patf,bacs,1,PRODUCES_PATFprodBACS
+C0028778,C0031676,PRODUCES,Obstruction,phospholipids,patf,bacs,1,PRODUCES_PATFprodBACS
+C0028778,C0064582,PRODUCES,Obstruction,lactic acid,patf,bacs,1,PRODUCES_PATFprodBACS
+C0036679,C0012854,PRODUCES,Diastasis,DNA,patf,bacs,1,PRODUCES_PATFprodBACS
+C0036679,C0017725,PRODUCES,Diastasis,glucose,patf,bacs,1,PRODUCES_PATFprodBACS
+C0036974,C0034085,PRODUCES,Shock,Pulmonary Surfactants,patf,bacs,1,PRODUCES_PATFprodBACS
+C0036974,C0040549,PRODUCES,Shock,Toxin,patf,bacs,1,PRODUCES_PATFprodBACS
+C0036983,C0136157,PRODUCES,Septic Shock,Peroxynitrite,patf,bacs,1,PRODUCES_PATFprodBACS
+C0040053,C0040549,PRODUCES,Thrombosis,Toxin,patf,bacs,1,PRODUCES_PATFprodBACS
+C0041582,C0016693,PRODUCES,Ulcer,Free Radicals,patf,bacs,1,PRODUCES_PATFprodBACS
+C0043241,C0040549,PRODUCES,Wound Infection,Toxin,patf,bacs,2,PRODUCES_PATFprodBACS
+C0220981,C0064582,PRODUCES,Metabolic acidosis,lactic acid,patf,bacs,1,PRODUCES_PATFprodBACS
+C0242184,C0162772,PRODUCES,Hypoxia,Reactive Oxygen Species,patf,bacs,3,PRODUCES_PATFprodBACS
+C0332448,C0016693,PRODUCES,Infiltration,Free Radicals,patf,bacs,1,PRODUCES_PATFprodBACS
+C0332448,C0040549,PRODUCES,Infiltration,Toxin,patf,bacs,1,PRODUCES_PATFprodBACS
+C0332448,C0162772,PRODUCES,Infiltration,Reactive Oxygen Species,patf,bacs,1,PRODUCES_PATFprodBACS
+C0334094,C0162772,PRODUCES,Proliferation (morphologic abnormality),Reactive Oxygen Species,patf,bacs,1,PRODUCES_PATFprodBACS
+C0342301,C0016693,PRODUCES,Acute hyperglycemia,Free Radicals,patf,bacs,1,PRODUCES_PATFprodBACS
+C0349506,C0074565,PRODUCES,Photosensitivity of skin,Singlet Oxygen,patf,bacs,1,PRODUCES_PATFprodBACS
+C0542571,C0032712,PRODUCES,Facial edema,Porphyrins,patf,bacs,1,PRODUCES_PATFprodBACS
+C0543419,C0008141,PRODUCES,Sequela of disorder,Chitin,patf,bacs,1,PRODUCES_PATFprodBACS
+C0543419,C0015691,PRODUCES,Sequela of disorder,"Fatty Acids, Volatile",patf,bacs,1,PRODUCES_PATFprodBACS
+C0549562,C0064582,PRODUCES,Oxygen Disorders,lactic acid,patf,bacs,1,PRODUCES_PATFprodBACS
+C0700080,C0033567,PRODUCES,Vascular proliferation,epoprostenol,patf,bacs,1,PRODUCES_PATFprodBACS
+C0920563,C0017725,PRODUCES,Insulin Sensitivity,glucose,patf,bacs,2,PRODUCES_PATFprodBACS
+C1096176,C0162772,PRODUCES,Mitochondrial Damage,Reactive Oxygen Species,patf,bacs,1,PRODUCES_PATFprodBACS
+C1155266,C0019588,PRODUCES,Inflammatory Response,histamine,patf,bacs,1,PRODUCES_PATFprodBACS
+C1155266,C0162772,PRODUCES,Inflammatory Response,Reactive Oxygen Species,patf,bacs,2,PRODUCES_PATFprodBACS
+C1155266,C0178645,PRODUCES,Inflammatory Response,oxygen free radical,patf,bacs,2,PRODUCES_PATFprodBACS
+C1265824,C0023545,PRODUCES,Persistent inflammation,Leukotrienes,patf,bacs,1,PRODUCES_PATFprodBACS
+C3714514,C0025196,PRODUCES,Infection,Melanins,patf,bacs,1,PRODUCES_PATFprodBACS
+C3714514,C0040549,PRODUCES,Infection,Toxin,patf,bacs,2,PRODUCES_PATFprodBACS

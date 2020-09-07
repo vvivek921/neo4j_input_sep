@@ -1,0 +1,105 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001041,C0242781,TREATS,acetylcholine,disease transmission,bacs,patf,1,TREATS_BACStrtsPATF
+C0001443,C0021368,TREATS,adenosine,Inflammation,bacs,patf,2,TREATS_BACStrtsPATF
+C0001443,C0034063,TREATS,adenosine,Pulmonary Edema,bacs,patf,1,TREATS_BACStrtsPATF
+C0005390,C0021368,TREATS,Bile Acids,Inflammation,bacs,patf,1,TREATS_BACStrtsPATF
+C0005390,C1155266,TREATS,Bile Acids,Inflammatory Response,bacs,patf,1,TREATS_BACStrtsPATF
+C0005496,C0877792,TREATS,Biogenic Amines,"Sleep Disorders, Circadian Rhythm",bacs,patf,1,TREATS_BACStrtsPATF
+C0006675,C0040053,TREATS,calcium,Thrombosis,bacs,patf,1,TREATS_BACStrtsPATF
+C0007412,C0036980,TREATS,Catecholamines,"Shock, Cardiogenic",bacs,patf,1,TREATS_BACStrtsPATF
+C0007412,C0036983,TREATS,Catecholamines,Septic Shock,bacs,patf,3,TREATS_BACStrtsPATF
+C0008377,C0022116,TREATS,cholesterol,Ischemia,bacs,patf,1,TREATS_BACStrtsPATF
+C0008377,C0030660,TREATS,cholesterol,Pathologic Processes,bacs,patf,1,TREATS_BACStrtsPATF
+C0008405,C3714514,TREATS,choline,Infection,bacs,patf,1,TREATS_BACStrtsPATF
+C0009235,C3714514,TREATS,Coenzymes,Infection,bacs,patf,2,TREATS_BACStrtsPATF
+C0009968,C0001511,TREATS,copper,Tissue Adhesions,bacs,patf,1,TREATS_BACStrtsPATF
+C0009968,C0041582,TREATS,copper,Ulcer,bacs,patf,1,TREATS_BACStrtsPATF
+C0009968,C0543419,TREATS,copper,Sequela of disorder,bacs,patf,1,TREATS_BACStrtsPATF
+C0012968,C1155266,TREATS,Docosahexaenoic Acids,Inflammatory Response,bacs,patf,1,TREATS_BACStrtsPATF
+C0013030,C0006110,TREATS,dopamine,Brain Death,bacs,patf,1,TREATS_BACStrtsPATF
+C0013030,C0013604,TREATS,dopamine,Edema,bacs,patf,1,TREATS_BACStrtsPATF
+C0013030,C0036974,TREATS,dopamine,Shock,bacs,patf,3,TREATS_BACStrtsPATF
+C0013030,C0036983,TREATS,dopamine,Septic Shock,bacs,patf,4,TREATS_BACStrtsPATF
+C0013982,C0021368,TREATS,Emodin,Inflammation,bacs,patf,1,TREATS_BACStrtsPATF
+C0013982,C0034063,TREATS,Emodin,Pulmonary Edema,bacs,patf,1,TREATS_BACStrtsPATF
+C0013982,C0332448,TREATS,Emodin,Infiltration,bacs,patf,1,TREATS_BACStrtsPATF
+C0013982,C2699153,TREATS,Emodin,Cell Invasion,bacs,patf,2,TREATS_BACStrtsPATF
+C0013982,C2937358,TREATS,Emodin,Cerebral Hemorrhage,bacs,patf,1,TREATS_BACStrtsPATF
+C0015689,C0021368,TREATS,omega-3 fatty acids,Inflammation,bacs,patf,2,TREATS_BACStrtsPATF
+C0015689,C1155266,TREATS,omega-3 fatty acids,Inflammatory Response,bacs,patf,1,TREATS_BACStrtsPATF
+C0015691,C0013990,TREATS,"Fatty Acids, Volatile",Pathological accumulation of air in tissues,bacs,patf,1,TREATS_BACStrtsPATF
+C0015691,C0021368,TREATS,"Fatty Acids, Volatile",Inflammation,bacs,patf,2,TREATS_BACStrtsPATF
+C0016693,C0020542,TREATS,Free Radicals,Pulmonary Hypertension,bacs,patf,1,TREATS_BACStrtsPATF
+C0016693,C1155266,TREATS,Free Radicals,Inflammatory Response,bacs,patf,1,TREATS_BACStrtsPATF
+C0016960,C0021368,TREATS,Galactosylceramides,Inflammation,bacs,patf,1,TREATS_BACStrtsPATF
+C0016960,C0332448,TREATS,Galactosylceramides,Infiltration,bacs,patf,1,TREATS_BACStrtsPATF
+C0017725,C0021368,TREATS,glucose,Inflammation,bacs,patf,1,TREATS_BACStrtsPATF
+C0017725,C0151526,TREATS,glucose,Premature Birth,bacs,patf,1,TREATS_BACStrtsPATF
+C0017725,C0220981,TREATS,glucose,Metabolic acidosis,bacs,patf,1,TREATS_BACStrtsPATF
+C0018966,C1155266,TREATS,Heme,Inflammatory Response,bacs,patf,1,TREATS_BACStrtsPATF
+C0019134,C0019080,TREATS,heparin,Hemorrhage,bacs,patf,2,TREATS_BACStrtsPATF
+C0019134,C0034065,TREATS,heparin,Pulmonary Embolism,bacs,patf,2,TREATS_BACStrtsPATF
+C0019134,C0036983,TREATS,heparin,Septic Shock,bacs,patf,1,TREATS_BACStrtsPATF
+C0019134,C0040053,TREATS,heparin,Thrombosis,bacs,patf,2,TREATS_BACStrtsPATF
+C0019134,C3714514,TREATS,heparin,Infection,bacs,patf,1,TREATS_BACStrtsPATF
+C0022631,C0021368,TREATS,Ketone Bodies,Inflammation,bacs,patf,1,TREATS_BACStrtsPATF
+C0022631,C0333641,TREATS,Ketone Bodies,Atrophic,bacs,patf,1,TREATS_BACStrtsPATF
+C0027183,C3714514,TREATS,"N,N-Dimethyltryptamine",Infection,bacs,patf,1,TREATS_BACStrtsPATF
+C0028215,C0242184,TREATS,nitrous oxide,Hypoxia,bacs,patf,1,TREATS_BACStrtsPATF
+C0030054,C0015930,TREATS,oxygen,Fetal Distress,bacs,patf,1,TREATS_BACStrtsPATF
+C0030054,C0019080,TREATS,oxygen,Hemorrhage,bacs,patf,1,TREATS_BACStrtsPATF
+C0030054,C0034088,TREATS,oxygen,Pulmonary Valve Insufficiency,bacs,patf,1,TREATS_BACStrtsPATF
+C0030054,C0151526,TREATS,oxygen,Premature Birth,bacs,patf,1,TREATS_BACStrtsPATF
+C0030054,C0242184,TREATS,oxygen,Hypoxia,bacs,patf,7,TREATS_BACStrtsPATF
+C0030054,C0270163,TREATS,oxygen,"Primary atelectasis, in perinatal period",bacs,patf,1,TREATS_BACStrtsPATF
+C0030054,C0600228,TREATS,oxygen,Cardiopulmonary Arrest,bacs,patf,1,TREATS_BACStrtsPATF
+C0030054,C3714514,TREATS,oxygen,Infection,bacs,patf,1,TREATS_BACStrtsPATF
+C0030744,C0001511,TREATS,Pectins,Tissue Adhesions,bacs,patf,1,TREATS_BACStrtsPATF
+C0031614,C1155266,TREATS,Phosphatidyl glycerol,Inflammatory Response,bacs,patf,1,TREATS_BACStrtsPATF
+C0032081,C3714514,TREATS,Plant Extracts,Infection,bacs,patf,1,TREATS_BACStrtsPATF
+C0033488,C0020517,TREATS,propolis,Hypersensitivity,bacs,patf,1,TREATS_BACStrtsPATF
+C0033488,C0920563,TREATS,propolis,Insulin Sensitivity,bacs,patf,1,TREATS_BACStrtsPATF
+C0033567,C0020542,TREATS,epoprostenol,Pulmonary Hypertension,bacs,patf,2,TREATS_BACStrtsPATF
+C0033567,C0029445,TREATS,epoprostenol,Bone necrosis,bacs,patf,1,TREATS_BACStrtsPATF
+C0033567,C0040053,TREATS,epoprostenol,Thrombosis,bacs,patf,1,TREATS_BACStrtsPATF
+C0033567,C0948162,TREATS,epoprostenol,Edema of bone marrow,bacs,patf,1,TREATS_BACStrtsPATF
+C0034085,C0004144,TREATS,Pulmonary Surfactants,Atelectasis,bacs,patf,3,TREATS_BACStrtsPATF
+C0034085,C0021368,TREATS,Pulmonary Surfactants,Inflammation,bacs,patf,2,TREATS_BACStrtsPATF
+C0034085,C0151526,TREATS,Pulmonary Surfactants,Premature Birth,bacs,patf,5,TREATS_BACStrtsPATF
+C0034085,C0151701,TREATS,Pulmonary Surfactants,Pulmonary hemorrhage,bacs,patf,1,TREATS_BACStrtsPATF
+C0034085,C0240059,TREATS,Pulmonary Surfactants,Ventricular hemorrhage,bacs,patf,1,TREATS_BACStrtsPATF
+C0034085,C0543419,TREATS,Pulmonary Surfactants,Sequela of disorder,bacs,patf,1,TREATS_BACStrtsPATF
+C0036581,C0032914,TREATS,selenium,Pre-Eclampsia,bacs,patf,1,TREATS_BACStrtsPATF
+C0036581,C0036983,TREATS,selenium,Septic Shock,bacs,patf,2,TREATS_BACStrtsPATF
+C0036733,C3714514,TREATS,Serine Proteinase Inhibitors,Infection,bacs,patf,1,TREATS_BACStrtsPATF
+C0038179,C0036983,TREATS,starch,Septic Shock,bacs,patf,1,TREATS_BACStrtsPATF
+C0038636,C0036679,TREATS,sucrose,Diastasis,bacs,patf,1,TREATS_BACStrtsPATF
+C0039561,C0013990,TREATS,Terpenes,Pathological accumulation of air in tissues,bacs,patf,1,TREATS_BACStrtsPATF
+C0039561,C2717792,TREATS,Terpenes,Airway Remodeling,bacs,patf,1,TREATS_BACStrtsPATF
+C0041536,C0036983,TREATS,ubidecarenone,Septic Shock,bacs,patf,1,TREATS_BACStrtsPATF
+C0041942,C0020517,TREATS,urea,Hypersensitivity,bacs,patf,1,TREATS_BACStrtsPATF
+C0043481,C0020517,TREATS,zinc,Hypersensitivity,bacs,patf,1,TREATS_BACStrtsPATF
+C0043481,C0036983,TREATS,zinc,Septic Shock,bacs,patf,1,TREATS_BACStrtsPATF
+C0060060,C3714514,TREATS,fangchinoline,Infection,bacs,patf,1,TREATS_BACStrtsPATF
+C0065335,C0034063,TREATS,lycorine,Pulmonary Edema,bacs,patf,2,TREATS_BACStrtsPATF
+C0065335,C0332448,TREATS,lycorine,Infiltration,bacs,patf,2,TREATS_BACStrtsPATF
+C0065335,C1155266,TREATS,lycorine,Inflammatory Response,bacs,patf,2,TREATS_BACStrtsPATF
+C0067762,C3714514,TREATS,N-Acetylneuraminic Acid,Infection,bacs,patf,1,TREATS_BACStrtsPATF
+C0287444,C0242184,TREATS,dendrophenol,Hypoxia,bacs,patf,1,TREATS_BACStrtsPATF
+C0301719,C1155266,TREATS,Indirect reacting bilirubin,Inflammatory Response,bacs,patf,1,TREATS_BACStrtsPATF
+C0302583,C3714514,TREATS,iron,Infection,bacs,patf,1,TREATS_BACStrtsPATF
+C0577749,C0021368,TREATS,Phytochemicals,Inflammation,bacs,patf,3,TREATS_BACStrtsPATF
+C0577749,C3714514,TREATS,Phytochemicals,Infection,bacs,patf,3,TREATS_BACStrtsPATF
+C0599689,C0021368,TREATS,Lipoxins,Inflammation,bacs,patf,4,TREATS_BACStrtsPATF
+C0907850,C0021368,TREATS,ciclesonide,Inflammation,bacs,patf,1,TREATS_BACStrtsPATF
+C0911380,C1155266,TREATS,hochu-ekki-to,Inflammatory Response,bacs,patf,1,TREATS_BACStrtsPATF
+C1136170,C0001511,TREATS,Virulence Factors,Tissue Adhesions,bacs,patf,1,TREATS_BACStrtsPATF
+C1136170,C0020517,TREATS,Virulence Factors,Hypersensitivity,bacs,patf,1,TREATS_BACStrtsPATF
+C1136170,C3714514,TREATS,Virulence Factors,Infection,bacs,patf,1,TREATS_BACStrtsPATF
+C1506352,C0020517,TREATS,silvestrol,Hypersensitivity,bacs,patf,1,TREATS_BACStrtsPATF
+C1506352,C0021368,TREATS,silvestrol,Inflammation,bacs,patf,1,TREATS_BACStrtsPATF
+C1506352,C3714514,TREATS,silvestrol,Infection,bacs,patf,1,TREATS_BACStrtsPATF
+C1567439,C1155266,TREATS,prim-O-glucosylcimifugin,Inflammatory Response,bacs,patf,1,TREATS_BACStrtsPATF
+C1567768,C0242184,TREATS,icaritin,Hypoxia,bacs,patf,1,TREATS_BACStrtsPATF
+C2933944,C0021368,TREATS,Xuebijing,Inflammation,bacs,patf,1,TREATS_BACStrtsPATF
+C2973758,C0041582,TREATS,GutGard,Ulcer,bacs,patf,1,TREATS_BACStrtsPATF

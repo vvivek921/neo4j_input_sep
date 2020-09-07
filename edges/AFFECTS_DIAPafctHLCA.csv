@@ -1,0 +1,157 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004339,C0031809,AFFECTS,Auscultation,Physical Examination,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0005558,C0150270,AFFECTS,Biopsy,Medication Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0005558,C0220825,AFFECTS,Biopsy,Evaluation,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0005558,C1516615,AFFECTS,Biopsy,Clinical Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0005558,C1522577,AFFECTS,Biopsy,follow-up,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0006290,C0220825,AFFECTS,Bronchoscopy,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0006290,C1516615,AFFECTS,Bronchoscopy,Clinical Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0006290,C1535528,AFFECTS,Bronchoscopy,Tracheal aspiration,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0006290,C4277744,AFFECTS,Bronchoscopy,Patient Comfort,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0009378,C0582103,AFFECTS,colonoscopy,Medical Examination,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0011906,C0017313,AFFECTS,Differential Diagnosis,patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0011906,C1261322,AFFECTS,Differential Diagnosis,Evaluation procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0011911,C0017313,AFFECTS,Laboratory Diagnosis,patient care,diap,hlca,6,AFFECTS_DIAPafctHLCA
+C0011911,C0184666,AFFECTS,Laboratory Diagnosis,Hospital admission,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0011923,C0031809,AFFECTS,Diagnostic Imaging,Physical Examination,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0013516,C0017313,AFFECTS,Echocardiography,patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0013516,C1516615,AFFECTS,Echocardiography,Clinical Management,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0013524,C1261322,AFFECTS,2D Echocardiography,Evaluation procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0014245,C0017313,AFFECTS,Endoscopy (procedure),patient care,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0024119,C0030685,AFFECTS,Pulmonary function tests,Patient Discharge,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0024119,C1261322,AFFECTS,Pulmonary function tests,Evaluation procedure,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0024129,C1261322,AFFECTS,Lung Volume Measurements,Evaluation procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0024485,C0220825,AFFECTS,Magnetic Resonance Imaging,Evaluation,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0024485,C1522577,AFFECTS,Magnetic Resonance Imaging,follow-up,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0024671,C4042889,AFFECTS,Mammography,Children's Health Insurance Program,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0026995,C0582103,AFFECTS,Myelography,Medical Examination,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0031150,C0805586,AFFECTS,Laparoscopy,Challenge,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0033903,C0220825,AFFECTS,Psychological Techniques,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0034575,C0017313,AFFECTS,"Radiography, Dental",patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0034606,C0017313,AFFECTS,Radionuclide Imaging,patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0034606,C0033333,AFFECTS,Radionuclide Imaging,Program Development,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0034606,C1261322,AFFECTS,Radionuclide Imaging,Evaluation procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0037981,C0009818,AFFECTS,Spirometry,Consultation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0039985,C0220825,AFFECTS,Plain chest X-ray,Evaluation,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0040398,C1261322,AFFECTS,"Tomography, Emission-Computed",Evaluation procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0040405,C0220825,AFFECTS,X-Ray Computed Tomography,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0040405,C0805586,AFFECTS,X-Ray Computed Tomography,Challenge,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0040405,C1261322,AFFECTS,X-Ray Computed Tomography,Evaluation procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0040405,C1522577,AFFECTS,X-Ray Computed Tomography,follow-up,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0041290,C0220825,AFFECTS,Tuberculin Test,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0041618,C0085557,AFFECTS,Ultrasonography,Infectious disease prevention / control,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0041618,C0220825,AFFECTS,Ultrasonography,Evaluation,diap,hlca,3,AFFECTS_DIAPafctHLCA
+C0041618,C0582103,AFFECTS,Ultrasonography,Medical Examination,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0041618,C0805586,AFFECTS,Ultrasonography,Challenge,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0041618,C1261322,AFFECTS,Ultrasonography,Evaluation procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0043299,C0220825,AFFECTS,Diagnostic radiologic examination,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0043299,C0587569,AFFECTS,Diagnostic radiologic examination,Physician service,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0043299,C1516615,AFFECTS,Diagnostic radiologic examination,Clinical Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0043299,C1522577,AFFECTS,Diagnostic radiologic examination,follow-up,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0043299,C3494318,AFFECTS,Diagnostic radiologic examination,Public Health Surveillance,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0079595,C0220825,AFFECTS,Imaging Techniques,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0085532,C0220825,AFFECTS,Coronary angiography,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0086143,C0017313,AFFECTS,Diagnostic tests,patient care,diap,hlca,5,AFFECTS_DIAPafctHLCA
+C0086143,C0019993,AFFECTS,Diagnostic tests,Hospitalization,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0086143,C0034927,AFFECTS,Diagnostic tests,Patient referral,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0086143,C0278329,AFFECTS,Diagnostic tests,Prescribed,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0086143,C1113679,AFFECTS,Diagnostic tests,patient safety,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0086143,C1522577,AFFECTS,Diagnostic tests,follow-up,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0086143,C4505100,AFFECTS,Diagnostic tests,Antibiotic Stewardship,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0087028,C0200345,AFFECTS,Step Test,Specimen Collection,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0189024,C0220825,AFFECTS,Endoscopy of nose,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0190979,C0086390,AFFECTS,Venous blood sampling,Medical Care Team,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0200189,C1301725,AFFECTS,Fundus photography,Documented,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0202823,C0220825,AFFECTS,Chest CT,Evaluation,diap,hlca,8,AFFECTS_DIAPafctHLCA
+C0202823,C1261322,AFFECTS,Chest CT,Evaluation procedure,diap,hlca,3,AFFECTS_DIAPafctHLCA
+C0202823,C1516615,AFFECTS,Chest CT,Clinical Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0202823,C1522577,AFFECTS,Chest CT,follow-up,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0203634,C0017313,AFFECTS,Nuclear medicine procedure,patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0206054,C1279986,AFFECTS,"Echocardiography, Transesophageal",Procedure on heart,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0206054,C1516615,AFFECTS,"Echocardiography, Transesophageal",Clinical Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0220908,C0017313,AFFECTS,Screening procedure,patient care,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0220908,C0018747,AFFECTS,Screening procedure,Health Services,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0220908,C0019993,AFFECTS,Screening procedure,Hospitalization,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0220908,C0085557,AFFECTS,Screening procedure,Infectious disease prevention / control,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0220908,C0184666,AFFECTS,Screening procedure,Hospital admission,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0220908,C0220825,AFFECTS,Screening procedure,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0220908,C0582103,AFFECTS,Screening procedure,Medical Examination,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0220908,C0871311,AFFECTS,Screening procedure,screening tests,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0220908,C1261322,AFFECTS,Screening procedure,Evaluation procedure,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0220908,C1516615,AFFECTS,Screening procedure,Clinical Management,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0220908,C1516879,AFFECTS,Screening procedure,Enrollment,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0220908,C1522577,AFFECTS,Screening procedure,follow-up,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0220908,C3242284,AFFECTS,Screening procedure,Population Health,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0220908,C4046039,AFFECTS,Screening procedure,Overtreatment,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0281477,C0220825,AFFECTS,Screening for malignant neoplasm of lung,Evaluation,diap,hlca,4,AFFECTS_DIAPafctHLCA
+C0282493,C0017313,AFFECTS,Surgical Endoscopy,patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0282675,C0011017,AFFECTS,Teleconsultation,"Day Care, Medical",diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0282675,C0600015,AFFECTS,Teleconsultation,Emotional support,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0332140,C0805586,AFFECTS,"Diagnosis, clinical",Challenge,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0332140,C1522577,AFFECTS,"Diagnosis, clinical",follow-up,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0376529,C1113679,AFFECTS,Capnography,patient safety,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0376529,C1441722,AFFECTS,Capnography,Rebreathing,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0396473,C0220825,AFFECTS,Bronchoscopic irrigation,Evaluation,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0430462,C1516615,AFFECTS,Transthoracic echocardiography,Clinical Management,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0431080,C1261322,AFFECTS,Diagnostic assessment,Evaluation procedure,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0444186,C0220825,AFFECTS,Smear test,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0455252,C0030677,AFFECTS,Collection of sputum (procedure),Patient Care Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0497093,C0220825,AFFECTS,Sensitivity test,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0497093,C1516615,AFFECTS,Sensitivity test,Clinical Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0549075,C4551696,AFFECTS,Assessment: Respiration,Prone positioning,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0576453,C0344351,AFFECTS,Biopsy of ileum,Gluten-Free Diet,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0596473,C0019993,AFFECTS,Early Diagnosis,Hospitalization,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0596473,C0035649,AFFECTS,Early Diagnosis,Risk Management,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0596473,C0085557,AFFECTS,Early Diagnosis,Infectious disease prevention / control,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0596473,C0278329,AFFECTS,Early Diagnosis,Prescribed,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0596473,C0344211,AFFECTS,Early Diagnosis,Supportive care,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0596473,C0545092,AFFECTS,Early Diagnosis,hospital visit,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0596473,C0805586,AFFECTS,Early Diagnosis,Challenge,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0596473,C1516615,AFFECTS,Early Diagnosis,Clinical Management,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0596473,C1522577,AFFECTS,Early Diagnosis,follow-up,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0597356,C0017313,AFFECTS,rapid diagnosis,patient care,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0597356,C0220825,AFFECTS,rapid diagnosis,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0597356,C4505099,AFFECTS,rapid diagnosis,Antimicrobial Stewardship,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0597356,C4505100,AFFECTS,rapid diagnosis,Antibiotic Stewardship,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0677490,C0010337,AFFECTS,Pulmonary angiogram,Care of intensive care unit patient,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0683454,C0200345,AFFECTS,internal-external locus of control scale,Specimen Collection,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0683454,C4505148,AFFECTS,internal-external locus of control scale,Vaccination Coverage,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0750430,C0017313,AFFECTS,Work-up,patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0750430,C0086965,AFFECTS,Work-up,Selection for Treatment,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0750430,C0199171,AFFECTS,Work-up,medical procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0750430,C0199182,AFFECTS,Work-up,History taking,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C0807679,C0587569,AFFECTS,Radiology studies,Physician service,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C0849974,C1522577,AFFECTS,Pulmonary Function Test/Forced Expiratory Volume 1,follow-up,diap,hlca,3,AFFECTS_DIAPafctHLCA
+C0920688,C4277744,AFFECTS,Cancer Diagnosis,Patient Comfort,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1134631,C0220825,AFFECTS,Annual Screening,Evaluation,diap,hlca,3,AFFECTS_DIAPafctHLCA
+C1306645,C0031809,AFFECTS,Plain x-ray,Physical Examination,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1512457,C0220825,AFFECTS,High Resolution Computed Tomography,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1513743,C0220825,AFFECTS,Multimodal Imaging,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1522706,C1516879,AFFECTS,magnetic resonance spectroscopic imaging,Enrollment,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1537028,C0017313,AFFECTS,Molecular Imaging,patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1623258,C0019993,AFFECTS,Electrocardiography,Hospitalization,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1699633,C0220825,AFFECTS,PET/CT scan,Evaluation,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1699633,C1261322,AFFECTS,PET/CT scan,Evaluation procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1881134,C1261322,AFFECTS,Image Study,Evaluation procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1963529,C1261322,AFFECTS,Neck X-ray,Evaluation procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1964257,C0030685,AFFECTS,Observation - diagnostic procedure,Patient Discharge,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1964257,C0150270,AFFECTS,Observation - diagnostic procedure,Medication Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1964257,C0220825,AFFECTS,Observation - diagnostic procedure,Evaluation,diap,hlca,3,AFFECTS_DIAPafctHLCA
+C1964257,C0805586,AFFECTS,Observation - diagnostic procedure,Challenge,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1964257,C1113679,AFFECTS,Observation - diagnostic procedure,patient safety,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C1964257,C1261322,AFFECTS,Observation - diagnostic procedure,Evaluation procedure,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C1964257,C1318493,AFFECTS,Observation - diagnostic procedure,Inflation procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C2985535,C0040757,AFFECTS,Radiologic Examination,Transportation of Patients,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C3179130,C1261322,AFFECTS,Multidetector Computed Tomography,Evaluation procedure,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C3179130,C1516615,AFFECTS,Multidetector Computed Tomography,Clinical Management,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C3272310,C0582103,AFFECTS,Cardiac Computerized Tomographic Angiography,Medical Examination,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C3494253,C1516879,AFFECTS,Narrow Band Imaging,Enrollment,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C3842377,C1261322,AFFECTS,Chest radiograph,Evaluation procedure,diap,hlca,2,AFFECTS_DIAPafctHLCA
+C4042877,C0017313,AFFECTS,Clinical Decision-Making,patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C4042877,C0033080,AFFECTS,Clinical Decision-Making,Prescription procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C4049798,C0545084,AFFECTS,Total Respiratory System Resistance,Outpatient visits,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C4085351,C1261322,AFFECTS,Tubingen electric campimetry,Evaluation procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C4525830,C0017313,AFFECTS,Elastance,patient care,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C4528280,C0747306,AFFECTS,New Target Lesion Identification,patient profile,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C4721829,C1269815,AFFECTS,Radiographic Examination,Patient identification,diap,hlca,1,AFFECTS_DIAPafctHLCA
+C4745335,C0199171,AFFECTS,Initial Diagnosis,medical procedure,diap,hlca,1,AFFECTS_DIAPafctHLCA

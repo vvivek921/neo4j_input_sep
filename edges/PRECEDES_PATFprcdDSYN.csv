@@ -1,0 +1,281 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000786,C0026269,PRECEDES,Spontaneous abortion,Mitral Valve Stenosis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0001122,C0022660,PRECEDES,Acidosis,"Kidney Failure, Acute",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0002994,C0034150,PRECEDES,Angioedema,Purpura,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0003132,C0038220,PRECEDES,Anoxic Encephalopathy,Status Epilepticus,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0004144,C0014599,PRECEDES,Atelectasis,Epithelial hyperplasia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0004144,C0025062,PRECEDES,Atelectasis,Mediastinal Emphysema,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0004372,C1096155,PRECEDES,Autolysis,Macrophage Activation Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0004372,C1096189,PRECEDES,Autolysis,Type II hypersensitivity,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0006110,C0038454,PRECEDES,Brain Death,Cerebrovascular accident,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0006110,C0796085,PRECEDES,Brain Death,Nance-Horan syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0006110,C0948268,PRECEDES,Brain Death,Hemodynamic instability,patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C0006110,C5203670,PRECEDES,Brain Death,COVID-19,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0007642,C0017658,PRECEDES,Cellulitis,Glomerulonephritis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0007642,C0023281,PRECEDES,Cellulitis,Leishmaniasis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0007642,C0031350,PRECEDES,Cellulitis,Pharyngitis,patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C0010037,C0020641,PRECEDES,Corneal edema,Hypopyon,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0010037,C0155088,PRECEDES,Corneal edema,Interstitial keratitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0010828,C0002871,PRECEDES,Cytopenia,Anemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0011304,C0004364,PRECEDES,Demyelination,Autoimmune Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0011304,C0014038,PRECEDES,Demyelination,Encephalitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0011304,C0018378,PRECEDES,Demyelination,Guillain-Barre Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0012359,C0021845,PRECEDES,Pathological Dilatation,Intestinal Perforation,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0013418,C0034215,PRECEDES,Dystocia,Pyometra,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0013418,C0036310,PRECEDES,Dystocia,Scheuermann's Disease,patf,dsyn,3,PRECEDES_PATFprcdDSYN
+C0013418,C0232058,PRECEDES,Dystocia,Apnea in the newborn,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0013604,C0005743,PRECEDES,Edema,Blepharoconjunctivitis,patf,dsyn,3,PRECEDES_PATFprcdDSYN
+C0013604,C0014599,PRECEDES,Edema,Epithelial hyperplasia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0013604,C0026780,PRECEDES,Edema,Mumps,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0013604,C0042384,PRECEDES,Edema,Vasculitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0013687,C0024904,PRECEDES,effusion,Mastoiditis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0013926,C0018790,PRECEDES,Air Embolism,Cardiac Arrest,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0014591,C0034150,PRECEDES,Epistaxis,Purpura,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0015376,C0011603,PRECEDES,Extravasation,Dermatitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0016059,C0034069,PRECEDES,Fibrosis,Pulmonary Fibrosis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0016470,C0004096,PRECEDES,Food Allergy,Asthma,patf,dsyn,3,PRECEDES_PATFprcdDSYN
+C0016470,C0011615,PRECEDES,Food Allergy,"Dermatitis, Atopic",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0018944,C0038454,PRECEDES,Hematoma,Cerebrovascular accident,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0019080,C0002871,PRECEDES,Hemorrhage,Anemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0019080,C0005779,PRECEDES,Hemorrhage,Blood Coagulation Disorders,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0019080,C0014544,PRECEDES,Hemorrhage,Epilepsy,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0019080,C0014599,PRECEDES,Hemorrhage,Epithelial hyperplasia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0019080,C0036690,PRECEDES,Hemorrhage,Septicemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0019080,C0040034,PRECEDES,Hemorrhage,Thrombocytopenia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0019123,C0264541,PRECEDES,Hemothorax,Calcification of pleura,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0020507,C1262091,PRECEDES,Hyperplasia,Lymphocytic infiltration,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0020517,C0004096,PRECEDES,Hypersensitivity,Asthma,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0020517,C0011615,PRECEDES,Hypersensitivity,"Dermatitis, Atopic",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0020517,C0024115,PRECEDES,Hypersensitivity,Lung diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0020517,C0027341,PRECEDES,Hypersensitivity,Nail-Patella Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0020517,C0037199,PRECEDES,Hypersensitivity,Sinusitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0020517,C0155877,PRECEDES,Hypersensitivity,Allergic asthma,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0020517,C0442886,PRECEDES,Hypersensitivity,Secondary Infections,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0020517,C0578870,PRECEDES,Hypersensitivity,Chronic Spontaneous Urticaria,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0020542,C0206062,PRECEDES,Pulmonary Hypertension,"Lung Diseases, Interstitial",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0020683,C0023895,PRECEDES,Hypovolemic Shock,Liver diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0021308,C0027051,PRECEDES,Infarction,Myocardial Infarction,patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C0021308,C0264733,PRECEDES,Infarction,Ventricular dilatation (disorder),patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0021308,C0349782,PRECEDES,Infarction,Ischemic cardiomyopathy,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0021368,C0004096,PRECEDES,Inflammation,Asthma,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0021368,C0004364,PRECEDES,Inflammation,Autoimmune Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0021368,C0007222,PRECEDES,Inflammation,Cardiovascular Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0021368,C0011882,PRECEDES,Inflammation,Diabetic Neuropathies,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0021368,C0024904,PRECEDES,Inflammation,Mastoiditis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0021368,C0033036,PRECEDES,Inflammation,Atrial Premature Complexes,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0021368,C0033770,PRECEDES,Inflammation,Prune Belly Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0021368,C0035222,PRECEDES,Inflammation,"Respiratory Distress Syndrome, Adult",patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C0021368,C0340427,PRECEDES,Inflammation,Familial dilated cardiomyopathy,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0021368,C0442886,PRECEDES,Inflammation,Secondary Infections,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0021368,C5203670,PRECEDES,Inflammation,COVID-19,patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C0021655,C0023787,PRECEDES,Insulin Resistance,Lipodystrophy,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0022116,C0002395,PRECEDES,Ischemia,Alzheimer's Disease,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0022116,C0007786,PRECEDES,Ischemia,Brain Ischemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0022116,C0010054,PRECEDES,Ischemia,Coronary Arteriosclerosis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0022116,C0040583,PRECEDES,Ischemia,Tracheal Stenosis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0022116,C0340098,PRECEDES,Ischemia,Neurogenic pulmonary edema,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0022876,C0008495,PRECEDES,Premature Obstetric Labor,Chorioamnionitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0024348,C0029408,PRECEDES,Lysis,Degenerative polyarthritis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0024348,C0033770,PRECEDES,Lysis,Prune Belly Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0025222,C0018965,PRECEDES,Melena,Hematuria,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0025874,C0009450,PRECEDES,Metrorrhagia,Communicable Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0026766,C0032285,PRECEDES,Multiple Organ Failure,Pneumonia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0026766,C0876973,PRECEDES,Multiple Organ Failure,Infectious Lung Disorder,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0027046,C0024205,PRECEDES,Myocardial degeneration,Lymphadenitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0027046,C0027059,PRECEDES,Myocardial degeneration,Myocarditis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0028778,C0020541,PRECEDES,Obstruction,Portal Hypertension,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0028778,C1096458,PRECEDES,Obstruction,Vascular occlusion,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0029445,C0029408,PRECEDES,Bone necrosis,Degenerative polyarthritis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0032787,C0035243,PRECEDES,Postoperative Complications,Respiratory Tract Infections,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0034063,C0032285,PRECEDES,Pulmonary Edema,Pneumonia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0034063,C0264502,PRECEDES,Pulmonary Edema,Alveolar pneumopathy,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0034065,C0034074,PRECEDES,Pulmonary Embolism,Pulmonary Infarction,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0034065,C0679225,PRECEDES,Pulmonary Embolism,multiple pathologies,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0034088,C0009450,PRECEDES,Pulmonary Valve Insufficiency,Communicable Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0035410,C0009421,PRECEDES,Rhabdomyolysis,Comatose,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0035410,C0022660,PRECEDES,Rhabdomyolysis,"Kidney Failure, Acute",patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C0035956,C0029883,PRECEDES,"Rupture, Spontaneous",Otitis Media with Effusion,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036679,C0034041,PRECEDES,Diastasis,Puerperal Infection,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036679,C0036310,PRECEDES,Diastasis,Scheuermann's Disease,patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C0036679,C3489532,PRECEDES,Diastasis,Cone-Rod Dystrophy 2,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036679,C3888198,PRECEDES,Diastasis,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036679,C5203670,PRECEDES,Diastasis,COVID-19,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C0009421,PRECEDES,Shock,Comatose,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C0014061,PRECEDES,Shock,Tick-Borne Encephalitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C0021400,PRECEDES,Shock,Influenza,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C0037354,PRECEDES,Shock,Smallpox,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C0041296,PRECEDES,Shock,Tuberculosis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C0085584,PRECEDES,Shock,Encephalopathies,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C0085605,PRECEDES,Shock,Liver Failure,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C0149801,PRECEDES,Shock,Sepsis due to urinary tract infection,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C0263214,PRECEDES,Shock,Pyotraumatic dermatitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C0267557,PRECEDES,Shock,Secretory diarrhea,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C0340098,PRECEDES,Shock,Neurogenic pulmonary edema,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C1145670,PRECEDES,Shock,Respiratory Failure,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036974,C5203670,PRECEDES,Shock,COVID-19,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036980,C0023895,PRECEDES,"Shock, Cardiogenic",Liver diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036982,C0036690,PRECEDES,"Shock, Hemorrhagic",Septicemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036982,C0740766,PRECEDES,"Shock, Hemorrhagic",Acute Pneumonia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036982,C1290884,PRECEDES,"Shock, Hemorrhagic",Inflammatory disorder,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0036984,C0035222,PRECEDES,"Shock, Surgical","Respiratory Distress Syndrome, Adult",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0038941,C0036690,PRECEDES,Surgical Wound Infection,Septicemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0040038,C0003811,PRECEDES,Thromboembolism,Cardiac Arrhythmia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0040053,C0007222,PRECEDES,Thrombosis,Cardiovascular Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0041755,C5203670,PRECEDES,Adverse reaction to drug,COVID-19,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0087086,C0028754,PRECEDES,Thrombus,Obesity,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0151526,C0024115,PRECEDES,Premature Birth,Lung diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0151526,C0035220,PRECEDES,Premature Birth,"Respiratory Distress Syndrome, Newborn",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0151526,C1145670,PRECEDES,Premature Birth,Respiratory Failure,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0151526,C1301752,PRECEDES,Premature Birth,Respiratory morbidity,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0151713,C0030920,PRECEDES,Hyperchlorhydria,Peptic Ulcer,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0151735,C0002792,PRECEDES,Injection Site Reaction,anaphylaxis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0151763,C0016977,PRECEDES,Liver damage,Gall Bladder Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0161818,C0205721,PRECEDES,Respiratory complication,"Infections, Hospital",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0161818,C0741923,PRECEDES,Respiratory complication,cardiac event,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0162633,C0006271,PRECEDES,Viral Shedding,Bronchiolitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0162633,C0032285,PRECEDES,Viral Shedding,Pneumonia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0162633,C0042769,PRECEDES,Viral Shedding,Virus Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0232100,C0032285,PRECEDES,Exsanguination,Pneumonia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0235029,C0085584,PRECEDES,neurological complication,Encephalopathies,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0242184,C0026769,PRECEDES,Hypoxia,Multiple Sclerosis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0242184,C2732697,PRECEDES,Hypoxia,Autoimmune inflammation of skeletal muscle,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0242184,C2973725,PRECEDES,Hypoxia,Pulmonary arterial hypertension,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0242648,C0023067,PRECEDES,Vertical Disease Transmission,Laryngitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0242649,C0854706,PRECEDES,"Infectious Disease Transmission, Horizontal",neonatal infection,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0242656,C0018790,PRECEDES,Disease Progression,Cardiac Arrest,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0242656,C5203670,PRECEDES,Disease Progression,COVID-19,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0242781,C1175175,PRECEDES,disease transmission,Severe Acute Respiratory Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0242781,C3694279,PRECEDES,disease transmission,Middle East Respiratory Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0274435,C0042384,PRECEDES,Transfusion Reaction,Vasculitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0281169,C0018801,PRECEDES,Pulmonary Complication,Heart failure,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0281169,C0155919,PRECEDES,Pulmonary Complication,Acute pulmonary edema,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0332448,C0014070,PRECEDES,Infiltration,Encephalomyelitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0333106,C0275551,PRECEDES,Bleeding varices,Primary bacterial peritonitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0333276,C0002871,PRECEDES,Acute hemorrhage,Anemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0333276,C0035222,PRECEDES,Acute hemorrhage,"Respiratory Distress Syndrome, Adult",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0333358,C0038454,PRECEDES,Hemorrhagic inflammation,Cerebrovascular accident,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0333445,C0546389,PRECEDES,Ballooning degeneration,Periportal hepatic necrosis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0333513,C0017658,PRECEDES,Fibrinoid necrosis,Glomerulonephritis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0340865,C0002871,PRECEDES,Anaphylactoid Reaction,Anemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0341950,C0005779,PRECEDES,Severe pre-eclampsia,Blood Coagulation Disorders,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0376297,C0240225,PRECEDES,Cardiac Death,Liver mass,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0376297,C5203670,PRECEDES,Cardiac Death,COVID-19,patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C0392676,C0009421,PRECEDES,Hyperpyrexia,Comatose,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0392689,C0002871,PRECEDES,Overhydration,Anemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0392689,C0020639,PRECEDES,Overhydration,Hypoproteinemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0394019,C0018790,PRECEDES,Brainstem death,Cardiac Arrest,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0443146,C0011854,PRECEDES,Autoimmune reaction,"Diabetes Mellitus, Insulin-Dependent",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0578735,C0497156,PRECEDES,Axillary lymphadenopathy,Lymphadenopathy,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0600228,C0042769,PRECEDES,Cardiopulmonary Arrest,Virus Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0700148,C0014599,PRECEDES,Congestion,Epithelial hyperplasia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0745283,C0021400,PRECEDES,INFECTIOUS PROCESS,Influenza,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0745283,C1145628,PRECEDES,INFECTIOUS PROCESS,Autonomic nervous system disorders,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0751530,C0007786,PRECEDES,"Subarachnoid Hemorrhage, Aneurysmal",Brain Ischemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0751530,C0265110,PRECEDES,"Subarachnoid Hemorrhage, Aneurysmal",Cerebral Vasospasm,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0852964,C0020541,PRECEDES,shunt occlusion,Portal Hypertension,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0853041,C0033770,PRECEDES,reaction to colouring,Prune Belly Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0877326,C0002895,PRECEDES,Bone infarction,"Anemia, Sickle Cell",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C0919691,C0581359,PRECEDES,Anastomotic Leak,Acute intestinal obstruction,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1155266,C0035222,PRECEDES,Inflammatory Response,"Respiratory Distress Syndrome, Adult",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1155266,C0036690,PRECEDES,Inflammatory Response,Septicemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1155266,C0333112,PRECEDES,Inflammatory Response,Traction diverticulum,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1155266,C1262091,PRECEDES,Inflammatory Response,Lymphocytic infiltration,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1155266,C1264606,PRECEDES,Inflammatory Response,Persistent infection,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1261287,C0041296,PRECEDES,Stenosis,Tuberculosis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1262018,C0036690,PRECEDES,Graft failure,Septicemia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1373218,C0001175,PRECEDES,Decreased Immunologic Activity [PE],Acquired Immunodeficiency Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1373218,C0010823,PRECEDES,Decreased Immunologic Activity [PE],Cytomegalovirus Infections,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1373218,C0026896,PRECEDES,Decreased Immunologic Activity [PE],Myasthenia Gravis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1373218,C0026946,PRECEDES,Decreased Immunologic Activity [PE],Mycoses,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1373218,C0027765,PRECEDES,Decreased Immunologic Activity [PE],nervous system disorder,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1373218,C0029118,PRECEDES,Decreased Immunologic Activity [PE],Opportunistic Infections,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1373218,C0030364,PRECEDES,Decreased Immunologic Activity [PE],"Papovavirus infection, unspecified",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1373218,C0038463,PRECEDES,Decreased Immunologic Activity [PE],Strongyloidiasis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1373218,C0867389,PRECEDES,Decreased Immunologic Activity [PE],Chronic graft-versus-host disease,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1373218,C2074898,PRECEDES,Decreased Immunologic Activity [PE],chronic Lung Inflammations,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1373218,C5139227,PRECEDES,Decreased Immunologic Activity [PE],Opportunistic bacterial infection,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1373218,C5203670,PRECEDES,Decreased Immunologic Activity [PE],COVID-19,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1383860,C0042769,PRECEDES,Cardiac Hypertrophy,Virus Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1520005,C0021400,PRECEDES,Viral Pathogenesis,Influenza,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1520005,C0030389,PRECEDES,Viral Pathogenesis,Parainfluenza,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1520005,C0206750,PRECEDES,Viral Pathogenesis,Coronavirus Infections,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1520005,C2062441,PRECEDES,Viral Pathogenesis,Influenza A,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1537065,C0940933,PRECEDES,transplantation infection,infection as a complication,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1704489,C4551976,PRECEDES,Extended Rotated Sidebent,HYPOTRICHOSIS 1,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C1817997,C0034069,PRECEDES,chronic inflammatory response,Pulmonary Fibrosis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C2937358,C0398623,PRECEDES,Cerebral Hemorrhage,Thrombophilia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C2937358,C1861172,PRECEDES,Cerebral Hemorrhage,Venous Thromboembolism,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0001339,PRECEDES,Infection,"Pancreatitis, Acute",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0004096,PRECEDES,Infection,Asthma,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0004364,PRECEDES,Infection,Autoimmune Diseases,patf,dsyn,3,PRECEDES_PATFprcdDSYN
+C3714514,C0004623,PRECEDES,Infection,Bacterial Infections,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0004626,PRECEDES,Infection,"Pneumonia, Bacterial",patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C3714514,C0008489,PRECEDES,Infection,Chorea,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0009187,PRECEDES,Infection,Coccidiosis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0009450,PRECEDES,Infection,Communicable Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0011175,PRECEDES,Infection,Dehydration,patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C3714514,C0011847,PRECEDES,Infection,Diabetes,patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C3714514,C0011854,PRECEDES,Infection,"Diabetes Mellitus, Insulin-Dependent",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0014059,PRECEDES,Infection,"Encephalomyelitis, Acute Disseminated",patf,dsyn,5,PRECEDES_PATFprcdDSYN
+C3714514,C0015674,PRECEDES,Infection,Chronic Fatigue Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0018378,PRECEDES,Infection,Guillain-Barre Syndrome,patf,dsyn,3,PRECEDES_PATFprcdDSYN
+C3714514,C0018939,PRECEDES,Infection,Hematological Disease,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0024118,PRECEDES,Infection,"Lung Diseases, Parasitic",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0027051,PRECEDES,Infection,Myocardial Infarction,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0027059,PRECEDES,Infection,Myocarditis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0027765,PRECEDES,Infection,nervous system disorder,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0029118,PRECEDES,Infection,Opportunistic Infections,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0032227,PRECEDES,Infection,Pleural effusion disorder,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0032231,PRECEDES,Infection,Pleurisy,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0032285,PRECEDES,Infection,Pneumonia,patf,dsyn,7,PRECEDES_PATFprcdDSYN
+C3714514,C0032308,PRECEDES,Infection,Staphylococcal Pneumonia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0035222,PRECEDES,Infection,"Respiratory Distress Syndrome, Adult",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0035235,PRECEDES,Infection,Respiratory Syncytial Virus Infections,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0035243,PRECEDES,Infection,Respiratory Tract Infections,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0035436,PRECEDES,Infection,Rheumatic Fever,patf,dsyn,3,PRECEDES_PATFprcdDSYN
+C3714514,C0036310,PRECEDES,Infection,Scheuermann's Disease,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0038235,PRECEDES,Infection,Steatitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0038454,PRECEDES,Infection,Cerebrovascular accident,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0042749,PRECEDES,Infection,Viremia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0042769,PRECEDES,Infection,Virus Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0085435,PRECEDES,Infection,"Arthritis, Reactive",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0149725,PRECEDES,Infection,Lower respiratory tract infection,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0150005,PRECEDES,Infection,Viral myositis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0206750,PRECEDES,Infection,Coronavirus Infections,patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C3714514,C0264385,PRECEDES,Infection,Airsacculitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0275524,PRECEDES,Infection,Coinfection,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0277555,PRECEDES,Infection,"Secondary disease, NOS",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0339952,PRECEDES,Infection,Secondary bacterial pneumonia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0343525,PRECEDES,Infection,Lemierre Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0398650,PRECEDES,Infection,Immune thrombocytopenic purpura,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0403414,PRECEDES,Infection,Acute post-streptococcal glomerulonephritis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0442874,PRECEDES,Infection,Neuropathy,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0442886,PRECEDES,Infection,Secondary Infections,patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C3714514,C0740766,PRECEDES,Infection,Acute Pneumonia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0748168,PRECEDES,Infection,Pulmonary Pathology,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C0751100,PRECEDES,Infection,Postinfectious Encephalomyelitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C1175175,PRECEDES,Infection,Severe Acute Respiratory Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C1394891,PRECEDES,Infection,Intrinsic Factor Deficiency,patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C3714514,C1535917,PRECEDES,Infection,Nipah Virus Infection,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C1719359,PRECEDES,Infection,Acute necrotizing hemorrhagic encephalopathy,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C1850106,PRECEDES,Infection,RAINE SYNDROME,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C1860224,PRECEDES,Infection,ABLEPHARON-MACROSTOMIA SYNDROME,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C2747816,PRECEDES,Infection,Severe Malaria,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C3280586,PRECEDES,Infection,Mannose-Binding Protein Deficiency,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C3686944,PRECEDES,Infection,Bronchointerstitial pneumonia,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C4505065,PRECEDES,Infection,Noncommunicable Diseases,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C4543807,PRECEDES,Infection,Clinical malaria,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C5139167,PRECEDES,Infection,Severe infection,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C3714514,C5203670,PRECEDES,Infection,COVID-19,patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C4061114,C0008055,PRECEDES,Acute illness,Chikungunya Fever,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C4061114,C0008677,PRECEDES,Acute illness,"Bronchitis, Chronic",patf,dsyn,2,PRECEDES_PATFprcdDSYN
+C4061114,C0014038,PRECEDES,Acute illness,Encephalitis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C4061114,C0018378,PRECEDES,Acute illness,Guillain-Barre Syndrome,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C4061114,C0031046,PRECEDES,Acute illness,Pericarditis,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C4061114,C0034362,PRECEDES,Acute illness,Q Fever,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C4061114,C0035222,PRECEDES,Acute illness,"Respiratory Distress Syndrome, Adult",patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C4061114,C0155626,PRECEDES,Acute illness,Acute myocardial infarction,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C4061114,C0264220,PRECEDES,Acute illness,Chronic disease of respiratory system,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C4061114,C1145670,PRECEDES,Acute illness,Respiratory Failure,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C4061114,C3178789,PRECEDES,Acute illness,Widespread Chronic Pain,patf,dsyn,1,PRECEDES_PATFprcdDSYN
+C4743756,C0010278,PRECEDES,Intrauterine Exposure,Craniosynostosis,patf,dsyn,1,PRECEDES_PATFprcdDSYN

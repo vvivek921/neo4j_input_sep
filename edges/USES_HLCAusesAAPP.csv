@@ -1,0 +1,153 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001559,C0002199,USES,Inhalation Drug Administration,Interferon-alpha,hlca,aapp,1,USES_HLCAusesAAPP
+C0009449,C0042210,USES,Communicable Disease Control,Vaccines,hlca,aapp,1,USES_HLCAusesAAPP
+C0009818,C0042210,USES,Consultation,Vaccines,hlca,aapp,3,USES_HLCAusesAAPP
+C0013191,C0879399,USES,Drug Labeling,tositumomab,hlca,aapp,1,USES_HLCAusesAAPP
+C0017313,C0012020,USES,patient care,Diazooxonorleucine,hlca,aapp,1,USES_HLCAusesAAPP
+C0018749,C0672596,USES,Health Services Administration,palivizumab,hlca,aapp,1,USES_HLCAusesAAPP
+C0019993,C0003241,USES,Hospitalization,Antibodies,hlca,aapp,1,USES_HLCAusesAAPP
+C0019993,C0015506,USES,Hospitalization,factor VIII,hlca,aapp,3,USES_HLCAusesAAPP
+C0023977,C0010592,USES,long-term care,cyclosporine,hlca,aapp,1,USES_HLCAusesAAPP
+C0023977,C0062525,USES,long-term care,hepatitis B immune globulin,hlca,aapp,2,USES_HLCAusesAAPP
+C0023977,C0103306,USES,long-term care,angiotensin I (1-7),hlca,aapp,3,USES_HLCAusesAAPP
+C0023977,C0164674,USES,long-term care,pegademase bovine,hlca,aapp,1,USES_HLCAusesAAPP
+C0023977,C0304925,USES,long-term care,"albumin human, USP",hlca,aapp,1,USES_HLCAusesAAPP
+C0023977,C1524094,USES,long-term care,Recombinant Cytokines,hlca,aapp,1,USES_HLCAusesAAPP
+C0023977,C1564892,USES,long-term care,Complement Inactivating Agents,hlca,aapp,1,USES_HLCAusesAAPP
+C0023977,C1690432,USES,long-term care,denosumab,hlca,aapp,1,USES_HLCAusesAAPP
+C0023977,C2718773,USES,long-term care,canakinumab,hlca,aapp,1,USES_HLCAusesAAPP
+C0030673,C0031453,USES,Patient Admission,phenylalanine,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0001655,USES,Patient Discharge,corticotropin,hlca,aapp,2,USES_HLCAusesAAPP
+C0030685,C0002199,USES,Patient Discharge,Interferon-alpha,hlca,aapp,4,USES_HLCAusesAAPP
+C0030685,C0002520,USES,Patient Discharge,Amino Acids,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0003009,USES,Patient Discharge,angiotensin II,hlca,aapp,7,USES_HLCAusesAAPP
+C0030685,C0003241,USES,Patient Discharge,Antibodies,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0003779,USES,Patient Discharge,argipressin,hlca,aapp,6,USES_HLCAusesAAPP
+C0030685,C0006668,USES,Patient Discharge,calcitonin,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0008328,USES,Patient Discharge,cholecystokinin,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0009325,USES,Patient Discharge,collagen,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0015879,USES,Patient Discharge,Ferritin,hlca,aapp,3,USES_HLCAusesAAPP
+C0030685,C0017687,USES,Patient Discharge,glucagon,hlca,aapp,12,USES_HLCAusesAAPP
+C0030685,C0017797,USES,Patient Discharge,glutamine,hlca,aapp,2,USES_HLCAusesAAPP
+C0030685,C0018061,USES,Patient Discharge,Gonadotropins,hlca,aapp,7,USES_HLCAusesAAPP
+C0030685,C0021641,USES,Patient Discharge,Insulin,hlca,aapp,92,USES_HLCAusesAAPP
+C0030685,C0021740,USES,Patient Discharge,Recombinant Interferon-gamma,hlca,aapp,17,USES_HLCAusesAAPP
+C0030685,C0021753,USES,Patient Discharge,"interleukin-1, beta",hlca,aapp,8,USES_HLCAusesAAPP
+C0030685,C0022478,USES,Patient Discharge,kininogenase,hlca,aapp,2,USES_HLCAusesAAPP
+C0030685,C0023607,USES,Patient Discharge,luteinizing hormone,hlca,aapp,3,USES_HLCAusesAAPP
+C0030685,C0023610,USES,Patient Discharge,gonadorelin,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0024337,USES,Patient Discharge,lysine,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0026794,USES,Patient Discharge,muramidase,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0030095,USES,Patient Discharge,oxytocin,hlca,aapp,6,USES_HLCAusesAAPP
+C0030685,C0032143,USES,Patient Discharge,alteplase,hlca,aapp,2,USES_HLCAusesAAPP
+C0030685,C0033371,USES,Patient Discharge,prolactin,hlca,aapp,4,USES_HLCAusesAAPP
+C0030685,C0037659,USES,Patient Discharge,somatostatin,hlca,aapp,4,USES_HLCAusesAAPP
+C0030685,C0040018,USES,Patient Discharge,thrombin,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0042210,USES,Patient Discharge,Vaccines,hlca,aapp,13,USES_HLCAusesAAPP
+C0030685,C0042413,USES,Patient Discharge,Vasopressins,hlca,aapp,31,USES_HLCAusesAAPP
+C0030685,C0042971,USES,Patient Discharge,von Willebrand factor,hlca,aapp,2,USES_HLCAusesAAPP
+C0030685,C0052897,USES,Patient Discharge,bactericidal permeability increasing protein,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0057256,USES,Patient Discharge,Defensins,hlca,aapp,3,USES_HLCAusesAAPP
+C0030685,C0061472,USES,Patient Discharge,glutamic acid,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0123759,USES,Patient Discharge,interleukin-12,hlca,aapp,7,USES_HLCAusesAAPP
+C0030685,C0164707,USES,Patient Discharge,Tissue factor pathway inhibitor,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0167117,USES,Patient Discharge,exenatide,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0245109,USES,Patient Discharge,anakinra,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0540511,USES,Patient Discharge,Angiopoietin-2,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0544420,USES,Patient Discharge,Digestive Enzymes,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0795677,USES,Patient Discharge,"von Willebrand factor, human",hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C0887943,USES,Patient Discharge,alpha-Defensins,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C1522712,USES,Patient Discharge,Recombinant Interferon-alpha Inducible Protein 10,hlca,aapp,7,USES_HLCAusesAAPP
+C0030685,C1562292,USES,Patient Discharge,Incretins,hlca,aapp,1,USES_HLCAusesAAPP
+C0030685,C3486709,USES,Patient Discharge,"brain-derived neurotrophic factor, human",hlca,aapp,2,USES_HLCAusesAAPP
+C0030685,C3818725,USES,Patient Discharge,"corticotropin, human",hlca,aapp,3,USES_HLCAusesAAPP
+C0030685,C4082165,USES,Patient Discharge,"Oxytocin, human",hlca,aapp,21,USES_HLCAusesAAPP
+C0030685,C4084937,USES,Patient Discharge,Antimicrobial Peptide,hlca,aapp,6,USES_HLCAusesAAPP
+C0030685,C4520829,USES,Patient Discharge,"Cholecystokinin, human",hlca,aapp,1,USES_HLCAusesAAPP
+C0030695,C0054015,USES,Patient Monitoring,nesiritide,hlca,aapp,1,USES_HLCAusesAAPP
+C0031809,C0003241,USES,Physical Examination,Antibodies,hlca,aapp,3,USES_HLCAusesAAPP
+C0033333,C0003241,USES,Program Development,Antibodies,hlca,aapp,1,USES_HLCAusesAAPP
+C0033333,C0042210,USES,Program Development,Vaccines,hlca,aapp,2,USES_HLCAusesAAPP
+C0034020,C0003241,USES,Public Health Administration,Antibodies,hlca,aapp,1,USES_HLCAusesAAPP
+C0034107,C0023610,USES,Pulse taking,gonadorelin,hlca,aapp,3,USES_HLCAusesAAPP
+C0034107,C1609165,USES,Pulse taking,tocilizumab,hlca,aapp,2,USES_HLCAusesAAPP
+C0039423,C0042210,USES,"Technology Assessment, Biomedical",Vaccines,hlca,aapp,1,USES_HLCAusesAAPP
+C0085557,C0042210,USES,Infectious disease prevention / control,Vaccines,hlca,aapp,1,USES_HLCAusesAAPP
+C0150600,C0031453,USES,Advice,phenylalanine,hlca,aapp,1,USES_HLCAusesAAPP
+C0150600,C0042210,USES,Advice,Vaccines,hlca,aapp,1,USES_HLCAusesAAPP
+C0184666,C0015506,USES,Hospital admission,factor VIII,hlca,aapp,1,USES_HLCAusesAAPP
+C0204695,C0012020,USES,Feeding patient,Diazooxonorleucine,hlca,aapp,1,USES_HLCAusesAAPP
+C0205787,C0042210,USES,Health Campaigns,Vaccines,hlca,aapp,2,USES_HLCAusesAAPP
+C0206082,C0042210,USES,Immunization Programs,Vaccines,hlca,aapp,13,USES_HLCAusesAAPP
+C0220825,C0003241,USES,Evaluation,Antibodies,hlca,aapp,10,USES_HLCAusesAAPP
+C0220825,C0007332,USES,Evaluation,caseins,hlca,aapp,1,USES_HLCAusesAAPP
+C0220825,C0010592,USES,Evaluation,cyclosporine,hlca,aapp,1,USES_HLCAusesAAPP
+C0220825,C0010749,USES,Evaluation,Cytochromes c,hlca,aapp,1,USES_HLCAusesAAPP
+C0220825,C0020960,USES,Evaluation,Immune Sera,hlca,aapp,3,USES_HLCAusesAAPP
+C0220825,C0026794,USES,Evaluation,muramidase,hlca,aapp,1,USES_HLCAusesAAPP
+C0220825,C0041242,USES,Evaluation,Trypsin Inhibitors,hlca,aapp,1,USES_HLCAusesAAPP
+C0220825,C0042210,USES,Evaluation,Vaccines,hlca,aapp,12,USES_HLCAusesAAPP
+C0220825,C2717174,USES,Evaluation,raxibacumab,hlca,aapp,1,USES_HLCAusesAAPP
+C0220825,C5197773,USES,Evaluation,Broadly Neutralizing Antibodies,hlca,aapp,1,USES_HLCAusesAAPP
+C0278329,C1609165,USES,Prescribed,tocilizumab,hlca,aapp,1,USES_HLCAusesAAPP
+C0282663,C0069508,USES,Point of Care Technology,"oncogene protein E7, Human papillomavirus type 16",hlca,aapp,1,USES_HLCAusesAAPP
+C0344211,C0016006,USES,Supportive care,fibrinogen,hlca,aapp,1,USES_HLCAusesAAPP
+C0344211,C0085297,USES,Supportive care,"immunoglobulins, intravenous",hlca,aapp,1,USES_HLCAusesAAPP
+C0441587,C0002520,USES,Clinical act of insertion,Amino Acids,hlca,aapp,42,USES_HLCAusesAAPP
+C0441587,C0024337,USES,Clinical act of insertion,lysine,hlca,aapp,1,USES_HLCAusesAAPP
+C0441587,C0030346,USES,Clinical act of insertion,papain,hlca,aapp,1,USES_HLCAusesAAPP
+C0441587,C0042210,USES,Clinical act of insertion,Vaccines,hlca,aapp,3,USES_HLCAusesAAPP
+C0441640,C0010592,USES,Tapering - action,cyclosporine,hlca,aapp,3,USES_HLCAusesAAPP
+C0441640,C0245109,USES,Tapering - action,anakinra,hlca,aapp,1,USES_HLCAusesAAPP
+C0444793,C0002520,USES,Position change,Amino Acids,hlca,aapp,1,USES_HLCAusesAAPP
+C0541653,C0007258,USES,Chart evaluation by healthcare professional,carnitine,hlca,aapp,1,USES_HLCAusesAAPP
+C0548441,C0042210,USES,Preparation for procedure,Vaccines,hlca,aapp,1,USES_HLCAusesAAPP
+C0548441,C2362067,USES,Preparation for procedure,Platelet concentrate,hlca,aapp,1,USES_HLCAusesAAPP
+C0557980,C0123759,USES,Evaluating interventions,interleukin-12,hlca,aapp,1,USES_HLCAusesAAPP
+C0558024,C0042738,USES,Functional behavioral assessment,Viral Structural Proteins,hlca,aapp,1,USES_HLCAusesAAPP
+C0588388,C1609165,USES,General observation,tocilizumab,hlca,aapp,1,USES_HLCAusesAAPP
+C0679841,C0031453,USES,treatment program,phenylalanine,hlca,aapp,1,USES_HLCAusesAAPP
+C0679878,C0042210,USES,acute care,Vaccines,hlca,aapp,1,USES_HLCAusesAAPP
+C0700325,C0210630,USES,Patient observation,filgrastim,hlca,aapp,1,USES_HLCAusesAAPP
+C0805586,C0003241,USES,Challenge,Antibodies,hlca,aapp,1,USES_HLCAusesAAPP
+C0805586,C0042210,USES,Challenge,Vaccines,hlca,aapp,11,USES_HLCAusesAAPP
+C0805586,C0218986,USES,Challenge,aldesleukin,hlca,aapp,1,USES_HLCAusesAAPP
+C0805586,C0308550,USES,Challenge,BRSV,hlca,aapp,2,USES_HLCAusesAAPP
+C0871311,C0003241,USES,screening tests,Antibodies,hlca,aapp,2,USES_HLCAusesAAPP
+C1144866,C1609165,USES,Multi-disciplinary team,tocilizumab,hlca,aapp,2,USES_HLCAusesAAPP
+C1261322,C0003241,USES,Evaluation procedure,Antibodies,hlca,aapp,1,USES_HLCAusesAAPP
+C1261322,C0040160,USES,Evaluation procedure,thyrotropin,hlca,aapp,1,USES_HLCAusesAAPP
+C1261322,C0042210,USES,Evaluation procedure,Vaccines,hlca,aapp,3,USES_HLCAusesAAPP
+C1283169,C0003440,USES,Monitoring - action,Antithrombins,hlca,aapp,1,USES_HLCAusesAAPP
+C1331096,C0042210,USES,vaccine delivery,Vaccines,hlca,aapp,3,USES_HLCAusesAAPP
+C1331096,C0887910,USES,vaccine delivery,Virosomes,hlca,aapp,1,USES_HLCAusesAAPP
+C1331096,C5202641,USES,vaccine delivery,Modified vaccinia ankara,hlca,aapp,1,USES_HLCAusesAAPP
+C1406915,C0021641,USES,breathing therapy,Insulin,hlca,aapp,1,USES_HLCAusesAAPP
+C1512346,C0012020,USES,Patient Visit,Diazooxonorleucine,hlca,aapp,1,USES_HLCAusesAAPP
+C1514821,C0042210,USES,Registration,Vaccines,hlca,aapp,2,USES_HLCAusesAAPP
+C1516615,C0042210,USES,Clinical Management,Vaccines,hlca,aapp,1,USES_HLCAusesAAPP
+C1522577,C0042210,USES,follow-up,Vaccines,hlca,aapp,1,USES_HLCAusesAAPP
+C1553492,C0042210,USES,Emergency Supply,Vaccines,hlca,aapp,1,USES_HLCAusesAAPP
+C1553497,C1874187,USES,virtual patient encounter,AMINO ACIDS/PROTEINS,hlca,aapp,1,USES_HLCAusesAAPP
+C2826232,C0021641,USES,Dose Adjustment,Insulin,hlca,aapp,1,USES_HLCAusesAAPP
+C2936643,C0002199,USES,Standard of Care,Interferon-alpha,hlca,aapp,1,USES_HLCAusesAAPP
+C2936643,C0002260,USES,Standard of Care,eflornithine,hlca,aapp,1,USES_HLCAusesAAPP
+C2936643,C0021641,USES,Standard of Care,Insulin,hlca,aapp,1,USES_HLCAusesAAPP
+C2936643,C0023570,USES,Standard of Care,levodopa,hlca,aapp,1,USES_HLCAusesAAPP
+C2945700,C0376541,USES,typology,Recombinant Erythropoietin,hlca,aapp,1,USES_HLCAusesAAPP
+C3534082,C0304925,USES,VSP,"albumin human, USP",hlca,aapp,1,USES_HLCAusesAAPP
+C4036459,C0002520,USES,Contacts,Amino Acids,hlca,aapp,3,USES_HLCAusesAAPP
+C4036459,C0003241,USES,Contacts,Antibodies,hlca,aapp,5,USES_HLCAusesAAPP
+C4036459,C0006938,USES,Contacts,captopril,hlca,aapp,1,USES_HLCAusesAAPP
+C4036459,C0023401,USES,Contacts,leucine,hlca,aapp,1,USES_HLCAusesAAPP
+C4036459,C0042210,USES,Contacts,Vaccines,hlca,aapp,5,USES_HLCAusesAAPP
+C4036459,C0305052,USES,Contacts,Gamma globulin serum,hlca,aapp,1,USES_HLCAusesAAPP
+C4042889,C0003241,USES,Children's Health Insurance Program,Antibodies,hlca,aapp,9,USES_HLCAusesAAPP
+C4042889,C0017890,USES,Children's Health Insurance Program,glycine,hlca,aapp,1,USES_HLCAusesAAPP
+C4042889,C0042210,USES,Children's Health Insurance Program,Vaccines,hlca,aapp,1,USES_HLCAusesAAPP
+C4277528,C0042210,USES,Preventive Health Programs,Vaccines,hlca,aapp,1,USES_HLCAusesAAPP
+C4279933,C0042210,USES,Vaccination Campaign,Vaccines,hlca,aapp,15,USES_HLCAusesAAPP
+C4279933,C0043396,USES,Vaccination Campaign,Yellow fever virus,hlca,aapp,1,USES_HLCAusesAAPP
+C4505068,C1456408,USES,Obesity Management,liraglutide,hlca,aapp,1,USES_HLCAusesAAPP
+C4684780,C0002199,USES,Standard Treatment,Interferon-alpha,hlca,aapp,2,USES_HLCAusesAAPP
+C4684780,C0085297,USES,Standard Treatment,"immunoglobulins, intravenous",hlca,aapp,2,USES_HLCAusesAAPP

@@ -1,0 +1,107 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004561,C0012899,AFFECTS,B-Lymphocytes,DNA Repair,cell,genf,1,AFFECTS_CELLafctGENF
+C0004561,C0040624,AFFECTS,B-Lymphocytes,"Trans-Activation, Genetic",cell,genf,1,AFFECTS_CELLafctGENF
+C0004561,C0040649,AFFECTS,B-Lymphocytes,"Transcription, Genetic",cell,genf,1,AFFECTS_CELLafctGENF
+C0004561,C0162493,AFFECTS,B-Lymphocytes,Transcriptional Activation,cell,genf,1,AFFECTS_CELLafctGENF
+C0004561,C0206071,AFFECTS,B-Lymphocytes,Immunoglobulin Class Switching,cell,genf,1,AFFECTS_CELLafctGENF
+C0004561,C1512167,AFFECTS,B-Lymphocytes,Ectopic Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0005773,C0040649,AFFECTS,Blood Cells,"Transcription, Genetic",cell,genf,1,AFFECTS_CELLafctGENF
+C0005773,C1171362,AFFECTS,Blood Cells,protein expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0007600,C0017262,AFFECTS,Cultured Cell Line,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0007600,C0162493,AFFECTS,Cultured Cell Line,Transcriptional Activation,cell,genf,1,AFFECTS_CELLafctGENF
+C0007600,C1136031,AFFECTS,Cultured Cell Line,RNA Interference,cell,genf,1,AFFECTS_CELLafctGENF
+C0007600,C1257825,AFFECTS,Cultured Cell Line,Genomic Stability,cell,genf,1,AFFECTS_CELLafctGENF
+C0009013,C0026882,AFFECTS,Clone Cells,Mutation,cell,genf,1,AFFECTS_CELLafctGENF
+C0009013,C0525038,AFFECTS,Clone Cells,Amino Acid Substitution,cell,genf,1,AFFECTS_CELLafctGENF
+C0009013,C1158770,AFFECTS,Clone Cells,Transcriptional Regulation,cell,genf,1,AFFECTS_CELLafctGENF
+C0009013,C1511695,AFFECTS,Clone Cells,DNA Sequence Rearrangement,cell,genf,1,AFFECTS_CELLafctGENF
+C0011306,C0162493,AFFECTS,Dendritic Cells,Transcriptional Activation,cell,genf,1,AFFECTS_CELLafctGENF
+C0011306,C1519592,AFFECTS,Dendritic Cells,Transcription Process,cell,genf,1,AFFECTS_CELLafctGENF
+C0014597,C0040649,AFFECTS,Epithelial Cells,"Transcription, Genetic",cell,genf,1,AFFECTS_CELLafctGENF
+C0015161,C0012899,AFFECTS,Eukaryotic Cells,DNA Repair,cell,genf,1,AFFECTS_CELLafctGENF
+C0015161,C0017262,AFFECTS,Eukaryotic Cells,Gene Expression,cell,genf,2,AFFECTS_CELLafctGENF
+C0015161,C0040649,AFFECTS,Eukaryotic Cells,"Transcription, Genetic",cell,genf,2,AFFECTS_CELLafctGENF
+C0015161,C1136031,AFFECTS,Eukaryotic Cells,RNA Interference,cell,genf,1,AFFECTS_CELLafctGENF
+C0015161,C1515669,AFFECTS,Eukaryotic Cells,mRNA Export,cell,genf,1,AFFECTS_CELLafctGENF
+C0015161,C1519613,AFFECTS,Eukaryotic Cells,Translation Initiation,cell,genf,1,AFFECTS_CELLafctGENF
+C0015161,C1519619,AFFECTS,Eukaryotic Cells,Translational Repression,cell,genf,1,AFFECTS_CELLafctGENF
+C0016030,C0040649,AFFECTS,Fibroblasts,"Transcription, Genetic",cell,genf,1,AFFECTS_CELLafctGENF
+C0017473,C0035380,AFFECTS,Germ Line,Reverse Transcription,cell,genf,1,AFFECTS_CELLafctGENF
+C0018873,C0598496,AFFECTS,HeLa Cells,Gene Silencing,cell,genf,1,AFFECTS_CELLafctGENF
+C0018873,C1515669,AFFECTS,HeLa Cells,mRNA Export,cell,genf,1,AFFECTS_CELLafctGENF
+C0022688,C0040649,AFFECTS,Natural Killer Cells,"Transcription, Genetic",cell,genf,1,AFFECTS_CELLafctGENF
+C0022688,C3537096,AFFECTS,Natural Killer Cells,Translational Regulation,cell,genf,1,AFFECTS_CELLafctGENF
+C0023516,C1158770,AFFECTS,Leukocytes,Transcriptional Regulation,cell,genf,1,AFFECTS_CELLafctGENF
+C0024264,C0017262,AFFECTS,Lymphocyte,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0024264,C0032529,AFFECTS,Lymphocyte,Genetic Polymorphism,cell,genf,1,AFFECTS_CELLafctGENF
+C0024264,C0162493,AFFECTS,Lymphocyte,Transcriptional Activation,cell,genf,1,AFFECTS_CELLafctGENF
+C0024432,C0017262,AFFECTS,macrophage,Gene Expression,cell,genf,3,AFFECTS_CELLafctGENF
+C0024432,C0032529,AFFECTS,macrophage,Genetic Polymorphism,cell,genf,1,AFFECTS_CELLafctGENF
+C0024432,C0040649,AFFECTS,macrophage,"Transcription, Genetic",cell,genf,1,AFFECTS_CELLafctGENF
+C0024432,C0598496,AFFECTS,macrophage,Gene Silencing,cell,genf,1,AFFECTS_CELLafctGENF
+C0024432,C1372275,AFFECTS,macrophage,Increased DNA Replication,cell,genf,1,AFFECTS_CELLafctGENF
+C0024432,C1519592,AFFECTS,macrophage,Transcription Process,cell,genf,1,AFFECTS_CELLafctGENF
+C0026473,C0017262,AFFECTS,Monocytes,Gene Expression,cell,genf,3,AFFECTS_CELLafctGENF
+C0027882,C0017262,AFFECTS,Neurons,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0027883,C0017262,AFFECTS,Afferent neuron,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0027950,C0017263,AFFECTS,neutrophil,Gene Expression Regulation,cell,genf,1,AFFECTS_CELLafctGENF
+C0027950,C1511695,AFFECTS,neutrophil,DNA Sequence Rearrangement,cell,genf,1,AFFECTS_CELLafctGENF
+C0033731,C0010366,AFFECTS,Protoplasts,"Crossing Over, Genetic",cell,genf,1,AFFECTS_CELLafctGENF
+C0033731,C0017262,AFFECTS,Protoplasts,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0039194,C0017262,AFFECTS,T-Lymphocyte,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0039194,C0017263,AFFECTS,T-Lymphocyte,Gene Expression Regulation,cell,genf,1,AFFECTS_CELLafctGENF
+C0039194,C0162493,AFFECTS,T-Lymphocyte,Transcriptional Activation,cell,genf,1,AFFECTS_CELLafctGENF
+C0039194,C2613365,AFFECTS,T-Lymphocyte,DNA hypermethylation,cell,genf,1,AFFECTS_CELLafctGENF
+C0039194,C3537096,AFFECTS,T-Lymphocyte,Translational Regulation,cell,genf,1,AFFECTS_CELLafctGENF
+C0039198,C0017262,AFFECTS,Regulatory T-Lymphocytes,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0042542,C0026882,AFFECTS,Vero Cells,Mutation,cell,genf,1,AFFECTS_CELLafctGENF
+C0042542,C0079394,AFFECTS,Vero Cells,"Resting Phase, Cell Cycle",cell,genf,1,AFFECTS_CELLafctGENF
+C0042542,C1623179,AFFECTS,Vero Cells,transcriptional attenuation,cell,genf,1,AFFECTS_CELLafctGENF
+C0206116,C0017262,AFFECTS,Microglia,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0221284,C0017262,AFFECTS,Leptocyte,Gene Expression,cell,genf,3,AFFECTS_CELLafctGENF
+C0221284,C0026882,AFFECTS,Leptocyte,Mutation,cell,genf,1,AFFECTS_CELLafctGENF
+C0221284,C0598312,AFFECTS,Leptocyte,DNA Replication,cell,genf,1,AFFECTS_CELLafctGENF
+C0221284,C0598496,AFFECTS,Leptocyte,Gene Silencing,cell,genf,1,AFFECTS_CELLafctGENF
+C0221284,C0917892,AFFECTS,Leptocyte,Genetic Drift,cell,genf,1,AFFECTS_CELLafctGENF
+C0221284,C1136031,AFFECTS,Leptocyte,RNA Interference,cell,genf,1,AFFECTS_CELLafctGENF
+C0221910,C0162493,AFFECTS,Squamous Epithelial Cells,Transcriptional Activation,cell,genf,1,AFFECTS_CELLafctGENF
+C0225336,C0017262,AFFECTS,Endothelial Cells,Gene Expression,cell,genf,3,AFFECTS_CELLafctGENF
+C0225336,C1148759,AFFECTS,Endothelial Cells,transcription factor activity,cell,genf,1,AFFECTS_CELLafctGENF
+C0225698,C0017262,AFFECTS,Alveolar Epithelial Cells,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0227525,C0035380,AFFECTS,Hepatocyte,Reverse Transcription,cell,genf,1,AFFECTS_CELLafctGENF
+C0227525,C0040649,AFFECTS,Hepatocyte,"Transcription, Genetic",cell,genf,1,AFFECTS_CELLafctGENF
+C0227525,C0162493,AFFECTS,Hepatocyte,Transcriptional Activation,cell,genf,1,AFFECTS_CELLafctGENF
+C0242633,C1657235,AFFECTS,T-helper cell type 2,NFAT protein binding,cell,genf,1,AFFECTS_CELLafctGENF
+C0282549,C0017262,AFFECTS,HL-60 Cells,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0334227,C0040649,AFFECTS,"Tumor cells, malignant","Transcription, Genetic",cell,genf,1,AFFECTS_CELLafctGENF
+C0334227,C1156187,AFFECTS,"Tumor cells, malignant",chromatin organization,cell,genf,1,AFFECTS_CELLafctGENF
+C0553257,C0017262,AFFECTS,Epithelial cell of renal tubule,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0553257,C2247634,AFFECTS,Epithelial cell of renal tubule,stress granule assembly,cell,genf,1,AFFECTS_CELLafctGENF
+C0597694,C1515669,AFFECTS,Xenopus oocyte,mRNA Export,cell,genf,1,AFFECTS_CELLafctGENF
+C0597694,C1519616,AFFECTS,Xenopus oocyte,Translational Activation,cell,genf,1,AFFECTS_CELLafctGENF
+C0598829,C0026882,AFFECTS,Madin Darby Canine Kidney Cells,Mutation,cell,genf,1,AFFECTS_CELLafctGENF
+C0598829,C1372275,AFFECTS,Madin Darby Canine Kidney Cells,Increased DNA Replication,cell,genf,1,AFFECTS_CELLafctGENF
+C0682521,C0017262,AFFECTS,primate cell line,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C0887899,C0017262,AFFECTS,Myeloid Cells,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C1148429,C1515669,AFFECTS,Unidentified cell,mRNA Export,cell,genf,1,AFFECTS_CELLafctGENF
+C1171346,C3830412,AFFECTS,Human Embryonic Stem Cells,DNA Hydroxymethylation,cell,genf,1,AFFECTS_CELLafctGENF
+C1183428,C0017262,AFFECTS,Solocyte,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C1257743,C0040624,AFFECTS,3T3-L1 Cells,"Trans-Activation, Genetic",cell,genf,1,AFFECTS_CELLafctGENF
+C1257743,C1148673,AFFECTS,3T3-L1 Cells,DNA Binding,cell,genf,1,AFFECTS_CELLafctGENF
+C1257909,C0599773,AFFECTS,Diploid Cell,Homologous Recombination,cell,genf,1,AFFECTS_CELLafctGENF
+C1321301,C0525038,AFFECTS,Peripheral blood mononuclear cell (cell),Amino Acid Substitution,cell,genf,1,AFFECTS_CELLafctGENF
+C1328818,C1171362,AFFECTS,Podocytes,protein expression,cell,genf,1,AFFECTS_CELLafctGENF
+C1512977,C0034865,AFFECTS,Mammalian Cell,"Recombination, Genetic",cell,genf,2,AFFECTS_CELLafctGENF
+C1512977,C1158013,AFFECTS,Mammalian Cell,Nonsense Mediated mRNA Decay,cell,genf,1,AFFECTS_CELLafctGENF
+C1512977,C1622990,AFFECTS,Mammalian Cell,pre-mRNA splicing,cell,genf,1,AFFECTS_CELLafctGENF
+C1512977,C2754183,AFFECTS,Mammalian Cell,nuclear RNA surveillance,cell,genf,1,AFFECTS_CELLafctGENF
+C1524008,C0678945,AFFECTS,Leukocyte - Natural Killer Cell (MMHCC),polygene,cell,genf,1,AFFECTS_CELLafctGENF
+C1711178,C0162493,AFFECTS,Bronchial Epithelial Cell,Transcriptional Activation,cell,genf,1,AFFECTS_CELLafctGENF
+C1953343,C0020202,AFFECTS,Chromosome number,Crossbreeding,cell,genf,1,AFFECTS_CELLafctGENF
+C2323499,C0017262,AFFECTS,Hematopoietic cell,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C2717940,C0040649,AFFECTS,Hep G2 Cells,"Transcription, Genetic",cell,genf,1,AFFECTS_CELLafctGENF
+C2936239,C0599773,AFFECTS,HEK293 Cells,Homologous Recombination,cell,genf,1,AFFECTS_CELLafctGENF
+C2936239,C2610186,AFFECTS,HEK293 Cells,"nuclear mRNA cis splicing, via spliceosome",cell,genf,1,AFFECTS_CELLafctGENF
+C3178867,C0017262,AFFECTS,Plant Cells,Gene Expression,cell,genf,1,AFFECTS_CELLafctGENF
+C4277577,C1171362,AFFECTS,A549 Cells,protein expression,cell,genf,1,AFFECTS_CELLafctGENF
+C4744501,C0162493,AFFECTS,M1 Macrophage,Transcriptional Activation,cell,genf,1,AFFECTS_CELLafctGENF

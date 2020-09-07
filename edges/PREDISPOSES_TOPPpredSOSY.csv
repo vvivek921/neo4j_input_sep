@@ -1,0 +1,59 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005527,C1517205,PREDISPOSES,Biological Response Modifier Therapy,Flare,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0007876,C0043144,PREDISPOSES,Cesarean section,Wheezing,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0013216,C0043144,PREDISPOSES,Pharmacotherapy,Wheezing,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0013459,C3714552,PREDISPOSES,Early Mobilization,Weakness,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0013806,C0010200,PREDISPOSES,Electroconvulsive Therapy,Coughing,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0013969,C0030193,PREDISPOSES,Emergency treatment,Pain,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0016286,C0476273,PREDISPOSES,Fluid Therapy,Respiratory distress,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0019328,C0039591,PREDISPOSES,Herniorrhaphy,Pain in testicle,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0020971,C0392171,PREDISPOSES,Immunization,Influenza-like symptoms,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0021925,C0010200,PREDISPOSES,Intubation,Coughing,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0021925,C0476273,PREDISPOSES,Intubation,Respiratory distress,topp,sosy,2,PREDISPOSES_TOPPpredSOSY
+C0033045,C0010200,PREDISPOSES,Premedication,Coughing,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0033045,C0037383,PREDISPOSES,Premedication,Sneezing,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0033045,C0042963,PREDISPOSES,Premedication,Vomiting,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0033144,C0043144,PREDISPOSES,Primary Prevention,Wheezing,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0033968,C0917801,PREDISPOSES,Psychotherapy,Sleeplessness,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0034386,C0086132,PREDISPOSES,Quarantine,Depressive Symptoms,topp,sosy,2,PREDISPOSES_TOPPpredSOSY
+C0034386,C0233401,PREDISPOSES,Quarantine,Psychiatric symptom,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0034386,C0392674,PREDISPOSES,Quarantine,Exhaustion,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0035139,C0036572,PREDISPOSES,Surgical Replantation,Seizures,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0035273,C0349410,PREDISPOSES,Resuscitation procedure,Single organ dysfunction,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0040590,C0231818,PREDISPOSES,Tracheostomy procedure,Airway constriction,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0040590,C0476273,PREDISPOSES,Tracheostomy procedure,Respiratory distress,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0040732,C0599766,PREDISPOSES,Transplantation,Recovery of Function,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0042196,C0011991,PREDISPOSES,Vaccination,Diarrhea,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0042196,C0152032,PREDISPOSES,Vaccination,Urinary hesitation,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0042196,C0392171,PREDISPOSES,Vaccination,Influenza-like symptoms,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0042387,C0039591,PREDISPOSES,Vasectomy,Pain in testicle,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0042903,C0314719,PREDISPOSES,Vitrectomy,Dryness of eye,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0079159,C0010200,PREDISPOSES,Conscious Sedation,Coughing,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0086915,C0010200,PREDISPOSES,"Drainage, Postural",Coughing,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0152060,C0016204,PREDISPOSES,Transection (procedure),Flatulence,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0152060,C0036572,PREDISPOSES,Transection (procedure),Seizures,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0185115,C0520909,PREDISPOSES,Extraction,Postoperative Nausea and Vomiting,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0199176,C0011991,PREDISPOSES,Prophylactic treatment,Diarrhea,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0199176,C0037090,PREDISPOSES,Prophylactic treatment,"Signs and Symptoms, Respiratory",topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0199470,C0015672,PREDISPOSES,Mechanical ventilation,Fatigue,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0199470,C0037090,PREDISPOSES,Mechanical ventilation,"Signs and Symptoms, Respiratory",topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0199470,C3714552,PREDISPOSES,Mechanical ventilation,Weakness,topp,sosy,2,PREDISPOSES_TOPPpredSOSY
+C0199779,C0011991,PREDISPOSES,Administration of antibiotic,Diarrhea,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0204863,C0030193,PREDISPOSES,Splint removal,Pain,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0206058,C0231243,PREDISPOSES,Elective Surgical Procedures,Early complication,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0439775,C0392674,PREDISPOSES,Elevation procedure,Exhaustion,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0441474,C0314719,PREDISPOSES,Chemical destruction,Dryness of eye,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0459914,C0015967,PREDISPOSES,Conservative Treatment,Fever,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0472699,C0019079,PREDISPOSES,Hemopoietic stem cell transplant,Hemoptysis,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0543467,C0003578,PREDISPOSES,Operative Surgical Procedures,Apnea,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0543467,C0015672,PREDISPOSES,Operative Surgical Procedures,Fatigue,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0553741,C0476273,PREDISPOSES,Fluid Management,Respiratory distress,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0700632,C0030193,PREDISPOSES,Endodontic procedure,Pain,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0917927,C0011991,PREDISPOSES,Breast-Conserving Surgery,Diarrhea,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C0920687,C0476273,PREDISPOSES,cancer care,Respiratory distress,topp,sosy,2,PREDISPOSES_TOPPpredSOSY
+C0949266,C0233401,PREDISPOSES,"Therapies, Investigational",Psychiatric symptom,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C1511790,C0043144,PREDISPOSES,Detection,Wheezing,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C1512721,C0392674,PREDISPOSES,Inferential Current Treatment,Exhaustion,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C1522449,C0849640,PREDISPOSES,Therapeutic radiology procedure,skin damage,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C1868981,C0349410,PREDISPOSES,Invasive mechanical ventilation NOS,Single organ dysfunction,topp,sosy,1,PREDISPOSES_TOPPpredSOSY
+C2242628,C0011991,PREDISPOSES,Fecal Microbiota Transplantation,Diarrhea,topp,sosy,1,PREDISPOSES_TOPPpredSOSY

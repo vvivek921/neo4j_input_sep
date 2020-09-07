@@ -1,0 +1,89 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001699,C0011065,CAUSES,Klebsiella pneumoniae,Cessation of life,bact,orgf,2,CAUSES_BACTcausORGF
+C0004587,C0011065,CAUSES,Bacillus <bacterium>,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0004589,C0004048,CAUSES,Bacillus anthracis,Inspiration function,bact,orgf,1,CAUSES_BACTcausORGF
+C0004589,C0011065,CAUSES,Bacillus anthracis,Cessation of life,bact,orgf,4,CAUSES_BACTcausORGF
+C0004611,C0011065,CAUSES,Bacteria,Cessation of life,bact,orgf,18,CAUSES_BACTcausORGF
+C0004611,C0012238,CAUSES,Bacteria,Digestion,bact,orgf,1,CAUSES_BACTcausORGF
+C0004611,C0014653,CAUSES,Bacteria,Equilibrium,bact,orgf,2,CAUSES_BACTcausORGF
+C0004611,C0018270,CAUSES,Bacteria,Growth,bact,orgf,3,CAUSES_BACTcausORGF
+C0004611,C0021080,CAUSES,Bacteria,Natural immunosuppression,bact,orgf,2,CAUSES_BACTcausORGF
+C0004611,C0032961,CAUSES,Bacteria,Pregnancy,bact,orgf,1,CAUSES_BACTcausORGF
+C0004611,C0042789,CAUSES,Bacteria,Vision,bact,orgf,1,CAUSES_BACTcausORGF
+C0004611,C0678723,CAUSES,Bacteria,Biologic Development,bact,orgf,1,CAUSES_BACTcausORGF
+C0004611,C0678889,CAUSES,Bacteria,Immunoregulation,bact,orgf,2,CAUSES_BACTcausORGF
+C0004611,C0699900,CAUSES,Bacteria,Catabolism,bact,orgf,1,CAUSES_BACTcausORGF
+C0004611,C1155328,CAUSES,Bacteria,Antiviral Response,bact,orgf,1,CAUSES_BACTcausORGF
+C0004611,C1327413,CAUSES,Bacteria,cytokine production,bact,orgf,1,CAUSES_BACTcausORGF
+C0004611,C1819437,CAUSES,Bacteria,interleukin-10 production,bact,orgf,2,CAUSES_BACTcausORGF
+C0004611,C1819461,CAUSES,Bacteria,interleukin-8 production,bact,orgf,1,CAUSES_BACTcausORGF
+C0005380,C1819437,CAUSES,Bifidobacterium,interleukin-10 production,bact,orgf,2,CAUSES_BACTcausORGF
+C0006034,C1327413,CAUSES,Borrelia burgdorferi,cytokine production,bact,orgf,1,CAUSES_BACTcausORGF
+C0006034,C2247951,CAUSES,Borrelia burgdorferi,type III interferon production,bact,orgf,1,CAUSES_BACTcausORGF
+C0006303,C0678723,CAUSES,Brucella,Biologic Development,bact,orgf,1,CAUSES_BACTcausORGF
+C0008148,C1819451,CAUSES,Chlamydia,interleukin-23 production,bact,orgf,1,CAUSES_BACTcausORGF
+C0009054,C1819437,CAUSES,Clostridium,interleukin-10 production,bact,orgf,1,CAUSES_BACTcausORGF
+C0009055,C0018270,CAUSES,Clostridium botulinum,Growth,bact,orgf,1,CAUSES_BACTcausORGF
+C0009064,C0678210,CAUSES,Clostridium tetani,"Passive immunity, function",bact,orgf,1,CAUSES_BACTcausORGF
+C0014834,C0011065,CAUSES,Escherichia coli,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0014834,C0032961,CAUSES,Escherichia coli,Pregnancy,bact,orgf,1,CAUSES_BACTcausORGF
+C0014834,C1819464,CAUSES,Escherichia coli,tumor necrosis factor production,bact,orgf,3,CAUSES_BACTcausORGF
+C0018150,C0011065,CAUSES,Gram Negative Bacteria,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0018154,C0011065,CAUSES,Gram-Positive Bacteria,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0018154,C1819431,CAUSES,Gram-Positive Bacteria,interferon-alpha production,bact,orgf,1,CAUSES_BACTcausORGF
+C0018483,C0011065,CAUSES,Haemophilus influenzae,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0018483,C0018270,CAUSES,Haemophilus influenzae,Growth,bact,orgf,1,CAUSES_BACTcausORGF
+C0022727,C1148523,CAUSES,Klebsiella,Childbirth,bact,orgf,1,CAUSES_BACTcausORGF
+C0022828,C0018270,CAUSES,L Forms,Growth,bact,orgf,1,CAUSES_BACTcausORGF
+C0023238,C0011065,CAUSES,Legionella pneumophila,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0023238,C0699900,CAUSES,Legionella pneumophila,Catabolism,bact,orgf,1,CAUSES_BACTcausORGF
+C0026912,C0018270,CAUSES,Genus Mycobacterium,Growth,bact,orgf,1,CAUSES_BACTcausORGF
+C0026912,C1327413,CAUSES,Genus Mycobacterium,cytokine production,bact,orgf,1,CAUSES_BACTcausORGF
+C0026912,C1819437,CAUSES,Genus Mycobacterium,interleukin-10 production,bact,orgf,1,CAUSES_BACTcausORGF
+C0026926,C0011065,CAUSES,Mycobacterium tuberculosis,Cessation of life,bact,orgf,10,CAUSES_BACTcausORGF
+C0026926,C0018270,CAUSES,Mycobacterium tuberculosis,Growth,bact,orgf,1,CAUSES_BACTcausORGF
+C0026926,C1819435,CAUSES,Mycobacterium tuberculosis,interleukin-1 beta production,bact,orgf,1,CAUSES_BACTcausORGF
+C0027571,C0011065,CAUSES,Neisseria,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0032071,C0011065,CAUSES,Plankton,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0033809,C0011065,CAUSES,Pseudomonas aeruginosa,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0035583,C1819426,CAUSES,Rickettsia,chemokine production,bact,orgf,1,CAUSES_BACTcausORGF
+C0036111,C0011065,CAUSES,Salmonella,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0036111,C0026649,CAUSES,Salmonella,Movement,bact,orgf,1,CAUSES_BACTcausORGF
+C0036126,C0011065,CAUSES,Salmonella typhimurium,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0036766,C0011065,CAUSES,Serratia marcescens,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0036953,C0011065,CAUSES,Shigella,Cessation of life,bact,orgf,2,CAUSES_BACTcausORGF
+C0038028,C3850177,CAUSES,"Spores, Bacterial","Inactivation, Metabolic",bact,orgf,1,CAUSES_BACTcausORGF
+C0038172,C0011065,CAUSES,Staphylococcus aureus,Cessation of life,bact,orgf,6,CAUSES_BACTcausORGF
+C0038410,C0011065,CAUSES,Streptococcus pneumoniae,Cessation of life,bact,orgf,7,CAUSES_BACTcausORGF
+C0038410,C0678889,CAUSES,Streptococcus pneumoniae,Immunoregulation,bact,orgf,1,CAUSES_BACTcausORGF
+C0038411,C0011065,CAUSES,Streptococcus pyogenes,Cessation of life,bact,orgf,3,CAUSES_BACTcausORGF
+C0038420,C0037361,CAUSES,Streptomyces,Smell Perception,bact,orgf,1,CAUSES_BACTcausORGF
+C0079488,C1654934,CAUSES,Helicobacter pylori,Immune Evasion,bact,orgf,1,CAUSES_BACTcausORGF
+C0081786,C0018270,CAUSES,Microbial Biofilms,Growth,bact,orgf,1,CAUSES_BACTcausORGF
+C0081786,C1654934,CAUSES,Microbial Biofilms,Immune Evasion,bact,orgf,1,CAUSES_BACTcausORGF
+C0085472,C0018270,CAUSES,Agrobacterium tumefaciens,Growth,bact,orgf,1,CAUSES_BACTcausORGF
+C0085472,C1148523,CAUSES,Agrobacterium tumefaciens,Childbirth,bact,orgf,1,CAUSES_BACTcausORGF
+C0085504,C0011065,CAUSES,Chlamydophila pneumoniae,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0085957,C0020966,CAUSES,Bacillus Calmette-Guerin,Cellular Immunity,bact,orgf,1,CAUSES_BACTcausORGF
+C0314829,C0020966,CAUSES,Aeromonas salmonicida,Cellular Immunity,bact,orgf,1,CAUSES_BACTcausORGF
+C0318157,C0011065,CAUSES,Streptococcus viridans group,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0318256,C0011065,CAUSES,Vibrio vulnificus,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0376625,C0011065,CAUSES,Escherichia coli O157,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0376625,C1154988,CAUSES,Escherichia coli O157,defense response,bact,orgf,1,CAUSES_BACTcausORGF
+C0445750,C0011065,CAUSES,Salmonella enterica,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0525033,C0678723,CAUSES,Probiotics,Biologic Development,bact,orgf,1,CAUSES_BACTcausORGF
+C0525033,C0678889,CAUSES,Probiotics,Immunoregulation,bact,orgf,1,CAUSES_BACTcausORGF
+C0563199,C0011065,CAUSES,bacterial cell,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C0580797,C0018270,CAUSES,Enterotoxigenic Escherichia coli,Growth,bact,orgf,1,CAUSES_BACTcausORGF
+C0580797,C0025516,CAUSES,Enterotoxigenic Escherichia coli,"Metabolic Detoxication, Drug",bact,orgf,1,CAUSES_BACTcausORGF
+C1014432,C1819450,CAUSES,Candidatus Arthromitus sp. SFB-mouse,interleukin-22 production,bact,orgf,1,CAUSES_BACTcausORGF
+C1265292,C0011065,CAUSES,Methicillin-Resistant Staphylococcus aureus,Cessation of life,bact,orgf,4,CAUSES_BACTcausORGF
+C1265294,C0011065,CAUSES,Streptococcus species,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C1319979,C0011065,CAUSES,Escherichia coli O104,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C1444090,C0011065,CAUSES,Resistant bacteria,Cessation of life,bact,orgf,4,CAUSES_BACTcausORGF
+C1512715,C1327413,CAUSES,"Infectious Agent, Bacteria",cytokine production,bact,orgf,1,CAUSES_BACTcausORGF
+C2585856,C0018270,CAUSES,Agrobacterium rhizogenes,Growth,bact,orgf,1,CAUSES_BACTcausORGF
+C4038420,C0011065,CAUSES,Mycobacterium abscessus Complex,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C4415466,C0011065,CAUSES,Actinobacteria bacterium,Cessation of life,bact,orgf,1,CAUSES_BACTcausORGF
+C4695382,C0678723,CAUSES,Intracellular bacteria,Biologic Development,bact,orgf,1,CAUSES_BACTcausORGF
+C4698075,C0011065,CAUSES,Virulent strain,Cessation of life,bact,orgf,4,CAUSES_BACTcausORGF

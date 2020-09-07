@@ -1,0 +1,36 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003611,C0032787,NEG_PREVENTS,Appendectomy,Postoperative Complications,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0011079,C3714514,NEG_PREVENTS,Debridement,Infection,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0017296,C0036983,NEG_PREVENTS,gene therapy,Septic Shock,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0020971,C0013604,NEG_PREVENTS,Immunization,Edema,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0020971,C0162633,NEG_PREVENTS,Immunization,Viral Shedding,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0020971,C3714514,NEG_PREVENTS,Immunization,Infection,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0020974,C3714514,NEG_PREVENTS,passive immunization procedure,Infection,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0021083,C0021368,NEG_PREVENTS,Immunotherapy,Inflammation,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0030547,C0026846,NEG_PREVENTS,Parenteral Nutrition,Muscular Atrophy,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0032042,C0036983,NEG_PREVENTS,Placebos,Septic Shock,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0032740,C0004144,NEG_PREVENTS,Positive End-Expiratory Pressure,Atelectasis,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0033045,C0429892,NEG_PREVENTS,Premedication,Type 1 hypersensitivity response,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0034386,C3714514,NEG_PREVENTS,Quarantine,Infection,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0035139,C3714514,NEG_PREVENTS,Surgical Replantation,Infection,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0038288,C0242781,NEG_PREVENTS,Sexual sterilization,disease transmission,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0040732,C0011304,NEG_PREVENTS,Transplantation,Demyelination,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0040732,C0333641,NEG_PREVENTS,Transplantation,Atrophic,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0040808,C0242656,NEG_PREVENTS,Treatment Protocols,Disease Progression,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0040861,C0242781,NEG_PREVENTS,Triage,disease transmission,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0042196,C0021359,NEG_PREVENTS,Vaccination,Infertility,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0042196,C0162633,NEG_PREVENTS,Vaccination,Viral Shedding,topp,patf,3,NEG_PREVENTS_TOPPnprevPATF
+C0042196,C0243083,NEG_PREVENTS,Vaccination,associated disease,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0042196,C0392618,NEG_PREVENTS,Vaccination,Postoperative infection,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0042196,C3714514,NEG_PREVENTS,Vaccination,Infection,topp,patf,6,NEG_PREVENTS_TOPPnprevPATF
+C0042200,C4061114,NEG_PREVENTS,Influenza vaccination,Acute illness,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0162563,C0085298,NEG_PREVENTS,Cardiac ablation,Sudden Cardiac Death,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0185003,C3714514,NEG_PREVENTS,Reparative closure,Infection,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0199176,C1373218,NEG_PREVENTS,Prophylactic treatment,Decreased Immunologic Activity [PE],topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0394374,C0015376,NEG_PREVENTS,Vagotomy,Extravasation,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0418981,C0034063,NEG_PREVENTS,Medical therapy,Pulmonary Edema,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0547070,C0021655,NEG_PREVENTS,Ablation,Insulin Resistance,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0554804,C0242184,NEG_PREVENTS,Assisted breathing,Hypoxia,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0677850,C0021368,NEG_PREVENTS,Adjuvant Therapy,Inflammation,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C0947899,C3544094,NEG_PREVENTS,Venous Therapy,Arterial thromboembolism,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF
+C4330729,C3714514,NEG_PREVENTS,Myelosuppressive Chemotherapy,Infection,topp,patf,1,NEG_PREVENTS_TOPPnprevPATF

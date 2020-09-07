@@ -1,0 +1,277 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001566,C0037284,NEG_TREATS,"Administration, Topical",Skin lesion,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0001566,C0042165,NEG_TREATS,"Administration, Topical",Anterior uveitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0002928,C5203670,NEG_TREATS,Spinal Anesthesia,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0007203,C0018790,NEG_TREATS,Cardiopulmonary Resuscitation,Cardiac Arrest,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0007876,C1175175,NEG_TREATS,Cesarean section,Severe Acute Respiratory Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0007876,C5203670,NEG_TREATS,Cesarean section,COVID-19,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0009429,C0010340,NEG_TREATS,Combined Modality Therapy,Critical Illness,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0009429,C0036690,NEG_TREATS,Combined Modality Therapy,Septicemia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0009429,C1623038,NEG_TREATS,Combined Modality Therapy,Cirrhosis,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0011121,C5203670,NEG_TREATS,Decontamination,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0011946,C0010340,NEG_TREATS,Dialysis procedure,Critical Illness,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0011946,C5203670,NEG_TREATS,Dialysis procedure,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0012683,C0162534,NEG_TREATS,Disinfection,Prion Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0012683,C0206750,NEG_TREATS,Disinfection,Coronavirus Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0012683,C5203670,NEG_TREATS,Disinfection,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0013216,C0027430,NEG_TREATS,Pharmacotherapy,Nasal Polyps,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0013216,C0035222,NEG_TREATS,Pharmacotherapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0013216,C0042769,NEG_TREATS,Pharmacotherapy,Virus Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0013216,C0524851,NEG_TREATS,Pharmacotherapy,Neurodegenerative Disorders,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0013216,C0730328,NEG_TREATS,Pharmacotherapy,Central Serous Chorioretinopathy,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0013216,C5203670,NEG_TREATS,Pharmacotherapy,COVID-19,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0013778,C0003811,NEG_TREATS,Electric Countershock,Cardiac Arrhythmia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0013778,C0018799,NEG_TREATS,Electric Countershock,Heart Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0013931,C1260873,NEG_TREATS,"Embolization, Therapeutic",Aortic valve disorder,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0015236,C2747816,NEG_TREATS,"Exchange Transfusion, Whole Blood",Severe Malaria,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0015252,C0267604,NEG_TREATS,removal technique,Gross' disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0015357,C0031190,NEG_TREATS,Extracorporeal Membrane Oxygenation,Persistent Fetal Circulation Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0018823,C0242852,NEG_TREATS,Heart Transplantation,Proliferative vitreoretinopathy,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0019004,C0022661,NEG_TREATS,Hemodialysis,"Kidney Failure, Chronic",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0019004,C0035436,NEG_TREATS,Hemodialysis,Rheumatic Fever,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0019004,C1611171,NEG_TREATS,Hemodialysis,Thalamic infarction,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0020971,C0041466,NEG_TREATS,Immunization,Typhoid Fever,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0020971,C0042769,NEG_TREATS,Immunization,Virus Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0020971,C0748168,NEG_TREATS,Immunization,Pulmonary Pathology,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0020971,C5203670,NEG_TREATS,Immunization,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0020974,C0152517,NEG_TREATS,passive immunization procedure,Viral gastroenteritis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0020975,C0042769,NEG_TREATS,Secondary Immunization,Virus Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0021079,C0002880,NEG_TREATS,Therapeutic immunosuppression,Autoimmune hemolytic anemia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0021079,C0398650,NEG_TREATS,Therapeutic immunosuppression,Immune thrombocytopenic purpura,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0021107,C0018802,NEG_TREATS,Implantation procedure,Congestive heart failure,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0021107,C0031099,NEG_TREATS,Implantation procedure,Periodontitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0021925,C1145670,NEG_TREATS,Intubation,Respiratory Failure,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0023911,C0019196,NEG_TREATS,Transplantation of liver,Hepatitis C,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0030231,C0032285,NEG_TREATS,Palliative Care,Pneumonia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0030231,C0270724,NEG_TREATS,Palliative Care,Infantile Neuroaxonal Dystrophy,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0032042,C0004096,NEG_TREATS,Placebos,Asthma,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0032042,C0015695,NEG_TREATS,Placebos,Fatty Liver,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0032042,C0239946,NEG_TREATS,Placebos,"Fibrosis, Liver",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0032042,C0694549,NEG_TREATS,Placebos,Community acquired pneumonia,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0032042,C3873497,NEG_TREATS,Placebos,Severe acute respiratory infection,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0032042,C5203670,NEG_TREATS,Placebos,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0032113,C0019061,NEG_TREATS,Plasma Exchange,Hemolytic-Uremic Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0032113,C0026975,NEG_TREATS,Plasma Exchange,Myelitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0032113,C0936251,NEG_TREATS,Plasma Exchange,Polyradiculitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0034386,C0009450,NEG_TREATS,Quarantine,Communicable Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0034386,C1175175,NEG_TREATS,Quarantine,Severe Acute Respiratory Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0034386,C5203670,NEG_TREATS,Quarantine,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0035124,C1536220,NEG_TREATS,Reperfusion Therapy,ST segment elevation myocardial infarction,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0036435,C0155789,NEG_TREATS,Sclerotherapy,Bleeding esophageal varices,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0038288,C0162534,NEG_TREATS,Sexual sterilization,Prion Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040732,C0275518,NEG_TREATS,Transplantation,Acute infectious disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040732,C0302809,NEG_TREATS,Transplantation,Fulminant Hepatitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040808,C0004610,NEG_TREATS,Treatment Protocols,Bacteremia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040808,C0004623,NEG_TREATS,Treatment Protocols,Bacterial Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040808,C0009450,NEG_TREATS,Treatment Protocols,Communicable Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040808,C0014059,NEG_TREATS,Treatment Protocols,"Encephalomyelitis, Acute Disseminated",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040808,C0014118,NEG_TREATS,Treatment Protocols,Endocarditis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040808,C0019196,NEG_TREATS,Treatment Protocols,Hepatitis C,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040808,C0036690,NEG_TREATS,Treatment Protocols,Septicemia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040808,C0042769,NEG_TREATS,Treatment Protocols,Virus Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040808,C1175175,NEG_TREATS,Treatment Protocols,Severe Acute Respiratory Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040808,C1290325,NEG_TREATS,Treatment Protocols,Disorder of lower respiratory system,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040808,C3266628,NEG_TREATS,Treatment Protocols,Persistent asthma,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040808,C5203670,NEG_TREATS,Treatment Protocols,COVID-19,topp,dsyn,5,NEG_TREATS_TOPPntrtsDSYN
+C0040861,C0009450,NEG_TREATS,Triage,Communicable Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040861,C0035243,NEG_TREATS,Triage,Respiratory Tract Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0040861,C5203670,NEG_TREATS,Triage,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0042196,C0001314,NEG_TREATS,Vaccination,Acute Disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0042196,C0021400,NEG_TREATS,Vaccination,Influenza,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0042196,C0036310,NEG_TREATS,Vaccination,Scheuermann's Disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0042196,C0042769,NEG_TREATS,Vaccination,Virus Diseases,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0042196,C0206750,NEG_TREATS,Vaccination,Coronavirus Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0042196,C0270724,NEG_TREATS,Vaccination,Infantile Neuroaxonal Dystrophy,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0042196,C0271714,NEG_TREATS,Vaccination,"Hypoglycemia, leucine-induced",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0042196,C0276447,NEG_TREATS,Vaccination,Rhinovirus infection,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0042196,C5203670,NEG_TREATS,Vaccination,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0042201,C0019693,NEG_TREATS,Measles vaccination,HIV Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0042209,C5203670,NEG_TREATS,Vaccine Therapy,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0057163,C1175175,NEG_TREATS,DAV regimen,Severe Acute Respiratory Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0057163,C3694279,NEG_TREATS,DAV regimen,Middle East Respiratory Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0086225,C0010340,NEG_TREATS,Enteral Feeding,Critical Illness,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0086818,C0030312,NEG_TREATS,Platelet Transfusion,Pancytopenia,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0086818,C0398650,NEG_TREATS,Platelet Transfusion,Immune thrombocytopenic purpura,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0149783,C0004096,NEG_TREATS,Steroid therapy,Asthma,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0149783,C0035222,NEG_TREATS,Steroid therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0149783,C0035243,NEG_TREATS,Steroid therapy,Respiratory Tract Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0149783,C0042164,NEG_TREATS,Steroid therapy,Uveitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0149783,C2317131,NEG_TREATS,Steroid therapy,Acute rhinosinusitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0150211,C0221054,NEG_TREATS,Environmental care procedure,Welander Distal Myopathy,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0152060,C5203670,NEG_TREATS,Transection (procedure),COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0162578,C0149871,NEG_TREATS,Thrombectomy,Deep Vein Thrombosis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0185003,C5203670,NEG_TREATS,Reparative closure,COVID-19,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0185115,C0497156,NEG_TREATS,Extraction,Lymphadenopathy,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0185115,C0877445,NEG_TREATS,Extraction,Candidemia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0189476,C0745744,NEG_TREATS,Insertion of pleural tube drain,End Stage Liver Disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0198482,C0152020,NEG_TREATS,Operation on abdominal region,Gastroparesis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0198482,C1701940,NEG_TREATS,Operation on abdominal region,"Pneumonia, Ventilator-Associated",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199176,C0001486,NEG_TREATS,Prophylactic treatment,Adenovirus Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199176,C0006271,NEG_TREATS,Prophylactic treatment,Bronchiolitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199176,C0009319,NEG_TREATS,Prophylactic treatment,Colitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199176,C0019196,NEG_TREATS,Prophylactic treatment,Hepatitis C,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0199176,C0021400,NEG_TREATS,Prophylactic treatment,Influenza,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199176,C0035222,NEG_TREATS,Prophylactic treatment,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199176,C0206608,NEG_TREATS,Prophylactic treatment,Flavivirus Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199176,C0442886,NEG_TREATS,Prophylactic treatment,Secondary Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199176,C0836924,NEG_TREATS,Prophylactic treatment,Thrombocytosis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199176,C5203670,NEG_TREATS,Prophylactic treatment,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199451,C0024117,NEG_TREATS,Continuous Positive Airway Pressure,Chronic Obstructive Airway Disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199451,C0032285,NEG_TREATS,Continuous Positive Airway Pressure,Pneumonia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199451,C0520679,NEG_TREATS,Continuous Positive Airway Pressure,"Sleep Apnea, Obstructive",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199451,C0740304,NEG_TREATS,Continuous Positive Airway Pressure,copd exacerbation,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199451,C0796279,NEG_TREATS,Continuous Positive Airway Pressure,Carnevale syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199451,C1145670,NEG_TREATS,Continuous Positive Airway Pressure,Respiratory Failure,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199470,C0035222,NEG_TREATS,Mechanical ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0199470,C1145670,NEG_TREATS,Mechanical ventilation,Respiratory Failure,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0199470,C5203670,NEG_TREATS,Mechanical ventilation,COVID-19,topp,dsyn,3,NEG_TREATS_TOPPntrtsDSYN
+C0199779,C0010340,NEG_TREATS,Administration of antibiotic,Critical Illness,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199779,C0024205,NEG_TREATS,Administration of antibiotic,Lymphadenitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199779,C0024312,NEG_TREATS,Administration of antibiotic,Lymphopenia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199779,C0025229,NEG_TREATS,Administration of antibiotic,Melioidosis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199779,C0042749,NEG_TREATS,Administration of antibiotic,Viremia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199779,C0043167,NEG_TREATS,Administration of antibiotic,Pertussis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199779,C0577702,NEG_TREATS,Administration of antibiotic,Basal pneumonia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199779,C1145670,NEG_TREATS,Administration of antibiotic,Respiratory Failure,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0199779,C1264606,NEG_TREATS,Administration of antibiotic,Persistent infection,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0204727,C0021400,NEG_TREATS,Isolation procedure,Influenza,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0204727,C0036310,NEG_TREATS,Isolation procedure,Scheuermann's Disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0204727,C0042769,NEG_TREATS,Isolation procedure,Virus Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0204727,C5203670,NEG_TREATS,Isolation procedure,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0206058,C0024115,NEG_TREATS,Elective Surgical Procedures,Lung diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0242348,C0025294,NEG_TREATS,Serotherapy,Meningococcal meningitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0242388,C0276289,NEG_TREATS,Phytotherapy,Zika Virus Infection,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0262756,C0010340,NEG_TREATS,respiratory management,Critical Illness,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0279030,C0019196,NEG_TREATS,Interferon Therapy,Hepatitis C,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0279033,C0020192,NEG_TREATS,Replacement therapy,Hyaline Membrane Disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0001486,NEG_TREATS,Antiviral Therapy,Adenovirus Infections,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0010340,NEG_TREATS,Antiviral Therapy,Critical Illness,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0011311,NEG_TREATS,Antiviral Therapy,Dengue Fever,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0018965,NEG_TREATS,Antiviral Therapy,Hematuria,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0019099,NEG_TREATS,Antiviral Therapy,"Hemorrhagic Fever, Crimean",topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0031887,NEG_TREATS,Antiviral Therapy,Picornaviridae Infections,topp,dsyn,3,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0032310,NEG_TREATS,Antiviral Therapy,"Pneumonia, Viral",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0206608,NEG_TREATS,Antiviral Therapy,Flavivirus Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0206750,NEG_TREATS,Antiviral Therapy,Coronavirus Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0206752,NEG_TREATS,Antiviral Therapy,Alphavirus Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0275518,NEG_TREATS,Antiviral Therapy,Acute infectious disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0276289,NEG_TREATS,Antiviral Therapy,Zika Virus Infection,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C0282687,NEG_TREATS,Antiviral Therapy,"Hemorrhagic Fever, Ebola",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C1175175,NEG_TREATS,Antiviral Therapy,Severe Acute Respiratory Syndrome,topp,dsyn,3,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C1443953,NEG_TREATS,Antiviral Therapy,Acute viral disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C3694279,NEG_TREATS,Antiviral Therapy,Middle East Respiratory Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C4731917,NEG_TREATS,Antiviral Therapy,Canine infectious respiratory disease complex,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0280274,C5203670,NEG_TREATS,Antiviral Therapy,COVID-19,topp,dsyn,20,NEG_TREATS_TOPPntrtsDSYN
+C0302189,C0035222,NEG_TREATS,Cell Therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0302189,C0036690,NEG_TREATS,Cell Therapy,Septicemia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0302189,C0948245,NEG_TREATS,Cell Therapy,Cytokine Release Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0338248,C0032285,NEG_TREATS,carmustine/cytarabine/etoposide/melphalan regimen,Pneumonia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0344212,C0019187,NEG_TREATS,Glucocorticoid hormone therapy,"Hepatitis, Alcoholic",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0349707,C0032285,NEG_TREATS,Aspiration-action,Pneumonia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0392920,C0730328,NEG_TREATS,Chemotherapy Regimen,Central Serous Chorioretinopathy,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0395020,C5203670,NEG_TREATS,Surgical procedure on eye proper,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0396670,C0021400,NEG_TREATS,Isolated limb perfusion,Influenza,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0418981,C0010278,NEG_TREATS,Medical therapy,Craniosynostosis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0418981,C0010380,NEG_TREATS,Medical therapy,Croup,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0418981,C0020615,NEG_TREATS,Medical therapy,Hypoglycemia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0418981,C0149517,NEG_TREATS,Medical therapy,Chronic tonsillitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0418981,C0340756,NEG_TREATS,Medical therapy,"Stenosis, Pulmonary Vein",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0418981,C0600452,NEG_TREATS,Medical therapy,Hepatopulmonary Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0418981,C0948441,NEG_TREATS,Medical therapy,Venoocclusive disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0419997,C5203670,NEG_TREATS,Viral screening,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0436307,C0497156,NEG_TREATS,Chemoradiotherapy,Lymphadenopathy,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0441509,C5203670,NEG_TREATS,Coagulation procedure,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0455142,C0006271,NEG_TREATS,Intravenous therapy,Bronchiolitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0455142,C0032285,NEG_TREATS,Intravenous therapy,Pneumonia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0459914,C0022660,NEG_TREATS,Conservative Treatment,"Kidney Failure, Acute",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0459914,C3508886,NEG_TREATS,Conservative Treatment,adenovirus keratoconjunctivitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0472699,C0024291,NEG_TREATS,Hemopoietic stem cell transplant,"Lymphohistiocytosis, Hemophagocytic",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0472699,C0149725,NEG_TREATS,Hemopoietic stem cell transplant,Lower respiratory tract infection,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0522794,C0398623,NEG_TREATS,Heparin therapy,Thrombophilia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0547070,C0003811,NEG_TREATS,Ablation,Cardiac Arrhythmia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0553741,C0035222,NEG_TREATS,Fluid Management,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0554804,C0035222,NEG_TREATS,Assisted breathing,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0600558,C0035222,NEG_TREATS,Neoadjuvant Therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0677850,C5203670,NEG_TREATS,Adjuvant Therapy,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0678812,C0035309,NEG_TREATS,systemic administration,Retinal Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0679624,C5203670,NEG_TREATS,medical treatment method,COVID-19,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C0744425,C0024117,NEG_TREATS,glucocorticoid therapy,Chronic Obstructive Airway Disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0744425,C1175175,NEG_TREATS,glucocorticoid therapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0749724,C5203670,NEG_TREATS,tuberculosis treatment,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0887947,C0019693,NEG_TREATS,"Antiretroviral Therapy, Highly Active",HIV Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0887947,C0023524,NEG_TREATS,"Antiretroviral Therapy, Highly Active","Leukoencephalopathy, Progressive Multifocal",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0920467,C0004623,NEG_TREATS,disorder control (procedure),Bacterial Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0920467,C0014038,NEG_TREATS,disorder control (procedure),Encephalitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0920467,C5203670,NEG_TREATS,disorder control (procedure),COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0935576,C0019243,NEG_TREATS,treatment guideline,"Angioedemas, Hereditary",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0935576,C0276832,NEG_TREATS,treatment guideline,Congenital malaria,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C0935576,C5203670,NEG_TREATS,treatment guideline,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1135474,C0001311,NEG_TREATS,Nitric oxide therapy,Acute bronchiolitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1141958,C0149778,NEG_TREATS,anti-infective therapy,Soft Tissue Infection,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1261381,C0010418,NEG_TREATS,Destructive procedure (surgical),Cryptosporidiosis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1280903,C5203670,NEG_TREATS,Exploration procedure,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1455871,C1145670,NEG_TREATS,Non-invasive positive pressure (NIPPV),Respiratory Failure,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C1510425,C0001175,NEG_TREATS,Anti-HIV Therapy,Acquired Immunodeficiency Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1511790,C0024117,NEG_TREATS,Detection,Chronic Obstructive Airway Disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1511790,C0026769,NEG_TREATS,Detection,Multiple Sclerosis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1515119,C0151594,NEG_TREATS,Systemic Therapy,Hemorrhagic diarrhea,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1541822,C5203670,NEG_TREATS,Vaginal delivery procedure,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1708063,C0019655,NEG_TREATS,First line treatment,Histoplasmosis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1708063,C0040034,NEG_TREATS,First line treatment,Thrombocytopenia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1963724,C0442886,NEG_TREATS,Antiretroviral therapy,Secondary Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1963758,C0026769,NEG_TREATS,Immunomodulation,Multiple Sclerosis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1997883,C0010340,NEG_TREATS,Noninvasive Ventilation,Critical Illness,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1997883,C0035222,NEG_TREATS,Noninvasive Ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C1997883,C5203670,NEG_TREATS,Noninvasive Ventilation,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2349740,C0035222,NEG_TREATS,Non-invasive mechanical ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2349740,C0035436,NEG_TREATS,Non-invasive mechanical ventilation,Rheumatic Fever,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2349751,C0035436,NEG_TREATS,Invasive positive pressure ventilation,Rheumatic Fever,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2735670,C0009450,NEG_TREATS,Medication intervention,Communicable Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2827774,C0001175,NEG_TREATS,Current Therapy,Acquired Immunodeficiency Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2827774,C0035220,NEG_TREATS,Current Therapy,"Respiratory Distress Syndrome, Newborn",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2827774,C0155686,NEG_TREATS,Current Therapy,Acute myocarditis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2827774,C0205721,NEG_TREATS,Current Therapy,"Infections, Hospital",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2827774,C0872054,NEG_TREATS,Current Therapy,Latent Infection,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2827774,C1456868,NEG_TREATS,Current Therapy,Diabetic foot ulcer,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2827774,C5203670,NEG_TREATS,Current Therapy,COVID-19,topp,dsyn,3,NEG_TREATS_TOPPntrtsDSYN
+C2827950,C0019693,NEG_TREATS,Previous and Current Therapy,HIV Infections,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2827950,C0041296,NEG_TREATS,Previous and Current Therapy,Tuberculosis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2936405,C5203670,NEG_TREATS,Drug Repositioning,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2936499,C0017145,NEG_TREATS,Hand-Assisted Laparoscopy,Gastric Varix,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C0010709,NEG_TREATS,Conventional Treatment,Cyst,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C0020538,NEG_TREATS,Conventional Treatment,Hypertensive disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C0024535,NEG_TREATS,Conventional Treatment,"Malaria, Falciparum",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C0026848,NEG_TREATS,Conventional Treatment,Myopathy,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C0027726,NEG_TREATS,Conventional Treatment,Nephrotic Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C0035078,NEG_TREATS,Conventional Treatment,Kidney Failure,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C0035222,NEG_TREATS,Conventional Treatment,"Respiratory Distress Syndrome, Adult",topp,dsyn,4,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C0038218,NEG_TREATS,Conventional Treatment,Status Asthmaticus,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C0155686,NEG_TREATS,Conventional Treatment,Acute myocarditis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C0340785,NEG_TREATS,Conventional Treatment,Atypical mycobacterial lymphadenitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C0678236,NEG_TREATS,Conventional Treatment,Rare Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C1145670,NEG_TREATS,Conventional Treatment,Respiratory Failure,topp,dsyn,4,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C5139167,NEG_TREATS,Conventional Treatment,Severe infection,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2945704,C5203670,NEG_TREATS,Conventional Treatment,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2985566,C1175175,NEG_TREATS,Targeted Therapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2985566,C5203670,NEG_TREATS,Targeted Therapy,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2986592,C0009450,NEG_TREATS,Definitive Treatment,Communicable Diseases,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2986592,C0010674,NEG_TREATS,Definitive Treatment,Cystic Fibrosis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2986592,C1175175,NEG_TREATS,Definitive Treatment,Severe Acute Respiratory Syndrome,topp,dsyn,2,NEG_TREATS_TOPPntrtsDSYN
+C2986592,C3694279,NEG_TREATS,Definitive Treatment,Middle East Respiratory Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C2986592,C5203670,NEG_TREATS,Definitive Treatment,COVID-19,topp,dsyn,7,NEG_TREATS_TOPPntrtsDSYN
+C3163695,C4551976,NEG_TREATS,Transarterial embolization,HYPOTRICHOSIS 1,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C3274791,C0026691,NEG_TREATS,Mechanical Circulatory Support,Mucocutaneous Lymph Node Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C3540512,C0027765,NEG_TREATS,Circumferential Supracrestal Fiberotomy,nervous system disorder,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C3540512,C0027927,NEG_TREATS,Circumferential Supracrestal Fiberotomy,Neurosyphilis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C3540512,C0085437,NEG_TREATS,Circumferential Supracrestal Fiberotomy,"Meningitis, Bacterial",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C3540512,C0085584,NEG_TREATS,Circumferential Supracrestal Fiberotomy,Encephalopathies,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C3658366,C0948780,NEG_TREATS,Sublingual Immunotherapy,Rhinosinusitis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C3665674,C5203670,NEG_TREATS,Warburg Therapy,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C3714568,C0024117,NEG_TREATS,Aerosol therapy,Chronic Obstructive Airway Disease,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C3896609,C0014742,NEG_TREATS,Stereotactic Body Radiation Therapy,Erythema Multiforme,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C4053960,C5203670,NEG_TREATS,Systemic Corticosteroid Therapy,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C4722104,C0014518,NEG_TREATS,Desensitization,Toxic Epidermal Necrolysis,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C4723833,C5203670,NEG_TREATS,vertebral augmentation procedure,COVID-19,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C4763675,C0032300,NEG_TREATS,Single Agent Therapy,Lobar Pneumonia,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C4763675,C0524911,NEG_TREATS,Single Agent Therapy,"Hepatitis D, Chronic",topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN
+C4763675,C3694279,NEG_TREATS,Single Agent Therapy,Middle East Respiratory Syndrome,topp,dsyn,1,NEG_TREATS_TOPPntrtsDSYN

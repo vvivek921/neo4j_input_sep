@@ -1,0 +1,322 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0013470,STIMULATES,"Administration, Intranasal",Eating,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0001560,C0020966,STIMULATES,"Administration, Intranasal",Cellular Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0001560,C0020967,STIMULATES,"Administration, Intranasal",Humoral Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0001560,C1148523,STIMULATES,"Administration, Intranasal",Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0001560,C1155328,STIMULATES,"Administration, Intranasal",Antiviral Response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0001563,C0006147,STIMULATES,"Administration, Oral",Breast Feeding,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0001563,C0020966,STIMULATES,"Administration, Oral",Cellular Immunity,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0001563,C0020967,STIMULATES,"Administration, Oral",Humoral Immunity,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0001563,C0598281,STIMULATES,"Administration, Oral",detoxication,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0001563,C0678210,STIMULATES,"Administration, Oral","Passive immunity, function",topp,orgf,1,STIMULATES_TOPPstimORGF
+C0001563,C1327413,STIMULATES,"Administration, Oral",cytokine production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0001563,C3159140,STIMULATES,"Administration, Oral",interferon production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0002915,C1148523,STIMULATES,General Anesthesia,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0004910,C0011135,STIMULATES,Bed rest,Defecation,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0005841,C0011065,STIMULATES,Blood Transfusion,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0005841,C0018270,STIMULATES,Blood Transfusion,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0006098,C0009637,STIMULATES,Brachytherapy,Conception,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0006155,C0020966,STIMULATES,Breathing Exercises,Cellular Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0007430,C0005823,STIMULATES,Catheterization,Blood Pressure,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0007876,C0005615,STIMULATES,Cesarean section,Birth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0007876,C0022864,STIMULATES,Cesarean section,Labor (Childbirth),topp,orgf,5,STIMULATES_TOPPstimORGF
+C0007876,C0333953,STIMULATES,Cesarean section,Involution,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0007876,C1148523,STIMULATES,Cesarean section,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0008971,C1148523,STIMULATES,Clinical Protocols,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0009429,C0043240,STIMULATES,Combined Modality Therapy,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0011079,C0043240,STIMULATES,Debridement,Wound Healing,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0012683,C0043240,STIMULATES,Disinfection,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0013216,C0011065,STIMULATES,Pharmacotherapy,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0013216,C0025519,STIMULATES,Pharmacotherapy,Metabolism,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0013216,C1148523,STIMULATES,Pharmacotherapy,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0013786,C0011167,STIMULATES,Electric stimulation technique,Deglutition,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0013786,C0043240,STIMULATES,Electric stimulation technique,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0013806,C0025519,STIMULATES,Electroconvulsive Therapy,Metabolism,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0013806,C1327413,STIMULATES,Electroconvulsive Therapy,cytokine production,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0014327,C0011167,STIMULATES,Enteral Nutrition,Deglutition,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0015252,C0011065,STIMULATES,removal technique,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0016419,C0022864,STIMULATES,"Medicine, Folk",Labor (Childbirth),topp,orgf,1,STIMULATES_TOPPstimORGF
+C0017296,C0000934,STIMULATES,gene therapy,Acclimatization,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0017296,C0014948,STIMULATES,gene therapy,Estrus,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0017296,C0043240,STIMULATES,gene therapy,Wound Healing,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0017296,C1136180,STIMULATES,gene therapy,Disease Resistance,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0017296,C1148523,STIMULATES,gene therapy,Childbirth,topp,orgf,3,STIMULATES_TOPPstimORGF
+C0020944,C1148523,STIMULATES,Immobilization,Childbirth,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0020971,C0018270,STIMULATES,Immunization,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0020971,C0020966,STIMULATES,Immunization,Cellular Immunity,topp,orgf,5,STIMULATES_TOPPstimORGF
+C0020971,C0020967,STIMULATES,Immunization,Humoral Immunity,topp,orgf,9,STIMULATES_TOPPstimORGF
+C0020971,C0301875,STIMULATES,Immunization,Primary immune response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0020971,C0678210,STIMULATES,Immunization,"Passive immunity, function",topp,orgf,5,STIMULATES_TOPPstimORGF
+C0020971,C0678723,STIMULATES,Immunization,Biologic Development,topp,orgf,4,STIMULATES_TOPPstimORGF
+C0020971,C1148523,STIMULATES,Immunization,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0020971,C1155328,STIMULATES,Immunization,Antiviral Response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0020971,C1327413,STIMULATES,Immunization,cytokine production,topp,orgf,4,STIMULATES_TOPPstimORGF
+C0020971,C1749719,STIMULATES,Immunization,Adaptive Immune Response,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0020971,C1817919,STIMULATES,Immunization,germinal center formation,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0020971,C1819437,STIMULATES,Immunization,interleukin-10 production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0020971,C1819457,STIMULATES,Immunization,interleukin-4 production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0020972,C0020967,STIMULATES,Immunization Schedule,Humoral Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0020974,C0015895,STIMULATES,passive immunization procedure,Fertility,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0020975,C0020966,STIMULATES,Secondary Immunization,Cellular Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0020975,C0020967,STIMULATES,Secondary Immunization,Humoral Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0020975,C0301876,STIMULATES,Secondary Immunization,Adjuvant response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0020975,C1148523,STIMULATES,Secondary Immunization,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0021079,C0011065,STIMULATES,Therapeutic immunosuppression,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0021083,C1148523,STIMULATES,Immunotherapy,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0021107,C0000934,STIMULATES,Implantation procedure,Acclimatization,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0021107,C0018270,STIMULATES,Implantation procedure,Growth,topp,orgf,4,STIMULATES_TOPPstimORGF
+C0021107,C0678723,STIMULATES,Implantation procedure,Biologic Development,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0021440,C0043240,STIMULATES,Intravenous infusion procedures,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0021493,C0011065,STIMULATES,"Injections, Intraperitoneal",Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0021587,C0006159,STIMULATES,Artificial Insemination,Breeding,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0021778,C0231800,STIMULATES,Intermittent Positive-Pressure Ventilation,"Expiration, function",topp,orgf,1,STIMULATES_TOPPstimORGF
+C0021928,C1148523,STIMULATES,Intubation of stomach,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0021932,C0011065,STIMULATES,"Intubation, Intratracheal",Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0022100,C0006159,STIMULATES,Irrigation,Breeding,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0023690,C0678723,STIMULATES,Ligation,Biologic Development,topp,orgf,5,STIMULATES_TOPPstimORGF
+C0023690,C1327413,STIMULATES,Ligation,cytokine production,topp,orgf,3,STIMULATES_TOPPstimORGF
+C0023690,C1819437,STIMULATES,Ligation,interleukin-10 production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0024128,C0011065,STIMULATES,Lung Transplantation,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0024875,C1516559,STIMULATES,Massage,Circulatory Process,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0025974,C1148523,STIMULATES,microencapsulation,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0025991,C0005823,STIMULATES,Microinjections,Blood Pressure,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0026652,C0043240,STIMULATES,Moxibustion,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0026652,C1516559,STIMULATES,Moxibustion,Circulatory Process,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0029168,C0011065,STIMULATES,Oral Rehydration Therapy,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0029936,C0013470,STIMULATES,Ovariectomy,Eating,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0032720,C0018270,STIMULATES,Surgical Portosystemic Shunt,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0032740,C0004048,STIMULATES,Positive End-Expiratory Pressure,Inspiration function,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0032740,C0042486,STIMULATES,Positive End-Expiratory Pressure,Venous Blood Pressure,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0034115,C1654934,STIMULATES,Paracentesis,Immune Evasion,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0034386,C0015745,STIMULATES,Quarantine,Feeding behaviors,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0034386,C0026649,STIMULATES,Quarantine,Movement,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0035139,C0000934,STIMULATES,Surgical Replantation,Acclimatization,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0035139,C0003618,STIMULATES,Surgical Replantation,Desire for food,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0035139,C0014653,STIMULATES,Surgical Replantation,Equilibrium,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0035139,C0018270,STIMULATES,Surgical Replantation,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0035139,C0043240,STIMULATES,Surgical Replantation,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0035273,C0043240,STIMULATES,Resuscitation procedure,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0038638,C0004048,STIMULATES,Suction drainage,Inspiration function,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0038847,C0006147,STIMULATES,Supplementary Feeding,Breast Feeding,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0040071,C0001811,STIMULATES,Thymectomy,Aging,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0040732,C0011065,STIMULATES,Transplantation,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0040732,C0043240,STIMULATES,Transplantation,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0040732,C4505207,STIMULATES,Transplantation,Immune Reconstitution,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0042196,C0006159,STIMULATES,Vaccination,Breeding,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0042196,C0013470,STIMULATES,Vaccination,Eating,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0042196,C0018270,STIMULATES,Vaccination,Growth,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0042196,C0020966,STIMULATES,Vaccination,Cellular Immunity,topp,orgf,10,STIMULATES_TOPPstimORGF
+C0042196,C0020967,STIMULATES,Vaccination,Humoral Immunity,topp,orgf,8,STIMULATES_TOPPstimORGF
+C0042196,C0032961,STIMULATES,Vaccination,Pregnancy,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0042196,C0678210,STIMULATES,Vaccination,"Passive immunity, function",topp,orgf,6,STIMULATES_TOPPstimORGF
+C0042196,C0678723,STIMULATES,Vaccination,Biologic Development,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0042196,C1148523,STIMULATES,Vaccination,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0042196,C1155328,STIMULATES,Vaccination,Antiviral Response,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0042196,C1327413,STIMULATES,Vaccination,cytokine production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0042196,C1749719,STIMULATES,Vaccination,Adaptive Immune Response,topp,orgf,4,STIMULATES_TOPPstimORGF
+C0042196,C3159140,STIMULATES,Vaccination,interferon production,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0052712,C0020967,STIMULATES,doxorubicin/mitomycin/vinblastine protocol,Humoral Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0052712,C1654934,STIMULATES,doxorubicin/mitomycin/vinblastine protocol,Immune Evasion,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0056167,C0043240,STIMULATES,cyclophosphamide/methotrexate/prednisone/vincristine protocol,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0071973,C0020966,STIMULATES,Ifosfamide/Methotrexate/Procarbazine protocol,Cellular Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0072634,C0011065,STIMULATES,bleomycin/cisplatin/vinblastine protocol,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0079613,C0005823,STIMULATES,Adoptive Immunotherapy,Blood Pressure,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0079613,C0014653,STIMULATES,Adoptive Immunotherapy,Equilibrium,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0079613,C0018270,STIMULATES,Adoptive Immunotherapy,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0079613,C1155328,STIMULATES,Adoptive Immunotherapy,Antiviral Response,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0079613,C1327413,STIMULATES,Adoptive Immunotherapy,cytokine production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0079613,C1819426,STIMULATES,Adoptive Immunotherapy,chemokine production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0079613,C1819433,STIMULATES,Adoptive Immunotherapy,interferon-gamma production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0080232,C0678723,STIMULATES,Tissue Transplantation,Biologic Development,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0086153,C0596935,STIMULATES,Dietary Modification,Microbial Interactions,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0086225,C0018270,STIMULATES,Enteral Feeding,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0086225,C0043240,STIMULATES,Enteral Feeding,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0086225,C1135598,STIMULATES,Enteral Feeding,postnatal development,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0086818,C0011065,STIMULATES,Platelet Transfusion,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0149783,C0333953,STIMULATES,Steroid therapy,Involution,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0150141,C0037313,STIMULATES,Bathing,Sleep,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0150169,C0006147,STIMULATES,Childbirth preparation,Breast Feeding,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0150238,C0011065,STIMULATES,Fluid resuscitation,Cessation of life,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0150413,C0009253,STIMULATES,HIV prevention,Coitus,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0150773,C0000934,STIMULATES,Skin Care,Acclimatization,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0152054,C0026649,STIMULATES,Therapeutic tactile stimulation,Movement,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0152060,C0018270,STIMULATES,Transection (procedure),Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0152060,C0035150,STIMULATES,Transection (procedure),Reproduction,topp,orgf,3,STIMULATES_TOPPstimORGF
+C0152060,C0037817,STIMULATES,Transection (procedure),Speech,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0152060,C0042939,STIMULATES,Transection (procedure),Voice,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0184633,C0004048,STIMULATES,Oxygen Therapy Care,Inspiration function,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0184898,C0004048,STIMULATES,Surgical incisions,Inspiration function,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0185014,C0013470,STIMULATES,Banding procedure,Eating,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0185026,C0000934,STIMULATES,Plication,Acclimatization,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0185026,C1155328,STIMULATES,Plication,Antiviral Response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0185115,C0011065,STIMULATES,Extraction,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0185115,C0013470,STIMULATES,Extraction,Eating,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0185115,C0018270,STIMULATES,Extraction,Growth,topp,orgf,3,STIMULATES_TOPPstimORGF
+C0185115,C0037313,STIMULATES,Extraction,Sleep,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0185115,C0043240,STIMULATES,Extraction,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0185115,C0333953,STIMULATES,Extraction,Involution,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0185115,C0596570,STIMULATES,Extraction,fibrogenesis,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0185115,C1155328,STIMULATES,Extraction,Antiviral Response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0185115,C1523351,STIMULATES,Extraction,tissue homeostasis,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0194086,C0699900,STIMULATES,Partial nephrectomy,Catabolism,topp,orgf,5,STIMULATES_TOPPstimORGF
+C0195623,C0022864,STIMULATES,Cesarean hysterectomy,Labor (Childbirth),topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199176,C0001811,STIMULATES,Prophylactic treatment,Aging,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199176,C0018270,STIMULATES,Prophylactic treatment,Growth,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0199176,C0025516,STIMULATES,Prophylactic treatment,"Metabolic Detoxication, Drug",topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199176,C0032961,STIMULATES,Prophylactic treatment,Pregnancy,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199176,C0814002,STIMULATES,Prophylactic treatment,Neurogenesis,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199176,C1327413,STIMULATES,Prophylactic treatment,cytokine production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199451,C2610587,STIMULATES,Continuous Positive Airway Pressure,lung growth,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0199470,C0004048,STIMULATES,Mechanical ventilation,Inspiration function,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199470,C0949236,STIMULATES,Mechanical ventilation,Pulse Pressure,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199779,C0001811,STIMULATES,Administration of antibiotic,Aging,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199779,C0012238,STIMULATES,Administration of antibiotic,Digestion,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199779,C0020967,STIMULATES,Administration of antibiotic,Humoral Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199804,C0020966,STIMULATES,Vaccination against tuberculosis,Cellular Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199804,C1327413,STIMULATES,Vaccination against tuberculosis,cytokine production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0199859,C0677482,STIMULATES,Deworming,Parasitism,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0204514,C0014653,STIMULATES,Structural analysis,Equilibrium,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0204727,C0018270,STIMULATES,Isolation procedure,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0204727,C0020967,STIMULATES,Isolation procedure,Humoral Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0206058,C0018270,STIMULATES,Elective Surgical Procedures,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0242739,C0003618,STIMULATES,Nutritional Support,Desire for food,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0279853,C1148523,STIMULATES,Cisplatin/Doxorubicin/Melphalan/Teniposide regimen,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0279934,C0015895,STIMULATES,chlorambucil/etoposide/lomustine,Fertility,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0280603,C1155328,STIMULATES,fluorouracil/methotrexate protocol,Antiviral Response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0280603,C1819432,STIMULATES,fluorouracil/methotrexate protocol,interferon-beta production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0281176,C0018270,STIMULATES,Antibody Therapy,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0281481,C0021059,STIMULATES,Anti-Tumor Necrosis Factor Therapy,Immunologic Surveillance,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0281481,C1819464,STIMULATES,Anti-Tumor Necrosis Factor Therapy,tumor necrosis factor production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0282077,C0237086,STIMULATES,Qigong,rest/sleep,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0301590,C0018270,STIMULATES,Increased calorie diet,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0349707,C0032961,STIMULATES,Aspiration-action,Pregnancy,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0376518,C0011065,STIMULATES,Adoptive Transfer,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0376518,C1155328,STIMULATES,Adoptive Transfer,Antiviral Response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0392877,C0016284,STIMULATES,infusion of drug,Fluid Balance,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0394664,C0043240,STIMULATES,Acupuncture procedure,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0394862,C0011065,STIMULATES,Intramuscular infiltration,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0404413,C0032961,STIMULATES,Placental expression,Pregnancy,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0419017,C1148523,STIMULATES,High frequency oscillatory ventilation,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0436307,C0011065,STIMULATES,Chemoradiotherapy,Cessation of life,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0436548,C0011167,STIMULATES,Transcranial magnetic stimulation,Deglutition,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0439775,C0020966,STIMULATES,Elevation procedure,Cellular Immunity,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0439775,C0699900,STIMULATES,Elevation procedure,Catabolism,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0439775,C1148523,STIMULATES,Elevation procedure,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0439775,C1327413,STIMULATES,Elevation procedure,cytokine production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0439775,C3824609,STIMULATES,Elevation procedure,cellular response to virus,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0441509,C0011065,STIMULATES,Coagulation procedure,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0441516,C0018270,STIMULATES,Demand (clinical),Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0441516,C0032961,STIMULATES,Demand (clinical),Pregnancy,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0441516,C0042789,STIMULATES,Demand (clinical),Vision,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0441516,C1516559,STIMULATES,Demand (clinical),Circulatory Process,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0452410,C0814002,STIMULATES,Balanced diet,Neurogenesis,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0454291,C0000934,STIMULATES,Exercise regime,Acclimatization,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0454530,C0011065,STIMULATES,Ultraviolet B therapy,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0520484,C0887981,STIMULATES,Xenograft procedure,Graft Tolerance,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0524850,C0005823,STIMULATES,Neurosurgical Procedures,Blood Pressure,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0524865,C0000934,STIMULATES,Reconstructive Surgical Procedures,Acclimatization,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0524865,C0026649,STIMULATES,Reconstructive Surgical Procedures,Movement,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0543467,C0004048,STIMULATES,Operative Surgical Procedures,Inspiration function,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0543467,C0018270,STIMULATES,Operative Surgical Procedures,Growth,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0543467,C1148523,STIMULATES,Operative Surgical Procedures,Childbirth,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0543467,C1516559,STIMULATES,Operative Surgical Procedures,Circulatory Process,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0547070,C3159140,STIMULATES,Ablation,interferon production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0557982,C0005615,STIMULATES,Constant supervision,Birth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0565460,C0018270,STIMULATES,Bone reconstruction,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0565867,C1148523,STIMULATES,delivery method,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0574032,C0043240,STIMULATES,Infusion procedures,Wound Healing,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0581601,C0011065,STIMULATES,Functional modification,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0581602,C0000934,STIMULATES,Structural modification,Acclimatization,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0581602,C1819464,STIMULATES,Structural modification,tumor necrosis factor production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0600249,C0018270,STIMULATES,"Immunotherapy, Passive",Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0677616,C1148523,STIMULATES,Plastic Surgical Procedures,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0678812,C1819437,STIMULATES,systemic administration,interleukin-10 production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0679637,C0011065,STIMULATES,major surgery,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0679698,C0011065,STIMULATES,disease prevention,Cessation of life,topp,orgf,3,STIMULATES_TOPPstimORGF
+C0679698,C0014653,STIMULATES,disease prevention,Equilibrium,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0679698,C0018270,STIMULATES,disease prevention,Growth,topp,orgf,4,STIMULATES_TOPPstimORGF
+C0679698,C0678210,STIMULATES,disease prevention,"Passive immunity, function",topp,orgf,1,STIMULATES_TOPPstimORGF
+C0683174,C0004048,STIMULATES,topical application,Inspiration function,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0683174,C0043240,STIMULATES,topical application,Wound Healing,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0683174,C1819464,STIMULATES,topical application,tumor necrosis factor production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0683465,C0018270,STIMULATES,novel AODU treatment method,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0695434,C0011065,STIMULATES,oscillations,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0744425,C0011065,STIMULATES,glucocorticoid therapy,Cessation of life,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0747568,C0025519,STIMULATES,phenobarbital treatment,Metabolism,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0814435,C0011065,STIMULATES,early identification,Cessation of life,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0877071,C0014653,STIMULATES,postoperative rehabilitation,Equilibrium,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0887947,C4505207,STIMULATES,"Antiretroviral Therapy, Highly Active",Immune Reconstitution,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0920357,C1148523,STIMULATES,combination cancer therapy,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0920425,C0001811,STIMULATES,Cancer Therapeutic Procedure,Aging,topp,orgf,2,STIMULATES_TOPPstimORGF
+C0920425,C0887981,STIMULATES,Cancer Therapeutic Procedure,Graft Tolerance,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0920425,C1510835,STIMULATES,Cancer Therapeutic Procedure,Aging-Related Process,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0920425,C1749719,STIMULATES,Cancer Therapeutic Procedure,Adaptive Immune Response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0920467,C0018270,STIMULATES,disorder control (procedure),Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0920687,C1148523,STIMULATES,cancer care,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0947647,C0004048,STIMULATES,Manipulation procedure,Inspiration function,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0947647,C0035150,STIMULATES,Manipulation procedure,Reproduction,topp,orgf,1,STIMULATES_TOPPstimORGF
+C0969683,C0018270,STIMULATES,Enhancement Technologies,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1261381,C0004614,STIMULATES,Destructive procedure (surgical),Bacterial Adhesion,topp,orgf,2,STIMULATES_TOPPstimORGF
+C1261381,C0011065,STIMULATES,Destructive procedure (surgical),Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1261381,C0043240,STIMULATES,Destructive procedure (surgical),Wound Healing,topp,orgf,2,STIMULATES_TOPPstimORGF
+C1261381,C0699900,STIMULATES,Destructive procedure (surgical),Catabolism,topp,orgf,2,STIMULATES_TOPPstimORGF
+C1273428,C1819426,STIMULATES,Total mesorectal excision,chemokine production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1280903,C0018270,STIMULATES,Exploration procedure,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1292856,C0018270,STIMULATES,Stimulation procedure,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1292856,C0678723,STIMULATES,Stimulation procedure,Biologic Development,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1292856,C1327413,STIMULATES,Stimulation procedure,cytokine production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1292856,C1749719,STIMULATES,Stimulation procedure,Adaptive Immune Response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1293130,C0018270,STIMULATES,Stabilization,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1293130,C0699900,STIMULATES,Stabilization,Catabolism,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1293132,C0678723,STIMULATES,Anchoring procedure,Biologic Development,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1318464,C0006147,STIMULATES,Occupational therapy regime,Breast Feeding,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1318464,C0022864,STIMULATES,Occupational therapy regime,Labor (Childbirth),topp,orgf,1,STIMULATES_TOPPstimORGF
+C1321916,C0011065,STIMULATES,cisplatin/etoposide/vindesine protocol,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1384591,C0022864,STIMULATES,Artificial rupture of membranes,Labor (Childbirth),topp,orgf,1,STIMULATES_TOPPstimORGF
+C1443867,C0026649,STIMULATES,Standard precautions,Movement,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1510425,C0018270,STIMULATES,Anti-HIV Therapy,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1511790,C0000934,STIMULATES,Detection,Acclimatization,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1511790,C0005615,STIMULATES,Detection,Birth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1511790,C0011065,STIMULATES,Detection,Cessation of life,topp,orgf,3,STIMULATES_TOPPstimORGF
+C1511790,C0018270,STIMULATES,Detection,Growth,topp,orgf,2,STIMULATES_TOPPstimORGF
+C1511790,C0020966,STIMULATES,Detection,Cellular Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1511790,C1155328,STIMULATES,Detection,Antiviral Response,topp,orgf,2,STIMULATES_TOPPstimORGF
+C1511790,C1749719,STIMULATES,Detection,Adaptive Immune Response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1512034,C4505207,STIMULATES,Donor Lymphocyte Infusion,Immune Reconstitution,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1512335,C0011065,STIMULATES,Harvest Procedure,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1512721,C1148523,STIMULATES,Inferential Current Treatment,Childbirth,topp,orgf,3,STIMULATES_TOPPstimORGF
+C1517925,C0018270,STIMULATES,Local Therapy,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1522449,C0011065,STIMULATES,Therapeutic radiology procedure,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1527075,C0009637,STIMULATES,Revision procedure,Conception,topp,orgf,4,STIMULATES_TOPPstimORGF
+C1831784,C0020966,STIMULATES,Natural Killer Cell Therapy,Cellular Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1868981,C1148523,STIMULATES,Invasive mechanical ventilation NOS,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1883520,C1523019,STIMULATES,VePesid-Ifosfamide-Platinol Regimen,circadian behavior,topp,orgf,1,STIMULATES_TOPPstimORGF
+C1997883,C1148523,STIMULATES,Noninvasive Ventilation,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C2004459,C1749719,STIMULATES,Abdominoperineal resection,Adaptive Immune Response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C2242628,C0011065,STIMULATES,Fecal Microbiota Transplantation,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C2347900,C1749719,STIMULATES,Rechallenge,Adaptive Immune Response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C2349740,C0004048,STIMULATES,Non-invasive mechanical ventilation,Inspiration function,topp,orgf,1,STIMULATES_TOPPstimORGF
+C2350239,C0042789,STIMULATES,Ablation Techniques,Vision,topp,orgf,1,STIMULATES_TOPPstimORGF
+C2368628,C0020967,STIMULATES,Vaccine Administration,Humoral Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C2936667,C0678723,STIMULATES,Transluminal angioplasty,Biologic Development,topp,orgf,1,STIMULATES_TOPPstimORGF
+C2945704,C0037361,STIMULATES,Conventional Treatment,Smell Perception,topp,orgf,1,STIMULATES_TOPPstimORGF
+C2973270,C0021059,STIMULATES,Health Checkup,Immunologic Surveillance,topp,orgf,1,STIMULATES_TOPPstimORGF
+C2985433,C0678854,STIMULATES,Mind/body Exercise,body balance,topp,orgf,1,STIMULATES_TOPPstimORGF
+C2987620,C0018270,STIMULATES,Inoculation,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C3160898,C0018270,STIMULATES,Controlled ovarian stimulation,Growth,topp,orgf,2,STIMULATES_TOPPstimORGF
+C3162255,C0011065,STIMULATES,post surgery radiation therapy,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF
+C3177188,C1155328,STIMULATES,Early Therapy,Antiviral Response,topp,orgf,1,STIMULATES_TOPPstimORGF
+C3274791,C0018270,STIMULATES,Mechanical Circulatory Support,Growth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C3274791,C1819426,STIMULATES,Mechanical Circulatory Support,chemokine production,topp,orgf,1,STIMULATES_TOPPstimORGF
+C3540512,C0020967,STIMULATES,Circumferential Supracrestal Fiberotomy,Humoral Immunity,topp,orgf,1,STIMULATES_TOPPstimORGF
+C3540512,C0678723,STIMULATES,Circumferential Supracrestal Fiberotomy,Biologic Development,topp,orgf,2,STIMULATES_TOPPstimORGF
+C3540512,C0814002,STIMULATES,Circumferential Supracrestal Fiberotomy,Neurogenesis,topp,orgf,2,STIMULATES_TOPPstimORGF
+C3714568,C0004048,STIMULATES,Aerosol therapy,Inspiration function,topp,orgf,2,STIMULATES_TOPPstimORGF
+C3825792,C1148523,STIMULATES,Pressure breathing,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C3841297,C1148523,STIMULATES,Cesarean,Childbirth,topp,orgf,2,STIMULATES_TOPPstimORGF
+C4042855,C0699900,STIMULATES,RNAi Therapeutics,Catabolism,topp,orgf,1,STIMULATES_TOPPstimORGF
+C4042855,C1148523,STIMULATES,RNAi Therapeutics,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C4087167,C0026649,STIMULATES,Tumour treating fields therapy,Movement,topp,orgf,1,STIMULATES_TOPPstimORGF
+C4087167,C1148523,STIMULATES,Tumour treating fields therapy,Childbirth,topp,orgf,1,STIMULATES_TOPPstimORGF
+C4277545,C0025519,STIMULATES,High-Intensity Interval Training,Metabolism,topp,orgf,1,STIMULATES_TOPPstimORGF
+C4526535,C0011065,STIMULATES,Bendamustine/Lenalidomide/Dexamethasone Regimen,Cessation of life,topp,orgf,1,STIMULATES_TOPPstimORGF

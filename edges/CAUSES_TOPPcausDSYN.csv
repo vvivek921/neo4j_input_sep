@@ -1,0 +1,1448 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0015469,CAUSES,"Administration, Intranasal",Facial paralysis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0001560,C0035455,CAUSES,"Administration, Intranasal",Rhinitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0001560,C0036690,CAUSES,"Administration, Intranasal",Septicemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0001560,C0948780,CAUSES,"Administration, Intranasal",Rhinosinusitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0001562,C0010692,CAUSES,"Administration, Intravesical",Cystitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0001562,C0085435,CAUSES,"Administration, Intravesical","Arthritis, Reactive",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0001563,C0002871,CAUSES,"Administration, Oral",Anemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0001563,C0009319,CAUSES,"Administration, Oral",Colitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0001563,C0022660,CAUSES,"Administration, Oral","Kidney Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0001563,C0040034,CAUSES,"Administration, Oral",Thrombocytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0001563,C0262988,CAUSES,"Administration, Oral",Vasculitis of the skin,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0001563,C0280962,CAUSES,"Administration, Oral",Bone Marrow Suppression,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0001563,C5203670,CAUSES,"Administration, Oral",COVID-19,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0001566,C0023066,CAUSES,"Administration, Topical",Laryngospasm,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0002903,C0018790,CAUSES,Anesthesia procedures,Cardiac Arrest,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0002903,C0022568,CAUSES,Anesthesia procedures,Keratitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0002903,C0032290,CAUSES,Anesthesia procedures,Aspiration Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0002903,C0032320,CAUSES,Anesthesia procedures,Pneumoperitoneum,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0002903,C0085605,CAUSES,Anesthesia procedures,Liver Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0002903,C0302809,CAUSES,Anesthesia procedures,Fulminant Hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0002903,C0948268,CAUSES,Anesthesia procedures,Hemodynamic instability,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0002903,C1260402,CAUSES,Anesthesia procedures,splenic sequestration,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0002915,C1145670,CAUSES,General Anesthesia,Respiratory Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0002997,C0040034,CAUSES,"Angioplasty, Balloon, Coronary",Thrombocytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0003281,C0940931,CAUSES,Anticoagulation Therapy,hemorrhage as a complication,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0004910,C0011127,CAUSES,Bed rest,Pressure Ulcer,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0004910,C0026848,CAUSES,Bed rest,Myopathy,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0004910,C0270994,CAUSES,Bed rest,Steroid-induced myopathy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0004933,C0011854,CAUSES,Behavior Therapy,"Diabetes Mellitus, Insulin-Dependent",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0004933,C0035078,CAUSES,Behavior Therapy,Kidney Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0004933,C0043194,CAUSES,Behavior Therapy,Wiskott-Aldrich Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005527,C0004364,CAUSES,Biological Response Modifier Therapy,Autoimmune Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005527,C0009450,CAUSES,Biological Response Modifier Therapy,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005527,C0021053,CAUSES,Biological Response Modifier Therapy,Immune System Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005841,C0009450,CAUSES,Blood Transfusion,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005841,C0014038,CAUSES,Blood Transfusion,Encephalitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005841,C0018801,CAUSES,Blood Transfusion,Heart failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005841,C0019158,CAUSES,Blood Transfusion,Hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005841,C0019163,CAUSES,Blood Transfusion,Hepatitis B,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005841,C0025289,CAUSES,Blood Transfusion,Meningitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005841,C0035222,CAUSES,Blood Transfusion,"Respiratory Distress Syndrome, Adult",topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0005841,C0041234,CAUSES,Blood Transfusion,Chagas Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005841,C0042769,CAUSES,Blood Transfusion,Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005841,C0282193,CAUSES,Blood Transfusion,Iron Overload,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0005841,C0520788,CAUSES,Blood Transfusion,Posttransfusion viral hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005841,C0948343,CAUSES,Blood Transfusion,Transfusion-Related Acute Lung Injury,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005961,C0002874,CAUSES,Bone Marrow Transplantation,Aplastic Anemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005961,C0009450,CAUSES,Bone Marrow Transplantation,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0005961,C0019061,CAUSES,Bone Marrow Transplantation,Hemolytic-Uremic Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0006042,C0032290,CAUSES,Bottle feeding,Aspiration Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0007202,C0035222,CAUSES,Cardiopulmonary Bypass,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0007202,C0162429,CAUSES,Cardiopulmonary Bypass,Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0007203,C0018790,CAUSES,Cardiopulmonary Resuscitation,Cardiac Arrest,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0007203,C0749769,CAUSES,Cardiopulmonary Resuscitation,underlying infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0007344,C0017086,CAUSES,Castration,Gangrene,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0007430,C0004610,CAUSES,Catheterization,Bacteremia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0007430,C0036690,CAUSES,Catheterization,Septicemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0007430,C0042029,CAUSES,Catheterization,Urinary tract infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0007430,C0156149,CAUSES,Catheterization,Gastrointestinal tract vascular insufficiency,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0007430,C0262380,CAUSES,Catheterization,Asymptomatic bacteriuria,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0007430,C0340221,CAUSES,Catheterization,Obstruction of trachea,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0007431,C0741611,CAUSES,Arterial catheterization,bowel ischemic,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0008819,C0036917,CAUSES,Male Circumcision,"Sexually Transmitted Diseases, Bacterial",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0009429,C0002878,CAUSES,Combined Modality Therapy,"Anemia, Hemolytic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0009813,C0002792,CAUSES,Constriction procedure,anaphylaxis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0009813,C0007785,CAUSES,Constriction procedure,Cerebral Infarction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0009813,C0020538,CAUSES,Constriction procedure,Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0010055,C0005779,CAUSES,Coronary Artery Bypass Surgery,Blood Coagulation Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0010468,C0028738,CAUSES,Curettage procedure,Nystagmus,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0011121,C1701940,CAUSES,Decontamination,"Pneumonia, Ventilator-Associated",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0011307,C0010340,CAUSES,Denervation,Critical Illness,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0011307,C0020557,CAUSES,Denervation,Hypertriglyceridemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0011331,C0010356,CAUSES,Dental Procedures,Cross Infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0011331,C0151317,CAUSES,Dental Procedures,Chronic infectious disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0011331,C0347950,CAUSES,Dental Procedures,Asthma attack,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0011946,C0002871,CAUSES,Dialysis procedure,Anemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0011946,C0010356,CAUSES,Dialysis procedure,Cross Infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0011946,C0162429,CAUSES,Dialysis procedure,Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0012002,C0232077,CAUSES,Diathermy,Pulmonary aspiration of blood,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0012683,C0010356,CAUSES,Disinfection,Cross Infection,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0012683,C0162823,CAUSES,Disinfection,"Dermatitis, Irritant",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0012683,C0205721,CAUSES,Disinfection,"Infections, Hospital",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0012683,C5203670,CAUSES,Disinfection,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0012737,C0085096,CAUSES,Tissue Dissection,Peripheral Vascular Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0001175,CAUSES,Pharmacotherapy,Acquired Immunodeficiency Syndrome,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0013216,C0001824,CAUSES,Pharmacotherapy,Agranulocytosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0002170,CAUSES,Pharmacotherapy,Alopecia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0002874,CAUSES,Pharmacotherapy,Aplastic Anemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0003123,CAUSES,Pharmacotherapy,Anorexia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0003811,CAUSES,Pharmacotherapy,Cardiac Arrhythmia,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0013216,C0014356,CAUSES,Pharmacotherapy,Enterocolitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0015695,CAUSES,Pharmacotherapy,Fatty Liver,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0018133,CAUSES,Pharmacotherapy,Graft-vs-Host Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0018801,CAUSES,Pharmacotherapy,Heart failure,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0013216,C0019156,CAUSES,Pharmacotherapy,Hepatic Veno-Occlusive Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0020538,CAUSES,Pharmacotherapy,Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0023530,CAUSES,Pharmacotherapy,Leukopenia,topp,dsyn,56,CAUSES_TOPPcausDSYN
+C0013216,C0024115,CAUSES,Pharmacotherapy,Lung diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0024312,CAUSES,Pharmacotherapy,Lymphopenia,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0013216,C0030312,CAUSES,Pharmacotherapy,Pancytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0031117,CAUSES,Pharmacotherapy,Peripheral Neuropathy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0032285,CAUSES,Pharmacotherapy,Pneumonia,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0013216,C0036690,CAUSES,Pharmacotherapy,Septicemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0038362,CAUSES,Pharmacotherapy,Stomatitis,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0013216,C0040034,CAUSES,Pharmacotherapy,Thrombocytopenia,topp,dsyn,8,CAUSES_TOPPcausDSYN
+C0013216,C0041296,CAUSES,Pharmacotherapy,Tuberculosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0085692,CAUSES,Pharmacotherapy,Hemorrhagic cystitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0149518,CAUSES,Pharmacotherapy,Acute gastritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0149745,CAUSES,Pharmacotherapy,Oral Ulcer,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0156270,CAUSES,Pharmacotherapy,Irradiation cystitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0162429,CAUSES,Pharmacotherapy,Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0206061,CAUSES,Pharmacotherapy,"Pneumonia, Interstitial",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0264383,CAUSES,Pharmacotherapy,Organized pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0267537,CAUSES,Pharmacotherapy,Typhlitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0271892,CAUSES,Pharmacotherapy,Acquired pancytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0280962,CAUSES,Pharmacotherapy,Bone Marrow Suppression,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0013216,C0282193,CAUSES,Pharmacotherapy,Iron Overload,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0344432,CAUSES,Pharmacotherapy,"Ventricular tachycardia, polymorphic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0398795,CAUSES,Pharmacotherapy,Secondary immune deficiency disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0549493,CAUSES,Pharmacotherapy,Alveolitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0746883,CAUSES,Pharmacotherapy,Febrile Neutropenia,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0013216,C0877203,CAUSES,Pharmacotherapy,Viral Respiratory Tract Infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C0878544,CAUSES,Pharmacotherapy,Cardiomyopathies,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0013216,C1561643,CAUSES,Pharmacotherapy,Chronic Kidney Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C1704275,CAUSES,Pharmacotherapy,Pyomyositis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C2350344,CAUSES,Pharmacotherapy,Chronic Lung Injury,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C3670928,CAUSES,Pharmacotherapy,Catarrhal enteritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C3714496,CAUSES,Pharmacotherapy,Chronic obstructive pulmonary disease of horses,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C4039867,CAUSES,Pharmacotherapy,Acute hypoxemic respiratory failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013216,C4476767,CAUSES,Pharmacotherapy,Diffuse alveolar hemorrhage,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0013216,C5139167,CAUSES,Pharmacotherapy,Severe infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013778,C0018790,CAUSES,Electric Countershock,Cardiac Arrest,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013786,C0003811,CAUSES,Electric stimulation technique,Cardiac Arrhythmia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013806,C0002871,CAUSES,Electroconvulsive Therapy,Anemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013806,C0011847,CAUSES,Electroconvulsive Therapy,Diabetes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013806,C0011848,CAUSES,Electroconvulsive Therapy,Diabetes Insipidus,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013806,C0020538,CAUSES,Electroconvulsive Therapy,Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013806,C0034069,CAUSES,Electroconvulsive Therapy,Pulmonary Fibrosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013806,C0035222,CAUSES,Electroconvulsive Therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0013806,C0036690,CAUSES,Electroconvulsive Therapy,Septicemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013806,C0231341,CAUSES,Electroconvulsive Therapy,Premature aging syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013806,C0242917,CAUSES,Electroconvulsive Therapy,Filoviridae Infections,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0013806,C0856169,CAUSES,Electroconvulsive Therapy,Endothelial dysfunction,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0013806,C1290886,CAUSES,Electroconvulsive Therapy,Chronic inflammatory disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013870,C0270844,CAUSES,Electroconvulsive Shock,Tonic Seizures,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013931,C0009450,CAUSES,"Embolization, Therapeutic",Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013931,C0085612,CAUSES,"Embolization, Therapeutic",Ventricular arrhythmia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0013931,C0742343,CAUSES,"Embolization, Therapeutic",Acute Chest Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0014099,C0038454,CAUSES,Carotid Endarterectomy,Cerebrovascular accident,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0014327,C0162429,CAUSES,Enteral Nutrition,Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0015252,C0026946,CAUSES,removal technique,Mycoses,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0015252,C0029878,CAUSES,removal technique,Otitis Externa,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0015252,C0035459,CAUSES,removal technique,"Rhinitis, Atrophic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0015252,C0085605,CAUSES,removal technique,Liver Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0015357,C0005779,CAUSES,Extracorporeal Membrane Oxygenation,Blood Coagulation Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0015357,C0024312,CAUSES,Extracorporeal Membrane Oxygenation,Lymphopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0015357,C0035222,CAUSES,Extracorporeal Membrane Oxygenation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0015357,C0040034,CAUSES,Extracorporeal Membrane Oxygenation,Thrombocytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0015357,C0205721,CAUSES,Extracorporeal Membrane Oxygenation,"Infections, Hospital",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0015357,C0940931,CAUSES,Extracorporeal Membrane Oxygenation,hemorrhage as a complication,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0015357,C1145670,CAUSES,Extracorporeal Membrane Oxygenation,Respiratory Failure,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0016286,C0011175,CAUSES,Fluid Therapy,Dehydration,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0016286,C0267556,CAUSES,Fluid Therapy,Osmotic diarrhea,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017164,C0024523,CAUSES,Gastroenterostomy,Malabsorption Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0004096,CAUSES,gene therapy,Asthma,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0017296,C0004623,CAUSES,gene therapy,Bacterial Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0008312,CAUSES,gene therapy,Primary Biliary Cholangitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0008679,CAUSES,gene therapy,Chronic disease,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0017296,C0009447,CAUSES,gene therapy,Common Variable Immunodeficiency,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0009450,CAUSES,gene therapy,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0010674,CAUSES,gene therapy,Cystic Fibrosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0011854,CAUSES,gene therapy,"Diabetes Mellitus, Insulin-Dependent",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0014544,CAUSES,gene therapy,Epilepsy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0016627,CAUSES,gene therapy,Influenza in Birds,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0021051,CAUSES,gene therapy,Immunologic Deficiency Syndromes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0021390,CAUSES,gene therapy,Inflammatory Bowel Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0021400,CAUSES,gene therapy,Influenza,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0023895,CAUSES,gene therapy,Liver diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0024115,CAUSES,gene therapy,Lung diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0024117,CAUSES,gene therapy,Chronic Obstructive Airway Disease,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0017296,C0024291,CAUSES,gene therapy,"Lymphohistiocytosis, Hemophagocytic",topp,dsyn,6,CAUSES_TOPPcausDSYN
+C0017296,C0034069,CAUSES,gene therapy,Pulmonary Fibrosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0037274,CAUSES,gene therapy,Dermatologic disorders,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0017296,C0042109,CAUSES,gene therapy,Urticaria,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0162557,CAUSES,gene therapy,"Liver Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0221333,CAUSES,gene therapy,Hypouricemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0264393,CAUSES,gene therapy,Panacinar Emphysema,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0398689,CAUSES,gene therapy,"Hyper-IgM Immunodeficiency Syndrome, Type 1",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0745242,CAUSES,gene therapy,Immunoglobulin deficiency,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C0947751,CAUSES,gene therapy,vascular inflammations,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C1096155,CAUSES,gene therapy,Macrophage Activation Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C2062441,CAUSES,gene therapy,Influenza A,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C2076596,CAUSES,gene therapy,Influenza A (H5N1),topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C3826786,CAUSES,gene therapy,Adenovirus diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0017296,C3890737,CAUSES,gene therapy,Autoinflammatory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0018791,C0018790,CAUSES,"Heart Arrest, Induced",Cardiac Arrest,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0019004,C0035243,CAUSES,Hemodialysis,Respiratory Tract Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0019009,C0002871,CAUSES,therapeutic hemodilution,Anemia,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0019009,C0005779,CAUSES,therapeutic hemodilution,Blood Coagulation Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0019009,C0040034,CAUSES,therapeutic hemodilution,Thrombocytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0019009,C1175175,CAUSES,therapeutic hemodilution,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0019014,C0011175,CAUSES,Hemofiltration,Dehydration,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020944,C0149871,CAUSES,Immobilization,Deep Vein Thrombosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020944,C0398623,CAUSES,Immobilization,Thrombophilia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020944,C0872084,CAUSES,Immobilization,Sarcopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020944,C5203670,CAUSES,Immobilization,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0001314,CAUSES,Immunization,Acute Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0001486,CAUSES,Immunization,Adenovirus Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0002792,CAUSES,Immunization,anaphylaxis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0020971,C0004364,CAUSES,Immunization,Autoimmune Diseases,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0020971,C0009450,CAUSES,Immunization,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0011303,CAUSES,Immunization,Demyelinating Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0014059,CAUSES,Immunization,"Encephalomyelitis, Acute Disseminated",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0019104,CAUSES,Immunization,"Hemorrhagic Fevers, Viral",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0019158,CAUSES,Immunization,Hepatitis,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0020971,C0019189,CAUSES,Immunization,"Hepatitis, Chronic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0020452,CAUSES,Immunization,Hyperemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0021053,CAUSES,Immunization,Immune System Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0026769,CAUSES,Immunization,Multiple Sclerosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0027059,CAUSES,Immunization,Myocarditis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0030552,CAUSES,Immunization,Paresis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0032285,CAUSES,Immunization,Pneumonia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0020971,C0035439,CAUSES,Immunization,Rheumatic Heart Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0035637,CAUSES,Immunization,Rinderpest,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0040147,CAUSES,Immunization,Thyroiditis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0041234,CAUSES,Immunization,Chagas Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0042384,CAUSES,Immunization,Vasculitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0043167,CAUSES,Immunization,Pertussis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0152227,CAUSES,Immunization,Excessive tearing,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0265308,CAUSES,Immunization,Baller-Gerold syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0275518,CAUSES,Immunization,Acute infectious disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0275522,CAUSES,Immunization,Asymptomatic Infections,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0020971,C0343641,CAUSES,Immunization,Human papilloma virus infection,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0020971,C0745091,CAUSES,Immunization,Hypereosinophilia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0748168,CAUSES,Immunization,Pulmonary Pathology,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0020971,C0948343,CAUSES,Immunization,Transfusion-Related Acute Lung Injury,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C0949664,CAUSES,Immunization,Tauopathies,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C3160909,CAUSES,Immunization,Autoimmune arthritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C3542501,CAUSES,Immunization,Acute Infective Polyneuritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C3694279,CAUSES,Immunization,Middle East Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020971,C5139167,CAUSES,Immunization,Severe infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020974,C0023355,CAUSES,passive immunization procedure,Leptomeningitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020974,C1264606,CAUSES,passive immunization procedure,Persistent infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0020975,C0009443,CAUSES,Secondary Immunization,Common Cold,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0001175,CAUSES,Therapeutic immunosuppression,Acquired Immunodeficiency Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0004623,CAUSES,Therapeutic immunosuppression,Bacterial Infections,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0021079,C0009450,CAUSES,Therapeutic immunosuppression,Communicable Diseases,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0021079,C0014038,CAUSES,Therapeutic immunosuppression,Encephalitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0021400,CAUSES,Therapeutic immunosuppression,Influenza,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0022658,CAUSES,Therapeutic immunosuppression,Kidney Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0022661,CAUSES,Therapeutic immunosuppression,"Kidney Failure, Chronic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0023518,CAUSES,Therapeutic immunosuppression,Leukocytosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0023530,CAUSES,Therapeutic immunosuppression,Leukopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0029118,CAUSES,Therapeutic immunosuppression,Opportunistic Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0030312,CAUSES,Therapeutic immunosuppression,Pancytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0032285,CAUSES,Therapeutic immunosuppression,Pneumonia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0021079,C0035222,CAUSES,Therapeutic immunosuppression,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0038826,CAUSES,Therapeutic immunosuppression,Superinfection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0162557,CAUSES,Therapeutic immunosuppression,"Liver Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0275518,CAUSES,Therapeutic immunosuppression,Acute infectious disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0275522,CAUSES,Therapeutic immunosuppression,Asymptomatic Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0275524,CAUSES,Therapeutic immunosuppression,Coinfection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0343800,CAUSES,Therapeutic immunosuppression,Acute Chagas' disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0376538,CAUSES,Therapeutic immunosuppression,Porcine Reproductive and Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0442886,CAUSES,Therapeutic immunosuppression,Secondary Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C0876973,CAUSES,Therapeutic immunosuppression,Infectious Lung Disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C5139167,CAUSES,Therapeutic immunosuppression,Severe infection,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0021079,C5139227,CAUSES,Therapeutic immunosuppression,Opportunistic bacterial infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021079,C5203670,CAUSES,Therapeutic immunosuppression,COVID-19,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0021083,C5203670,CAUSES,Immunotherapy,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021107,C0005779,CAUSES,Implantation procedure,Blood Coagulation Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021107,C0011175,CAUSES,Implantation procedure,Dehydration,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021107,C0020538,CAUSES,Implantation procedure,Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021107,C0032326,CAUSES,Implantation procedure,Pneumothorax,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021107,C0037199,CAUSES,Implantation procedure,Sinusitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021107,C0042139,CAUSES,Implantation procedure,Uterine Perforation,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021107,C0565599,CAUSES,Implantation procedure,Maternal hypertension,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021107,C1175175,CAUSES,Implantation procedure,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021107,C2751898,CAUSES,Implantation procedure,"Ventricular Fibrillation, Paroxysmal Familial, 1",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021107,C4085595,CAUSES,Implantation procedure,AL-RAQAD SYNDROME,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021439,C0023530,CAUSES,Intra-Arterial Infusions,Leukopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021440,C0020615,CAUSES,Intravenous infusion procedures,Hypoglycemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021440,C0022660,CAUSES,Intravenous infusion procedures,"Kidney Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021440,C0035222,CAUSES,Intravenous infusion procedures,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021485,C0002792,CAUSES,Injection of therapeutic agent,anaphylaxis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0021485,C0003864,CAUSES,Injection of therapeutic agent,Arthritis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0021485,C0019163,CAUSES,Injection of therapeutic agent,Hepatitis B,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021485,C0019196,CAUSES,Injection of therapeutic agent,Hepatitis C,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021485,C0019693,CAUSES,Injection of therapeutic agent,HIV Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021485,C0022658,CAUSES,Injection of therapeutic agent,Kidney Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021485,C0024291,CAUSES,Injection of therapeutic agent,"Lymphohistiocytosis, Hemophagocytic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021485,C0039103,CAUSES,Injection of therapeutic agent,Synovitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021485,C0876973,CAUSES,Injection of therapeutic agent,Infectious Lung Disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021485,C1565489,CAUSES,Injection of therapeutic agent,Renal Insufficiency,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021489,C0003864,CAUSES,intradermal injection,Arthritis,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0021489,C1402294,CAUSES,intradermal injection,Primary Lesion,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021493,C0003864,CAUSES,"Injections, Intraperitoneal",Arthritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021493,C0019158,CAUSES,"Injections, Intraperitoneal",Hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021493,C0035078,CAUSES,"Injections, Intraperitoneal",Kidney Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021493,C0042749,CAUSES,"Injections, Intraperitoneal",Viremia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0021493,C0243026,CAUSES,"Injections, Intraperitoneal",Sepsis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021493,C0376618,CAUSES,"Injections, Intraperitoneal",Endotoxemia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0021587,C0036310,CAUSES,Artificial Insemination,Scheuermann's Disease,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0021777,C0582415,CAUSES,Intermittent Positive-Pressure Breathing,Acute asthma,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021778,C0018790,CAUSES,Intermittent Positive-Pressure Ventilation,Cardiac Arrest,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021778,C0025062,CAUSES,Intermittent Positive-Pressure Ventilation,Mediastinal Emphysema,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021778,C0032326,CAUSES,Intermittent Positive-Pressure Ventilation,Pneumothorax,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021778,C0264558,CAUSES,Intermittent Positive-Pressure Ventilation,Tension Pneumothorax,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021778,C1145670,CAUSES,Intermittent Positive-Pressure Ventilation,Respiratory Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021896,C0020255,CAUSES,Intrathecal injection (procedure),Hydrocephalus,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021896,C0042384,CAUSES,Intrathecal injection (procedure),Vasculitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021925,C0031350,CAUSES,Intubation,Pharyngitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021925,C0035204,CAUSES,Intubation,Respiration Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021925,C0040583,CAUSES,Intubation,Tracheal Stenosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021925,C0149725,CAUSES,Intubation,Lower respiratory tract infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021925,C0264315,CAUSES,Intubation,Edema of glottis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021925,C0940933,CAUSES,Intubation,infection as a complication,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021925,C0948187,CAUSES,Intubation,Tracheomalacia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021925,C1145670,CAUSES,Intubation,Respiratory Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021932,C0010692,CAUSES,"Intubation, Intratracheal",Cystitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021932,C0031350,CAUSES,"Intubation, Intratracheal",Pharyngitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021932,C0032285,CAUSES,"Intubation, Intratracheal",Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021932,C0033581,CAUSES,"Intubation, Intratracheal",prostatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021932,C0034186,CAUSES,"Intubation, Intratracheal",Pyelonephritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021932,C0340223,CAUSES,"Intubation, Intratracheal",Infectious disorder of trachea,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0021932,C1868703,CAUSES,"Intubation, Intratracheal",Bacterial tracheitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0022100,C0009450,CAUSES,Irrigation,Communicable Diseases,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0022100,C0019159,CAUSES,Irrigation,Hepatitis A,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0022100,C0152227,CAUSES,Irrigation,Excessive tearing,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0022100,C0162429,CAUSES,Irrigation,Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0022100,C4046031,CAUSES,Irrigation,Water-related Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0022671,C0022661,CAUSES,Kidney Transplantation,"Kidney Failure, Chronic",topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0022671,C0035078,CAUSES,Kidney Transplantation,Kidney Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0022671,C0042769,CAUSES,Kidney Transplantation,Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0022671,C5203670,CAUSES,Kidney Transplantation,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023038,C0742343,CAUSES,Laparotomy,Acute Chest Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023690,C0008350,CAUSES,Ligation,Cholelithiasis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023690,C0008679,CAUSES,Ligation,Chronic disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023690,C0022660,CAUSES,Ligation,"Kidney Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023690,C0027051,CAUSES,Ligation,Myocardial Infarction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023690,C0035222,CAUSES,Ligation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023690,C0036690,CAUSES,Ligation,Septicemia,topp,dsyn,8,CAUSES_TOPPcausDSYN
+C0023690,C0038358,CAUSES,Ligation,Gastric ulcer,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023690,C0234959,CAUSES,Ligation,Panarteritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023690,C0270814,CAUSES,Ligation,Spastic syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023690,C0282074,CAUSES,Ligation,Biliary Sludge,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023690,C0340279,CAUSES,Ligation,Ventricular hypertrophy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023690,C0856169,CAUSES,Ligation,Endothelial dysfunction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0023911,C0085605,CAUSES,Transplantation of liver,Liver Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0024128,C0014457,CAUSES,Lung Transplantation,Eosinophilia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0024128,C0032285,CAUSES,Lung Transplantation,Pneumonia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0024128,C0152020,CAUSES,Lung Transplantation,Gastroparesis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0024203,C0341703,CAUSES,Lymph node excision,Adult Fanconi syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0024257,C0001175,CAUSES,Lymphocyte Depletion,Acquired Immunodeficiency Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0024257,C0021051,CAUSES,Lymphocyte Depletion,Immunologic Deficiency Syndromes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0025991,C0263541,CAUSES,Microinjections,Equine laminitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0026035,C0701825,CAUSES,Microsurgery,Acute mastoiditis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0026067,C0029883,CAUSES,Middle Ear Ventilation,Otitis Media with Effusion,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0027695,C0020538,CAUSES,Nephrectomy,Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0029216,C0019693,CAUSES,Organ Transplantation,HIV Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0029216,C0021051,CAUSES,Organ Transplantation,Immunologic Deficiency Syndromes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0029216,C1262091,CAUSES,Organ Transplantation,Lymphocytic infiltration,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0029936,C0020538,CAUSES,Ovariectomy,Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0029936,C0029453,CAUSES,Ovariectomy,Osteopenia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0030279,C0011854,CAUSES,Pancreatectomy,"Diabetes Mellitus, Insulin-Dependent",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0030547,C0008370,CAUSES,Parenteral Nutrition,Cholestasis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0030547,C0085605,CAUSES,Parenteral Nutrition,Liver Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0030547,C0264490,CAUSES,Parenteral Nutrition,Acute respiratory failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0030548,C0021843,CAUSES,"Parenteral Nutrition, Total",Intestinal Obstruction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0030548,C0036992,CAUSES,"Parenteral Nutrition, Total",Short Bowel Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0030548,C0085605,CAUSES,"Parenteral Nutrition, Total",Liver Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0030693,C5203670,CAUSES,Patient Isolation,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0031765,C0343084,CAUSES,Phototherapy,Capillary Leak Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0032042,C0009443,CAUSES,Placebos,Common Cold,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0032042,C0023530,CAUSES,Placebos,Leukopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0032042,C0035222,CAUSES,Placebos,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0032042,C0149514,CAUSES,Placebos,Acute bronchitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0032113,C5139167,CAUSES,Plasma Exchange,Severe infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0032720,C0019151,CAUSES,Surgical Portosystemic Shunt,Hepatic Encephalopathy,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0032720,C0020541,CAUSES,Surgical Portosystemic Shunt,Portal Hypertension,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0032720,C1623038,CAUSES,Surgical Portosystemic Shunt,Cirrhosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0032740,C0264492,CAUSES,Positive End-Expiratory Pressure,Chronic respiratory failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0032740,C0264733,CAUSES,Positive End-Expiratory Pressure,Ventricular dilatation (disorder),topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0032740,C0267821,CAUSES,Positive End-Expiratory Pressure,Hepatic congestion,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0034115,C0032326,CAUSES,Paracentesis,Pneumothorax,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0034386,C0001314,CAUSES,Quarantine,Acute Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0034386,C0008679,CAUSES,Quarantine,Chronic disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0034386,C0035243,CAUSES,Quarantine,Respiratory Tract Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0034386,C0042769,CAUSES,Quarantine,Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0034386,C0270724,CAUSES,Quarantine,Infantile Neuroaxonal Dystrophy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0034386,C0742343,CAUSES,Quarantine,Acute Chest Syndrome,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0034386,C1175175,CAUSES,Quarantine,Severe Acute Respiratory Syndrome,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0034386,C5203670,CAUSES,Quarantine,COVID-19,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0035139,C0002170,CAUSES,Surgical Replantation,Alopecia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035139,C0013570,CAUSES,Surgical Replantation,"Ecthyma, Contagious",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035139,C0151714,CAUSES,Surgical Replantation,Hypermagnesemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035139,C0238644,CAUSES,Surgical Replantation,"Anemia, severe",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035139,C0343084,CAUSES,Surgical Replantation,Capillary Leak Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035139,C0398623,CAUSES,Surgical Replantation,Thrombophilia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035139,C0877214,CAUSES,Surgical Replantation,Villus atrophy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035139,C1096155,CAUSES,Surgical Replantation,Macrophage Activation Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035139,C1320214,CAUSES,Surgical Replantation,Invasive Streptococcus pneumoniae disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035151,C0027765,CAUSES,Reproductive Techniques,nervous system disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035205,C0032285,CAUSES,"Respiration, Artificial",Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035273,C0009450,CAUSES,Resuscitation procedure,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035273,C0020538,CAUSES,Resuscitation procedure,Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035273,C0022660,CAUSES,Resuscitation procedure,"Kidney Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035273,C0035222,CAUSES,Resuscitation procedure,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0035273,C0036690,CAUSES,Resuscitation procedure,Septicemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035273,C0242073,CAUSES,Resuscitation procedure,Pulmonary congestion,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035273,C1142110,CAUSES,Resuscitation procedure,Abdominal Compartment Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0035273,C5203670,CAUSES,Resuscitation procedure,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0038638,C1701940,CAUSES,Suction drainage,"Pneumonia, Ventilator-Associated",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0038903,C0032285,CAUSES,Pulmonary Surgical Procedures,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040044,C0149871,CAUSES,Thrombolytic Therapy,Deep Vein Thrombosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040044,C1175175,CAUSES,Thrombolytic Therapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040071,C0270942,CAUSES,Thymectomy,Myasthenic crisis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040145,C0020676,CAUSES,Thyroidectomy,Hypothyroidism,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040423,C0940931,CAUSES,Tonsillectomy,hemorrhage as a complication,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040461,C0004610,CAUSES,Toothbrushing,Bacteremia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040511,C0011847,CAUSES,Total pancreatectomy,Diabetes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040590,C0032285,CAUSES,Tracheostomy procedure,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040590,C1145670,CAUSES,Tracheostomy procedure,Respiratory Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040597,C0006267,CAUSES,Traction,Bronchiectasis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040674,C0018801,CAUSES,Transposition procedure,Heart failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C0009450,CAUSES,Transplantation,Communicable Diseases,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0040732,C0010278,CAUSES,Transplantation,Craniosynostosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C0014518,CAUSES,Transplantation,Toxic Epidermal Necrolysis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0040732,C0019158,CAUSES,Transplantation,Hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C0021053,CAUSES,Transplantation,Immune System Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C0022661,CAUSES,Transplantation,"Kidney Failure, Chronic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C0023530,CAUSES,Transplantation,Leukopenia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0040732,C0027059,CAUSES,Transplantation,Myocarditis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C0042740,CAUSES,Transplantation,Viral syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C0042769,CAUSES,Transplantation,Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C0085605,CAUSES,Transplantation,Liver Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C0280962,CAUSES,Transplantation,Bone Marrow Suppression,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C0740766,CAUSES,Transplantation,Acute Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C0872054,CAUSES,Transplantation,Latent Infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C0947751,CAUSES,Transplantation,vascular inflammations,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C1145670,CAUSES,Transplantation,Respiratory Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C1262020,CAUSES,Transplantation,diffuse alveolar damage,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040732,C2721563,CAUSES,Transplantation,Infectious pneumonias,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040739,C0004610,CAUSES,"Transplantation, Homologous",Bacteremia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040739,C0004623,CAUSES,"Transplantation, Homologous",Bacterial Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040739,C0009450,CAUSES,"Transplantation, Homologous",Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040739,C0085605,CAUSES,"Transplantation, Homologous",Liver Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040808,C0004030,CAUSES,Treatment Protocols,Aspergillosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040808,C0005779,CAUSES,Treatment Protocols,Blood Coagulation Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040808,C0009421,CAUSES,Treatment Protocols,Comatose,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040808,C0018801,CAUSES,Treatment Protocols,Heart failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040808,C0020538,CAUSES,Treatment Protocols,Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040808,C0023530,CAUSES,Treatment Protocols,Leukopenia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0040808,C0029118,CAUSES,Treatment Protocols,Opportunistic Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040808,C0032285,CAUSES,Treatment Protocols,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040808,C0040479,CAUSES,Treatment Protocols,Torsades de Pointes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0040808,C1175175,CAUSES,Treatment Protocols,Severe Acute Respiratory Syndrome,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0040861,C5203670,CAUSES,Triage,COVID-19,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0041281,C0003864,CAUSES,Tube feeding of patient,Arthritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0041281,C0017152,CAUSES,Tube feeding of patient,Gastritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0041281,C0022660,CAUSES,Tube feeding of patient,"Kidney Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0041281,C1623038,CAUSES,Tube feeding of patient,Cirrhosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0001314,CAUSES,Vaccination,Acute Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0001883,CAUSES,Vaccination,Airway Obstruction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0002726,CAUSES,Vaccination,Amyloidosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0002871,CAUSES,Vaccination,Anemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0002878,CAUSES,Vaccination,"Anemia, Hemolytic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0003123,CAUSES,Vaccination,Anorexia,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0042196,C0003177,CAUSES,Vaccination,Cutaneous anthrax,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0003864,CAUSES,Vaccination,Arthritis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0004096,CAUSES,Vaccination,Asthma,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0004364,CAUSES,Vaccination,Autoimmune Diseases,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0042196,C0005741,CAUSES,Vaccination,Blepharitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0006271,CAUSES,Vaccination,Bronchiolitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0007682,CAUSES,Vaccination,CNS disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0007684,CAUSES,Vaccination,Central Nervous System Infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0008526,CAUSES,Vaccination,Choroiditis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0008679,CAUSES,Vaccination,Chronic disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0009421,CAUSES,Vaccination,Comatose,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0009443,CAUSES,Vaccination,Common Cold,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0009450,CAUSES,Vaccination,Communicable Diseases,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0042196,C0009763,CAUSES,Vaccination,Conjunctivitis,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0042196,C0009952,CAUSES,Vaccination,Febrile Convulsions,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0010278,CAUSES,Vaccination,Craniosynostosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0010418,CAUSES,Vaccination,Cryptosporidiosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0011847,CAUSES,Vaccination,Diabetes,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0011854,CAUSES,Vaccination,"Diabetes Mellitus, Insulin-Dependent",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0012546,CAUSES,Vaccination,Diphtheria,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0014013,CAUSES,Vaccination,"Empyema, Pleural",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0014038,CAUSES,Vaccination,Encephalitis,topp,dsyn,20,CAUSES_TOPPcausDSYN
+C0042196,C0014059,CAUSES,Vaccination,"Encephalomyelitis, Acute Disseminated",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0014070,CAUSES,Vaccination,Encephalomyelitis,topp,dsyn,6,CAUSES_TOPPcausDSYN
+C0042196,C0014518,CAUSES,Vaccination,Toxic Epidermal Necrolysis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0015403,CAUSES,Vaccination,Eye Infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0015951,CAUSES,Vaccination,Fetal Resorption,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0016052,CAUSES,Vaccination,Fibromuscular Dysplasia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0019104,CAUSES,Vaccination,"Hemorrhagic Fevers, Viral",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0019158,CAUSES,Vaccination,Hepatitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0019159,CAUSES,Vaccination,Hepatitis A,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0019163,CAUSES,Vaccination,Hepatitis B,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0019191,CAUSES,Vaccination,Infectious Canine Hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0020255,CAUSES,Vaccination,Hydrocephalus,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0020305,CAUSES,Vaccination,Hydrops Fetalis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0020455,CAUSES,Vaccination,Hypergammaglobulinemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0020951,CAUSES,Vaccination,Immune Complex Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0021053,CAUSES,Vaccination,Immune System Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0021400,CAUSES,Vaccination,Influenza,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0042196,C0021933,CAUSES,Vaccination,Intussusception,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0022656,CAUSES,Vaccination,Kidney Cortex Necrosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0023092,CAUSES,Vaccination,Lassa Fever,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0023283,CAUSES,Vaccination,"Leishmaniasis, Cutaneous",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0023355,CAUSES,Vaccination,Leptomeningitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0023374,CAUSES,Vaccination,Lesch-Nyhan Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0023895,CAUSES,Vaccination,Liver diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0024266,CAUSES,Vaccination,Lymphocytic Choriomeningitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0024291,CAUSES,Vaccination,"Lymphohistiocytosis, Hemophagocytic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0024312,CAUSES,Vaccination,Lymphopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0024535,CAUSES,Vaccination,"Malaria, Falciparum",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0024894,CAUSES,Vaccination,Mastitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0024895,CAUSES,Vaccination,"Mastitis, Bovine",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0025007,CAUSES,Vaccination,Measles,topp,dsyn,7,CAUSES_TOPPcausDSYN
+C0042196,C0025289,CAUSES,Vaccination,Meningitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0025309,CAUSES,Vaccination,Meningoencephalitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0026769,CAUSES,Vaccination,Multiple Sclerosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0026780,CAUSES,Vaccination,Mumps,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0042196,C0026918,CAUSES,Vaccination,Mycobacterium Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0026975,CAUSES,Vaccination,Myelitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0027121,CAUSES,Vaccination,Myositis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0027134,CAUSES,Vaccination,Myringitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0027765,CAUSES,Vaccination,nervous system disorder,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0042196,C0028271,CAUSES,Vaccination,Noma,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0029877,CAUSES,Vaccination,Ear Inflammation,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0029882,CAUSES,Vaccination,Otitis Media,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0030486,CAUSES,Vaccination,Paraplegia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0030552,CAUSES,Vaccination,Paresis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0032285,CAUSES,Vaccination,Pneumonia,topp,dsyn,7,CAUSES_TOPPcausDSYN
+C0042196,C0032371,CAUSES,Vaccination,Poliomyelitis,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0042196,C0033246,CAUSES,Vaccination,Proctitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0034902,CAUSES,Vaccination,Pure Red-Cell Aplasia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0035243,CAUSES,Vaccination,Respiratory Tract Infections,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0042196,C0035455,CAUSES,Vaccination,Rhinitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0035920,CAUSES,Vaccination,Rubella,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0036310,CAUSES,Vaccination,Scheuermann's Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0036391,CAUSES,Vaccination,Schwartz-Jampel Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0037284,CAUSES,Vaccination,Skin lesion,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0038522,CAUSES,Vaccination,Subacute Sclerosing Panencephalitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0039520,CAUSES,Vaccination,Tenosynovitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0039614,CAUSES,Vaccination,Tetanus,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0040592,CAUSES,Vaccination,Trachoma,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0041834,CAUSES,Vaccination,Erythema,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0041912,CAUSES,Vaccination,Upper Respiratory Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0042164,CAUSES,Vaccination,Uveitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0042749,CAUSES,Vaccination,Viremia,topp,dsyn,16,CAUSES_TOPPcausDSYN
+C0042196,C0042769,CAUSES,Vaccination,Virus Diseases,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0043167,CAUSES,Vaccination,Pertussis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0043395,CAUSES,Vaccination,Yellow Fever,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0085584,CAUSES,Vaccination,Encephalopathies,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0151317,CAUSES,Vaccination,Chronic infectious disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0152944,CAUSES,Vaccination,Oculoglandular tularemia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0178238,CAUSES,Vaccination,Intestinal infectious disease (disorder),topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0206061,CAUSES,Vaccination,"Pneumonia, Interstitial",topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0221444,CAUSES,Vaccination,clinical syndromes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0234972,CAUSES,Vaccination,Convulsive disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0235272,CAUSES,Vaccination,Retinal damage,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0235840,CAUSES,Vaccination,Neonatal diarrhea,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0235950,CAUSES,Vaccination,Zinc deficiency,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0243010,CAUSES,Vaccination,Viral Encephalitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0243026,CAUSES,Vaccination,Sepsis,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0042196,C0262988,CAUSES,Vaccination,Vasculitis of the skin,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0267797,CAUSES,Vaccination,Acute hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0268958,CAUSES,Vaccination,Acute orchitis,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0042196,C0275518,CAUSES,Vaccination,Acute infectious disease,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0042196,C0275522,CAUSES,Vaccination,Asymptomatic Infections,topp,dsyn,7,CAUSES_TOPPcausDSYN
+C0042196,C0275524,CAUSES,Vaccination,Coinfection,topp,dsyn,9,CAUSES_TOPPcausDSYN
+C0042196,C0276276,CAUSES,Vaccination,Canine parvovirus infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0277537,CAUSES,Vaccination,Subacute disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0277548,CAUSES,Vaccination,Epidemic disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0277565,CAUSES,Vaccination,Local disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0282687,CAUSES,Vaccination,"Hemorrhagic Fever, Ebola",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0442886,CAUSES,Vaccination,Secondary Infections,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C0442893,CAUSES,Vaccination,Systemic disease,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0042196,C0452221,CAUSES,Vaccination,Osteomyelitis of vertebra,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0549493,CAUSES,Vaccination,Alveolitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0678236,CAUSES,Vaccination,Rare Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0740766,CAUSES,Vaccination,Acute Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0748168,CAUSES,Vaccination,Pulmonary Pathology,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0042196,C0856597,CAUSES,Vaccination,Pulmonary Alveolitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C0876973,CAUSES,Vaccination,Infectious Lung Disorder,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0042196,C0878544,CAUSES,Vaccination,Cardiomyopathies,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C1112174,CAUSES,Vaccination,panencephalitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C1175175,CAUSES,Vaccination,Severe Acute Respiratory Syndrome,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0042196,C1263835,CAUSES,Vaccination,Infectious disorder of the fetus,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C1264606,CAUSES,Vaccination,Persistent infection,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0042196,C1443952,CAUSES,Vaccination,Asymptomatic viremia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C1444007,CAUSES,Vaccination,Biphasic disease,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0042196,C1719788,CAUSES,Vaccination,Episodic ataxia type 1,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0042196,C1853193,CAUSES,Vaccination,Recurrent skin infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C2076600,CAUSES,Vaccination,Influenza due to Influenza A virus subtype H1N1,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C3669463,CAUSES,Vaccination,Feline immunodeficiency virus infection,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C3670928,CAUSES,Vaccination,Catarrhal enteritis,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0042196,C3686944,CAUSES,Vaccination,Bronchointerstitial pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C3694279,CAUSES,Vaccination,Middle East Respiratory Syndrome,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0042196,C4551825,CAUSES,Vaccination,Megaloblastic Anemia 1,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C4731917,CAUSES,Vaccination,Canine infectious respiratory disease complex,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C5139167,CAUSES,Vaccination,Severe infection,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042196,C5197682,CAUSES,Vaccination,Vaccine-Preventable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042196,C5203670,CAUSES,Vaccination,COVID-19,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0042200,C0021400,CAUSES,Influenza vaccination,Influenza,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042200,C0025289,CAUSES,Influenza vaccination,Meningitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042200,C0740304,CAUSES,Influenza vaccination,copd exacerbation,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042206,C0014518,CAUSES,Rubella vaccination,Toxic Epidermal Necrolysis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0042387,C0029191,CAUSES,Vasectomy,Orchitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0043162,C0018939,CAUSES,Whole-Body Irradiation,Hematological Disease,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0043162,C0265110,CAUSES,Whole-Body Irradiation,Cerebral Vasospasm,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0051817,C0038454,CAUSES,cyclophosphamide/doxorubicin/methotrexate/vincristine protocol,Cerebrovascular accident,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0052712,C0019158,CAUSES,doxorubicin/mitomycin/vinblastine protocol,Hepatitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0052712,C0021400,CAUSES,doxorubicin/mitomycin/vinblastine protocol,Influenza,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0052712,C0042214,CAUSES,doxorubicin/mitomycin/vinblastine protocol,Vaccinia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0055670,C0042384,CAUSES,cyclophosphamide/doxorubicin/prednisone/teniposide protocol,Vasculitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0057163,C0011311,CAUSES,DAV regimen,Dengue Fever,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0057163,C0019100,CAUSES,DAV regimen,Severe Dengue,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0057163,C0024312,CAUSES,DAV regimen,Lymphopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0057163,C0032285,CAUSES,DAV regimen,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0057163,C0042749,CAUSES,DAV regimen,Viremia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0057163,C0282687,CAUSES,DAV regimen,"Hemorrhagic Fever, Ebola",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0057163,C0376300,CAUSES,DAV regimen,Dengue Shock Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0057163,C0376538,CAUSES,DAV regimen,Porcine Reproductive and Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0057163,C0442886,CAUSES,DAV regimen,Secondary Infections,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0057163,C0876973,CAUSES,DAV regimen,Infectious Lung Disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0057163,C1175175,CAUSES,DAV regimen,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0057163,C5203670,CAUSES,DAV regimen,COVID-19,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0063264,C0003864,CAUSES,Cisplatin/Doxorubicin/Ifosfamide protocol,Arthritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0065764,C1175175,CAUSES,bleomycin/cisplatin/methotrexate protocol,Severe Acute Respiratory Syndrome,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0065772,C1850332,CAUSES,MCC protocol,Oculotrichodysplasia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0068899,C0032285,CAUSES,NOAC protocol,Pneumonia,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0072634,C0027059,CAUSES,bleomycin/cisplatin/vinblastine protocol,Myocarditis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0072634,C0243026,CAUSES,bleomycin/cisplatin/vinblastine protocol,Sepsis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0072634,C1290884,CAUSES,bleomycin/cisplatin/vinblastine protocol,Inflammatory disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0078044,C5203670,CAUSES,VAPAC protocol,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0079613,C0010278,CAUSES,Adoptive Immunotherapy,Craniosynostosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0079613,C1175175,CAUSES,Adoptive Immunotherapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0079989,C0020598,CAUSES,Parathyroidectomy,Hypocalcemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0083355,C1290884,CAUSES,amsacrine/azacitidine/etoposide,Inflammatory disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0083765,C0003123,CAUSES,fluorouracil/methotrexate/mitoxantrone protocol,Anorexia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0083765,C0023530,CAUSES,fluorouracil/methotrexate/mitoxantrone protocol,Leukopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0083765,C0847092,CAUSES,fluorouracil/methotrexate/mitoxantrone protocol,blood autoimmune disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0085263,C0149520,CAUSES,"Sphincterotomy, Endoscopic",Acute Cholecystitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0085287,C0004610,CAUSES,Root Planing,Bacteremia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0085430,C0036690,CAUSES,Blood Component Transfusion,Septicemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0085430,C0043124,CAUSES,Blood Component Transfusion,West Nile Fever,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0085430,C0948343,CAUSES,Blood Component Transfusion,Transfusion-Related Acute Lung Injury,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0085841,C0520459,CAUSES,Artificial Feeding,Necrotizing Enterocolitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0086153,C0005122,CAUSES,Dietary Modification,Beriberi,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0086153,C0010346,CAUSES,Dietary Modification,Crohn Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0086153,C5203670,CAUSES,Dietary Modification,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0086818,C0036690,CAUSES,Platelet Transfusion,Septicemia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0086818,C0040034,CAUSES,Platelet Transfusion,Thrombocytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0086818,C0559483,CAUSES,Platelet Transfusion,Pentalogy of Cantrell,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0086966,C0019247,CAUSES,"Abortion, Selective",Hereditary Diseases,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0149783,C0001623,CAUSES,Steroid therapy,Adrenal gland hypofunction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0149783,C0020488,CAUSES,Steroid therapy,Hypernatremia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0149783,C0021051,CAUSES,Steroid therapy,Immunologic Deficiency Syndromes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0149783,C0023067,CAUSES,Steroid therapy,Laryngitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0149783,C0029456,CAUSES,Steroid therapy,Osteoporosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0149783,C0038358,CAUSES,Steroid therapy,Gastric ulcer,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0149783,C0149781,CAUSES,Steroid therapy,Spontaneous pneumothorax,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0149783,C0151514,CAUSES,Steroid therapy,Atrophic condition of skin,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0149783,C0442886,CAUSES,Steroid therapy,Secondary Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0150141,C0009763,CAUSES,Bathing,Conjunctivitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0150211,C0011311,CAUSES,Environmental care procedure,Dengue Fever,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0150238,C0020625,CAUSES,Fluid resuscitation,Hyponatremia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0150305,C5203670,CAUSES,Positioning - therapy,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0150457,C0005779,CAUSES,Anticoagulant therapy,Blood Coagulation Disorders,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0150773,C0003864,CAUSES,Skin Care,Arthritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0152060,C0004364,CAUSES,Transection (procedure),Autoimmune Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0152060,C0009443,CAUSES,Transection (procedure),Common Cold,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0152060,C0009450,CAUSES,Transection (procedure),Communicable Diseases,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0152060,C0010356,CAUSES,Transection (procedure),Cross Infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0152060,C0033770,CAUSES,Transection (procedure),Prune Belly Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0152060,C0035222,CAUSES,Transection (procedure),"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0152060,C0042165,CAUSES,Transection (procedure),Anterior uveitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0152060,C0042769,CAUSES,Transection (procedure),Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0152060,C0043037,CAUSES,Transection (procedure),Common wart,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0152060,C0206750,CAUSES,Transection (procedure),Coronavirus Infections,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0152060,C0221444,CAUSES,Transection (procedure),clinical syndromes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0152060,C0264714,CAUSES,Transection (procedure),Acute heart failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0152060,C0948008,CAUSES,Transection (procedure),Ischemic stroke,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0152060,C1175175,CAUSES,Transection (procedure),Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0152060,C5203670,CAUSES,Transection (procedure),COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0162352,C0002792,CAUSES,Allergen Immunotherapy,anaphylaxis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0178702,C0940933,CAUSES,hypersensitivity desensitization,infection as a complication,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0184633,C0010340,CAUSES,Oxygen Therapy Care,Critical Illness,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0184893,C3489532,CAUSES,Emergency operation,Cone-Rod Dystrophy 2,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0184958,C0010356,CAUSES,Toilet procedure,Cross Infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185003,C0013080,CAUSES,Reparative closure,Down Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185003,C0028754,CAUSES,Reparative closure,Obesity,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185003,C0162429,CAUSES,Reparative closure,Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185003,C1175175,CAUSES,Reparative closure,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185003,C1856053,CAUSES,Reparative closure,Hydranencephaly with Renal Aplasia-Dysplasia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0185003,C5203670,CAUSES,Reparative closure,COVID-19,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0185010,C0311213,CAUSES,Closure by clip procedure,Dermatitis verrucosa,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185014,C0020538,CAUSES,Banding procedure,Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185026,C0011847,CAUSES,Plication,Diabetes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0003962,CAUSES,Imbrication (procedure),Ascites,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0004096,CAUSES,Imbrication (procedure),Asthma,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0185027,C0004623,CAUSES,Imbrication (procedure),Bacterial Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0004626,CAUSES,Imbrication (procedure),"Pneumonia, Bacterial",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0006271,CAUSES,Imbrication (procedure),Bronchiolitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0008055,CAUSES,Imbrication (procedure),Chikungunya Fever,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0009443,CAUSES,Imbrication (procedure),Common Cold,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0009450,CAUSES,Imbrication (procedure),Communicable Diseases,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0185027,C0010278,CAUSES,Imbrication (procedure),Craniosynostosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0010380,CAUSES,Imbrication (procedure),Croup,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0014009,CAUSES,Imbrication (procedure),Empyema,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0021400,CAUSES,Imbrication (procedure),Influenza,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0031350,CAUSES,Imbrication (procedure),Pharyngitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0032227,CAUSES,Imbrication (procedure),Pleural effusion disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0032285,CAUSES,Imbrication (procedure),Pneumonia,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0185027,C0037199,CAUSES,Imbrication (procedure),Sinusitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0149514,CAUSES,Imbrication (procedure),Acute bronchitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0149725,CAUSES,Imbrication (procedure),Lower respiratory tract infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0263314,CAUSES,Imbrication (procedure),Pemphigus and fogo selvagem,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0275524,CAUSES,Imbrication (procedure),Coinfection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0302507,CAUSES,Imbrication (procedure),Parainfluenza Virus Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0339901,CAUSES,Imbrication (procedure),Acute respiratory infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0524702,CAUSES,Imbrication (procedure),Pulmonary Thromboembolisms,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0694549,CAUSES,Imbrication (procedure),Community acquired pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C0740766,CAUSES,Imbrication (procedure),Acute Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C2317131,CAUSES,Imbrication (procedure),Acute rhinosinusitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C3280586,CAUSES,Imbrication (procedure),Mannose-Binding Protein Deficiency,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C4554601,CAUSES,Imbrication (procedure),Amyloidosis cutis dyschromia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185027,C5203670,CAUSES,Imbrication (procedure),COVID-19,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0185033,C0008679,CAUSES,Diversion procedure,Chronic disease,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0185033,C0018799,CAUSES,Diversion procedure,Heart Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185033,C1175175,CAUSES,Diversion procedure,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185060,C0221542,CAUSES,Crushing procedure,dumping,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185060,C3495559,CAUSES,Crushing procedure,Juvenile arthritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185111,C0004610,CAUSES,Surgical Manipulation,Bacteremia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185111,C0009450,CAUSES,Surgical Manipulation,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185111,C0011303,CAUSES,Surgical Manipulation,Demyelinating Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185111,C0016627,CAUSES,Surgical Manipulation,Influenza in Birds,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185111,C0024312,CAUSES,Surgical Manipulation,Lymphopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185111,C0029118,CAUSES,Surgical Manipulation,Opportunistic Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185111,C1258215,CAUSES,Surgical Manipulation,Ileus,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0002792,CAUSES,Extraction,anaphylaxis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0011168,CAUSES,Extraction,Deglutition Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0011847,CAUSES,Extraction,Diabetes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0019158,CAUSES,Extraction,Hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0019191,CAUSES,Extraction,Infectious Canine Hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0019196,CAUSES,Extraction,Hepatitis C,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0032285,CAUSES,Extraction,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0033770,CAUSES,Extraction,Prune Belly Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0036310,CAUSES,Extraction,Scheuermann's Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0040034,CAUSES,Extraction,Thrombocytopenia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0185115,C0042454,CAUSES,Extraction,Velopharyngeal Insufficiency,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0042749,CAUSES,Extraction,Viremia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0162429,CAUSES,Extraction,Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C0948245,CAUSES,Extraction,Cytokine Release Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C1096155,CAUSES,Extraction,Macrophage Activation Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C1302866,CAUSES,Extraction,Rodent mite infestation,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C2062441,CAUSES,Extraction,Influenza A,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185115,C2607947,CAUSES,Extraction,Unilateral deafness,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185117,C0040517,CAUSES,Expression procedure,Gilles de la Tourette syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0185908,C0392548,CAUSES,Operative procedure on spine,Cauda Equina Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0187901,C0029408,CAUSES,Meniscectomy,Degenerative polyarthritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0189621,C1096458,CAUSES,Injection of cardiovascular system,Vascular occlusion,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0193735,C0020538,CAUSES,Complete excision of pineal gland,Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0193959,C0272386,CAUSES,Tonsillectomy and adenoidectomy,Hypertrophy of tonsils,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0194084,C0020538,CAUSES,Bilateral total nephrectomy,Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0194086,C0022104,CAUSES,Partial nephrectomy,Irritable Bowel Syndrome,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0194133,C0018801,CAUSES,Local perfusion of kidney,Heart failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0194133,C0019212,CAUSES,Local perfusion of kidney,Hepatorenal Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0194133,C0022660,CAUSES,Local perfusion of kidney,"Kidney Failure, Acute",topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0194133,C0028961,CAUSES,Local perfusion of kidney,Oliguria,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0194852,C0004610,CAUSES,Prostate manipulation,Bacteremia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0198482,C0010356,CAUSES,Operation on abdominal region,Cross Infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0198482,C4289590,CAUSES,Operation on abdominal region,Endogenous Infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0004096,CAUSES,Prophylactic treatment,Asthma,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0004364,CAUSES,Prophylactic treatment,Autoimmune Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0009443,CAUSES,Prophylactic treatment,Common Cold,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0199176,C0009450,CAUSES,Prophylactic treatment,Communicable Diseases,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0199176,C0014544,CAUSES,Prophylactic treatment,Epilepsy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0016085,CAUSES,Prophylactic treatment,Filariasis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0017160,CAUSES,Prophylactic treatment,Gastroenteritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0021831,CAUSES,Prophylactic treatment,Intestinal Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0022660,CAUSES,Prophylactic treatment,"Kidney Failure, Acute",topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0199176,C0026896,CAUSES,Prophylactic treatment,Myasthenia Gravis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0027341,CAUSES,Prophylactic treatment,Nail-Patella Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0032285,CAUSES,Prophylactic treatment,Pneumonia,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0199176,C0035222,CAUSES,Prophylactic treatment,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0035243,CAUSES,Prophylactic treatment,Respiratory Tract Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0043528,CAUSES,Prophylactic treatment,Zoonoses,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0263940,CAUSES,Prophylactic treatment,Curb,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0267446,CAUSES,Prophylactic treatment,Acute gastroenteritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0854530,CAUSES,Prophylactic treatment,Infection by human herpesvirus 6,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C0948343,CAUSES,Prophylactic treatment,Transfusion-Related Acute Lung Injury,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199176,C1145670,CAUSES,Prophylactic treatment,Respiratory Failure,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0199176,C1640363,CAUSES,Prophylactic treatment,Vector Borne Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199242,C0005779,CAUSES,Anticoagulant prophylaxis,Blood Coagulation Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199242,C0085684,CAUSES,Anticoagulant prophylaxis,Foot Drop,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199242,C0940931,CAUSES,Anticoagulant prophylaxis,hemorrhage as a complication,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199451,C0025062,CAUSES,Continuous Positive Airway Pressure,Mediastinal Emphysema,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199470,C0006266,CAUSES,Mechanical ventilation,Bronchospasm,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199470,C0022660,CAUSES,Mechanical ventilation,"Kidney Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199470,C0025062,CAUSES,Mechanical ventilation,Mediastinal Emphysema,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199470,C0030552,CAUSES,Mechanical ventilation,Paresis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199470,C0032285,CAUSES,Mechanical ventilation,Pneumonia,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0199470,C0032326,CAUSES,Mechanical ventilation,Pneumothorax,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0199470,C0035222,CAUSES,Mechanical ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,6,CAUSES_TOPPcausDSYN
+C0199470,C0149725,CAUSES,Mechanical ventilation,Lower respiratory tract infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199470,C0242676,CAUSES,Mechanical ventilation,"Positive-Pressure Respiration, Intrinsic",topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0199470,C0267821,CAUSES,Mechanical ventilation,Hepatic congestion,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199470,C0746102,CAUSES,Mechanical ventilation,Chronic lung disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199470,C0876973,CAUSES,Mechanical ventilation,Infectious Lung Disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199470,C3665783,CAUSES,Mechanical ventilation,Obstructive shock,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199779,C0003864,CAUSES,Administration of antibiotic,Arthritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199779,C0006285,CAUSES,Administration of antibiotic,Bronchopneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199779,C0009319,CAUSES,Administration of antibiotic,Colitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199779,C0013369,CAUSES,Administration of antibiotic,Dysentery,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199779,C0031350,CAUSES,Administration of antibiotic,Pharyngitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199779,C0729531,CAUSES,Administration of antibiotic,Viral respiratory infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199779,C0857862,CAUSES,Administration of antibiotic,Staphylococcus Aureus Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199779,C1412002,CAUSES,Administration of antibiotic,Atypical pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199782,C0745153,CAUSES,Administration of insulin,Hypoglycaemic episode,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199798,C0010232,CAUSES,human vaccination,Cowpox,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199798,C0036310,CAUSES,human vaccination,Scheuermann's Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199804,C0032285,CAUSES,Vaccination against tuberculosis,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199804,C0264684,CAUSES,Vaccination against tuberculosis,Coronary arteritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199810,C0021390,CAUSES,Measles-mumps-rubella vaccination,Inflammatory Bowel Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199848,C0027765,CAUSES,Coronavirus vaccination,nervous system disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0199848,C1444007,CAUSES,Coronavirus vaccination,Biphasic disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204700,C0035078,CAUSES,Fluid restriction,Kidney Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0007222,CAUSES,Isolation procedure,Cardiovascular Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0009443,CAUSES,Isolation procedure,Common Cold,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0009450,CAUSES,Isolation procedure,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0014335,CAUSES,Isolation procedure,Enteritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0017160,CAUSES,Isolation procedure,Gastroenteritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0021400,CAUSES,Isolation procedure,Influenza,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0024117,CAUSES,Isolation procedure,Chronic Obstructive Airway Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0026857,CAUSES,Isolation procedure,Musculoskeletal Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0030312,CAUSES,Isolation procedure,Pancytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0032285,CAUSES,Isolation procedure,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0035204,CAUSES,Isolation procedure,Respiration Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0035637,CAUSES,Isolation procedure,Rinderpest,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0042769,CAUSES,Isolation procedure,Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0043528,CAUSES,Isolation procedure,Zoonoses,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0162429,CAUSES,Isolation procedure,Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0205721,CAUSES,Isolation procedure,"Infections, Hospital",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0206526,CAUSES,Isolation procedure,"Tuberculosis, Multidrug-Resistant",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0398623,CAUSES,Isolation procedure,Thrombophilia,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0204727,C0442886,CAUSES,Isolation procedure,Secondary Infections,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0204727,C0521530,CAUSES,Isolation procedure,Lung consolidation,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C0746495,CAUSES,Isolation procedure,Recurrent meningitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C1175175,CAUSES,Isolation procedure,Severe Acute Respiratory Syndrome,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0204727,C1402315,CAUSES,Isolation procedure,Vascular lesions,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C4551825,CAUSES,Isolation procedure,Megaloblastic Anemia 1,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0204727,C5203670,CAUSES,Isolation procedure,COVID-19,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0206058,C1836764,CAUSES,Elective Surgical Procedures,RESPIRATORY RHYTHMICITY IN SLEEP,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0206074,C0022660,CAUSES,Renal Replacement Therapy,"Kidney Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0206074,C0035078,CAUSES,Renal Replacement Therapy,Kidney Failure,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0237403,C0035222,CAUSES,treatments and procedures,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0242297,C0005779,CAUSES,Dietary Supplementation,Blood Coagulation Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0242297,C0020877,CAUSES,Dietary Supplementation,Ileitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0242297,C0268686,CAUSES,Dietary Supplementation,Hypervitaminosis E,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0242297,C0276483,CAUSES,Dietary Supplementation,Infectious bursal disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0242348,C0036830,CAUSES,Serotherapy,Serum Sickness,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0242739,C0020456,CAUSES,Nutritional Support,Hyperglycemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0242839,C0748168,CAUSES,"Heart Bypass, Left",Pulmonary Pathology,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0259972,C0035222,CAUSES,Ketogenic Diet,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0259972,C5203670,CAUSES,Ketogenic Diet,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0278347,C0002792,CAUSES,Transfusion of plasma,anaphylaxis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0279030,C1853698,CAUSES,Interferon Therapy,Rippling muscle disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0279452,C0003811,CAUSES,Etoposide/Methotrexate,Cardiac Arrhythmia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0279694,C0004364,CAUSES,Monoclonal Antibody Therapy,Autoimmune Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0279934,C5203670,CAUSES,chlorambucil/etoposide/lomustine,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0279939,C0007682,CAUSES,Doxorubicin/Melphalan/Teniposide regimen (MAV),CNS disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0280274,C0001175,CAUSES,Antiviral Therapy,Acquired Immunodeficiency Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0280274,C0009443,CAUSES,Antiviral Therapy,Common Cold,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0280274,C0023895,CAUSES,Antiviral Therapy,Liver diseases,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0280274,C0042769,CAUSES,Antiviral Therapy,Virus Diseases,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0280274,C0740304,CAUSES,Antiviral Therapy,copd exacerbation,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0280274,C1145670,CAUSES,Antiviral Therapy,Respiratory Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0280274,C5203670,CAUSES,Antiviral Therapy,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0280544,C0014518,CAUSES,cisplatin/vinblastine protocol,Toxic Epidermal Necrolysis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0280547,C0020538,CAUSES,cisplatin/cyclophosphamide/doxorubicin protocol,Hypertensive disease,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0280547,C1397307,CAUSES,cisplatin/cyclophosphamide/doxorubicin protocol,Cardiac fibrosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0280592,C1096155,CAUSES,doxorubicin/fluorouracil/mitomycin/vincristine protocol,Macrophage Activation Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0280604,C0085581,CAUSES,altretamine/cisplatin/cyclophosphamide protocol,Restrictive lung disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0280604,C0948268,CAUSES,altretamine/cisplatin/cyclophosphamide protocol,Hemodynamic instability,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0281163,C0024530,CAUSES,Educational Intervention,Malaria,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0281318,C0035309,CAUSES,antiangiogenesis therapy,Retinal Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0281481,C0038826,CAUSES,Anti-Tumor Necrosis Factor Therapy,Superinfection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0282402,C0038454,CAUSES,Hormone replacement therapy,Cerebrovascular accident,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0282515,C1535939,CAUSES,Chemoprevention,Pneumocystis jiroveci pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0301585,C0020443,CAUSES,Fat diet,Hypercholesterolemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0301585,C0878544,CAUSES,Fat diet,Cardiomyopathies,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0338248,C1096155,CAUSES,carmustine/cytarabine/etoposide/melphalan regimen,Macrophage Activation Syndrome,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0339897,C0003962,CAUSES,Transjugular intrahepatic portosystemic shunt procedure,Ascites,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0339897,C0877214,CAUSES,Transjugular intrahepatic portosystemic shunt procedure,Villus atrophy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0339897,C1565489,CAUSES,Transjugular intrahepatic portosystemic shunt procedure,Renal Insufficiency,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0000833,CAUSES,Aspiration-action,Abscess,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0001883,CAUSES,Aspiration-action,Airway Obstruction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0004626,CAUSES,Aspiration-action,"Pneumonia, Bacterial",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0006267,CAUSES,Aspiration-action,Bronchiectasis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0349707,C0006285,CAUSES,Aspiration-action,Bronchopneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0006840,CAUSES,Aspiration-action,Candidiasis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0009450,CAUSES,Aspiration-action,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0010356,CAUSES,Aspiration-action,Cross Infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0024110,CAUSES,Aspiration-action,Lung Abscess,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0349707,C0024117,CAUSES,Aspiration-action,Chronic Obstructive Airway Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0025048,CAUSES,Aspiration-action,Meconium Aspiration Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0032285,CAUSES,Aspiration-action,Pneumonia,topp,dsyn,19,CAUSES_TOPPcausDSYN
+C0349707,C0032290,CAUSES,Aspiration-action,Aspiration Pneumonia,topp,dsyn,6,CAUSES_TOPPcausDSYN
+C0349707,C0032298,CAUSES,Aspiration-action,"Pneumonia, Lipid",topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0349707,C0034069,CAUSES,Aspiration-action,Pulmonary Fibrosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0035222,CAUSES,Aspiration-action,"Respiratory Distress Syndrome, Adult",topp,dsyn,19,CAUSES_TOPPcausDSYN
+C0349707,C0035243,CAUSES,Aspiration-action,Respiratory Tract Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0149725,CAUSES,Aspiration-action,Lower respiratory tract infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0264384,CAUSES,Aspiration-action,Granulomatous pneumonia,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0349707,C0264458,CAUSES,Aspiration-action,Pneumonitis due to fumes AND/OR vapors,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0349707,C0264490,CAUSES,Aspiration-action,Acute respiratory failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0275524,CAUSES,Aspiration-action,Coinfection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0275566,CAUSES,Aspiration-action,Pulmonary actinomycosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0549472,CAUSES,Aspiration-action,Cholesterol pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0678236,CAUSES,Aspiration-action,Rare Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0729518,CAUSES,Aspiration-action,Bacterial respiratory infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0740766,CAUSES,Aspiration-action,Acute Pneumonia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0349707,C0747651,CAUSES,Aspiration-action,Recurrent aspiration pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0748159,CAUSES,Aspiration-action,pulmonary involvement,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C0876973,CAUSES,Aspiration-action,Infectious Lung Disorder,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0349707,C0949083,CAUSES,Aspiration-action,Hospital acquired pneumonia,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0349707,C1175175,CAUSES,Aspiration-action,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C1290336,CAUSES,Aspiration-action,Acute bronchopneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C1290338,CAUSES,Aspiration-action,Necrotizing bronchopneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0349707,C2074898,CAUSES,Aspiration-action,chronic Lung Inflammations,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0349707,C2721563,CAUSES,Aspiration-action,Infectious pneumonias,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0374711,C0243010,CAUSES,Surgical repair,Viral Encephalitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0376450,C0019156,CAUSES,Transplantation Conditioning,Hepatic Veno-Occlusive Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0376450,C0023530,CAUSES,Transplantation Conditioning,Leukopenia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0376450,C0856825,CAUSES,Transplantation Conditioning,Acute GVH disease,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0376450,C0948441,CAUSES,Transplantation Conditioning,Venoocclusive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0376495,C0023530,CAUSES,Retreatments,Leukopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0376495,C1175175,CAUSES,Retreatments,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0376518,C0003864,CAUSES,Adoptive Transfer,Arthritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0376518,C0004364,CAUSES,Adoptive Transfer,Autoimmune Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0376518,C0007682,CAUSES,Adoptive Transfer,CNS disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0376518,C0011303,CAUSES,Adoptive Transfer,Demyelinating Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0376518,C0014038,CAUSES,Adoptive Transfer,Encephalitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0376518,C0014070,CAUSES,Adoptive Transfer,Encephalomyelitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0376518,C0025289,CAUSES,Adoptive Transfer,Meningitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0376518,C0027059,CAUSES,Adoptive Transfer,Myocarditis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0376518,C0032285,CAUSES,Adoptive Transfer,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0376518,C0302809,CAUSES,Adoptive Transfer,Fulminant Hepatitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0376518,C1719788,CAUSES,Adoptive Transfer,Episodic ataxia type 1,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0392920,C0001824,CAUSES,Chemotherapy Regimen,Agranulocytosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0392920,C0023530,CAUSES,Chemotherapy Regimen,Leukopenia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0392920,C0038362,CAUSES,Chemotherapy Regimen,Stomatitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0394697,C0238371,CAUSES,Brachial Plexus Block,Phrenic nerve lesion,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0396625,C0037199,CAUSES,Nasotracheal intubation,Sinusitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0396670,C0009450,CAUSES,Isolated limb perfusion,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0396670,C0021400,CAUSES,Isolated limb perfusion,Influenza,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0396670,C0032285,CAUSES,Isolated limb perfusion,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0396670,C0032310,CAUSES,Isolated limb perfusion,"Pneumonia, Viral",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0396670,C0694549,CAUSES,Isolated limb perfusion,Community acquired pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0398480,C0035222,CAUSES,Drainage of lymphatics,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0400447,C0156149,CAUSES,Orthotopic liver transplant,Gastrointestinal tract vascular insufficiency,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0418981,C0349412,CAUSES,Medical therapy,Refractory shock,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0418981,C1145670,CAUSES,Medical therapy,Respiratory Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0436307,C0001175,CAUSES,Chemoradiotherapy,Acquired Immunodeficiency Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0436307,C0010346,CAUSES,Chemoradiotherapy,Crohn Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0436307,C0014335,CAUSES,Chemoradiotherapy,Enteritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0436307,C0021051,CAUSES,Chemoradiotherapy,Immunologic Deficiency Syndromes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0436307,C0341305,CAUSES,Chemoradiotherapy,Autoimmune enteropathy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0439775,C0001127,CAUSES,Elevation procedure,"Acidosis, Respiratory",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0439775,C0005779,CAUSES,Elevation procedure,Blood Coagulation Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0439775,C0010823,CAUSES,Elevation procedure,Cytomegalovirus Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0439775,C0011881,CAUSES,Elevation procedure,Diabetic Nephropathy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0439775,C0020538,CAUSES,Elevation procedure,Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0439775,C0021831,CAUSES,Elevation procedure,Intestinal Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0439775,C0027051,CAUSES,Elevation procedure,Myocardial Infarction,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0439775,C0162557,CAUSES,Elevation procedure,"Liver Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0439775,C0235527,CAUSES,Elevation procedure,"Heart Failure, Right-Sided",topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0439775,C0747676,CAUSES,Elevation procedure,pneumonia childhood,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0439775,C0856169,CAUSES,Elevation procedure,Endothelial dysfunction,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0439775,C1096155,CAUSES,Elevation procedure,Macrophage Activation Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0439775,C1142110,CAUSES,Elevation procedure,Abdominal Compartment Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0439775,C1175175,CAUSES,Elevation procedure,Severe Acute Respiratory Syndrome,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0439775,C2973725,CAUSES,Elevation procedure,Pulmonary arterial hypertension,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441509,C0005779,CAUSES,Coagulation procedure,Blood Coagulation Disorders,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0441509,C0012739,CAUSES,Coagulation procedure,Disseminated Intravascular Coagulation,topp,dsyn,10,CAUSES_TOPPcausDSYN
+C0441509,C0020541,CAUSES,Coagulation procedure,Portal Hypertension,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441509,C0021400,CAUSES,Coagulation procedure,Influenza,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441509,C0035222,CAUSES,Coagulation procedure,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441509,C0036310,CAUSES,Coagulation procedure,Scheuermann's Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441509,C0038454,CAUSES,Coagulation procedure,Cerebrovascular accident,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441509,C0398623,CAUSES,Coagulation procedure,Thrombophilia,topp,dsyn,8,CAUSES_TOPPcausDSYN
+C0441509,C0524702,CAUSES,Coagulation procedure,Pulmonary Thromboembolisms,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0441509,C0750151,CAUSES,Coagulation procedure,Vaso-Occlusive Crisis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441509,C0856169,CAUSES,Coagulation procedure,Endothelial dysfunction,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0441509,C0940931,CAUSES,Coagulation procedure,hemorrhage as a complication,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0441509,C5203670,CAUSES,Coagulation procedure,COVID-19,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0441516,C0021400,CAUSES,Demand (clinical),Influenza,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441516,C0036916,CAUSES,Demand (clinical),Sexually Transmitted Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441516,C0038054,CAUSES,Demand (clinical),"Sprue, Tropical",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441516,C0043528,CAUSES,Demand (clinical),Zoonoses,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441516,C0162429,CAUSES,Demand (clinical),Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441516,C0275524,CAUSES,Demand (clinical),Coinfection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441516,C5203670,CAUSES,Demand (clinical),COVID-19,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0441519,C0032326,CAUSES,Microwave destruction - action,Pneumothorax,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0441535,C0205721,CAUSES,External drainage,"Infections, Hospital",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0445275,C0035204,CAUSES,Secondary procedure,Respiration Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0454508,C1145670,CAUSES,Breathing control (regime/therapy),Respiratory Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0454525,C0014335,CAUSES,Manual Therapies,Enteritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0456675,C0035222,CAUSES,Massive blood transfusion,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0456979,C0152517,CAUSES,Automated endodontic technique,Viral gastroenteritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0459914,C0008058,CAUSES,Conservative Treatment,Chilblains,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0472699,C0009319,CAUSES,Hemopoietic stem cell transplant,Colitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0472699,C0009450,CAUSES,Hemopoietic stem cell transplant,Communicable Diseases,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0472699,C0019158,CAUSES,Hemopoietic stem cell transplant,Hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0472699,C0023530,CAUSES,Hemopoietic stem cell transplant,Leukopenia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0472699,C0024291,CAUSES,Hemopoietic stem cell transplant,"Lymphohistiocytosis, Hemophagocytic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0472699,C0032285,CAUSES,Hemopoietic stem cell transplant,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0472699,C0264344,CAUSES,Hemopoietic stem cell transplant,Septic bronchitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0520484,C0043528,CAUSES,Xenograft procedure,Zoonoses,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0521213,C0156149,CAUSES,Closure by clamp,Gastrointestinal tract vascular insufficiency,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521272,C0008495,CAUSES,Injection of amnion,Chorioamnionitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521300,C0009421,CAUSES,Life support procedure,Comatose,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521300,C0748159,CAUSES,Life support procedure,pulmonary involvement,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521302,C0040034,CAUSES,Fluid replacement,Thrombocytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521974,C0003850,CAUSES,"Diet, High-Fat",Arteriosclerosis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0521974,C0004096,CAUSES,"Diet, High-Fat",Asthma,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521974,C0011847,CAUSES,"Diet, High-Fat",Diabetes,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0521974,C0011860,CAUSES,"Diet, High-Fat","Diabetes Mellitus, Non-Insulin-Dependent",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521974,C0015695,CAUSES,"Diet, High-Fat",Fatty Liver,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0521974,C0020443,CAUSES,"Diet, High-Fat",Hypercholesterolemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521974,C0020538,CAUSES,"Diet, High-Fat",Hypertensive disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521974,C0023794,CAUSES,"Diet, High-Fat",Lipoidosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521974,C0023895,CAUSES,"Diet, High-Fat",Liver diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521974,C0024115,CAUSES,"Diet, High-Fat",Lung diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521974,C0028754,CAUSES,"Diet, High-Fat",Obesity,topp,dsyn,20,CAUSES_TOPPcausDSYN
+C0521974,C0032298,CAUSES,"Diet, High-Fat","Pneumonia, Lipid",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521974,C0400966,CAUSES,"Diet, High-Fat",Non-alcoholic Fatty Liver Disease,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0521974,C0853897,CAUSES,"Diet, High-Fat",Diabetic Cardiomyopathies,topp,dsyn,5,CAUSES_TOPPcausDSYN
+C0521974,C0856169,CAUSES,"Diet, High-Fat",Endothelial dysfunction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0521974,C3241937,CAUSES,"Diet, High-Fat",Nonalcoholic Steatohepatitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0522794,C2036447,CAUSES,Heparin therapy,iatrogenic Bleeding,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0524850,C0038454,CAUSES,Neurosurgical Procedures,Cerebrovascular accident,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0524865,C0023890,CAUSES,Reconstructive Surgical Procedures,Liver Cirrhosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0524865,C0029456,CAUSES,Reconstructive Surgical Procedures,Osteoporosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0524865,C1393529,CAUSES,Reconstructive Surgical Procedures,Blood Vessel complications,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0543467,C0006840,CAUSES,Operative Surgical Procedures,Candidiasis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0007785,CAUSES,Operative Surgical Procedures,Cerebral Infarction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0011847,CAUSES,Operative Surgical Procedures,Diabetes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0014038,CAUSES,Operative Surgical Procedures,Encephalitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0018378,CAUSES,Operative Surgical Procedures,Guillain-Barre Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0019151,CAUSES,Operative Surgical Procedures,Hepatic Encephalopathy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0022118,CAUSES,Operative Surgical Procedures,Transient ischemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0022660,CAUSES,Operative Surgical Procedures,"Kidney Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0024312,CAUSES,Operative Surgical Procedures,Lymphopenia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0543467,C0031117,CAUSES,Operative Surgical Procedures,Peripheral Neuropathy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0034069,CAUSES,Operative Surgical Procedures,Pulmonary Fibrosis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0543467,C0036690,CAUSES,Operative Surgical Procedures,Septicemia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0543467,C0036992,CAUSES,Operative Surgical Procedures,Short Bowel Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0242966,CAUSES,Operative Surgical Procedures,Systemic Inflammatory Response Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0600327,CAUSES,Operative Surgical Procedures,Toxic Shock Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0856169,CAUSES,Operative Surgical Procedures,Endothelial dysfunction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C0948268,CAUSES,Operative Surgical Procedures,Hemodynamic instability,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0543467,C5203670,CAUSES,Operative Surgical Procedures,COVID-19,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0545322,C0948245,CAUSES,T cell therapy,Cytokine Release Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0545447,C0024788,CAUSES,monitoring temperature,Marburg Virus Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0545447,C1175175,CAUSES,monitoring temperature,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0547070,C0004245,CAUSES,Ablation,Atrioventricular Block,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0547070,C0004364,CAUSES,Ablation,Autoimmune Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0547070,C0008311,CAUSES,Ablation,Cholangitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0547070,C0010054,CAUSES,Ablation,Coronary Arteriosclerosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0547070,C0014070,CAUSES,Ablation,Encephalomyelitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0547070,C0015951,CAUSES,Ablation,Fetal Resorption,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0547070,C0020456,CAUSES,Ablation,Hyperglycemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0547070,C0020538,CAUSES,Ablation,Hypertensive disease,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0547070,C0024141,CAUSES,Ablation,"Lupus Erythematosus, Systemic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0547070,C0042769,CAUSES,Ablation,Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0547070,C1096155,CAUSES,Ablation,Macrophage Activation Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0553741,C0032285,CAUSES,Fluid Management,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0553741,C0035222,CAUSES,Fluid Management,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0553741,C0036690,CAUSES,Fluid Management,Septicemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0556030,C1142110,CAUSES,Repositioning (procedure),Abdominal Compartment Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0557061,C0206750,CAUSES,Discussion (procedure),Coronavirus Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0557988,C0019158,CAUSES,Close supervision,Hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0557988,C0585186,CAUSES,Close supervision,Cutaneous hypersensitivity,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0564989,C0018801,CAUSES,Heart ligation,Heart failure,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0564989,C0027051,CAUSES,Heart ligation,Myocardial Infarction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0564989,C0264716,CAUSES,Heart ligation,Chronic heart failure,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0574032,C0019061,CAUSES,Infusion procedures,Hemolytic-Uremic Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0574032,C0020456,CAUSES,Infusion procedures,Hyperglycemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0574032,C0020598,CAUSES,Infusion procedures,Hypocalcemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0574032,C0020615,CAUSES,Infusion procedures,Hypoglycemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0574032,C0239946,CAUSES,Infusion procedures,"Fibrosis, Liver",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0574032,C0242966,CAUSES,Infusion procedures,Systemic Inflammatory Response Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0574032,C0948201,CAUSES,Infusion procedures,Alloimmunization,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0581601,C0008679,CAUSES,Functional modification,Chronic disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0581601,C0010692,CAUSES,Functional modification,Cystitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0581601,C0040961,CAUSES,Functional modification,Tricuspid Valve Insufficiency,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0581602,C0003850,CAUSES,Structural modification,Arteriosclerosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0581602,C0015397,CAUSES,Structural modification,Disorder of eye,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0581602,C0030436,CAUSES,Structural modification,Parakeratosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0581602,C0042769,CAUSES,Structural modification,Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0581602,C1301700,CAUSES,Structural modification,Cardiovascular morbidity,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0597750,C0004096,CAUSES,antigen challenge,Asthma,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0597750,C0004364,CAUSES,antigen challenge,Autoimmune Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0597750,C0024312,CAUSES,antigen challenge,Lymphopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0597750,C0035455,CAUSES,antigen challenge,Rhinitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0598391,C0017205,CAUSES,Enzyme Replacement Therapy,Gaucher Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0599082,C0221052,CAUSES,cellular sensitization,Chronic berylliosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0600080,C0025164,CAUSES,Stretching exercises,Megaesophagus,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0600080,C0032285,CAUSES,Stretching exercises,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0600080,C0700251,CAUSES,Stretching exercises,Brachial Plexus Neuropathies,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0600250,C0001314,CAUSES,Passive Antibody Transfer,Acute Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0677850,C0032285,CAUSES,Adjuvant Therapy,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0677850,C0035222,CAUSES,Adjuvant Therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0677881,C0023530,CAUSES,Cytotoxic Chemotherapy,Leukopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0677881,C0024312,CAUSES,Cytotoxic Chemotherapy,Lymphopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0677881,C0267537,CAUSES,Cytotoxic Chemotherapy,Typhlitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0677881,C0343387,CAUSES,Cytotoxic Chemotherapy,"Enterocolitis, Neutropenic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0677881,C0442867,CAUSES,Cytotoxic Chemotherapy,malignant disease,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0678812,C0003864,CAUSES,systemic administration,Arthritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0678812,C0038362,CAUSES,systemic administration,Stomatitis,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C0678812,C0206750,CAUSES,systemic administration,Coronavirus Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0678812,C0302486,CAUSES,systemic administration,Erythrophagocytosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0678823,C0085437,CAUSES,parenteral administration,"Meningitis, Bacterial",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0679628,C1623038,CAUSES,blood modification,Cirrhosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0679637,C0035078,CAUSES,major surgery,Kidney Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0679637,C0272285,CAUSES,major surgery,Heparin-induced thrombocytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0679698,C0032285,CAUSES,disease prevention,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0679698,C0042769,CAUSES,disease prevention,Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0679698,C0282312,CAUSES,disease prevention,Bubonic Plague,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0679818,C0151317,CAUSES,blood donor screening,Chronic infectious disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0683174,C0005743,CAUSES,topical application,Blepharoconjunctivitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0683174,C0022081,CAUSES,topical application,Iritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0683174,C0239211,CAUSES,topical application,EAR EDEMA,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0683174,C3875321,CAUSES,topical application,Inflammatory dermatosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0683517,C0030360,CAUSES,Involuntary Treatment,Papillon-Lefevre Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0695434,C0027341,CAUSES,oscillations,Nail-Patella Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0695434,C1096155,CAUSES,oscillations,Macrophage Activation Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0702249,C0006285,CAUSES,Infiltration (procedure),Bronchopneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0730246,C3694279,CAUSES,Viral immunization,Middle East Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0730400,C0010414,CAUSES,Solid organ transplant,Infection by Cryptococcus neoformans,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0740956,C0242422,CAUSES,AMPHOTERICIN B Administration,Parkinsonian Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0741614,C0036992,CAUSES,Intestine Resection,Short Bowel Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0741847,C0085605,CAUSES,Bypass,Liver Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0741847,C0235527,CAUSES,Bypass,"Heart Failure, Right-Sided",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0744425,C0029456,CAUSES,glucocorticoid therapy,Osteoporosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0814357,C1535939,CAUSES,universal prevention,Pneumocystis jiroveci pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0814435,C0010278,CAUSES,early identification,Craniosynostosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0814435,C0027765,CAUSES,early identification,nervous system disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0814435,C0035436,CAUSES,early identification,Rheumatic Fever,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0814435,C0264490,CAUSES,early identification,Acute respiratory failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0814435,C1175175,CAUSES,early identification,Severe Acute Respiratory Syndrome,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0841790,C0027726,CAUSES,caudal injection,Nephrotic Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0841790,C0085605,CAUSES,caudal injection,Liver Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0852808,C0041974,CAUSES,Perineal surgeries,Urethral Stenosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0853389,C0023518,CAUSES,postoperative analgesia,Leukocytosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0854621,C0206061,CAUSES,Human leukocyte interferon therapy,"Pneumonia, Interstitial",topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0869036,C0002871,CAUSES,autologous transfusion,Anemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0877629,C0009450,CAUSES,infection prophylaxis,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0877629,C0019348,CAUSES,infection prophylaxis,Herpes Simplex Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0877629,C0856825,CAUSES,infection prophylaxis,Acute GVH disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0887842,C0034074,CAUSES,Balloon Occlusion,Pulmonary Infarction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0887947,C0014335,CAUSES,"Antiretroviral Therapy, Highly Active",Enteritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0917707,C0940931,CAUSES,Cannulation,hemorrhage as a complication,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920425,C0003811,CAUSES,Cancer Therapeutic Procedure,Cardiac Arrhythmia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920425,C0010278,CAUSES,Cancer Therapeutic Procedure,Craniosynostosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920425,C0018050,CAUSES,Cancer Therapeutic Procedure,Gonadal Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920425,C0020538,CAUSES,Cancer Therapeutic Procedure,Hypertensive disease,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C0920425,C0031039,CAUSES,Cancer Therapeutic Procedure,Pericardial effusion,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920425,C0041364,CAUSES,Cancer Therapeutic Procedure,Tumor Lysis Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920425,C0398350,CAUSES,Cancer Therapeutic Procedure,Acute cardiac pulmonary edema,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920425,C0740394,CAUSES,Cancer Therapeutic Procedure,Hyperuricemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920425,C5203670,CAUSES,Cancer Therapeutic Procedure,COVID-19,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C0920467,C0009450,CAUSES,disorder control (procedure),Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920467,C0018133,CAUSES,disorder control (procedure),Graft-vs-Host Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920467,C0042769,CAUSES,disorder control (procedure),Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920467,C0043528,CAUSES,disorder control (procedure),Zoonoses,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920467,C0276311,CAUSES,disorder control (procedure),Bovine viral diarrhea,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920467,C1175175,CAUSES,disorder control (procedure),Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920467,C5203670,CAUSES,disorder control (procedure),COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0920619,C0007222,CAUSES,neoplasm therapy,Cardiovascular Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0947647,C0004610,CAUSES,Manipulation procedure,Bacteremia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0947647,C0014070,CAUSES,Manipulation procedure,Encephalomyelitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0947647,C0030305,CAUSES,Manipulation procedure,Pancreatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0947647,C0030446,CAUSES,Manipulation procedure,Paralytic Ileus,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0947647,C0042769,CAUSES,Manipulation procedure,Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0947647,C1318973,CAUSES,Manipulation procedure,Staphylococcus aureus infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C0948575,C0162429,CAUSES,Diuretic therapy,Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1096117,C5203670,CAUSES,Off-Label Treatment,COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1135929,C0037354,CAUSES,Mass Vaccination,Smallpox,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1171257,C0035222,CAUSES,Delivery care,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1171324,C0264344,CAUSES,B-Cell Depletion Therapy,Septic bronchitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0000833,CAUSES,Destructive procedure (surgical),Abscess,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0001623,CAUSES,Destructive procedure (surgical),Adrenal gland hypofunction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0002382,CAUSES,Destructive procedure (surgical),Alveolar Bone Loss,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0002395,CAUSES,Destructive procedure (surgical),Alzheimer's Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0002871,CAUSES,Destructive procedure (surgical),Anemia,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C1261381,C0003123,CAUSES,Destructive procedure (surgical),Anorexia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0004364,CAUSES,Destructive procedure (surgical),Autoimmune Diseases,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1261381,C0005779,CAUSES,Destructive procedure (surgical),Blood Coagulation Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0006267,CAUSES,Destructive procedure (surgical),Bronchiectasis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0006271,CAUSES,Destructive procedure (surgical),Bronchiolitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0006277,CAUSES,Destructive procedure (surgical),Bronchitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0009450,CAUSES,Destructive procedure (surgical),Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0010278,CAUSES,Destructive procedure (surgical),Craniosynostosis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1261381,C0011175,CAUSES,Destructive procedure (surgical),Dehydration,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C1261381,C0011847,CAUSES,Destructive procedure (surgical),Diabetes,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C1261381,C0011848,CAUSES,Destructive procedure (surgical),Diabetes Insipidus,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0011854,CAUSES,Destructive procedure (surgical),"Diabetes Mellitus, Insulin-Dependent",topp,dsyn,7,CAUSES_TOPPcausDSYN
+C1261381,C0013238,CAUSES,Destructive procedure (surgical),Dry Eye Syndromes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0014038,CAUSES,Destructive procedure (surgical),Encephalitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0016867,CAUSES,Destructive procedure (surgical),Furunculosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0017086,CAUSES,Destructive procedure (surgical),Gangrene,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0020255,CAUSES,Destructive procedure (surgical),Hydrocephalus,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0020456,CAUSES,Destructive procedure (surgical),Hyperglycemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0021051,CAUSES,Destructive procedure (surgical),Immunologic Deficiency Syndromes,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C1261381,C0021845,CAUSES,Destructive procedure (surgical),Intestinal Perforation,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0023524,CAUSES,Destructive procedure (surgical),"Leukoencephalopathy, Progressive Multifocal",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0023530,CAUSES,Destructive procedure (surgical),Leukopenia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1261381,C0024312,CAUSES,Destructive procedure (surgical),Lymphopenia,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C1261381,C0025164,CAUSES,Destructive procedure (surgical),Megaesophagus,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0026769,CAUSES,Destructive procedure (surgical),Multiple Sclerosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0029118,CAUSES,Destructive procedure (surgical),Opportunistic Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0029453,CAUSES,Destructive procedure (surgical),Osteopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0030567,CAUSES,Destructive procedure (surgical),Parkinson Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0030636,CAUSES,Destructive procedure (surgical),Pasteurella Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0032285,CAUSES,Destructive procedure (surgical),Pneumonia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1261381,C0032326,CAUSES,Destructive procedure (surgical),Pneumothorax,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1261381,C0034069,CAUSES,Destructive procedure (surgical),Pulmonary Fibrosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0035222,CAUSES,Destructive procedure (surgical),"Respiratory Distress Syndrome, Adult",topp,dsyn,3,CAUSES_TOPPcausDSYN
+C1261381,C0035243,CAUSES,Destructive procedure (surgical),Respiratory Tract Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0036310,CAUSES,Destructive procedure (surgical),Scheuermann's Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0038454,CAUSES,Destructive procedure (surgical),Cerebrovascular accident,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0038826,CAUSES,Destructive procedure (surgical),Superinfection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0040034,CAUSES,Destructive procedure (surgical),Thrombocytopenia,topp,dsyn,6,CAUSES_TOPPcausDSYN
+C1261381,C0042749,CAUSES,Destructive procedure (surgical),Viremia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0042769,CAUSES,Destructive procedure (surgical),Virus Diseases,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1261381,C0043528,CAUSES,Destructive procedure (surgical),Zoonoses,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C1261381,C0151857,CAUSES,Destructive procedure (surgical),Pleocytosis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1261381,C0153166,CAUSES,Destructive procedure (surgical),Syphilitic aseptic meningitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0162429,CAUSES,Destructive procedure (surgical),Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0206083,CAUSES,Destructive procedure (surgical),"Myelinolysis, Central Pontine",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0221227,CAUSES,Destructive procedure (surgical),Centriacinar Emphysema,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1261381,C0236053,CAUSES,Destructive procedure (surgical),Mucosal ulcer,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0238644,CAUSES,Destructive procedure (surgical),"Anemia, severe",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0267556,CAUSES,Destructive procedure (surgical),Osmotic diarrhea,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0277564,CAUSES,Destructive procedure (surgical),Acquired disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0333040,CAUSES,Destructive procedure (surgical),Fungus ball,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0393591,CAUSES,Destructive procedure (surgical),AICARDI-GOUTIERES SYNDROME,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0442886,CAUSES,Destructive procedure (surgical),Secondary Infections,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1261381,C0456909,CAUSES,Destructive procedure (surgical),Blindness,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0747845,CAUSES,Destructive procedure (surgical),early pregnancy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0751711,CAUSES,Destructive procedure (surgical),Anterior Ischemic Optic Neuropathy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0795684,CAUSES,Destructive procedure (surgical),Meningovascular syphilis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C0877214,CAUSES,Destructive procedure (surgical),Villus atrophy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C1096458,CAUSES,Destructive procedure (surgical),Vascular occlusion,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C1145670,CAUSES,Destructive procedure (surgical),Respiratory Failure,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1261381,C1262091,CAUSES,Destructive procedure (surgical),Lymphocytic infiltration,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C1290807,CAUSES,Destructive procedure (surgical),Diarrheal disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C1290884,CAUSES,Destructive procedure (surgical),Inflammatory disorder,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C1623038,CAUSES,Destructive procedure (surgical),Cirrhosis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1261381,C2364010,CAUSES,Destructive procedure (surgical),Chronic nephritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C3472181,CAUSES,Destructive procedure (surgical),Severe dehydration,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1261381,C5203670,CAUSES,Destructive procedure (surgical),COVID-19,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1278454,C1175175,CAUSES,Statin prophylaxis,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1280903,C0009450,CAUSES,Exploration procedure,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1280903,C0010278,CAUSES,Exploration procedure,Craniosynostosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1280903,C0028754,CAUSES,Exploration procedure,Obesity,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1280903,C1175175,CAUSES,Exploration procedure,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1282573,C0005779,CAUSES,Evacuation procedure,Blood Coagulation Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1285354,C0149521,CAUSES,Mechanical stimulation,"Pancreatitis, Chronic",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1285354,C1175175,CAUSES,Mechanical stimulation,Severe Acute Respiratory Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1292856,C0019158,CAUSES,Stimulation procedure,Hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1292856,C0031887,CAUSES,Stimulation procedure,Picornaviridae Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1293130,C0270221,CAUSES,Stabilization,Syndrome of infant of diabetic mother,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1293130,C1264606,CAUSES,Stabilization,Persistent infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1293132,C0018939,CAUSES,Anchoring procedure,Hematological Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1293132,C0042749,CAUSES,Anchoring procedure,Viremia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1293338,C0001883,CAUSES,Larynx closure,Airway Obstruction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1293365,C0001883,CAUSES,Lung destructive procedure,Airway Obstruction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1293365,C0006267,CAUSES,Lung destructive procedure,Bronchiectasis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1293365,C0238132,CAUSES,Lung destructive procedure,Bronchopleural Fistula,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1293365,C0699949,CAUSES,Lung destructive procedure,airway disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1328050,C0521585,CAUSES,High Dose Chemotherapy,Gastrointestinal mucositis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1328527,C0042769,CAUSES,Post exposure immunoprophylaxis,Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1456587,C0162429,CAUSES,Bariatric Surgery,Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1456587,C1449647,CAUSES,Bariatric Surgery,Secondary Peritonitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1456647,C0025007,CAUSES,Childhood Immunization,Measles,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1456647,C0042214,CAUSES,Childhood Immunization,Vaccinia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1456647,C0043167,CAUSES,Childhood Immunization,Pertussis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0000833,CAUSES,Detection,Abscess,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1511790,C0004626,CAUSES,Detection,"Pneumonia, Bacterial",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0009450,CAUSES,Detection,Communicable Diseases,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C1511790,C0013369,CAUSES,Detection,Dysentery,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0014335,CAUSES,Detection,Enteritis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1511790,C0014661,CAUSES,Detection,Equine Infectious Anemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0019196,CAUSES,Detection,Hepatitis C,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0019247,CAUSES,Detection,Hereditary Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0024117,CAUSES,Detection,Chronic Obstructive Airway Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0029342,CAUSES,Detection,Orthomyxoviridae Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0032285,CAUSES,Detection,Pneumonia,topp,dsyn,6,CAUSES_TOPPcausDSYN
+C1511790,C0032310,CAUSES,Detection,"Pneumonia, Viral",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0035204,CAUSES,Detection,Respiration Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0035222,CAUSES,Detection,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0035242,CAUSES,Detection,Respiratory Tract Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0035243,CAUSES,Detection,Respiratory Tract Infections,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C1511790,C0036310,CAUSES,Detection,Scheuermann's Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0036690,CAUSES,Detection,Septicemia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1511790,C0037284,CAUSES,Detection,Skin lesion,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0041228,CAUSES,Detection,African Trypanosomiasis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0042029,CAUSES,Detection,Urinary tract infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0042769,CAUSES,Detection,Virus Diseases,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1511790,C0149725,CAUSES,Detection,Lower respiratory tract infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0152517,CAUSES,Detection,Viral gastroenteritis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1511790,C0272285,CAUSES,Detection,Heparin-induced thrombocytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0276150,CAUSES,Detection,Adenoviral respiratory disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0343537,CAUSES,Detection,Specific viral infections,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1511790,C0456103,CAUSES,Detection,Sepsis of the newborn,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0558348,CAUSES,Detection,Bacterial gastroenteritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0582415,CAUSES,Detection,Acute asthma,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0694549,CAUSES,Detection,Community acquired pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0699949,CAUSES,Detection,airway disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C0743841,CAUSES,Detection,Disorder characterized by fever,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C1096155,CAUSES,Detection,Macrophage Activation Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C1175175,CAUSES,Detection,Severe Acute Respiratory Syndrome,topp,dsyn,3,CAUSES_TOPPcausDSYN
+C1511790,C1866260,CAUSES,Detection,"Peroxisome Biogenesis Disorder, Complementation Group H",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1511790,C5203670,CAUSES,Detection,COVID-19,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1512335,C0162429,CAUSES,Harvest Procedure,Malnutrition,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1512721,C0032285,CAUSES,Inferential Current Treatment,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1513784,C0030312,CAUSES,Myeloablative Chemotherapy,Pancytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1515884,C0022658,CAUSES,Acupuncture and Oriental Medicine,Kidney Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1515884,C0023895,CAUSES,Acupuncture and Oriental Medicine,Liver diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1522415,C0020615,CAUSES,Deafferentation procedure,Hypoglycemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1522415,C1611171,CAUSES,Deafferentation procedure,Thalamic infarction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1522449,C0011175,CAUSES,Therapeutic radiology procedure,Dehydration,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1522449,C0032285,CAUSES,Therapeutic radiology procedure,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1522449,C0034069,CAUSES,Therapeutic radiology procedure,Pulmonary Fibrosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1522449,C0038362,CAUSES,Therapeutic radiology procedure,Stomatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1522449,C0271892,CAUSES,Therapeutic radiology procedure,Acquired pancytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1522449,C0598196,CAUSES,Therapeutic radiology procedure,microbial disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1522449,C1290386,CAUSES,Therapeutic radiology procedure,Chronic heart disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1533734,C0011860,CAUSES,Administration procedure,"Diabetes Mellitus, Non-Insulin-Dependent",topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1535502,C0035222,CAUSES,Bronchoalveolar Lavage,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1541822,C0854706,CAUSES,Vaginal delivery procedure,neonatal infection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1704532,C0085605,CAUSES,Active Method,Liver Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1705576,C0018133,CAUSES,Allogeneic Hematopoietic Stem Cell Transplantation,Graft-vs-Host Disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1705576,C2895206,CAUSES,Allogeneic Hematopoietic Stem Cell Transplantation,Autoimmune disease (systemic) NOS,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1706406,C0343084,CAUSES,Debulking Procedure,Capillary Leak Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1708063,C0022660,CAUSES,First line treatment,"Kidney Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1708063,C0035222,CAUSES,First line treatment,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1831738,C0021400,CAUSES,Exercise Intervention,Influenza,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1868801,C0023530,CAUSES,Hyperthermic Intraperitoneal Chemotherapy,Leukopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1868981,C0035222,CAUSES,Invasive mechanical ventilation NOS,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1882454,C0023530,CAUSES,Preparative Regimen,Leukopenia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1883256,C0038362,CAUSES,Systemic Chemotherapy,Stomatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1960499,C0001883,CAUSES,Clearance of secretions of respiratory tract,Airway Obstruction,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1963578,C0277548,CAUSES,Release (procedure),Epidemic disease,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1963578,C0851341,CAUSES,Release (procedure),Infestation,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1963758,C0002874,CAUSES,Immunomodulation,Aplastic Anemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1963758,C0019045,CAUSES,Immunomodulation,Hemoglobinopathies,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1997883,C0032285,CAUSES,Noninvasive Ventilation,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1997883,C0035222,CAUSES,Noninvasive Ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C1997883,C0264490,CAUSES,Noninvasive Ventilation,Acute respiratory failure,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C1997883,C4039867,CAUSES,Noninvasive Ventilation,Acute hypoxemic respiratory failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2037866,C0456909,CAUSES,surgical drainage (treatment) (general),Blindness,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2064693,C0035204,CAUSES,Humid air,Respiration Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2064714,C1701940,CAUSES,Chest Physical Therapy,"Pneumonia, Ventilator-Associated",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2242628,C0040034,CAUSES,Fecal Microbiota Transplantation,Thrombocytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2242628,C0238106,CAUSES,Fecal Microbiota Transplantation,Clostridium difficile colitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2315132,C1145670,CAUSES,Continuous lateral rotational therapy,Respiratory Failure,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2347900,C0019158,CAUSES,Rechallenge,Hepatitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2347900,C0034069,CAUSES,Rechallenge,Pulmonary Fibrosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2347900,C0242723,CAUSES,Rechallenge,Parasitemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2368628,C3534575,CAUSES,Vaccine Administration,Animal Health,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C2718059,C0022660,CAUSES,Precision Medicine,"Kidney Failure, Acute",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2733531,C0005779,CAUSES,Low molecular weight heparin therapy,Blood Coagulation Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2922974,C0009450,CAUSES,Polypharmacy,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2936405,C0270724,CAUSES,Drug Repositioning,Infantile Neuroaxonal Dystrophy,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2985391,C0006271,CAUSES,Gold Therapy,Bronchiolitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C2985566,C0021400,CAUSES,Targeted Therapy,Influenza,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2985566,C0521858,CAUSES,Targeted Therapy,Decreased drug resistance,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C2987620,C0009443,CAUSES,Inoculation,Common Cold,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3177188,C0035436,CAUSES,Early Therapy,Rheumatic Fever,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3177188,C0156221,CAUSES,Early Therapy,Acute glomerulonephritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3179010,C0023530,CAUSES,Induction Chemotherapy,Leukopenia,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C3274791,C0040034,CAUSES,Mechanical Circulatory Support,Thrombocytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3540512,C0009450,CAUSES,Circumferential Supracrestal Fiberotomy,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3540512,C0011303,CAUSES,Circumferential Supracrestal Fiberotomy,Demyelinating Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3540512,C0014038,CAUSES,Circumferential Supracrestal Fiberotomy,Encephalitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C3540512,C0019104,CAUSES,Circumferential Supracrestal Fiberotomy,"Hemorrhagic Fevers, Viral",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3540512,C0019348,CAUSES,Circumferential Supracrestal Fiberotomy,Herpes Simplex Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3540512,C0020255,CAUSES,Circumferential Supracrestal Fiberotomy,Hydrocephalus,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C3540512,C0025289,CAUSES,Circumferential Supracrestal Fiberotomy,Meningitis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C3540512,C0040558,CAUSES,Circumferential Supracrestal Fiberotomy,Toxoplasmosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3540512,C0042769,CAUSES,Circumferential Supracrestal Fiberotomy,Virus Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3540512,C0085306,CAUSES,Circumferential Supracrestal Fiberotomy,Feline infectious peritonitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3540512,C0085584,CAUSES,Circumferential Supracrestal Fiberotomy,Encephalopathies,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3540512,C0206750,CAUSES,Circumferential Supracrestal Fiberotomy,Coronavirus Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3540512,C0270680,CAUSES,Circumferential Supracrestal Fiberotomy,Posterior fossa compression syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3649547,C0040034,CAUSES,Continuous Renal Replacement Therapy,Thrombocytopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3661918,C0029877,CAUSES,Pneumococcal conjugate vaccination,Ear Inflammation,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3661918,C0032269,CAUSES,Pneumococcal conjugate vaccination,Pneumococcal Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3661918,C0032285,CAUSES,Pneumococcal conjugate vaccination,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3810531,C0035579,CAUSES,Bortezomib/Dexamethasone/Pegylated Liposomal Doxorubicin Regimen,Rickets,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C3825792,C0001127,CAUSES,Pressure breathing,"Acidosis, Respiratory",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3843422,C0036916,CAUSES,Abstinence,Sexually Transmitted Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3846444,C0024312,CAUSES,Beam Radiation,Lymphopenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3849996,C0003850,CAUSES,"Diet, Western",Arteriosclerosis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C3849996,C0025517,CAUSES,"Diet, Western",Metabolic Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3850024,C1519680,CAUSES,Transcranial Direct Current Stimulation,Tumor Immunity,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C3897730,C0035436,CAUSES,Reduced-Intensity Transplant Conditioning Procedure,Rheumatic Fever,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4042855,C0151317,CAUSES,RNAi Therapeutics,Chronic infectious disease,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4076002,C0085692,CAUSES,Cyclophosphamide therapy,Hemorrhagic cystitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4289797,C0003873,CAUSES,Chimeric Antigen Receptor T-Cell Therapy,Rheumatoid Arthritis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C4289797,C0009326,CAUSES,Chimeric Antigen Receptor T-Cell Therapy,Collagen Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4289797,C0010278,CAUSES,Chimeric Antigen Receptor T-Cell Therapy,Craniosynostosis,topp,dsyn,13,CAUSES_TOPPcausDSYN
+C4289797,C0039483,CAUSES,Chimeric Antigen Receptor T-Cell Therapy,Giant Cell Arteritis,topp,dsyn,2,CAUSES_TOPPcausDSYN
+C4289797,C0086438,CAUSES,Chimeric Antigen Receptor T-Cell Therapy,Hypogammaglobulinemia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4289797,C0265338,CAUSES,Chimeric Antigen Receptor T-Cell Therapy,Coffin-Siris syndrome,topp,dsyn,4,CAUSES_TOPPcausDSYN
+C4289797,C0948245,CAUSES,Chimeric Antigen Receptor T-Cell Therapy,Cytokine Release Syndrome,topp,dsyn,12,CAUSES_TOPPcausDSYN
+C4289797,C1096155,CAUSES,Chimeric Antigen Receptor T-Cell Therapy,Macrophage Activation Syndrome,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4289797,C1384600,CAUSES,Chimeric Antigen Receptor T-Cell Therapy,Systemic onset juvenile chronic arthritis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4289797,C4054044,CAUSES,Chimeric Antigen Receptor T-Cell Therapy,Secondary Hemophagocytic Lymphohistiocytosis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4289797,C4552224,CAUSES,Chimeric Antigen Receptor T-Cell Therapy,B-Cell Aplasia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4319756,C0021051,CAUSES,Myeloablative Conditioning,Immunologic Deficiency Syndromes,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4330729,C0746883,CAUSES,Myelosuppressive Chemotherapy,Febrile Neutropenia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4526534,C0021334,CAUSES,Bendamustine/Bortezomib/Dexamethasone Regimen,Infectious Bovine Rhinotracheitis,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4526534,C0035204,CAUSES,Bendamustine/Bortezomib/Dexamethasone Regimen,Respiration Disorders,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4526534,C0151785,CAUSES,Bendamustine/Bortezomib/Dexamethasone Regimen,Disease of mucous membrane,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4526535,C0275524,CAUSES,Bendamustine/Lenalidomide/Dexamethasone Regimen,Coinfection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4526535,C0521530,CAUSES,Bendamustine/Lenalidomide/Dexamethasone Regimen,Lung consolidation,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4526535,C2074898,CAUSES,Bendamustine/Lenalidomide/Dexamethasone Regimen,chronic Lung Inflammations,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4697827,C0520680,CAUSES,Assist-control ventilation,"Sleep Apnea, Central",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4722216,C0009450,CAUSES,Incisional Vacuum-Assisted Closure Therapy,Communicable Diseases,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4723833,C0032285,CAUSES,vertebral augmentation procedure,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4723833,C0275524,CAUSES,vertebral augmentation procedure,Coinfection,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4733192,C0456909,CAUSES,VEGF targeted therapy,Blindness,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4763675,C0004610,CAUSES,Single Agent Therapy,Bacteremia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4763675,C0032285,CAUSES,Single Agent Therapy,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C4763681,C0029118,CAUSES,Potent Antiretroviral Therapy,Opportunistic Infections,topp,dsyn,1,CAUSES_TOPPcausDSYN
+C5192099,C0035222,CAUSES,Venovenous extracorporeal membrane oxygenation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,CAUSES_TOPPcausDSYN
+C5202843,C0032285,CAUSES,Right and Left Lung Irradiation,Pneumonia,topp,dsyn,1,CAUSES_TOPPcausDSYN

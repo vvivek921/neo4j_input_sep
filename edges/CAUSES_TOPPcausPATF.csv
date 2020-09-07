@@ -1,0 +1,702 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0021368,CAUSES,"Administration, Intranasal",Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0001560,C0332448,CAUSES,"Administration, Intranasal",Infiltration,topp,patf,1,CAUSES_TOPPcausPATF
+C0001560,C1516670,CAUSES,"Administration, Intranasal",Clonal Expansion,topp,patf,1,CAUSES_TOPPcausPATF
+C0001563,C0020963,CAUSES,"Administration, Oral",Immune Tolerance,topp,patf,1,CAUSES_TOPPcausPATF
+C0001563,C3658208,CAUSES,"Administration, Oral",Dysbiosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0002688,C0020564,CAUSES,Amputation,Hypertrophy,topp,patf,2,CAUSES_TOPPcausPATF
+C0002903,C0004144,CAUSES,Anesthesia procedures,Atelectasis,topp,patf,1,CAUSES_TOPPcausPATF
+C0002903,C0019080,CAUSES,Anesthesia procedures,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0002903,C0032787,CAUSES,Anesthesia procedures,Postoperative Complications,topp,patf,1,CAUSES_TOPPcausPATF
+C0002903,C0235063,CAUSES,Anesthesia procedures,Respiratory Depression,topp,patf,1,CAUSES_TOPPcausPATF
+C0002915,C0004144,CAUSES,General Anesthesia,Atelectasis,topp,patf,1,CAUSES_TOPPcausPATF
+C0002915,C0281169,CAUSES,General Anesthesia,Pulmonary Complication,topp,patf,1,CAUSES_TOPPcausPATF
+C0004704,C0013604,CAUSES,Balloon Dilatation,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0004910,C0026846,CAUSES,Bed rest,Muscular Atrophy,topp,patf,2,CAUSES_TOPPcausPATF
+C0004933,C0919924,CAUSES,Behavior Therapy,pulmonary toxicity,topp,patf,1,CAUSES_TOPPcausPATF
+C0005841,C0020963,CAUSES,Blood Transfusion,Immune Tolerance,topp,patf,1,CAUSES_TOPPcausPATF
+C0005841,C0022116,CAUSES,Blood Transfusion,Ischemia,topp,patf,1,CAUSES_TOPPcausPATF
+C0005841,C0392618,CAUSES,Blood Transfusion,Postoperative infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0005841,C3714514,CAUSES,Blood Transfusion,Infection,topp,patf,2,CAUSES_TOPPcausPATF
+C0005961,C1373218,CAUSES,Bone Marrow Transplantation,Decreased Immunologic Activity [PE],topp,patf,2,CAUSES_TOPPcausPATF
+C0007202,C0281169,CAUSES,Cardiopulmonary Bypass,Pulmonary Complication,topp,patf,1,CAUSES_TOPPcausPATF
+C0007202,C1155266,CAUSES,Cardiopulmonary Bypass,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0007203,C1533618,CAUSES,Cardiopulmonary Resuscitation,Fat embolism as early complication of trauma (disorder),topp,patf,1,CAUSES_TOPPcausPATF
+C0007344,C0020507,CAUSES,Castration,Hyperplasia,topp,patf,1,CAUSES_TOPPcausPATF
+C0007344,C0020564,CAUSES,Castration,Hypertrophy,topp,patf,2,CAUSES_TOPPcausPATF
+C0007430,C0020542,CAUSES,Catheterization,Pulmonary Hypertension,topp,patf,1,CAUSES_TOPPcausPATF
+C0007876,C0242648,CAUSES,Cesarean section,Vertical Disease Transmission,topp,patf,2,CAUSES_TOPPcausPATF
+C0007876,C0852962,CAUSES,Cesarean section,Complication of delivery,topp,patf,1,CAUSES_TOPPcausPATF
+C0008320,C0005417,CAUSES,Cholecystectomy procedure,Biliary Fistula,topp,patf,1,CAUSES_TOPPcausPATF
+C0009068,C1155266,CAUSES,Closure by suture,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0009429,C2717792,CAUSES,Combined Modality Therapy,Airway Remodeling,topp,patf,1,CAUSES_TOPPcausPATF
+C0009813,C0013604,CAUSES,Constriction procedure,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0009813,C0013609,CAUSES,Constriction procedure,Localized Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0009813,C0020564,CAUSES,Constriction procedure,Hypertrophy,topp,patf,2,CAUSES_TOPPcausPATF
+C0009813,C0040053,CAUSES,Constriction procedure,Thrombosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0009813,C0232342,CAUSES,Constriction procedure,Decreased vascular flow,topp,patf,1,CAUSES_TOPPcausPATF
+C0009813,C0242184,CAUSES,Constriction procedure,Hypoxia,topp,patf,1,CAUSES_TOPPcausPATF
+C0010055,C0013922,CAUSES,Coronary Artery Bypass Surgery,Embolism,topp,patf,1,CAUSES_TOPPcausPATF
+C0011121,C0235029,CAUSES,Decontamination,neurological complication,topp,patf,1,CAUSES_TOPPcausPATF
+C0011307,C0026846,CAUSES,Denervation,Muscular Atrophy,topp,patf,5,CAUSES_TOPPcausPATF
+C0011307,C0333641,CAUSES,Denervation,Atrophic,topp,patf,2,CAUSES_TOPPcausPATF
+C0011307,C0541794,CAUSES,Denervation,Skeletal muscle atrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C0011307,C1373218,CAUSES,Denervation,Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0011331,C0019080,CAUSES,Dental Procedures,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0011946,C0021368,CAUSES,Dialysis procedure,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0011946,C0242656,CAUSES,Dialysis procedure,Disease Progression,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0016059,CAUSES,Pharmacotherapy,Fibrosis,topp,patf,3,CAUSES_TOPPcausPATF
+C0013216,C0019080,CAUSES,Pharmacotherapy,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0020517,CAUSES,Pharmacotherapy,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0021368,CAUSES,Pharmacotherapy,Inflammation,topp,patf,2,CAUSES_TOPPcausPATF
+C0013216,C0022116,CAUSES,Pharmacotherapy,Ischemia,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0025345,CAUSES,Pharmacotherapy,Menstruation Disturbances,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0036983,CAUSES,Pharmacotherapy,Septic Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0242698,CAUSES,Pharmacotherapy,"Ventricular Dysfunction, Left",topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0281169,CAUSES,Pharmacotherapy,Pulmonary Complication,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0332448,CAUSES,Pharmacotherapy,Infiltration,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0333355,CAUSES,Pharmacotherapy,Inflammatory disease of mucous membrane,topp,patf,18,CAUSES_TOPPcausPATF
+C0013216,C0333606,CAUSES,Pharmacotherapy,Dystrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0392190,CAUSES,Pharmacotherapy,Mucositis following radiation therapy,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0546817,CAUSES,Pharmacotherapy,Fluid overload,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0702120,CAUSES,Pharmacotherapy,Spongiosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C0919924,CAUSES,Pharmacotherapy,pulmonary toxicity,topp,patf,13,CAUSES_TOPPcausPATF
+C0013216,C1320835,CAUSES,Pharmacotherapy,Drug-induced hyperpyrexia,topp,patf,1,CAUSES_TOPPcausPATF
+C0013216,C1373218,CAUSES,Pharmacotherapy,Decreased Immunologic Activity [PE],topp,patf,16,CAUSES_TOPPcausPATF
+C0013786,C0015376,CAUSES,Electric stimulation technique,Extravasation,topp,patf,1,CAUSES_TOPPcausPATF
+C0013806,C0006663,CAUSES,Electroconvulsive Therapy,Calcinosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0013806,C0013604,CAUSES,Electroconvulsive Therapy,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0013806,C0015376,CAUSES,Electroconvulsive Therapy,Extravasation,topp,patf,2,CAUSES_TOPPcausPATF
+C0013806,C0017181,CAUSES,Electroconvulsive Therapy,Gastrointestinal Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0013806,C0021368,CAUSES,Electroconvulsive Therapy,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0013806,C0026766,CAUSES,Electroconvulsive Therapy,Multiple Organ Failure,topp,patf,2,CAUSES_TOPPcausPATF
+C0013806,C0036974,CAUSES,Electroconvulsive Therapy,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0013806,C2937358,CAUSES,Electroconvulsive Therapy,Cerebral Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0013931,C0011071,CAUSES,"Embolization, Therapeutic",Sudden death,topp,patf,1,CAUSES_TOPPcausPATF
+C0013931,C0016059,CAUSES,"Embolization, Therapeutic",Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0013931,C0018944,CAUSES,"Embolization, Therapeutic",Hematoma,topp,patf,1,CAUSES_TOPPcausPATF
+C0013931,C0020542,CAUSES,"Embolization, Therapeutic",Pulmonary Hypertension,topp,patf,2,CAUSES_TOPPcausPATF
+C0013931,C0022116,CAUSES,"Embolization, Therapeutic",Ischemia,topp,patf,1,CAUSES_TOPPcausPATF
+C0013931,C0028778,CAUSES,"Embolization, Therapeutic",Obstruction,topp,patf,2,CAUSES_TOPPcausPATF
+C0013931,C0040053,CAUSES,"Embolization, Therapeutic",Thrombosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0013931,C0242184,CAUSES,"Embolization, Therapeutic",Hypoxia,topp,patf,1,CAUSES_TOPPcausPATF
+C0013969,C0020683,CAUSES,Emergency treatment,Hypovolemic Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0014392,C0019080,CAUSES,Enucleation procedure,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0015236,C0274435,CAUSES,"Exchange Transfusion, Whole Blood",Transfusion Reaction,topp,patf,1,CAUSES_TOPPcausPATF
+C0015252,C0008767,CAUSES,removal technique,Cicatrization,topp,patf,1,CAUSES_TOPPcausPATF
+C0015252,C0019080,CAUSES,removal technique,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0015252,C0020564,CAUSES,removal technique,Hypertrophy,topp,patf,2,CAUSES_TOPPcausPATF
+C0015252,C0021368,CAUSES,removal technique,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0015252,C0022116,CAUSES,removal technique,Ischemia,topp,patf,2,CAUSES_TOPPcausPATF
+C0015252,C0595938,CAUSES,removal technique,effect increased,topp,patf,1,CAUSES_TOPPcausPATF
+C0015354,C0232342,CAUSES,Extracorporeal Circulation,Decreased vascular flow,topp,patf,1,CAUSES_TOPPcausPATF
+C0015357,C0001122,CAUSES,Extracorporeal Membrane Oxygenation,Acidosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0015357,C0026766,CAUSES,Extracorporeal Membrane Oxygenation,Multiple Organ Failure,topp,patf,1,CAUSES_TOPPcausPATF
+C0015357,C0032962,CAUSES,Extracorporeal Membrane Oxygenation,Pregnancy Complications,topp,patf,1,CAUSES_TOPPcausPATF
+C0015357,C0206277,CAUSES,Extracorporeal Membrane Oxygenation,Fatal Outcome,topp,patf,1,CAUSES_TOPPcausPATF
+C0015357,C0242184,CAUSES,Extracorporeal Membrane Oxygenation,Hypoxia,topp,patf,2,CAUSES_TOPPcausPATF
+C0015357,C0679429,CAUSES,Extracorporeal Membrane Oxygenation,platelet dysfunction,topp,patf,1,CAUSES_TOPPcausPATF
+C0016286,C0006114,CAUSES,Fluid Therapy,Cerebral Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0016286,C0442856,CAUSES,Fluid Therapy,Hypoperfusion,topp,patf,1,CAUSES_TOPPcausPATF
+C0017296,C0021368,CAUSES,gene therapy,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0017296,C0544688,CAUSES,gene therapy,complication of disease,topp,patf,1,CAUSES_TOPPcausPATF
+C0017296,C1155266,CAUSES,gene therapy,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0017296,C1373218,CAUSES,gene therapy,Decreased Immunologic Activity [PE],topp,patf,2,CAUSES_TOPPcausPATF
+C0017296,C1520005,CAUSES,gene therapy,Viral Pathogenesis,topp,patf,1,CAUSES_TOPPcausPATF
+C0017296,C3714514,CAUSES,gene therapy,Infection,topp,patf,2,CAUSES_TOPPcausPATF
+C0018807,C0036974,CAUSES,Heart Massage,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0018821,C1155266,CAUSES,Cardiac Surgery procedures,Inflammatory Response,topp,patf,2,CAUSES_TOPPcausPATF
+C0019004,C0006114,CAUSES,Hemodialysis,Cerebral Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0019004,C0021376,CAUSES,Hemodialysis,Chronic inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0019004,C0442856,CAUSES,Hemodialysis,Hypoperfusion,topp,patf,1,CAUSES_TOPPcausPATF
+C0019009,C0019080,CAUSES,therapeutic hemodilution,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0020944,C0087086,CAUSES,Immobilization,Thrombus,topp,patf,1,CAUSES_TOPPcausPATF
+C0020944,C0333138,CAUSES,Immobilization,Stasis,topp,patf,2,CAUSES_TOPPcausPATF
+C0020944,C0333641,CAUSES,Immobilization,Atrophic,topp,patf,1,CAUSES_TOPPcausPATF
+C0020944,C1997614,CAUSES,Immobilization,Thromboembolism of vein,topp,patf,1,CAUSES_TOPPcausPATF
+C0020971,C0011304,CAUSES,Immunization,Demyelination,topp,patf,2,CAUSES_TOPPcausPATF
+C0020971,C0019080,CAUSES,Immunization,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0020971,C0020507,CAUSES,Immunization,Hyperplasia,topp,patf,1,CAUSES_TOPPcausPATF
+C0020971,C0020517,CAUSES,Immunization,Hypersensitivity,topp,patf,2,CAUSES_TOPPcausPATF
+C0020971,C0020522,CAUSES,Immunization,Delayed Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0020971,C0021368,CAUSES,Immunization,Inflammation,topp,patf,5,CAUSES_TOPPcausPATF
+C0020971,C0024348,CAUSES,Immunization,Lysis,topp,patf,1,CAUSES_TOPPcausPATF
+C0020971,C0242781,CAUSES,Immunization,disease transmission,topp,patf,1,CAUSES_TOPPcausPATF
+C0020971,C0333504,CAUSES,Immunization,Focal necrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0020971,C0752351,CAUSES,Immunization,Embryo Loss,topp,patf,1,CAUSES_TOPPcausPATF
+C0020971,C1155266,CAUSES,Immunization,Inflammatory Response,topp,patf,3,CAUSES_TOPPcausPATF
+C0020971,C1527304,CAUSES,Immunization,Allergic Reaction,topp,patf,1,CAUSES_TOPPcausPATF
+C0020971,C1817976,CAUSES,Immunization,hypersensitivity response,topp,patf,1,CAUSES_TOPPcausPATF
+C0020971,C3714514,CAUSES,Immunization,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0020974,C3686534,CAUSES,passive immunization procedure,Perivascular cuffing,topp,patf,1,CAUSES_TOPPcausPATF
+C0020975,C0020517,CAUSES,Secondary Immunization,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0020975,C1155266,CAUSES,Secondary Immunization,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0021079,C0161815,CAUSES,Therapeutic immunosuppression,Central nervous system complication,topp,patf,1,CAUSES_TOPPcausPATF
+C0021079,C1373218,CAUSES,Therapeutic immunosuppression,Decreased Immunologic Activity [PE],topp,patf,2,CAUSES_TOPPcausPATF
+C0021079,C3714514,CAUSES,Therapeutic immunosuppression,Infection,topp,patf,2,CAUSES_TOPPcausPATF
+C0021107,C0007642,CAUSES,Implantation procedure,Cellulitis,topp,patf,1,CAUSES_TOPPcausPATF
+C0021107,C0018188,CAUSES,Implantation procedure,Granuloma,topp,patf,1,CAUSES_TOPPcausPATF
+C0021107,C0019123,CAUSES,Implantation procedure,Hemothorax,topp,patf,1,CAUSES_TOPPcausPATF
+C0021107,C0020507,CAUSES,Implantation procedure,Hyperplasia,topp,patf,2,CAUSES_TOPPcausPATF
+C0021107,C0020517,CAUSES,Implantation procedure,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0021107,C0024348,CAUSES,Implantation procedure,Lysis,topp,patf,1,CAUSES_TOPPcausPATF
+C0021107,C0029396,CAUSES,Implantation procedure,Heterotopic Ossification,topp,patf,1,CAUSES_TOPPcausPATF
+C0021107,C0035304,CAUSES,Implantation procedure,Retinal Degeneration,topp,patf,1,CAUSES_TOPPcausPATF
+C0021107,C0087086,CAUSES,Implantation procedure,Thrombus,topp,patf,1,CAUSES_TOPPcausPATF
+C0021107,C0332448,CAUSES,Implantation procedure,Infiltration,topp,patf,2,CAUSES_TOPPcausPATF
+C0021107,C0333957,CAUSES,Implantation procedure,Growth acceleration,topp,patf,1,CAUSES_TOPPcausPATF
+C0021107,C0595938,CAUSES,Implantation procedure,effect increased,topp,patf,1,CAUSES_TOPPcausPATF
+C0021107,C1155266,CAUSES,Implantation procedure,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0021107,C1817997,CAUSES,Implantation procedure,chronic inflammatory response,topp,patf,1,CAUSES_TOPPcausPATF
+C0021107,C2936381,CAUSES,Implantation procedure,Neointima Formation,topp,patf,10,CAUSES_TOPPcausPATF
+C0021485,C0020517,CAUSES,Injection of therapeutic agent,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0021485,C0035304,CAUSES,Injection of therapeutic agent,Retinal Degeneration,topp,patf,1,CAUSES_TOPPcausPATF
+C0021485,C0041755,CAUSES,Injection of therapeutic agent,Adverse reaction to drug,topp,patf,3,CAUSES_TOPPcausPATF
+C0021485,C1155266,CAUSES,Injection of therapeutic agent,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0021485,C4684772,CAUSES,Injection of therapeutic agent,Serious Adverse Drug Reaction,topp,patf,1,CAUSES_TOPPcausPATF
+C0021489,C0041582,CAUSES,intradermal injection,Ulcer,topp,patf,1,CAUSES_TOPPcausPATF
+C0021493,C0021368,CAUSES,"Injections, Intraperitoneal",Inflammation,topp,patf,2,CAUSES_TOPPcausPATF
+C0021589,C0016059,CAUSES,"Insemination, Artificial, Homologous",Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0021778,C0021368,CAUSES,Intermittent Positive-Pressure Ventilation,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0021778,C0040038,CAUSES,Intermittent Positive-Pressure Ventilation,Thromboembolism,topp,patf,1,CAUSES_TOPPcausPATF
+C0021778,C0475714,CAUSES,Intermittent Positive-Pressure Ventilation,Tracheobronchial hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0021925,C0004144,CAUSES,Intubation,Atelectasis,topp,patf,1,CAUSES_TOPPcausPATF
+C0021925,C0008301,CAUSES,Intubation,Choking,topp,patf,1,CAUSES_TOPPcausPATF
+C0021925,C0036974,CAUSES,Intubation,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0021925,C0281169,CAUSES,Intubation,Pulmonary Complication,topp,patf,2,CAUSES_TOPPcausPATF
+C0021925,C0333641,CAUSES,Intubation,Atrophic,topp,patf,1,CAUSES_TOPPcausPATF
+C0021925,C3714514,CAUSES,Intubation,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0021932,C0004144,CAUSES,"Intubation, Intratracheal",Atelectasis,topp,patf,1,CAUSES_TOPPcausPATF
+C0021932,C0013604,CAUSES,"Intubation, Intratracheal",Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0021932,C0028778,CAUSES,"Intubation, Intratracheal",Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0021932,C0038536,CAUSES,"Intubation, Intratracheal",Subcutaneous Emphysema,topp,patf,1,CAUSES_TOPPcausPATF
+C0021932,C0333355,CAUSES,"Intubation, Intratracheal",Inflammatory disease of mucous membrane,topp,patf,1,CAUSES_TOPPcausPATF
+C0022100,C0020517,CAUSES,Irrigation,Hypersensitivity,topp,patf,2,CAUSES_TOPPcausPATF
+C0022100,C0162633,CAUSES,Irrigation,Viral Shedding,topp,patf,1,CAUSES_TOPPcausPATF
+C0022671,C1373218,CAUSES,Kidney Transplantation,Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0023065,C0008301,CAUSES,Laryngectomy,Choking,topp,patf,1,CAUSES_TOPPcausPATF
+C0023690,C0001511,CAUSES,Ligation,Tissue Adhesions,topp,patf,2,CAUSES_TOPPcausPATF
+C0023690,C0019080,CAUSES,Ligation,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0023690,C0020507,CAUSES,Ligation,Hyperplasia,topp,patf,1,CAUSES_TOPPcausPATF
+C0023690,C0021308,CAUSES,Ligation,Infarction,topp,patf,1,CAUSES_TOPPcausPATF
+C0023690,C0021368,CAUSES,Ligation,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0023690,C0022116,CAUSES,Ligation,Ischemia,topp,patf,2,CAUSES_TOPPcausPATF
+C0023690,C0028778,CAUSES,Ligation,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0023690,C0031154,CAUSES,Ligation,Peritonitis,topp,patf,2,CAUSES_TOPPcausPATF
+C0023690,C0333641,CAUSES,Ligation,Atrophic,topp,patf,1,CAUSES_TOPPcausPATF
+C0023690,C2936381,CAUSES,Ligation,Neointima Formation,topp,patf,1,CAUSES_TOPPcausPATF
+C0024128,C0016059,CAUSES,Lung Transplantation,Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0024128,C0021368,CAUSES,Lung Transplantation,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0024128,C0231176,CAUSES,Lung Transplantation,Acute failure,topp,patf,2,CAUSES_TOPPcausPATF
+C0024128,C0281169,CAUSES,Lung Transplantation,Pulmonary Complication,topp,patf,1,CAUSES_TOPPcausPATF
+C0024128,C1167870,CAUSES,Lung Transplantation,Graft dysfunction,topp,patf,1,CAUSES_TOPPcausPATF
+C0024257,C0034063,CAUSES,Lymphocyte Depletion,Pulmonary Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0025991,C0011304,CAUSES,Microinjections,Demyelination,topp,patf,1,CAUSES_TOPPcausPATF
+C0029216,C0022116,CAUSES,Organ Transplantation,Ischemia,topp,patf,1,CAUSES_TOPPcausPATF
+C0029216,C0281169,CAUSES,Organ Transplantation,Pulmonary Complication,topp,patf,1,CAUSES_TOPPcausPATF
+C0029216,C1373218,CAUSES,Organ Transplantation,Decreased Immunologic Activity [PE],topp,patf,5,CAUSES_TOPPcausPATF
+C0030231,C0013687,CAUSES,Palliative Care,effusion,topp,patf,1,CAUSES_TOPPcausPATF
+C0030547,C0028778,CAUSES,Parenteral Nutrition,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0030547,C0031542,CAUSES,Parenteral Nutrition,Phlebitis,topp,patf,1,CAUSES_TOPPcausPATF
+C0030547,C0040053,CAUSES,Parenteral Nutrition,Thrombosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0031139,C0031154,CAUSES,Peritoneal Dialysis,Peritonitis,topp,patf,1,CAUSES_TOPPcausPATF
+C0031740,C0019080,CAUSES,Photochemotherapy,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0032284,C0020542,CAUSES,Pneumonectomy,Pulmonary Hypertension,topp,patf,1,CAUSES_TOPPcausPATF
+C0032740,C0004144,CAUSES,Positive End-Expiratory Pressure,Atelectasis,topp,patf,2,CAUSES_TOPPcausPATF
+C0032740,C0012359,CAUSES,Positive End-Expiratory Pressure,Pathological Dilatation,topp,patf,2,CAUSES_TOPPcausPATF
+C0032740,C0036974,CAUSES,Positive End-Expiratory Pressure,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0032740,C0333641,CAUSES,Positive End-Expiratory Pressure,Atrophic,topp,patf,1,CAUSES_TOPPcausPATF
+C0034115,C0036974,CAUSES,Paracentesis,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0034386,C0543419,CAUSES,Quarantine,Sequela of disorder,topp,patf,1,CAUSES_TOPPcausPATF
+C0034386,C0919661,CAUSES,Quarantine,alternation,topp,patf,1,CAUSES_TOPPcausPATF
+C0034386,C3714514,CAUSES,Quarantine,Infection,topp,patf,4,CAUSES_TOPPcausPATF
+C0034997,C0034065,CAUSES,Rehydration,Pulmonary Embolism,topp,patf,1,CAUSES_TOPPcausPATF
+C0035139,C0008767,CAUSES,Surgical Replantation,Cicatrization,topp,patf,4,CAUSES_TOPPcausPATF
+C0035139,C0016059,CAUSES,Surgical Replantation,Fibrosis,topp,patf,4,CAUSES_TOPPcausPATF
+C0035139,C0268000,CAUSES,Surgical Replantation,Body fluid retention,topp,patf,1,CAUSES_TOPPcausPATF
+C0035139,C0546817,CAUSES,Surgical Replantation,Fluid overload,topp,patf,1,CAUSES_TOPPcausPATF
+C0035139,C2004491,CAUSES,Surgical Replantation,Cicatrix,topp,patf,1,CAUSES_TOPPcausPATF
+C0035273,C0019080,CAUSES,Resuscitation procedure,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0035273,C0021368,CAUSES,Resuscitation procedure,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0035273,C0034063,CAUSES,Resuscitation procedure,Pulmonary Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0035273,C0442856,CAUSES,Resuscitation procedure,Hypoperfusion,topp,patf,1,CAUSES_TOPPcausPATF
+C0037995,C0028778,CAUSES,Splenectomy,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0037995,C0301889,CAUSES,Splenectomy,Immune defect,topp,patf,1,CAUSES_TOPPcausPATF
+C0038638,C0015376,CAUSES,Suction drainage,Extravasation,topp,patf,1,CAUSES_TOPPcausPATF
+C0038904,C0021368,CAUSES,Minor Surgical Procedures,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0038968,C0013604,CAUSES,Suture Techniques,Edema,topp,patf,2,CAUSES_TOPPcausPATF
+C0039991,C0004144,CAUSES,Thoracotomy,Atelectasis,topp,patf,1,CAUSES_TOPPcausPATF
+C0039991,C0038536,CAUSES,Thoracotomy,Subcutaneous Emphysema,topp,patf,1,CAUSES_TOPPcausPATF
+C0039991,C0333279,CAUSES,Thoracotomy,Massive hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0040044,C0242184,CAUSES,Thrombolytic Therapy,Hypoxia,topp,patf,1,CAUSES_TOPPcausPATF
+C0040044,C1155266,CAUSES,Thrombolytic Therapy,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0040590,C0008301,CAUSES,Tracheostomy procedure,Choking,topp,patf,1,CAUSES_TOPPcausPATF
+C0040590,C0333257,CAUSES,Tracheostomy procedure,Air leakage,topp,patf,1,CAUSES_TOPPcausPATF
+C0040590,C1261287,CAUSES,Tracheostomy procedure,Stenosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0040597,C0000832,CAUSES,Traction,Abruptio Placentae,topp,patf,1,CAUSES_TOPPcausPATF
+C0040597,C0013604,CAUSES,Traction,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0040597,C0013990,CAUSES,Traction,Pathological accumulation of air in tissues,topp,patf,1,CAUSES_TOPPcausPATF
+C0040597,C0016059,CAUSES,Traction,Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0040732,C0006110,CAUSES,Transplantation,Brain Death,topp,patf,1,CAUSES_TOPPcausPATF
+C0040732,C0013604,CAUSES,Transplantation,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0040732,C0020963,CAUSES,Transplantation,Immune Tolerance,topp,patf,2,CAUSES_TOPPcausPATF
+C0040732,C0040053,CAUSES,Transplantation,Thrombosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0040732,C0231176,CAUSES,Transplantation,Acute failure,topp,patf,1,CAUSES_TOPPcausPATF
+C0040732,C0333563,CAUSES,Transplantation,Hyaline membrane,topp,patf,1,CAUSES_TOPPcausPATF
+C0040732,C0877042,CAUSES,Transplantation,graft loss,topp,patf,1,CAUSES_TOPPcausPATF
+C0040732,C0919924,CAUSES,Transplantation,pulmonary toxicity,topp,patf,1,CAUSES_TOPPcausPATF
+C0040732,C1262018,CAUSES,Transplantation,Graft failure,topp,patf,1,CAUSES_TOPPcausPATF
+C0040732,C1373218,CAUSES,Transplantation,Decreased Immunologic Activity [PE],topp,patf,2,CAUSES_TOPPcausPATF
+C0040732,C3714514,CAUSES,Transplantation,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0040739,C1167870,CAUSES,"Transplantation, Homologous",Graft dysfunction,topp,patf,1,CAUSES_TOPPcausPATF
+C0040808,C0274435,CAUSES,Treatment Protocols,Transfusion Reaction,topp,patf,1,CAUSES_TOPPcausPATF
+C0040808,C0333355,CAUSES,Treatment Protocols,Inflammatory disease of mucous membrane,topp,patf,1,CAUSES_TOPPcausPATF
+C0040808,C1373218,CAUSES,Treatment Protocols,Decreased Immunologic Activity [PE],topp,patf,2,CAUSES_TOPPcausPATF
+C0040861,C0020517,CAUSES,Triage,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0041626,C1373218,CAUSES,Ultraviolet Therapy,Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0042019,C3714514,CAUSES,Urinary Catheterization,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0004366,CAUSES,Vaccination,Autoimmune Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0007642,CAUSES,Vaccination,Cellulitis,topp,patf,3,CAUSES_TOPPcausPATF
+C0042196,C0011304,CAUSES,Vaccination,Demyelination,topp,patf,10,CAUSES_TOPPcausPATF
+C0042196,C0013604,CAUSES,Vaccination,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0013609,CAUSES,Vaccination,Localized Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0015376,CAUSES,Vaccination,Extravasation,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0018273,CAUSES,Vaccination,Growth Disorders,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0020517,CAUSES,Vaccination,Hypersensitivity,topp,patf,7,CAUSES_TOPPcausPATF
+C0042196,C0020522,CAUSES,Vaccination,Delayed Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0020523,CAUSES,Vaccination,Immediate hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0020963,CAUSES,Vaccination,Immune Tolerance,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0021368,CAUSES,Vaccination,Inflammation,topp,patf,7,CAUSES_TOPPcausPATF
+C0042196,C0021376,CAUSES,Vaccination,Chronic inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0024348,CAUSES,Vaccination,Lysis,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0035304,CAUSES,Vaccination,Retinal Degeneration,topp,patf,2,CAUSES_TOPPcausPATF
+C0042196,C0036749,CAUSES,Vaccination,Serositis,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0151763,CAUSES,Vaccination,Liver damage,topp,patf,3,CAUSES_TOPPcausPATF
+C0042196,C0162633,CAUSES,Vaccination,Viral Shedding,topp,patf,4,CAUSES_TOPPcausPATF
+C0042196,C0206277,CAUSES,Vaccination,Fatal Outcome,topp,patf,2,CAUSES_TOPPcausPATF
+C0042196,C0242656,CAUSES,Vaccination,Disease Progression,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0242781,CAUSES,Vaccination,disease transmission,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0332448,CAUSES,Vaccination,Infiltration,topp,patf,3,CAUSES_TOPPcausPATF
+C0042196,C0333641,CAUSES,Vaccination,Atrophic,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0333951,CAUSES,Vaccination,Growth arrest,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0333957,CAUSES,Vaccination,Growth acceleration,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0443146,CAUSES,Vaccination,Autoimmune reaction,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0543419,CAUSES,Vaccination,Sequela of disorder,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C0752350,CAUSES,Vaccination,Embryo Death,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C1155266,CAUSES,Vaccination,Inflammatory Response,topp,patf,2,CAUSES_TOPPcausPATF
+C0042196,C1373218,CAUSES,Vaccination,Decreased Immunologic Activity [PE],topp,patf,5,CAUSES_TOPPcausPATF
+C0042196,C1692321,CAUSES,Vaccination,Cellular infiltrate,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C3686920,CAUSES,Vaccination,Early embryonic death,topp,patf,1,CAUSES_TOPPcausPATF
+C0042196,C3714514,CAUSES,Vaccination,Infection,topp,patf,11,CAUSES_TOPPcausPATF
+C0042196,C4061114,CAUSES,Vaccination,Acute illness,topp,patf,1,CAUSES_TOPPcausPATF
+C0042200,C0035410,CAUSES,Influenza vaccination,Rhabdomyolysis,topp,patf,1,CAUSES_TOPPcausPATF
+C0042387,C0004366,CAUSES,Vasectomy,Autoimmune Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0042387,C0021359,CAUSES,Vasectomy,Infertility,topp,patf,1,CAUSES_TOPPcausPATF
+C0043162,C0021368,CAUSES,Whole-Body Irradiation,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0043162,C0543419,CAUSES,Whole-Body Irradiation,Sequela of disorder,topp,patf,1,CAUSES_TOPPcausPATF
+C0050572,C0020517,CAUSES,ACP protocol,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0052712,C1155266,CAUSES,doxorubicin/mitomycin/vinblastine protocol,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0056633,C0002940,CAUSES,cyclophosphamide/prednisone/vincristine protocol,Aneurysm,topp,patf,1,CAUSES_TOPPcausPATF
+C0057163,C0021368,CAUSES,DAV regimen,Inflammation,topp,patf,2,CAUSES_TOPPcausPATF
+C0057163,C3714514,CAUSES,DAV regimen,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0065764,C2699153,CAUSES,bleomycin/cisplatin/methotrexate protocol,Cell Invasion,topp,patf,1,CAUSES_TOPPcausPATF
+C0065772,C1383860,CAUSES,MCC protocol,Cardiac Hypertrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C0068899,C0332448,CAUSES,NOAC protocol,Infiltration,topp,patf,2,CAUSES_TOPPcausPATF
+C0079613,C0013604,CAUSES,Adoptive Immunotherapy,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0079613,C0024348,CAUSES,Adoptive Immunotherapy,Lysis,topp,patf,1,CAUSES_TOPPcausPATF
+C0079613,C1265896,CAUSES,Adoptive Immunotherapy,Diffuse atrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C0079613,C1373218,CAUSES,Adoptive Immunotherapy,Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0085430,C1155266,CAUSES,Blood Component Transfusion,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0086252,C0013604,CAUSES,Red Blood Cell Transfusion,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0086818,C0020517,CAUSES,Platelet Transfusion,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0108844,C0021368,CAUSES,CDE protocol-cyclophosphamide/doxorubicin/etoposide,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0108844,C0264940,CAUSES,CDE protocol-cyclophosphamide/doxorubicin/etoposide,Hemorrhage of blood vessel,topp,patf,1,CAUSES_TOPPcausPATF
+C0149783,C0013604,CAUSES,Steroid therapy,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0149783,C0021359,CAUSES,Steroid therapy,Infertility,topp,patf,1,CAUSES_TOPPcausPATF
+C0149783,C0152254,CAUSES,Steroid therapy,Fatty degeneration,topp,patf,1,CAUSES_TOPPcausPATF
+C0149783,C0332448,CAUSES,Steroid therapy,Infiltration,topp,patf,1,CAUSES_TOPPcausPATF
+C0149783,C1373218,CAUSES,Steroid therapy,Decreased Immunologic Activity [PE],topp,patf,3,CAUSES_TOPPcausPATF
+C0149783,C4727713,CAUSES,Steroid therapy,Chemically-Induced Menopause,topp,patf,1,CAUSES_TOPPcausPATF
+C0150141,C3714514,CAUSES,Bathing,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0150238,C0026766,CAUSES,Fluid resuscitation,Multiple Organ Failure,topp,patf,1,CAUSES_TOPPcausPATF
+C0150238,C0034063,CAUSES,Fluid resuscitation,Pulmonary Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0150238,C0546817,CAUSES,Fluid resuscitation,Fluid overload,topp,patf,3,CAUSES_TOPPcausPATF
+C0150763,C1155266,CAUSES,Sensory stimulation,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0152054,C0020564,CAUSES,Therapeutic tactile stimulation,Hypertrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C0152060,C0021308,CAUSES,Transection (procedure),Infarction,topp,patf,1,CAUSES_TOPPcausPATF
+C0152060,C0021368,CAUSES,Transection (procedure),Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0152060,C0028778,CAUSES,Transection (procedure),Obstruction,topp,patf,2,CAUSES_TOPPcausPATF
+C0152060,C0036974,CAUSES,Transection (procedure),Shock,topp,patf,4,CAUSES_TOPPcausPATF
+C0152060,C0232483,CAUSES,Transection (procedure),Reflux,topp,patf,1,CAUSES_TOPPcausPATF
+C0152060,C1373218,CAUSES,Transection (procedure),Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0152060,C1516670,CAUSES,Transection (procedure),Clonal Expansion,topp,patf,1,CAUSES_TOPPcausPATF
+C0162352,C0020963,CAUSES,Allergen Immunotherapy,Immune Tolerance,topp,patf,1,CAUSES_TOPPcausPATF
+C0162578,C0151699,CAUSES,Thrombectomy,Intracranial Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0184893,C3840887,CAUSES,Emergency operation,Blood loss requiring transfusion,topp,patf,1,CAUSES_TOPPcausPATF
+C0184898,C0019080,CAUSES,Surgical incisions,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0184907,C0013604,CAUSES,Scarification,Edema,topp,patf,3,CAUSES_TOPPcausPATF
+C0184933,C0019080,CAUSES,Scraping,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0184967,C0036679,CAUSES,Insertion of pack (procedure),Diastasis,topp,patf,2,CAUSES_TOPPcausPATF
+C0184967,C0151610,CAUSES,Insertion of pack (procedure),Edema of the tongue,topp,patf,1,CAUSES_TOPPcausPATF
+C0185003,C0036974,CAUSES,Reparative closure,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0185014,C1383860,CAUSES,Banding procedure,Cardiac Hypertrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C0185027,C0019080,CAUSES,Imbrication (procedure),Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0185027,C0020517,CAUSES,Imbrication (procedure),Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0185027,C0021359,CAUSES,Imbrication (procedure),Infertility,topp,patf,1,CAUSES_TOPPcausPATF
+C0185027,C0028778,CAUSES,Imbrication (procedure),Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0185027,C0034065,CAUSES,Imbrication (procedure),Pulmonary Embolism,topp,patf,1,CAUSES_TOPPcausPATF
+C0185027,C0242781,CAUSES,Imbrication (procedure),disease transmission,topp,patf,1,CAUSES_TOPPcausPATF
+C0185027,C0333979,CAUSES,Imbrication (procedure),Secondary hyperplasia,topp,patf,1,CAUSES_TOPPcausPATF
+C0185027,C3714514,CAUSES,Imbrication (procedure),Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0185027,C4061114,CAUSES,Imbrication (procedure),Acute illness,topp,patf,1,CAUSES_TOPPcausPATF
+C0185060,C0019080,CAUSES,Crushing procedure,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0185111,C0002994,CAUSES,Surgical Manipulation,Angioedema,topp,patf,1,CAUSES_TOPPcausPATF
+C0185111,C0013604,CAUSES,Surgical Manipulation,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C0013604,CAUSES,Extraction,Edema,topp,patf,2,CAUSES_TOPPcausPATF
+C0185115,C0015376,CAUSES,Extraction,Extravasation,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C0020517,CAUSES,Extraction,Hypersensitivity,topp,patf,2,CAUSES_TOPPcausPATF
+C0185115,C0024236,CAUSES,Extraction,Lymphedema,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C0024348,CAUSES,Extraction,Lysis,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C0028778,CAUSES,Extraction,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C0036974,CAUSES,Extraction,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C0043241,CAUSES,Extraction,Wound Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C0243069,CAUSES,Extraction,Hypoplasia,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C0333641,CAUSES,Extraction,Atrophic,topp,patf,3,CAUSES_TOPPcausPATF
+C0185115,C0341736,CAUSES,Extraction,Neurogenic detrusor overactivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C0442860,CAUSES,Extraction,Intravascular thrombosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C0522565,CAUSES,Extraction,Inflammatory edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C1390214,CAUSES,Extraction,Internal hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C2936381,CAUSES,Extraction,Neointima Formation,topp,patf,1,CAUSES_TOPPcausPATF
+C0185115,C3714514,CAUSES,Extraction,Infection,topp,patf,3,CAUSES_TOPPcausPATF
+C0185908,C0016059,CAUSES,Operative procedure on spine,Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0189231,C0032787,CAUSES,Total laryngectomy,Postoperative Complications,topp,patf,1,CAUSES_TOPPcausPATF
+C0189477,C0013687,CAUSES,Thoracentesis,effusion,topp,patf,1,CAUSES_TOPPcausPATF
+C0190010,C0036980,CAUSES,Fontan Procedure,"Shock, Cardiogenic",topp,patf,1,CAUSES_TOPPcausPATF
+C0191237,C0013687,CAUSES,Drainage of pericardium,effusion,topp,patf,1,CAUSES_TOPPcausPATF
+C0193398,C0025345,CAUSES,Partial hepatectomy,Menstruation Disturbances,topp,patf,1,CAUSES_TOPPcausPATF
+C0193535,C0032787,CAUSES,Anastomosis of bile ducts,Postoperative Complications,topp,patf,1,CAUSES_TOPPcausPATF
+C0193535,C1261287,CAUSES,Anastomosis of bile ducts,Stenosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0194133,C0220981,CAUSES,Local perfusion of kidney,Metabolic acidosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0194133,C0333501,CAUSES,Local perfusion of kidney,Acute necrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0194825,C0028778,CAUSES,Radical retropubic prostatectomy,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0195290,C0020507,CAUSES,Total hysterectomy with removal of both tubes and ovaries,Hyperplasia,topp,patf,1,CAUSES_TOPPcausPATF
+C0198482,C0151526,CAUSES,Operation on abdominal region,Premature Birth,topp,patf,1,CAUSES_TOPPcausPATF
+C0198482,C0235957,CAUSES,Operation on abdominal region,myonecrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0199176,C0011304,CAUSES,Prophylactic treatment,Demyelination,topp,patf,1,CAUSES_TOPPcausPATF
+C0199176,C0020517,CAUSES,Prophylactic treatment,Hypersensitivity,topp,patf,2,CAUSES_TOPPcausPATF
+C0199176,C0024348,CAUSES,Prophylactic treatment,Lysis,topp,patf,1,CAUSES_TOPPcausPATF
+C0199176,C0026766,CAUSES,Prophylactic treatment,Multiple Organ Failure,topp,patf,1,CAUSES_TOPPcausPATF
+C0199176,C0745283,CAUSES,Prophylactic treatment,INFECTIOUS PROCESS,topp,patf,1,CAUSES_TOPPcausPATF
+C0199176,C1520005,CAUSES,Prophylactic treatment,Viral Pathogenesis,topp,patf,1,CAUSES_TOPPcausPATF
+C0199176,C3714514,CAUSES,Prophylactic treatment,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0199242,C0019080,CAUSES,Anticoagulant prophylaxis,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0199470,C0004144,CAUSES,Mechanical ventilation,Atelectasis,topp,patf,1,CAUSES_TOPPcausPATF
+C0199470,C0013604,CAUSES,Mechanical ventilation,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0199470,C0016059,CAUSES,Mechanical ventilation,Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0199470,C0021368,CAUSES,Mechanical ventilation,Inflammation,topp,patf,4,CAUSES_TOPPcausPATF
+C0199470,C0026766,CAUSES,Mechanical ventilation,Multiple Organ Failure,topp,patf,3,CAUSES_TOPPcausPATF
+C0199470,C0026846,CAUSES,Mechanical ventilation,Muscular Atrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C0199470,C0036974,CAUSES,Mechanical ventilation,Shock,topp,patf,3,CAUSES_TOPPcausPATF
+C0199470,C0151701,CAUSES,Mechanical ventilation,Pulmonary hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0199470,C0231302,CAUSES,Mechanical ventilation,Physical stress,topp,patf,1,CAUSES_TOPPcausPATF
+C0199470,C0268030,CAUSES,Mechanical ventilation,Acidemia,topp,patf,1,CAUSES_TOPPcausPATF
+C0199470,C0333641,CAUSES,Mechanical ventilation,Atrophic,topp,patf,1,CAUSES_TOPPcausPATF
+C0199470,C1155266,CAUSES,Mechanical ventilation,Inflammatory Response,topp,patf,4,CAUSES_TOPPcausPATF
+C0199779,C0151526,CAUSES,Administration of antibiotic,Premature Birth,topp,patf,1,CAUSES_TOPPcausPATF
+C0199779,C1155266,CAUSES,Administration of antibiotic,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0199779,C3658208,CAUSES,Administration of antibiotic,Dysbiosis,topp,patf,2,CAUSES_TOPPcausPATF
+C0199782,C0020507,CAUSES,Administration of insulin,Hyperplasia,topp,patf,3,CAUSES_TOPPcausPATF
+C0199798,C0020517,CAUSES,human vaccination,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0199801,C1155266,CAUSES,Typhoid vaccination,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0199804,C0206277,CAUSES,Vaccination against tuberculosis,Fatal Outcome,topp,patf,1,CAUSES_TOPPcausPATF
+C0199809,C0021359,CAUSES,Poliomyelitis vaccination,Infertility,topp,patf,1,CAUSES_TOPPcausPATF
+C0204324,C0002994,CAUSES,Dental surgical procedure,Angioedema,topp,patf,1,CAUSES_TOPPcausPATF
+C0204700,C0013926,CAUSES,Fluid restriction,Air Embolism,topp,patf,1,CAUSES_TOPPcausPATF
+C0204700,C0022116,CAUSES,Fluid restriction,Ischemia,topp,patf,1,CAUSES_TOPPcausPATF
+C0204727,C0012359,CAUSES,Isolation procedure,Pathological Dilatation,topp,patf,1,CAUSES_TOPPcausPATF
+C0204727,C0013604,CAUSES,Isolation procedure,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0204727,C0020507,CAUSES,Isolation procedure,Hyperplasia,topp,patf,1,CAUSES_TOPPcausPATF
+C0204727,C0020517,CAUSES,Isolation procedure,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0204727,C0020564,CAUSES,Isolation procedure,Hypertrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C0204727,C0036974,CAUSES,Isolation procedure,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0204727,C3714514,CAUSES,Isolation procedure,Infection,topp,patf,2,CAUSES_TOPPcausPATF
+C0206074,C0036983,CAUSES,Renal Replacement Therapy,Septic Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0206156,C0028778,CAUSES,Rewarming,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0206156,C0036974,CAUSES,Rewarming,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0206156,C0700148,CAUSES,Rewarming,Congestion,topp,patf,1,CAUSES_TOPPcausPATF
+C0208707,C3714514,CAUSES,COMVP protocol,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0262762,C3714514,CAUSES,crisis management,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0269439,C0022876,CAUSES,Elective abortion,Premature Obstetric Labor,topp,patf,1,CAUSES_TOPPcausPATF
+C0278347,C0019080,CAUSES,Transfusion of plasma,Hemorrhage,topp,patf,2,CAUSES_TOPPcausPATF
+C0278911,C3714514,CAUSES,Ifosfamide/Lomustine/Vinblastine,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0279494,C0269221,CAUSES,Estrogen Therapy,Edema of vulva,topp,patf,1,CAUSES_TOPPcausPATF
+C0280274,C1373218,CAUSES,Antiviral Therapy,Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0280547,C0016059,CAUSES,cisplatin/cyclophosphamide/doxorubicin protocol,Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0280547,C1383860,CAUSES,cisplatin/cyclophosphamide/doxorubicin protocol,Cardiac Hypertrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C0280575,C0700148,CAUSES,Cytarabine/Doxorubicin/Etoposide/Thioguanine,Congestion,topp,patf,1,CAUSES_TOPPcausPATF
+C0280592,C0024348,CAUSES,doxorubicin/fluorouracil/mitomycin/vincristine protocol,Lysis,topp,patf,1,CAUSES_TOPPcausPATF
+C0280592,C0028778,CAUSES,doxorubicin/fluorouracil/mitomycin/vincristine protocol,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0280599,C0151763,CAUSES,altretamine/etoposide/methotrexate protocol,Liver damage,topp,patf,1,CAUSES_TOPPcausPATF
+C0280603,C0021368,CAUSES,fluorouracil/methotrexate protocol,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0280604,C0002940,CAUSES,altretamine/cisplatin/cyclophosphamide protocol,Aneurysm,topp,patf,1,CAUSES_TOPPcausPATF
+C0280604,C0376297,CAUSES,altretamine/cisplatin/cyclophosphamide protocol,Cardiac Death,topp,patf,1,CAUSES_TOPPcausPATF
+C0281177,C0016059,CAUSES,Interleukin Therapy,Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0301571,C0333641,CAUSES,Liquid diet,Atrophic,topp,patf,2,CAUSES_TOPPcausPATF
+C0311195,C0011304,CAUSES,Radiation diet,Demyelination,topp,patf,1,CAUSES_TOPPcausPATF
+C0338283,C0028778,CAUSES,Cyclophosphamide/Etoposide/Mitoxantrone,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0344356,C0679317,CAUSES,Restricted fiber diet,hypomotility,topp,patf,1,CAUSES_TOPPcausPATF
+C0348007,C0015927,CAUSES,Laser ablation,Fetal Death,topp,patf,1,CAUSES_TOPPcausPATF
+C0349707,C0004144,CAUSES,Aspiration-action,Atelectasis,topp,patf,1,CAUSES_TOPPcausPATF
+C0349707,C0015376,CAUSES,Aspiration-action,Extravasation,topp,patf,1,CAUSES_TOPPcausPATF
+C0349707,C0019080,CAUSES,Aspiration-action,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0349707,C0020517,CAUSES,Aspiration-action,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0349707,C0021368,CAUSES,Aspiration-action,Inflammation,topp,patf,3,CAUSES_TOPPcausPATF
+C0349707,C0028778,CAUSES,Aspiration-action,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0349707,C0034063,CAUSES,Aspiration-action,Pulmonary Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0349707,C0242184,CAUSES,Aspiration-action,Hypoxia,topp,patf,1,CAUSES_TOPPcausPATF
+C0349707,C0281169,CAUSES,Aspiration-action,Pulmonary Complication,topp,patf,1,CAUSES_TOPPcausPATF
+C0349707,C0745283,CAUSES,Aspiration-action,INFECTIOUS PROCESS,topp,patf,1,CAUSES_TOPPcausPATF
+C0349707,C1155266,CAUSES,Aspiration-action,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0349707,C3714514,CAUSES,Aspiration-action,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0376450,C0021368,CAUSES,Transplantation Conditioning,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0376450,C0028778,CAUSES,Transplantation Conditioning,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0376450,C0860009,CAUSES,Transplantation Conditioning,Central vein occlusions,topp,patf,1,CAUSES_TOPPcausPATF
+C0376450,C1373218,CAUSES,Transplantation Conditioning,Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0376518,C0006114,CAUSES,Adoptive Transfer,Cerebral Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0376518,C0011304,CAUSES,Adoptive Transfer,Demyelination,topp,patf,10,CAUSES_TOPPcausPATF
+C0376518,C0015376,CAUSES,Adoptive Transfer,Extravasation,topp,patf,1,CAUSES_TOPPcausPATF
+C0376518,C0021368,CAUSES,Adoptive Transfer,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0376518,C0332448,CAUSES,Adoptive Transfer,Infiltration,topp,patf,1,CAUSES_TOPPcausPATF
+C0392920,C1373218,CAUSES,Chemotherapy Regimen,Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0394374,C0015376,CAUSES,Vagotomy,Extravasation,topp,patf,1,CAUSES_TOPPcausPATF
+C0398480,C0002940,CAUSES,Drainage of lymphatics,Aneurysm,topp,patf,1,CAUSES_TOPPcausPATF
+C0399935,C0028778,CAUSES,Ileectomy,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0400447,C0025160,CAUSES,Orthotopic liver transplant,Megacolon,topp,patf,1,CAUSES_TOPPcausPATF
+C0407564,C0036974,CAUSES,Allogeneic bone graft,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0418981,C0034088,CAUSES,Medical therapy,Pulmonary Valve Insufficiency,topp,patf,1,CAUSES_TOPPcausPATF
+C0418981,C1373218,CAUSES,Medical therapy,Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0419017,C0012359,CAUSES,High frequency oscillatory ventilation,Pathological Dilatation,topp,patf,1,CAUSES_TOPPcausPATF
+C0436307,C0016059,CAUSES,Chemoradiotherapy,Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0436307,C2004491,CAUSES,Chemoradiotherapy,Cicatrix,topp,patf,1,CAUSES_TOPPcausPATF
+C0439775,C0013604,CAUSES,Elevation procedure,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0439775,C0019080,CAUSES,Elevation procedure,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0439775,C0020542,CAUSES,Elevation procedure,Pulmonary Hypertension,topp,patf,2,CAUSES_TOPPcausPATF
+C0439775,C0021368,CAUSES,Elevation procedure,Inflammation,topp,patf,2,CAUSES_TOPPcausPATF
+C0439775,C0034063,CAUSES,Elevation procedure,Pulmonary Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0439775,C0595862,CAUSES,Elevation procedure,Vasodilation disorder,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C0013604,CAUSES,Coagulation procedure,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C0019080,CAUSES,Coagulation procedure,Hemorrhage,topp,patf,6,CAUSES_TOPPcausPATF
+C0441509,C0021368,CAUSES,Coagulation procedure,Inflammation,topp,patf,2,CAUSES_TOPPcausPATF
+C0441509,C0026766,CAUSES,Coagulation procedure,Multiple Organ Failure,topp,patf,4,CAUSES_TOPPcausPATF
+C0441509,C0028778,CAUSES,Coagulation procedure,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C0034063,CAUSES,Coagulation procedure,Pulmonary Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C0036974,CAUSES,Coagulation procedure,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C0040038,CAUSES,Coagulation procedure,Thromboembolism,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C0040053,CAUSES,Coagulation procedure,Thrombosis,topp,patf,13,CAUSES_TOPPcausPATF
+C0441509,C0087086,CAUSES,Coagulation procedure,Thrombus,topp,patf,3,CAUSES_TOPPcausPATF
+C0441509,C0242184,CAUSES,Coagulation procedure,Hypoxia,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C0333106,CAUSES,Coagulation procedure,Bleeding varices,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C0333197,CAUSES,Coagulation procedure,Fibrin blood clot,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C0333280,CAUSES,Coagulation procedure,Diffuse hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C0333565,CAUSES,Coagulation procedure,Fibrin deposition,topp,patf,2,CAUSES_TOPPcausPATF
+C0441509,C0442860,CAUSES,Coagulation procedure,Intravascular thrombosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C0679429,CAUSES,Coagulation procedure,platelet dysfunction,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C1155266,CAUSES,Coagulation procedure,Inflammatory Response,topp,patf,3,CAUSES_TOPPcausPATF
+C0441509,C1373218,CAUSES,Coagulation procedure,Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C2586211,CAUSES,Coagulation procedure,Thrombosis of blood vessel,topp,patf,1,CAUSES_TOPPcausPATF
+C0441509,C3544094,CAUSES,Coagulation procedure,Arterial thromboembolism,topp,patf,1,CAUSES_TOPPcausPATF
+C0441510,C0600518,CAUSES,Laser photocoagulation,Choroidal Neovascularization,topp,patf,2,CAUSES_TOPPcausPATF
+C0441516,C0398353,CAUSES,Demand (clinical),Hypercapnic respiratory failure,topp,patf,1,CAUSES_TOPPcausPATF
+C0441516,C1373218,CAUSES,Demand (clinical),Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0454530,C1373218,CAUSES,Ultraviolet B therapy,Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0456675,C0272284,CAUSES,Massive blood transfusion,Dilutional thrombocytopenia,topp,patf,1,CAUSES_TOPPcausPATF
+C0520484,C0011304,CAUSES,Xenograft procedure,Demyelination,topp,patf,1,CAUSES_TOPPcausPATF
+C0520484,C0021368,CAUSES,Xenograft procedure,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0520484,C0151686,CAUSES,Xenograft procedure,Growth retardation,topp,patf,1,CAUSES_TOPPcausPATF
+C0520484,C0332448,CAUSES,Xenograft procedure,Infiltration,topp,patf,1,CAUSES_TOPPcausPATF
+C0520484,C0815080,CAUSES,Xenograft procedure,organ rejection,topp,patf,1,CAUSES_TOPPcausPATF
+C0520484,C3714514,CAUSES,Xenograft procedure,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0521213,C0242184,CAUSES,Closure by clamp,Hypoxia,topp,patf,1,CAUSES_TOPPcausPATF
+C0521302,C0034063,CAUSES,Fluid replacement,Pulmonary Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0521304,C0026766,CAUSES,Immunosuppressive therapy for transplant,Multiple Organ Failure,topp,patf,1,CAUSES_TOPPcausPATF
+C0521974,C0020507,CAUSES,"Diet, High-Fat",Hyperplasia,topp,patf,1,CAUSES_TOPPcausPATF
+C0521974,C0020517,CAUSES,"Diet, High-Fat",Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0521974,C0021368,CAUSES,"Diet, High-Fat",Inflammation,topp,patf,2,CAUSES_TOPPcausPATF
+C0521974,C0021655,CAUSES,"Diet, High-Fat",Insulin Resistance,topp,patf,6,CAUSES_TOPPcausPATF
+C0521974,C1096176,CAUSES,"Diet, High-Fat",Mitochondrial Damage,topp,patf,1,CAUSES_TOPPcausPATF
+C0521974,C3658208,CAUSES,"Diet, High-Fat",Dysbiosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0522794,C0333276,CAUSES,Heparin therapy,Acute hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0543467,C0013604,CAUSES,Operative Surgical Procedures,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0543467,C0019080,CAUSES,Operative Surgical Procedures,Hemorrhage,topp,patf,3,CAUSES_TOPPcausPATF
+C0543467,C0020963,CAUSES,Operative Surgical Procedures,Immune Tolerance,topp,patf,1,CAUSES_TOPPcausPATF
+C0543467,C0021359,CAUSES,Operative Surgical Procedures,Infertility,topp,patf,1,CAUSES_TOPPcausPATF
+C0543467,C0021368,CAUSES,Operative Surgical Procedures,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0543467,C0022116,CAUSES,Operative Surgical Procedures,Ischemia,topp,patf,2,CAUSES_TOPPcausPATF
+C0543467,C0028778,CAUSES,Operative Surgical Procedures,Obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0543467,C0032787,CAUSES,Operative Surgical Procedures,Postoperative Complications,topp,patf,2,CAUSES_TOPPcausPATF
+C0543467,C0038941,CAUSES,Operative Surgical Procedures,Surgical Wound Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0543467,C0232483,CAUSES,Operative Surgical Procedures,Reflux,topp,patf,3,CAUSES_TOPPcausPATF
+C0543467,C3698200,CAUSES,Operative Surgical Procedures,Postoperative sepsis,topp,patf,1,CAUSES_TOPPcausPATF
+C0545321,C1155266,CAUSES,B cell therapy,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0547070,C0020517,CAUSES,Ablation,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0547070,C0021368,CAUSES,Ablation,Inflammation,topp,patf,3,CAUSES_TOPPcausPATF
+C0547070,C0036974,CAUSES,Ablation,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0547070,C0302158,CAUSES,Ablation,Leucocytic infiltrate,topp,patf,1,CAUSES_TOPPcausPATF
+C0547070,C0333165,CAUSES,Ablation,Acute obstruction,topp,patf,1,CAUSES_TOPPcausPATF
+C0547070,C0920563,CAUSES,Ablation,Insulin Sensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0553741,C0034063,CAUSES,Fluid Management,Pulmonary Edema,topp,patf,2,CAUSES_TOPPcausPATF
+C0553741,C0546817,CAUSES,Fluid Management,Fluid overload,topp,patf,1,CAUSES_TOPPcausPATF
+C0553741,C0585109,CAUSES,Fluid Management,Dilutional hyponatremia,topp,patf,1,CAUSES_TOPPcausPATF
+C0553741,C0700148,CAUSES,Fluid Management,Congestion,topp,patf,1,CAUSES_TOPPcausPATF
+C0554804,C0036974,CAUSES,Assisted breathing,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0554804,C0242184,CAUSES,Assisted breathing,Hypoxia,topp,patf,1,CAUSES_TOPPcausPATF
+C0557061,C3714514,CAUSES,Discussion (procedure),Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0561946,C0019080,CAUSES,Removal of implant (procedure),Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0574032,C0001122,CAUSES,Infusion procedures,Acidosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0574032,C0003860,CAUSES,Infusion procedures,Arteritis,topp,patf,1,CAUSES_TOPPcausPATF
+C0574032,C0151654,CAUSES,Infusion procedures,Myocardial fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0574032,C0235723,CAUSES,Infusion procedures,reaction febrile,topp,patf,1,CAUSES_TOPPcausPATF
+C0574032,C0243083,CAUSES,Infusion procedures,associated disease,topp,patf,1,CAUSES_TOPPcausPATF
+C0574032,C1383860,CAUSES,Infusion procedures,Cardiac Hypertrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C0574135,C0029445,CAUSES,Oral steroid therapy,Bone necrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0576773,C0263008,CAUSES,Subcutaneous Infusions,Fibrosis of the skin,topp,patf,1,CAUSES_TOPPcausPATF
+C0581601,C0015376,CAUSES,Functional modification,Extravasation,topp,patf,1,CAUSES_TOPPcausPATF
+C0581602,C0021368,CAUSES,Structural modification,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0581602,C0035228,CAUSES,Structural modification,Respiratory Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0581602,C0036974,CAUSES,Structural modification,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0581602,C0152254,CAUSES,Structural modification,Fatty degeneration,topp,patf,1,CAUSES_TOPPcausPATF
+C0581602,C0700148,CAUSES,Structural modification,Congestion,topp,patf,1,CAUSES_TOPPcausPATF
+C0597815,C0752350,CAUSES,crystal healing,Embryo Death,topp,patf,1,CAUSES_TOPPcausPATF
+C0600080,C0021368,CAUSES,Stretching exercises,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0600080,C0028778,CAUSES,Stretching exercises,Obstruction,topp,patf,2,CAUSES_TOPPcausPATF
+C0600080,C0034063,CAUSES,Stretching exercises,Pulmonary Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0600080,C1383860,CAUSES,Stretching exercises,Cardiac Hypertrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C0677850,C0026766,CAUSES,Adjuvant Therapy,Multiple Organ Failure,topp,patf,1,CAUSES_TOPPcausPATF
+C0677881,C0301889,CAUSES,Cytotoxic Chemotherapy,Immune defect,topp,patf,1,CAUSES_TOPPcausPATF
+C0677881,C0333355,CAUSES,Cytotoxic Chemotherapy,Inflammatory disease of mucous membrane,topp,patf,1,CAUSES_TOPPcausPATF
+C0677881,C0919924,CAUSES,Cytotoxic Chemotherapy,pulmonary toxicity,topp,patf,2,CAUSES_TOPPcausPATF
+C0678812,C0016059,CAUSES,systemic administration,Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0678812,C0019080,CAUSES,systemic administration,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0678812,C0020522,CAUSES,systemic administration,Delayed Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C0678812,C0020564,CAUSES,systemic administration,Hypertrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C0678812,C0021368,CAUSES,systemic administration,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C0678812,C0041582,CAUSES,systemic administration,Ulcer,topp,patf,1,CAUSES_TOPPcausPATF
+C0678812,C0162633,CAUSES,systemic administration,Viral Shedding,topp,patf,2,CAUSES_TOPPcausPATF
+C0678823,C0036974,CAUSES,parenteral administration,Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C0678823,C1155266,CAUSES,parenteral administration,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C0679628,C0003130,CAUSES,blood modification,Anoxia,topp,patf,1,CAUSES_TOPPcausPATF
+C0679628,C0020542,CAUSES,blood modification,Pulmonary Hypertension,topp,patf,2,CAUSES_TOPPcausPATF
+C0683174,C0010037,CAUSES,topical application,Corneal edema,topp,patf,1,CAUSES_TOPPcausPATF
+C0683468,C0015402,CAUSES,invasive treatment,Eye Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0695434,C0008301,CAUSES,oscillations,Choking,topp,patf,1,CAUSES_TOPPcausPATF
+C0695434,C3714514,CAUSES,oscillations,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0702249,C0333456,CAUSES,Infiltration (procedure),Primary demyelination,topp,patf,1,CAUSES_TOPPcausPATF
+C0702249,C1373218,CAUSES,Infiltration (procedure),Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0741847,C0700148,CAUSES,Bypass,Congestion,topp,patf,1,CAUSES_TOPPcausPATF
+C0747973,C0151526,CAUSES,Elective procedure,Premature Birth,topp,patf,2,CAUSES_TOPPcausPATF
+C0808232,C1373218,CAUSES,Therapeutic Intervention,Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C0813207,C0242184,CAUSES,Creation of shunt,Hypoxia,topp,patf,5,CAUSES_TOPPcausPATF
+C0814435,C1520005,CAUSES,early identification,Viral Pathogenesis,topp,patf,1,CAUSES_TOPPcausPATF
+C0848112,C0040053,CAUSES,on anti-coagulants,Thrombosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0872361,C0242648,CAUSES,prenatal therapy,Vertical Disease Transmission,topp,patf,1,CAUSES_TOPPcausPATF
+C0877629,C3714514,CAUSES,infection prophylaxis,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0879265,C0919924,CAUSES,BEACOPP Regimen,pulmonary toxicity,topp,patf,1,CAUSES_TOPPcausPATF
+C0887947,C1155266,CAUSES,"Antiretroviral Therapy, Highly Active",Inflammatory Response,topp,patf,2,CAUSES_TOPPcausPATF
+C0887947,C1516670,CAUSES,"Antiretroviral Therapy, Highly Active",Clonal Expansion,topp,patf,1,CAUSES_TOPPcausPATF
+C0917707,C0341512,CAUSES,Cannulation,Retroperitoneal hematoma,topp,patf,1,CAUSES_TOPPcausPATF
+C0917927,C0334094,CAUSES,Breast-Conserving Surgery,Proliferation (morphologic abnormality),topp,patf,2,CAUSES_TOPPcausPATF
+C0920425,C0010828,CAUSES,Cancer Therapeutic Procedure,Cytopenia,topp,patf,2,CAUSES_TOPPcausPATF
+C0920425,C0035357,CAUSES,Cancer Therapeutic Procedure,Retroperitoneal fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C0920425,C0206277,CAUSES,Cancer Therapeutic Procedure,Fatal Outcome,topp,patf,1,CAUSES_TOPPcausPATF
+C0920425,C0242184,CAUSES,Cancer Therapeutic Procedure,Hypoxia,topp,patf,1,CAUSES_TOPPcausPATF
+C0920425,C0333641,CAUSES,Cancer Therapeutic Procedure,Atrophic,topp,patf,2,CAUSES_TOPPcausPATF
+C0920425,C0340515,CAUSES,Cancer Therapeutic Procedure,Myocardial dysfunction,topp,patf,1,CAUSES_TOPPcausPATF
+C0920425,C0919924,CAUSES,Cancer Therapeutic Procedure,pulmonary toxicity,topp,patf,2,CAUSES_TOPPcausPATF
+C0920425,C1373218,CAUSES,Cancer Therapeutic Procedure,Decreased Immunologic Activity [PE],topp,patf,5,CAUSES_TOPPcausPATF
+C0920425,C3714514,CAUSES,Cancer Therapeutic Procedure,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C0920425,C3898092,CAUSES,Cancer Therapeutic Procedure,Oral Complication,topp,patf,1,CAUSES_TOPPcausPATF
+C0920467,C1520005,CAUSES,disorder control (procedure),Viral Pathogenesis,topp,patf,1,CAUSES_TOPPcausPATF
+C0947647,C0019080,CAUSES,Manipulation procedure,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C0962074,C1373218,CAUSES,PC protocol (ovarian cancer treatment),Decreased Immunologic Activity [PE],topp,patf,1,CAUSES_TOPPcausPATF
+C1116142,C0274435,CAUSES,Transfusion of granulocytes,Transfusion Reaction,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C0000887,CAUSES,Destructive procedure (surgical),Acantholysis,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C0002940,CAUSES,Destructive procedure (surgical),Aneurysm,topp,patf,2,CAUSES_TOPPcausPATF
+C1261381,C0006114,CAUSES,Destructive procedure (surgical),Cerebral Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C0011304,CAUSES,Destructive procedure (surgical),Demyelination,topp,patf,16,CAUSES_TOPPcausPATF
+C1261381,C0013990,CAUSES,Destructive procedure (surgical),Pathological accumulation of air in tissues,topp,patf,6,CAUSES_TOPPcausPATF
+C1261381,C0015376,CAUSES,Destructive procedure (surgical),Extravasation,topp,patf,5,CAUSES_TOPPcausPATF
+C1261381,C0015668,CAUSES,Destructive procedure (surgical),Fat necrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C0016059,CAUSES,Destructive procedure (surgical),Fibrosis,topp,patf,2,CAUSES_TOPPcausPATF
+C1261381,C0019080,CAUSES,Destructive procedure (surgical),Hemorrhage,topp,patf,2,CAUSES_TOPPcausPATF
+C1261381,C0020542,CAUSES,Destructive procedure (surgical),Pulmonary Hypertension,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C0020564,CAUSES,Destructive procedure (surgical),Hypertrophy,topp,patf,2,CAUSES_TOPPcausPATF
+C1261381,C0021368,CAUSES,Destructive procedure (surgical),Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C0036974,CAUSES,Destructive procedure (surgical),Shock,topp,patf,2,CAUSES_TOPPcausPATF
+C1261381,C0036981,CAUSES,Destructive procedure (surgical),Endotoxic shock,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C0038862,CAUSES,Destructive procedure (surgical),Suppurative inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C0232018,CAUSES,Destructive procedure (surgical),Decreased lung compliance,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C0243069,CAUSES,Destructive procedure (surgical),Hypoplasia,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C0333501,CAUSES,Destructive procedure (surgical),Acute necrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C0342579,CAUSES,Destructive procedure (surgical),Electrolyte imbalance,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C0392459,CAUSES,Destructive procedure (surgical),Intra-alveolar hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C1265892,CAUSES,Destructive procedure (surgical),Partial atrophy,topp,patf,1,CAUSES_TOPPcausPATF
+C1261381,C1373218,CAUSES,Destructive procedure (surgical),Decreased Immunologic Activity [PE],topp,patf,5,CAUSES_TOPPcausPATF
+C1280903,C0030660,CAUSES,Exploration procedure,Pathologic Processes,topp,patf,1,CAUSES_TOPPcausPATF
+C1283075,C0015376,CAUSES,Fusion - action,Extravasation,topp,patf,1,CAUSES_TOPPcausPATF
+C1293130,C0026766,CAUSES,Stabilization,Multiple Organ Failure,topp,patf,1,CAUSES_TOPPcausPATF
+C1293130,C0036983,CAUSES,Stabilization,Septic Shock,topp,patf,1,CAUSES_TOPPcausPATF
+C1293130,C0442856,CAUSES,Stabilization,Hypoperfusion,topp,patf,1,CAUSES_TOPPcausPATF
+C1293365,C0013990,CAUSES,Lung destructive procedure,Pathological accumulation of air in tissues,topp,patf,1,CAUSES_TOPPcausPATF
+C1299597,C3714514,CAUSES,Empirical therapy,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C1456587,C0032787,CAUSES,Bariatric Surgery,Postoperative Complications,topp,patf,1,CAUSES_TOPPcausPATF
+C1511790,C0011164,CAUSES,Detection,Abnormal degeneration,topp,patf,1,CAUSES_TOPPcausPATF
+C1511790,C0020517,CAUSES,Detection,Hypersensitivity,topp,patf,12,CAUSES_TOPPcausPATF
+C1511790,C0021368,CAUSES,Detection,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C1511790,C0443146,CAUSES,Detection,Autoimmune reaction,topp,patf,1,CAUSES_TOPPcausPATF
+C1511790,C3714514,CAUSES,Detection,Infection,topp,patf,3,CAUSES_TOPPcausPATF
+C1512034,C0281169,CAUSES,Donor Lymphocyte Infusion,Pulmonary Complication,topp,patf,1,CAUSES_TOPPcausPATF
+C1515884,C0021368,CAUSES,Acupuncture and Oriental Medicine,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C1515884,C0041755,CAUSES,Acupuncture and Oriental Medicine,Adverse reaction to drug,topp,patf,1,CAUSES_TOPPcausPATF
+C1517925,C0919924,CAUSES,Local Therapy,pulmonary toxicity,topp,patf,1,CAUSES_TOPPcausPATF
+C1522449,C0013990,CAUSES,Therapeutic radiology procedure,Pathological accumulation of air in tissues,topp,patf,1,CAUSES_TOPPcausPATF
+C1522449,C0015376,CAUSES,Therapeutic radiology procedure,Extravasation,topp,patf,2,CAUSES_TOPPcausPATF
+C1522449,C0016059,CAUSES,Therapeutic radiology procedure,Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C1522449,C0021368,CAUSES,Therapeutic radiology procedure,Inflammation,topp,patf,2,CAUSES_TOPPcausPATF
+C1522449,C0024348,CAUSES,Therapeutic radiology procedure,Lysis,topp,patf,1,CAUSES_TOPPcausPATF
+C1522449,C0031154,CAUSES,Therapeutic radiology procedure,Peritonitis,topp,patf,1,CAUSES_TOPPcausPATF
+C1522449,C1155266,CAUSES,Therapeutic radiology procedure,Inflammatory Response,topp,patf,2,CAUSES_TOPPcausPATF
+C1522449,C1265831,CAUSES,Therapeutic radiology procedure,Interstitial inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C1522449,C3898092,CAUSES,Therapeutic radiology procedure,Oral Complication,topp,patf,3,CAUSES_TOPPcausPATF
+C1533734,C0011304,CAUSES,Administration procedure,Demyelination,topp,patf,1,CAUSES_TOPPcausPATF
+C1541822,C0852962,CAUSES,Vaginal delivery procedure,Complication of delivery,topp,patf,1,CAUSES_TOPPcausPATF
+C1704536,C0016059,CAUSES,Direct Method,Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C1882454,C0034063,CAUSES,Preparative Regimen,Pulmonary Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C1882454,C3714514,CAUSES,Preparative Regimen,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C1963724,C1096176,CAUSES,Antiretroviral therapy,Mitochondrial Damage,topp,patf,1,CAUSES_TOPPcausPATF
+C1963724,C1155266,CAUSES,Antiretroviral therapy,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C1963758,C0010828,CAUSES,Immunomodulation,Cytopenia,topp,patf,1,CAUSES_TOPPcausPATF
+C2004459,C1155266,CAUSES,Abdominoperineal resection,Inflammatory Response,topp,patf,1,CAUSES_TOPPcausPATF
+C2242628,C0242781,CAUSES,Fecal Microbiota Transplantation,disease transmission,topp,patf,1,CAUSES_TOPPcausPATF
+C2350432,C0014591,CAUSES,Vagus Nerve Stimulation,Epistaxis,topp,patf,1,CAUSES_TOPPcausPATF
+C2713304,C0020517,CAUSES,Revaccination,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C2936334,C0022116,CAUSES,Surgical Closure Techniques,Ischemia,topp,patf,1,CAUSES_TOPPcausPATF
+C2985391,C0016059,CAUSES,Gold Therapy,Fibrosis,topp,patf,3,CAUSES_TOPPcausPATF
+C2985391,C0021368,CAUSES,Gold Therapy,Inflammation,topp,patf,2,CAUSES_TOPPcausPATF
+C3526598,C0235063,CAUSES,Psychiatric service,Respiratory Depression,topp,patf,3,CAUSES_TOPPcausPATF
+C3540512,C0013604,CAUSES,Circumferential Supracrestal Fiberotomy,Edema,topp,patf,1,CAUSES_TOPPcausPATF
+C3540512,C3714514,CAUSES,Circumferential Supracrestal Fiberotomy,Infection,topp,patf,1,CAUSES_TOPPcausPATF
+C3649547,C0206277,CAUSES,Continuous Renal Replacement Therapy,Fatal Outcome,topp,patf,1,CAUSES_TOPPcausPATF
+C3665674,C0016059,CAUSES,Warburg Therapy,Fibrosis,topp,patf,1,CAUSES_TOPPcausPATF
+C3825792,C0015376,CAUSES,Pressure breathing,Extravasation,topp,patf,1,CAUSES_TOPPcausPATF
+C3839839,C0041909,CAUSES,Pediatric care,Upper gastrointestinal hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C3841297,C0151526,CAUSES,Cesarean,Premature Birth,topp,patf,1,CAUSES_TOPPcausPATF
+C3841297,C0242786,CAUSES,Cesarean,High-Risk Pregnancy,topp,patf,1,CAUSES_TOPPcausPATF
+C3896609,C0015376,CAUSES,Stereotactic Body Radiation Therapy,Extravasation,topp,patf,1,CAUSES_TOPPcausPATF
+C4289797,C0019080,CAUSES,Chimeric Antigen Receptor T-Cell Therapy,Hemorrhage,topp,patf,1,CAUSES_TOPPcausPATF
+C4319756,C0333355,CAUSES,Myeloablative Conditioning,Inflammatory disease of mucous membrane,topp,patf,1,CAUSES_TOPPcausPATF
+C4526535,C0151686,CAUSES,Bendamustine/Lenalidomide/Dexamethasone Regimen,Growth retardation,topp,patf,1,CAUSES_TOPPcausPATF
+C4722104,C0020517,CAUSES,Desensitization,Hypersensitivity,topp,patf,1,CAUSES_TOPPcausPATF
+C4722104,C2717957,CAUSES,Desensitization,Vasoplegia,topp,patf,1,CAUSES_TOPPcausPATF
+C4733472,C0021368,CAUSES,immune checkpoint inhibitor therapy,Inflammation,topp,patf,1,CAUSES_TOPPcausPATF
+C4763675,C0332448,CAUSES,Single Agent Therapy,Infiltration,topp,patf,1,CAUSES_TOPPcausPATF
+C4763870,C0031154,CAUSES,Colon Resection,Peritonitis,topp,patf,1,CAUSES_TOPPcausPATF

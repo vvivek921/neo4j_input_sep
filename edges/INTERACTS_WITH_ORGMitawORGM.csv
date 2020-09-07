@@ -1,0 +1,56 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0206333,C4267729,INTERACTS_WITH,Blood-Borne Pathogens,Respiratory pathogens,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0314732,C0445623,INTERACTS_WITH,Infectious agent,Microorganism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0314732,C0450254,INTERACTS_WITH,Infectious agent,Pathogenic organism,orgm,orgm,5,INTERACTS_WITH_ORGMitawORGM
+C0314732,C1167395,INTERACTS_WITH,Infectious agent,Host (organism),orgm,orgm,4,INTERACTS_WITH_ORGMitawORGM
+C0314732,C1956108,INTERACTS_WITH,Infectious agent,Microbiome,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0314732,C2985398,INTERACTS_WITH,Infectious agent,Intestinal Microbiome,orgm,orgm,2,INTERACTS_WITH_ORGMitawORGM
+C0314732,C4086523,INTERACTS_WITH,Infectious agent,Intermediate Host,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0445623,C0314732,INTERACTS_WITH,Microorganism,Infectious agent,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0445623,C0450254,INTERACTS_WITH,Microorganism,Pathogenic organism,orgm,orgm,24,INTERACTS_WITH_ORGMitawORGM
+C0445623,C0562641,INTERACTS_WITH,Microorganism,Symbiont,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0445623,C0686817,INTERACTS_WITH,Microorganism,Prokaryote,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0445623,C1167395,INTERACTS_WITH,Microorganism,Host (organism),orgm,orgm,6,INTERACTS_WITH_ORGMitawORGM
+C0445623,C1956108,INTERACTS_WITH,Microorganism,Microbiome,orgm,orgm,9,INTERACTS_WITH_ORGMitawORGM
+C0445623,C2985398,INTERACTS_WITH,Microorganism,Intestinal Microbiome,orgm,orgm,6,INTERACTS_WITH_ORGMitawORGM
+C0445623,C4084880,INTERACTS_WITH,Microorganism,Oral Microbiome,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0450254,C0314732,INTERACTS_WITH,Pathogenic organism,Infectious agent,orgm,orgm,3,INTERACTS_WITH_ORGMitawORGM
+C0450254,C0445623,INTERACTS_WITH,Pathogenic organism,Microorganism,orgm,orgm,21,INTERACTS_WITH_ORGMitawORGM
+C0450254,C0686817,INTERACTS_WITH,Pathogenic organism,Prokaryote,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0450254,C1167395,INTERACTS_WITH,Pathogenic organism,Host (organism),orgm,orgm,63,INTERACTS_WITH_ORGMitawORGM
+C0450254,C1956108,INTERACTS_WITH,Pathogenic organism,Microbiome,orgm,orgm,2,INTERACTS_WITH_ORGMitawORGM
+C0450254,C2985398,INTERACTS_WITH,Pathogenic organism,Intestinal Microbiome,orgm,orgm,5,INTERACTS_WITH_ORGMitawORGM
+C0450254,C3887843,INTERACTS_WITH,Pathogenic organism,Microbiota (environment),orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0450254,C4086523,INTERACTS_WITH,Pathogenic organism,Intermediate Host,orgm,orgm,4,INTERACTS_WITH_ORGMitawORGM
+C0450254,C4267729,INTERACTS_WITH,Pathogenic organism,Respiratory pathogens,orgm,orgm,3,INTERACTS_WITH_ORGMitawORGM
+C0562641,C0450254,INTERACTS_WITH,Symbiont,Pathogenic organism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C0562641,C1167395,INTERACTS_WITH,Symbiont,Host (organism),orgm,orgm,2,INTERACTS_WITH_ORGMitawORGM
+C0596121,C0445623,INTERACTS_WITH,Aquatic Organisms,Microorganism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1167395,C0314732,INTERACTS_WITH,Host (organism),Infectious agent,orgm,orgm,6,INTERACTS_WITH_ORGMitawORGM
+C1167395,C0445623,INTERACTS_WITH,Host (organism),Microorganism,orgm,orgm,8,INTERACTS_WITH_ORGMitawORGM
+C1167395,C0450254,INTERACTS_WITH,Host (organism),Pathogenic organism,orgm,orgm,42,INTERACTS_WITH_ORGMitawORGM
+C1167395,C0562641,INTERACTS_WITH,Host (organism),Symbiont,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1167395,C0686817,INTERACTS_WITH,Host (organism),Prokaryote,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1167395,C1956108,INTERACTS_WITH,Host (organism),Microbiome,orgm,orgm,2,INTERACTS_WITH_ORGMitawORGM
+C1167395,C4086236,INTERACTS_WITH,Host (organism),Definitive Host,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1167395,C4086523,INTERACTS_WITH,Host (organism),Intermediate Host,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1512692,C0450254,INTERACTS_WITH,Inbred Strain,Pathogenic organism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1562052,C0314732,INTERACTS_WITH,Enteropathogen,Infectious agent,orgm,orgm,2,INTERACTS_WITH_ORGMitawORGM
+C1562052,C2985398,INTERACTS_WITH,Enteropathogen,Intestinal Microbiome,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1628327,C0450254,INTERACTS_WITH,Zoonotic pathogen,Pathogenic organism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1882357,C2985398,INTERACTS_WITH,Pharyngeal/Respiratory Flora,Intestinal Microbiome,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1956108,C0445623,INTERACTS_WITH,Microbiome,Microorganism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C1956108,C0450254,INTERACTS_WITH,Microbiome,Pathogenic organism,orgm,orgm,2,INTERACTS_WITH_ORGMitawORGM
+C1956108,C2985398,INTERACTS_WITH,Microbiome,Intestinal Microbiome,orgm,orgm,3,INTERACTS_WITH_ORGMitawORGM
+C1956108,C3887843,INTERACTS_WITH,Microbiome,Microbiota (environment),orgm,orgm,2,INTERACTS_WITH_ORGMitawORGM
+C2746012,C0445623,INTERACTS_WITH,cellular organisms,Microorganism,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C2985398,C0445623,INTERACTS_WITH,Intestinal Microbiome,Microorganism,orgm,orgm,6,INTERACTS_WITH_ORGMitawORGM
+C2985398,C0450254,INTERACTS_WITH,Intestinal Microbiome,Pathogenic organism,orgm,orgm,6,INTERACTS_WITH_ORGMitawORGM
+C2985398,C0562641,INTERACTS_WITH,Intestinal Microbiome,Symbiont,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C2985398,C1167395,INTERACTS_WITH,Intestinal Microbiome,Host (organism),orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM
+C2985398,C1956108,INTERACTS_WITH,Intestinal Microbiome,Microbiome,orgm,orgm,7,INTERACTS_WITH_ORGMitawORGM
+C3887843,C0445623,INTERACTS_WITH,Microbiota (environment),Microorganism,orgm,orgm,2,INTERACTS_WITH_ORGMitawORGM
+C3887843,C1956108,INTERACTS_WITH,Microbiota (environment),Microbiome,orgm,orgm,2,INTERACTS_WITH_ORGMitawORGM
+C4018878,C0450254,INTERACTS_WITH,Gastrointestinal Microbiome,Pathogenic organism,orgm,orgm,2,INTERACTS_WITH_ORGMitawORGM
+C4267729,C0450254,INTERACTS_WITH,Respiratory pathogens,Pathogenic organism,orgm,orgm,2,INTERACTS_WITH_ORGMitawORGM
+C4505183,C1956108,INTERACTS_WITH,"Microorganisms, Genetically-Modified",Microbiome,orgm,orgm,1,INTERACTS_WITH_ORGMitawORGM

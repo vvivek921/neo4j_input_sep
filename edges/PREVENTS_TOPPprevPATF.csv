@@ -1,0 +1,616 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001425,C0700148,PREVENTS,Adenoidectomy,Congestion,topp,patf,1,PREVENTS_TOPPprevPATF
+C0001560,C0035228,PREVENTS,"Administration, Intranasal",Respiratory Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0001560,C3714514,PREVENTS,"Administration, Intranasal",Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0001563,C0013604,PREVENTS,"Administration, Oral",Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0001563,C0013990,PREVENTS,"Administration, Oral",Pathological accumulation of air in tissues,topp,patf,1,PREVENTS_TOPPprevPATF
+C0001563,C0021368,PREVENTS,"Administration, Oral",Inflammation,topp,patf,2,PREVENTS_TOPPprevPATF
+C0001563,C0162633,PREVENTS,"Administration, Oral",Viral Shedding,topp,patf,1,PREVENTS_TOPPprevPATF
+C0001563,C3714514,PREVENTS,"Administration, Oral",Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0001566,C0543419,PREVENTS,"Administration, Topical",Sequela of disorder,topp,patf,1,PREVENTS_TOPPprevPATF
+C0001632,C0333641,PREVENTS,Adrenalectomy,Atrophic,topp,patf,1,PREVENTS_TOPPprevPATF
+C0001701,C0020517,PREVENTS,"Exercise, Aerobic",Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0002766,C0004144,PREVENTS,Pain management,Atelectasis,topp,patf,2,PREVENTS_TOPPprevPATF
+C0002766,C0008301,PREVENTS,Pain management,Choking,topp,patf,1,PREVENTS_TOPPprevPATF
+C0002766,C0032787,PREVENTS,Pain management,Postoperative Complications,topp,patf,1,PREVENTS_TOPPprevPATF
+C0002766,C0235063,PREVENTS,Pain management,Respiratory Depression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0002903,C0008301,PREVENTS,Anesthesia procedures,Choking,topp,patf,1,PREVENTS_TOPPprevPATF
+C0002903,C0019080,PREVENTS,Anesthesia procedures,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0002903,C0161818,PREVENTS,Anesthesia procedures,Respiratory complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0002911,C0032787,PREVENTS,"Anesthesia, Conduction",Postoperative Complications,topp,patf,2,PREVENTS_TOPPprevPATF
+C0002915,C0004144,PREVENTS,General Anesthesia,Atelectasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0002915,C0546817,PREVENTS,General Anesthesia,Fluid overload,topp,patf,1,PREVENTS_TOPPprevPATF
+C0002920,C0008301,PREVENTS,"Anesthesia, Intravenous",Choking,topp,patf,1,PREVENTS_TOPPprevPATF
+C0002921,C0020517,PREVENTS,Local anesthesia,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0002922,C0242781,PREVENTS,"Anesthesia, Obstetrical",disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0003281,C0087086,PREVENTS,Anticoagulation Therapy,Thrombus,topp,patf,1,PREVENTS_TOPPprevPATF
+C0003424,C3714514,PREVENTS,Antisepsis,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0003893,C0038941,PREVENTS,Arthroplasty,Surgical Wound Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0004764,C0242781,PREVENTS,"Contraception, Barrier",disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0005527,C0242781,PREVENTS,Biological Response Modifier Therapy,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0005841,C0019080,PREVENTS,Blood Transfusion,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0005841,C0242781,PREVENTS,Blood Transfusion,disease transmission,topp,patf,2,PREVENTS_TOPPprevPATF
+C0005841,C0546817,PREVENTS,Blood Transfusion,Fluid overload,topp,patf,1,PREVENTS_TOPPprevPATF
+C0005841,C1961112,PREVENTS,Blood Transfusion,Heart Decompensation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0005841,C4505499,PREVENTS,Blood Transfusion,Transfusion-Transmitted Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0005843,C0015927,PREVENTS,"Blood Transfusion, Intrauterine",Fetal Death,topp,patf,1,PREVENTS_TOPPprevPATF
+C0005961,C0021368,PREVENTS,Bone Marrow Transplantation,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0005961,C1262018,PREVENTS,Bone Marrow Transplantation,Graft failure,topp,patf,1,PREVENTS_TOPPprevPATF
+C0007344,C3714514,PREVENTS,Castration,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0007389,C0242781,PREVENTS,Cataract Extraction,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0007430,C0028778,PREVENTS,Catheterization,Obstruction,topp,patf,1,PREVENTS_TOPPprevPATF
+C0007435,C3714514,PREVENTS,"Catheterization, Central Venous",Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0007876,C0032797,PREVENTS,Cesarean section,Postpartum Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0007876,C0242648,PREVENTS,Cesarean section,Vertical Disease Transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0008819,C0282474,PREVENTS,Male Circumcision,Maternal-Fetal Infection Transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0009429,C0021368,PREVENTS,Combined Modality Therapy,Inflammation,topp,patf,2,PREVENTS_TOPPprevPATF
+C0009429,C0162633,PREVENTS,Combined Modality Therapy,Viral Shedding,topp,patf,1,PREVENTS_TOPPprevPATF
+C0009429,C0334094,PREVENTS,Combined Modality Therapy,Proliferation (morphologic abnormality),topp,patf,1,PREVENTS_TOPPprevPATF
+C0009813,C0236003,PREVENTS,Constriction procedure,Mucous membrane swelling,topp,patf,1,PREVENTS_TOPPprevPATF
+C0011079,C0043241,PREVENTS,Debridement,Wound Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C0011121,C0021368,PREVENTS,Decontamination,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0011121,C0038941,PREVENTS,Decontamination,Surgical Wound Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0011121,C0860239,PREVENTS,Decontamination,Catheter related infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0011331,C3898092,PREVENTS,Dental Procedures,Oral Complication,topp,patf,2,PREVENTS_TOPPprevPATF
+C0011946,C0001122,PREVENTS,Dialysis procedure,Acidosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0011946,C0006114,PREVENTS,Dialysis procedure,Cerebral Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0011946,C0242781,PREVENTS,Dialysis procedure,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0011946,C0546817,PREVENTS,Dialysis procedure,Fluid overload,topp,patf,1,PREVENTS_TOPPprevPATF
+C0011946,C3714514,PREVENTS,Dialysis procedure,Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C0012683,C0242781,PREVENTS,Disinfection,disease transmission,topp,patf,5,PREVENTS_TOPPprevPATF
+C0012683,C0860239,PREVENTS,Disinfection,Catheter related infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0012683,C2886794,PREVENTS,Disinfection,Catheter related bloodstream infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0012683,C3714514,PREVENTS,Disinfection,Infection,topp,patf,4,PREVENTS_TOPPprevPATF
+C0012683,C4289744,PREVENTS,Disinfection,Contact Transmission,topp,patf,2,PREVENTS_TOPPprevPATF
+C0013103,C0040038,PREVENTS,Drainage procedure,Thromboembolism,topp,patf,1,PREVENTS_TOPPprevPATF
+C0013216,C0020517,PREVENTS,Pharmacotherapy,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0013216,C0021368,PREVENTS,Pharmacotherapy,Inflammation,topp,patf,2,PREVENTS_TOPPprevPATF
+C0013216,C0036974,PREVENTS,Pharmacotherapy,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0013216,C0333641,PREVENTS,Pharmacotherapy,Atrophic,topp,patf,1,PREVENTS_TOPPprevPATF
+C0013216,C1155266,PREVENTS,Pharmacotherapy,Inflammatory Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C0013216,C1373218,PREVENTS,Pharmacotherapy,Decreased Immunologic Activity [PE],topp,patf,3,PREVENTS_TOPPprevPATF
+C0013457,C0034065,PREVENTS,Early Ambulation,Pulmonary Embolism,topp,patf,1,PREVENTS_TOPPprevPATF
+C0013459,C0004144,PREVENTS,Early Mobilization,Atelectasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0013459,C0020564,PREVENTS,Early Mobilization,Hypertrophy,topp,patf,1,PREVENTS_TOPPprevPATF
+C0013804,C0019080,PREVENTS,Electrocoagulation,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0013804,C0079027,PREVENTS,Electrocoagulation,Intraoperative Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0013806,C0242781,PREVENTS,Electroconvulsive Therapy,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0013931,C0036974,PREVENTS,"Embolization, Therapeutic",Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0014327,C0017181,PREVENTS,Enteral Nutrition,Gastrointestinal Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0015252,C0027544,PREVENTS,removal technique,Necrotic debris,topp,patf,1,PREVENTS_TOPPprevPATF
+C0015252,C0043241,PREVENTS,removal technique,Wound Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0015252,C0151701,PREVENTS,removal technique,Pulmonary hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0015252,C0161818,PREVENTS,removal technique,Respiratory complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0015354,C1155266,PREVENTS,Extracorporeal Circulation,Inflammatory Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C0015357,C0012359,PREVENTS,Extracorporeal Membrane Oxygenation,Pathological Dilatation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0015357,C0019080,PREVENTS,Extracorporeal Membrane Oxygenation,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0015357,C0021368,PREVENTS,Extracorporeal Membrane Oxygenation,Inflammation,topp,patf,2,PREVENTS_TOPPprevPATF
+C0015357,C0022116,PREVENTS,Extracorporeal Membrane Oxygenation,Ischemia,topp,patf,1,PREVENTS_TOPPprevPATF
+C0015357,C0034063,PREVENTS,Extracorporeal Membrane Oxygenation,Pulmonary Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0015357,C0242184,PREVENTS,Extracorporeal Membrane Oxygenation,Hypoxia,topp,patf,1,PREVENTS_TOPPprevPATF
+C0015357,C0302148,PREVENTS,Extracorporeal Membrane Oxygenation,Blood Clot,topp,patf,1,PREVENTS_TOPPprevPATF
+C0016286,C0546817,PREVENTS,Fluid Therapy,Fluid overload,topp,patf,1,PREVENTS_TOPPprevPATF
+C0017296,C0001511,PREVENTS,gene therapy,Tissue Adhesions,topp,patf,1,PREVENTS_TOPPprevPATF
+C0017296,C0151763,PREVENTS,gene therapy,Liver damage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0017296,C1155266,PREVENTS,gene therapy,Inflammatory Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C0017573,C0017566,PREVENTS,Gingivectomy,Gingival Hyperplasia,topp,patf,1,PREVENTS_TOPPprevPATF
+C0018821,C1155266,PREVENTS,Cardiac Surgery procedures,Inflammatory Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C0018823,C1373218,PREVENTS,Heart Transplantation,Decreased Immunologic Activity [PE],topp,patf,1,PREVENTS_TOPPprevPATF
+C0019014,C0002940,PREVENTS,Hemofiltration,Aneurysm,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020650,C0019080,PREVENTS,"Hypotension, Controlled",Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020674,C0006114,PREVENTS,"Hypothermia, Induced",Cerebral Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020944,C0020517,PREVENTS,Immobilization,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020944,C1533618,PREVENTS,Immobilization,Fat embolism as early complication of trauma (disorder),topp,patf,1,PREVENTS_TOPPprevPATF
+C0020971,C0020517,PREVENTS,Immunization,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020971,C0020522,PREVENTS,Immunization,Delayed Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020971,C0021368,PREVENTS,Immunization,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020971,C0162633,PREVENTS,Immunization,Viral Shedding,topp,patf,2,PREVENTS_TOPPprevPATF
+C0020971,C0235957,PREVENTS,Immunization,myonecrosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020971,C0242781,PREVENTS,Immunization,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020971,C0333355,PREVENTS,Immunization,Inflammatory disease of mucous membrane,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020971,C3714514,PREVENTS,Immunization,Infection,topp,patf,4,PREVENTS_TOPPprevPATF
+C0020974,C0242648,PREVENTS,passive immunization procedure,Vertical Disease Transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020974,C0242656,PREVENTS,passive immunization procedure,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020974,C3714514,PREVENTS,passive immunization procedure,Infection,topp,patf,3,PREVENTS_TOPPprevPATF
+C0020975,C0021359,PREVENTS,Secondary Immunization,Infertility,topp,patf,1,PREVENTS_TOPPprevPATF
+C0020975,C3714514,PREVENTS,Secondary Immunization,Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C0021022,C3714514,PREVENTS,Immunoglobulin Therapy,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021079,C0020517,PREVENTS,Therapeutic immunosuppression,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021079,C0021368,PREVENTS,Therapeutic immunosuppression,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021079,C0161818,PREVENTS,Therapeutic immunosuppression,Respiratory complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021079,C0815080,PREVENTS,Therapeutic immunosuppression,organ rejection,topp,patf,3,PREVENTS_TOPPprevPATF
+C0021079,C1373218,PREVENTS,Therapeutic immunosuppression,Decreased Immunologic Activity [PE],topp,patf,1,PREVENTS_TOPPprevPATF
+C0021107,C0001511,PREVENTS,Implantation procedure,Tissue Adhesions,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021107,C0021359,PREVENTS,Implantation procedure,Infertility,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021107,C0333106,PREVENTS,Implantation procedure,Bleeding varices,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021107,C1261287,PREVENTS,Implantation procedure,Stenosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021107,C2886794,PREVENTS,Implantation procedure,Catheter related bloodstream infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021107,C3714514,PREVENTS,Implantation procedure,Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C0021440,C0019080,PREVENTS,Intravenous infusion procedures,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021485,C1142480,PREVENTS,Injection of therapeutic agent,Vaccination site reaction,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021485,C3714514,PREVENTS,Injection of therapeutic agent,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021493,C0001511,PREVENTS,"Injections, Intraperitoneal",Tissue Adhesions,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021493,C0022116,PREVENTS,"Injections, Intraperitoneal",Ischemia,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021589,C1373218,PREVENTS,"Insemination, Artificial, Homologous",Decreased Immunologic Activity [PE],topp,patf,1,PREVENTS_TOPPprevPATF
+C0021925,C0004144,PREVENTS,Intubation,Atelectasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021925,C0015376,PREVENTS,Intubation,Extravasation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021925,C0028778,PREVENTS,Intubation,Obstruction,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021925,C0242184,PREVENTS,Intubation,Hypoxia,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021925,C0242781,PREVENTS,Intubation,disease transmission,topp,patf,3,PREVENTS_TOPPprevPATF
+C0021932,C0161816,PREVENTS,"Intubation, Intratracheal",Cardiac complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021932,C0161819,PREVENTS,"Intubation, Intratracheal",Gastrointestinal complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0022100,C0038941,PREVENTS,Irrigation,Surgical Wound Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0022100,C0162633,PREVENTS,Irrigation,Viral Shedding,topp,patf,1,PREVENTS_TOPPprevPATF
+C0022100,C0332448,PREVENTS,Irrigation,Infiltration,topp,patf,1,PREVENTS_TOPPprevPATF
+C0023690,C0019080,PREVENTS,Ligation,Hemorrhage,topp,patf,2,PREVENTS_TOPPprevPATF
+C0023690,C0021368,PREVENTS,Ligation,Inflammation,topp,patf,2,PREVENTS_TOPPprevPATF
+C0023690,C0036974,PREVENTS,Ligation,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0023690,C0079027,PREVENTS,Ligation,Intraoperative Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0023690,C0333106,PREVENTS,Ligation,Bleeding varices,topp,patf,1,PREVENTS_TOPPprevPATF
+C0023690,C0442856,PREVENTS,Ligation,Hypoperfusion,topp,patf,1,PREVENTS_TOPPprevPATF
+C0024128,C0948031,PREVENTS,Lung Transplantation,Primary Graft Dysfunction,topp,patf,1,PREVENTS_TOPPprevPATF
+C0024875,C0013922,PREVENTS,Massage,Embolism,topp,patf,1,PREVENTS_TOPPprevPATF
+C0029216,C0815080,PREVENTS,Organ Transplantation,organ rejection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0030547,C3714514,PREVENTS,Parenteral Nutrition,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0030693,C0242781,PREVENTS,Patient Isolation,disease transmission,topp,patf,2,PREVENTS_TOPPprevPATF
+C0032042,C0000832,PREVENTS,Placebos,Abruptio Placentae,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032042,C0016059,PREVENTS,Placebos,Fibrosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032042,C0021368,PREVENTS,Placebos,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032042,C0026766,PREVENTS,Placebos,Multiple Organ Failure,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032042,C0043241,PREVENTS,Placebos,Wound Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032042,C0085298,PREVENTS,Placebos,Sudden Cardiac Death,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032042,C0087086,PREVENTS,Placebos,Thrombus,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032042,C3714514,PREVENTS,Placebos,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032042,C4061114,PREVENTS,Placebos,Acute illness,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032113,C0087086,PREVENTS,Plasma Exchange,Thrombus,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032113,C0242656,PREVENTS,Plasma Exchange,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032740,C0004144,PREVENTS,Positive End-Expiratory Pressure,Atelectasis,topp,patf,9,PREVENTS_TOPPprevPATF
+C0032740,C0013604,PREVENTS,Positive End-Expiratory Pressure,Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032740,C0034063,PREVENTS,Positive End-Expiratory Pressure,Pulmonary Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0032740,C0036974,PREVENTS,Positive End-Expiratory Pressure,Shock,topp,patf,14,PREVENTS_TOPPprevPATF
+C0032740,C0161818,PREVENTS,Positive End-Expiratory Pressure,Respiratory complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0033045,C0020517,PREVENTS,Premedication,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0034115,C3714514,PREVENTS,Paracentesis,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0034386,C0021368,PREVENTS,Quarantine,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0034386,C0036974,PREVENTS,Quarantine,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0034386,C0242648,PREVENTS,Quarantine,Vertical Disease Transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0034386,C0242781,PREVENTS,Quarantine,disease transmission,topp,patf,9,PREVENTS_TOPPprevPATF
+C0034386,C0392618,PREVENTS,Quarantine,Postoperative infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0034386,C0543419,PREVENTS,Quarantine,Sequela of disorder,topp,patf,1,PREVENTS_TOPPprevPATF
+C0034386,C3714514,PREVENTS,Quarantine,Infection,topp,patf,7,PREVENTS_TOPPprevPATF
+C0035016,C0021368,PREVENTS,Rejuvenation,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0035139,C0020683,PREVENTS,Surgical Replantation,Hypovolemic Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0035139,C0031542,PREVENTS,Surgical Replantation,Phlebitis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0035139,C0036974,PREVENTS,Surgical Replantation,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0035139,C0242184,PREVENTS,Surgical Replantation,Hypoxia,topp,patf,1,PREVENTS_TOPPprevPATF
+C0035205,C1155266,PREVENTS,"Respiration, Artificial",Inflammatory Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C0035239,C0004144,PREVENTS,Respiratory Therapy,Atelectasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0035273,C0019080,PREVENTS,Resuscitation procedure,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0035273,C0546817,PREVENTS,Resuscitation procedure,Fluid overload,topp,patf,1,PREVENTS_TOPPprevPATF
+C0035273,C1262023,PREVENTS,Resuscitation procedure,dilutional coagulopathy,topp,patf,1,PREVENTS_TOPPprevPATF
+C0035273,C2886794,PREVENTS,Resuscitation procedure,Catheter related bloodstream infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0035273,C3838785,PREVENTS,Resuscitation procedure,Catheter-associated urinary tract infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0036435,C0019080,PREVENTS,Sclerotherapy,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0037297,C2004491,PREVENTS,Skin Transplantation,Cicatrix,topp,patf,1,PREVENTS_TOPPprevPATF
+C0038288,C0242781,PREVENTS,Sexual sterilization,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0038288,C3714514,PREVENTS,Sexual sterilization,Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C0038903,C0333257,PREVENTS,Pulmonary Surgical Procedures,Air leakage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0039991,C0012359,PREVENTS,Thoracotomy,Pathological Dilatation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040290,C0004144,PREVENTS,Tissue Expansion,Atelectasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040590,C0028778,PREVENTS,Tracheostomy procedure,Obstruction,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040590,C0036974,PREVENTS,Tracheostomy procedure,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040732,C0017639,PREVENTS,Transplantation,Gliosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040732,C0021368,PREVENTS,Transplantation,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040732,C0162633,PREVENTS,Transplantation,Viral Shedding,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040732,C0392618,PREVENTS,Transplantation,Postoperative infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040732,C0815080,PREVENTS,Transplantation,organ rejection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040732,C1262018,PREVENTS,Transplantation,Graft failure,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040732,C1373218,PREVENTS,Transplantation,Decreased Immunologic Activity [PE],topp,patf,2,PREVENTS_TOPPprevPATF
+C0040732,C3714514,PREVENTS,Transplantation,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040736,C0034063,PREVENTS,"Transplantation, Autologous",Pulmonary Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040736,C0333563,PREVENTS,"Transplantation, Autologous",Hyaline membrane,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040739,C0021368,PREVENTS,"Transplantation, Homologous",Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040739,C0242781,PREVENTS,"Transplantation, Homologous",disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040739,C1373218,PREVENTS,"Transplantation, Homologous",Decreased Immunologic Activity [PE],topp,patf,1,PREVENTS_TOPPprevPATF
+C0040808,C0013609,PREVENTS,Treatment Protocols,Localized Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040808,C0021368,PREVENTS,Treatment Protocols,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040808,C0036974,PREVENTS,Treatment Protocols,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040808,C0162633,PREVENTS,Treatment Protocols,Viral Shedding,topp,patf,2,PREVENTS_TOPPprevPATF
+C0040808,C0332448,PREVENTS,Treatment Protocols,Infiltration,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040861,C0242656,PREVENTS,Triage,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0040861,C0242781,PREVENTS,Triage,disease transmission,topp,patf,2,PREVENTS_TOPPprevPATF
+C0041281,C0019080,PREVENTS,Tube feeding of patient,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0042196,C0001122,PREVENTS,Vaccination,Acidosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0042196,C0011304,PREVENTS,Vaccination,Demyelination,topp,patf,1,PREVENTS_TOPPprevPATF
+C0042196,C0020517,PREVENTS,Vaccination,Hypersensitivity,topp,patf,4,PREVENTS_TOPPprevPATF
+C0042196,C0021359,PREVENTS,Vaccination,Infertility,topp,patf,1,PREVENTS_TOPPprevPATF
+C0042196,C0022876,PREVENTS,Vaccination,Premature Obstetric Labor,topp,patf,1,PREVENTS_TOPPprevPATF
+C0042196,C0151526,PREVENTS,Vaccination,Premature Birth,topp,patf,1,PREVENTS_TOPPprevPATF
+C0042196,C0162633,PREVENTS,Vaccination,Viral Shedding,topp,patf,12,PREVENTS_TOPPprevPATF
+C0042196,C0242648,PREVENTS,Vaccination,Vertical Disease Transmission,topp,patf,2,PREVENTS_TOPPprevPATF
+C0042196,C0242656,PREVENTS,Vaccination,Disease Progression,topp,patf,2,PREVENTS_TOPPprevPATF
+C0042196,C0242781,PREVENTS,Vaccination,disease transmission,topp,patf,13,PREVENTS_TOPPprevPATF
+C0042196,C0281169,PREVENTS,Vaccination,Pulmonary Complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0042196,C0543419,PREVENTS,Vaccination,Sequela of disorder,topp,patf,3,PREVENTS_TOPPprevPATF
+C0042196,C0848898,PREVENTS,Vaccination,Neonatal morbidity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0042196,C1155266,PREVENTS,Vaccination,Inflammatory Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C0042196,C1520005,PREVENTS,Vaccination,Viral Pathogenesis,topp,patf,2,PREVENTS_TOPPprevPATF
+C0042196,C3714514,PREVENTS,Vaccination,Infection,topp,patf,38,PREVENTS_TOPPprevPATF
+C0042196,C4061114,PREVENTS,Vaccination,Acute illness,topp,patf,1,PREVENTS_TOPPprevPATF
+C0042200,C0151526,PREVENTS,Influenza vaccination,Premature Birth,topp,patf,2,PREVENTS_TOPPprevPATF
+C0042200,C0376297,PREVENTS,Influenza vaccination,Cardiac Death,topp,patf,1,PREVENTS_TOPPprevPATF
+C0042200,C0543419,PREVENTS,Influenza vaccination,Sequela of disorder,topp,patf,1,PREVENTS_TOPPprevPATF
+C0042200,C3714514,PREVENTS,Influenza vaccination,Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C0052712,C3714514,PREVENTS,doxorubicin/mitomycin/vinblastine protocol,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0056633,C0235912,PREVENTS,cyclophosphamide/prednisone/vincristine protocol,Hemorrhage of liver,topp,patf,1,PREVENTS_TOPPprevPATF
+C0056633,C0546817,PREVENTS,cyclophosphamide/prednisone/vincristine protocol,Fluid overload,topp,patf,1,PREVENTS_TOPPprevPATF
+C0065764,C0021368,PREVENTS,bleomycin/cisplatin/methotrexate protocol,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0078140,C0546817,PREVENTS,bleomycin/methotrexate/vincristine protocol,Fluid overload,topp,patf,1,PREVENTS_TOPPprevPATF
+C0078944,C0235063,PREVENTS,Patient-Controlled Analgesia,Respiratory Depression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0079613,C1516670,PREVENTS,Adoptive Immunotherapy,Clonal Expansion,topp,patf,1,PREVENTS_TOPPprevPATF
+C0082139,C0087086,PREVENTS,Cyclophosphamide/Dexamethasone/Doxorubicin/Vincristine,Thrombus,topp,patf,1,PREVENTS_TOPPprevPATF
+C0083765,C1373218,PREVENTS,fluorouracil/methotrexate/mitoxantrone protocol,Decreased Immunologic Activity [PE],topp,patf,1,PREVENTS_TOPPprevPATF
+C0085405,C0020517,PREVENTS,Salvage Therapy,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0085430,C0232100,PREVENTS,Blood Component Transfusion,Exsanguination,topp,patf,1,PREVENTS_TOPPprevPATF
+C0085671,C0860239,PREVENTS,Dressing change,Catheter related infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0086153,C0032787,PREVENTS,Dietary Modification,Postoperative Complications,topp,patf,1,PREVENTS_TOPPprevPATF
+C0086225,C0017181,PREVENTS,Enteral Feeding,Gastrointestinal Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0086225,C0019080,PREVENTS,Enteral Feeding,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0086252,C0242184,PREVENTS,Red Blood Cell Transfusion,Hypoxia,topp,patf,1,PREVENTS_TOPPprevPATF
+C0086818,C0019080,PREVENTS,Platelet Transfusion,Hemorrhage,topp,patf,3,PREVENTS_TOPPprevPATF
+C0086915,C0004144,PREVENTS,"Drainage, Postural",Atelectasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0149533,C0019080,PREVENTS,Control of hemorrhage,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0149783,C0020517,PREVENTS,Steroid therapy,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0149783,C0021368,PREVENTS,Steroid therapy,Inflammation,topp,patf,2,PREVENTS_TOPPprevPATF
+C0149783,C0242656,PREVENTS,Steroid therapy,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0149783,C1155266,PREVENTS,Steroid therapy,Inflammatory Response,topp,patf,2,PREVENTS_TOPPprevPATF
+C0150141,C3714514,PREVENTS,Bathing,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0150315,C0041755,PREVENTS,Pressure Ulcer Prevention,Adverse reaction to drug,topp,patf,1,PREVENTS_TOPPprevPATF
+C0150457,C0040053,PREVENTS,Anticoagulant therapy,Thrombosis,topp,patf,3,PREVENTS_TOPPprevPATF
+C0150457,C0087086,PREVENTS,Anticoagulant therapy,Thrombus,topp,patf,1,PREVENTS_TOPPprevPATF
+C0150638,C3714514,PREVENTS,Preventing injury,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0152060,C0700148,PREVENTS,Transection (procedure),Congestion,topp,patf,1,PREVENTS_TOPPprevPATF
+C0152060,C1155266,PREVENTS,Transection (procedure),Inflammatory Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C0152060,C3714514,PREVENTS,Transection (procedure),Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0152060,C4287874,PREVENTS,Transection (procedure),Droplet transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0162352,C0020517,PREVENTS,Allergen Immunotherapy,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0162563,C0036974,PREVENTS,Cardiac ablation,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0184898,C0043241,PREVENTS,Surgical incisions,Wound Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C0184898,C0333257,PREVENTS,Surgical incisions,Air leakage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0184904,C0242656,PREVENTS,Slitting,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0184967,C0015376,PREVENTS,Insertion of pack (procedure),Extravasation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0185003,C0019080,PREVENTS,Reparative closure,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0185003,C3714514,PREVENTS,Reparative closure,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0185060,C0242781,PREVENTS,Crushing procedure,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0185115,C0018944,PREVENTS,Extraction,Hematoma,topp,patf,1,PREVENTS_TOPPprevPATF
+C0185115,C0020517,PREVENTS,Extraction,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0185115,C0021368,PREVENTS,Extraction,Inflammation,topp,patf,2,PREVENTS_TOPPprevPATF
+C0185115,C0242781,PREVENTS,Extraction,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0185115,C0262627,PREVENTS,Extraction,Seroma,topp,patf,2,PREVENTS_TOPPprevPATF
+C0185115,C0443146,PREVENTS,Extraction,Autoimmune reaction,topp,patf,1,PREVENTS_TOPPprevPATF
+C0185115,C0860239,PREVENTS,Extraction,Catheter related infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0189557,C0013687,PREVENTS,Pleurodesis,effusion,topp,patf,1,PREVENTS_TOPPprevPATF
+C0189621,C0034063,PREVENTS,Injection of cardiovascular system,Pulmonary Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0189760,C0013926,PREVENTS,Incision of atrium of heart,Air Embolism,topp,patf,1,PREVENTS_TOPPprevPATF
+C0193959,C0700148,PREVENTS,Tonsillectomy and adenoidectomy,Congestion,topp,patf,2,PREVENTS_TOPPprevPATF
+C0194423,C0028778,PREVENTS,Bladder irrigation procedure,Obstruction,topp,patf,1,PREVENTS_TOPPprevPATF
+C0194907,C0021359,PREVENTS,Orchidopexy,Infertility,topp,patf,1,PREVENTS_TOPPprevPATF
+C0198807,C0235063,PREVENTS,Peripheral block anesthesia,Respiratory Depression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199176,C0020517,PREVENTS,Prophylactic treatment,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199176,C0021368,PREVENTS,Prophylactic treatment,Inflammation,topp,patf,3,PREVENTS_TOPPprevPATF
+C0199176,C0026766,PREVENTS,Prophylactic treatment,Multiple Organ Failure,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199176,C0029445,PREVENTS,Prophylactic treatment,Bone necrosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199176,C0040038,PREVENTS,Prophylactic treatment,Thromboembolism,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199176,C0151521,PREVENTS,Prophylactic treatment,Bacterial resistance,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199176,C0161818,PREVENTS,Prophylactic treatment,Respiratory complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199176,C0242656,PREVENTS,Prophylactic treatment,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199176,C0242781,PREVENTS,Prophylactic treatment,disease transmission,topp,patf,7,PREVENTS_TOPPprevPATF
+C0199176,C0333641,PREVENTS,Prophylactic treatment,Atrophic,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199176,C1739123,PREVENTS,Prophylactic treatment,Febrile nonhemolytic transfusion reaction,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199176,C3714514,PREVENTS,Prophylactic treatment,Infection,topp,patf,5,PREVENTS_TOPPprevPATF
+C0199451,C0004144,PREVENTS,Continuous Positive Airway Pressure,Atelectasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199451,C0021368,PREVENTS,Continuous Positive Airway Pressure,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199451,C0036974,PREVENTS,Continuous Positive Airway Pressure,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199451,C0333641,PREVENTS,Continuous Positive Airway Pressure,Atrophic,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199470,C0004144,PREVENTS,Mechanical ventilation,Atelectasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199470,C0012359,PREVENTS,Mechanical ventilation,Pathological Dilatation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199470,C0015376,PREVENTS,Mechanical ventilation,Extravasation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199470,C0036974,PREVENTS,Mechanical ventilation,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199470,C0161816,PREVENTS,Mechanical ventilation,Cardiac complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199470,C0161819,PREVENTS,Mechanical ventilation,Gastrointestinal complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199470,C0240059,PREVENTS,Mechanical ventilation,Ventricular hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199470,C0860239,PREVENTS,Mechanical ventilation,Catheter related infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199470,C1155266,PREVENTS,Mechanical ventilation,Inflammatory Response,topp,patf,2,PREVENTS_TOPPprevPATF
+C0199779,C0021368,PREVENTS,Administration of antibiotic,Inflammation,topp,patf,2,PREVENTS_TOPPprevPATF
+C0199779,C0151526,PREVENTS,Administration of antibiotic,Premature Birth,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199779,C0333367,PREVENTS,Administration of antibiotic,Acute mucous inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199779,C3203360,PREVENTS,Administration of antibiotic,Suppuration,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199779,C3714514,PREVENTS,Administration of antibiotic,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199798,C3714514,PREVENTS,human vaccination,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199804,C0242656,PREVENTS,Vaccination against tuberculosis,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199804,C3714514,PREVENTS,Vaccination against tuberculosis,Infection,topp,patf,3,PREVENTS_TOPPprevPATF
+C0199810,C3714514,PREVENTS,Measles-mumps-rubella vaccination,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199848,C3714514,PREVENTS,Coronavirus vaccination,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199859,C3714514,PREVENTS,Deworming,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0199963,C0026766,PREVENTS,Serum transfusion,Multiple Organ Failure,topp,patf,1,PREVENTS_TOPPprevPATF
+C0204727,C0020517,PREVENTS,Isolation procedure,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0204727,C0021368,PREVENTS,Isolation procedure,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0204727,C0036974,PREVENTS,Isolation procedure,Shock,topp,patf,2,PREVENTS_TOPPprevPATF
+C0204727,C0162633,PREVENTS,Isolation procedure,Viral Shedding,topp,patf,1,PREVENTS_TOPPprevPATF
+C0204727,C0242656,PREVENTS,Isolation procedure,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0204727,C0242781,PREVENTS,Isolation procedure,disease transmission,topp,patf,11,PREVENTS_TOPPprevPATF
+C0204727,C0543419,PREVENTS,Isolation procedure,Sequela of disorder,topp,patf,1,PREVENTS_TOPPprevPATF
+C0204727,C0742007,PREVENTS,Isolation procedure,catheter sepsis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0204727,C0860239,PREVENTS,Isolation procedure,Catheter related infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0204727,C2886794,PREVENTS,Isolation procedure,Catheter related bloodstream infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0204727,C3714514,PREVENTS,Isolation procedure,Infection,topp,patf,9,PREVENTS_TOPPprevPATF
+C0204774,C0242781,PREVENTS,Soaking Procedure,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0204819,C0019080,PREVENTS,"Intubation, Nasogastric",Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0206058,C0242781,PREVENTS,Elective Surgical Procedures,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0206058,C3714514,PREVENTS,Elective Surgical Procedures,Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C0206074,C0546817,PREVENTS,Renal Replacement Therapy,Fluid overload,topp,patf,1,PREVENTS_TOPPprevPATF
+C0242388,C3714514,PREVENTS,Phytotherapy,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0242739,C0342579,PREVENTS,Nutritional Support,Electrolyte imbalance,topp,patf,1,PREVENTS_TOPPprevPATF
+C0242972,C3714514,PREVENTS,"Diet, Protein-Restricted",Infection,topp,patf,3,PREVENTS_TOPPprevPATF
+C0262732,C0023183,PREVENTS,Surgical precautions,"Leakage, gas",topp,patf,1,PREVENTS_TOPPprevPATF
+C0279033,C3714514,PREVENTS,Replacement therapy,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0279494,C0002994,PREVENTS,Estrogen Therapy,Angioedema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0279495,C0000786,PREVENTS,Progestogen hormone therapy,Spontaneous abortion,topp,patf,1,PREVENTS_TOPPprevPATF
+C0279934,C0242184,PREVENTS,chlorambucil/etoposide/lomustine,Hypoxia,topp,patf,1,PREVENTS_TOPPprevPATF
+C0280274,C0004366,PREVENTS,Antiviral Therapy,Autoimmune Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C0280274,C0021368,PREVENTS,Antiviral Therapy,Inflammation,topp,patf,2,PREVENTS_TOPPprevPATF
+C0280274,C1155266,PREVENTS,Antiviral Therapy,Inflammatory Response,topp,patf,2,PREVENTS_TOPPprevPATF
+C0280274,C1373218,PREVENTS,Antiviral Therapy,Decreased Immunologic Activity [PE],topp,patf,2,PREVENTS_TOPPprevPATF
+C0280274,C1832055,PREVENTS,Antiviral Therapy,Hepatic Complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0280274,C3714514,PREVENTS,Antiviral Therapy,Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C0280580,C0018273,PREVENTS,doxorubicin/fluorouracil protocol,Growth Disorders,topp,patf,1,PREVENTS_TOPPprevPATF
+C0281178,C0021368,PREVENTS,Anti-Cytokine Therapy,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0281481,C0021368,PREVENTS,Anti-Tumor Necrosis Factor Therapy,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0282515,C0020517,PREVENTS,Chemoprevention,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0282515,C0242781,PREVENTS,Chemoprevention,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0282515,C3714514,PREVENTS,Chemoprevention,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0282515,C4061114,PREVENTS,Chemoprevention,Acute illness,topp,patf,1,PREVENTS_TOPPprevPATF
+C0282638,C0043241,PREVENTS,Antibiotic Prophylaxis,Wound Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0282638,C0392618,PREVENTS,Antibiotic Prophylaxis,Postoperative infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0282638,C3714514,PREVENTS,Antibiotic Prophylaxis,Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C0349707,C0004144,PREVENTS,Aspiration-action,Atelectasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0374711,C0543419,PREVENTS,Surgical repair,Sequela of disorder,topp,patf,1,PREVENTS_TOPPprevPATF
+C0376450,C1262018,PREVENTS,Transplantation Conditioning,Graft failure,topp,patf,1,PREVENTS_TOPPprevPATF
+C0376495,C1373218,PREVENTS,Retreatments,Decreased Immunologic Activity [PE],topp,patf,1,PREVENTS_TOPPprevPATF
+C0376518,C0011304,PREVENTS,Adoptive Transfer,Demyelination,topp,patf,4,PREVENTS_TOPPprevPATF
+C0376518,C0021368,PREVENTS,Adoptive Transfer,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0376518,C0028778,PREVENTS,Adoptive Transfer,Obstruction,topp,patf,1,PREVENTS_TOPPprevPATF
+C0376518,C2936381,PREVENTS,Adoptive Transfer,Neointima Formation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0376518,C3714514,PREVENTS,Adoptive Transfer,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0376530,C0036974,PREVENTS,"Decompression, Surgical",Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0392877,C0019080,PREVENTS,infusion of drug,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0396670,C0162633,PREVENTS,Isolated limb perfusion,Viral Shedding,topp,patf,1,PREVENTS_TOPPprevPATF
+C0398162,C3665429,PREVENTS,Distal splenorenal anastomosis,Recurrent hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0398275,C3714514,PREVENTS,Central venous cannula insertion,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0418981,C0085298,PREVENTS,Medical therapy,Sudden Cardiac Death,topp,patf,1,PREVENTS_TOPPprevPATF
+C0419707,C3714514,PREVENTS,Pneumococcal vaccination,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0419786,C0242781,PREVENTS,Infection surveillance,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0420187,C0026766,PREVENTS,Metabolic monitoring procedure,Multiple Organ Failure,topp,patf,1,PREVENTS_TOPPprevPATF
+C0436307,C3714514,PREVENTS,Chemoradiotherapy,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0439775,C0001349,PREVENTS,Elevation procedure,Acute-Phase Reaction,topp,patf,1,PREVENTS_TOPPprevPATF
+C0439775,C0013604,PREVENTS,Elevation procedure,Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0439775,C0040053,PREVENTS,Elevation procedure,Thrombosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0441509,C0013604,PREVENTS,Coagulation procedure,Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0441509,C0019080,PREVENTS,Coagulation procedure,Hemorrhage,topp,patf,4,PREVENTS_TOPPprevPATF
+C0441509,C0021368,PREVENTS,Coagulation procedure,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0441509,C0022116,PREVENTS,Coagulation procedure,Ischemia,topp,patf,1,PREVENTS_TOPPprevPATF
+C0441509,C0040053,PREVENTS,Coagulation procedure,Thrombosis,topp,patf,2,PREVENTS_TOPPprevPATF
+C0441509,C0151942,PREVENTS,Coagulation procedure,Arterial thrombosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0441516,C3714514,PREVENTS,Demand (clinical),Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0452260,C0026846,PREVENTS,Muscular strength development exercise,Muscular Atrophy,topp,patf,1,PREVENTS_TOPPprevPATF
+C0452376,C3714514,PREVENTS,Elimination diet,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0452378,C0020546,PREVENTS,Low tyramine diet,Hypertensive crisis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0452410,C3714514,PREVENTS,Balanced diet,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0454369,C0042487,PREVENTS,Ankle exercises,Venous Thrombosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0454512,C0004144,PREVENTS,Incentive spirometry,Atelectasis,topp,patf,3,PREVENTS_TOPPprevPATF
+C0454512,C0032787,PREVENTS,Incentive spirometry,Postoperative Complications,topp,patf,1,PREVENTS_TOPPprevPATF
+C0454512,C0161818,PREVENTS,Incentive spirometry,Respiratory complication,topp,patf,2,PREVENTS_TOPPprevPATF
+C0454512,C0242656,PREVENTS,Incentive spirometry,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0459914,C0034063,PREVENTS,Conservative Treatment,Pulmonary Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0459914,C0162633,PREVENTS,Conservative Treatment,Viral Shedding,topp,patf,1,PREVENTS_TOPPprevPATF
+C0472569,C0032787,PREVENTS,Tracheo-esophageal puncture procedure,Postoperative Complications,topp,patf,1,PREVENTS_TOPPprevPATF
+C0472699,C0392707,PREVENTS,Hemopoietic stem cell transplant,Atopy,topp,patf,1,PREVENTS_TOPPprevPATF
+C0472699,C1832055,PREVENTS,Hemopoietic stem cell transplant,Hepatic Complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0520484,C3714514,PREVENTS,Xenograft procedure,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0521213,C0019080,PREVENTS,Closure by clamp,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0521213,C0240059,PREVENTS,Closure by clamp,Ventricular hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0521213,C4289682,PREVENTS,Closure by clamp,Direct Transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0524811,C3714514,PREVENTS,Dose Fractionation,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0524865,C0027686,PREVENTS,Reconstructive Surgical Procedures,Pathologic Neovascularization,topp,patf,1,PREVENTS_TOPPprevPATF
+C0543467,C0019080,PREVENTS,Operative Surgical Procedures,Hemorrhage,topp,patf,5,PREVENTS_TOPPprevPATF
+C0543467,C0036974,PREVENTS,Operative Surgical Procedures,Shock,topp,patf,2,PREVENTS_TOPPprevPATF
+C0543467,C0235063,PREVENTS,Operative Surgical Procedures,Respiratory Depression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0543467,C0242781,PREVENTS,Operative Surgical Procedures,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0543467,C0281169,PREVENTS,Operative Surgical Procedures,Pulmonary Complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0543467,C0392618,PREVENTS,Operative Surgical Procedures,Postoperative infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0543467,C0700148,PREVENTS,Operative Surgical Procedures,Congestion,topp,patf,1,PREVENTS_TOPPprevPATF
+C0543467,C0742007,PREVENTS,Operative Surgical Procedures,catheter sepsis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0543467,C0860239,PREVENTS,Operative Surgical Procedures,Catheter related infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0543467,C2886794,PREVENTS,Operative Surgical Procedures,Catheter related bloodstream infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0543467,C3714514,PREVENTS,Operative Surgical Procedures,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0543467,C4545429,PREVENTS,Operative Surgical Procedures,Perioperative complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0545447,C3838785,PREVENTS,monitoring temperature,Catheter-associated urinary tract infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0547070,C0021368,PREVENTS,Ablation,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0547070,C0151763,PREVENTS,Ablation,Liver damage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0547070,C0332448,PREVENTS,Ablation,Infiltration,topp,patf,1,PREVENTS_TOPPprevPATF
+C0553741,C0013604,PREVENTS,Fluid Management,Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0553741,C0032787,PREVENTS,Fluid Management,Postoperative Complications,topp,patf,1,PREVENTS_TOPPprevPATF
+C0553741,C0546817,PREVENTS,Fluid Management,Fluid overload,topp,patf,1,PREVENTS_TOPPprevPATF
+C0554804,C0004144,PREVENTS,Assisted breathing,Atelectasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0554804,C0333641,PREVENTS,Assisted breathing,Atrophic,topp,patf,1,PREVENTS_TOPPprevPATF
+C0554804,C1167870,PREVENTS,Assisted breathing,Graft dysfunction,topp,patf,1,PREVENTS_TOPPprevPATF
+C0557061,C3714514,PREVENTS,Discussion (procedure),Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0574032,C0015376,PREVENTS,Infusion procedures,Extravasation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0574032,C0019080,PREVENTS,Infusion procedures,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0574032,C0087086,PREVENTS,Infusion procedures,Thrombus,topp,patf,2,PREVENTS_TOPPprevPATF
+C0574135,C1155266,PREVENTS,Oral steroid therapy,Inflammatory Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C0580646,C3714514,PREVENTS,Integumentary system repair,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0588453,C0034194,PREVENTS,Gastric drainage procedure,Pyloric Stenosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0597092,C4534318,PREVENTS,nosocomial infection control,Catheter-related blood stream infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0597750,C0035228,PREVENTS,antigen challenge,Respiratory Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0599082,C0021368,PREVENTS,cellular sensitization,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0600080,C0026846,PREVENTS,Stretching exercises,Muscular Atrophy,topp,patf,1,PREVENTS_TOPPprevPATF
+C0600249,C3714514,PREVENTS,"Immunotherapy, Passive",Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0600250,C0282474,PREVENTS,Passive Antibody Transfer,Maternal-Fetal Infection Transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0600558,C0301946,PREVENTS,Neoadjuvant Therapy,Acute cellular graft rejection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0600558,C1566590,PREVENTS,Neoadjuvant Therapy,Delayed Graft Function,topp,patf,1,PREVENTS_TOPPprevPATF
+C0669206,C0919924,PREVENTS,FTM protocol,pulmonary toxicity,topp,patf,1,PREVENTS_TOPPprevPATF
+C0677850,C1155266,PREVENTS,Adjuvant Therapy,Inflammatory Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C0677850,C1373218,PREVENTS,Adjuvant Therapy,Decreased Immunologic Activity [PE],topp,patf,1,PREVENTS_TOPPprevPATF
+C0677908,C0242656,PREVENTS,Maintenance therapy,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C0677908,C3665429,PREVENTS,Maintenance therapy,Recurrent hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C0678026,C0013922,PREVENTS,Antifungal therapy,Embolism,topp,patf,1,PREVENTS_TOPPprevPATF
+C0678026,C0020517,PREVENTS,Antifungal therapy,Hypersensitivity,topp,patf,2,PREVENTS_TOPPprevPATF
+C0678812,C0021368,PREVENTS,systemic administration,Inflammation,topp,patf,2,PREVENTS_TOPPprevPATF
+C0678812,C0036974,PREVENTS,systemic administration,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0679651,C0034063,PREVENTS,directive therapy,Pulmonary Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C0679651,C0040038,PREVENTS,directive therapy,Thromboembolism,topp,patf,1,PREVENTS_TOPPprevPATF
+C0679698,C0038941,PREVENTS,disease prevention,Surgical Wound Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0679698,C0242781,PREVENTS,disease prevention,disease transmission,topp,patf,2,PREVENTS_TOPPprevPATF
+C0679698,C3714514,PREVENTS,disease prevention,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0679698,C4289744,PREVENTS,disease prevention,Contact Transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0679699,C3714514,PREVENTS,Secondary Prevention,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0679750,C3714514,PREVENTS,prevention through information dissemination,Infection,topp,patf,3,PREVENTS_TOPPprevPATF
+C0683465,C0016059,PREVENTS,novel AODU treatment method,Fibrosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C0683465,C0543419,PREVENTS,novel AODU treatment method,Sequela of disorder,topp,patf,1,PREVENTS_TOPPprevPATF
+C0683465,C1155266,PREVENTS,novel AODU treatment method,Inflammatory Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C0695341,C0151526,PREVENTS,common procedures,Premature Birth,topp,patf,1,PREVENTS_TOPPprevPATF
+C0740413,C0242648,PREVENTS,Tuberculosis prophylaxis,Vertical Disease Transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0740857,C0021368,PREVENTS,albuterol treatment,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0741614,C3714514,PREVENTS,Intestine Resection,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0747973,C3714514,PREVENTS,Elective procedure,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0748359,C3714514,PREVENTS,Respiratory isolation,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0751363,C3714514,PREVENTS,natural remedies,Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C0751429,C0038941,PREVENTS,"Surgical Procedures, Laparoscopic",Surgical Wound Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0814435,C0161818,PREVENTS,early identification,Respiratory complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C0814435,C0242781,PREVENTS,early identification,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C0814435,C3714514,PREVENTS,early identification,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0850173,C2004491,PREVENTS,skin Healing,Cicatrix,topp,patf,1,PREVENTS_TOPPprevPATF
+C0854637,C0021368,PREVENTS,androgen replacement therapy,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0860380,C0021368,PREVENTS,g-csf therapy,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C0870527,C2609236,PREVENTS,Exposure Therapy,Vaccine related complications,topp,patf,1,PREVENTS_TOPPprevPATF
+C0870810,C3714514,PREVENTS,lifesaving,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0872104,C0000786,PREVENTS,Assisted Reproductive Technologies,Spontaneous abortion,topp,patf,1,PREVENTS_TOPPprevPATF
+C0886052,C3714514,PREVENTS,wound care,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0919689,C1373218,PREVENTS,Donor leukocyte infusion,Decreased Immunologic Activity [PE],topp,patf,1,PREVENTS_TOPPprevPATF
+C0920425,C3714514,PREVENTS,Cancer Therapeutic Procedure,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0920467,C0432485,PREVENTS,disorder control (procedure),complication of transplant,topp,patf,1,PREVENTS_TOPPprevPATF
+C0920467,C3714514,PREVENTS,disorder control (procedure),Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0920619,C0041755,PREVENTS,neoplasm therapy,Adverse reaction to drug,topp,patf,1,PREVENTS_TOPPprevPATF
+C0947647,C0021368,PREVENTS,Manipulation procedure,Inflammation,topp,patf,2,PREVENTS_TOPPprevPATF
+C0947647,C0036983,PREVENTS,Manipulation procedure,Septic Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0947647,C0040038,PREVENTS,Manipulation procedure,Thromboembolism,topp,patf,1,PREVENTS_TOPPprevPATF
+C0947647,C3714514,PREVENTS,Manipulation procedure,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0947746,C0036974,PREVENTS,Gastrointestinal Therapies,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C0949766,C0004144,PREVENTS,Physical therapy,Atelectasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C1096021,C0151942,PREVENTS,antiplatelet therapy,Arterial thrombosis,topp,patf,2,PREVENTS_TOPPprevPATF
+C1116142,C3714514,PREVENTS,Transfusion of granulocytes,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C1135929,C3714514,PREVENTS,Mass Vaccination,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C1138412,C0020517,PREVENTS,"Diet, Mediterranean",Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C1138412,C0021368,PREVENTS,"Diet, Mediterranean",Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C1138412,C0392707,PREVENTS,"Diet, Mediterranean",Atopy,topp,patf,1,PREVENTS_TOPPprevPATF
+C1141958,C1373218,PREVENTS,anti-infective therapy,Decreased Immunologic Activity [PE],topp,patf,1,PREVENTS_TOPPprevPATF
+C1261381,C3714514,PREVENTS,Destructive procedure (surgical),Infection,topp,patf,3,PREVENTS_TOPPprevPATF
+C1280903,C0021368,PREVENTS,Exploration procedure,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C1282573,C3714514,PREVENTS,Evacuation procedure,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C1282573,C4287874,PREVENTS,Evacuation procedure,Droplet transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C1292856,C1516670,PREVENTS,Stimulation procedure,Clonal Expansion,topp,patf,1,PREVENTS_TOPPprevPATF
+C1293130,C0036974,PREVENTS,Stabilization,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C1293130,C1155266,PREVENTS,Stabilization,Inflammatory Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C1298802,C0032787,PREVENTS,Emergency procedure,Postoperative Complications,topp,patf,1,PREVENTS_TOPPprevPATF
+C1298805,C0015376,PREVENTS,Routine procedure,Extravasation,topp,patf,1,PREVENTS_TOPPprevPATF
+C1299597,C0020517,PREVENTS,Empirical therapy,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
+C1321916,C0021368,PREVENTS,cisplatin/etoposide/vindesine protocol,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C1321916,C0034063,PREVENTS,cisplatin/etoposide/vindesine protocol,Pulmonary Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C1443861,C0162633,PREVENTS,Post-Exposure Prophylaxis,Viral Shedding,topp,patf,1,PREVENTS_TOPPprevPATF
+C1443861,C0242781,PREVENTS,Post-Exposure Prophylaxis,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C1443861,C3714514,PREVENTS,Post-Exposure Prophylaxis,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C1443867,C0242781,PREVENTS,Standard precautions,disease transmission,topp,patf,3,PREVENTS_TOPPprevPATF
+C1443867,C3714514,PREVENTS,Standard precautions,Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C1443867,C4289744,PREVENTS,Standard precautions,Contact Transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C1443869,C3714514,PREVENTS,Airborne precautions,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C1443870,C4287874,PREVENTS,Respiratory secretion precautions,Droplet transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C1443921,C0242781,PREVENTS,Transmission-based precautions,disease transmission,topp,patf,4,PREVENTS_TOPPprevPATF
+C1443921,C4287874,PREVENTS,Transmission-based precautions,Droplet transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C1504389,C0432485,PREVENTS,Stem cell transplant,complication of transplant,topp,patf,1,PREVENTS_TOPPprevPATF
+C1511790,C0019080,PREVENTS,Detection,Hemorrhage,topp,patf,2,PREVENTS_TOPPprevPATF
+C1511790,C0020517,PREVENTS,Detection,Hypersensitivity,topp,patf,6,PREVENTS_TOPPprevPATF
+C1511790,C0021368,PREVENTS,Detection,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C1511790,C0032787,PREVENTS,Detection,Postoperative Complications,topp,patf,1,PREVENTS_TOPPprevPATF
+C1511790,C0041755,PREVENTS,Detection,Adverse reaction to drug,topp,patf,1,PREVENTS_TOPPprevPATF
+C1511790,C0242648,PREVENTS,Detection,Vertical Disease Transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C1511790,C0242781,PREVENTS,Detection,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C1511790,C3714514,PREVENTS,Detection,Infection,topp,patf,5,PREVENTS_TOPPprevPATF
+C1512034,C1262018,PREVENTS,Donor Lymphocyte Infusion,Graft failure,topp,patf,1,PREVENTS_TOPPprevPATF
+C1512034,C1373218,PREVENTS,Donor Lymphocyte Infusion,Decreased Immunologic Activity [PE],topp,patf,1,PREVENTS_TOPPprevPATF
+C1512335,C0162633,PREVENTS,Harvest Procedure,Viral Shedding,topp,patf,1,PREVENTS_TOPPprevPATF
+C1522449,C0015376,PREVENTS,Therapeutic radiology procedure,Extravasation,topp,patf,1,PREVENTS_TOPPprevPATF
+C1522449,C0333641,PREVENTS,Therapeutic radiology procedure,Atrophic,topp,patf,1,PREVENTS_TOPPprevPATF
+C1522449,C1155266,PREVENTS,Therapeutic radiology procedure,Inflammatory Response,topp,patf,1,PREVENTS_TOPPprevPATF
+C1533734,C0021368,PREVENTS,Administration procedure,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C1541822,C0016470,PREVENTS,Vaginal delivery procedure,Food Allergy,topp,patf,1,PREVENTS_TOPPprevPATF
+C1656259,C3714514,PREVENTS,preventive Drugs,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C1659427,C0235552,PREVENTS,nebulization-mediated drug administration,Subglottic edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C1659427,C0332448,PREVENTS,nebulization-mediated drug administration,Infiltration,topp,patf,1,PREVENTS_TOPPprevPATF
+C1704532,C0242656,PREVENTS,Active Method,Disease Progression,topp,patf,2,PREVENTS_TOPPprevPATF
+C1704532,C0544688,PREVENTS,Active Method,complication of disease,topp,patf,1,PREVENTS_TOPPprevPATF
+C1708063,C0006114,PREVENTS,First line treatment,Cerebral Edema,topp,patf,2,PREVENTS_TOPPprevPATF
+C1708063,C1373218,PREVENTS,First line treatment,Decreased Immunologic Activity [PE],topp,patf,2,PREVENTS_TOPPprevPATF
+C1710038,C1373218,PREVENTS,Second line treatment,Decreased Immunologic Activity [PE],topp,patf,1,PREVENTS_TOPPprevPATF
+C1827515,C0032787,PREVENTS,Trendelenburg positioning (procedure),Postoperative Complications,topp,patf,1,PREVENTS_TOPPprevPATF
+C1829461,C0232483,PREVENTS,Reverse trendelenburg positioning,Reflux,topp,patf,1,PREVENTS_TOPPprevPATF
+C1868801,C0015376,PREVENTS,Hyperthermic Intraperitoneal Chemotherapy,Extravasation,topp,patf,1,PREVENTS_TOPPprevPATF
+C1882454,C1262018,PREVENTS,Preparative Regimen,Graft failure,topp,patf,1,PREVENTS_TOPPprevPATF
+C1956078,C0043241,PREVENTS,Negative-Pressure Wound Therapy,Wound Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C1963724,C0282474,PREVENTS,Antiretroviral therapy,Maternal-Fetal Infection Transmission,topp,patf,2,PREVENTS_TOPPprevPATF
+C1963724,C0520917,PREVENTS,Antiretroviral therapy,Increased metabolic requirement,topp,patf,1,PREVENTS_TOPPprevPATF
+C1963724,C4061114,PREVENTS,Antiretroviral therapy,Acute illness,topp,patf,1,PREVENTS_TOPPprevPATF
+C1964029,C0242656,PREVENTS,early/brief intervention/therapy (treatment),Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C1964029,C0543419,PREVENTS,early/brief intervention/therapy (treatment),Sequela of disorder,topp,patf,1,PREVENTS_TOPPprevPATF
+C1997883,C0281169,PREVENTS,Noninvasive Ventilation,Pulmonary Complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C1998763,C0043241,PREVENTS,Prevention of cross infection,Wound Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C2037866,C0035956,PREVENTS,surgical drainage (treatment) (general),"Rupture, Spontaneous",topp,patf,1,PREVENTS_TOPPprevPATF
+C2242626,C3714514,PREVENTS,Probiotic therapy,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C2945704,C0021368,PREVENTS,Conventional Treatment,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C2945704,C0034063,PREVENTS,Conventional Treatment,Pulmonary Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C2985557,C0242781,PREVENTS,Gamma Irradiation,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C3177188,C0026846,PREVENTS,Early Therapy,Muscular Atrophy,topp,patf,1,PREVENTS_TOPPprevPATF
+C3177188,C0151701,PREVENTS,Early Therapy,Pulmonary hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C3177188,C0236013,PREVENTS,Early Therapy,hyperosmolar state,topp,patf,1,PREVENTS_TOPPprevPATF
+C3177188,C0242656,PREVENTS,Early Therapy,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C3179131,C0151701,PREVENTS,Early Medical Intervention,Pulmonary hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C3267174,C0017181,PREVENTS,Blood Glucose control,Gastrointestinal Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C3267174,C0087086,PREVENTS,Blood Glucose control,Thrombus,topp,patf,1,PREVENTS_TOPPprevPATF
+C3534574,C0040053,PREVENTS,Lung Rehabilitation,Thrombosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C3540512,C0013604,PREVENTS,Circumferential Supracrestal Fiberotomy,Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C3650840,C0026766,PREVENTS,Traditional therapy,Multiple Organ Failure,topp,patf,1,PREVENTS_TOPPprevPATF
+C3650840,C0543419,PREVENTS,Traditional therapy,Sequela of disorder,topp,patf,1,PREVENTS_TOPPprevPATF
+C3665674,C0020542,PREVENTS,Warburg Therapy,Pulmonary Hypertension,topp,patf,1,PREVENTS_TOPPprevPATF
+C3665674,C0235063,PREVENTS,Warburg Therapy,Respiratory Depression,topp,patf,1,PREVENTS_TOPPprevPATF
+C3665674,C0242184,PREVENTS,Warburg Therapy,Hypoxia,topp,patf,1,PREVENTS_TOPPprevPATF
+C3825792,C0021368,PREVENTS,Pressure breathing,Inflammation,topp,patf,1,PREVENTS_TOPPprevPATF
+C3828439,C0004144,PREVENTS,Pulmonary Hygiene,Atelectasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C3828439,C0242781,PREVENTS,Pulmonary Hygiene,disease transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C3839839,C0242656,PREVENTS,Pediatric care,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
+C3850079,C0040053,PREVENTS,Cytoreductive Surgery,Thrombosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C3850098,C0282474,PREVENTS,Pre-Exposure Prophylaxis,Maternal-Fetal Infection Transmission,topp,patf,1,PREVENTS_TOPPprevPATF
+C3850098,C3714514,PREVENTS,Pre-Exposure Prophylaxis,Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C4087167,C0036679,PREVENTS,Tumour treating fields therapy,Diastasis,topp,patf,1,PREVENTS_TOPPprevPATF
+C4303556,C0087086,PREVENTS,Aspirin therapy,Thrombus,topp,patf,1,PREVENTS_TOPPprevPATF
+C4303556,C0161816,PREVENTS,Aspirin therapy,Cardiac complication,topp,patf,1,PREVENTS_TOPPprevPATF
+C4489433,C0013604,PREVENTS,Vasoconstrictor infusion,Edema,topp,patf,1,PREVENTS_TOPPprevPATF
+C4520447,C0038941,PREVENTS,Decolonization,Surgical Wound Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C4520447,C3714514,PREVENTS,Decolonization,Infection,topp,patf,3,PREVENTS_TOPPprevPATF
+C4704836,C0021359,PREVENTS,Medical Countermeasures,Infertility,topp,patf,1,PREVENTS_TOPPprevPATF
+C4704836,C3714514,PREVENTS,Medical Countermeasures,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C4723833,C0041909,PREVENTS,vertebral augmentation procedure,Upper gastrointestinal hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C4723833,C3714514,PREVENTS,vertebral augmentation procedure,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C4763675,C0019080,PREVENTS,Single Agent Therapy,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
+C4763675,C3887486,PREVENTS,Single Agent Therapy,Interstitial lung fibrosis,topp,patf,1,PREVENTS_TOPPprevPATF
+C4763873,C0036974,PREVENTS,Core Decompression,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
+C5197905,C0019080,PREVENTS,Dual Anti-Platelet Therapy,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF

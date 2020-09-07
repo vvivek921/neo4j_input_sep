@@ -1,0 +1,30 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003232,C0008947,INHIBITS,Antibiotics,clindamycin,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0003232,C0035609,INHIBITS,Antibiotics,rifamycins,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0006968,C0066005,INHIBITS,Carbapenems,meropenem,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0007537,C0030842,INHIBITS,cefaclor,penicillins,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0008947,C0035608,INHIBITS,clindamycin,rifampin,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0008947,C0039644,INHIBITS,clindamycin,tetracycline,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0028951,C0003232,INHIBITS,Oligomycins,Antibiotics,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0030842,C0006968,INHIBITS,penicillins,Carbapenems,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0030842,C0020933,INHIBITS,penicillins,imipenem,antb,antb,2,INHIBITS_ANTBinhbANTB
+C0030842,C0055860,INHIBITS,penicillins,clavulanic acid,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0030842,C0282215,INHIBITS,penicillins,beta-Lactams,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0035608,C0003232,INHIBITS,rifampin,Antibiotics,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0035608,C3467978,INHIBITS,rifampin,R207910,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0053882,C0030842,INHIBITS,cefprozil,penicillins,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0055014,C0030842,INHIBITS,ceftibuten,penicillins,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0055015,C0030842,INHIBITS,cefuroxime axetil,penicillins,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0060400,C0030842,INHIBITS,cefixime,penicillins,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0060400,C0591132,INHIBITS,cefixime,Augmentin,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0060405,C0030842,INHIBITS,cefdinir,penicillins,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0065023,C0614427,INHIBITS,fidaxomicin,NS 5,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0065295,C0030842,INHIBITS,loracarbef,penicillins,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0108938,C0030842,INHIBITS,cefpodoxime proxetil,penicillins,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0282215,C0003232,INHIBITS,beta-Lactams,Antibiotics,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0282386,C0026458,INHIBITS,levofloxacin,Monobactams,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0536495,C0026458,INHIBITS,moxifloxacin,Monobactams,antb,antb,1,INHIBITS_ANTBinhbANTB
+C0887953,C0035608,INHIBITS,Oxazolidinones,rifampin,antb,antb,1,INHIBITS_ANTBinhbANTB
+C3536856,C0006968,INHIBITS,Cephalosporins,Carbapenems,antb,antb,1,INHIBITS_ANTBinhbANTB
+C3854019,C0003232,INHIBITS,gentamicin,Antibiotics,antb,antb,1,INHIBITS_ANTBinhbANTB
+C3854019,C0027353,INHIBITS,gentamicin,nalidixic acid,antb,antb,1,INHIBITS_ANTBinhbANTB

@@ -1,0 +1,7 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0035203,C0243144,PRECEDES,Respiration,Uptake,phsf,phsf,1,PRECEDES_PHSFprcdPHSF
+C0221102,C0243144,PRECEDES,Excretory function,Uptake,phsf,phsf,1,PRECEDES_PHSFprcdPHSF
+C0221102,C1373190,PRECEDES,Excretory function,Fecal Excretion,phsf,phsf,2,PRECEDES_PHSFprcdPHSF
+C0243144,C0242599,PRECEDES,Uptake,Neutrophil Activation,phsf,phsf,1,PRECEDES_PHSFprcdPHSF
+C0678209,C0243144,PRECEDES,Adaptive Immunity,Uptake,phsf,phsf,1,PRECEDES_PHSFprcdPHSF
+C3714584,C0035203,PRECEDES,"Transformation, function",Respiration,phsf,phsf,1,PRECEDES_PHSFprcdPHSF

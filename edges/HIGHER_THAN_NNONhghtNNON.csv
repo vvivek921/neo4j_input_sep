@@ -1,0 +1,67 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001367,C0001367,HIGHER_THAN,acyclovir,acyclovir,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0001367,C0017066,HIGHER_THAN,acyclovir,ganciclovir,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0001367,C0042646,HIGHER_THAN,acyclovir,vidarabine,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0006556,C0006556,HIGHER_THAN,"DNA, Complementary","DNA, Complementary",nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C0010711,C0010711,HIGHER_THAN,cytarabine,cytarabine,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0012924,C3272453,HIGHER_THAN,"DNA, Bacterial",Genomic DNA,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0012935,C0598279,HIGHER_THAN,"DNA, Single-Stranded",synthetic construct,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0016360,C0016360,HIGHER_THAN,fluorouracil,fluorouracil,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0017066,C0001367,HIGHER_THAN,ganciclovir,acyclovir,nnon,nnon,6,HIGHER_THAN_NNONhghtNNON
+C0017066,C0017066,HIGHER_THAN,ganciclovir,ganciclovir,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0018321,C0018321,HIGHER_THAN,guanine,guanine,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0018321,C0028630,HIGHER_THAN,guanine,Nucleotides,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0018353,C0028630,HIGHER_THAN,Guanosine Triphosphate,Nucleotides,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0023978,C0023978,HIGHER_THAN,Long Terminal Repeat,Long Terminal Repeat,nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C0028630,C0028630,HIGHER_THAN,Nucleotides,Nucleotides,nnon,nnon,12,HIGHER_THAN_NNONhghtNNON
+C0028630,C0028953,HIGHER_THAN,Nucleotides,Oligonucleotides,nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C0028630,C0206415,HIGHER_THAN,Nucleotides,Oligonucleotide Primers,nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C0028630,C3658200,HIGHER_THAN,Nucleotides,Clustered Regularly Interspaced Short Palindromic Repeats,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0032550,C0028953,HIGHER_THAN,Polynucleotides,Oligonucleotides,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0035525,C0035525,HIGHER_THAN,ribavirin,ribavirin,nnon,nnon,7,HIGHER_THAN_NNONhghtNNON
+C0035736,C0035736,HIGHER_THAN,"RNA, Viral","RNA, Viral",nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0035736,C0206415,HIGHER_THAN,"RNA, Viral",Oligonucleotide Primers,nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C0042646,C0020811,HIGHER_THAN,vidarabine,idoxuridine,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0043474,C0012136,HIGHER_THAN,zidovudine,Dideoxynucleosides,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0045186,C0045186,HIGHER_THAN,2'-deoxyadenosine triphosphate,2'-deoxyadenosine triphosphate,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0045211,C0042646,HIGHER_THAN,fiacitabine,vidarabine,nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C0046774,C0046774,HIGHER_THAN,3'-(1-butylphosphoryl)adenosine,3'-(1-butylphosphoryl)adenosine,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0050063,C0050063,HIGHER_THAN,8-chloro-cyclic adenosine monophosphate,8-chloro-cyclic adenosine monophosphate,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0050175,C0050175,HIGHER_THAN,adefovir,adefovir,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0056208,C0041984,HIGHER_THAN,Complementary RNA,uridine,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0071359,C0071360,HIGHER_THAN,poly ICLC,"5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer",nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C0071360,C0032400,HIGHER_THAN,"5'-Inosinic acid, 2'-deoxy-2'-fluoro-, homopolymer",Poly A,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0128608,C0017066,HIGHER_THAN,mizoribine,ganciclovir,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0128608,C0035525,HIGHER_THAN,mizoribine,ribavirin,nnon,nnon,3,HIGHER_THAN_NNONhghtNNON
+C0163272,C0163272,HIGHER_THAN,brivudine,brivudine,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0164815,C0001367,HIGHER_THAN,penciclovir,acyclovir,nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C0206415,C0028630,HIGHER_THAN,Oligonucleotide Primers,Nucleotides,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0206415,C0028953,HIGHER_THAN,Oligonucleotide Primers,Oligonucleotides,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0206415,C0206415,HIGHER_THAN,Oligonucleotide Primers,Oligonucleotide Primers,nnon,nnon,13,HIGHER_THAN_NNONhghtNNON
+C0286079,C0035525,HIGHER_THAN,cidofovir,ribavirin,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0292819,C0017066,HIGHER_THAN,fomivirsen,ganciclovir,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0294857,C0001367,HIGHER_THAN,penciclovir triphosphate,acyclovir,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0384228,C0043474,HIGHER_THAN,tenofovir,zidovudine,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0599013,C0599013,HIGHER_THAN,Aptamer,Aptamer,nnon,nnon,4,HIGHER_THAN_NNONhghtNNON
+C0600680,C0028630,HIGHER_THAN,Untranslated Regions,Nucleotides,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0671970,C0016360,HIGHER_THAN,capecitabine,fluorouracil,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C0887909,C0028630,HIGHER_THAN,"RNA, Untranslated",Nucleotides,nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C1099776,C0597106,HIGHER_THAN,tenofovir disoproxil fumarate,nucleoside triphosphate,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C1519595,C0012939,HIGHER_THAN,Transcript,"DNA, Viral",nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C1519595,C0028630,HIGHER_THAN,Transcript,Nucleotides,nnon,nnon,5,HIGHER_THAN_NNONhghtNNON
+C1519595,C0035736,HIGHER_THAN,Transcript,"RNA, Viral",nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C1519595,C0600680,HIGHER_THAN,Transcript,Untranslated Regions,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C1519595,C1519595,HIGHER_THAN,Transcript,Transcript,nnon,nnon,7,HIGHER_THAN_NNONhghtNNON
+C1531162,C0017066,HIGHER_THAN,cyclopropavir,ganciclovir,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C1567953,C1567954,HIGHER_THAN,DNA Aptamers,RNA Aptamers,nnon,nnon,3,HIGHER_THAN_NNONhghtNNON
+C1698216,C0010734,HIGHER_THAN,R1479,Cytidine Triphosphate,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C1698216,C1698216,HIGHER_THAN,R1479,R1479,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C1869740,C0035525,HIGHER_THAN,5-nitrocytidine,ribavirin,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C2930586,C0028630,HIGHER_THAN,Short Hairpin RNA,Nucleotides,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C2930586,C2930586,HIGHER_THAN,Short Hairpin RNA,Short Hairpin RNA,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C2982391,C0028630,HIGHER_THAN,Long Intergenic Non-Protein Coding RNA,Nucleotides,nnon,nnon,5,HIGHER_THAN_NNONhghtNNON
+C2982391,C0887909,HIGHER_THAN,Long Intergenic Non-Protein Coding RNA,"RNA, Untranslated",nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C2982391,C2982391,HIGHER_THAN,Long Intergenic Non-Protein Coding RNA,Long Intergenic Non-Protein Coding RNA,nnon,nnon,5,HIGHER_THAN_NNONhghtNNON
+C3272452,C0012935,HIGHER_THAN,Single-Stranded RNA,"DNA, Single-Stranded",nnon,nnon,2,HIGHER_THAN_NNONhghtNNON
+C3640933,C1579410,HIGHER_THAN,NUC-1031,Nucleoside Analogs,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON
+C3712637,C0597106,HIGHER_THAN,tenofovir diphosphate,nucleoside triphosphate,nnon,nnon,1,HIGHER_THAN_NNONhghtNNON

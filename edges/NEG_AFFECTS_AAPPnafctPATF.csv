@@ -1,0 +1,74 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003241,C0011304,NEG_AFFECTS,Antibodies,Demyelination,aapp,patf,2,NEG_AFFECTS_AAPPnafctPATF
+C0003241,C0020517,NEG_AFFECTS,Antibodies,Hypersensitivity,aapp,patf,2,NEG_AFFECTS_AAPPnafctPATF
+C0003241,C0242656,NEG_AFFECTS,Antibodies,Disease Progression,aapp,patf,3,NEG_AFFECTS_AAPPnafctPATF
+C0005740,C0020517,NEG_AFFECTS,bleomycin,Hypersensitivity,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0009316,C0020517,NEG_AFFECTS,colistin,Hypersensitivity,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0009316,C3714514,NEG_AFFECTS,colistin,Infection,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0016006,C0040053,NEG_AFFECTS,fibrinogen,Thrombosis,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0021747,C0020517,NEG_AFFECTS,Interferons,Hypersensitivity,aapp,patf,2,NEG_AFFECTS_AAPPnafctPATF
+C0021747,C0021368,NEG_AFFECTS,Interferons,Inflammation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0021764,C1373218,NEG_AFFECTS,Interleukins,Decreased Immunologic Activity [PE],aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0022917,C0015376,NEG_AFFECTS,Lactate Dehydrogenase,Extravasation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0022917,C0021368,NEG_AFFECTS,Lactate Dehydrogenase,Inflammation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0028115,C1704493,NEG_AFFECTS,Nisin,Neutral Sidebent Rotated,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0036734,C0745283,NEG_AFFECTS,Serine Endopeptidases,INFECTIOUS PROCESS,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0042210,C3714514,NEG_AFFECTS,Vaccines,Infection,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0043396,C0020517,NEG_AFFECTS,Yellow fever virus,Hypersensitivity,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0070410,C0011304,NEG_AFFECTS,perforin,Demyelination,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0070410,C0332448,NEG_AFFECTS,perforin,Infiltration,aapp,patf,2,NEG_AFFECTS_AAPPnafctPATF
+C0071795,C1155266,NEG_AFFECTS,2-5A-dependent ribonuclease,Inflammatory Response,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0085295,C0021368,NEG_AFFECTS,interleukin-10,Inflammation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0085297,C0020517,NEG_AFFECTS,"immunoglobulins, intravenous",Hypersensitivity,aapp,patf,3,NEG_AFFECTS_AAPPnafctPATF
+C0085297,C0036974,NEG_AFFECTS,"immunoglobulins, intravenous",Shock,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0085297,C0476474,NEG_AFFECTS,"immunoglobulins, intravenous",persistent fever,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0085297,C0520893,NEG_AFFECTS,"immunoglobulins, intravenous",Localized desquamation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0108187,C0021368,NEG_AFFECTS,Calnexin,Inflammation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0165519,C2717792,NEG_AFFECTS,Matrix Metalloproteinase 9,Airway Remodeling,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0255808,C0332448,NEG_AFFECTS,tumor necrosis factor receptor 1A,Infiltration,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0299583,C0021655,NEG_AFFECTS,leptin,Insulin Resistance,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0358334,C0334094,NEG_AFFECTS,Specific immunoglobulins,Proliferation (morphologic abnormality),aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0475463,C0392707,NEG_AFFECTS,"Antibodies, Neutralizing",Atopy,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0475463,C1518304,NEG_AFFECTS,"Antibodies, Neutralizing",Neurotropism,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0475463,C3714514,NEG_AFFECTS,"Antibodies, Neutralizing",Infection,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0526870,C0242656,NEG_AFFECTS,"MBL2 protein, human",Disease Progression,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0526870,C3714514,NEG_AFFECTS,"MBL2 protein, human",Infection,aapp,patf,2,NEG_AFFECTS_AAPPnafctPATF
+C0597357,C0242656,NEG_AFFECTS,receptor,Disease Progression,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0757844,C3714514,NEG_AFFECTS,"TNFSF13 protein, human",Infection,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0812310,C0019080,NEG_AFFECTS,CXCL2 gene,Hemorrhage,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C0995188,C0020517,NEG_AFFECTS,cetuximab,Hypersensitivity,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1143976,C0011304,NEG_AFFECTS,"TREM2 protein, human",Demyelination,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1146629,C0020517,NEG_AFFECTS,"TAF1 protein, human",Hypersensitivity,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1310463,C0021368,NEG_AFFECTS,"IFIH1 protein, human",Inflammation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1332816,C0332448,NEG_AFFECTS,CXCL11 gene,Infiltration,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1332821,C0332448,NEG_AFFECTS,CXCL9 gene,Infiltration,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1333213,C0334094,NEG_AFFECTS,DEFB1 gene,Proliferation (morphologic abnormality),aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1333891,C0020517,NEG_AFFECTS,HDAC1 gene,Hypersensitivity,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1333892,C0020517,NEG_AFFECTS,HDAC2 gene,Hypersensitivity,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1334078,C0020517,NEG_AFFECTS,IFITM1 gene,Hypersensitivity,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1334126,C0015376,NEG_AFFECTS,CXCR2 gene,Extravasation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1335376,C0024348,NEG_AFFECTS,Peptide/MHC Complex,Lysis,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1414386,C3714514,NEG_AFFECTS,EMD gene,Infection,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1415134,C0020517,NEG_AFFECTS,GML gene,Hypersensitivity,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1418401,C0242656,NEG_AFFECTS,PDCD1 gene,Disease Progression,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1418597,C0004144,NEG_AFFECTS,PITX3 gene,Atelectasis,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1421554,C0021368,NEG_AFFECTS,YME1L1 gene,Inflammation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1422064,C0021368,NEG_AFFECTS,ACE2 gene,Inflammation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1423930,C0021368,NEG_AFFECTS,ORMDL3 gene,Inflammation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1426104,C0001511,NEG_AFFECTS,NANS gene,Tissue Adhesions,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1453118,C0235029,NEG_AFFECTS,"CABIN1 protein, human",neurological complication,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1539233,C0021368,NEG_AFFECTS,DDX58 gene,Inflammation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1705010,C0020517,NEG_AFFECTS,TNC wt Allele,Hypersensitivity,aapp,patf,2,NEG_AFFECTS_AAPPnafctPATF
+C1706044,C0024348,NEG_AFFECTS,PTPN11 wt Allele,Lysis,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C1825598,C0151686,NEG_AFFECTS,IMPACT gene,Growth retardation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C2826021,C0020542,NEG_AFFECTS,MIR223 wt Allele,Pulmonary Hypertension,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C3540595,C0011304,NEG_AFFECTS,CD8A wt Allele,Demyelination,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C3540595,C0332448,NEG_AFFECTS,CD8A wt Allele,Infiltration,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C3710914,C0011304,NEG_AFFECTS,"EIF2AK2 protein, human",Demyelination,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C3710914,C0021368,NEG_AFFECTS,"EIF2AK2 protein, human",Inflammation,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C3890397,C0242184,NEG_AFFECTS,PRKAA1 wt Allele,Hypoxia,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C4048280,C0011304,NEG_AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Demyelination,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C4048280,C0332448,NEG_AFFECTS,"T-Cell Surface Glycoprotein CD4, human",Infiltration,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C4049595,C0242648,NEG_AFFECTS,HLA Complex,Vertical Disease Transmission,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C4281807,C0020517,NEG_AFFECTS,"Vitronectin, human",Hypersensitivity,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF
+C4283742,C1155266,NEG_AFFECTS,"Ceramide Glucosyltransferase, human",Inflammatory Response,aapp,patf,1,NEG_AFFECTS_AAPPnafctPATF

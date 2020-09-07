@@ -1,0 +1,788 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001425,C0008059,TREATS,Adenoidectomy,Child,topp,aggp,22,TREATS_TOPPtrtsAGGP
+C0001560,C0021289,TREATS,"Administration, Intranasal","Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0001563,C0001675,TREATS,"Administration, Oral",Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0001563,C0008059,TREATS,"Administration, Oral",Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0001566,C0008059,TREATS,"Administration, Topical",Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0001566,C0021270,TREATS,"Administration, Topical",Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0002766,C0001675,TREATS,Pain management,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0002766,C0008059,TREATS,Pain management,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0002766,C0021289,TREATS,Pain management,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0002769,C0021289,TREATS,"Analgesia, Epidural","Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0002903,C0008059,TREATS,Anesthesia procedures,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0002903,C0021270,TREATS,Anesthesia procedures,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0002903,C0021289,TREATS,Anesthesia procedures,"Infant, Newborn",topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0002911,C0001675,TREATS,"Anesthesia, Conduction",Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0002911,C0021289,TREATS,"Anesthesia, Conduction","Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0002915,C0008059,TREATS,General Anesthesia,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0002915,C0021270,TREATS,General Anesthesia,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0002915,C0021289,TREATS,General Anesthesia,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0002928,C0008059,TREATS,Spinal Anesthesia,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0002928,C0021270,TREATS,Spinal Anesthesia,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0003281,C0021289,TREATS,Anticoagulation Therapy,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0003611,C0008059,TREATS,Appendectomy,Child,topp,aggp,7,TREATS_TOPPtrtsAGGP
+C0004704,C0008059,TREATS,Balloon Dilatation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0004933,C0001675,TREATS,Behavior Therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0004933,C0008059,TREATS,Behavior Therapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0004933,C0205653,TREATS,Behavior Therapy,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0005527,C0008059,TREATS,Biological Response Modifier Therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0005841,C0008059,TREATS,Blood Transfusion,Child,topp,aggp,9,TREATS_TOPPtrtsAGGP
+C0005841,C0021289,TREATS,Blood Transfusion,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0005961,C0001675,TREATS,Bone Marrow Transplantation,Adult,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0005961,C0008059,TREATS,Bone Marrow Transplantation,Child,topp,aggp,18,TREATS_TOPPtrtsAGGP
+C0005961,C0021270,TREATS,Bone Marrow Transplantation,Infant,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0007202,C0008059,TREATS,Cardiopulmonary Bypass,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0007202,C0021289,TREATS,Cardiopulmonary Bypass,"Infant, Newborn",topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0007203,C0001675,TREATS,Cardiopulmonary Resuscitation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0007876,C0008059,TREATS,Cesarean section,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0007975,C0008059,TREATS,Chelation Therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0009244,C0001675,TREATS,Cognitive Therapy,Adult,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0009244,C0008059,TREATS,Cognitive Therapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0009244,C0205653,TREATS,Cognitive Therapy,Adolescent (age group),topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0009244,C0238598,TREATS,Cognitive Therapy,Young Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0009410,C0021289,TREATS,Colostomy Procedure,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0009429,C0001675,TREATS,Combined Modality Therapy,Adult,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0009429,C0008059,TREATS,Combined Modality Therapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0011331,C0008059,TREATS,Dental Procedures,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0011393,C0008059,TREATS,Dental Prophylaxis,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0011946,C0008059,TREATS,Dialysis procedure,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0013216,C0001675,TREATS,Pharmacotherapy,Adult,topp,aggp,8,TREATS_TOPPtrtsAGGP
+C0013216,C0008059,TREATS,Pharmacotherapy,Child,topp,aggp,30,TREATS_TOPPtrtsAGGP
+C0013216,C0021289,TREATS,Pharmacotherapy,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0013216,C0238598,TREATS,Pharmacotherapy,Young Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0013216,C0870221,TREATS,Pharmacotherapy,Boys,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0013218,C0008059,TREATS,Combination Drug Therapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0013778,C0008059,TREATS,Electric Countershock,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0013806,C0001675,TREATS,Electroconvulsive Therapy,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0013806,C0008059,TREATS,Electroconvulsive Therapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0013931,C0008059,TREATS,"Embolization, Therapeutic",Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0013969,C0008059,TREATS,Emergency treatment,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0014327,C0008059,TREATS,Enteral Nutrition,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0015252,C0008059,TREATS,removal technique,Child,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0015354,C0008059,TREATS,Extracorporeal Circulation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0015357,C0001675,TREATS,Extracorporeal Membrane Oxygenation,Adult,topp,aggp,16,TREATS_TOPPtrtsAGGP
+C0015357,C0008059,TREATS,Extracorporeal Membrane Oxygenation,Child,topp,aggp,23,TREATS_TOPPtrtsAGGP
+C0015357,C0021270,TREATS,Extracorporeal Membrane Oxygenation,Infant,topp,aggp,9,TREATS_TOPPtrtsAGGP
+C0015357,C0021289,TREATS,Extracorporeal Membrane Oxygenation,"Infant, Newborn",topp,aggp,15,TREATS_TOPPtrtsAGGP
+C0015357,C4551581,TREATS,Extracorporeal Membrane Oxygenation,Term Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0015618,C0205653,TREATS,Family psychotherapy,Adolescent (age group),topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0016286,C0008059,TREATS,Fluid Therapy,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0016286,C0021289,TREATS,Fluid Therapy,"Infant, Newborn",topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0016641,C0001675,TREATS,Fracture Fixation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0016641,C0008059,TREATS,Fracture Fixation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0017296,C0001675,TREATS,gene therapy,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0017296,C0008059,TREATS,gene therapy,Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0017296,C0021270,TREATS,gene therapy,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0018247,C0008059,TREATS,Grommet Insertion,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0018821,C0001675,TREATS,Cardiac Surgery procedures,Adult,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0018821,C0008059,TREATS,Cardiac Surgery procedures,Child,topp,aggp,21,TREATS_TOPPtrtsAGGP
+C0018821,C0021270,TREATS,Cardiac Surgery procedures,Infant,topp,aggp,11,TREATS_TOPPtrtsAGGP
+C0018821,C0021289,TREATS,Cardiac Surgery procedures,"Infant, Newborn",topp,aggp,9,TREATS_TOPPtrtsAGGP
+C0018823,C0008059,TREATS,Heart Transplantation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0018823,C0021270,TREATS,Heart Transplantation,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0018833,C0001675,TREATS,Heart-Lung Transplantation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0018833,C0008059,TREATS,Heart-Lung Transplantation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0019004,C0001675,TREATS,Hemodialysis,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0019004,C0008059,TREATS,Hemodialysis,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0019004,C0021270,TREATS,Hemodialysis,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0019014,C0008059,TREATS,Hemofiltration,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0019541,C0001675,TREATS,High-Frequency Ventilation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0019541,C0008059,TREATS,High-Frequency Ventilation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0019541,C0021270,TREATS,High-Frequency Ventilation,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0019541,C0021289,TREATS,High-Frequency Ventilation,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0020674,C0001675,TREATS,"Hypothermia, Induced",Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0020674,C0008059,TREATS,"Hypothermia, Induced",Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0020674,C0021289,TREATS,"Hypothermia, Induced","Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0020674,C4551581,TREATS,"Hypothermia, Induced",Term Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0020971,C0001675,TREATS,Immunization,Adult,topp,aggp,8,TREATS_TOPPtrtsAGGP
+C0020971,C0008059,TREATS,Immunization,Child,topp,aggp,23,TREATS_TOPPtrtsAGGP
+C0020971,C0021270,TREATS,Immunization,Infant,topp,aggp,12,TREATS_TOPPtrtsAGGP
+C0020971,C0021289,TREATS,Immunization,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0020971,C0205653,TREATS,Immunization,Adolescent (age group),topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0020971,C0682053,TREATS,Immunization,Toddler (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0020972,C0001675,TREATS,Immunization Schedule,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0020972,C0008059,TREATS,Immunization Schedule,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0020972,C0021270,TREATS,Immunization Schedule,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0020972,C0205653,TREATS,Immunization Schedule,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0020974,C0021270,TREATS,passive immunization procedure,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0020974,C1708480,TREATS,passive immunization procedure,In Utero,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0020975,C0001675,TREATS,Secondary Immunization,Adult,topp,aggp,7,TREATS_TOPPtrtsAGGP
+C0020975,C0008059,TREATS,Secondary Immunization,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0020975,C0021270,TREATS,Secondary Immunization,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0020975,C0205653,TREATS,Secondary Immunization,Adolescent (age group),topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0021079,C0008059,TREATS,Therapeutic immunosuppression,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0021079,C0021289,TREATS,Therapeutic immunosuppression,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0021107,C0008059,TREATS,Implantation procedure,Child,topp,aggp,7,TREATS_TOPPtrtsAGGP
+C0021107,C0021289,TREATS,Implantation procedure,"Infant, Newborn",topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0021446,C0021289,TREATS,Repair of inguinal hernia,"Infant, Newborn",topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0021485,C0001675,TREATS,Injection of therapeutic agent,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0021485,C0008059,TREATS,Injection of therapeutic agent,Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0021485,C0021289,TREATS,Injection of therapeutic agent,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0021485,C4048294,TREATS,Injection of therapeutic agent,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0021488,C0008059,TREATS,Intra-Articular Injections,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0021589,C0021270,TREATS,"Insemination, Artificial, Homologous",Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0021589,C0205653,TREATS,"Insemination, Artificial, Homologous",Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0021778,C0021270,TREATS,Intermittent Positive-Pressure Ventilation,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0021778,C0021289,TREATS,Intermittent Positive-Pressure Ventilation,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0021778,C4048294,TREATS,Intermittent Positive-Pressure Ventilation,Preterm Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0021925,C0001675,TREATS,Intubation,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0021925,C0008059,TREATS,Intubation,Child,topp,aggp,8,TREATS_TOPPtrtsAGGP
+C0021925,C0021270,TREATS,Intubation,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0021925,C0021289,TREATS,Intubation,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0021925,C4048294,TREATS,Intubation,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0021932,C0001675,TREATS,"Intubation, Intratracheal",Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0021932,C0008059,TREATS,"Intubation, Intratracheal",Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0021932,C0021270,TREATS,"Intubation, Intratracheal",Infant,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0021932,C0021289,TREATS,"Intubation, Intratracheal","Infant, Newborn",topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0021932,C1708480,TREATS,"Intubation, Intratracheal",In Utero,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0022100,C0001675,TREATS,Irrigation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0022100,C0008059,TREATS,Irrigation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0022100,C0021270,TREATS,Irrigation,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0022100,C0021289,TREATS,Irrigation,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0022671,C0008059,TREATS,Kidney Transplantation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0023038,C0001675,TREATS,Laparotomy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0023038,C0021270,TREATS,Laparotomy,Infant,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0023690,C0021289,TREATS,Ligation,"Infant, Newborn",topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0023911,C0001675,TREATS,Transplantation of liver,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0023911,C0008059,TREATS,Transplantation of liver,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0023928,C0008059,TREATS,Lobectomy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0024128,C0001675,TREATS,Lung Transplantation,Adult,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0024128,C0008059,TREATS,Lung Transplantation,Child,topp,aggp,14,TREATS_TOPPtrtsAGGP
+C0024128,C0021270,TREATS,Lung Transplantation,Infant,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0024128,C0870221,TREATS,Lung Transplantation,Boys,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0024881,C0524338,TREATS,Mastectomy,Elderly woman,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0027617,C0008059,TREATS,Neonatal Screening,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0027617,C0021270,TREATS,Neonatal Screening,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0029216,C0021270,TREATS,Organ Transplantation,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0030231,C0008059,TREATS,Palliative Care,Child,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0030231,C0021270,TREATS,Palliative Care,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0030231,C0021289,TREATS,Palliative Care,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0030547,C0008059,TREATS,Parenteral Nutrition,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0030547,C0021270,TREATS,Parenteral Nutrition,Infant,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0030547,C0021289,TREATS,Parenteral Nutrition,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0030547,C4551581,TREATS,Parenteral Nutrition,Term Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0030693,C0001675,TREATS,Patient Isolation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0030693,C0008059,TREATS,Patient Isolation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0031139,C0008059,TREATS,Peritoneal Dialysis,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0031139,C0021270,TREATS,Peritoneal Dialysis,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0031765,C0021270,TREATS,Phototherapy,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0032042,C0001675,TREATS,Placebos,Adult,topp,aggp,18,TREATS_TOPPtrtsAGGP
+C0032042,C0008059,TREATS,Placebos,Child,topp,aggp,27,TREATS_TOPPtrtsAGGP
+C0032042,C0008100,TREATS,Placebos,"Child, Preschool",topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0032042,C0021270,TREATS,Placebos,Infant,topp,aggp,7,TREATS_TOPPtrtsAGGP
+C0032042,C0205653,TREATS,Placebos,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0032113,C0008059,TREATS,Plasma Exchange,Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0032134,C0008059,TREATS,Plasmapheresis,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0032216,C0008059,TREATS,Play Therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0032284,C0001675,TREATS,Pneumonectomy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0032284,C0008059,TREATS,Pneumonectomy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0032740,C0001675,TREATS,Positive End-Expiratory Pressure,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0032740,C0008059,TREATS,Positive End-Expiratory Pressure,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0032740,C0021270,TREATS,Positive End-Expiratory Pressure,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0032740,C0021289,TREATS,Positive End-Expiratory Pressure,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0033045,C0008059,TREATS,Premedication,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0033144,C0008059,TREATS,Primary Prevention,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0033968,C0008059,TREATS,Psychotherapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0033972,C0001675,TREATS,"Psychotherapy, Multiple",Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0034115,C0021270,TREATS,Paracentesis,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0034386,C0001675,TREATS,Quarantine,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0034386,C0008059,TREATS,Quarantine,Child,topp,aggp,7,TREATS_TOPPtrtsAGGP
+C0034386,C0205653,TREATS,Quarantine,Adolescent (age group),topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0034386,C0238598,TREATS,Quarantine,Young Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0034997,C0008059,TREATS,Rehydration,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0035110,C0008059,TREATS,Repeat Surgery,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0035139,C0001675,TREATS,Surgical Replantation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0035139,C0008059,TREATS,Surgical Replantation,Child,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0035139,C0021270,TREATS,Surgical Replantation,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0035239,C0008059,TREATS,Respiratory Therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0035239,C0021289,TREATS,Respiratory Therapy,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0035239,C4048294,TREATS,Respiratory Therapy,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0035273,C0001675,TREATS,Resuscitation procedure,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0035273,C0008059,TREATS,Resuscitation procedure,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0035273,C0021270,TREATS,Resuscitation procedure,Infant,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0035273,C0021289,TREATS,Resuscitation procedure,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0037995,C0001675,TREATS,Splenectomy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0037995,C0008059,TREATS,Splenectomy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0038638,C0008059,TREATS,Suction drainage,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0038638,C0021270,TREATS,Suction drainage,Infant,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0038847,C0008059,TREATS,Supplementary Feeding,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0038847,C0021270,TREATS,Supplementary Feeding,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0038897,C0008059,TREATS,Cardiovascular Surgical Procedures,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0038910,C0008059,TREATS,Otorhinolaryngologic Surgical Procedures,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0039038,C0001675,TREATS,Sympathectomy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0039038,C0021289,TREATS,Sympathectomy,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0039989,C0008059,TREATS,Thoracoscopy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0040044,C0001675,TREATS,Thrombolytic Therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0040044,C0008059,TREATS,Thrombolytic Therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0040071,C0008059,TREATS,Thymectomy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0040423,C0001675,TREATS,Tonsillectomy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0040423,C0008059,TREATS,Tonsillectomy,Child,topp,aggp,9,TREATS_TOPPtrtsAGGP
+C0040423,C0260267,TREATS,Tonsillectomy,School child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0040440,C0870221,TREATS,Tooth Extraction,Boys,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0040590,C0001675,TREATS,Tracheostomy procedure,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0040590,C0008059,TREATS,Tracheostomy procedure,Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0040590,C0021270,TREATS,Tracheostomy procedure,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0040732,C0001675,TREATS,Transplantation,Adult,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0040732,C0008059,TREATS,Transplantation,Child,topp,aggp,31,TREATS_TOPPtrtsAGGP
+C0040732,C0021270,TREATS,Transplantation,Infant,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0040732,C0205653,TREATS,Transplantation,Adolescent (age group),topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0040732,C0870221,TREATS,Transplantation,Boys,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0040739,C0001675,TREATS,"Transplantation, Homologous",Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0040739,C0008059,TREATS,"Transplantation, Homologous",Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0040808,C0001675,TREATS,Treatment Protocols,Adult,topp,aggp,11,TREATS_TOPPtrtsAGGP
+C0040808,C0008059,TREATS,Treatment Protocols,Child,topp,aggp,18,TREATS_TOPPtrtsAGGP
+C0040808,C0021270,TREATS,Treatment Protocols,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0040808,C0870221,TREATS,Treatment Protocols,Boys,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0040861,C0001675,TREATS,Triage,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0041281,C0001675,TREATS,Tube feeding of patient,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0041447,C0001675,TREATS,Tympanoplasty,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0041447,C0008059,TREATS,Tympanoplasty,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0041450,C0008059,TREATS,Tympanostomy Tube Insertion,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0042196,C0001675,TREATS,Vaccination,Adult,topp,aggp,19,TREATS_TOPPtrtsAGGP
+C0042196,C0008059,TREATS,Vaccination,Child,topp,aggp,66,TREATS_TOPPtrtsAGGP
+C0042196,C0008100,TREATS,Vaccination,"Child, Preschool",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0042196,C0021270,TREATS,Vaccination,Infant,topp,aggp,19,TREATS_TOPPtrtsAGGP
+C0042196,C0021289,TREATS,Vaccination,"Infant, Newborn",topp,aggp,8,TREATS_TOPPtrtsAGGP
+C0042196,C0205653,TREATS,Vaccination,Adolescent (age group),topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0042196,C0238598,TREATS,Vaccination,Young Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0042196,C0260267,TREATS,Vaccination,School child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0042196,C0682053,TREATS,Vaccination,Toddler (age group),topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0042200,C0001675,TREATS,Influenza vaccination,Adult,topp,aggp,10,TREATS_TOPPtrtsAGGP
+C0042200,C0008059,TREATS,Influenza vaccination,Child,topp,aggp,31,TREATS_TOPPtrtsAGGP
+C0042200,C0021270,TREATS,Influenza vaccination,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0042200,C0205653,TREATS,Influenza vaccination,Adolescent (age group),topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0042201,C0008059,TREATS,Measles vaccination,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0042203,C0001675,TREATS,Pertussis vaccination,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0042203,C0008059,TREATS,Pertussis vaccination,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0042203,C0021289,TREATS,Pertussis vaccination,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0042203,C0205653,TREATS,Pertussis vaccination,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0043162,C0001675,TREATS,Whole-Body Irradiation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0043162,C0008059,TREATS,Whole-Body Irradiation,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0052712,C0001675,TREATS,doxorubicin/mitomycin/vinblastine protocol,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0052712,C0008059,TREATS,doxorubicin/mitomycin/vinblastine protocol,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0057163,C0001675,TREATS,DAV regimen,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0057163,C0008059,TREATS,DAV regimen,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0057163,C0021270,TREATS,DAV regimen,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0071973,C0008059,TREATS,Ifosfamide/Methotrexate/Procarbazine protocol,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0078944,C0001675,TREATS,Patient-Controlled Analgesia,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0079613,C0001675,TREATS,Adoptive Immunotherapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0082139,C0001675,TREATS,Cyclophosphamide/Dexamethasone/Doxorubicin/Vincristine,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0083765,C0001675,TREATS,fluorouracil/methotrexate/mitoxantrone protocol,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0083765,C0008059,TREATS,fluorouracil/methotrexate/mitoxantrone protocol,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0085405,C0001675,TREATS,Salvage Therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0085405,C0008059,TREATS,Salvage Therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0085405,C0021270,TREATS,Salvage Therapy,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0085671,C0008059,TREATS,Dressing change,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0085873,C0008059,TREATS,Basic life support,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0086153,C0001675,TREATS,Dietary Modification,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0086153,C0008059,TREATS,Dietary Modification,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0086153,C0021270,TREATS,Dietary Modification,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0086225,C0008059,TREATS,Enteral Feeding,Child,topp,aggp,7,TREATS_TOPPtrtsAGGP
+C0086225,C0021270,TREATS,Enteral Feeding,Infant,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0086225,C4048294,TREATS,Enteral Feeding,Preterm Infant,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0086818,C0001675,TREATS,Platelet Transfusion,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0086818,C0008059,TREATS,Platelet Transfusion,Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0086818,C0021289,TREATS,Platelet Transfusion,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0086904,C0008059,TREATS,Oral rehydration procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0087123,C0008059,TREATS,Tympanostomy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0149615,C0001675,TREATS,Allogeneic bone marrow transplantation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0149615,C0008059,TREATS,Allogeneic bone marrow transplantation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0149783,C0001675,TREATS,Steroid therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0149783,C0008059,TREATS,Steroid therapy,Child,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0149783,C0021270,TREATS,Steroid therapy,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0150126,C0001675,TREATS,Airway Management,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0150126,C0008059,TREATS,Airway Management,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0150141,C0008059,TREATS,Bathing,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0150238,C0001675,TREATS,Fluid resuscitation,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0150238,C0008059,TREATS,Fluid resuscitation,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0150238,C0021289,TREATS,Fluid resuscitation,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0150685,C0001675,TREATS,nasal packing,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0150786,C0001675,TREATS,Stoma care procedure,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0152060,C0001675,TREATS,Transection (procedure),Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0152060,C0008059,TREATS,Transection (procedure),Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0152060,C0021270,TREATS,Transection (procedure),Infant,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0152060,C0021289,TREATS,Transection (procedure),"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0152060,C0678804,TREATS,Transection (procedure),prenatal,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0162352,C0008059,TREATS,Allergen Immunotherapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0162577,C0001675,TREATS,Angioplasty,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0162649,C0001675,TREATS,"Blood Patch, Epidural",Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0162649,C0008059,TREATS,"Blood Patch, Epidural",Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0178702,C0001675,TREATS,hypersensitivity desensitization,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0178702,C0008059,TREATS,hypersensitivity desensitization,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0184633,C0008059,TREATS,Oxygen Therapy Care,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0184893,C0021270,TREATS,Emergency operation,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0184898,C0008059,TREATS,Surgical incisions,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0184904,C0008059,TREATS,Slitting,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0184967,C0008059,TREATS,Insertion of pack (procedure),Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0185003,C0001675,TREATS,Reparative closure,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0185026,C4048294,TREATS,Plication,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0185027,C0008059,TREATS,Imbrication (procedure),Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0185033,C0008059,TREATS,Diversion procedure,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0185033,C0021270,TREATS,Diversion procedure,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0185115,C0008059,TREATS,Extraction,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0185115,C0021289,TREATS,Extraction,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0185373,C0021270,TREATS,Open reduction of fracture,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0189476,C0001675,TREATS,Insertion of pleural tube drain,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0189745,C0008059,TREATS,Open heart surgery,Child,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0189745,C0021270,TREATS,Open heart surgery,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0190658,C0001675,TREATS,Pulmonary Artery Catheterization,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0193959,C0008059,TREATS,Tonsillectomy and adenoidectomy,Child,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0194035,C0021270,TREATS,Thymus transplantation,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0197937,C0008059,TREATS,Eye muscle operation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0198154,C0008059,TREATS,Mastoidectomy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0199176,C0001675,TREATS,Prophylactic treatment,Adult,topp,aggp,12,TREATS_TOPPtrtsAGGP
+C0199176,C0008059,TREATS,Prophylactic treatment,Child,topp,aggp,28,TREATS_TOPPtrtsAGGP
+C0199176,C0021270,TREATS,Prophylactic treatment,Infant,topp,aggp,8,TREATS_TOPPtrtsAGGP
+C0199176,C0021289,TREATS,Prophylactic treatment,"Infant, Newborn",topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0199176,C0205653,TREATS,Prophylactic treatment,Adolescent (age group),topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0199176,C0238598,TREATS,Prophylactic treatment,Young Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0199451,C0001675,TREATS,Continuous Positive Airway Pressure,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0199451,C0008059,TREATS,Continuous Positive Airway Pressure,Child,topp,aggp,9,TREATS_TOPPtrtsAGGP
+C0199451,C0021270,TREATS,Continuous Positive Airway Pressure,Infant,topp,aggp,12,TREATS_TOPPtrtsAGGP
+C0199451,C0021289,TREATS,Continuous Positive Airway Pressure,"Infant, Newborn",topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0199451,C4048294,TREATS,Continuous Positive Airway Pressure,Preterm Infant,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0199451,C4551581,TREATS,Continuous Positive Airway Pressure,Term Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0199470,C0001675,TREATS,Mechanical ventilation,Adult,topp,aggp,8,TREATS_TOPPtrtsAGGP
+C0199470,C0008059,TREATS,Mechanical ventilation,Child,topp,aggp,17,TREATS_TOPPtrtsAGGP
+C0199470,C0021270,TREATS,Mechanical ventilation,Infant,topp,aggp,8,TREATS_TOPPtrtsAGGP
+C0199470,C0021289,TREATS,Mechanical ventilation,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0199470,C0205653,TREATS,Mechanical ventilation,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0199779,C0001675,TREATS,Administration of antibiotic,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0199779,C0008059,TREATS,Administration of antibiotic,Child,topp,aggp,17,TREATS_TOPPtrtsAGGP
+C0199779,C0021270,TREATS,Administration of antibiotic,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0199779,C0021289,TREATS,Administration of antibiotic,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0199798,C0021270,TREATS,human vaccination,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0199804,C0001675,TREATS,Vaccination against tuberculosis,Adult,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0199804,C0008059,TREATS,Vaccination against tuberculosis,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0199804,C0021270,TREATS,Vaccination against tuberculosis,Infant,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0199804,C0021289,TREATS,Vaccination against tuberculosis,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0199804,C0205653,TREATS,Vaccination against tuberculosis,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0199809,C0008059,TREATS,Poliomyelitis vaccination,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0199809,C0021270,TREATS,Poliomyelitis vaccination,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0199810,C0001675,TREATS,Measles-mumps-rubella vaccination,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0199810,C0008059,TREATS,Measles-mumps-rubella vaccination,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0199859,C0008059,TREATS,Deworming,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0199962,C0008059,TREATS,Transfusion of packed red blood cells,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0199962,C0021289,TREATS,Transfusion of packed red blood cells,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0203991,C0008059,TREATS,Resistive exercise,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0204193,C0008059,TREATS,Orthodontic procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0204700,C0021270,TREATS,Fluid restriction,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0204727,C0001675,TREATS,Isolation procedure,Adult,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0204727,C0008059,TREATS,Isolation procedure,Child,topp,aggp,19,TREATS_TOPPtrtsAGGP
+C0204727,C0021270,TREATS,Isolation procedure,Infant,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0204727,C0021289,TREATS,Isolation procedure,"Infant, Newborn",topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0204727,C0205653,TREATS,Isolation procedure,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0204968,C0238598,TREATS,Psychosocial procedure,Young Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0206058,C0001675,TREATS,Elective Surgical Procedures,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0206058,C0008059,TREATS,Elective Surgical Procedures,Child,topp,aggp,9,TREATS_TOPPtrtsAGGP
+C0206058,C0021270,TREATS,Elective Surgical Procedures,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0206058,C0870221,TREATS,Elective Surgical Procedures,Boys,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0206074,C0008059,TREATS,Renal Replacement Therapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0237125,C0008059,TREATS,Drugs regimen,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0242296,C0682053,TREATS,Food Supplementation,Toddler (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0242602,C0001675,TREATS,Peripheral Stem Cell Transplantation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0242602,C0008059,TREATS,Peripheral Stem Cell Transplantation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0242739,C0001675,TREATS,Nutritional Support,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0242739,C0008059,TREATS,Nutritional Support,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0242739,C0021289,TREATS,Nutritional Support,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0259961,C0001675,TREATS,parenteral therapy,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0259961,C0008059,TREATS,parenteral therapy,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0259972,C0008059,TREATS,Ketogenic Diet,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0262705,C0021270,TREATS,Kangaroo care,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0262705,C0021289,TREATS,Kangaroo care,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0262756,C4048294,TREATS,respiratory management,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0278347,C0008059,TREATS,Transfusion of plasma,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0279033,C0001675,TREATS,Replacement therapy,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0279391,C0008059,TREATS,mercaptopurine/methotrexate/vincristine,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0279391,C0021270,TREATS,mercaptopurine/methotrexate/vincristine,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0279391,C0021289,TREATS,mercaptopurine/methotrexate/vincristine,"Infant, Newborn",topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0279772,C0008059,TREATS,Cisplatin/Cyclophosphamide/Doxorubicin/Misonidazole,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0279934,C0001675,TREATS,chlorambucil/etoposide/lomustine,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0279934,C0008059,TREATS,chlorambucil/etoposide/lomustine,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0280274,C0001675,TREATS,Antiviral Therapy,Adult,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0280274,C0008059,TREATS,Antiviral Therapy,Child,topp,aggp,11,TREATS_TOPPtrtsAGGP
+C0280274,C0021270,TREATS,Antiviral Therapy,Infant,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0280274,C0021289,TREATS,Antiviral Therapy,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0280603,C0008059,TREATS,fluorouracil/methotrexate protocol,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0280604,C0001675,TREATS,altretamine/cisplatin/cyclophosphamide protocol,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0280604,C0008059,TREATS,altretamine/cisplatin/cyclophosphamide protocol,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0281178,C0001675,TREATS,Anti-Cytokine Therapy,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0281178,C0008059,TREATS,Anti-Cytokine Therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0281519,C0001675,TREATS,Cisplatin/Etoposide/Paclitaxel,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0281519,C0008059,TREATS,Cisplatin/Etoposide/Paclitaxel,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0282515,C0001675,TREATS,Chemoprevention,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0282515,C0008059,TREATS,Chemoprevention,Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0282515,C0008100,TREATS,Chemoprevention,"Child, Preschool",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0282515,C0021289,TREATS,Chemoprevention,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0282515,C0205653,TREATS,Chemoprevention,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0282624,C0008059,TREATS,Minimally Invasive Surgical Procedures,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0282638,C0008059,TREATS,Antibiotic Prophylaxis,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0302189,C0001675,TREATS,Cell Therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0339897,C0008059,TREATS,Transjugular intrahepatic portosystemic shunt procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0339897,C0205653,TREATS,Transjugular intrahepatic portosystemic shunt procedure,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0349707,C0001675,TREATS,Aspiration-action,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0349707,C0008059,TREATS,Aspiration-action,Child,topp,aggp,11,TREATS_TOPPtrtsAGGP
+C0349707,C0021270,TREATS,Aspiration-action,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0349707,C4048294,TREATS,Aspiration-action,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0374711,C0021270,TREATS,Surgical repair,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0376450,C0021270,TREATS,Transplantation Conditioning,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0376495,C0008059,TREATS,Retreatments,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0392877,C0205653,TREATS,infusion of drug,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0392877,C0238598,TREATS,infusion of drug,Young Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0392920,C0008059,TREATS,Chemotherapy Regimen,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0392920,C0021270,TREATS,Chemotherapy Regimen,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0394664,C0008059,TREATS,Acupuncture procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0396429,C0008059,TREATS,Cricothyroidotomy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0396565,C0001675,TREATS,Lung excision,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0396565,C0008059,TREATS,Lung excision,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0396608,C0008059,TREATS,Airway procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0396621,C0021270,TREATS,Orotracheal intubation,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0396670,C0001675,TREATS,Isolated limb perfusion,Adult,topp,aggp,14,TREATS_TOPPtrtsAGGP
+C0396670,C0008059,TREATS,Isolated limb perfusion,Child,topp,aggp,29,TREATS_TOPPtrtsAGGP
+C0396670,C0008100,TREATS,Isolated limb perfusion,"Child, Preschool",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0399839,C0724000,TREATS,Gastrojejunostomy,Twenties,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0400447,C0870221,TREATS,Orthotopic liver transplant,Boys,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0405765,C0021270,TREATS,Peritoneal drainage procedure,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0413381,C0008059,TREATS,Subcutaneous immunotherapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0418981,C0001675,TREATS,Medical therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0418981,C0008059,TREATS,Medical therapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0419008,C0008059,TREATS,Pressure support,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0419011,C0021270,TREATS,Controlled ventilation,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0419017,C0021270,TREATS,High frequency oscillatory ventilation,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0419017,C0021289,TREATS,High frequency oscillatory ventilation,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0419019,C0021270,TREATS,Liquid Ventilation,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0419019,C0021289,TREATS,Liquid Ventilation,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0419055,C0001675,TREATS,Advanced life support,Adult,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0419055,C0008059,TREATS,Advanced life support,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0419055,C0021289,TREATS,Advanced life support,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0419707,C0001675,TREATS,Pneumococcal vaccination,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0419707,C0008059,TREATS,Pneumococcal vaccination,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0419707,C0021270,TREATS,Pneumococcal vaccination,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0419735,C0008059,TREATS,Hepatitis A immunization,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0419997,C0001675,TREATS,Viral screening,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0419997,C0008059,TREATS,Viral screening,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0420045,C0008059,TREATS,Respiratory disease screening,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0420175,C0021289,TREATS,Vitamin prophylaxis,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0420202,C0001675,TREATS,Cardiac output monitoring,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0439775,C0001675,TREATS,Elevation procedure,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0439775,C0008059,TREATS,Elevation procedure,Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0439775,C0021270,TREATS,Elevation procedure,Infant,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0441509,C0008059,TREATS,Coagulation procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0441615,C0021270,TREATS,Patch repair,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0444735,C0008059,TREATS,Intermittent administration,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0444889,C0008059,TREATS,Continuous infusion,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0444889,C4048294,TREATS,Continuous infusion,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0454505,C0001675,TREATS,Sputum induction technique,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0455142,C0008059,TREATS,Intravenous therapy,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0455142,C0021270,TREATS,Intravenous therapy,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0455142,C0021289,TREATS,Intravenous therapy,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0456675,C0001675,TREATS,Massive blood transfusion,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0457431,C0001675,TREATS,Percutaneous techniques,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0457431,C0021289,TREATS,Percutaneous techniques,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0457544,C0021270,TREATS,Lactation management,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0459914,C0001675,TREATS,Conservative Treatment,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0472699,C0001675,TREATS,Hemopoietic stem cell transplant,Adult,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0472699,C0008059,TREATS,Hemopoietic stem cell transplant,Child,topp,aggp,52,TREATS_TOPPtrtsAGGP
+C0472699,C0021270,TREATS,Hemopoietic stem cell transplant,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0472699,C0205653,TREATS,Hemopoietic stem cell transplant,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0472699,C0870221,TREATS,Hemopoietic stem cell transplant,Boys,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0520251,C0008059,TREATS,Multiple interventional procedures,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0521300,C0008059,TREATS,Life support procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0524832,C0008059,TREATS,Thoracic Surgical Procedures,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0524850,C0008059,TREATS,Neurosurgical Procedures,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0524865,C0008059,TREATS,Reconstructive Surgical Procedures,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0524975,C0021270,TREATS,"Osteogenesis, Distraction",Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0543467,C0008059,TREATS,Operative Surgical Procedures,Child,topp,aggp,14,TREATS_TOPPtrtsAGGP
+C0543467,C0021270,TREATS,Operative Surgical Procedures,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0543467,C0021289,TREATS,Operative Surgical Procedures,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0547070,C0001675,TREATS,Ablation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0553741,C0021270,TREATS,Fluid Management,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0553741,C0021289,TREATS,Fluid Management,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0554804,C0001675,TREATS,Assisted breathing,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0554804,C0008059,TREATS,Assisted breathing,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0554804,C0021270,TREATS,Assisted breathing,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0554804,C0021289,TREATS,Assisted breathing,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0556562,C0205653,TREATS,Life skills training,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0557061,C0021270,TREATS,Discussion (procedure),Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0559221,C0008059,TREATS,Gastrostomy feeding,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0559680,C0008059,TREATS,Intravenous antibiotic therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0564626,C0008059,TREATS,Pressure controlled ventilation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0565867,C0001675,TREATS,delivery method,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0581602,C0001675,TREATS,Structural modification,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0581602,C0021270,TREATS,Structural modification,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0586328,C0001675,TREATS,Subcutaneous injection of insulin,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0587279,C0008059,TREATS,Methylprednisolone pulse therapy,Child,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0597750,C0021289,TREATS,antigen challenge,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0597815,C0008059,TREATS,crystal healing,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0599917,C0008059,TREATS,intervention program,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0600047,C0205653,TREATS,Patient counseling,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0600558,C0008059,TREATS,Neoadjuvant Therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0600558,C0021270,TREATS,Neoadjuvant Therapy,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0677850,C0001675,TREATS,Adjuvant Therapy,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0677850,C0008059,TREATS,Adjuvant Therapy,Child,topp,aggp,12,TREATS_TOPPtrtsAGGP
+C0677850,C0021289,TREATS,Adjuvant Therapy,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0677908,C0001675,TREATS,Maintenance therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0677908,C0008059,TREATS,Maintenance therapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0678026,C0008059,TREATS,Antifungal therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0678026,C0021270,TREATS,Antifungal therapy,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0678812,C0008100,TREATS,systemic administration,"Child, Preschool",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0679637,C0001675,TREATS,major surgery,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0679637,C4048294,TREATS,major surgery,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0679698,C0001675,TREATS,disease prevention,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0679698,C0008059,TREATS,disease prevention,Child,topp,aggp,7,TREATS_TOPPtrtsAGGP
+C0679698,C0021270,TREATS,disease prevention,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0679698,C0021289,TREATS,disease prevention,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0679698,C0682053,TREATS,disease prevention,Toddler (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0679699,C0001675,TREATS,Secondary Prevention,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0679699,C0008059,TREATS,Secondary Prevention,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0679700,C0021289,TREATS,Tertiary Prevention,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0679750,C0008059,TREATS,prevention through information dissemination,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0679875,C0205653,TREATS,psychological care,Adolescent (age group),topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0683465,C0205653,TREATS,novel AODU treatment method,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0683468,C4048294,TREATS,invasive treatment,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0695341,C0008059,TREATS,common procedures,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0695434,C0008059,TREATS,oscillations,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0700589,C0205653,TREATS,Contraceptive methods,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0728940,C0001675,TREATS,Excision,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0728940,C0008059,TREATS,Excision,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0730400,C0008059,TREATS,Solid organ transplant,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0740413,C0021289,TREATS,Tuberculosis prophylaxis,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0741614,C0021270,TREATS,Intestine Resection,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0741847,C0008059,TREATS,Bypass,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0741847,C0021270,TREATS,Bypass,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0744425,C0001675,TREATS,glucocorticoid therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0747973,C0008059,TREATS,Elective procedure,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0749390,C0008059,TREATS,throat surgery,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0751429,C0008059,TREATS,"Surgical Procedures, Laparoscopic",Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0765584,C0008059,TREATS,OPEN regimen,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0765585,C0001675,TREATS,OPEN protocol,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0813207,C0021270,TREATS,Creation of shunt,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0814435,C0001675,TREATS,early identification,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0814435,C0008059,TREATS,early identification,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0814435,C0021270,TREATS,early identification,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0841874,C0008059,TREATS,dental emergency,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0848106,C0021270,TREATS,vitamin injection,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0850110,C0021270,TREATS,congenital cardiac operations,Infant,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0852216,C0008059,TREATS,Breast Cancer Radiotherapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0853245,C0008059,TREATS,dvt prophylaxis,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0857208,C0001675,TREATS,routine immunization,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0857208,C0008059,TREATS,routine immunization,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C0857208,C0021270,TREATS,routine immunization,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0857244,C4048294,TREATS,Pain Prevention,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0860359,C0008059,TREATS,Reintubation Procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0870810,C0001675,TREATS,lifesaving,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0870810,C0008059,TREATS,lifesaving,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0870810,C0021270,TREATS,lifesaving,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0871821,C0001675,TREATS,combination therapy Approach,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0872279,C0008059,TREATS,Resistance Training,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0872361,C4048294,TREATS,prenatal therapy,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0883301,C0021289,TREATS,catheter placement,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0883304,C0008059,TREATS,placement of tube,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0886052,C0008059,TREATS,wound care,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0887947,C0008059,TREATS,"Antiretroviral Therapy, Highly Active",Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0917707,C0021270,TREATS,Cannulation,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0917707,C0021289,TREATS,Cannulation,"Infant, Newborn",topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0917707,C4048294,TREATS,Cannulation,Preterm Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0920118,C0008059,TREATS,Transtracheal aspiration,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0920298,C0001675,TREATS,Weight maintenance regimen,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0920298,C0008059,TREATS,Weight maintenance regimen,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0920425,C0001675,TREATS,Cancer Therapeutic Procedure,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0920425,C0008059,TREATS,Cancer Therapeutic Procedure,Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C0920467,C0001675,TREATS,disorder control (procedure),Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0920467,C0008059,TREATS,disorder control (procedure),Child,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C0920551,C0001675,TREATS,HIV therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0935576,C0001675,TREATS,treatment guideline,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0935576,C0008059,TREATS,treatment guideline,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0935606,C0008059,TREATS,therapeutic processes,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0935850,C0001675,TREATS,Umbilical Cord Blood Transplantation,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C0935850,C0008059,TREATS,Umbilical Cord Blood Transplantation,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0935850,C0205653,TREATS,Umbilical Cord Blood Transplantation,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0947647,C0001675,TREATS,Manipulation procedure,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0947647,C4048294,TREATS,Manipulation procedure,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0947734,C0021289,TREATS,Vascular Therapies,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0948092,C0008059,TREATS,diabetes mellitus management,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0949216,C0008100,TREATS,Alternative Therapies,"Child, Preschool",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0949266,C0001675,TREATS,"Therapies, Investigational",Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C0949266,C0008059,TREATS,"Therapies, Investigational",Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C0949766,C0001675,TREATS,Physical therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1096288,C0008059,TREATS,perioperative analgesia,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1096534,C0008059,TREATS,Magnesium supplement therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1135929,C0008059,TREATS,Mass Vaccination,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1141958,C0001675,TREATS,anti-infective therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1141958,C0008059,TREATS,anti-infective therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1171177,C0021270,TREATS,Adult care,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1171257,C0008059,TREATS,Delivery care,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1171257,C0021270,TREATS,Delivery care,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1171257,C0021289,TREATS,Delivery care,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1171257,C0205653,TREATS,Delivery care,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1258045,C0008059,TREATS,Nasal Continuous Positive Airway Pressure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1274143,C0008059,TREATS,Communication interventions,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1276413,C0008059,TREATS,Therapeutic regimen,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1280903,C0001675,TREATS,Exploration procedure,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1280903,C0008059,TREATS,Exploration procedure,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1282959,C0021270,TREATS,Median Sternotomy,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1285158,C0008059,TREATS,Palliative procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1293130,C0008059,TREATS,Stabilization,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1293338,C0021270,TREATS,Larynx closure,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1293338,C0021289,TREATS,Larynx closure,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1293373,C0008059,TREATS,Cardiovascular system reconstruction,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1293398,C0205653,TREATS,Aorta reconstruction,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1293883,C0008059,TREATS,Transfusion of fresh frozen plasma,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1298805,C0008059,TREATS,Routine procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1299353,C0008059,TREATS,Outpatient procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1299597,C0001675,TREATS,Empirical therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1299597,C0008059,TREATS,Empirical therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1300200,C0021289,TREATS,Anesthesia management,"Infant, Newborn",topp,aggp,3,TREATS_TOPPtrtsAGGP
+C1320708,C4048294,TREATS,Volume controlled ventilation,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1321916,C0008059,TREATS,cisplatin/etoposide/vindesine protocol,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1321916,C0021270,TREATS,cisplatin/etoposide/vindesine protocol,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1328050,C0008059,TREATS,High Dose Chemotherapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1443861,C0001675,TREATS,Post-Exposure Prophylaxis,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1443861,C0008059,TREATS,Post-Exposure Prophylaxis,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1443867,C0001675,TREATS,Standard precautions,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1455870,C0008059,TREATS,Bi-level airway pressure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1455871,C0008059,TREATS,Non-invasive positive pressure (NIPPV),Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1456094,C0008059,TREATS,allogeneic hematopoietic stem cell transplant with purging,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1456587,C0001675,TREATS,Bariatric Surgery,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C1456587,C0205653,TREATS,Bariatric Surgery,Adolescent (age group),topp,aggp,17,TREATS_TOPPtrtsAGGP
+C1456647,C0008059,TREATS,Childhood Immunization,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1510538,C0001675,TREATS,Distance Counseling,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1510538,C0008059,TREATS,Distance Counseling,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1510857,C0001675,TREATS,Allergy Shot,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1510857,C0008059,TREATS,Allergy Shot,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C1511237,C0008059,TREATS,bolus infusion,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1511790,C0001675,TREATS,Detection,Adult,topp,aggp,54,TREATS_TOPPtrtsAGGP
+C1511790,C0008059,TREATS,Detection,Child,topp,aggp,185,TREATS_TOPPtrtsAGGP
+C1511790,C0021270,TREATS,Detection,Infant,topp,aggp,11,TREATS_TOPPtrtsAGGP
+C1511790,C0021289,TREATS,Detection,"Infant, Newborn",topp,aggp,7,TREATS_TOPPtrtsAGGP
+C1511790,C0205653,TREATS,Detection,Adolescent (age group),topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1511790,C0238598,TREATS,Detection,Young Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1511790,C3843826,TREATS,Detection,Thirties,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1511790,C4048294,TREATS,Detection,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1512721,C0008059,TREATS,Inferential Current Treatment,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1522449,C0008059,TREATS,Therapeutic radiology procedure,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1532786,C0021270,TREATS,Rotavirus vaccination,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1533734,C0008059,TREATS,Administration procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1533734,C0021270,TREATS,Administration procedure,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1533734,C0682053,TREATS,Administration procedure,Toddler (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1535502,C0001675,TREATS,Bronchoalveolar Lavage,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1535502,C0008059,TREATS,Bronchoalveolar Lavage,Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C1571809,C0021270,TREATS,Visceral manipulation,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1627346,C0021270,TREATS,Feeding regime,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1627346,C0021289,TREATS,Feeding regime,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1659427,C0008059,TREATS,nebulization-mediated drug administration,Child,topp,aggp,14,TREATS_TOPPtrtsAGGP
+C1704535,C0021289,TREATS,Passive Method,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1705576,C0001675,TREATS,Allogeneic Hematopoietic Stem Cell Transplantation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1705576,C0008059,TREATS,Allogeneic Hematopoietic Stem Cell Transplantation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1708063,C0001675,TREATS,First line treatment,Adult,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C1708063,C0008059,TREATS,First line treatment,Child,topp,aggp,11,TREATS_TOPPtrtsAGGP
+C1708063,C0021270,TREATS,First line treatment,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1710038,C0001675,TREATS,Second line treatment,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1710038,C0008059,TREATS,Second line treatment,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1735337,C0008059,TREATS,Asthma prophylaxis,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1740843,C0008059,TREATS,Respiratory syncytial virus prophylaxis,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1868981,C0008059,TREATS,Invasive mechanical ventilation NOS,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1882454,C0001675,TREATS,Preparative Regimen,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1961005,C0021270,TREATS,Esophageal pressure monitoring,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1963724,C0001675,TREATS,Antiretroviral therapy,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C1963724,C0008059,TREATS,Antiretroviral therapy,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C1963724,C0238598,TREATS,Antiretroviral therapy,Young Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1963758,C0001675,TREATS,Immunomodulation,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1963758,C0008059,TREATS,Immunomodulation,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C1964029,C0008059,TREATS,early/brief intervention/therapy (treatment),Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1964029,C0021270,TREATS,early/brief intervention/therapy (treatment),Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1997883,C0001675,TREATS,Noninvasive Ventilation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C1997883,C0008059,TREATS,Noninvasive Ventilation,Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C1997883,C0021270,TREATS,Noninvasive Ventilation,Infant,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C1997883,C4048294,TREATS,Noninvasive Ventilation,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2077218,C0008059,TREATS,Injury care,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2077218,C0205653,TREATS,Injury care,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2169144,C0001675,TREATS,Radiation dose,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2169144,C0008059,TREATS,Radiation dose,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C2188405,C0008059,TREATS,urgent Operation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2242628,C0021289,TREATS,Fecal Microbiota Transplantation,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2348331,C0001675,TREATS,Dose Regimen,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2348331,C0008059,TREATS,Dose Regimen,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2348331,C0021270,TREATS,Dose Regimen,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2348331,C0238598,TREATS,Dose Regimen,Young Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2349740,C0008059,TREATS,Non-invasive mechanical ventilation,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C2711836,C0001675,TREATS,Percutaneous replacement of aortic valve using fluoroscopic guidance,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2827774,C0001675,TREATS,Current Therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2827774,C0008059,TREATS,Current Therapy,Child,topp,aggp,4,TREATS_TOPPtrtsAGGP
+C2827774,C0021270,TREATS,Current Therapy,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C2945704,C0001675,TREATS,Conventional Treatment,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C2945704,C0008059,TREATS,Conventional Treatment,Child,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C2945704,C4048294,TREATS,Conventional Treatment,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2973270,C0001675,TREATS,Health Checkup,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2985566,C0001675,TREATS,Targeted Therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C2986592,C0021270,TREATS,Definitive Treatment,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3177188,C0008059,TREATS,Early Therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3179010,C0008059,TREATS,Induction Chemotherapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3241973,C0008059,TREATS,Pediatric Surgical Procedures,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3267174,C0008059,TREATS,Blood Glucose control,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3272275,C0008059,TREATS,Urgent Procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3274791,C0021270,TREATS,Mechanical Circulatory Support,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3469597,C0001675,TREATS,Administration of medication,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3526597,C0008059,TREATS,Psychiatric Intervention,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3526598,C0008059,TREATS,Psychiatric service,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3526598,C0205653,TREATS,Psychiatric service,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3540512,C0001675,TREATS,Circumferential Supracrestal Fiberotomy,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C3540512,C0008059,TREATS,Circumferential Supracrestal Fiberotomy,Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C3540512,C0021270,TREATS,Circumferential Supracrestal Fiberotomy,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3540512,C0021289,TREATS,Circumferential Supracrestal Fiberotomy,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C3540512,C4048294,TREATS,Circumferential Supracrestal Fiberotomy,Preterm Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C3642481,C0021270,TREATS,Neonatal Resuscitation,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3649547,C0021270,TREATS,Continuous Renal Replacement Therapy,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C3649547,C0021289,TREATS,Continuous Renal Replacement Therapy,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C3658366,C0008059,TREATS,Sublingual Immunotherapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C3661922,C4048294,TREATS,Surfactant replacement therapy,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3665674,C0001675,TREATS,Warburg Therapy,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C3665674,C0008059,TREATS,Warburg Therapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C3665674,C0021270,TREATS,Warburg Therapy,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C3665674,C0021289,TREATS,Warburg Therapy,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3714568,C0001675,TREATS,Aerosol therapy,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3810531,C0008059,TREATS,Bortezomib/Dexamethasone/Pegylated Liposomal Doxorubicin Regimen,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C3825792,C0001675,TREATS,Pressure breathing,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3825792,C0021289,TREATS,Pressure breathing,"Infant, Newborn",topp,aggp,2,TREATS_TOPPtrtsAGGP
+C3826108,C0021289,TREATS,Intravenous catheterization,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3826215,C0021270,TREATS,Hernia--Surgery,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3826215,C0021289,TREATS,Hernia--Surgery,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3826866,C0238598,TREATS,Bortezomib/Cyclophosphamide/Dexamethasone Regimen,Young Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3828439,C0008059,TREATS,Pulmonary Hygiene,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3839839,C0008059,TREATS,Pediatric care,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C3839839,C0021270,TREATS,Pediatric care,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3843422,C0205653,TREATS,Abstinence,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3850024,C2827631,TREATS,Transcranial Direct Current Stimulation,School Age Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3850098,C0008059,TREATS,Pre-Exposure Prophylaxis,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3858690,C0001675,TREATS,adjunctive treatment,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C3897353,C0021270,TREATS,Topical Steroid Therapy,Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C3897730,C0008059,TREATS,Reduced-Intensity Transplant Conditioning Procedure,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4050091,C0008059,TREATS,Topical Corticosteroid Therapy,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4050091,C0205653,TREATS,Topical Corticosteroid Therapy,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4277645,C0008100,TREATS,Phage Therapy,"Child, Preschool",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4289797,C0008059,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C4289797,C0238598,TREATS,Chimeric Antigen Receptor T-Cell Therapy,Young Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C4330729,C0008059,TREATS,Myelosuppressive Chemotherapy,Child,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C4505223,C0008059,TREATS,Mass Drug Administration,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4520447,C0001675,TREATS,Decolonization,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4520447,C0021289,TREATS,Decolonization,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4527425,C0008059,TREATS,Haploidentical Hematopoietic Cell Transplantation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4553172,C0021289,TREATS,Antibiotic Lock Therapy,"Infant, Newborn",topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4697827,C0001675,TREATS,Assist-control ventilation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4722104,C0008059,TREATS,Desensitization,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4722104,C0205653,TREATS,Desensitization,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4723833,C0001675,TREATS,vertebral augmentation procedure,Adult,topp,aggp,3,TREATS_TOPPtrtsAGGP
+C4723833,C0008059,TREATS,vertebral augmentation procedure,Child,topp,aggp,6,TREATS_TOPPtrtsAGGP
+C4723833,C0021270,TREATS,vertebral augmentation procedure,Infant,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C4723833,C0021289,TREATS,vertebral augmentation procedure,"Infant, Newborn",topp,aggp,13,TREATS_TOPPtrtsAGGP
+C4723833,C0205847,TREATS,vertebral augmentation procedure,Middle Aged,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4723833,C4048294,TREATS,vertebral augmentation procedure,Preterm Infant,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4760443,C0008059,TREATS,Bronchoscopic lavage,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C4763675,C0001675,TREATS,Single Agent Therapy,Adult,topp,aggp,2,TREATS_TOPPtrtsAGGP
+C4763675,C0008059,TREATS,Single Agent Therapy,Child,topp,aggp,5,TREATS_TOPPtrtsAGGP
+C4763675,C0205653,TREATS,Single Agent Therapy,Adolescent (age group),topp,aggp,1,TREATS_TOPPtrtsAGGP
+C5192099,C0008059,TREATS,Venovenous extracorporeal membrane oxygenation,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C5200706,C0001675,TREATS,Rapid Sequence Intubation,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C5202572,C0008059,TREATS,Interval Debulking Surgery,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C5204857,C0001675,TREATS,Cyclophosphamide Regimen,Adult,topp,aggp,1,TREATS_TOPPtrtsAGGP
+C5204923,C0008059,TREATS,Melphalan Regimen,Child,topp,aggp,1,TREATS_TOPPtrtsAGGP

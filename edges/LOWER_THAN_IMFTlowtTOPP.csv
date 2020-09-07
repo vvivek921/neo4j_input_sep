@@ -1,0 +1,6 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003320,C0001563,LOWER_THAN,Antigens,"Administration, Oral",imft,topp,1,LOWER_THAN_IMFTlowtTOPP
+C0003320,C0020971,LOWER_THAN,Antigens,Immunization,imft,topp,1,LOWER_THAN_IMFTlowtTOPP
+C0021403,C0020971,LOWER_THAN,Influenza virus vaccine,Immunization,imft,topp,1,LOWER_THAN_IMFTlowtTOPP
+C0042211,C0042196,LOWER_THAN,"Vaccines, Attenuated",Vaccination,imft,topp,2,LOWER_THAN_IMFTlowtTOPP
+C0310663,C0199798,LOWER_THAN,Animal disease vaccine,human vaccination,imft,topp,2,LOWER_THAN_IMFTlowtTOPP

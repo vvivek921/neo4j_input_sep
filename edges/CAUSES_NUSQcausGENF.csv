@@ -1,0 +1,66 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004793,C0012899,CAUSES,Base Sequence,DNA Repair,nusq,genf,1,CAUSES_NUSQcausGENF
+C0004793,C0020202,CAUSES,Base Sequence,Crossbreeding,nusq,genf,1,CAUSES_NUSQcausGENF
+C0004793,C0282572,CAUSES,Base Sequence,"Frameshifting, Ribosomal",nusq,genf,2,CAUSES_NUSQcausGENF
+C0004793,C0678926,CAUSES,Base Sequence,wild-type genetics,nusq,genf,1,CAUSES_NUSQcausGENF
+C0009221,C0026882,CAUSES,Codon (nucleotide sequence),Mutation,nusq,genf,2,CAUSES_NUSQcausGENF
+C0009221,C0282572,CAUSES,Codon (nucleotide sequence),"Frameshifting, Ribosomal",nusq,genf,2,CAUSES_NUSQcausGENF
+C0009221,C1158013,CAUSES,Codon (nucleotide sequence),Nonsense Mediated mRNA Decay,nusq,genf,1,CAUSES_NUSQcausGENF
+C0009221,C1257758,CAUSES,Codon (nucleotide sequence),mRNA Decay,nusq,genf,1,CAUSES_NUSQcausGENF
+C0009221,C5197798,CAUSES,Codon (nucleotide sequence),Codon Usage,nusq,genf,2,CAUSES_NUSQcausGENF
+C0009221,C5197799,CAUSES,Codon (nucleotide sequence),Codon Bias,nusq,genf,1,CAUSES_NUSQcausGENF
+C0009802,C1257756,CAUSES,Conserved Sequence,RNA Degradation,nusq,genf,1,CAUSES_NUSQcausGENF
+C0079160,C1956002,CAUSES,Consensus Sequence,INDEL Mutation,nusq,genf,1,CAUSES_NUSQcausGENF
+C0080089,C0034865,CAUSES,Reading Frames (Nucleotide Sequence),"Recombination, Genetic",nusq,genf,1,CAUSES_NUSQcausGENF
+C0080089,C0282572,CAUSES,Reading Frames (Nucleotide Sequence),"Frameshifting, Ribosomal",nusq,genf,1,CAUSES_NUSQcausGENF
+C0080089,C2610186,CAUSES,Reading Frames (Nucleotide Sequence),"nuclear mRNA cis splicing, via spliceosome",nusq,genf,1,CAUSES_NUSQcausGENF
+C0080089,C5197798,CAUSES,Reading Frames (Nucleotide Sequence),Codon Usage,nusq,genf,1,CAUSES_NUSQcausGENF
+C0086908,C0040649,CAUSES,Repetitive Region,"Transcription, Genetic",nusq,genf,2,CAUSES_NUSQcausGENF
+C0162326,C0017262,CAUSES,DNA Sequence,Gene Expression,nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C0020202,CAUSES,DNA Sequence,Crossbreeding,nusq,genf,3,CAUSES_NUSQcausGENF
+C0162326,C0034865,CAUSES,DNA Sequence,"Recombination, Genetic",nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C0040649,CAUSES,DNA Sequence,"Transcription, Genetic",nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C0282572,CAUSES,DNA Sequence,"Frameshifting, Ribosomal",nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C0599773,CAUSES,DNA Sequence,Homologous Recombination,nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C0917892,CAUSES,DNA Sequence,Genetic Drift,nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C1136031,CAUSES,DNA Sequence,RNA Interference,nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C1152412,CAUSES,DNA Sequence,RNA-directed RNA polymerase activity,nusq,genf,2,CAUSES_NUSQcausGENF
+C0162326,C1158726,CAUSES,DNA Sequence,mRNA cleavage,nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C1158830,CAUSES,DNA Sequence,Transcription Initiation,nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C1456459,CAUSES,DNA Sequence,Chromatin Modeling,nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C1519619,CAUSES,DNA Sequence,Translational Repression,nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C2610186,CAUSES,DNA Sequence,"nuclear mRNA cis splicing, via spliceosome",nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C3494209,CAUSES,DNA Sequence,"Transcription Termination, Genetic",nusq,genf,1,CAUSES_NUSQcausGENF
+C0162326,C5197798,CAUSES,DNA Sequence,Codon Usage,nusq,genf,1,CAUSES_NUSQcausGENF
+C0162327,C0598496,CAUSES,RNA Sequence,Gene Silencing,nusq,genf,1,CAUSES_NUSQcausGENF
+C0242611,C0026882,CAUSES,"Codon, Terminator",Mutation,nusq,genf,2,CAUSES_NUSQcausGENF
+C0242611,C0034865,CAUSES,"Codon, Terminator","Recombination, Genetic",nusq,genf,1,CAUSES_NUSQcausGENF
+C0242611,C0040649,CAUSES,"Codon, Terminator","Transcription, Genetic",nusq,genf,1,CAUSES_NUSQcausGENF
+C0242611,C1158013,CAUSES,"Codon, Terminator",Nonsense Mediated mRNA Decay,nusq,genf,1,CAUSES_NUSQcausGENF
+C0242611,C1257759,CAUSES,"Codon, Terminator",mRNA Degradation,nusq,genf,1,CAUSES_NUSQcausGENF
+C0242612,C0026882,CAUSES,"Codon, Nonsense",Mutation,nusq,genf,2,CAUSES_NUSQcausGENF
+C0242612,C0598496,CAUSES,"Codon, Nonsense",Gene Silencing,nusq,genf,1,CAUSES_NUSQcausGENF
+C0242612,C1158013,CAUSES,"Codon, Nonsense",Nonsense Mediated mRNA Decay,nusq,genf,2,CAUSES_NUSQcausGENF
+C0242612,C1257759,CAUSES,"Codon, Nonsense",mRNA Degradation,nusq,genf,1,CAUSES_NUSQcausGENF
+C0600600,C0525038,CAUSES,3' Untranslated Regions,Amino Acid Substitution,nusq,genf,1,CAUSES_NUSQcausGENF
+C0600600,C0598496,CAUSES,3' Untranslated Regions,Gene Silencing,nusq,genf,1,CAUSES_NUSQcausGENF
+C0600600,C1257759,CAUSES,3' Untranslated Regions,mRNA Degradation,nusq,genf,4,CAUSES_NUSQcausGENF
+C0600600,C1519614,CAUSES,3' Untranslated Regions,Genetic Translation Process,nusq,genf,1,CAUSES_NUSQcausGENF
+C0600600,C1519619,CAUSES,3' Untranslated Regions,Translational Repression,nusq,genf,7,CAUSES_NUSQcausGENF
+C0600600,C3155686,CAUSES,3' Untranslated Regions,mRNA destabilization,nusq,genf,2,CAUSES_NUSQcausGENF
+C0752046,C0002345,CAUSES,Single Nucleotide Polymorphism,Alternative Splicing,nusq,genf,2,CAUSES_NUSQcausGENF
+C0752046,C0026882,CAUSES,Single Nucleotide Polymorphism,Mutation,nusq,genf,1,CAUSES_NUSQcausGENF
+C0752046,C0032529,CAUSES,Single Nucleotide Polymorphism,Genetic Polymorphism,nusq,genf,2,CAUSES_NUSQcausGENF
+C0752046,C0525038,CAUSES,Single Nucleotide Polymorphism,Amino Acid Substitution,nusq,genf,10,CAUSES_NUSQcausGENF
+C0752046,C0599155,CAUSES,Single Nucleotide Polymorphism,Missense Mutation,nusq,genf,7,CAUSES_NUSQcausGENF
+C0752046,C2610186,CAUSES,Single Nucleotide Polymorphism,"nuclear mRNA cis splicing, via spliceosome",nusq,genf,1,CAUSES_NUSQcausGENF
+C0752046,C4551805,CAUSES,Single Nucleotide Polymorphism,Polygenic Traits,nusq,genf,1,CAUSES_NUSQcausGENF
+C0887918,C2610186,CAUSES,Splice Acceptor Site,"nuclear mRNA cis splicing, via spliceosome",nusq,genf,1,CAUSES_NUSQcausGENF
+C1517336,C1158817,CAUSES,G-Quadruplexes,viral transcription,nusq,genf,1,CAUSES_NUSQcausGENF
+C1720837,C0162782,CAUSES,Alternative Splice Sites,RNA Editing,nusq,genf,1,CAUSES_NUSQcausGENF
+C1720838,C2610186,CAUSES,Cryptic Splice Sites,"nuclear mRNA cis splicing, via spliceosome",nusq,genf,1,CAUSES_NUSQcausGENF
+C1882940,C0017262,CAUSES,Restriction Site,Gene Expression,nusq,genf,1,CAUSES_NUSQcausGENF
+C1956150,C0282572,CAUSES,Opal Stop Codon,"Frameshifting, Ribosomal",nusq,genf,1,CAUSES_NUSQcausGENF
+C3178797,C0282572,CAUSES,RNA Motifs,"Frameshifting, Ribosomal",nusq,genf,1,CAUSES_NUSQcausGENF
+C3178810,C0017262,CAUSES,Transcriptome,Gene Expression,nusq,genf,1,CAUSES_NUSQcausGENF
+C3178810,C1171362,CAUSES,Transcriptome,protein expression,nusq,genf,1,CAUSES_NUSQcausGENF

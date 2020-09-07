@@ -1,0 +1,60 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001617,C0000786,PREVENTS,Adrenal Cortex Hormones,Spontaneous abortion,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0006114,PREVENTS,Adrenal Cortex Hormones,Cerebral Edema,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0013604,PREVENTS,Adrenal Cortex Hormones,Edema,horm,patf,4,PREVENTS_HORMprevPATF
+C0001617,C0016059,PREVENTS,Adrenal Cortex Hormones,Fibrosis,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0019080,PREVENTS,Adrenal Cortex Hormones,Hemorrhage,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0020507,PREVENTS,Adrenal Cortex Hormones,Hyperplasia,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0021368,PREVENTS,Adrenal Cortex Hormones,Inflammation,horm,patf,28,PREVENTS_HORMprevPATF
+C0001617,C0161816,PREVENTS,Adrenal Cortex Hormones,Cardiac complication,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0206277,PREVENTS,Adrenal Cortex Hormones,Fatal Outcome,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0242656,PREVENTS,Adrenal Cortex Hormones,Disease Progression,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0243069,PREVENTS,Adrenal Cortex Hormones,Hypoplasia,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0302158,PREVENTS,Adrenal Cortex Hormones,Leucocytic infiltrate,horm,patf,2,PREVENTS_HORMprevPATF
+C0001617,C0332448,PREVENTS,Adrenal Cortex Hormones,Infiltration,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0333990,PREVENTS,Adrenal Cortex Hormones,Basal cell hyperplasia,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0342314,PREVENTS,Adrenal Cortex Hormones,Dawn phenomenon,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0678798,PREVENTS,Adrenal Cortex Hormones,Adverse drug interaction,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0848215,PREVENTS,Adrenal Cortex Hormones,perinatal morbidity,horm,patf,1,PREVENTS_HORMprevPATF
+C0001617,C0848898,PREVENTS,Adrenal Cortex Hormones,Neonatal morbidity,horm,patf,3,PREVENTS_HORMprevPATF
+C0001617,C1155266,PREVENTS,Adrenal Cortex Hormones,Inflammatory Response,horm,patf,6,PREVENTS_HORMprevPATF
+C0001617,C2717792,PREVENTS,Adrenal Cortex Hormones,Airway Remodeling,horm,patf,3,PREVENTS_HORMprevPATF
+C0001617,C3714514,PREVENTS,Adrenal Cortex Hormones,Infection,horm,patf,1,PREVENTS_HORMprevPATF
+C0002844,C0002994,PREVENTS,Androgens,Angioedema,horm,patf,1,PREVENTS_HORMprevPATF
+C0002844,C0013604,PREVENTS,Androgens,Edema,horm,patf,2,PREVENTS_HORMprevPATF
+C0002844,C0334096,PREVENTS,Androgens,Intimal proliferation,horm,patf,1,PREVENTS_HORMprevPATF
+C0010137,C0021368,PREVENTS,cortisone,Inflammation,horm,patf,1,PREVENTS_HORMprevPATF
+C0011185,C0021368,PREVENTS,prasterone,Inflammation,horm,patf,1,PREVENTS_HORMprevPATF
+C0012472,C0021375,PREVENTS,dinoprostone,allergic inflammation,horm,patf,1,PREVENTS_HORMprevPATF
+C0012472,C0302158,PREVENTS,dinoprostone,Leucocytic infiltrate,horm,patf,1,PREVENTS_HORMprevPATF
+C0012472,C0332448,PREVENTS,dinoprostone,Infiltration,horm,patf,1,PREVENTS_HORMprevPATF
+C0014563,C0013604,PREVENTS,epinephrine,Edema,horm,patf,1,PREVENTS_HORMprevPATF
+C0014939,C0022116,PREVENTS,estrogens,Ischemia,horm,patf,2,PREVENTS_HORMprevPATF
+C0014940,C0000786,PREVENTS,"Estrogens, Non-Steroidal",Spontaneous abortion,horm,patf,1,PREVENTS_HORMprevPATF
+C0014940,C0032962,PREVENTS,"Estrogens, Non-Steroidal",Pregnancy Complications,horm,patf,1,PREVENTS_HORMprevPATF
+C0017710,C0013604,PREVENTS,Glucocorticoids,Edema,horm,patf,3,PREVENTS_HORMprevPATF
+C0017710,C0015376,PREVENTS,Glucocorticoids,Extravasation,horm,patf,1,PREVENTS_HORMprevPATF
+C0017710,C0021368,PREVENTS,Glucocorticoids,Inflammation,horm,patf,5,PREVENTS_HORMprevPATF
+C0017710,C1155266,PREVENTS,Glucocorticoids,Inflammatory Response,horm,patf,1,PREVENTS_HORMprevPATF
+C0020268,C0026766,PREVENTS,hydrocortisone,Multiple Organ Failure,horm,patf,1,PREVENTS_HORMprevPATF
+C0020268,C1155266,PREVENTS,hydrocortisone,Inflammatory Response,horm,patf,1,PREVENTS_HORMprevPATF
+C0025219,C0021368,PREVENTS,melatonin,Inflammation,horm,patf,2,PREVENTS_HORMprevPATF
+C0025219,C0036982,PREVENTS,melatonin,"Shock, Hemorrhagic",horm,patf,1,PREVENTS_HORMprevPATF
+C0025219,C1155266,PREVENTS,melatonin,Inflammatory Response,horm,patf,1,PREVENTS_HORMprevPATF
+C0025219,C2004491,PREVENTS,melatonin,Cicatrix,horm,patf,1,PREVENTS_HORMprevPATF
+C0025219,C3714514,PREVENTS,melatonin,Infection,horm,patf,1,PREVENTS_HORMprevPATF
+C0025815,C0021368,PREVENTS,methylprednisolone,Inflammation,horm,patf,1,PREVENTS_HORMprevPATF
+C0025815,C0242656,PREVENTS,methylprednisolone,Disease Progression,horm,patf,1,PREVENTS_HORMprevPATF
+C0025815,C1155266,PREVENTS,methylprednisolone,Inflammatory Response,horm,patf,1,PREVENTS_HORMprevPATF
+C0028351,C0020507,PREVENTS,norepinephrine,Hyperplasia,horm,patf,1,PREVENTS_HORMprevPATF
+C0028351,C0546817,PREVENTS,norepinephrine,Fluid overload,horm,patf,1,PREVENTS_HORMprevPATF
+C0033308,C0022116,PREVENTS,progesterone,Ischemia,horm,patf,1,PREVENTS_HORMprevPATF
+C0033308,C0162633,PREVENTS,progesterone,Viral Shedding,horm,patf,1,PREVENTS_HORMprevPATF
+C0033554,C0021368,PREVENTS,Prostaglandins,Inflammation,horm,patf,1,PREVENTS_HORMprevPATF
+C0033554,C1155266,PREVENTS,Prostaglandins,Inflammatory Response,horm,patf,1,PREVENTS_HORMprevPATF
+C0039601,C0021368,PREVENTS,testosterone,Inflammation,horm,patf,2,PREVENTS_HORMprevPATF
+C0039601,C1155266,PREVENTS,testosterone,Inflammatory Response,horm,patf,1,PREVENTS_HORMprevPATF
+C0071011,C0029445,PREVENTS,Phytoestrogens,Bone necrosis,horm,patf,2,PREVENTS_HORMprevPATF
+C0684155,C0333641,PREVENTS,gut hormone,Atrophic,horm,patf,1,PREVENTS_HORMprevPATF
+C3540777,C0013604,PREVENTS,"Glucocorticoids, Systemic",Edema,horm,patf,1,PREVENTS_HORMprevPATF
+C4224854,C0036974,PREVENTS,React,Shock,horm,patf,1,PREVENTS_HORMprevPATF

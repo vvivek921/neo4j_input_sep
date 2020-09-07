@@ -1,0 +1,5 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0042765,C0013203,NEG_AFFECTS,Virulence,Drug resistance,biof,biof,1,NEG_AFFECTS_BIOFnafctBIOF
+C1537068,C0042765,NEG_AFFECTS,Virus Internalization,Virulence,biof,biof,1,NEG_AFFECTS_BIOFnafctBIOF
+C1537068,C1160638,NEG_AFFECTS,Virus Internalization,Viral life cycle,biof,biof,1,NEG_AFFECTS_BIOFnafctBIOF
+C1721019,C1537068,NEG_AFFECTS,Virus Attachment,Virus Internalization,biof,biof,1,NEG_AFFECTS_BIOFnafctBIOF

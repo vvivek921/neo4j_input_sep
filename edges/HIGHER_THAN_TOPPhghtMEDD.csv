@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0013969,C0182998,HIGHER_THAN,Emergency treatment,Resuscitator,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0021107,C0183652,HIGHER_THAN,Implantation procedure,String (device),topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0021925,C0179390,HIGHER_THAN,Intubation,Bougie,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0021932,C0162645,HIGHER_THAN,"Intubation, Intratracheal",Laryngeal Masks,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0040590,C0042497,HIGHER_THAN,Tracheostomy procedure,Mechanical Ventilator,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0042196,C4744970,HIGHER_THAN,Vaccination,Microneedle Drug Delivery System,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0184967,C0024861,HIGHER_THAN,Insertion of pack (procedure),Masks,topp,medd,2,HIGHER_THAN_TOPPhghtMEDD
+C0199176,C0024861,HIGHER_THAN,Prophylactic treatment,Masks,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0199176,C0183086,HIGHER_THAN,Prophylactic treatment,sanitizers,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0259962,C0991556,HIGHER_THAN,"Injections, Hypodermic",Transdermal System,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0349707,C0879240,HIGHER_THAN,Aspiration-action,Nasal Swabs,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0441516,C1314650,HIGHER_THAN,Demand (clinical),"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0456675,C0491576,HIGHER_THAN,Massive blood transfusion,Transcutaneous electrical nerve stimulator,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0565867,C0039142,HIGHER_THAN,delivery method,Syringes,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C0920467,C1314650,HIGHER_THAN,disorder control (procedure),"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C1278444,C0994894,HIGHER_THAN,Nicotine replacement therapy,Patch Dosage Form,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C1511790,C0175723,HIGHER_THAN,Detection,Bands,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C1511790,C0182400,HIGHER_THAN,Detection,Probes,topp,medd,1,HIGHER_THAN_TOPPhghtMEDD
+C1511790,C0879240,HIGHER_THAN,Detection,Nasal Swabs,topp,medd,4,HIGHER_THAN_TOPPhghtMEDD

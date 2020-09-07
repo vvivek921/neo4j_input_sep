@@ -1,0 +1,1899 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001802,C0318716,DIAGNOSES,Agglutination Tests,Porcine rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0004400,C0035691,DIAGNOSES,Autoradiography,RNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0004400,C0042776,DIAGNOSES,Autoradiography,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005507,C0029341,DIAGNOSES,Biological Assay,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005507,C0042776,DIAGNOSES,Biological Assay,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0005507,C0318855,DIAGNOSES,Biological Assay,Porcine epidemic diarrhea virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0005507,C0949880,DIAGNOSES,Biological Assay,Human coronavirus 229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005507,C1623048,DIAGNOSES,Biological Assay,Vesicular stomatitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005507,C4698071,DIAGNOSES,Biological Assay,OC43,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005567,C0042776,DIAGNOSES,Biosensing Techniques,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005567,C0318356,DIAGNOSES,Biosensing Techniques,Human virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005861,C0024267,DIAGNOSES,Northern Blotting,Lymphocytic choriomeningitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005861,C0029341,DIAGNOSES,Northern Blotting,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005861,C0042776,DIAGNOSES,Northern Blotting,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0005861,C1175743,DIAGNOSES,Northern Blotting,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005862,C0024267,DIAGNOSES,Southern blot assay (procedure),Lymphocytic choriomeningitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005862,C0318467,DIAGNOSES,Southern blot assay (procedure),Human rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0015767,DIAGNOSES,Western Blotting,Feline leukemia virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0019351,DIAGNOSES,Western Blotting,"herpesvirus 2, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0019378,DIAGNOSES,Western Blotting,"Herpesvirus 1, Cercopithecine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0042776,DIAGNOSES,Western Blotting,Virus,lbpr,virs,15,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0079337,DIAGNOSES,Western Blotting,Feline Immunodeficiency Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0079679,DIAGNOSES,Western Blotting,Genus: Lentivirus group,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0085512,DIAGNOSES,Western Blotting,Torovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0206419,DIAGNOSES,Western Blotting,Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0206679,DIAGNOSES,Western Blotting,"herpesvirus 1, human",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0318602,DIAGNOSES,Western Blotting,Avian enteric calicivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0318793,DIAGNOSES,Western Blotting,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0318855,DIAGNOSES,Western Blotting,Porcine epidemic diarrhea virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0376526,DIAGNOSES,Western Blotting,human herpesvirus 8,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0949920,DIAGNOSES,Western Blotting,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005863,C0949945,DIAGNOSES,Western Blotting,Foot-and-Mouth Disease Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0005863,C1175743,DIAGNOSES,Western Blotting,SARS coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0005863,C3698360,DIAGNOSES,Western Blotting,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0005863,C4556170,DIAGNOSES,Western Blotting,Pseudovirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0005863,C5203676,DIAGNOSES,Western Blotting,2019 novel coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0001483,DIAGNOSES,Cell Count,Adenoviruses,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0004651,DIAGNOSES,Cell Count,Bacteriophages,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0006069,DIAGNOSES,Cell Count,"Leukemia Virus, Bovine",lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0006752,DIAGNOSES,Cell Count,Caliciviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0008056,DIAGNOSES,Cell Count,Chikungunya virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0010233,DIAGNOSES,Cell Count,Cowpox virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0014051,DIAGNOSES,Cell Count,Encephalitis Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0014052,DIAGNOSES,Cell Count,Tick-Borne Encephalitis Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0014383,DIAGNOSES,Cell Count,Enterovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0014665,DIAGNOSES,Cell Count,"Herpesvirus 1, Equid",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0015767,DIAGNOSES,Cell Count,Feline leukemia virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0016215,DIAGNOSES,Cell Count,Flavivirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0019132,DIAGNOSES,Cell Count,Hepadnaviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0019682,DIAGNOSES,Cell Count,HIV,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0019704,DIAGNOSES,Cell Count,HIV-1,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0020094,DIAGNOSES,Cell Count,Human T-lymphotropic virus 1,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0021344,DIAGNOSES,Cell Count,human papillomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0024267,DIAGNOSES,Cell Count,Lymphocytic choriomeningitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0025011,DIAGNOSES,Cell Count,Measles virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0026398,DIAGNOSES,Cell Count,Moloney Leukemia Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0027984,DIAGNOSES,Cell Count,Newcastle disease virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0029341,DIAGNOSES,Cell Count,Orthomyxoviridae,lbpr,virs,11,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0029347,DIAGNOSES,Cell Count,influenza A virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0030391,DIAGNOSES,Cell Count,"Parainfluenza Virus 2, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0030393,DIAGNOSES,Cell Count,Parainfluenza virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0035111,DIAGNOSES,Cell Count,Reoviridae,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0035236,DIAGNOSES,Cell Count,Respiratory syncytial virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0035366,DIAGNOSES,Cell Count,Retroviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0035473,DIAGNOSES,Cell Count,Rhinovirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0035691,DIAGNOSES,Cell Count,RNA Viruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0035870,DIAGNOSES,Cell Count,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0042216,DIAGNOSES,Cell Count,vaccinia virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0042338,DIAGNOSES,Cell Count,"herpesvirus 3, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0042776,DIAGNOSES,Cell Count,Virus,lbpr,virs,86,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0043125,DIAGNOSES,Cell Count,West Nile virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0079005,DIAGNOSES,Cell Count,Baculoviridae,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0079337,DIAGNOSES,Cell Count,Feline Immunodeficiency Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0079679,DIAGNOSES,Cell Count,Genus: Lentivirus group,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0085150,DIAGNOSES,Cell Count,Filoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0085305,DIAGNOSES,Cell Count,Feline infectious peritonitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0205725,DIAGNOSES,Cell Count,"herpesvirus 5, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0206419,DIAGNOSES,Cell Count,Genus: Coronavirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0206422,DIAGNOSES,Cell Count,Human coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0206425,DIAGNOSES,Cell Count,"Encephalomyelitis Virus, Murine, Theiler",lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0206435,DIAGNOSES,Cell Count,poliovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0206541,DIAGNOSES,Cell Count,Murine pneumonia virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0206543,DIAGNOSES,Cell Count,Pneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0206545,DIAGNOSES,Cell Count,Human respiratory syncytial virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0206558,DIAGNOSES,Cell Count,Simplexvirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0206679,DIAGNOSES,Cell Count,"herpesvirus 1, human",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0318356,DIAGNOSES,Cell Count,Human virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0318602,DIAGNOSES,Cell Count,Avian enteric calicivirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0318793,DIAGNOSES,Cell Count,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0318855,DIAGNOSES,Cell Count,Porcine epidemic diarrhea virus,lbpr,virs,8,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0319132,DIAGNOSES,Cell Count,Papovavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0376526,DIAGNOSES,Cell Count,human herpesvirus 8,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0376536,DIAGNOSES,Cell Count,Porcine respiratory and reproductive syndrome virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0544193,DIAGNOSES,Cell Count,Human respiratory virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0546788,DIAGNOSES,Cell Count,Parainfluenza Virus 5,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0597065,DIAGNOSES,Cell Count,neurotropic virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0597363,DIAGNOSES,Cell Count,recombinant virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0597404,DIAGNOSES,Cell Count,Respiratory viruses,lbpr,virs,8,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0599614,DIAGNOSES,Cell Count,borna virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0682447,DIAGNOSES,Cell Count,virus by host,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0949334,DIAGNOSES,Cell Count,MHV-JHM,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0949858,DIAGNOSES,Cell Count,Nidovirales,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0949880,DIAGNOSES,Cell Count,Human coronavirus 229E,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0949892,DIAGNOSES,Cell Count,Ebolavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0949920,DIAGNOSES,Cell Count,Norovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0949923,DIAGNOSES,Cell Count,Vesivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0949936,DIAGNOSES,Cell Count,Influenzavirus A,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C0949945,DIAGNOSES,Cell Count,Foot-and-Mouth Disease Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C1079230,DIAGNOSES,Cell Count,Subgroup A Nepoviruses,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0007584,C1175743,DIAGNOSES,Cell Count,SARS coronavirus,lbpr,virs,11,DIAGNOSES_LBPRdiagVIRS
+C0007584,C1258014,DIAGNOSES,Cell Count,Human Metapneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C1319861,DIAGNOSES,Cell Count,Human parainfluenza viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C1478824,DIAGNOSES,Cell Count,Human coronavirus NL63,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C1512048,DIAGNOSES,Cell Count,Double Stranded DNA Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007584,C1613950,DIAGNOSES,Cell Count,"Influenza A Virus, H5N1 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C1623048,DIAGNOSES,Cell Count,Vesicular stomatitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C2821127,DIAGNOSES,Cell Count,Cyclovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C3698360,DIAGNOSES,Cell Count,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0007584,C4008676,DIAGNOSES,Cell Count,Gemycircularvirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C4193471,DIAGNOSES,Cell Count,Reptarenavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C4556170,DIAGNOSES,Cell Count,Pseudovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C4698070,DIAGNOSES,Cell Count,229E,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0007584,C4698071,DIAGNOSES,Cell Count,OC43,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C5141341,DIAGNOSES,Cell Count,Viral strain,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007584,C5203676,DIAGNOSES,Cell Count,2019 novel coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0007585,C0001483,DIAGNOSES,Cell Culture Techniques,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007585,C0014051,DIAGNOSES,Cell Culture Techniques,Encephalitis Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007585,C0016215,DIAGNOSES,Cell Culture Techniques,Flavivirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007585,C0024267,DIAGNOSES,Cell Culture Techniques,Lymphocytic choriomeningitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007585,C0029341,DIAGNOSES,Cell Culture Techniques,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007585,C0030391,DIAGNOSES,Cell Culture Techniques,"Parainfluenza Virus 2, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007585,C0035870,DIAGNOSES,Cell Culture Techniques,Rotavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007585,C0042776,DIAGNOSES,Cell Culture Techniques,Virus,lbpr,virs,22,DIAGNOSES_LBPRdiagVIRS
+C0007585,C0206435,DIAGNOSES,Cell Culture Techniques,poliovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007585,C0597404,DIAGNOSES,Cell Culture Techniques,Respiratory viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007585,C1175743,DIAGNOSES,Cell Culture Techniques,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007585,C1478824,DIAGNOSES,Cell Culture Techniques,Human coronavirus NL63,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007585,C2986384,DIAGNOSES,Cell Culture Techniques,Enveloped Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007585,C5203676,DIAGNOSES,Cell Culture Techniques,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007594,C0035691,DIAGNOSES,Cell fusion procedure,RNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007594,C0042776,DIAGNOSES,Cell fusion procedure,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007616,C0042776,DIAGNOSES,Cell Separation,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007616,C5203676,DIAGNOSES,Cell Separation,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007703,C0001483,DIAGNOSES,Centrifugation,Adenoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007703,C0010825,DIAGNOSES,Centrifugation,Cytomegalovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007703,C0013534,DIAGNOSES,Centrifugation,Echovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007703,C0014383,DIAGNOSES,Centrifugation,Enterovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007703,C0029341,DIAGNOSES,Centrifugation,Orthomyxoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007703,C0030393,DIAGNOSES,Centrifugation,Parainfluenza virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007703,C0042776,DIAGNOSES,Centrifugation,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0007703,C0206545,DIAGNOSES,Centrifugation,Human respiratory syncytial virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0007703,C0949945,DIAGNOSES,Centrifugation,Foot-and-Mouth Disease Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0008562,C0013480,DIAGNOSES,High pressure liquid chromatography procedure,Ebola virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0008565,C0042776,DIAGNOSES,Liquid Chromatography,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0009017,C0042776,DIAGNOSES,"Cloning, Molecular",Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0009407,C0019682,DIAGNOSES,Colorimetry,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0009407,C0021344,DIAGNOSES,Colorimetry,human papillomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0009407,C0029341,DIAGNOSES,Colorimetry,Orthomyxoviridae,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0009407,C0042776,DIAGNOSES,Colorimetry,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0009541,C0001483,DIAGNOSES,Complement Fixation Tests,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0009541,C0035414,DIAGNOSES,Complement Fixation Tests,Rhabdoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0009541,C0042776,DIAGNOSES,Complement Fixation Tests,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0009541,C0206545,DIAGNOSES,Complement Fixation Tests,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0009541,C0949936,DIAGNOSES,Complement Fixation Tests,Influenzavirus A,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0009555,C5203676,DIAGNOSES,Complete Blood Count,2019 novel coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0010214,C0035870,DIAGNOSES,Countercurrent electrophoresis measurement,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0010364,C0031886,DIAGNOSES,"Crosses, Genetic",Family Picornaviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0010364,C0042776,DIAGNOSES,"Crosses, Genetic",Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0010424,C0042776,DIAGNOSES,Crystallography,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0010818,C0032556,DIAGNOSES,Cytological Techniques,Polyomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0010818,C5203676,DIAGNOSES,Cytological Techniques,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013064,C0042776,DIAGNOSES,Dot Immunoblotting,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0013064,C0085512,DIAGNOSES,Dot Immunoblotting,Torovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0013064,C1000437,DIAGNOSES,Dot Immunoblotting,Cherry leaf roll virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013855,C0001483,DIAGNOSES,Electrophoresis,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013855,C0035473,DIAGNOSES,Electrophoresis,Rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013855,C0035691,DIAGNOSES,Electrophoresis,RNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013855,C0042776,DIAGNOSES,Electrophoresis,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0013855,C0206424,DIAGNOSES,Electrophoresis,Cardiovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013855,C1216700,DIAGNOSES,Electrophoresis,Kobuvirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013855,C5203676,DIAGNOSES,Electrophoresis,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013856,C0001483,DIAGNOSES,"Electrophoresis, Agar Gel",Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013856,C0019704,DIAGNOSES,"Electrophoresis, Agar Gel",HIV-1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013856,C0042776,DIAGNOSES,"Electrophoresis, Agar Gel",Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013856,C0162546,DIAGNOSES,"Electrophoresis, Agar Gel",Bacteriophage M13,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013856,C3698360,DIAGNOSES,"Electrophoresis, Agar Gel",Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013856,C5141341,DIAGNOSES,"Electrophoresis, Agar Gel",Viral strain,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0013862,C0035870,DIAGNOSES,Polyacrylamide Gel Electrophoresis,Rotavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0013862,C0242924,DIAGNOSES,Polyacrylamide Gel Electrophoresis,Picobirnavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0001483,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Adenoviruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0001490,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,"Adenoviruses, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0003725,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Arboviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0004651,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Bacteriophages,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0005867,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Bluetongue virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0011315,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Dengue Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0014051,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Encephalitis Viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0014383,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0015767,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Feline leukemia virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0017161,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Transmissible gastroenteritis virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0019092,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Hantavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0019682,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,HIV,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0027610,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Bovine coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0029341,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Orthomyxoviridae,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0029343,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,"Influenza A Virus, Avian",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0029345,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,"Orthomyxovirus Type A, Porcine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0031254,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Pestivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0035614,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Rift Valley fever virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0035870,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Rotavirus,lbpr,virs,36,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0037141,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,"Retroviruses, Simian",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0038344,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Simian T-lymphotropic virus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0042216,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,vaccinia virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0042776,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Virus,lbpr,virs,55,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0043125,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,West Nile virus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0079005,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Baculoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0079337,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Feline Immunodeficiency Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0085294,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Hepatitis E virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0085305,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Feline infectious peritonitis virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0085512,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Torovirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0086776,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Parvovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0206273,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Potyvirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0206419,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Genus: Coronavirus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0206421,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,"Coronavirus, Canine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0206422,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Human coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0206466,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,"Parvovirus, Canine",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0206467,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Iridovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0206536,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Morbillivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0206545,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Human respiratory syncytial virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0206558,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Simplexvirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0206593,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Epizootic hemorrhagic disease virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0318759,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,"Dengue virus, type 2",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0318787,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Tembusu virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0318793,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0318810,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Chandipura virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0318855,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Porcine epidemic diarrhea virus,lbpr,virs,24,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0318856,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Porcine Respiratory Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0318872,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Cache Valley virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0376421,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Bovine parainfluenza virus 3,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0376536,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Porcine respiratory and reproductive syndrome virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0597404,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Respiratory viruses,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0884118,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,adenovirus type,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0949880,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Human coronavirus 229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0949881,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,"Coronavirus OC43, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0949920,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Norovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0949945,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Foot-and-Mouth Disease Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0999806,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Human papillomavirus 16,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C0999953,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Bovine rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C1000437,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Cherry leaf roll virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C1002306,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Rotavirus group A,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0014441,C1175743,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,SARS coronavirus,lbpr,virs,14,DIAGNOSES_LBPRdiagVIRS
+C0014441,C1258014,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Human Metapneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C1478824,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Human coronavirus NL63,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C3698360,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,17,DIAGNOSES_LBPRdiagVIRS
+C0014441,C4038448,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Porcine deltacoronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C4556170,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,Pseudovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014441,C5203676,DIAGNOSES,Enzyme-Linked Immunosorbent Assay,2019 novel coronavirus,lbpr,virs,12,DIAGNOSES_LBPRdiagVIRS
+C0014772,C0019682,DIAGNOSES,Red Blood Cell Count measurement,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014772,C0026394,DIAGNOSES,Red Blood Cell Count measurement,Molluscum contagiosum virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014772,C0029341,DIAGNOSES,Red Blood Cell Count measurement,Orthomyxoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014772,C0030391,DIAGNOSES,Red Blood Cell Count measurement,"Parainfluenza Virus 2, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014772,C0042776,DIAGNOSES,Red Blood Cell Count measurement,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0014772,C0318798,DIAGNOSES,Red Blood Cell Count measurement,"Paramyxovirus, NOS",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014772,C1175743,DIAGNOSES,Red Blood Cell Count measurement,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0014772,C5069014,DIAGNOSES,Red Blood Cell Count measurement,Amnoonviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016127,C0035691,DIAGNOSES,"Fingerprints, Nucleotide",RNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016263,C0011315,DIAGNOSES,Flow Cytometry,Dengue Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016263,C0014383,DIAGNOSES,Flow Cytometry,Enterovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0016263,C0042776,DIAGNOSES,Flow Cytometry,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016263,C0206037,DIAGNOSES,Flow Cytometry,Subfamily lentivirinae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016263,C0206545,DIAGNOSES,Flow Cytometry,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016263,C0206679,DIAGNOSES,Flow Cytometry,"herpesvirus 1, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016263,C0318759,DIAGNOSES,Flow Cytometry,"Dengue virus, type 2",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0001483,DIAGNOSES,Fluorescent Antibody Technique,Adenoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0014383,DIAGNOSES,Fluorescent Antibody Technique,Enterovirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0014644,DIAGNOSES,Fluorescent Antibody Technique,Epstein-Barr virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0019092,DIAGNOSES,Fluorescent Antibody Technique,Hantavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0019185,DIAGNOSES,Fluorescent Antibody Technique,Murine hepatitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0025011,DIAGNOSES,Fluorescent Antibody Technique,Measles virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0029341,DIAGNOSES,Fluorescent Antibody Technique,Orthomyxoviridae,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0030392,DIAGNOSES,Fluorescent Antibody Technique,"Parainfluenza Virus 3, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0031886,DIAGNOSES,Fluorescent Antibody Technique,Family Picornaviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0035236,DIAGNOSES,Fluorescent Antibody Technique,Respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0035473,DIAGNOSES,Fluorescent Antibody Technique,Rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0035870,DIAGNOSES,Fluorescent Antibody Technique,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0042216,DIAGNOSES,Fluorescent Antibody Technique,vaccinia virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0042776,DIAGNOSES,Fluorescent Antibody Technique,Virus,lbpr,virs,54,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0079005,DIAGNOSES,Fluorescent Antibody Technique,Baculoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0085925,DIAGNOSES,Fluorescent Antibody Technique,Bovine torovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0206422,DIAGNOSES,Fluorescent Antibody Technique,Human coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0206545,DIAGNOSES,Fluorescent Antibody Technique,Human respiratory syncytial virus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0318759,DIAGNOSES,Fluorescent Antibody Technique,"Dengue virus, type 2",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0318855,DIAGNOSES,Fluorescent Antibody Technique,Porcine epidemic diarrhea virus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0376536,DIAGNOSES,Fluorescent Antibody Technique,Porcine respiratory and reproductive syndrome virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0597404,DIAGNOSES,Fluorescent Antibody Technique,Respiratory viruses,lbpr,virs,17,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0598902,DIAGNOSES,Fluorescent Antibody Technique,murine nodule inducing virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C0949880,DIAGNOSES,Fluorescent Antibody Technique,Human coronavirus 229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C1175743,DIAGNOSES,Fluorescent Antibody Technique,SARS coronavirus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0016318,C1258014,DIAGNOSES,Fluorescent Antibody Technique,Human Metapneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C1319861,DIAGNOSES,Fluorescent Antibody Technique,Human parainfluenza viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016318,C1478824,DIAGNOSES,Fluorescent Antibody Technique,Human coronavirus NL63,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0016318,C3698360,DIAGNOSES,Fluorescent Antibody Technique,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0016318,C5203676,DIAGNOSES,Fluorescent Antibody Technique,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016350,C0035236,DIAGNOSES,Fluoroimmunoassay,Respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016350,C0206545,DIAGNOSES,Fluoroimmunoassay,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016352,C0021344,DIAGNOSES,Fluorometry,human papillomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016352,C0042776,DIAGNOSES,Fluorometry,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0016698,C0019369,DIAGNOSES,Freeze Drying,Herpesviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0018900,C0042776,DIAGNOSES,Hemadsorption Inhibition Tests,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0018904,C0029341,DIAGNOSES,Hemagglutination Inhibition Tests,Orthomyxoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0018904,C0042776,DIAGNOSES,Hemagglutination Inhibition Tests,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0018905,C0027610,DIAGNOSES,Hemagglutination test,Bovine coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0018905,C0029341,DIAGNOSES,Hemagglutination test,Orthomyxoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0018905,C0042776,DIAGNOSES,Hemagglutination test,Virus,lbpr,virs,12,DIAGNOSES_LBPRdiagVIRS
+C0018905,C0206466,DIAGNOSES,Hemagglutination test,"Parvovirus, Canine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0018905,C0318793,DIAGNOSES,Hemagglutination test,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0018905,C0597363,DIAGNOSES,Hemagglutination test,recombinant virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0018905,C1175743,DIAGNOSES,Hemagglutination test,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0018935,C0042776,DIAGNOSES,Hematocrit procedure,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0018935,C0597404,DIAGNOSES,Hematocrit procedure,Respiratory viruses,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0018941,C0035366,DIAGNOSES,Hematologic Tests,Retroviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0018941,C0085305,DIAGNOSES,Hematologic Tests,Feline infectious peritonitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0018941,C0318855,DIAGNOSES,Hematologic Tests,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0018941,C0949892,DIAGNOSES,Hematologic Tests,Ebolavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0018941,C5203676,DIAGNOSES,Hematologic Tests,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0019633,C0042776,DIAGNOSES,Histocompatibility Testing,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0019637,C0042776,DIAGNOSES,Histological Techniques,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0019637,C1175743,DIAGNOSES,Histological Techniques,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0020980,C0029347,DIAGNOSES,Immunoassay method,influenza A virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0020980,C0035870,DIAGNOSES,Immunoassay method,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0020980,C0042776,DIAGNOSES,Immunoassay method,Virus,lbpr,virs,8,DIAGNOSES_LBPRdiagVIRS
+C0020980,C0318711,DIAGNOSES,Immunoassay method,Human rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0020980,C0318855,DIAGNOSES,Immunoassay method,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0020980,C0597404,DIAGNOSES,Immunoassay method,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0020980,C0949892,DIAGNOSES,Immunoassay method,Ebolavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0020980,C0949920,DIAGNOSES,Immunoassay method,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0020980,C1175743,DIAGNOSES,Immunoassay method,SARS coronavirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0020980,C5203676,DIAGNOSES,Immunoassay method,2019 novel coronavirus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0020985,C0019682,DIAGNOSES,Immunoblotting,HIV,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0020985,C0085305,DIAGNOSES,Immunoblotting,Feline infectious peritonitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0020985,C0206679,DIAGNOSES,Immunoblotting,"herpesvirus 1, human",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0020985,C0318855,DIAGNOSES,Immunoblotting,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0020985,C0949892,DIAGNOSES,Immunoblotting,Ebolavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0020985,C1175743,DIAGNOSES,Immunoblotting,SARS coronavirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0021002,C0042776,DIAGNOSES,Immunoenzyme Techniques,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021052,C5203676,DIAGNOSES,Immunodiagnosis,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021060,C0042776,DIAGNOSES,Immunologic Techniques,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0021060,C0949945,DIAGNOSES,Immunologic Techniques,Foot-and-Mouth Disease Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021061,C0012923,DIAGNOSES,Immunologic Tests,DNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021067,C0042776,DIAGNOSES,Immunoperoxidase Techniques,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0021067,C0085305,DIAGNOSES,Immunoperoxidase Techniques,Feline infectious peritonitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021069,C0019185,DIAGNOSES,Immunoprecipitation,Murine hepatitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021069,C0035691,DIAGNOSES,Immunoprecipitation,RNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021069,C0037170,DIAGNOSES,Immunoprecipitation,Sindbis Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021069,C0042776,DIAGNOSES,Immunoprecipitation,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021069,C0085305,DIAGNOSES,Immunoprecipitation,Feline infectious peritonitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021069,C0318855,DIAGNOSES,Immunoprecipitation,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021069,C1518095,DIAGNOSES,Immunoprecipitation,Lytic Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021069,C3698360,DIAGNOSES,Immunoprecipitation,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0021069,C5203676,DIAGNOSES,Immunoprecipitation,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0001483,DIAGNOSES,Laboratory Procedures,Adenoviruses,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0003725,DIAGNOSES,Laboratory Procedures,Arboviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0004651,DIAGNOSES,Laboratory Procedures,Bacteriophages,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0005670,DIAGNOSES,Laboratory Procedures,BK Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0010233,DIAGNOSES,Laboratory Procedures,Cowpox virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0010825,DIAGNOSES,Laboratory Procedures,Cytomegalovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0011313,DIAGNOSES,Laboratory Procedures,"Dengue virus, type 1",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0011315,DIAGNOSES,Laboratory Procedures,Dengue Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0013534,DIAGNOSES,Laboratory Procedures,Echovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0014383,DIAGNOSES,Laboratory Procedures,Enterovirus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0014644,DIAGNOSES,Laboratory Procedures,Epstein-Barr virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0015763,DIAGNOSES,Laboratory Procedures,"Calicivirus, Feline",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0015766,DIAGNOSES,Laboratory Procedures,Feline parvovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0015767,DIAGNOSES,Laboratory Procedures,Feline leukemia virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0016215,DIAGNOSES,Laboratory Procedures,Flavivirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0019682,DIAGNOSES,Laboratory Procedures,HIV,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0019704,DIAGNOSES,Laboratory Procedures,HIV-1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0027150,DIAGNOSES,Laboratory Procedures,Myxoma virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0027610,DIAGNOSES,Laboratory Procedures,Bovine coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0027984,DIAGNOSES,Laboratory Procedures,Newcastle disease virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0028586,DIAGNOSES,Laboratory Procedures,Nucleopolyhedrovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0029341,DIAGNOSES,Laboratory Procedures,Orthomyxoviridae,lbpr,virs,17,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0029343,DIAGNOSES,Laboratory Procedures,"Influenza A Virus, Avian",lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0029345,DIAGNOSES,Laboratory Procedures,"Orthomyxovirus Type A, Porcine",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0029347,DIAGNOSES,Laboratory Procedures,influenza A virus,lbpr,virs,10,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0031254,DIAGNOSES,Laboratory Procedures,Pestivirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0032556,DIAGNOSES,Laboratory Procedures,Polyomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0034497,DIAGNOSES,Laboratory Procedures,rabies virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0035473,DIAGNOSES,Laboratory Procedures,Rhinovirus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0035691,DIAGNOSES,Laboratory Procedures,RNA Viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0035870,DIAGNOSES,Laboratory Procedures,Rotavirus,lbpr,virs,16,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0036238,DIAGNOSES,Laboratory Procedures,Satellite Viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0037356,DIAGNOSES,Laboratory Procedures,Smallpox Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0040333,DIAGNOSES,Laboratory Procedures,Tobacco Mosaic Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0042776,DIAGNOSES,Laboratory Procedures,Virus,lbpr,virs,124,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0043125,DIAGNOSES,Laboratory Procedures,West Nile virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0079337,DIAGNOSES,Laboratory Procedures,Feline Immunodeficiency Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0085294,DIAGNOSES,Laboratory Procedures,Hepatitis E virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0085305,DIAGNOSES,Laboratory Procedures,Feline infectious peritonitis virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0085391,DIAGNOSES,Laboratory Procedures,Reassortant Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0086776,DIAGNOSES,Laboratory Procedures,Parvovirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0206413,DIAGNOSES,Laboratory Procedures,Calicivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0206419,DIAGNOSES,Laboratory Procedures,Genus: Coronavirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0206422,DIAGNOSES,Laboratory Procedures,Human coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0206435,DIAGNOSES,Laboratory Procedures,poliovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0206545,DIAGNOSES,Laboratory Procedures,Human respiratory syncytial virus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0206679,DIAGNOSES,Laboratory Procedures,"herpesvirus 1, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0318356,DIAGNOSES,Laboratory Procedures,Human virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0318716,DIAGNOSES,Laboratory Procedures,Porcine rotavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0318723,DIAGNOSES,Laboratory Procedures,Rotavirus B,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0318793,DIAGNOSES,Laboratory Procedures,Zika Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0318855,DIAGNOSES,Laboratory Procedures,Porcine epidemic diarrhea virus,lbpr,virs,11,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0319158,DIAGNOSES,Laboratory Procedures,Kilham polyomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0376536,DIAGNOSES,Laboratory Procedures,Porcine respiratory and reproductive syndrome virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0597404,DIAGNOSES,Laboratory Procedures,Respiratory viruses,lbpr,virs,50,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0936087,DIAGNOSES,Laboratory Procedures,"Coronavirus, Feline",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0949880,DIAGNOSES,Laboratory Procedures,Human coronavirus 229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0949920,DIAGNOSES,Laboratory Procedures,Norovirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0022885,C0999806,DIAGNOSES,Laboratory Procedures,Human papillomavirus 16,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C1002306,DIAGNOSES,Laboratory Procedures,Rotavirus group A,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C1003714,DIAGNOSES,Laboratory Procedures,Cell fusing agent virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C1071061,DIAGNOSES,Laboratory Procedures,Rhinovirus A,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C1079230,DIAGNOSES,Laboratory Procedures,Subgroup A Nepoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C1175743,DIAGNOSES,Laboratory Procedures,SARS coronavirus,lbpr,virs,14,DIAGNOSES_LBPRdiagVIRS
+C0022885,C1258014,DIAGNOSES,Laboratory Procedures,Human Metapneumovirus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0022885,C1265388,DIAGNOSES,Laboratory Procedures,Pigeon circovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C1613950,DIAGNOSES,Laboratory Procedures,"Influenza A Virus, H5N1 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C1615607,DIAGNOSES,Laboratory Procedures,"Influenza A Virus, H1N1 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C1622968,DIAGNOSES,Laboratory Procedures,Human papillomavirus types,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C1627519,DIAGNOSES,Laboratory Procedures,Chicken astrovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C2709163,DIAGNOSES,Laboratory Procedures,Norovirus genogroup I,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C2806447,DIAGNOSES,Laboratory Procedures,Alphacoronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0022885,C2806453,DIAGNOSES,Laboratory Procedures,Betacoronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C2986384,DIAGNOSES,Laboratory Procedures,Enveloped Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C3698360,DIAGNOSES,Laboratory Procedures,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,21,DIAGNOSES_LBPRdiagVIRS
+C0022885,C4698070,DIAGNOSES,Laboratory Procedures,229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C5069007,DIAGNOSES,Laboratory Procedures,Orthocoronavirinae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C5074702,DIAGNOSES,Laboratory Procedures,Sarbecovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C5141341,DIAGNOSES,Laboratory Procedures,Viral strain,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0022885,C5203676,DIAGNOSES,Laboratory Procedures,2019 novel coronavirus,lbpr,virs,86,DIAGNOSES_LBPRdiagVIRS
+C0023117,C0001483,DIAGNOSES,Latex Fixation Tests,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0023117,C0035870,DIAGNOSES,Latex Fixation Tests,Rotavirus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C0023117,C0042776,DIAGNOSES,Latex Fixation Tests,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0023117,C0318716,DIAGNOSES,Latex Fixation Tests,Porcine rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0023508,C0001483,DIAGNOSES,White Blood Cell Count procedure,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0023508,C0019682,DIAGNOSES,White Blood Cell Count procedure,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0023508,C0042776,DIAGNOSES,White Blood Cell Count procedure,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0023508,C0206545,DIAGNOSES,White Blood Cell Count procedure,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0023509,C0029341,DIAGNOSES,"Lymphocyte Culture Test, Mixed",Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0025951,C0004651,DIAGNOSES,Microbiological Techniques,Bacteriophages,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026018,C0004651,DIAGNOSES,Microscopy,Bacteriophages,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026018,C0035870,DIAGNOSES,Microscopy,Rotavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0026018,C0042776,DIAGNOSES,Microscopy,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0026018,C0206376,DIAGNOSES,Microscopy,Caudovirales,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026018,C0206679,DIAGNOSES,Microscopy,"herpesvirus 1, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026018,C0318855,DIAGNOSES,Microscopy,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026018,C1175743,DIAGNOSES,Microscopy,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0001483,DIAGNOSES,Electron Microscopy,Adenoviruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0003725,DIAGNOSES,Electron Microscopy,Arboviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0004120,DIAGNOSES,Electron Microscopy,Astrovirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0004419,DIAGNOSES,Electron Microscopy,Infectious bronchitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0005670,DIAGNOSES,Electron Microscopy,BK Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0010825,DIAGNOSES,Electron Microscopy,Cytomegalovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0014383,DIAGNOSES,Electron Microscopy,Enterovirus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0019185,DIAGNOSES,Electron Microscopy,Murine hepatitis virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0019682,DIAGNOSES,Electron Microscopy,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0027160,DIAGNOSES,Electron Microscopy,Myxoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0027610,DIAGNOSES,Electron Microscopy,Bovine coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0027984,DIAGNOSES,Electron Microscopy,Newcastle disease virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0028422,DIAGNOSES,Electron Microscopy,Norwalk virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0029347,DIAGNOSES,Electron Microscopy,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0031886,DIAGNOSES,Electron Microscopy,Family Picornaviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0032556,DIAGNOSES,Electron Microscopy,Polyomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0032868,DIAGNOSES,Electron Microscopy,Poxviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0035366,DIAGNOSES,Electron Microscopy,Retroviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0035414,DIAGNOSES,Electron Microscopy,Rhabdoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0035691,DIAGNOSES,Electron Microscopy,RNA Viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0035870,DIAGNOSES,Electron Microscopy,Rotavirus,lbpr,virs,18,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0036638,DIAGNOSES,Electron Microscopy,Sendai virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0040360,DIAGNOSES,Electron Microscopy,Togaviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0042776,DIAGNOSES,Electron Microscopy,Virus,lbpr,virs,74,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0042803,DIAGNOSES,Electron Microscopy,Visna-maedi virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0085294,DIAGNOSES,Electron Microscopy,Hepatitis E virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0085305,DIAGNOSES,Electron Microscopy,Feline infectious peritonitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0085512,DIAGNOSES,Electron Microscopy,Torovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0086776,DIAGNOSES,Electron Microscopy,Parvovirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0206413,DIAGNOSES,Electron Microscopy,Calicivirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0206419,DIAGNOSES,Electron Microscopy,Genus: Coronavirus,lbpr,virs,12,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0206422,DIAGNOSES,Electron Microscopy,Human coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0206467,DIAGNOSES,Electron Microscopy,Iridovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0206596,DIAGNOSES,Electron Microscopy,Orthoreoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0318356,DIAGNOSES,Electron Microscopy,Human virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0318716,DIAGNOSES,Electron Microscopy,Porcine rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0318793,DIAGNOSES,Electron Microscopy,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0318798,DIAGNOSES,Electron Microscopy,"Paramyxovirus, NOS",lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0318855,DIAGNOSES,Electron Microscopy,Porcine epidemic diarrhea virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0319132,DIAGNOSES,Electron Microscopy,Papovavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0376325,DIAGNOSES,Electron Microscopy,hepatitis A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0376473,DIAGNOSES,Electron Microscopy,Astroviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0446175,DIAGNOSES,Electron Microscopy,Small round virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0702091,DIAGNOSES,Electron Microscopy,Tick-Borne Encephalitis Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0936087,DIAGNOSES,Electron Microscopy,"Coronavirus, Feline",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0969654,DIAGNOSES,Electron Microscopy,Human torovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C0999839,DIAGNOSES,Electron Microscopy,Budgerigar fledgling disease polyomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C1145669,DIAGNOSES,Electron Microscopy,Influenza C Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C1175743,DIAGNOSES,Electron Microscopy,SARS coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0026019,C1216313,DIAGNOSES,Electron Microscopy,Minireovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C1527239,DIAGNOSES,Electron Microscopy,Small Round Structured Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C1623048,DIAGNOSES,Electron Microscopy,Vesicular stomatitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C2986384,DIAGNOSES,Electron Microscopy,Enveloped Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0026019,C3686947,DIAGNOSES,Electron Microscopy,Equine coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C4698070,DIAGNOSES,Electron Microscopy,229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026019,C5203676,DIAGNOSES,Electron Microscopy,2019 novel coronavirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0026022,C0019682,DIAGNOSES,"Microscopy, Fluorescence",HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026022,C0042776,DIAGNOSES,"Microscopy, Fluorescence",Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026022,C0085150,DIAGNOSES,"Microscopy, Fluorescence",Filoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026022,C0206419,DIAGNOSES,"Microscopy, Fluorescence",Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026040,C0031886,DIAGNOSES,Microtomy,Family Picornaviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0026040,C0042776,DIAGNOSES,Microtomy,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0026040,C0079938,DIAGNOSES,Microtomy,"Retroviruses Type B, Mammalian",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0027944,C0003725,DIAGNOSES,Neutralization Tests,Arboviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0027944,C0016215,DIAGNOSES,Neutralization Tests,Flavivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0027944,C0017161,DIAGNOSES,Neutralization Tests,Transmissible gastroenteritis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0027944,C0042776,DIAGNOSES,Neutralization Tests,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0027944,C1258015,DIAGNOSES,Neutralization Tests,Henipavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0027944,C4698070,DIAGNOSES,Neutralization Tests,229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0029205,C0014383,DIAGNOSES,Organ Culture Techniques,Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0029205,C0027610,DIAGNOSES,Organ Culture Techniques,Bovine coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0029205,C0042776,DIAGNOSES,Organ Culture Techniques,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0029205,C0206422,DIAGNOSES,Organ Culture Techniques,Human coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0030944,C0042776,DIAGNOSES,Peptide Mapping,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0032102,C0035870,DIAGNOSES,plaque assay,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0032102,C0042776,DIAGNOSES,plaque assay,Virus,lbpr,virs,22,DIAGNOSES_LBPRdiagVIRS
+C0032102,C0043125,DIAGNOSES,plaque assay,West Nile virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0032102,C0079005,DIAGNOSES,plaque assay,Baculoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0032102,C0206596,DIAGNOSES,plaque assay,Orthoreoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0032102,C0318793,DIAGNOSES,plaque assay,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0032102,C0318855,DIAGNOSES,plaque assay,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0032102,C3698360,DIAGNOSES,plaque assay,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0032102,C5203676,DIAGNOSES,plaque assay,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0032847,C0029347,DIAGNOSES,Potentiometry,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0034580,C0028422,DIAGNOSES,Radioimmunoassay,Norwalk virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0034580,C0035870,DIAGNOSES,Radioimmunoassay,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0034580,C0042776,DIAGNOSES,Radioimmunoassay,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0034580,C4698071,DIAGNOSES,Radioimmunoassay,OC43,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0034584,C0035870,DIAGNOSES,Radioimmunoprecipitation Assay,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0035269,C0021344,DIAGNOSES,Restriction Mapping,human papillomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0035269,C0042776,DIAGNOSES,Restriction Mapping,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0035269,C0079005,DIAGNOSES,Restriction Mapping,Baculoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0035269,C0318711,DIAGNOSES,Restriction Mapping,Human rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036743,C0001483,DIAGNOSES,Serologic tests,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036743,C0013590,DIAGNOSES,Serologic tests,Mouse Pox Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036743,C0014644,DIAGNOSES,Serologic tests,Epstein-Barr virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036743,C0042776,DIAGNOSES,Serologic tests,Virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0036743,C0318793,DIAGNOSES,Serologic tests,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036743,C0597404,DIAGNOSES,Serologic tests,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036743,C1175743,DIAGNOSES,Serologic tests,SARS coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0036743,C1258014,DIAGNOSES,Serologic tests,Human Metapneumovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0036743,C2806453,DIAGNOSES,Serologic tests,Betacoronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036743,C3698360,DIAGNOSES,Serologic tests,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0036743,C4698070,DIAGNOSES,Serologic tests,229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036743,C5203676,DIAGNOSES,Serologic tests,2019 novel coronavirus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0036759,C0001490,DIAGNOSES,Serotyping,"Adenoviruses, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036759,C0014383,DIAGNOSES,Serotyping,Enterovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0036759,C0016215,DIAGNOSES,Serotyping,Flavivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036759,C0019369,DIAGNOSES,Serotyping,Herpesviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036759,C0035870,DIAGNOSES,Serotyping,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036759,C0085294,DIAGNOSES,Serotyping,Hepatitis E virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036759,C0205939,DIAGNOSES,Serotyping,Common Cold Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036759,C0206435,DIAGNOSES,Serotyping,poliovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0036782,C0042776,DIAGNOSES,Serum Bactericidal Test,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0037793,C3698360,DIAGNOSES,Specimen processing (procedure),Middle East Respiratory Syndrome Coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0037812,C0042776,DIAGNOSES,Spectrum Analysis,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0037813,C0002331,DIAGNOSES,Mass Spectrometry,Alphavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0037813,C0019094,DIAGNOSES,Mass Spectrometry,Tacaribe Complex Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0037813,C0029347,DIAGNOSES,Mass Spectrometry,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0037813,C0029348,DIAGNOSES,Mass Spectrometry,influenza B virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0037813,C0037170,DIAGNOSES,Mass Spectrometry,Sindbis Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0037813,C0042776,DIAGNOSES,Mass Spectrometry,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0037813,C0597404,DIAGNOSES,Mass Spectrometry,Respiratory viruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0037813,C1175743,DIAGNOSES,Mass Spectrometry,SARS coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0037813,C5203676,DIAGNOSES,Mass Spectrometry,2019 novel coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0037813,C5226753,DIAGNOSES,Mass Spectrometry,Duck Tembusu virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0037815,C0014383,DIAGNOSES,"Spectrum Analysis, Raman",Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0037815,C0019682,DIAGNOSES,"Spectrum Analysis, Raman",HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0037815,C0035691,DIAGNOSES,"Spectrum Analysis, Raman",RNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0038577,C5203676,DIAGNOSES,Substance Abuse Detection,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0040284,C0001483,DIAGNOSES,Tissue culture,Adenoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0040284,C0014383,DIAGNOSES,Tissue culture,Enterovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0040284,C0032556,DIAGNOSES,Tissue culture,Polyomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0040284,C0042776,DIAGNOSES,Tissue culture,Virus,lbpr,virs,11,DIAGNOSES_LBPRdiagVIRS
+C0040284,C0206435,DIAGNOSES,Tissue culture,poliovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0040284,C0206467,DIAGNOSES,Tissue culture,Iridovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0040284,C0597404,DIAGNOSES,Tissue culture,Respiratory viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0040284,C0949880,DIAGNOSES,Tissue culture,Human coronavirus 229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0041609,C0015763,DIAGNOSES,Ultracentrifugation,"Calicivirus, Feline",lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0041609,C0015766,DIAGNOSES,Ultracentrifugation,Feline parvovirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0041609,C0042776,DIAGNOSES,Ultracentrifugation,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0041609,C0319245,DIAGNOSES,Ultracentrifugation,Felid herpesvirus 1,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0041609,C0376536,DIAGNOSES,Ultracentrifugation,Porcine respiratory and reproductive syndrome virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0041609,C0936087,DIAGNOSES,Ultracentrifugation,"Coronavirus, Feline",lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0079240,C0042776,DIAGNOSES,Dilution technique,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0079240,C0043125,DIAGNOSES,Dilution technique,West Nile virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079240,C0318855,DIAGNOSES,Dilution technique,Porcine epidemic diarrhea virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0079240,C0949892,DIAGNOSES,Dilution technique,Ebolavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079240,C1175743,DIAGNOSES,Dilution technique,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079240,C4698070,DIAGNOSES,Dilution technique,229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079240,C4698293,DIAGNOSES,Dilution technique,D10,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079240,C5203676,DIAGNOSES,Dilution technique,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079366,C0079005,DIAGNOSES,Fluorescence-Activated Cell Sorting,Baculoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079604,C0029341,DIAGNOSES,Immunofluorescence Microscopy,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079604,C0206545,DIAGNOSES,Immunofluorescence Microscopy,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079604,C0318793,DIAGNOSES,Immunofluorescence Microscopy,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079604,C0318855,DIAGNOSES,Immunofluorescence Microscopy,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079604,C0376526,DIAGNOSES,Immunofluorescence Microscopy,human herpesvirus 8,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079604,C1258014,DIAGNOSES,Immunofluorescence Microscopy,Human Metapneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0079607,C0027610,DIAGNOSES,Immunogold Techniques,Bovine coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0085115,C0029341,DIAGNOSES,CD4/CD8 ratio procedure,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0085194,C0001483,DIAGNOSES,Negative Staining,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0085194,C0035366,DIAGNOSES,Negative Staining,Retroviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0085194,C0035870,DIAGNOSES,Negative Staining,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0085194,C0042776,DIAGNOSES,Negative Staining,Virus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C0085194,C0318356,DIAGNOSES,Negative Staining,Human virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0085194,C1440516,DIAGNOSES,Negative Staining,Coxsackievirus B5,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0085672,C0019682,DIAGNOSES,Microbiology procedure,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0085672,C0042776,DIAGNOSES,Microbiology procedure,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086231,C0004120,DIAGNOSES,Enzyme Immunoassay,Astrovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086231,C0019682,DIAGNOSES,Enzyme Immunoassay,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086231,C0019704,DIAGNOSES,Enzyme Immunoassay,HIV-1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086231,C0019707,DIAGNOSES,Enzyme Immunoassay,Human immunodeficiency virus 2 (HIV-2),lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0086231,C0029341,DIAGNOSES,Enzyme Immunoassay,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086231,C0035870,DIAGNOSES,Enzyme Immunoassay,Rotavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0086231,C0037224,DIAGNOSES,Enzyme Immunoassay,Simian immunodeficiency virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086231,C0042776,DIAGNOSES,Enzyme Immunoassay,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0086231,C0085512,DIAGNOSES,Enzyme Immunoassay,Torovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086231,C0206413,DIAGNOSES,Enzyme Immunoassay,Calicivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086231,C0206545,DIAGNOSES,Enzyme Immunoassay,Human respiratory syncytial virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0086231,C0949920,DIAGNOSES,Enzyme Immunoassay,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086231,C1002306,DIAGNOSES,Enzyme Immunoassay,Rotavirus group A,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086231,C1258014,DIAGNOSES,Enzyme Immunoassay,Human Metapneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086890,C0001483,DIAGNOSES,Quick Test for Liver Function,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086890,C0019682,DIAGNOSES,Quick Test for Liver Function,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086890,C0029341,DIAGNOSES,Quick Test for Liver Function,Orthomyxoviridae,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0086890,C0029347,DIAGNOSES,Quick Test for Liver Function,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086890,C0035236,DIAGNOSES,Quick Test for Liver Function,Respiratory syncytial virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0086890,C0035870,DIAGNOSES,Quick Test for Liver Function,Rotavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0086890,C0042776,DIAGNOSES,Quick Test for Liver Function,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0086890,C0206545,DIAGNOSES,Quick Test for Liver Function,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086890,C0597404,DIAGNOSES,Quick Test for Liver Function,Respiratory viruses,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0086890,C1019124,DIAGNOSES,Quick Test for Liver Function,Infectious salmon anemia virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086890,C2709163,DIAGNOSES,Quick Test for Liver Function,Norovirus genogroup I,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086890,C2806447,DIAGNOSES,Quick Test for Liver Function,Alphacoronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086890,C3698360,DIAGNOSES,Quick Test for Liver Function,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0086890,C5203676,DIAGNOSES,Quick Test for Liver Function,2019 novel coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0086984,C0042776,DIAGNOSES,Silver Nitrate Staining,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0150411,C0597404,DIAGNOSES,Analysis of arterial blood gases and pH,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0151339,C1019124,DIAGNOSES,laboratory: chemistry,Infectious salmon anemia virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0001483,DIAGNOSES,Sequence Analysis,Adenoviruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0001490,DIAGNOSES,Sequence Analysis,"Adenoviruses, Human",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0002331,DIAGNOSES,Sequence Analysis,Alphavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0004120,DIAGNOSES,Sequence Analysis,Astrovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0004419,DIAGNOSES,Sequence Analysis,Infectious bronchitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0004651,DIAGNOSES,Sequence Analysis,Bacteriophages,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0010233,DIAGNOSES,Sequence Analysis,Cowpox virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0011139,DIAGNOSES,Sequence Analysis,Defective Viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0013480,DIAGNOSES,Sequence Analysis,Ebola virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0014047,DIAGNOSES,Sequence Analysis,Japanese encephalitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0014049,DIAGNOSES,Sequence Analysis,Venezuelan equine encephalitis virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0014383,DIAGNOSES,Sequence Analysis,Enterovirus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0017161,DIAGNOSES,Sequence Analysis,Transmissible gastroenteritis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0019092,DIAGNOSES,Sequence Analysis,Hantavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0019682,DIAGNOSES,Sequence Analysis,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0020121,DIAGNOSES,Sequence Analysis,Human enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0021335,DIAGNOSES,Sequence Analysis,Bovine herpesvirus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0021344,DIAGNOSES,Sequence Analysis,human papillomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0022075,DIAGNOSES,Sequence Analysis,Iridoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0024267,DIAGNOSES,Sequence Analysis,Lymphocytic choriomeningitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0025011,DIAGNOSES,Sequence Analysis,Measles virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0027610,DIAGNOSES,Sequence Analysis,Bovine coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0029341,DIAGNOSES,Sequence Analysis,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0029343,DIAGNOSES,Sequence Analysis,"Influenza A Virus, Avian",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0029347,DIAGNOSES,Sequence Analysis,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0030358,DIAGNOSES,Sequence Analysis,Papillomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0030393,DIAGNOSES,Sequence Analysis,Parainfluenza virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0030465,DIAGNOSES,Sequence Analysis,Family Paramyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0031886,DIAGNOSES,Sequence Analysis,Family Picornaviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0032556,DIAGNOSES,Sequence Analysis,Polyomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0033840,DIAGNOSES,Sequence Analysis,Suid Herpesvirus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0034497,DIAGNOSES,Sequence Analysis,rabies virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0035111,DIAGNOSES,Sequence Analysis,Reoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0035236,DIAGNOSES,Sequence Analysis,Respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0035366,DIAGNOSES,Sequence Analysis,Retroviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0035473,DIAGNOSES,Sequence Analysis,Rhinovirus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0035691,DIAGNOSES,Sequence Analysis,RNA Viruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0035870,DIAGNOSES,Sequence Analysis,Rotavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0036238,DIAGNOSES,Sequence Analysis,Satellite Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0042761,DIAGNOSES,Sequence Analysis,Viroids,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0042776,DIAGNOSES,Sequence Analysis,Virus,lbpr,virs,90,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0085150,DIAGNOSES,Sequence Analysis,Filoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0085294,DIAGNOSES,Sequence Analysis,Hepatitis E virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0085305,DIAGNOSES,Sequence Analysis,Feline infectious peritonitis virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0085512,DIAGNOSES,Sequence Analysis,Torovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0205725,DIAGNOSES,Sequence Analysis,"herpesvirus 5, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0206406,DIAGNOSES,Sequence Analysis,Orthohepadnavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0206409,DIAGNOSES,Sequence Analysis,Mastadenovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0206413,DIAGNOSES,Sequence Analysis,Calicivirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0206419,DIAGNOSES,Sequence Analysis,Genus: Coronavirus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0206497,DIAGNOSES,Sequence Analysis,Arenavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0206533,DIAGNOSES,Sequence Analysis,Paramyxovirinae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0206545,DIAGNOSES,Sequence Analysis,Human respiratory syncytial virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0206546,DIAGNOSES,Sequence Analysis,Lyssavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0206551,DIAGNOSES,Sequence Analysis,Thogotovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0206596,DIAGNOSES,Sequence Analysis,Orthoreoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0282472,DIAGNOSES,Sequence Analysis,Canarypox virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0318356,DIAGNOSES,Sequence Analysis,Human virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0318428,DIAGNOSES,Sequence Analysis,Human enterovirus 68,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0318459,DIAGNOSES,Sequence Analysis,"Enterovirus, Bovine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0318711,DIAGNOSES,Sequence Analysis,Human rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0318759,DIAGNOSES,Sequence Analysis,"Dengue virus, type 2",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0318798,DIAGNOSES,Sequence Analysis,"Paramyxovirus, NOS",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0318826,DIAGNOSES,Sequence Analysis,Infectious hematopoietic necrosis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0318855,DIAGNOSES,Sequence Analysis,Porcine epidemic diarrhea virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0376459,DIAGNOSES,Sequence Analysis,Tombusviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0376536,DIAGNOSES,Sequence Analysis,Porcine respiratory and reproductive syndrome virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0446176,DIAGNOSES,Sequence Analysis,Hepevirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0597363,DIAGNOSES,Sequence Analysis,recombinant virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0597404,DIAGNOSES,Sequence Analysis,Respiratory viruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0599614,DIAGNOSES,Sequence Analysis,borna virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0600465,DIAGNOSES,Sequence Analysis,Human Endogenous Retroviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0936087,DIAGNOSES,Sequence Analysis,"Coronavirus, Feline",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0949858,DIAGNOSES,Sequence Analysis,Nidovirales,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0949880,DIAGNOSES,Sequence Analysis,Human coronavirus 229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0949881,DIAGNOSES,Sequence Analysis,"Coronavirus OC43, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0949892,DIAGNOSES,Sequence Analysis,Ebolavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0949920,DIAGNOSES,Sequence Analysis,Norovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0949945,DIAGNOSES,Sequence Analysis,Foot-and-Mouth Disease Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C0999806,DIAGNOSES,Sequence Analysis,Human papillomavirus 16,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1002566,DIAGNOSES,Sequence Analysis,ssDNA viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1008398,DIAGNOSES,Sequence Analysis,Bymovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1040101,DIAGNOSES,Sequence Analysis,unclassified Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1071061,DIAGNOSES,Sequence Analysis,Rhinovirus A,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1079230,DIAGNOSES,Sequence Analysis,Subgroup A Nepoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1136253,DIAGNOSES,Sequence Analysis,Prophages,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1175743,DIAGNOSES,Sequence Analysis,SARS coronavirus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1216700,DIAGNOSES,Sequence Analysis,Kobuvirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1234164,DIAGNOSES,Sequence Analysis,Anelloviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1258014,DIAGNOSES,Sequence Analysis,Human Metapneumovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1258015,DIAGNOSES,Sequence Analysis,Henipavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1265385,DIAGNOSES,Sequence Analysis,Porcine circovirus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1265386,DIAGNOSES,Sequence Analysis,Porcine circovirus type II,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1478824,DIAGNOSES,Sequence Analysis,Human coronavirus NL63,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1646817,DIAGNOSES,Sequence Analysis,Human bocavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C1676985,DIAGNOSES,Sequence Analysis,Human coronavirus HKU1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C2290915,DIAGNOSES,Sequence Analysis,Rhinovirus C,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C2806453,DIAGNOSES,Sequence Analysis,Betacoronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C2807562,DIAGNOSES,Sequence Analysis,Nebovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C3310928,DIAGNOSES,Sequence Analysis,Enteric coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C3408980,DIAGNOSES,Sequence Analysis,Canine bocavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C3571966,DIAGNOSES,Sequence Analysis,Canine circovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C3611143,DIAGNOSES,Sequence Analysis,Ferret coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C3698360,DIAGNOSES,Sequence Analysis,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C3947283,DIAGNOSES,Sequence Analysis,Bat coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C4038448,DIAGNOSES,Sequence Analysis,Porcine deltacoronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C4698070,DIAGNOSES,Sequence Analysis,229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C4698071,DIAGNOSES,Sequence Analysis,OC43,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C4698072,DIAGNOSES,Sequence Analysis,NL63,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C4740229,DIAGNOSES,Sequence Analysis,Porcine circovirus type 3,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C5074687,DIAGNOSES,Sequence Analysis,Merbecovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0162801,C5141341,DIAGNOSES,Sequence Analysis,Viral strain,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0162801,C5203676,DIAGNOSES,Sequence Analysis,2019 novel coronavirus,lbpr,virs,12,DIAGNOSES_LBPRdiagVIRS
+C0162802,C0950111,DIAGNOSES,"Sequence Analysis, DNA","Diarrhea Virus 1, Bovine Viral",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0178539,C0042776,DIAGNOSES,Cellular,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0178539,C0597404,DIAGNOSES,Cellular,Respiratory viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200363,C0021574,DIAGNOSES,Specimen preparation,Insect Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200363,C0042776,DIAGNOSES,Specimen preparation,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200363,C0206545,DIAGNOSES,Specimen preparation,Human respiratory syncytial virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200363,C0949920,DIAGNOSES,Specimen preparation,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200363,C5203676,DIAGNOSES,Specimen preparation,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200633,C1079230,DIAGNOSES,Neutrophil count (procedure),Subgroup A Nepoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200665,C0042776,DIAGNOSES,Platelet mean volume determination (procedure),Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200665,C0318798,DIAGNOSES,Platelet mean volume determination (procedure),"Paramyxovirus, NOS",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200665,C0597404,DIAGNOSES,Platelet mean volume determination (procedure),Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200688,C0038975,DIAGNOSES,Immunocytochemical stain,Simian virus 40,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200688,C0042776,DIAGNOSES,Immunocytochemical stain,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200760,C0086776,DIAGNOSES,Morphometric analysis,Parvovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200898,C0597363,DIAGNOSES,DNA analysis,recombinant virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200924,C0042776,DIAGNOSES,Molecular biology method,Virus,lbpr,virs,8,DIAGNOSES_LBPRdiagVIRS
+C0200924,C0597404,DIAGNOSES,Molecular biology method,Respiratory viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200924,C1258014,DIAGNOSES,Molecular biology method,Human Metapneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200924,C5203676,DIAGNOSES,Molecular biology method,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0001483,DIAGNOSES,Polymerase chain reaction analysis,Adenoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0003725,DIAGNOSES,Polymerase chain reaction analysis,Arboviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0005670,DIAGNOSES,Polymerase chain reaction analysis,BK Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0014383,DIAGNOSES,Polymerase chain reaction analysis,Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0019351,DIAGNOSES,Polymerase chain reaction analysis,"herpesvirus 2, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0019369,DIAGNOSES,Polymerase chain reaction analysis,Herpesviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0019378,DIAGNOSES,Polymerase chain reaction analysis,"Herpesvirus 1, Cercopithecine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0020121,DIAGNOSES,Polymerase chain reaction analysis,Human enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0029341,DIAGNOSES,Polymerase chain reaction analysis,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0029347,DIAGNOSES,Polymerase chain reaction analysis,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0030393,DIAGNOSES,Polymerase chain reaction analysis,Parainfluenza virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0035236,DIAGNOSES,Polymerase chain reaction analysis,Respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0042338,DIAGNOSES,Polymerase chain reaction analysis,"herpesvirus 3, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0042776,DIAGNOSES,Polymerase chain reaction analysis,Virus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0086776,DIAGNOSES,Polymerase chain reaction analysis,Parvovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C0597404,DIAGNOSES,Polymerase chain reaction analysis,Respiratory viruses,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C0200931,C1071061,DIAGNOSES,Polymerase chain reaction analysis,Rhinovirus A,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200931,C1258014,DIAGNOSES,Polymerase chain reaction analysis,Human Metapneumovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200931,C5203676,DIAGNOSES,Polymerase chain reaction analysis,2019 novel coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0001483,DIAGNOSES,Nucleic Acid Amplification Tests,Adenoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0005670,DIAGNOSES,Nucleic Acid Amplification Tests,BK Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0010825,DIAGNOSES,Nucleic Acid Amplification Tests,Cytomegalovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0019351,DIAGNOSES,Nucleic Acid Amplification Tests,"herpesvirus 2, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0025011,DIAGNOSES,Nucleic Acid Amplification Tests,Measles virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0029341,DIAGNOSES,Nucleic Acid Amplification Tests,Orthomyxoviridae,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0035691,DIAGNOSES,Nucleic Acid Amplification Tests,RNA Viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0035870,DIAGNOSES,Nucleic Acid Amplification Tests,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0042338,DIAGNOSES,Nucleic Acid Amplification Tests,"herpesvirus 3, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0042776,DIAGNOSES,Nucleic Acid Amplification Tests,Virus,lbpr,virs,14,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0206419,DIAGNOSES,Nucleic Acid Amplification Tests,Genus: Coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0206545,DIAGNOSES,Nucleic Acid Amplification Tests,Human respiratory syncytial virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0446175,DIAGNOSES,Nucleic Acid Amplification Tests,Small round virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0597404,DIAGNOSES,Nucleic Acid Amplification Tests,Respiratory viruses,lbpr,virs,22,DIAGNOSES_LBPRdiagVIRS
+C0200932,C0949920,DIAGNOSES,Nucleic Acid Amplification Tests,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200932,C1175743,DIAGNOSES,Nucleic Acid Amplification Tests,SARS coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200932,C1258014,DIAGNOSES,Nucleic Acid Amplification Tests,Human Metapneumovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200932,C3698360,DIAGNOSES,Nucleic Acid Amplification Tests,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0200932,C5203676,DIAGNOSES,Nucleic Acid Amplification Tests,2019 novel coronavirus,lbpr,virs,14,DIAGNOSES_LBPRdiagVIRS
+C0200949,C0004651,DIAGNOSES,Blood culture,Bacteriophages,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200949,C0019707,DIAGNOSES,Blood culture,Human immunodeficiency virus 2 (HIV-2),lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200949,C0029341,DIAGNOSES,Blood culture,Orthomyxoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200949,C0032556,DIAGNOSES,Blood culture,Polyomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200949,C0035473,DIAGNOSES,Blood culture,Rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200949,C0042776,DIAGNOSES,Blood culture,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0001483,DIAGNOSES,Viral culture procedure,Adenoviruses,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0004419,DIAGNOSES,Viral culture procedure,Infectious bronchitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0010825,DIAGNOSES,Viral culture procedure,Cytomegalovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0014383,DIAGNOSES,Viral culture procedure,Enterovirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0015767,DIAGNOSES,Viral culture procedure,Feline leukemia virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0019369,DIAGNOSES,Viral culture procedure,Herpesviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0025011,DIAGNOSES,Viral culture procedure,Measles virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0029341,DIAGNOSES,Viral culture procedure,Orthomyxoviridae,lbpr,virs,10,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0030391,DIAGNOSES,Viral culture procedure,"Parainfluenza Virus 2, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0030393,DIAGNOSES,Viral culture procedure,Parainfluenza virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0035473,DIAGNOSES,Viral culture procedure,Rhinovirus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0035691,DIAGNOSES,Viral culture procedure,RNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0042338,DIAGNOSES,Viral culture procedure,"herpesvirus 3, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0042776,DIAGNOSES,Viral culture procedure,Virus,lbpr,virs,68,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0043125,DIAGNOSES,Viral culture procedure,West Nile virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0206419,DIAGNOSES,Viral culture procedure,Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0206422,DIAGNOSES,Viral culture procedure,Human coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0206541,DIAGNOSES,Viral culture procedure,Murine pneumonia virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0206545,DIAGNOSES,Viral culture procedure,Human respiratory syncytial virus,lbpr,virs,12,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0206596,DIAGNOSES,Viral culture procedure,Orthoreoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0318855,DIAGNOSES,Viral culture procedure,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0376536,DIAGNOSES,Viral culture procedure,Porcine respiratory and reproductive syndrome virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0597404,DIAGNOSES,Viral culture procedure,Respiratory viruses,lbpr,virs,40,DIAGNOSES_LBPRdiagVIRS
+C0200955,C0949945,DIAGNOSES,Viral culture procedure,Foot-and-Mouth Disease Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C1079230,DIAGNOSES,Viral culture procedure,Subgroup A Nepoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C1175743,DIAGNOSES,Viral culture procedure,SARS coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200955,C1258014,DIAGNOSES,Viral culture procedure,Human Metapneumovirus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0200955,C1615053,DIAGNOSES,Viral culture procedure,"Influenza A Virus, H3N2 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C1632974,DIAGNOSES,Viral culture procedure,Rhinovirus serotype,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C2804259,DIAGNOSES,Viral culture procedure,Salivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C3658219,DIAGNOSES,Viral culture procedure,"Influenza A Virus, H7N9 Subtype",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200955,C3698360,DIAGNOSES,Viral culture procedure,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C4484149,DIAGNOSES,Viral culture procedure,Adenovirus 7,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C4698070,DIAGNOSES,Viral culture procedure,229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0200955,C5141341,DIAGNOSES,Viral culture procedure,Viral strain,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0200955,C5203676,DIAGNOSES,Viral culture procedure,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201242,C0029343,DIAGNOSES,Animal inoculation,"Influenza A Virus, Avian",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201242,C1613950,DIAGNOSES,Animal inoculation,"Influenza A Virus, H5N1 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201253,C0597404,DIAGNOSES,Colony count on plate,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201284,C0029341,DIAGNOSES,Fluorescent antibody measurement,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201284,C0032556,DIAGNOSES,Fluorescent antibody measurement,Polyomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201284,C0035870,DIAGNOSES,Fluorescent antibody measurement,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201284,C0042776,DIAGNOSES,Fluorescent antibody measurement,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201284,C0206545,DIAGNOSES,Fluorescent antibody measurement,Human respiratory syncytial virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201284,C0318855,DIAGNOSES,Fluorescent antibody measurement,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201284,C0597404,DIAGNOSES,Fluorescent antibody measurement,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201291,C0035870,DIAGNOSES,Passive agglutination test,Rotavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201300,C0005867,DIAGNOSES,Serum neutralization test,Bluetongue virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201300,C0035614,DIAGNOSES,Serum neutralization test,Rift Valley fever virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201300,C0042776,DIAGNOSES,Serum neutralization test,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201300,C0043125,DIAGNOSES,Serum neutralization test,West Nile virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201300,C0085294,DIAGNOSES,Serum neutralization test,Hepatitis E virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201300,C0206593,DIAGNOSES,Serum neutralization test,Epizootic hemorrhagic disease virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201300,C0598902,DIAGNOSES,Serum neutralization test,murine nodule inducing virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201300,C0751672,DIAGNOSES,Serum neutralization test,Hendra Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201519,C0001483,DIAGNOSES,Antibody to islet cells of pancreas measurement,Adenoviruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0201519,C0011315,DIAGNOSES,Antibody to islet cells of pancreas measurement,Dengue Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201519,C0017161,DIAGNOSES,Antibody to islet cells of pancreas measurement,Transmissible gastroenteritis virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201519,C0019842,DIAGNOSES,Antibody to islet cells of pancreas measurement,Classical Swine Fever Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201519,C0033840,DIAGNOSES,Antibody to islet cells of pancreas measurement,Suid Herpesvirus 1,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201519,C0035870,DIAGNOSES,Antibody to islet cells of pancreas measurement,Rotavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201519,C0042776,DIAGNOSES,Antibody to islet cells of pancreas measurement,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201519,C0206411,DIAGNOSES,Antibody to islet cells of pancreas measurement,Porcine circovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201519,C0318855,DIAGNOSES,Antibody to islet cells of pancreas measurement,Porcine epidemic diarrhea virus,lbpr,virs,17,DIAGNOSES_LBPRdiagVIRS
+C0201519,C0884118,DIAGNOSES,Antibody to islet cells of pancreas measurement,adenovirus type,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201519,C1002306,DIAGNOSES,Antibody to islet cells of pancreas measurement,Rotavirus group A,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201591,C0376536,DIAGNOSES,Interferon assay,Porcine respiratory and reproductive syndrome virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201619,C0042776,DIAGNOSES,Antigen capture assay,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201622,C0043125,DIAGNOSES,Cytotoxicity assay,West Nile virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201657,C0001483,DIAGNOSES,C-reactive protein measurement,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201677,C0001483,DIAGNOSES,Viral neutralization test,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201677,C0014383,DIAGNOSES,Viral neutralization test,Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201677,C0035473,DIAGNOSES,Viral neutralization test,Rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201677,C0035870,DIAGNOSES,Viral neutralization test,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201677,C0042776,DIAGNOSES,Viral neutralization test,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201677,C0043125,DIAGNOSES,Viral neutralization test,West Nile virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201679,C0021344,DIAGNOSES,Human papillomavirus typing (procedure),human papillomavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0201679,C0030358,DIAGNOSES,Human papillomavirus typing (procedure),Papillomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201679,C1005556,DIAGNOSES,Human papillomavirus typing (procedure),Human papillomavirus 6,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201699,C0042776,DIAGNOSES,"Electrophoresis, Capillary",Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201701,C0042776,DIAGNOSES,Radioimmunofocus assay,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201709,C0001483,DIAGNOSES,Chemiluminescence assay,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201709,C0030393,DIAGNOSES,Chemiluminescence assay,Parainfluenza virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201709,C0035236,DIAGNOSES,Chemiluminescence assay,Respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201709,C5203676,DIAGNOSES,Chemiluminescence assay,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201794,C0019682,DIAGNOSES,DNA hybridization assay,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201811,C0035870,DIAGNOSES,Fecal occult blood test,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201811,C0086776,DIAGNOSES,Fecal occult blood test,Parvovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201811,C2806447,DIAGNOSES,Fecal occult blood test,Alphacoronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0201950,C0042776,DIAGNOSES,Cholesterol measurement test,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0201950,C4038448,DIAGNOSES,Cholesterol measurement test,Porcine deltacoronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0202010,C0035870,DIAGNOSES,Fecal analysis procedure,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0202118,C0019704,DIAGNOSES,Leucine aminopeptidase measurement,HIV-1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0206161,C0026394,DIAGNOSES,Reticulocyte count (procedure),Molluscum contagiosum virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0206618,C0376325,DIAGNOSES,Immunomagnetic Separation,hepatitis A virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0206691,C0042776,DIAGNOSES,Electroporation,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0206755,C2806447,DIAGNOSES,"Crystallography, X-Ray",Alphacoronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0236451,C5203676,DIAGNOSES,Plasma Fibrinogen assay,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0242318,C0011315,DIAGNOSES,HLA Typing,Dengue Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0242349,C0014383,DIAGNOSES,Immunocytochemistry,Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0242349,C0019682,DIAGNOSES,Immunocytochemistry,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0242349,C0029345,DIAGNOSES,Immunocytochemistry,"Orthomyxovirus Type A, Porcine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0242349,C0038975,DIAGNOSES,Immunocytochemistry,Simian virus 40,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0242349,C0042776,DIAGNOSES,Immunocytochemistry,Virus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0242349,C1175743,DIAGNOSES,Immunocytochemistry,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0242831,C0019682,DIAGNOSES,Epitope Mapping,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0242842,C0006394,DIAGNOSES,"Microscopy, Confocal",Bunyamwera virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0242842,C0019351,DIAGNOSES,"Microscopy, Confocal","herpesvirus 2, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0242842,C0035870,DIAGNOSES,"Microscopy, Confocal",Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0242842,C0206679,DIAGNOSES,"Microscopy, Confocal","herpesvirus 1, human",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0243009,C0019682,DIAGNOSES,CD4 Count determination procedure,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0243009,C0019704,DIAGNOSES,CD4 Count determination procedure,HIV-1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0243009,C0042776,DIAGNOSES,CD4 Count determination procedure,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282547,C0042776,DIAGNOSES,Coculture Techniques,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0282597,C0019169,DIAGNOSES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",hepatitis B virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0282597,C0029341,DIAGNOSES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282597,C0042776,DIAGNOSES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0282597,C0319232,DIAGNOSES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Human herpes simplex virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282597,C5203676,DIAGNOSES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",2019 novel coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0014080,DIAGNOSES,Indirect Immunofluorescence,Encephalomyocarditis virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0030390,DIAGNOSES,Indirect Immunofluorescence,"Parainfluenza Virus 1, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0030393,DIAGNOSES,Indirect Immunofluorescence,Parainfluenza virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0042776,DIAGNOSES,Indirect Immunofluorescence,Virus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0079337,DIAGNOSES,Indirect Immunofluorescence,Feline Immunodeficiency Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0206422,DIAGNOSES,Indirect Immunofluorescence,Human coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0206545,DIAGNOSES,Indirect Immunofluorescence,Human respiratory syncytial virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0318793,DIAGNOSES,Indirect Immunofluorescence,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0597363,DIAGNOSES,Indirect Immunofluorescence,recombinant virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0597404,DIAGNOSES,Indirect Immunofluorescence,Respiratory viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0949334,DIAGNOSES,Indirect Immunofluorescence,MHV-JHM,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0949945,DIAGNOSES,Indirect Immunofluorescence,Foot-and-Mouth Disease Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282646,C0969694,DIAGNOSES,Indirect Immunofluorescence,Bovine herpesvirus 4,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282646,C1175743,DIAGNOSES,Indirect Immunofluorescence,SARS coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0282647,C0042776,DIAGNOSES,"Fluorescent Antibody Technique, Indirect",Virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0282647,C0079337,DIAGNOSES,"Fluorescent Antibody Technique, Indirect",Feline Immunodeficiency Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282647,C0206545,DIAGNOSES,"Fluorescent Antibody Technique, Indirect",Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282647,C0376536,DIAGNOSES,"Fluorescent Antibody Technique, Indirect",Porcine respiratory and reproductive syndrome virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282647,C1175743,DIAGNOSES,"Fluorescent Antibody Technique, Indirect",SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282648,C0001483,DIAGNOSES,Direct immunofluorescence,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282648,C0029347,DIAGNOSES,Direct immunofluorescence,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282648,C0042776,DIAGNOSES,Direct immunofluorescence,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0282648,C0206419,DIAGNOSES,Direct immunofluorescence,Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282648,C0206545,DIAGNOSES,Direct immunofluorescence,Human respiratory syncytial virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0282648,C0597404,DIAGNOSES,Direct immunofluorescence,Respiratory viruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0282649,C0001483,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Adenoviruses,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C0282649,C0011315,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Dengue Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282649,C0015767,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Feline leukemia virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282649,C0029341,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Orthomyxoviridae,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0282649,C0030393,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Parainfluenza virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0282649,C0035236,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Respiratory syncytial virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0282649,C0038975,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Simian virus 40,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282649,C0042776,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Virus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0282649,C0079337,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Feline Immunodeficiency Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0282649,C0206545,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Human respiratory syncytial virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0282649,C0318855,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Porcine epidemic diarrhea virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0282649,C0597404,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Respiratory viruses,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0282649,C1258014,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Human Metapneumovirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0282649,C1676985,DIAGNOSES,"Fluorescent Antibody Technique, Direct",Human coronavirus HKU1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0337438,C0597363,DIAGNOSES,Glucose measurement,recombinant virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0368676,C0042776,DIAGNOSES,Antibody screen,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0369183,C0001483,DIAGNOSES,Erythrocyte Mean Corpuscular Hemoglobin Test,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0369671,C0042776,DIAGNOSES,Microscopic observation,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0373658,C0376536,DIAGNOSES,Iron binding capacity measurement,Porcine respiratory and reproductive syndrome virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0373680,C0205762,DIAGNOSES,Myoglobin measurement,Feline panleukopenia virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0373861,C0042776,DIAGNOSES,Immunodiffusion; not elsewhere specified (procedure in CPT),Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0376519,C0318793,DIAGNOSES,"Spectroscopy, Near-Infrared",Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0427716,C0042776,DIAGNOSES,"Protein concentration, test strip measurement",Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0429845,C0014383,DIAGNOSES,Sperm concentration measurement,Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430027,C0042776,DIAGNOSES,biochemical test,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430389,C0026394,DIAGNOSES,Light Microscopy,Molluscum contagiosum virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430389,C0037356,DIAGNOSES,Light Microscopy,Smallpox Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430389,C0042776,DIAGNOSES,Light Microscopy,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0430389,C5203676,DIAGNOSES,Light Microscopy,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430396,C0035870,DIAGNOSES,Stool microscopy,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430396,C0042776,DIAGNOSES,Stool microscopy,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430403,C0206679,DIAGNOSES,Cerebrospinal fluid culture (procedure),"herpesvirus 1, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430414,C0206435,DIAGNOSES,Stool culture,poliovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430420,C0001483,DIAGNOSES,Antigen assay,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430420,C0010825,DIAGNOSES,Antigen assay,Cytomegalovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430420,C0029341,DIAGNOSES,Antigen assay,Orthomyxoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0430420,C0035473,DIAGNOSES,Antigen assay,Rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430420,C0035870,DIAGNOSES,Antigen assay,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430420,C0042776,DIAGNOSES,Antigen assay,Virus,lbpr,virs,13,DIAGNOSES_LBPRdiagVIRS
+C0430420,C0206422,DIAGNOSES,Antigen assay,Human coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430420,C0206545,DIAGNOSES,Antigen assay,Human respiratory syncytial virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C0430420,C0597404,DIAGNOSES,Antigen assay,Respiratory viruses,lbpr,virs,12,DIAGNOSES_LBPRdiagVIRS
+C0430420,C1175743,DIAGNOSES,Antigen assay,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430420,C3698360,DIAGNOSES,Antigen assay,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430425,C0318855,DIAGNOSES,Procedure to identify antibody,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0430425,C5203676,DIAGNOSES,Procedure to identify antibody,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0457437,C0042776,DIAGNOSES,Microscopy technique,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0459958,C0019682,DIAGNOSES,HIV screen,HIV,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0474643,C0042776,DIAGNOSES,Antibody titer measurement,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0474643,C0205725,DIAGNOSES,Antibody titer measurement,"herpesvirus 5, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0474643,C0597404,DIAGNOSES,Antibody titer measurement,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0474643,C4556170,DIAGNOSES,Antibody titer measurement,Pseudovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0474768,C0027610,DIAGNOSES,Reverse passive hemagglutination,Bovine coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0519952,C5203676,DIAGNOSES,Sperm Cryopreservation,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0523207,C1613950,DIAGNOSES,Hematoxylin and eosin stain method,"Influenza A Virus, H5N1 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0523313,C1079230,DIAGNOSES,Mumps virus antibody assay,Subgroup A Nepoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0523459,C0037170,DIAGNOSES,Alanine measurement,Sindbis Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0523459,C0376536,DIAGNOSES,Alanine measurement,Porcine respiratory and reproductive syndrome virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0523459,C1175743,DIAGNOSES,Alanine measurement,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0523503,C3698360,DIAGNOSES,Arginine measurement,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0523807,C0035236,DIAGNOSES,Oxygen saturation measurement,Respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0523888,C0002331,DIAGNOSES,Serine measurement,Alphavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0523888,C0037170,DIAGNOSES,Serine measurement,Sindbis Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0523888,C0949858,DIAGNOSES,Serine measurement,Nidovirales,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0523912,C1079230,DIAGNOSES,Testosterone measurement,Subgroup A Nepoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0525026,C0042216,DIAGNOSES,Biotinylation,vaccinia virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0580327,C0006069,DIAGNOSES,Antibody studies (procedure),"Leukemia Virus, Bovine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0580327,C0019682,DIAGNOSES,Antibody studies (procedure),HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0580327,C0029343,DIAGNOSES,Antibody studies (procedure),"Influenza A Virus, Avian",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0580327,C0042776,DIAGNOSES,Antibody studies (procedure),Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0580327,C0043125,DIAGNOSES,Antibody studies (procedure),West Nile virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0580327,C0206545,DIAGNOSES,Antibody studies (procedure),Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0580327,C0597404,DIAGNOSES,Antibody studies (procedure),Respiratory viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0580327,C0936087,DIAGNOSES,Antibody studies (procedure),"Coronavirus, Feline",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0580327,C1175743,DIAGNOSES,Antibody studies (procedure),SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0580327,C5203676,DIAGNOSES,Antibody studies (procedure),2019 novel coronavirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0581714,C5203676,DIAGNOSES,Buccal smear procedure,2019 novel coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0596482,C0019682,DIAGNOSES,electrical measurement,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0596495,C0002331,DIAGNOSES,"Spectrometry, Mass, Electrospray Ionization",Alphavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0596495,C0014383,DIAGNOSES,"Spectrometry, Mass, Electrospray Ionization",Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0596495,C0035473,DIAGNOSES,"Spectrometry, Mass, Electrospray Ionization",Rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0596495,C0597404,DIAGNOSES,"Spectrometry, Mass, Electrospray Ionization",Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0596857,C5203676,DIAGNOSES,liver preservation,2019 novel coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0597452,C5203676,DIAGNOSES,Single-Cell Analysis,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0597705,C0019185,DIAGNOSES,Cryoelectron Microscopy,Murine hepatitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0597705,C0033840,DIAGNOSES,Cryoelectron Microscopy,Suid Herpesvirus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0597705,C0035870,DIAGNOSES,Cryoelectron Microscopy,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0597705,C0042776,DIAGNOSES,Cryoelectron Microscopy,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0597705,C0206679,DIAGNOSES,Cryoelectron Microscopy,"herpesvirus 1, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0597705,C1175743,DIAGNOSES,Cryoelectron Microscopy,SARS coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0597705,C1676985,DIAGNOSES,Cryoelectron Microscopy,Human coronavirus HKU1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0597705,C3698360,DIAGNOSES,Cryoelectron Microscopy,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0597705,C4698072,DIAGNOSES,Cryoelectron Microscopy,NL63,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0597717,C1175743,DIAGNOSES,Fluorescence Resonance Energy Transfer,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0599616,C0042776,DIAGNOSES,Virus identification,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0599927,C0042776,DIAGNOSES,southern hybridization,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0599927,C4698070,DIAGNOSES,southern hybridization,229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0599953,C0042776,DIAGNOSES,Virus Inactivation,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0600209,C0042776,DIAGNOSES,SDS-PAGE,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0600209,C0206419,DIAGNOSES,SDS-PAGE,Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0600209,C0318855,DIAGNOSES,SDS-PAGE,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0600209,C1175743,DIAGNOSES,SDS-PAGE,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0600396,C0026398,DIAGNOSES,Laser Scanning Microscopy,Moloney Leukemia Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0678118,C0004120,DIAGNOSES,Transmission Electron Microscopy,Astrovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0678118,C0042776,DIAGNOSES,Transmission Electron Microscopy,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0678118,C0206419,DIAGNOSES,Transmission Electron Microscopy,Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0678118,C0318855,DIAGNOSES,Transmission Electron Microscopy,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0678118,C0544193,DIAGNOSES,Transmission Electron Microscopy,Human respiratory virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0678118,C1478824,DIAGNOSES,Transmission Electron Microscopy,Human coronavirus NL63,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0678118,C3698360,DIAGNOSES,Transmission Electron Microscopy,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0678624,C0035870,DIAGNOSES,flotation,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0678628,C5203676,DIAGNOSES,membrane filtration,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0010243,DIAGNOSES,Genetic screening method,coxsackieviruses B,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0029345,DIAGNOSES,Genetic screening method,"Orthomyxovirus Type A, Porcine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0029347,DIAGNOSES,Genetic screening method,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0035691,DIAGNOSES,Genetic screening method,RNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0042776,DIAGNOSES,Genetic screening method,Virus,lbpr,virs,10,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0206412,DIAGNOSES,Genetic screening method,Circovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0206413,DIAGNOSES,Genetic screening method,Calicivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0206418,DIAGNOSES,Genetic screening method,Porcine hemagglutinating encephalomyelitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0206435,DIAGNOSES,Genetic screening method,poliovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0206590,DIAGNOSES,Genetic screening method,Coltivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0318793,DIAGNOSES,Genetic screening method,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0318855,DIAGNOSES,Genetic screening method,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0751673,DIAGNOSES,Genetic screening method,Nipah Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0949920,DIAGNOSES,Genetic screening method,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0949921,DIAGNOSES,Genetic screening method,Sapovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C0950094,DIAGNOSES,Genetic screening method,Human enterovirus D,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C1079230,DIAGNOSES,Genetic screening method,Subgroup A Nepoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0679560,C1175743,DIAGNOSES,Genetic screening method,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C1258014,DIAGNOSES,Genetic screening method,Human Metapneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C1615607,DIAGNOSES,Genetic screening method,"Influenza A Virus, H1N1 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C2806453,DIAGNOSES,Genetic screening method,Betacoronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C3697872,DIAGNOSES,Genetic screening method,Genus Betacoronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C3698360,DIAGNOSES,Genetic screening method,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C5074702,DIAGNOSES,Genetic screening method,Sarbecovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0679560,C5203676,DIAGNOSES,Genetic screening method,2019 novel coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0681827,C0042776,DIAGNOSES,Laboratory Study,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0683134,C0949920,DIAGNOSES,voltammetry,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0684295,C0014383,DIAGNOSES,Chemical extraction,Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0684296,C0079005,DIAGNOSES,Column Chromatography,Baculoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0684296,C0318855,DIAGNOSES,Column Chromatography,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0729856,C0001483,DIAGNOSES,Antigen test,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0729856,C0010825,DIAGNOSES,Antigen test,Cytomegalovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0729856,C0035236,DIAGNOSES,Antigen test,Respiratory syncytial virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0729856,C0035870,DIAGNOSES,Antigen test,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0729856,C0042776,DIAGNOSES,Antigen test,Virus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0729856,C0206545,DIAGNOSES,Antigen test,Human respiratory syncytial virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0729856,C0446175,DIAGNOSES,Antigen test,Small round virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0729856,C0597404,DIAGNOSES,Antigen test,Respiratory viruses,lbpr,virs,12,DIAGNOSES_LBPRdiagVIRS
+C0729856,C0949920,DIAGNOSES,Antigen test,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0729856,C1002306,DIAGNOSES,Antigen test,Rotavirus group A,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0729856,C1258014,DIAGNOSES,Antigen test,Human Metapneumovirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0729856,C5203676,DIAGNOSES,Antigen test,2019 novel coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0751970,C0010233,DIAGNOSES,"Sequence Analysis, Protein",Cowpox virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0751970,C0031886,DIAGNOSES,"Sequence Analysis, Protein",Family Picornaviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0751970,C0206419,DIAGNOSES,"Sequence Analysis, Protein",Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0751970,C0206497,DIAGNOSES,"Sequence Analysis, Protein",Arenavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0751970,C0206545,DIAGNOSES,"Sequence Analysis, Protein",Human respiratory syncytial virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0751970,C0206596,DIAGNOSES,"Sequence Analysis, Protein",Orthoreoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0751970,C5203676,DIAGNOSES,"Sequence Analysis, Protein",2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0752096,C0206558,DIAGNOSES,Molecular Diagnostic Testing,Simplexvirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0752096,C0597404,DIAGNOSES,Molecular Diagnostic Testing,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0752096,C5203676,DIAGNOSES,Molecular Diagnostic Testing,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0752248,C1079230,DIAGNOSES,Gene Expression Profiling,Subgroup A Nepoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0796357,C0004419,DIAGNOSES,Genetic Variation Analysis,Infectious bronchitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0796357,C0015763,DIAGNOSES,Genetic Variation Analysis,"Calicivirus, Feline",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0796357,C0025011,DIAGNOSES,Genetic Variation Analysis,Measles virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0796357,C0027984,DIAGNOSES,Genetic Variation Analysis,Newcastle disease virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0796357,C0029341,DIAGNOSES,Genetic Variation Analysis,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0796357,C0042776,DIAGNOSES,Genetic Variation Analysis,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0796357,C0079337,DIAGNOSES,Genetic Variation Analysis,Feline Immunodeficiency Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0796357,C0080133,DIAGNOSES,Genetic Variation Analysis,Simian retrovirus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0796357,C0206350,DIAGNOSES,Genetic Variation Analysis,Tombusvirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0796357,C0376454,DIAGNOSES,Genetic Variation Analysis,Bromoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0796357,C0949880,DIAGNOSES,Genetic Variation Analysis,Human coronavirus 229E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0796357,C0949920,DIAGNOSES,Genetic Variation Analysis,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0796357,C1175743,DIAGNOSES,Genetic Variation Analysis,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0796357,C5203676,DIAGNOSES,Genetic Variation Analysis,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0807480,C0035691,DIAGNOSES,Preparation techniques,RNA Viruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0807480,C0042776,DIAGNOSES,Preparation techniques,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0814048,C1175743,DIAGNOSES,Cytometry,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0814048,C3698360,DIAGNOSES,Cytometry,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0871511,C0014383,DIAGNOSES,Test Method,Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0871511,C0042776,DIAGNOSES,Test Method,Virus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0871511,C0597404,DIAGNOSES,Test Method,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0871511,C1079230,DIAGNOSES,Test Method,Subgroup A Nepoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0871511,C5203676,DIAGNOSES,Test Method,2019 novel coronavirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0872071,C5203676,DIAGNOSES,nucleic acid purification,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0872148,C0029017,DIAGNOSES,DNA purification,Oncogenic Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0872232,C0001483,DIAGNOSES,Nucleic acid assay,Adenoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0872232,C0029343,DIAGNOSES,Nucleic acid assay,"Influenza A Virus, Avian",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0872232,C0042776,DIAGNOSES,Nucleic acid assay,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0872232,C0597404,DIAGNOSES,Nucleic acid assay,Respiratory viruses,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0872232,C0949945,DIAGNOSES,Nucleic acid assay,Foot-and-Mouth Disease Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0872232,C5203676,DIAGNOSES,Nucleic acid assay,2019 novel coronavirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0872318,C0014644,DIAGNOSES,Liquid Chromatography Mass Spectrometry,Epstein-Barr virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0872318,C0019682,DIAGNOSES,Liquid Chromatography Mass Spectrometry,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0872318,C0029341,DIAGNOSES,Liquid Chromatography Mass Spectrometry,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0872318,C0029347,DIAGNOSES,Liquid Chromatography Mass Spectrometry,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0872318,C0042776,DIAGNOSES,Liquid Chromatography Mass Spectrometry,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0872318,C0206545,DIAGNOSES,Liquid Chromatography Mass Spectrometry,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0872318,C0682447,DIAGNOSES,Liquid Chromatography Mass Spectrometry,virus by host,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0872318,C1175743,DIAGNOSES,Liquid Chromatography Mass Spectrometry,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0883003,C0010076,DIAGNOSES,Differential panel,Coronaviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0883003,C0042776,DIAGNOSES,Differential panel,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C0883003,C0206419,DIAGNOSES,Differential panel,Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0883003,C0597404,DIAGNOSES,Differential panel,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0883003,C1175743,DIAGNOSES,Differential panel,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0883003,C1676985,DIAGNOSES,Differential panel,Human coronavirus HKU1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0883003,C2806454,DIAGNOSES,Differential panel,Betacoronavirus 1,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0919386,C0042776,DIAGNOSES,Pathology procedure,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0919386,C1004252,DIAGNOSES,Pathology procedure,Tomato geminivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0919386,C1175743,DIAGNOSES,Pathology procedure,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0919753,C0042776,DIAGNOSES,hepatitis a screen,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0920508,C0014644,DIAGNOSES,Enzyme-Linked Immunospot Assay,Epstein-Barr virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0920508,C0019682,DIAGNOSES,Enzyme-Linked Immunospot Assay,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0920508,C0042776,DIAGNOSES,Enzyme-Linked Immunospot Assay,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0001489,DIAGNOSES,Scientific Study,Aviadenovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0002331,DIAGNOSES,Scientific Study,Alphavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0006755,DIAGNOSES,Scientific Study,"Encephalitis Virus, California",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0016215,DIAGNOSES,Scientific Study,Flavivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0019704,DIAGNOSES,Scientific Study,HIV-1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0025011,DIAGNOSES,Scientific Study,Measles virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0029341,DIAGNOSES,Scientific Study,Orthomyxoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0035691,DIAGNOSES,Scientific Study,RNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0035870,DIAGNOSES,Scientific Study,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0042776,DIAGNOSES,Scientific Study,Virus,lbpr,virs,11,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0085150,DIAGNOSES,Scientific Study,Filoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0085294,DIAGNOSES,Scientific Study,Hepatitis E virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0086427,DIAGNOSES,Scientific Study,"T-Cell Leukemia Viruses, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0086776,DIAGNOSES,Scientific Study,Parvovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0162540,DIAGNOSES,Scientific Study,Bacteriophage P22,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0206419,DIAGNOSES,Scientific Study,Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0206545,DIAGNOSES,Scientific Study,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0206596,DIAGNOSES,Scientific Study,Orthoreoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0318602,DIAGNOSES,Scientific Study,Avian enteric calicivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0318729,DIAGNOSES,Scientific Study,Atypical rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0318798,DIAGNOSES,Scientific Study,"Paramyxovirus, NOS",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0376417,DIAGNOSES,Scientific Study,Brome mosaic virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0376536,DIAGNOSES,Scientific Study,Porcine respiratory and reproductive syndrome virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0546788,DIAGNOSES,Scientific Study,Parainfluenza Virus 5,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0936087,DIAGNOSES,Scientific Study,"Coronavirus, Feline",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0949858,DIAGNOSES,Scientific Study,Nidovirales,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0949920,DIAGNOSES,Scientific Study,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C0999806,DIAGNOSES,Scientific Study,Human papillomavirus 16,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C1005582,DIAGNOSES,Scientific Study,dsRNA viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0947630,C1071061,DIAGNOSES,Scientific Study,Rhinovirus A,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C1148555,DIAGNOSES,Scientific Study,Cypovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C1175743,DIAGNOSES,Scientific Study,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C2291147,DIAGNOSES,Scientific Study,Picornavirales,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C3698360,DIAGNOSES,Scientific Study,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0947630,C4698072,DIAGNOSES,Scientific Study,NL63,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0947630,C5203676,DIAGNOSES,Scientific Study,2019 novel coronavirus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C0948762,C1258014,DIAGNOSES,Absolute neutrophil count,Human Metapneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0949466,C0019092,DIAGNOSES,Western Blot,Hantavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0949466,C0042776,DIAGNOSES,Western Blot,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C0949466,C0079005,DIAGNOSES,Western Blot,Baculoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0949466,C0206545,DIAGNOSES,Western Blot,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0949466,C0206679,DIAGNOSES,Western Blot,"herpesvirus 1, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0949466,C0318855,DIAGNOSES,Western Blot,Porcine epidemic diarrhea virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0949466,C0597363,DIAGNOSES,Western Blot,recombinant virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C0949466,C0949892,DIAGNOSES,Western Blot,Ebolavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0949466,C1079230,DIAGNOSES,Western Blot,Subgroup A Nepoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C0949466,C1175743,DIAGNOSES,Western Blot,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1096202,C1079230,DIAGNOSES,Lipoprotein (a) measurement,Subgroup A Nepoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1254361,C0042776,DIAGNOSES,Laboratory Diagnostic Method,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1254361,C3698360,DIAGNOSES,Laboratory Diagnostic Method,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1261149,C0597404,DIAGNOSES,Viral antigen assay,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1261478,C0025011,DIAGNOSES,Viral load measurement,Measles virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1261478,C0042776,DIAGNOSES,Viral load measurement,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1262031,C5203676,DIAGNOSES,sputum test,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1272250,C5203676,DIAGNOSES,Viral nucleic acid assay,2019 novel coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1272318,C0029341,DIAGNOSES,Presence of virus (procedure),Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1273342,C0597404,DIAGNOSES,Epithelial cell count (procedure),Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1273421,C0029341,DIAGNOSES,Viral studies (procedure),Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1273421,C0042776,DIAGNOSES,Viral studies (procedure),Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1273421,C5203676,DIAGNOSES,Viral studies (procedure),2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1275826,C1175743,DIAGNOSES,PCR test for SARS,SARS coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1275943,C0014644,DIAGNOSES,"Allergen specific IgE antibody measurement, FAST type",Epstein-Barr virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1275943,C0042776,DIAGNOSES,"Allergen specific IgE antibody measurement, FAST type",Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1277852,C0206545,DIAGNOSES,RSV antigen level,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1278052,C0042776,DIAGNOSES,Serum lactate dehydrogenase measurement,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1285573,C0001483,DIAGNOSES,Genotype determination,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1285573,C0004419,DIAGNOSES,Genotype determination,Infectious bronchitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1285573,C0029341,DIAGNOSES,Genotype determination,Orthomyxoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1285573,C0030391,DIAGNOSES,Genotype determination,"Parainfluenza Virus 2, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1285573,C0031254,DIAGNOSES,Genotype determination,Pestivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1285573,C0035870,DIAGNOSES,Genotype determination,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1285573,C0042776,DIAGNOSES,Genotype determination,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1285573,C0206419,DIAGNOSES,Genotype determination,Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1285573,C0206545,DIAGNOSES,Genotype determination,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1285573,C0318798,DIAGNOSES,Genotype determination,"Paramyxovirus, NOS",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1285573,C1258014,DIAGNOSES,Genotype determination,Human Metapneumovirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1285573,C3611143,DIAGNOSES,Genotype determination,Ferret coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1285573,C3698360,DIAGNOSES,Genotype determination,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1293950,C0021344,DIAGNOSES,Silver stain method,human papillomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1293977,C0042776,DIAGNOSES,Gomori stain method,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294197,C0029341,DIAGNOSES,Nucleic acid sequencing,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294197,C0035473,DIAGNOSES,Nucleic acid sequencing,Rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294197,C0042776,DIAGNOSES,Nucleic acid sequencing,Virus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1294197,C0949881,DIAGNOSES,Nucleic acid sequencing,"Coronavirus OC43, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294197,C5203676,DIAGNOSES,Nucleic acid sequencing,2019 novel coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1294257,C5141341,DIAGNOSES,Influenza virus culture,Viral strain,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C0001483,DIAGNOSES,Detection of virus procedure,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C0014383,DIAGNOSES,Detection of virus procedure,Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C0029341,DIAGNOSES,Detection of virus procedure,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C0035473,DIAGNOSES,Detection of virus procedure,Rhinovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1294356,C0035691,DIAGNOSES,Detection of virus procedure,RNA Viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1294356,C0042776,DIAGNOSES,Detection of virus procedure,Virus,lbpr,virs,18,DIAGNOSES_LBPRdiagVIRS
+C1294356,C0206545,DIAGNOSES,Detection of virus procedure,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C0206596,DIAGNOSES,Detection of virus procedure,Orthoreoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C0597404,DIAGNOSES,Detection of virus procedure,Respiratory viruses,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C1294356,C0949858,DIAGNOSES,Detection of virus procedure,Nidovirales,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C0949920,DIAGNOSES,Detection of virus procedure,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C1079230,DIAGNOSES,Detection of virus procedure,Subgroup A Nepoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C1518095,DIAGNOSES,Detection of virus procedure,Lytic Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C1676985,DIAGNOSES,Detection of virus procedure,Human coronavirus HKU1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C4699346,DIAGNOSES,Detection of virus procedure,Coronavirus HKU1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C5141341,DIAGNOSES,Detection of virus procedure,Viral strain,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294356,C5203676,DIAGNOSES,Detection of virus procedure,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294381,C0035870,DIAGNOSES,Rotavirus detection,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294381,C0949920,DIAGNOSES,Rotavirus detection,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1294675,C0936087,DIAGNOSES,Measurement of coronavirus antibody,"Coronavirus, Feline",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1295128,C0318855,DIAGNOSES,Decanoylcarnitine measurement,Porcine epidemic diarrhea virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1303090,C0042776,DIAGNOSES,Functional antibody studies,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1315072,C0042776,DIAGNOSES,Serology (antibodies and most antigens except blood bank and infectious agents),Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1318478,C1613950,DIAGNOSES,Trichrome stain method,"Influenza A Virus, H5N1 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1318786,C0001483,DIAGNOSES,Fluorescent stain method,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1318793,C0001483,DIAGNOSES,Immunofluorescent stain method,Adenoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1318793,C0014644,DIAGNOSES,Immunofluorescent stain method,Epstein-Barr virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1318793,C0030393,DIAGNOSES,Immunofluorescent stain method,Parainfluenza virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1318793,C0035236,DIAGNOSES,Immunofluorescent stain method,Respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1318793,C0042776,DIAGNOSES,Immunofluorescent stain method,Virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C1318793,C0079005,DIAGNOSES,Immunofluorescent stain method,Baculoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1318793,C0206546,DIAGNOSES,Immunofluorescent stain method,Lyssavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1318793,C0318855,DIAGNOSES,Immunofluorescent stain method,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1318793,C0597404,DIAGNOSES,Immunofluorescent stain method,Respiratory viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1318793,C0598902,DIAGNOSES,Immunofluorescent stain method,murine nodule inducing virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1318793,C1175743,DIAGNOSES,Immunofluorescent stain method,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1328856,C0029345,DIAGNOSES,chromatin immunoprecipitation,"Orthomyxovirus Type A, Porcine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1331092,C0206545,DIAGNOSES,tissue/cell culture,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1370231,C0019682,DIAGNOSES,Count of Unspecified Cells,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441554,C0001483,DIAGNOSES,Direct assay,Adenoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1441554,C0029341,DIAGNOSES,Direct assay,Orthomyxoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1441554,C0030393,DIAGNOSES,Direct assay,Parainfluenza virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441554,C0035236,DIAGNOSES,Direct assay,Respiratory syncytial virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1441554,C0042776,DIAGNOSES,Direct assay,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441554,C0206545,DIAGNOSES,Direct assay,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441565,C0002331,DIAGNOSES,Elution,Alphavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441565,C0042776,DIAGNOSES,Elution,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441596,C0029341,DIAGNOSES,Heat stability,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0001483,DIAGNOSES,High sensitivity,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0011315,DIAGNOSES,High sensitivity,Dengue Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0019169,DIAGNOSES,High sensitivity,hepatitis B virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0019682,DIAGNOSES,High sensitivity,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0019704,DIAGNOSES,High sensitivity,HIV-1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0025011,DIAGNOSES,High sensitivity,Measles virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0029341,DIAGNOSES,High sensitivity,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0029347,DIAGNOSES,High sensitivity,influenza A virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0035473,DIAGNOSES,High sensitivity,Rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0035866,DIAGNOSES,High sensitivity,Ross river virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0042776,DIAGNOSES,High sensitivity,Virus,lbpr,virs,30,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0206545,DIAGNOSES,High sensitivity,Human respiratory syncytial virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0318759,DIAGNOSES,High sensitivity,"Dengue virus, type 2",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0318760,DIAGNOSES,High sensitivity,"Dengue virus, type 3",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0318761,DIAGNOSES,High sensitivity,"Dengue virus, type 4",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0318793,DIAGNOSES,High sensitivity,Zika Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0318826,DIAGNOSES,High sensitivity,Infectious hematopoietic necrosis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0318855,DIAGNOSES,High sensitivity,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0597404,DIAGNOSES,High sensitivity,Respiratory viruses,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0949920,DIAGNOSES,High sensitivity,Norovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1441604,C0999806,DIAGNOSES,High sensitivity,Human papillomavirus 16,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C1079230,DIAGNOSES,High sensitivity,Subgroup A Nepoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C1175743,DIAGNOSES,High sensitivity,SARS coronavirus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1441604,C1258014,DIAGNOSES,High sensitivity,Human Metapneumovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1441604,C1613950,DIAGNOSES,High sensitivity,"Influenza A Virus, H5N1 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C3698360,DIAGNOSES,High sensitivity,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1441604,C4609501,DIAGNOSES,High sensitivity,Swine acute diarrhea syndrome coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441604,C5203676,DIAGNOSES,High sensitivity,2019 novel coronavirus,lbpr,virs,14,DIAGNOSES_LBPRdiagVIRS
+C1441647,C0001483,DIAGNOSES,Microscopy.electron.negative stain,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441647,C0035870,DIAGNOSES,Microscopy.electron.negative stain,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441647,C0037356,DIAGNOSES,Microscopy.electron.negative stain,Smallpox Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441647,C0042776,DIAGNOSES,Microscopy.electron.negative stain,Virus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1441647,C0206466,DIAGNOSES,Microscopy.electron.negative stain,"Parvovirus, Canine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441647,C4277719,DIAGNOSES,Microscopy.electron.negative stain,Virophages,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441648,C0001483,DIAGNOSES,Microscopy.electron.thin section,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441657,C0042776,DIAGNOSES,Mouse bioassay,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441697,C0004651,DIAGNOSES,Phage lysis,Bacteriophages,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1441713,C0042776,DIAGNOSES,Quick method,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1443948,C0001483,DIAGNOSES,Measurement of antibody using direct fluorescence,Adenoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1443948,C0206545,DIAGNOSES,Measurement of antibody using direct fluorescence,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1443948,C0597404,DIAGNOSES,Measurement of antibody using direct fluorescence,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1444132,C0001483,DIAGNOSES,Immunochromatographic test,Adenoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1444132,C0004120,DIAGNOSES,Immunochromatographic test,Astrovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1444132,C0035870,DIAGNOSES,Immunochromatographic test,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1444132,C0206545,DIAGNOSES,Immunochromatographic test,Human respiratory syncytial virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1444132,C0318855,DIAGNOSES,Immunochromatographic test,Porcine epidemic diarrhea virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1446951,C0035870,DIAGNOSES,Tissue Culture Techniques,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1446951,C0042776,DIAGNOSES,Tissue Culture Techniques,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1449562,C0042776,DIAGNOSES,Primary Cell Culture,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449575,C0019682,DIAGNOSES,Microarray Analysis,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449575,C0019704,DIAGNOSES,Microarray Analysis,HIV-1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449575,C0029341,DIAGNOSES,Microarray Analysis,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449575,C0042776,DIAGNOSES,Microarray Analysis,Virus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1449575,C0085294,DIAGNOSES,Microarray Analysis,Hepatitis E virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449575,C0597065,DIAGNOSES,Microarray Analysis,neurotropic virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449575,C0597404,DIAGNOSES,Microarray Analysis,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449575,C0598902,DIAGNOSES,Microarray Analysis,murine nodule inducing virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449619,C0001483,DIAGNOSES,Culture Techniques,Adenoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1449619,C0014383,DIAGNOSES,Culture Techniques,Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449619,C0042776,DIAGNOSES,Culture Techniques,Virus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C1449619,C0206545,DIAGNOSES,Culture Techniques,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449619,C0597404,DIAGNOSES,Culture Techniques,Respiratory viruses,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1449619,C1175743,DIAGNOSES,Culture Techniques,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449619,C1258014,DIAGNOSES,Culture Techniques,Human Metapneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449619,C1319861,DIAGNOSES,Culture Techniques,Human parainfluenza viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449705,C0019185,DIAGNOSES,Co-Immunoprecipitation,Murine hepatitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1449705,C0682447,DIAGNOSES,Co-Immunoprecipitation,virus by host,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0001483,DIAGNOSES,Assay,Adenoviruses,lbpr,virs,39,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0001490,DIAGNOSES,Assay,"Adenoviruses, Human",lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0002331,DIAGNOSES,Assay,Alphavirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0003060,DIAGNOSES,Assay,Animal Viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0003725,DIAGNOSES,Assay,Arboviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0004120,DIAGNOSES,Assay,Astrovirus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0004419,DIAGNOSES,Assay,Infectious bronchitis virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0004422,DIAGNOSES,Assay,Avian leukosis virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0004651,DIAGNOSES,Assay,Bacteriophages,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0006024,DIAGNOSES,Assay,Borna disease virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0006063,DIAGNOSES,Assay,Bovine Viral Diarrhea Viruses,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0006069,DIAGNOSES,Assay,"Leukemia Virus, Bovine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0006755,DIAGNOSES,Assay,"Encephalitis Virus, California",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0006861,DIAGNOSES,Assay,Canid herpesvirus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0008056,DIAGNOSES,Assay,Chikungunya virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0010247,DIAGNOSES,Assay,Coxsackie Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0010825,DIAGNOSES,Assay,Cytomegalovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0011313,DIAGNOSES,Assay,"Dengue virus, type 1",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0011315,DIAGNOSES,Assay,Dengue Virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0012755,DIAGNOSES,Assay,"Distemper Virus, Canine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0012923,DIAGNOSES,Assay,DNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0013480,DIAGNOSES,Assay,Ebola virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0013534,DIAGNOSES,Assay,Echovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0014047,DIAGNOSES,Assay,Japanese encephalitis virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0014049,DIAGNOSES,Assay,Venezuelan equine encephalitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0014338,DIAGNOSES,Assay,"Coronavirus, Turkey",lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0014383,DIAGNOSES,Assay,Enterovirus,lbpr,virs,24,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0014384,DIAGNOSES,Assay,"Enteroviruses, Porcine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0014644,DIAGNOSES,Assay,Epstein-Barr virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0015763,DIAGNOSES,Assay,"Calicivirus, Feline",lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0015766,DIAGNOSES,Assay,Feline parvovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0015767,DIAGNOSES,Assay,Feline leukemia virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0016215,DIAGNOSES,Assay,Flavivirus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0017161,DIAGNOSES,Assay,Transmissible gastroenteritis virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0019094,DIAGNOSES,Assay,Tacaribe Complex Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0019169,DIAGNOSES,Assay,hepatitis B virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0019186,DIAGNOSES,Assay,Hepatitis Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0019351,DIAGNOSES,Assay,"herpesvirus 2, human",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0019369,DIAGNOSES,Assay,Herpesviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0019378,DIAGNOSES,Assay,"Herpesvirus 1, Cercopithecine",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0019381,DIAGNOSES,Assay,"herpesvirus 6, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0019682,DIAGNOSES,Assay,HIV,lbpr,virs,13,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0019704,DIAGNOSES,Assay,HIV-1,lbpr,virs,12,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0019707,DIAGNOSES,Assay,Human immunodeficiency virus 2 (HIV-2),lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0019842,DIAGNOSES,Assay,Classical Swine Fever Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0020121,DIAGNOSES,Assay,Human enterovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0021335,DIAGNOSES,Assay,Bovine herpesvirus 1,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0021344,DIAGNOSES,Assay,human papillomavirus,lbpr,virs,8,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0023093,DIAGNOSES,Assay,Lassa virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0024267,DIAGNOSES,Assay,Lymphocytic choriomeningitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0024787,DIAGNOSES,Assay,Lake Victoria marburgvirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0025011,DIAGNOSES,Assay,Measles virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0026783,DIAGNOSES,Assay,mumps virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0027610,DIAGNOSES,Assay,Bovine coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0027984,DIAGNOSES,Assay,Newcastle disease virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0029200,DIAGNOSES,Assay,Orf virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0029341,DIAGNOSES,Assay,Orthomyxoviridae,lbpr,virs,54,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0029343,DIAGNOSES,Assay,"Influenza A Virus, Avian",lbpr,virs,16,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0029345,DIAGNOSES,Assay,"Orthomyxovirus Type A, Porcine",lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0029347,DIAGNOSES,Assay,influenza A virus,lbpr,virs,34,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0029348,DIAGNOSES,Assay,influenza B virus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0030358,DIAGNOSES,Assay,Papillomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0030390,DIAGNOSES,Assay,"Parainfluenza Virus 1, Human",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0030391,DIAGNOSES,Assay,"Parainfluenza Virus 2, Human",lbpr,virs,8,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0030392,DIAGNOSES,Assay,"Parainfluenza Virus 3, Human",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0030393,DIAGNOSES,Assay,Parainfluenza virus,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0031254,DIAGNOSES,Assay,Pestivirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0031886,DIAGNOSES,Assay,Family Picornaviridae,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0032092,DIAGNOSES,Assay,Plant Viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0032556,DIAGNOSES,Assay,Polyomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0032868,DIAGNOSES,Assay,Poxviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0035111,DIAGNOSES,Assay,Reoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0035236,DIAGNOSES,Assay,Respiratory syncytial virus,lbpr,virs,14,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0035366,DIAGNOSES,Assay,Retroviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0035473,DIAGNOSES,Assay,Rhinovirus,lbpr,virs,26,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0035614,DIAGNOSES,Assay,Rift Valley fever virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0035691,DIAGNOSES,Assay,RNA Viruses,lbpr,virs,22,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0035866,DIAGNOSES,Assay,Ross river virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0035870,DIAGNOSES,Assay,Rotavirus,lbpr,virs,15,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0036238,DIAGNOSES,Assay,Satellite Viruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0036638,DIAGNOSES,Assay,Sendai virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0037224,DIAGNOSES,Assay,Simian immunodeficiency virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0037356,DIAGNOSES,Assay,Smallpox Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0042216,DIAGNOSES,Assay,vaccinia virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0042776,DIAGNOSES,Assay,Virus,lbpr,virs,413,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0043125,DIAGNOSES,Assay,West Nile virus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0079337,DIAGNOSES,Assay,Feline Immunodeficiency Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0079506,DIAGNOSES,Assay,"Herpesvirus 7, Human",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0085150,DIAGNOSES,Assay,Filoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0085294,DIAGNOSES,Assay,Hepatitis E virus,lbpr,virs,21,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0085305,DIAGNOSES,Assay,Feline infectious peritonitis virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0085391,DIAGNOSES,Assay,Reassortant Viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0085512,DIAGNOSES,Assay,Torovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0086776,DIAGNOSES,Assay,Parvovirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0205652,DIAGNOSES,Assay,Human adenovirus 2,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0205725,DIAGNOSES,Assay,"herpesvirus 5, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206352,DIAGNOSES,Assay,Tospovirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206390,DIAGNOSES,Assay,Phage MS2,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206413,DIAGNOSES,Assay,Calicivirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206419,DIAGNOSES,Assay,Genus: Coronavirus,lbpr,virs,33,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206422,DIAGNOSES,Assay,Human coronavirus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206425,DIAGNOSES,Assay,"Encephalomyelitis Virus, Murine, Theiler",lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206435,DIAGNOSES,Assay,poliovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206466,DIAGNOSES,Assay,"Parvovirus, Canine",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206508,DIAGNOSES,Assay,Dugbe virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206531,DIAGNOSES,Assay,Mononegavirales,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206538,DIAGNOSES,Assay,Peste-des-petits-ruminants virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206545,DIAGNOSES,Assay,Human respiratory syncytial virus,lbpr,virs,85,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206547,DIAGNOSES,Assay,"Ephemeral Fever Virus, Bovine",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206551,DIAGNOSES,Assay,Thogotovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206574,DIAGNOSES,Assay,Goatpox virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206575,DIAGNOSES,Assay,Sheeppox virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206580,DIAGNOSES,Assay,Orthopoxvirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0206679,DIAGNOSES,Assay,"herpesvirus 1, human",lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318356,DIAGNOSES,Assay,Human virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318393,DIAGNOSES,Assay,Human coxsackievirus B5,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318428,DIAGNOSES,Assay,Human enterovirus 68,lbpr,virs,9,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318467,DIAGNOSES,Assay,Human rhinovirus,lbpr,virs,8,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318711,DIAGNOSES,Assay,Human rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318759,DIAGNOSES,Assay,"Dengue virus, type 2",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318761,DIAGNOSES,Assay,"Dengue virus, type 4",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318785,DIAGNOSES,Assay,Spondweni virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318793,DIAGNOSES,Assay,Zika Virus,lbpr,virs,38,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318798,DIAGNOSES,Assay,"Paramyxovirus, NOS",lbpr,virs,15,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318853,DIAGNOSES,Assay,Viral hemorrhagic septicemia virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318855,DIAGNOSES,Assay,Porcine epidemic diarrhea virus,lbpr,virs,40,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0318872,DIAGNOSES,Assay,Cache Valley virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0319119,DIAGNOSES,Assay,"Parvovirus, Porcine",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0319166,DIAGNOSES,Assay,Human adenovirus 3,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0319229,DIAGNOSES,Assay,Canine adenovirus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0319230,DIAGNOSES,Assay,Canine adenovirus 2,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0319242,DIAGNOSES,Assay,"Avian herpesvirus, NOS",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0376325,DIAGNOSES,Assay,hepatitis A virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0376526,DIAGNOSES,Assay,human herpesvirus 8,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0376536,DIAGNOSES,Assay,Porcine respiratory and reproductive syndrome virus,lbpr,virs,9,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0446176,DIAGNOSES,Assay,Hepevirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0520476,DIAGNOSES,Assay,Para-Influenza Virus Type 3,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0544193,DIAGNOSES,Assay,Human respiratory virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0596883,DIAGNOSES,Assay,mammary tumor virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0597363,DIAGNOSES,Assay,recombinant virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0597404,DIAGNOSES,Assay,Respiratory viruses,lbpr,virs,241,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0598902,DIAGNOSES,Assay,murine nodule inducing virus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0600289,DIAGNOSES,Assay,Para-Influenza Virus Type 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0884118,DIAGNOSES,Assay,adenovirus type,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949287,DIAGNOSES,Assay,Porcine enterovirus A,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949334,DIAGNOSES,Assay,MHV-JHM,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949858,DIAGNOSES,Assay,Nidovirales,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949880,DIAGNOSES,Assay,Human coronavirus 229E,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949881,DIAGNOSES,Assay,"Coronavirus OC43, Human",lbpr,virs,9,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949892,DIAGNOSES,Assay,Ebolavirus,lbpr,virs,8,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949896,DIAGNOSES,Assay,Zaire Ebola Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949907,DIAGNOSES,Assay,Metapneumovirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949920,DIAGNOSES,Assay,Norovirus,lbpr,virs,25,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949921,DIAGNOSES,Assay,Sapovirus,lbpr,virs,8,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949923,DIAGNOSES,Assay,Vesivirus,lbpr,virs,9,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949934,DIAGNOSES,Assay,"Parainfluenza Virus 4, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0949945,DIAGNOSES,Assay,Foot-and-Mouth Disease Virus,lbpr,virs,13,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0950105,DIAGNOSES,Assay,Betaretrovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0950111,DIAGNOSES,Assay,"Diarrhea Virus 1, Bovine Viral",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C0999953,DIAGNOSES,Assay,Bovine rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1027556,DIAGNOSES,Assay,Banana streak virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1043770,DIAGNOSES,Assay,Yellow-head virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1073617,DIAGNOSES,Assay,Mink calicivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1079230,DIAGNOSES,Assay,Subgroup A Nepoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1079231,DIAGNOSES,Assay,Subgroup B,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1093940,DIAGNOSES,Assay,Turkey astrovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1145669,DIAGNOSES,Assay,Influenza C Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1175743,DIAGNOSES,Assay,SARS coronavirus,lbpr,virs,74,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1216700,DIAGNOSES,Assay,Kobuvirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1258014,DIAGNOSES,Assay,Human Metapneumovirus,lbpr,virs,46,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1258015,DIAGNOSES,Assay,Henipavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1319861,DIAGNOSES,Assay,Human parainfluenza viruses,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1444092,DIAGNOSES,Assay,Resistant virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1478824,DIAGNOSES,Assay,Human coronavirus NL63,lbpr,virs,9,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1490977,DIAGNOSES,Assay,Squirrelpox virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1545590,DIAGNOSES,Assay,Rhinovirus+Enterovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1612293,DIAGNOSES,Assay,"Influenza A Virus, H9N2 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1613950,DIAGNOSES,Assay,"Influenza A Virus, H5N1 Subtype",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1615607,DIAGNOSES,Assay,"Influenza A Virus, H1N1 Subtype",lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1622968,DIAGNOSES,Assay,Human papillomavirus types,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1623048,DIAGNOSES,Assay,Vesicular stomatitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1641393,DIAGNOSES,Assay,Bocavirus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1646817,DIAGNOSES,Assay,Human bocavirus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1708287,DIAGNOSES,Assay,HPV-High Risk,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C1911773,DIAGNOSES,Assay,ssRNA viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C2709163,DIAGNOSES,Assay,Norovirus genogroup I,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C2806447,DIAGNOSES,Assay,Alphacoronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C2806453,DIAGNOSES,Assay,Betacoronavirus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1510438,C2806460,DIAGNOSES,Assay,Gammacoronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C2960780,DIAGNOSES,Assay,Influenza A virus subtype H1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C2986384,DIAGNOSES,Assay,Enveloped Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3135457,DIAGNOSES,Assay,Severe fever with thrombocytopenia syndrome virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3257993,DIAGNOSES,Assay,Parainfluenza virus 4a,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3310928,DIAGNOSES,Assay,Enteric coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3611143,DIAGNOSES,Assay,Ferret coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3641017,DIAGNOSES,Assay,Human Papillomavirus-56,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3656772,DIAGNOSES,Assay,Adenovirus B+E,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3658219,DIAGNOSES,Assay,"Influenza A Virus, H7N9 Subtype",lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3686947,DIAGNOSES,Assay,Equine coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3698360,DIAGNOSES,Assay,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,75,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3700023,DIAGNOSES,Assay,Porcine reproductive and respiratory syndrome virus strain,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3825307,DIAGNOSES,Assay,Oncogenic DNA viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3873190,DIAGNOSES,Assay,Norovirus GIV,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C3950742,DIAGNOSES,Assay,Marseillevirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C4038448,DIAGNOSES,Assay,Porcine deltacoronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1510438,C4405008,DIAGNOSES,Assay,Porcine pegivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C4431267,DIAGNOSES,Assay,Betanodavirus sp.,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C4484149,DIAGNOSES,Assay,Adenovirus 7,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C4563570,DIAGNOSES,Assay,Human polyomavirus 3,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C4609501,DIAGNOSES,Assay,Swine acute diarrhea syndrome coronavirus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1510438,C4698070,DIAGNOSES,Assay,229E,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C1510438,C4698071,DIAGNOSES,Assay,OC43,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1510438,C4698072,DIAGNOSES,Assay,NL63,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C4698293,DIAGNOSES,Assay,D10,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C4699351,DIAGNOSES,Assay,Parainfluenza 4,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1510438,C5074702,DIAGNOSES,Assay,Sarbecovirus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1510438,C5141341,DIAGNOSES,Assay,Viral strain,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1510438,C5203676,DIAGNOSES,Assay,2019 novel coronavirus,lbpr,virs,226,DIAGNOSES_LBPRdiagVIRS
+C1510803,C0029341,DIAGNOSES,Adherent Culture,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1511124,C0042776,DIAGNOSES,"Bioassay, In Vivo",Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1513388,C0042776,DIAGNOSES,Molecular Diagnosis,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1513388,C0318467,DIAGNOSES,Molecular Diagnosis,Human rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1513388,C5203676,DIAGNOSES,Molecular Diagnosis,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1516801,C0597404,DIAGNOSES,Electrospray Ionization,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1518101,C0006322,DIAGNOSES,Matrix-Assisted Laser Desorption/Ionization-Time of Flight Mass Spectrometry,Human poliovirus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1518101,C0042776,DIAGNOSES,Matrix-Assisted Laser Desorption/Ionization-Time of Flight Mass Spectrometry,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C1518101,C0318793,DIAGNOSES,Matrix-Assisted Laser Desorption/Ionization-Time of Flight Mass Spectrometry,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1518101,C1175743,DIAGNOSES,Matrix-Assisted Laser Desorption/Ionization-Time of Flight Mass Spectrometry,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1518598,C0042776,DIAGNOSES,Optical Methods,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1531834,C5203676,DIAGNOSES,Colorimetric laboratory test,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1535922,C0042776,DIAGNOSES,Procalcitonin measurement,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1535922,C0318467,DIAGNOSES,Procalcitonin measurement,Human rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1537058,C1175743,DIAGNOSES,small angle X ray scattering,SARS coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1537058,C5203676,DIAGNOSES,small angle X ray scattering,2019 novel coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1551404,C0035414,DIAGNOSES,Serum Neutralization,Rhabdoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1551404,C0318855,DIAGNOSES,Serum Neutralization,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1553127,C0035870,DIAGNOSES,"ELISA, antigen capture",Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1553127,C0318855,DIAGNOSES,"ELISA, antigen capture",Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1553127,C0949892,DIAGNOSES,"ELISA, antigen capture",Ebolavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1553127,C1175743,DIAGNOSES,"ELISA, antigen capture",SARS coronavirus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1553127,C3698360,DIAGNOSES,"ELISA, antigen capture",Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1553166,C5203676,DIAGNOSES,Transcription-mediated Amplification,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1705192,C5203676,DIAGNOSES,Seeding,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1705913,C0029341,DIAGNOSES,Rapid Antigen Test,Orthomyxoviridae,lbpr,virs,8,DIAGNOSES_LBPRdiagVIRS
+C1705913,C0029345,DIAGNOSES,Rapid Antigen Test,"Orthomyxovirus Type A, Porcine",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1705913,C0035236,DIAGNOSES,Rapid Antigen Test,Respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1705913,C0042776,DIAGNOSES,Rapid Antigen Test,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1705913,C0206545,DIAGNOSES,Rapid Antigen Test,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1705913,C0597404,DIAGNOSES,Rapid Antigen Test,Respiratory viruses,lbpr,virs,7,DIAGNOSES_LBPRdiagVIRS
+C1705913,C1613950,DIAGNOSES,Rapid Antigen Test,"Influenza A Virus, H5N1 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1705913,C5203676,DIAGNOSES,Rapid Antigen Test,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1707759,C0001483,DIAGNOSES,Direct Fluorescent Antibody Test,Adenoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1707759,C0019369,DIAGNOSES,Direct Fluorescent Antibody Test,Herpesviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1707759,C0029341,DIAGNOSES,Direct Fluorescent Antibody Test,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1707759,C0030390,DIAGNOSES,Direct Fluorescent Antibody Test,"Parainfluenza Virus 1, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1707759,C0031886,DIAGNOSES,Direct Fluorescent Antibody Test,Family Picornaviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1707759,C0042338,DIAGNOSES,Direct Fluorescent Antibody Test,"herpesvirus 3, human",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1707759,C0042776,DIAGNOSES,Direct Fluorescent Antibody Test,Virus,lbpr,virs,22,DIAGNOSES_LBPRdiagVIRS
+C1707759,C0206545,DIAGNOSES,Direct Fluorescent Antibody Test,Human respiratory syncytial virus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1707759,C0597404,DIAGNOSES,Direct Fluorescent Antibody Test,Respiratory viruses,lbpr,virs,19,DIAGNOSES_LBPRdiagVIRS
+C1707759,C1258014,DIAGNOSES,Direct Fluorescent Antibody Test,Human Metapneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1710378,C0042776,DIAGNOSES,Thaw,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1710378,C0206435,DIAGNOSES,Thaw,poliovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1719039,C0042776,DIAGNOSES,High resolution,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1719039,C5203676,DIAGNOSES,High resolution,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1719048,C0029341,DIAGNOSES,Shell Vial Culture,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1719048,C0029347,DIAGNOSES,Shell Vial Culture,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C1719048,C0042776,DIAGNOSES,Shell Vial Culture,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C1719048,C0206545,DIAGNOSES,Shell Vial Culture,Human respiratory syncytial virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C1719048,C0597404,DIAGNOSES,Shell Vial Culture,Respiratory viruses,lbpr,virs,8,DIAGNOSES_LBPRdiagVIRS
+C1719048,C1258014,DIAGNOSES,Shell Vial Culture,Human Metapneumovirus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C1979971,C0318760,DIAGNOSES,Russell,"Dengue virus, type 3",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2020431,C0206466,DIAGNOSES,Faecal PCR,"Parvovirus, Canine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2020431,C5203676,DIAGNOSES,Faecal PCR,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2020499,C0017161,DIAGNOSES,Faecal swab,Transmissible gastroenteritis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2020499,C0042776,DIAGNOSES,Faecal swab,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2020499,C0318855,DIAGNOSES,Faecal swab,Porcine epidemic diarrhea virus,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C2121080,C0042776,DIAGNOSES,molecular diagnostics (lab procedure),Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2121080,C0085150,DIAGNOSES,molecular diagnostics (lab procedure),Filoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2121080,C0949889,DIAGNOSES,molecular diagnostics (lab procedure),Marburgvirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2121080,C0949892,DIAGNOSES,molecular diagnostics (lab procedure),Ebolavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2121080,C3698360,DIAGNOSES,molecular diagnostics (lab procedure),Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2229730,C0029348,DIAGNOSES,serum Haemagglutination inhibition,influenza B virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2317942,C0025011,DIAGNOSES,Rubeola IgM Antibody Measurement,Measles virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2347338,C0042776,DIAGNOSES,Negative Selection,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2347338,C0949945,DIAGNOSES,Negative Selection,Foot-and-Mouth Disease Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2347644,C0019682,DIAGNOSES,Positive Selection,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2347644,C0029341,DIAGNOSES,Positive Selection,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2347644,C0042776,DIAGNOSES,Positive Selection,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C2347644,C0086776,DIAGNOSES,Positive Selection,Parvovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2347644,C0206466,DIAGNOSES,Positive Selection,"Parvovirus, Canine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2347644,C0206545,DIAGNOSES,Positive Selection,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2347644,C0318356,DIAGNOSES,Positive Selection,Human virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2347644,C0318855,DIAGNOSES,Positive Selection,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2347644,C0949892,DIAGNOSES,Positive Selection,Ebolavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2347644,C2806453,DIAGNOSES,Positive Selection,Betacoronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2347644,C3698360,DIAGNOSES,Positive Selection,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2347644,C5203676,DIAGNOSES,Positive Selection,2019 novel coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C2347885,C1175743,DIAGNOSES,Radioisotopic Labeling (lab procedure),SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2350499,C0019169,DIAGNOSES,Electrochemical Techniques,hepatitis B virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2350499,C0019704,DIAGNOSES,Electrochemical Techniques,HIV-1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2350499,C0042776,DIAGNOSES,Electrochemical Techniques,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2350499,C0376325,DIAGNOSES,Electrochemical Techniques,hepatitis A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2697666,C0019351,DIAGNOSES,Immunoenzyme Procedure,"herpesvirus 2, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2697666,C0027984,DIAGNOSES,Immunoenzyme Procedure,Newcastle disease virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2697666,C0029341,DIAGNOSES,Immunoenzyme Procedure,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2697666,C0029345,DIAGNOSES,Immunoenzyme Procedure,"Orthomyxovirus Type A, Porcine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2697666,C0029347,DIAGNOSES,Immunoenzyme Procedure,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2697666,C0035870,DIAGNOSES,Immunoenzyme Procedure,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2697666,C0042776,DIAGNOSES,Immunoenzyme Procedure,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2697666,C0206545,DIAGNOSES,Immunoenzyme Procedure,Human respiratory syncytial virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2697666,C0949892,DIAGNOSES,Immunoenzyme Procedure,Ebolavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2697666,C1175743,DIAGNOSES,Immunoenzyme Procedure,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2697666,C5203676,DIAGNOSES,Immunoenzyme Procedure,2019 novel coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2698870,C0019092,DIAGNOSES,Precursor Plasma Cell Count,Hantavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2707655,C0597404,DIAGNOSES,Respiratory Pathogen Panel,Respiratory viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2717977,C0035870,DIAGNOSES,Enzyme Assays,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2717977,C0042776,DIAGNOSES,Enzyme Assays,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2717977,C0086427,DIAGNOSES,Enzyme Assays,"T-Cell Leukemia Viruses, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2717977,C0597404,DIAGNOSES,Enzyme Assays,Respiratory viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2717977,C1175743,DIAGNOSES,Enzyme Assays,SARS coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2717977,C3698360,DIAGNOSES,Enzyme Assays,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2732543,C0029341,DIAGNOSES,Pyrosequencing,Orthomyxoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2732543,C0029347,DIAGNOSES,Pyrosequencing,influenza A virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2732543,C0042776,DIAGNOSES,Pyrosequencing,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C2732543,C0206497,DIAGNOSES,Pyrosequencing,Arenavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2732543,C0599614,DIAGNOSES,Pyrosequencing,borna virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2732543,C0949923,DIAGNOSES,Pyrosequencing,Vesivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2732543,C1613950,DIAGNOSES,Pyrosequencing,"Influenza A Virus, H5N1 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2732543,C3658219,DIAGNOSES,Pyrosequencing,"Influenza A Virus, H7N9 Subtype",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2733022,C0029343,DIAGNOSES,Quantitative PCR analysis,"Influenza A Virus, Avian",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2733022,C0318855,DIAGNOSES,Quantitative PCR analysis,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2733022,C0597404,DIAGNOSES,Quantitative PCR analysis,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2733022,C5203676,DIAGNOSES,Quantitative PCR analysis,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2825900,C0008056,DIAGNOSES,Monocyte Chemotactic Protein 1 Measurement,Chikungunya virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2825900,C0019704,DIAGNOSES,Monocyte Chemotactic Protein 1 Measurement,HIV-1,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2825900,C1175743,DIAGNOSES,Monocyte Chemotactic Protein 1 Measurement,SARS coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C2936361,C0042776,DIAGNOSES,Dielectric Spectroscopy,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2936361,C0318793,DIAGNOSES,Dielectric Spectroscopy,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C2979983,C0042776,DIAGNOSES,Urine cytology,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0011315,DIAGNOSES,Mutagenesis Procedure,Dengue Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0012923,DIAGNOSES,Mutagenesis Procedure,DNA Viruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0019185,DIAGNOSES,Mutagenesis Procedure,Murine hepatitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0020094,DIAGNOSES,Mutagenesis Procedure,Human T-lymphotropic virus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0035691,DIAGNOSES,Mutagenesis Procedure,RNA Viruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0042776,DIAGNOSES,Mutagenesis Procedure,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0043125,DIAGNOSES,Mutagenesis Procedure,West Nile virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0085381,DIAGNOSES,Mutagenesis Procedure,Nairovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0162546,DIAGNOSES,Mutagenesis Procedure,Bacteriophage M13,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0206435,DIAGNOSES,Mutagenesis Procedure,poliovirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0206497,DIAGNOSES,Mutagenesis Procedure,Arenavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0206509,DIAGNOSES,Mutagenesis Procedure,Uukuniemi virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0877837,DIAGNOSES,Mutagenesis Procedure,Murid herpesvirus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3146302,C0949859,DIAGNOSES,Mutagenesis Procedure,Arteriviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3146302,C1613950,DIAGNOSES,Mutagenesis Procedure,"Influenza A Virus, H5N1 Subtype",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3146302,C1623048,DIAGNOSES,Mutagenesis Procedure,Vesicular stomatitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3178849,C0029343,DIAGNOSES,Immunochromatography,"Influenza A Virus, Avian",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3178849,C0029347,DIAGNOSES,Immunochromatography,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3178849,C0035870,DIAGNOSES,Immunochromatography,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3178849,C0042776,DIAGNOSES,Immunochromatography,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C3178849,C0206466,DIAGNOSES,Immunochromatography,"Parvovirus, Canine",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3178849,C0206545,DIAGNOSES,Immunochromatography,Human respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3178849,C0318855,DIAGNOSES,Immunochromatography,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3178849,C0597404,DIAGNOSES,Immunochromatography,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3178849,C3698360,DIAGNOSES,Immunochromatography,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3178849,C5203676,DIAGNOSES,Immunochromatography,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3178850,C0029341,DIAGNOSES,Immunochromatographic Assay,Orthomyxoviridae,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C3178850,C0035870,DIAGNOSES,Immunochromatographic Assay,Rotavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C3178850,C0318855,DIAGNOSES,Immunochromatographic Assay,Porcine epidemic diarrhea virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C3178850,C1013266,DIAGNOSES,Immunochromatographic Assay,Satsuma dwarf virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3178850,C5203676,DIAGNOSES,Immunochromatographic Assay,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3179262,C0042776,DIAGNOSES,Viral Plaque Assay,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3258987,C0042776,DIAGNOSES,Bacterial 16S rRNA sequencing,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3274388,C0014644,DIAGNOSES,Epstein-Barr Virus Viral Load Measurement,Epstein-Barr virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539666,C0019682,DIAGNOSES,Line Probe Assay,HIV,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0004419,DIAGNOSES,Loop-mediated Isothermal Amplification,Infectious bronchitis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0012923,DIAGNOSES,Loop-mediated Isothermal Amplification,DNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0019169,DIAGNOSES,Loop-mediated Isothermal Amplification,hepatitis B virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0019842,DIAGNOSES,Loop-mediated Isothermal Amplification,Classical Swine Fever Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0025011,DIAGNOSES,Loop-mediated Isothermal Amplification,Measles virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0033840,DIAGNOSES,Loop-mediated Isothermal Amplification,Suid Herpesvirus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0035691,DIAGNOSES,Loop-mediated Isothermal Amplification,RNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0042776,DIAGNOSES,Loop-mediated Isothermal Amplification,Virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0318393,DIAGNOSES,Loop-mediated Isothermal Amplification,Human coxsackievirus B5,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0318793,DIAGNOSES,Loop-mediated Isothermal Amplification,Zika Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0318853,DIAGNOSES,Loop-mediated Isothermal Amplification,Viral hemorrhagic septicemia virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0318855,DIAGNOSES,Loop-mediated Isothermal Amplification,Porcine epidemic diarrhea virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0376536,DIAGNOSES,Loop-mediated Isothermal Amplification,Porcine respiratory and reproductive syndrome virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0936087,DIAGNOSES,Loop-mediated Isothermal Amplification,"Coronavirus, Feline",lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0949286,DIAGNOSES,Loop-mediated Isothermal Amplification,Duck hepatitis virus 1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0949287,DIAGNOSES,Loop-mediated Isothermal Amplification,Porcine enterovirus A,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C3539922,C0949896,DIAGNOSES,Loop-mediated Isothermal Amplification,Zaire Ebola Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C3539922,C1031420,DIAGNOSES,Loop-mediated Isothermal Amplification,Wheat yellow mosaic virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C1043770,DIAGNOSES,Loop-mediated Isothermal Amplification,Yellow-head virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C1079230,DIAGNOSES,Loop-mediated Isothermal Amplification,Subgroup A Nepoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C1175743,DIAGNOSES,Loop-mediated Isothermal Amplification,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C1258014,DIAGNOSES,Loop-mediated Isothermal Amplification,Human Metapneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C1265386,DIAGNOSES,Loop-mediated Isothermal Amplification,Porcine circovirus type II,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C3686947,DIAGNOSES,Loop-mediated Isothermal Amplification,Equine coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C3698360,DIAGNOSES,Loop-mediated Isothermal Amplification,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C3539922,C4405008,DIAGNOSES,Loop-mediated Isothermal Amplification,Porcine pegivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3539922,C5203676,DIAGNOSES,Loop-mediated Isothermal Amplification,2019 novel coronavirus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C3641616,C0019704,DIAGNOSES,CD4 Cell to Lymphocyte Ratio Measurement,HIV-1,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3686763,C0042776,DIAGNOSES,Direct electron microscopy,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C3686763,C0318711,DIAGNOSES,Direct electron microscopy,Human rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3686763,C0318855,DIAGNOSES,Direct electron microscopy,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3812195,C0035473,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Rhinovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C3812195,C0042776,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C3812195,C0318602,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Avian enteric calicivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3812195,C1175743,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 10 Measurement,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3812195,C3698360,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C3826648,C5203676,DIAGNOSES,Blood--Examination,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3830326,C0206419,DIAGNOSES,Electrochemiluminescence,Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3850137,C0029341,DIAGNOSES,In Vitro Techniques,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3850137,C0042776,DIAGNOSES,In Vitro Techniques,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3854164,C0035870,DIAGNOSES,Genome sequence analysis,Rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3854164,C0042776,DIAGNOSES,Genome sequence analysis,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3854164,C0206419,DIAGNOSES,Genome sequence analysis,Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3854164,C0949921,DIAGNOSES,Genome sequence analysis,Sapovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3854164,C1175743,DIAGNOSES,Genome sequence analysis,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3854164,C5141341,DIAGNOSES,Genome sequence analysis,Viral strain,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3872568,C0029341,DIAGNOSES,Rapid immunoassay,Orthomyxoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3872568,C0042776,DIAGNOSES,Rapid immunoassay,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3872568,C5203676,DIAGNOSES,Rapid immunoassay,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3872623,C0042776,DIAGNOSES,Dot blot assay,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C3872623,C0318711,DIAGNOSES,Dot blot assay,Human rotavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4048362,C5203676,DIAGNOSES,Immunoglobulin G Subclass 3 Measurement,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4049918,C0042776,DIAGNOSES,Liquid Chromatography/Tandem Mass Spectrometry,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4049928,C0042776,DIAGNOSES,Immunoglobulin G Subclass 1 Measurement,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4049928,C1175743,DIAGNOSES,Immunoglobulin G Subclass 1 Measurement,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4049928,C5203676,DIAGNOSES,Immunoglobulin G Subclass 1 Measurement,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4053868,C0035236,DIAGNOSES,Viral Identification,Respiratory syncytial virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4053868,C0042776,DIAGNOSES,Viral Identification,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C4053868,C0597404,DIAGNOSES,Viral Identification,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4054077,C0020121,DIAGNOSES,Remnant-like Particle Cholesterol Measurement,Human enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4054077,C0035473,DIAGNOSES,Remnant-like Particle Cholesterol Measurement,Rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4054524,C0014644,DIAGNOSES,Microneutralization Assay,Epstein-Barr virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4054524,C5203676,DIAGNOSES,Microneutralization Assay,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4054772,C0042776,DIAGNOSES,High-performance Liquid Chromatography/Tandem Mass Spectrometry,Virus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C4055064,C0042776,DIAGNOSES,Endpoint Dilution Assay,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4266672,C1079230,DIAGNOSES,repeat analysis,Subgroup A Nepoviruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4282127,C0042776,DIAGNOSES,Respiratory culture,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4289745,C0029347,DIAGNOSES,Consensus PCR,influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4289745,C0042776,DIAGNOSES,Consensus PCR,Virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C4289745,C0206419,DIAGNOSES,Consensus PCR,Genus: Coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C4297010,C0012923,DIAGNOSES,Computational analysis,DNA Viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4297010,C0206679,DIAGNOSES,Computational analysis,"herpesvirus 1, human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4297010,C5203676,DIAGNOSES,Computational analysis,2019 novel coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C4297013,C0031886,DIAGNOSES,Merging,Family Picornaviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4317078,C0021344,DIAGNOSES,Mycobacterium Tuberculosis Measurement,human papillomavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C4317078,C3698360,DIAGNOSES,Mycobacterium Tuberculosis Measurement,Middle East Respiratory Syndrome Coronavirus,lbpr,virs,5,DIAGNOSES_LBPRdiagVIRS
+C4318803,C0042776,DIAGNOSES,Microarray method,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4318939,C0001483,DIAGNOSES,Nasal Swab (procedure),Adenoviruses,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C4318939,C0014383,DIAGNOSES,Nasal Swab (procedure),Enterovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C4318939,C0029341,DIAGNOSES,Nasal Swab (procedure),Orthomyxoviridae,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C4318939,C0029347,DIAGNOSES,Nasal Swab (procedure),influenza A virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4318939,C0035236,DIAGNOSES,Nasal Swab (procedure),Respiratory syncytial virus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C4318939,C0035473,DIAGNOSES,Nasal Swab (procedure),Rhinovirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C4318939,C0042776,DIAGNOSES,Nasal Swab (procedure),Virus,lbpr,virs,22,DIAGNOSES_LBPRdiagVIRS
+C4318939,C0206419,DIAGNOSES,Nasal Swab (procedure),Genus: Coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4318939,C0206545,DIAGNOSES,Nasal Swab (procedure),Human respiratory syncytial virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C4318939,C0597404,DIAGNOSES,Nasal Swab (procedure),Respiratory viruses,lbpr,virs,39,DIAGNOSES_LBPRdiagVIRS
+C4318939,C0949881,DIAGNOSES,Nasal Swab (procedure),"Coronavirus OC43, Human",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4318939,C1175743,DIAGNOSES,Nasal Swab (procedure),SARS coronavirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C4318939,C1258014,DIAGNOSES,Nasal Swab (procedure),Human Metapneumovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4318939,C2290915,DIAGNOSES,Nasal Swab (procedure),Rhinovirus C,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4318939,C3698360,DIAGNOSES,Nasal Swab (procedure),Middle East Respiratory Syndrome Coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C4318939,C4698071,DIAGNOSES,Nasal Swab (procedure),OC43,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4318939,C4698072,DIAGNOSES,Nasal Swab (procedure),NL63,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4318939,C5203676,DIAGNOSES,Nasal Swab (procedure),2019 novel coronavirus,lbpr,virs,51,DIAGNOSES_LBPRdiagVIRS
+C4330263,C0022369,DIAGNOSES,High Resolution Melt Analysis,JC Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4553546,C0019369,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 3 Measurement,Herpesviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4553546,C0035414,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 3 Measurement,Rhabdoviridae,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4553546,C0206497,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 3 Measurement,Arenavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4553546,C1175743,DIAGNOSES,Chemokine (C-X-C Motif) Ligand 3 Measurement,SARS coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0001483,DIAGNOSES,Cell Culture,Adenoviruses,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0014383,DIAGNOSES,Cell Culture,Enterovirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0016215,DIAGNOSES,Cell Culture,Flavivirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0017161,DIAGNOSES,Cell Culture,Transmissible gastroenteritis virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0029341,DIAGNOSES,Cell Culture,Orthomyxoviridae,lbpr,virs,6,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0035473,DIAGNOSES,Cell Culture,Rhinovirus,lbpr,virs,4,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0035870,DIAGNOSES,Cell Culture,Rotavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0042776,DIAGNOSES,Cell Culture,Virus,lbpr,virs,26,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0206422,DIAGNOSES,Cell Culture,Human coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0206497,DIAGNOSES,Cell Culture,Arenavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0206545,DIAGNOSES,Cell Culture,Human respiratory syncytial virus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0318356,DIAGNOSES,Cell Culture,Human virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0318467,DIAGNOSES,Cell Culture,Human rhinovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0318855,DIAGNOSES,Cell Culture,Porcine epidemic diarrhea virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0597363,DIAGNOSES,Cell Culture,recombinant virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0597404,DIAGNOSES,Cell Culture,Respiratory viruses,lbpr,virs,14,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0751673,DIAGNOSES,Cell Culture,Nipah Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0936087,DIAGNOSES,Cell Culture,"Coronavirus, Feline",lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0949920,DIAGNOSES,Cell Culture,Norovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C0949945,DIAGNOSES,Cell Culture,Foot-and-Mouth Disease Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C1175743,DIAGNOSES,Cell Culture,SARS coronavirus,lbpr,virs,3,DIAGNOSES_LBPRdiagVIRS
+C4721550,C1258014,DIAGNOSES,Cell Culture,Human Metapneumovirus,lbpr,virs,2,DIAGNOSES_LBPRdiagVIRS
+C4721550,C1545590,DIAGNOSES,Cell Culture,Rhinovirus+Enterovirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4721550,C5203676,DIAGNOSES,Cell Culture,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4722316,C0030358,DIAGNOSES,Proximity Ligation Assay,Papillomavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4722410,C0597404,DIAGNOSES,Respiratory Syncytial Virus Antigen Measurement,Respiratory viruses,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C4733339,C5203676,DIAGNOSES,saliva test,2019 novel coronavirus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS
+C5202706,C0042776,DIAGNOSES,Stable Isotope Labeling with Amino Acids in Cell Culture,Virus,lbpr,virs,1,DIAGNOSES_LBPRdiagVIRS

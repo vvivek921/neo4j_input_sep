@@ -1,0 +1,195 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007603,C0017262,AFFECTS,Plasma membrane,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C0007603,C0040649,AFFECTS,Plasma membrane,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C0007603,C1158770,AFFECTS,Plasma membrane,Transcriptional Regulation,celc,genf,1,AFFECTS_CELCafctGENF
+C0007603,C1328949,AFFECTS,Plasma membrane,RNA replication,celc,genf,2,AFFECTS_CELCafctGENF
+C0007610,C0012899,AFFECTS,Cell Nucleus,DNA Repair,celc,genf,1,AFFECTS_CELCafctGENF
+C0007610,C0017262,AFFECTS,Cell Nucleus,Gene Expression,celc,genf,2,AFFECTS_CELCafctGENF
+C0007610,C0040649,AFFECTS,Cell Nucleus,"Transcription, Genetic",celc,genf,3,AFFECTS_CELCafctGENF
+C0007625,C0282572,AFFECTS,Cell-Free System,"Frameshifting, Ribosomal",celc,genf,1,AFFECTS_CELCafctGENF
+C0007625,C0525038,AFFECTS,Cell-Free System,Amino Acid Substitution,celc,genf,1,AFFECTS_CELCafctGENF
+C0007625,C1328949,AFFECTS,Cell-Free System,RNA replication,celc,genf,1,AFFECTS_CELCafctGENF
+C0007637,C1158817,AFFECTS,Inclusion Bodies,viral transcription,celc,genf,1,AFFECTS_CELCafctGENF
+C0010834,C0002345,AFFECTS,Cytoplasm,Alternative Splicing,celc,genf,1,AFFECTS_CELCafctGENF
+C0010834,C0017262,AFFECTS,Cytoplasm,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C0010834,C0040649,AFFECTS,Cytoplasm,"Transcription, Genetic",celc,genf,4,AFFECTS_CELCafctGENF
+C0010834,C0920533,AFFECTS,Cytoplasm,Transcriptional Repression,celc,genf,1,AFFECTS_CELCafctGENF
+C0010834,C1158728,AFFECTS,Cytoplasm,RNA Processing,celc,genf,1,AFFECTS_CELCafctGENF
+C0010834,C1257756,AFFECTS,Cytoplasm,RNA Degradation,celc,genf,1,AFFECTS_CELCafctGENF
+C0010834,C1257758,AFFECTS,Cytoplasm,mRNA Decay,celc,genf,1,AFFECTS_CELCafctGENF
+C0010834,C1328949,AFFECTS,Cytoplasm,RNA replication,celc,genf,1,AFFECTS_CELCafctGENF
+C0010834,C1516924,AFFECTS,Cytoplasm,Epigenetic Process,celc,genf,1,AFFECTS_CELCafctGENF
+C0010834,C1519614,AFFECTS,Cytoplasm,Genetic Translation Process,celc,genf,1,AFFECTS_CELCafctGENF
+C0010834,C2610186,AFFECTS,Cytoplasm,"nuclear mRNA cis splicing, via spliceosome",celc,genf,1,AFFECTS_CELCafctGENF
+C0010834,C3537096,AFFECTS,Cytoplasm,Translational Regulation,celc,genf,1,AFFECTS_CELCafctGENF
+C0010853,C0040649,AFFECTS,Cytoskeleton,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C0014239,C0040649,AFFECTS,Endoplasmic Reticulum,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C0018042,C0040649,AFFECTS,Golgi Apparatus,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C0019397,C0162493,AFFECTS,Heterochromatin,Transcriptional Activation,celc,genf,1,AFFECTS_CELCafctGENF
+C0019397,C0598496,AFFECTS,Heterochromatin,Gene Silencing,celc,genf,1,AFFECTS_CELCafctGENF
+C0019397,C1707931,AFFECTS,Heterochromatin,Epigenetic Silencing,celc,genf,1,AFFECTS_CELCafctGENF
+C0021868,C1328949,AFFECTS,Intracellular Membranes,RNA replication,celc,genf,3,AFFECTS_CELCafctGENF
+C0021868,C1519614,AFFECTS,Intracellular Membranes,Genetic Translation Process,celc,genf,1,AFFECTS_CELCafctGENF
+C0024369,C1328949,AFFECTS,Lysosomes,RNA replication,celc,genf,1,AFFECTS_CELCafctGENF
+C0026237,C0012899,AFFECTS,Mitochondria,DNA Repair,celc,genf,1,AFFECTS_CELCafctGENF
+C0026237,C0040649,AFFECTS,Mitochondria,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C0026237,C1158805,AFFECTS,Mitochondria,mitochondrial transcription,celc,genf,1,AFFECTS_CELCafctGENF
+C0026237,C1817264,AFFECTS,Mitochondria,mtDNA synthesis,celc,genf,1,AFFECTS_CELCafctGENF
+C0028581,C1514248,AFFECTS,Nuclear Matrix,Post-Transcriptional Regulation,celc,genf,2,AFFECTS_CELCafctGENF
+C0028584,C0040649,AFFECTS,Nuclear Envelope,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C0028587,C0017262,AFFECTS,Nuclear Pore,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C0029219,C1328949,AFFECTS,Organelles,RNA replication,celc,genf,2,AFFECTS_CELCafctGENF
+C0032592,C0017262,AFFECTS,Polyribosomes,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C0032592,C1156152,AFFECTS,Polyribosomes,rRNA processing,celc,genf,1,AFFECTS_CELCafctGENF
+C0032592,C1519614,AFFECTS,Polyribosomes,Genetic Translation Process,celc,genf,1,AFFECTS_CELCafctGENF
+C0035553,C0017262,AFFECTS,Ribosomes,Gene Expression,celc,genf,5,AFFECTS_CELCafctGENF
+C0035553,C0040649,AFFECTS,Ribosomes,"Transcription, Genetic",celc,genf,2,AFFECTS_CELCafctGENF
+C0035553,C1157567,AFFECTS,Ribosomes,translational termination,celc,genf,1,AFFECTS_CELCafctGENF
+C0035553,C1158013,AFFECTS,Ribosomes,Nonsense Mediated mRNA Decay,celc,genf,1,AFFECTS_CELCafctGENF
+C0035553,C1158756,AFFECTS,Ribosomes,rRNA modification,celc,genf,1,AFFECTS_CELCafctGENF
+C0035553,C1158811,AFFECTS,Ribosomes,rRNA transcription,celc,genf,1,AFFECTS_CELCafctGENF
+C0035553,C1171362,AFFECTS,Ribosomes,protein expression,celc,genf,1,AFFECTS_CELCafctGENF
+C0035553,C1514248,AFFECTS,Ribosomes,Post-Transcriptional Regulation,celc,genf,1,AFFECTS_CELCafctGENF
+C0035553,C1519614,AFFECTS,Ribosomes,Genetic Translation Process,celc,genf,4,AFFECTS_CELCafctGENF
+C0042760,C0017262,AFFECTS,Virion,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C0042760,C0035380,AFFECTS,Virion,Reverse Transcription,celc,genf,1,AFFECTS_CELCafctGENF
+C0042760,C0162493,AFFECTS,Virion,Transcriptional Activation,celc,genf,1,AFFECTS_CELCafctGENF
+C0042760,C1152412,AFFECTS,Virion,RNA-directed RNA polymerase activity,celc,genf,2,AFFECTS_CELCafctGENF
+C0042760,C1328949,AFFECTS,Virion,RNA replication,celc,genf,3,AFFECTS_CELCafctGENF
+C0042760,C1511695,AFFECTS,Virion,DNA Sequence Rearrangement,celc,genf,1,AFFECTS_CELCafctGENF
+C0042760,C2247634,AFFECTS,Virion,stress granule assembly,celc,genf,1,AFFECTS_CELCafctGENF
+C0043292,C0026882,AFFECTS,X Chromosome,Mutation,celc,genf,1,AFFECTS_CELCafctGENF
+C0043292,C0035380,AFFECTS,X Chromosome,Reverse Transcription,celc,genf,1,AFFECTS_CELCafctGENF
+C0043292,C0598496,AFFECTS,X Chromosome,Gene Silencing,celc,genf,1,AFFECTS_CELCafctGENF
+C0085187,C0034865,AFFECTS,telomere,"Recombination, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C0085187,C1155299,AFFECTS,telomere,Telomere Maintenance,celc,genf,1,AFFECTS_CELCafctGENF
+C0085187,C1624022,AFFECTS,telomere,histone exchange,celc,genf,1,AFFECTS_CELCafctGENF
+C0162771,C0002345,AFFECTS,Spliceosomes,Alternative Splicing,celc,genf,1,AFFECTS_CELCafctGENF
+C0162771,C0017262,AFFECTS,Spliceosomes,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C0162771,C1511695,AFFECTS,Spliceosomes,DNA Sequence Rearrangement,celc,genf,1,AFFECTS_CELCafctGENF
+C0162771,C1519592,AFFECTS,Spliceosomes,Transcription Process,celc,genf,1,AFFECTS_CELCafctGENF
+C0162771,C1622990,AFFECTS,Spliceosomes,pre-mRNA splicing,celc,genf,1,AFFECTS_CELCafctGENF
+C0162771,C1749524,AFFECTS,Spliceosomes,mRNA processing,celc,genf,2,AFFECTS_CELCafctGENF
+C0162771,C2610186,AFFECTS,Spliceosomes,"nuclear mRNA cis splicing, via spliceosome",celc,genf,4,AFFECTS_CELCafctGENF
+C0175996,C0017262,AFFECTS,Protoplasm,Gene Expression,celc,genf,2,AFFECTS_CELCafctGENF
+C0175996,C0017263,AFFECTS,Protoplasm,Gene Expression Regulation,celc,genf,1,AFFECTS_CELCafctGENF
+C0175996,C0040649,AFFECTS,Protoplasm,"Transcription, Genetic",celc,genf,2,AFFECTS_CELCafctGENF
+C0175996,C0598496,AFFECTS,Protoplasm,Gene Silencing,celc,genf,3,AFFECTS_CELCafctGENF
+C0175996,C1158817,AFFECTS,Protoplasm,viral transcription,celc,genf,1,AFFECTS_CELCafctGENF
+C0175996,C1171362,AFFECTS,Protoplasm,protein expression,celc,genf,1,AFFECTS_CELCafctGENF
+C0175996,C1519614,AFFECTS,Protoplasm,Genetic Translation Process,celc,genf,2,AFFECTS_CELCafctGENF
+C0206524,C0040649,AFFECTS,Plastids,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C0230583,C0086934,AFFECTS,Nucleolar cap,"RNA, Messenger, Splicing",celc,genf,1,AFFECTS_CELCafctGENF
+C0230770,C0040649,AFFECTS,"Endoplasmic reticulum, membrane","Transcription, Genetic",celc,genf,2,AFFECTS_CELCafctGENF
+C0230839,C0040624,AFFECTS,"Mitochondrial Membrane, Outer","Trans-Activation, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C0230839,C1152412,AFFECTS,"Mitochondrial Membrane, Outer",RNA-directed RNA polymerase activity,celc,genf,1,AFFECTS_CELCafctGENF
+C0333785,C0598312,AFFECTS,Virus-like particles,DNA Replication,celc,genf,1,AFFECTS_CELCafctGENF
+C0521119,C4689702,AFFECTS,Extracellular,nucleic acid binding transcription factor activity,celc,genf,1,AFFECTS_CELCafctGENF
+C0596901,C0040649,AFFECTS,Membrane,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C0596901,C1328949,AFFECTS,Membrane,RNA replication,celc,genf,3,AFFECTS_CELCafctGENF
+C0682537,C0035687,AFFECTS,Nucleoplasm,RNA Splicing,celc,genf,1,AFFECTS_CELCafctGENF
+C0682537,C0040649,AFFECTS,Nucleoplasm,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C0682537,C1158728,AFFECTS,Nucleoplasm,RNA Processing,celc,genf,1,AFFECTS_CELCafctGENF
+C0682537,C2610186,AFFECTS,Nucleoplasm,"nuclear mRNA cis splicing, via spliceosome",celc,genf,1,AFFECTS_CELCafctGENF
+C0699040,C0026882,AFFECTS,Cell surface,Mutation,celc,genf,1,AFFECTS_CELCafctGENF
+C0699040,C0040649,AFFECTS,Cell surface,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C0699040,C0525038,AFFECTS,Cell surface,Amino Acid Substitution,celc,genf,1,AFFECTS_CELCafctGENF
+C0729605,C1152412,AFFECTS,Subcellular structure,RNA-directed RNA polymerase activity,celc,genf,1,AFFECTS_CELCafctGENF
+C0887870,C0017262,AFFECTS,Focal Adhesions,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C1166607,C0040649,AFFECTS,cellular_component,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C1166607,C1158817,AFFECTS,cellular_component,viral transcription,celc,genf,1,AFFECTS_CELCafctGENF
+C1166607,C1328949,AFFECTS,cellular_component,RNA replication,celc,genf,1,AFFECTS_CELCafctGENF
+C1166795,C0040649,AFFECTS,Spindle,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C1166795,C1658145,AFFECTS,Spindle,chromosome separation,celc,genf,1,AFFECTS_CELCafctGENF
+C1166825,C0040649,AFFECTS,IkappaB kinase complex,"Transcription, Genetic",celc,genf,3,AFFECTS_CELCafctGENF
+C1166840,C1328949,AFFECTS,oligosaccharyltransferase complex,RNA replication,celc,genf,1,AFFECTS_CELCafctGENF
+C1167109,C0017262,AFFECTS,paraspeckles,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C1167109,C0162493,AFFECTS,paraspeckles,Transcriptional Activation,celc,genf,1,AFFECTS_CELCafctGENF
+C1167110,C0012899,AFFECTS,PML body,DNA Repair,celc,genf,1,AFFECTS_CELCafctGENF
+C1167110,C1158728,AFFECTS,PML body,RNA Processing,celc,genf,1,AFFECTS_CELCafctGENF
+C1167121,C0683230,AFFECTS,DNA replication factor A complex location,dna amplification,celc,genf,1,AFFECTS_CELCafctGENF
+C1167124,C0598312,AFFECTS,MCM complex,DNA Replication,celc,genf,1,AFFECTS_CELCafctGENF
+C1167142,C0598496,AFFECTS,Histone Deacetylase Complexes,Gene Silencing,celc,genf,1,AFFECTS_CELCafctGENF
+C1167142,C0920533,AFFECTS,Histone Deacetylase Complexes,Transcriptional Repression,celc,genf,1,AFFECTS_CELCafctGENF
+C1167142,C1155650,AFFECTS,Histone Deacetylase Complexes,Replication Initiation,celc,genf,1,AFFECTS_CELCafctGENF
+C1167298,C1156187,AFFECTS,ribonucleoprotein complex location,chromatin organization,celc,genf,1,AFFECTS_CELCafctGENF
+C1167298,C1328949,AFFECTS,ribonucleoprotein complex location,RNA replication,celc,genf,1,AFFECTS_CELCafctGENF
+C1167298,C1749524,AFFECTS,ribonucleoprotein complex location,mRNA processing,celc,genf,1,AFFECTS_CELCafctGENF
+C1167506,C0017262,AFFECTS,RNA-induced silencing complex location,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C1167519,C0035380,AFFECTS,viral capsid,Reverse Transcription,celc,genf,1,AFFECTS_CELCafctGENF
+C1167519,C0597600,AFFECTS,viral capsid,Transcription Termination,celc,genf,1,AFFECTS_CELCafctGENF
+C1167519,C1148846,AFFECTS,viral capsid,RNA Binding,celc,genf,1,AFFECTS_CELCafctGENF
+C1268456,C0017262,AFFECTS,Viral Components,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C1268456,C1152412,AFFECTS,Viral Components,RNA-directed RNA polymerase activity,celc,genf,1,AFFECTS_CELCafctGENF
+C1268456,C2247634,AFFECTS,Viral Components,stress granule assembly,celc,genf,2,AFFECTS_CELCafctGENF
+C1268457,C0282630,AFFECTS,Viral core,"Packaging, Virus",celc,genf,1,AFFECTS_CELCafctGENF
+C1325583,C1136031,AFFECTS,central element,RNA Interference,celc,genf,1,AFFECTS_CELCafctGENF
+C1325596,C0017262,AFFECTS,P-body,Gene Expression,celc,genf,3,AFFECTS_CELCafctGENF
+C1325596,C1158013,AFFECTS,P-body,Nonsense Mediated mRNA Decay,celc,genf,1,AFFECTS_CELCafctGENF
+C1325596,C1257756,AFFECTS,P-body,RNA Degradation,celc,genf,1,AFFECTS_CELCafctGENF
+C1325596,C1257758,AFFECTS,P-body,mRNA Decay,celc,genf,1,AFFECTS_CELCafctGENF
+C1325596,C1257759,AFFECTS,P-body,mRNA Degradation,celc,genf,1,AFFECTS_CELCafctGENF
+C1325596,C1515671,AFFECTS,P-body,mRNA Surveillance,celc,genf,1,AFFECTS_CELCafctGENF
+C1325596,C1519614,AFFECTS,P-body,Genetic Translation Process,celc,genf,2,AFFECTS_CELCafctGENF
+C1325596,C1519619,AFFECTS,P-body,Translational Repression,celc,genf,3,AFFECTS_CELCafctGENF
+C1325636,C1511695,AFFECTS,TAP complex,DNA Sequence Rearrangement,celc,genf,1,AFFECTS_CELCafctGENF
+C1325696,C0162782,AFFECTS,apolipoprotein B mRNA editing enzyme complex,RNA Editing,celc,genf,5,AFFECTS_CELCafctGENF
+C1325742,C1328949,AFFECTS,Pore,RNA replication,celc,genf,1,AFFECTS_CELCafctGENF
+C1383501,C0034865,AFFECTS,Cytoplasmic matrix,"Recombination, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C1383501,C0040649,AFFECTS,Cytoplasmic matrix,"Transcription, Genetic",celc,genf,3,AFFECTS_CELCafctGENF
+C1383501,C0598496,AFFECTS,Cytoplasmic matrix,Gene Silencing,celc,genf,1,AFFECTS_CELCafctGENF
+C1383501,C1136031,AFFECTS,Cytoplasmic matrix,RNA Interference,celc,genf,1,AFFECTS_CELCafctGENF
+C1511625,C0040649,AFFECTS,Cytoplasmic Domain,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C1512460,C0017262,AFFECTS,Higher Order Chromatin Structure,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C1516509,C0002345,AFFECTS,Chromatin Loop,Alternative Splicing,celc,genf,1,AFFECTS_CELCafctGENF
+C1516509,C0017262,AFFECTS,Chromatin Loop,Gene Expression,celc,genf,2,AFFECTS_CELCafctGENF
+C1516511,C0017262,AFFECTS,Chromatin Structure,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C1516511,C0040649,AFFECTS,Chromatin Structure,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C1516511,C0597600,AFFECTS,Chromatin Structure,Transcription Termination,celc,genf,1,AFFECTS_CELCafctGENF
+C1523873,C0026882,AFFECTS,receptor complex,Mutation,celc,genf,2,AFFECTS_CELCafctGENF
+C1523873,C0598494,AFFECTS,receptor complex,derepression,celc,genf,1,AFFECTS_CELCafctGENF
+C1526985,C1158013,AFFECTS,exon-exon junction complex location,Nonsense Mediated mRNA Decay,celc,genf,3,AFFECTS_CELCafctGENF
+C1622204,C0026882,AFFECTS,envelope,Mutation,celc,genf,1,AFFECTS_CELCafctGENF
+C1622204,C1136031,AFFECTS,envelope,RNA Interference,celc,genf,1,AFFECTS_CELCafctGENF
+C1749467,C0017262,AFFECTS,soluble,Gene Expression,celc,genf,1,AFFECTS_CELCafctGENF
+C1749467,C0598312,AFFECTS,soluble,DNA Replication,celc,genf,1,AFFECTS_CELCafctGENF
+C1750270,C0040649,AFFECTS,Nuclear speck,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C1750270,C1749524,AFFECTS,Nuclear speck,mRNA processing,celc,genf,1,AFFECTS_CELCafctGENF
+C1750270,C2610186,AFFECTS,Nuclear speck,"nuclear mRNA cis splicing, via spliceosome",celc,genf,1,AFFECTS_CELCafctGENF
+C1819630,C2755824,AFFECTS,SMN Complex,spliceosomal snRNP assembly,celc,genf,1,AFFECTS_CELCafctGENF
+C1819961,C0598312,AFFECTS,PCNA complex,DNA Replication,celc,genf,2,AFFECTS_CELCafctGENF
+C1819995,C0017262,AFFECTS,Host Cell,Gene Expression,celc,genf,4,AFFECTS_CELCafctGENF
+C1819995,C0034865,AFFECTS,Host Cell,"Recombination, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C1819995,C0035380,AFFECTS,Host Cell,Reverse Transcription,celc,genf,1,AFFECTS_CELCafctGENF
+C1819995,C0040649,AFFECTS,Host Cell,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C1819995,C0598496,AFFECTS,Host Cell,Gene Silencing,celc,genf,1,AFFECTS_CELCafctGENF
+C1819995,C0599177,AFFECTS,Host Cell,protein activation,celc,genf,1,AFFECTS_CELCafctGENF
+C1819995,C1158013,AFFECTS,Host Cell,Nonsense Mediated mRNA Decay,celc,genf,1,AFFECTS_CELCafctGENF
+C1819995,C1158817,AFFECTS,Host Cell,viral transcription,celc,genf,1,AFFECTS_CELCafctGENF
+C1819995,C1171362,AFFECTS,Host Cell,protein expression,celc,genf,1,AFFECTS_CELCafctGENF
+C1819995,C1328949,AFFECTS,Host Cell,RNA replication,celc,genf,1,AFFECTS_CELCafctGENF
+C1819995,C1511695,AFFECTS,Host Cell,DNA Sequence Rearrangement,celc,genf,1,AFFECTS_CELCafctGENF
+C1819995,C1514849,AFFECTS,Host Cell,Replication-Associated Process,celc,genf,1,AFFECTS_CELCafctGENF
+C1820038,C0040649,AFFECTS,cytoskeletal part,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C2246376,C0683142,AFFECTS,protein-DNA complex,DNA metabolic process,celc,genf,1,AFFECTS_CELCafctGENF
+C2247792,C0040649,AFFECTS,enhanceosome,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C2247792,C3494207,AFFECTS,enhanceosome,"Transcription Initiation, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C2262743,C1518387,AFFECTS,Ski complex,Non-Stop Decay,celc,genf,1,AFFECTS_CELCafctGENF
+C2350307,C0040649,AFFECTS,Cell-Derived Microparticles,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C2350332,C1158016,AFFECTS,Exosomes,rRNA catabolic process,celc,genf,1,AFFECTS_CELCafctGENF
+C2350332,C1257756,AFFECTS,Exosomes,RNA Degradation,celc,genf,1,AFFECTS_CELCafctGENF
+C2350332,C1257758,AFFECTS,Exosomes,mRNA Decay,celc,genf,1,AFFECTS_CELCafctGENF
+C2350332,C1518387,AFFECTS,Exosomes,Non-Stop Decay,celc,genf,1,AFFECTS_CELCafctGENF
+C2611777,C1158728,AFFECTS,RNA polymerase II complex,RNA Processing,celc,genf,1,AFFECTS_CELCafctGENF
+C2753479,C0040649,AFFECTS,ISGF3 complex,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C2754343,C0040649,AFFECTS,SMAD protein complex,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C3156847,C1511695,AFFECTS,haustorium,DNA Sequence Rearrangement,celc,genf,1,AFFECTS_CELCafctGENF
+C3158957,C1171362,AFFECTS,RNA granule,protein expression,celc,genf,1,AFFECTS_CELCafctGENF
+C3158957,C1257758,AFFECTS,RNA granule,mRNA Decay,celc,genf,1,AFFECTS_CELCafctGENF
+C3546514,C1519619,AFFECTS,GAIT complex,Translational Repression,celc,genf,1,AFFECTS_CELCafctGENF
+C3548406,C1749527,AFFECTS,terminal loop,translational readthrough,celc,genf,1,AFFECTS_CELCafctGENF
+C3548486,C0683143,AFFECTS,perinucleolar compartment,RNA metabolic process,celc,genf,1,AFFECTS_CELCafctGENF
+C3813157,C1519613,AFFECTS,messenger ribonucleoprotein complex location,Translation Initiation,celc,genf,1,AFFECTS_CELCafctGENF
+C3814045,C0598312,AFFECTS,post-anaphase microtubule array,DNA Replication,celc,genf,1,AFFECTS_CELCafctGENF
+C3824492,C0040649,AFFECTS,receptor-ligand complex,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF
+C4323112,C0040649,AFFECTS,Nuclear organelle,"Transcription, Genetic",celc,genf,1,AFFECTS_CELCafctGENF

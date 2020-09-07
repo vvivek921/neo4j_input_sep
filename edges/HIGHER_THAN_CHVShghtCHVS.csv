@@ -1,0 +1,17 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007447,C0007447,HIGHER_THAN,Cations,Cations,chvs,chvs,1,HIGHER_THAN_CHVShghtCHVS
+C0007448,C0007449,HIGHER_THAN,"Cations, Divalent","Cations, Monovalent",chvs,chvs,1,HIGHER_THAN_CHVShghtCHVS
+C0012771,C0012771,HIGHER_THAN,Disulfides,Disulfides,chvs,chvs,1,HIGHER_THAN_CHVShghtCHVS
+C0017110,C0597177,HIGHER_THAN,Gases,Particle,chvs,chvs,1,HIGHER_THAN_CHVShghtCHVS
+C0017110,C0597635,HIGHER_THAN,Gases,Vapor,chvs,chvs,1,HIGHER_THAN_CHVShghtCHVS
+C0036140,C0036140,HIGHER_THAN,Salts,Salts,chvs,chvs,1,HIGHER_THAN_CHVShghtCHVS
+C0243072,C0243072,HIGHER_THAN,derivatives,derivatives,chvs,chvs,2,HIGHER_THAN_CHVShghtCHVS
+C0596383,C0596973,HIGHER_THAN,Copolymer,Monomer,chvs,chvs,1,HIGHER_THAN_CHVShghtCHVS
+C0596448,C0596973,HIGHER_THAN,dimer,Monomer,chvs,chvs,4,HIGHER_THAN_CHVShghtCHVS
+C0597177,C0596448,HIGHER_THAN,Particle,dimer,chvs,chvs,1,HIGHER_THAN_CHVShghtCHVS
+C0597177,C0597177,HIGHER_THAN,Particle,Particle,chvs,chvs,44,HIGHER_THAN_CHVShghtCHVS
+C0597177,C1704241,HIGHER_THAN,Particle,complex (molecular entity),chvs,chvs,1,HIGHER_THAN_CHVShghtCHVS
+C0597488,C0597488,HIGHER_THAN,solute,solute,chvs,chvs,2,HIGHER_THAN_CHVShghtCHVS
+C1704241,C0036140,HIGHER_THAN,complex (molecular entity),Salts,chvs,chvs,1,HIGHER_THAN_CHVShghtCHVS
+C1704241,C1704241,HIGHER_THAN,complex (molecular entity),complex (molecular entity),chvs,chvs,7,HIGHER_THAN_CHVShghtCHVS
+C1979934,C0596973,HIGHER_THAN,Multimers,Monomer,chvs,chvs,2,HIGHER_THAN_CHVShghtCHVS

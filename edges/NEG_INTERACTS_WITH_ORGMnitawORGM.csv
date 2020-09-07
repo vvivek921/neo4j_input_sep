@@ -1,0 +1,6 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0445623,C1167395,NEG_INTERACTS_WITH,Microorganism,Host (organism),orgm,orgm,2,NEG_INTERACTS_WITH_ORGMnitawORGM
+C0445623,C2985398,NEG_INTERACTS_WITH,Microorganism,Intestinal Microbiome,orgm,orgm,1,NEG_INTERACTS_WITH_ORGMnitawORGM
+C0450254,C0445623,NEG_INTERACTS_WITH,Pathogenic organism,Microorganism,orgm,orgm,1,NEG_INTERACTS_WITH_ORGMnitawORGM
+C0450254,C1167395,NEG_INTERACTS_WITH,Pathogenic organism,Host (organism),orgm,orgm,1,NEG_INTERACTS_WITH_ORGMnitawORGM
+C1956108,C0445623,NEG_INTERACTS_WITH,Microbiome,Microorganism,orgm,orgm,1,NEG_INTERACTS_WITH_ORGMnitawORGM

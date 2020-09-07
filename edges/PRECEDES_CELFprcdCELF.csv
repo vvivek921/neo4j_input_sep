@@ -1,0 +1,61 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001272,C0025251,PRECEDES,Action Potentials,Membrane Potentials,celf,celf,1,PRECEDES_CELFprcdCELF
+C0001272,C0678839,PRECEDES,Action Potentials,refractory period,celf,celf,1,PRECEDES_CELFprcdCELF
+C0004391,C0042774,PRECEDES,Autophagy,Virus Replication,celf,celf,1,PRECEDES_CELFprcdCELF
+C0004391,C0162638,PRECEDES,Autophagy,Apoptosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C0007587,C0162638,PRECEDES,Cell Death,Apoptosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C0007587,C1159342,PRECEDES,Cell Death,Secretory Pathway,celf,celf,1,PRECEDES_CELFprcdCELF
+C0007590,C0007595,PRECEDES,Cell division,Cell Growth,celf,celf,1,PRECEDES_CELFprcdCELF
+C0007620,C0596290,PRECEDES,Cell Survival,Cell Proliferation,celf,celf,1,PRECEDES_CELFprcdCELF
+C0010813,C1656555,PRECEDES,Cytokinesis,viral entry into host cell,celf,celf,1,PRECEDES_CELFprcdCELF
+C0014139,C0206430,PRECEDES,Endocytosis,Antigen Processing,celf,celf,1,PRECEDES_CELFprcdCELF
+C0014139,C0206431,PRECEDES,Endocytosis,Antigen Presentation,celf,celf,1,PRECEDES_CELFprcdCELF
+C0014139,C1160657,PRECEDES,Endocytosis,Virus Uncoating,celf,celf,2,PRECEDES_CELFprcdCELF
+C0014139,C1656555,PRECEDES,Endocytosis,viral entry into host cell,celf,celf,1,PRECEDES_CELFprcdCELF
+C0015283,C0014139,PRECEDES,Exocytosis,Endocytosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C0015283,C0599702,PRECEDES,Exocytosis,reuptake,celf,celf,1,PRECEDES_CELFprcdCELF
+C0026255,C0007587,PRECEDES,Mitosis,Cell Death,celf,celf,1,PRECEDES_CELFprcdCELF
+C0026255,C0010813,PRECEDES,Mitosis,Cytokinesis,celf,celf,2,PRECEDES_CELFprcdCELF
+C0026255,C0079396,PRECEDES,Mitosis,G2 Phase,celf,celf,1,PRECEDES_CELFprcdCELF
+C0031308,C0085416,PRECEDES,Phagocytosis,Respiratory Burst,celf,celf,1,PRECEDES_CELFprcdCELF
+C0031308,C0162638,PRECEDES,Phagocytosis,Apoptosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C0031308,C1257986,PRECEDES,Phagocytosis,Cross-Presentation,celf,celf,1,PRECEDES_CELFprcdCELF
+C0031308,C3157010,PRECEDES,Phagocytosis,phagosome maturation,celf,celf,1,PRECEDES_CELFprcdCELF
+C0042774,C1159455,PRECEDES,Virus Replication,syncytium formation,celf,celf,1,PRECEDES_CELFprcdCELF
+C0162638,C0031308,PRECEDES,Apoptosis,Phagocytosis,celf,celf,2,PRECEDES_CELFprcdCELF
+C0162638,C0334220,PRECEDES,Apoptosis,Remyelination,celf,celf,1,PRECEDES_CELFprcdCELF
+C0162638,C1523908,PRECEDES,Apoptosis,apoptotic cell clearance,celf,celf,1,PRECEDES_CELFprcdCELF
+C0162638,C1817605,PRECEDES,Apoptosis,oligodendrocyte development,celf,celf,1,PRECEDES_CELFprcdCELF
+C0162638,C3156749,PRECEDES,Apoptosis,neutrophil extravasation,celf,celf,1,PRECEDES_CELFprcdCELF
+C0206431,C0007613,PRECEDES,Antigen Presentation,Cell physiology,celf,celf,1,PRECEDES_CELFprcdCELF
+C0230871,C0162638,PRECEDES,Mitochondrial Fission,Apoptosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C0230871,C1820119,PRECEDES,Mitochondrial Fission,Mitophagy,celf,celf,1,PRECEDES_CELFprcdCELF
+C0234093,C0334220,PRECEDES,Saltatory conduction,Remyelination,celf,celf,1,PRECEDES_CELFprcdCELF
+C0544888,C0010813,PRECEDES,Mitotic arrest,Cytokinesis,celf,celf,1,PRECEDES_CELFprcdCELF
+C0597361,C0010813,PRECEDES,Receptor Mediated Endocytosis,Cytokinesis,celf,celf,1,PRECEDES_CELFprcdCELF
+C0887839,C0042774,PRECEDES,Nuclear Import,Virus Replication,celf,celf,1,PRECEDES_CELFprcdCELF
+C1155342,C0162638,PRECEDES,cellular response to unfolded protein,Apoptosis,celf,celf,3,PRECEDES_CELFprcdCELF
+C1155789,C1155691,PRECEDES,nuclear division,endomitotic cell cycle,celf,celf,1,PRECEDES_CELFprcdCELF
+C1155873,C0007581,PRECEDES,Cell Cycle Arrest,Cellular Senescence,celf,celf,2,PRECEDES_CELFprcdCELF
+C1155873,C0162638,PRECEDES,Cell Cycle Arrest,Apoptosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C1156182,C0596991,PRECEDES,membrane disassembly,myelination,celf,celf,1,PRECEDES_CELFprcdCELF
+C1156309,C1159455,PRECEDES,syncytium formation by plasma membrane fusion,syncytium formation,celf,celf,1,PRECEDES_CELFprcdCELF
+C1157569,C1160698,PRECEDES,viral translation,viral budding,celf,celf,1,PRECEDES_CELFprcdCELF
+C1159342,C0010813,PRECEDES,Secretory Pathway,Cytokinesis,celf,celf,1,PRECEDES_CELFprcdCELF
+C1159342,C1325417,PRECEDES,Secretory Pathway,vesicle-mediated transport,celf,celf,1,PRECEDES_CELFprcdCELF
+C1159762,C0042774,PRECEDES,opsonization,Virus Replication,celf,celf,1,PRECEDES_CELFprcdCELF
+C1160649,C0010813,PRECEDES,virion attachment to host cell,Cytokinesis,celf,celf,1,PRECEDES_CELFprcdCELF
+C1160649,C0042774,PRECEDES,virion attachment to host cell,Virus Replication,celf,celf,1,PRECEDES_CELFprcdCELF
+C1160649,C1516375,PRECEDES,virion attachment to host cell,Cellular Tropism,celf,celf,1,PRECEDES_CELFprcdCELF
+C1160692,C0007587,PRECEDES,virus maturation,Cell Death,celf,celf,1,PRECEDES_CELFprcdCELF
+C1160698,C0010813,PRECEDES,viral budding,Cytokinesis,celf,celf,1,PRECEDES_CELFprcdCELF
+C1257986,C1660751,PRECEDES,Cross-Presentation,cellular retention,celf,celf,1,PRECEDES_CELFprcdCELF
+C1325417,C0015283,PRECEDES,vesicle-mediated transport,Exocytosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C1720920,C0007586,PRECEDES,"Membrane Potential, Mitochondrial",Cell Cycle,celf,celf,1,PRECEDES_CELFprcdCELF
+C2611812,C0042774,PRECEDES,signaling cascade,Virus Replication,celf,celf,1,PRECEDES_CELFprcdCELF
+C2613267,C0025186,PRECEDES,sporulation,Meiosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C3156642,C1817588,PRECEDES,clathrin-dependent endocytosis,membrane invagination,celf,celf,1,PRECEDES_CELFprcdCELF
+C3156642,C3271951,PRECEDES,clathrin-dependent endocytosis,macropinocytosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C3271951,C1257986,PRECEDES,macropinocytosis,Cross-Presentation,celf,celf,1,PRECEDES_CELFprcdCELF
+C3820832,C0015283,PRECEDES,virion budding,Exocytosis,celf,celf,1,PRECEDES_CELFprcdCELF
+C4317072,C3820832,PRECEDES,virion maturation,virion budding,celf,celf,1,PRECEDES_CELFprcdCELF

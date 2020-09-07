@@ -1,0 +1,97 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001884,C0011991,CAUSES,Airway Resistance Test,Diarrhea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0001884,C0027497,CAUSES,Airway Resistance Test,Nausea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0001884,C0232487,CAUSES,Airway Resistance Test,Abdominal discomfort,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0002978,C0010200,CAUSES,angiogram,Coughing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0004339,C0043144,CAUSES,Auscultation,Wheezing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0004398,C0011991,CAUSES,Autopsy,Diarrhea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0004398,C0018989,CAUSES,Autopsy,Hemiparesis,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0004398,C0036572,CAUSES,Autopsy,Seizures,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0004398,C0037088,CAUSES,Autopsy,Signs and Symptoms,diap,sosy,2,CAUSES_DIAPcausSOSY
+C0004398,C0037090,CAUSES,Autopsy,"Signs and Symptoms, Respiratory",diap,sosy,1,CAUSES_DIAPcausSOSY
+C0005558,C0011991,CAUSES,Biopsy,Diarrhea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0005834,C0848237,CAUSES,Collection of blood specimen for laboratory procedure,acute stress,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0006290,C0013404,CAUSES,Bronchoscopy,Dyspnea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0006290,C0019079,CAUSES,Bronchoscopy,Hemoptysis,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0011906,C0011991,CAUSES,Differential Diagnosis,Diarrhea,diap,sosy,5,CAUSES_DIAPcausSOSY
+C0011906,C0015230,CAUSES,Differential Diagnosis,Exanthema,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0011906,C0019079,CAUSES,Differential Diagnosis,Hemoptysis,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0011906,C0424810,CAUSES,Differential Diagnosis,Periorbital swelling,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0011906,C0740577,CAUSES,Differential Diagnosis,Acute abdominal pain,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0011923,C0015967,CAUSES,Diagnostic Imaging,Fever,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0011923,C0037090,CAUSES,Diagnostic Imaging,"Signs and Symptoms, Respiratory",diap,sosy,1,CAUSES_DIAPcausSOSY
+C0013516,C0008031,CAUSES,Echocardiography,Chest Pain,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0013516,C0015967,CAUSES,Echocardiography,Fever,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0013798,C2926602,CAUSES,Electrocardiogram,"Discharge, body substance",diap,sosy,1,CAUSES_DIAPcausSOSY
+C0013819,C0036572,CAUSES,Electroencephalography,Seizures,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0017195,C0010200,CAUSES,Endoscopy of stomach,Coughing,diap,sosy,2,CAUSES_DIAPcausSOSY
+C0021044,C0000737,CAUSES,Immunohistochemistry,Abdominal Pain,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0023072,C0010200,CAUSES,Laryngoscopy,Coughing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0023072,C0037383,CAUSES,Laryngoscopy,Sneezing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0024119,C0010200,CAUSES,Pulmonary function tests,Coughing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0024119,C0013404,CAUSES,Pulmonary function tests,Dyspnea,diap,sosy,2,CAUSES_DIAPcausSOSY
+C0024119,C0043144,CAUSES,Pulmonary function tests,Wheezing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0030247,C0010200,CAUSES,Palpation,Coughing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0030247,C0011991,CAUSES,Palpation,Diarrhea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0030247,C2364135,CAUSES,Palpation,Discomfort,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0030987,C0010200,CAUSES,Percussion,Coughing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0030987,C0853619,CAUSES,Percussion,Localized swelling,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0031150,C0010200,CAUSES,Laparoscopy,Coughing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0033920,C0029166,CAUSES,Psychometrics,Oral Manifestations,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0034579,C0011991,CAUSES,Panoramic Radiography,Diarrhea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0034579,C0040460,CAUSES,Panoramic Radiography,Toothache,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0037981,C0013404,CAUSES,Spirometry,Dyspnea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0039985,C0010200,CAUSES,Plain chest X-ray,Coughing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0039985,C0013404,CAUSES,Plain chest X-ray,Dyspnea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0040395,C0010201,CAUSES,tomography,Chronic cough,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0040395,C0019079,CAUSES,tomography,Hemoptysis,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0040405,C0008031,CAUSES,X-Ray Computed Tomography,Chest Pain,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0040405,C0015967,CAUSES,X-Ray Computed Tomography,Fever,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0040405,C0749874,CAUSES,X-Ray Computed Tomography,upper respiratory symptom,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0040405,C1260880,CAUSES,X-Ray Computed Tomography,Rhinorrhea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0041618,C0037088,CAUSES,Ultrasonography,Signs and Symptoms,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0086143,C0022346,CAUSES,Diagnostic tests,Icterus,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0086143,C0085631,CAUSES,Diagnostic tests,Agitation,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0189024,C0010200,CAUSES,Endoscopy of nose,Coughing,diap,sosy,2,CAUSES_DIAPcausSOSY
+C0189024,C0037383,CAUSES,Endoscopy of nose,Sneezing,diap,sosy,5,CAUSES_DIAPcausSOSY
+C0189386,C0010200,CAUSES,Endoscopy of trachea,Coughing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0190482,C0009812,CAUSES,Biopsy of temporal artery,Constitutional Symptom,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0190482,C0018681,CAUSES,Biopsy of temporal artery,Headache,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0202823,C0037090,CAUSES,Chest CT,"Signs and Symptoms, Respiratory",diap,sosy,1,CAUSES_DIAPcausSOSY
+C0220908,C0015967,CAUSES,Screening procedure,Fever,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0220908,C0037383,CAUSES,Screening procedure,Sneezing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0220908,C0392171,CAUSES,Screening procedure,Influenza-like symptoms,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0262485,C0036572,CAUSES,Flash,Seizures,diap,sosy,3,CAUSES_DIAPcausSOSY
+C0332140,C0011991,CAUSES,"Diagnosis, clinical",Diarrhea,diap,sosy,3,CAUSES_DIAPcausSOSY
+C0332140,C0015967,CAUSES,"Diagnosis, clinical",Fever,diap,sosy,2,CAUSES_DIAPcausSOSY
+C0332140,C0392171,CAUSES,"Diagnosis, clinical",Influenza-like symptoms,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0392823,C0010200,CAUSES,Direct examination of larynx,Coughing,diap,sosy,2,CAUSES_DIAPcausSOSY
+C0399943,C0011991,CAUSES,Biopsy of small intestine,Diarrhea,diap,sosy,2,CAUSES_DIAPcausSOSY
+C0596473,C0010201,CAUSES,Early Diagnosis,Chronic cough,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0596473,C0013404,CAUSES,Early Diagnosis,Dyspnea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0596473,C0015967,CAUSES,Early Diagnosis,Fever,diap,sosy,2,CAUSES_DIAPcausSOSY
+C0596473,C0043144,CAUSES,Early Diagnosis,Wheezing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0597356,C0008031,CAUSES,rapid diagnosis,Chest Pain,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0750430,C0008033,CAUSES,Work-up,Pleuritic pain,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0750430,C0036572,CAUSES,Work-up,Seizures,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0750862,C0000737,CAUSES,Dental examination,Abdominal Pain,diap,sosy,1,CAUSES_DIAPcausSOSY
+C0920688,C0426601,CAUSES,Cancer Diagnosis,Swallowing symptoms,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1306645,C0013404,CAUSES,Plain x-ray,Dyspnea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1306645,C0037088,CAUSES,Plain x-ray,Signs and Symptoms,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1319069,C0015967,CAUSES,Point-of-Care Testing,Fever,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1449699,C1397014,CAUSES,Tumor Burden,Imbalance,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1513743,C2364135,CAUSES,Multimodal Imaging,Discomfort,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1531652,C0013404,CAUSES,Chest imaging,Dyspnea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1536105,C0019079,CAUSES,Computed Tomography Angiography,Hemoptysis,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1655737,C0013404,CAUSES,cardiac ultrasound,Dyspnea,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1964257,C0010200,CAUSES,Observation - diagnostic procedure,Coughing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1964257,C0011991,CAUSES,Observation - diagnostic procedure,Diarrhea,diap,sosy,2,CAUSES_DIAPcausSOSY
+C1964257,C0015967,CAUSES,Observation - diagnostic procedure,Fever,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1964257,C0037383,CAUSES,Observation - diagnostic procedure,Sneezing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1964257,C0043144,CAUSES,Observation - diagnostic procedure,Wheezing,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1964257,C0349410,CAUSES,Observation - diagnostic procedure,Single organ dysfunction,diap,sosy,1,CAUSES_DIAPcausSOSY
+C1964257,C1397014,CAUSES,Observation - diagnostic procedure,Imbalance,diap,sosy,1,CAUSES_DIAPcausSOSY
+C2985547,C0030193,CAUSES,Scintimammography,Pain,diap,sosy,1,CAUSES_DIAPcausSOSY
+C3842377,C0015967,CAUSES,Chest radiograph,Fever,diap,sosy,2,CAUSES_DIAPcausSOSY
+C4075962,C0015967,CAUSES,Low dose computed tomography of thorax,Fever,diap,sosy,1,CAUSES_DIAPcausSOSY
+C4521453,C0015967,CAUSES,FDG-Positron Emission Tomography and Computed Tomography Scan,Fever,diap,sosy,1,CAUSES_DIAPcausSOSY

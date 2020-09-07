@@ -1,0 +1,113 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004398,C0162745,USES,Autopsy,collagenase,diap,aapp,2,USES_DIAPusesAAPP
+C0005558,C0003241,USES,Biopsy,Antibodies,diap,aapp,2,USES_DIAPusesAAPP
+C0005558,C0041289,USES,Biopsy,tuberculin,diap,aapp,1,USES_DIAPusesAAPP
+C0008307,C0724584,USES,Cholangiography,"coagulation factor IX, human",diap,aapp,1,USES_DIAPusesAAPP
+C0011906,C0003241,USES,Differential Diagnosis,Antibodies,diap,aapp,2,USES_DIAPusesAAPP
+C0021044,C0003241,USES,Immunohistochemistry,Antibodies,diap,aapp,80,USES_DIAPusesAAPP
+C0021044,C0017237,USES,Immunohistochemistry,gelatin,diap,aapp,1,USES_DIAPusesAAPP
+C0021044,C0019941,USES,Immunohistochemistry,Horseradish Peroxidase,diap,aapp,2,USES_DIAPusesAAPP
+C0021044,C0020960,USES,Immunohistochemistry,Immune Sera,diap,aapp,12,USES_DIAPusesAAPP
+C0021044,C0085379,USES,Immunohistochemistry,muromonab-CD3,diap,aapp,2,USES_DIAPusesAAPP
+C0021044,C0359168,USES,Immunohistochemistry,Mouse monoclonal antibody,diap,aapp,6,USES_DIAPusesAAPP
+C0021044,C1415761,USES,Immunohistochemistry,HSPA5 gene,diap,aapp,1,USES_DIAPusesAAPP
+C0021044,C1422064,USES,Immunohistochemistry,ACE2 gene,diap,aapp,1,USES_DIAPusesAAPP
+C0021881,C0034131,USES,Intradermal Tests,purified protein derivative of tuberculin,diap,aapp,1,USES_DIAPusesAAPP
+C0021881,C0041289,USES,Intradermal Tests,tuberculin,diap,aapp,4,USES_DIAPusesAAPP
+C0021881,C0042210,USES,Intradermal Tests,Vaccines,diap,aapp,1,USES_DIAPusesAAPP
+C0021881,C1122087,USES,Intradermal Tests,adalimumab,diap,aapp,1,USES_DIAPusesAAPP
+C0024485,C0018165,USES,Magnetic Resonance Imaging,gramicidin,diap,aapp,1,USES_DIAPusesAAPP
+C0030646,C0003241,USES,Patch Tests,Antibodies,diap,aapp,2,USES_DIAPusesAAPP
+C0030646,C0282682,USES,Patch Tests,"Antibodies, Blocking",diap,aapp,1,USES_DIAPusesAAPP
+C0032743,C0002520,USES,Positron-Emission Tomography,Amino Acids,diap,aapp,1,USES_DIAPusesAAPP
+C0032743,C0025646,USES,Positron-Emission Tomography,methionine,diap,aapp,1,USES_DIAPusesAAPP
+C0032976,C0020960,USES,Pregnancy Tests,Immune Sera,diap,aapp,1,USES_DIAPusesAAPP
+C0032976,C1141639,USES,Pregnancy Tests,human chorionic gonadotropin,diap,aapp,1,USES_DIAPusesAAPP
+C0034606,C0003241,USES,Radionuclide Imaging,Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C0034606,C0751719,USES,Radionuclide Imaging,Phage Display Peptide Library,diap,aapp,1,USES_DIAPusesAAPP
+C0037296,C0003993,USES,Hypersensitivity skin testing,asparaginase,diap,aapp,1,USES_DIAPusesAAPP
+C0037296,C0031858,USES,Hypersensitivity skin testing,Phytohemagglutinins,diap,aapp,3,USES_DIAPusesAAPP
+C0037296,C0034131,USES,Hypersensitivity skin testing,purified protein derivative of tuberculin,diap,aapp,1,USES_DIAPusesAAPP
+C0037296,C0042210,USES,Hypersensitivity skin testing,Vaccines,diap,aapp,1,USES_DIAPusesAAPP
+C0040398,C0003241,USES,"Tomography, Emission-Computed",Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C0040398,C0017649,USES,"Tomography, Emission-Computed",Globulins,diap,aapp,1,USES_DIAPusesAAPP
+C0040398,C0042210,USES,"Tomography, Emission-Computed",Vaccines,diap,aapp,2,USES_DIAPusesAAPP
+C0040398,C0886584,USES,"Tomography, Emission-Computed",metyrosine,diap,aapp,1,USES_DIAPusesAAPP
+C0040399,C0003241,USES,"Tomography, Emission-Computed, Single-Photon",Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C0040399,C0886584,USES,"Tomography, Emission-Computed, Single-Photon",metyrosine,diap,aapp,1,USES_DIAPusesAAPP
+C0079835,C0003241,USES,"Microscopy, Immunoelectron",Antibodies,diap,aapp,5,USES_DIAPusesAAPP
+C0079835,C0020960,USES,"Microscopy, Immunoelectron",Immune Sera,diap,aapp,1,USES_DIAPusesAAPP
+C0079835,C0051979,USES,"Microscopy, Immunoelectron",anti-IgG,diap,aapp,1,USES_DIAPusesAAPP
+C0086143,C0019941,USES,Diagnostic tests,Horseradish Peroxidase,diap,aapp,1,USES_DIAPusesAAPP
+C0162734,C0042210,USES,Echo-Planar Imaging,Vaccines,diap,aapp,2,USES_DIAPusesAAPP
+C0190979,C0003241,USES,Venous blood sampling,Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C0203634,C0003241,USES,Nuclear medicine procedure,Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C0205917,C0006938,USES,Renography,captopril,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C0002520,USES,Screening procedure,Amino Acids,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C0003241,USES,Screening procedure,Antibodies,diap,aapp,12,USES_DIAPusesAAPP
+C0220908,C0004599,USES,Screening procedure,bacitracin,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C0014444,USES,Screening procedure,"Enzymes, Immobilized",diap,aapp,2,USES_DIAPusesAAPP
+C0220908,C0019602,USES,Screening procedure,histidine,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C0020960,USES,Screening procedure,Immune Sera,diap,aapp,3,USES_DIAPusesAAPP
+C0220908,C0024075,USES,Screening procedure,Luciferases,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C0025741,USES,Screening procedure,methyldopa,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C0036002,USES,Screening procedure,S-adenosylmethionine,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C0041249,USES,Screening procedure,tryptophan,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C0042210,USES,Screening procedure,Vaccines,diap,aapp,2,USES_DIAPusesAAPP
+C0220908,C0043396,USES,Screening procedure,Yellow fever virus,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C0120285,USES,Screening procedure,Green Fluorescent Proteins,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C0376435,USES,Screening procedure,Random Peptide Library,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C0376436,USES,Screening procedure,Peptide Library,diap,aapp,4,USES_DIAPusesAAPP
+C0220908,C0702053,USES,Screening procedure,RhoGAM,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C0765100,USES,Screening procedure,Ulp1 protease,diap,aapp,1,USES_DIAPusesAAPP
+C0220908,C1258415,USES,Screening procedure,enhanced green fluorescent protein,diap,aapp,1,USES_DIAPusesAAPP
+C0242890,C0042210,USES,Toxicity Tests,Vaccines,diap,aapp,1,USES_DIAPusesAAPP
+C0332140,C0003241,USES,"Diagnosis, clinical",Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C0419358,C0003241,USES,Exploration with a probe,Antibodies,diap,aapp,9,USES_DIAPusesAAPP
+C0419358,C0020960,USES,Exploration with a probe,Immune Sera,diap,aapp,4,USES_DIAPusesAAPP
+C0419358,C0128101,USES,Exploration with a probe,methyl(arginyl)-lysyl-prolyl-tryptophyl-tert-leucyl-leucine,diap,aapp,1,USES_DIAPusesAAPP
+C0419358,C1425927,USES,Exploration with a probe,EDEM1 gene,diap,aapp,1,USES_DIAPusesAAPP
+C0419358,C2702333,USES,Exploration with a probe,"immunoglobulin G, human",diap,aapp,1,USES_DIAPusesAAPP
+C0430022,C0003241,USES,diagnostic procedure,Antibodies,diap,aapp,2,USES_DIAPusesAAPP
+C0430572,C0031858,USES,Delayed hypersensitivity skin test,Phytohemagglutinins,diap,aapp,1,USES_DIAPusesAAPP
+C0430595,C0003241,USES,Schick test,Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C0444186,C0003241,USES,Smear test,Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C0449900,C0017797,USES,Contrast used,glutamine,diap,aapp,1,USES_DIAPusesAAPP
+C0449900,C0019602,USES,Contrast used,histidine,diap,aapp,1,USES_DIAPusesAAPP
+C0451111,C0003241,USES,Rapid screening test,Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C0473935,C0732165,USES,Radiolabeled somatostatin analog study,Somatostatin analog,diap,aapp,1,USES_DIAPusesAAPP
+C0497093,C0003241,USES,Sensitivity test,Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C0497093,C0004599,USES,Sensitivity test,bacitracin,diap,aapp,1,USES_DIAPusesAAPP
+C0497093,C0032539,USES,Sensitivity test,Polymyxins,diap,aapp,1,USES_DIAPusesAAPP
+C0497093,C0041236,USES,Sensitivity test,trypsin,diap,aapp,1,USES_DIAPusesAAPP
+C0546783,C0024337,USES,Vascular imaging,lysine,diap,aapp,1,USES_DIAPusesAAPP
+C0596473,C0003241,USES,Early Diagnosis,Antibodies,diap,aapp,3,USES_DIAPusesAAPP
+C0596473,C0031453,USES,Early Diagnosis,phenylalanine,diap,aapp,1,USES_DIAPusesAAPP
+C0597356,C0308550,USES,rapid diagnosis,BRSV,diap,aapp,1,USES_DIAPusesAAPP
+C0683441,C0003241,USES,serologic diagnosis,Antibodies,diap,aapp,3,USES_DIAPusesAAPP
+C0683441,C0042210,USES,serologic diagnosis,Vaccines,diap,aapp,1,USES_DIAPusesAAPP
+C0683443,C0003241,USES,tests and testing,Antibodies,diap,aapp,2,USES_DIAPusesAAPP
+C0683454,C0003241,USES,internal-external locus of control scale,Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C0750430,C0003241,USES,Work-up,Antibodies,diap,aapp,2,USES_DIAPusesAAPP
+C0750430,C0009325,USES,Work-up,collagen,diap,aapp,1,USES_DIAPusesAAPP
+C0796451,C0002520,USES,Polymorphism Analysis,Amino Acids,diap,aapp,3,USES_DIAPusesAAPP
+C0860888,C0003442,USES,"Tomography, Spiral Computed","lymphocyte immune globulin, anti-thymocyte globulin",diap,aapp,1,USES_DIAPusesAAPP
+C0872102,C0003241,USES,assay development,Antibodies,diap,aapp,2,USES_DIAPusesAAPP
+C0872187,C0005740,USES,High Throughput Screening,bleomycin,diap,aapp,1,USES_DIAPusesAAPP
+C0872187,C0006558,USES,High Throughput Screening,C-Peptide,diap,aapp,1,USES_DIAPusesAAPP
+C0872187,C0024075,USES,High Throughput Screening,Luciferases,diap,aapp,1,USES_DIAPusesAAPP
+C0872187,C0282682,USES,High Throughput Screening,"Antibodies, Blocking",diap,aapp,2,USES_DIAPusesAAPP
+C0872257,C0003241,USES,rapid technique,Antibodies,diap,aapp,2,USES_DIAPusesAAPP
+C0872257,C1535531,USES,rapid technique,Recombinant Thyroid-Stimulating Hormone,diap,aapp,1,USES_DIAPusesAAPP
+C0940836,C0003241,USES,functional measurement,Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C0946326,C0017817,USES,pulmonary studies,glutathione,diap,aapp,1,USES_DIAPusesAAPP
+C1319069,C0003241,USES,Point-of-Care Testing,Antibodies,diap,aapp,2,USES_DIAPusesAAPP
+C1328868,C0120285,USES,Diffuse Optical Tomography,Green Fluorescent Proteins,diap,aapp,22,USES_DIAPusesAAPP
+C1623258,C0021641,USES,Electrocardiography,Insulin,diap,aapp,1,USES_DIAPusesAAPP
+C1831759,C0042210,USES,Pharmacological Study,Vaccines,diap,aapp,1,USES_DIAPusesAAPP
+C1964257,C0003241,USES,Observation - diagnostic procedure,Antibodies,diap,aapp,1,USES_DIAPusesAAPP
+C1964257,C0040005,USES,Observation - diagnostic procedure,threonine,diap,aapp,1,USES_DIAPusesAAPP
+C1964257,C0042210,USES,Observation - diagnostic procedure,Vaccines,diap,aapp,1,USES_DIAPusesAAPP
+C1964257,C0120285,USES,Observation - diagnostic procedure,Green Fluorescent Proteins,diap,aapp,2,USES_DIAPusesAAPP
+C2960457,C0008328,USES,Evoked potential study,cholecystokinin,diap,aapp,1,USES_DIAPusesAAPP
+C2986748,C0120285,USES,End Systolic Volume Imaging,Green Fluorescent Proteins,diap,aapp,1,USES_DIAPusesAAPP

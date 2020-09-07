@@ -1,0 +1,85 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001876,C0035203,AFFECTS,Air Pressure,Respiration,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0002074,C0243144,AFFECTS,Alkylation,Uptake,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0011682,C1514892,AFFECTS,Desiccation,Resistance Process,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0012222,C0231999,AFFECTS,Diffusion,Airflow,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0013764,C0243144,AFFECTS,elasticity,Uptake,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0016248,C0018767,AFFECTS,Floods,Hearing,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0017982,C0020964,AFFECTS,glycosylation,Immunity,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C0017982,C0242732,AFFECTS,glycosylation,Tropism,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C0017982,C2717801,AFFECTS,glycosylation,Viral Tropism,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0017982,C3714584,AFFECTS,glycosylation,"Transformation, function",npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0020034,C0020964,AFFECTS,Host-Parasite Interactions,Immunity,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0020276,C4520800,AFFECTS,Hydrogen Bonding,Hydration,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C0020291,C0040480,AFFECTS,Hydrolysis,"Musculoskeletal torsion, function",npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0020309,C0232338,AFFECTS,Hydrostatic Pressure,Blood flow,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0022702,C0678755,AFFECTS,Kinetics,drug disposition,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C0026597,C0035203,AFFECTS,Motion,Respiration,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0026597,C0231999,AFFECTS,Motion,Airflow,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C0026597,C0232338,AFFECTS,Motion,Blood flow,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0031164,C0035203,AFFECTS,Permeability,Respiration,npop,phsf,3,AFFECTS_NPOPafctPHSF
+C0031164,C0243144,AFFECTS,Permeability,Uptake,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C0031164,C0751982,AFFECTS,Permeability,Neutrophil Infiltration,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0034538,C0020964,AFFECTS,Ionizing radiation,Immunity,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0037783,C1328821,AFFECTS,Species Specificity,tissue tropism,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0037783,C2717801,AFFECTS,Species Specificity,Viral Tropism,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C0037783,C4277517,AFFECTS,Species Specificity,Host Tropism,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0038817,C0020964,AFFECTS,Sunlight,Immunity,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C0038884,C0243144,AFFECTS,Surface Properties,Uptake,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0041625,C1514892,AFFECTS,Ultraviolet Rays,Resistance Process,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0041625,C3714584,AFFECTS,Ultraviolet Rays,"Transformation, function",npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0042333,C0020964,AFFECTS,Variation (Genetics),Immunity,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C0042333,C3853758,AFFECTS,Variation (Genetics),Metabolic Profile,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0042730,C0020964,AFFECTS,Viral Interference,Immunity,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0042784,C2267003,AFFECTS,Viscosity,Increased Immunologic Activity [PE],npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0043187,C0005775,AFFECTS,Environmental Wind,Blood Circulation,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0162358,C0020964,AFFECTS,Ecosystem,Immunity,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0162691,C4520800,AFFECTS,Friction,Hydration,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0243052,C0242732,AFFECTS,Virus Physiological Phenomena,Tropism,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0243052,C0678209,AFFECTS,Virus Physiological Phenomena,Adaptive Immunity,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0243176,C0243144,AFFECTS,chemical composition,Uptake,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0282113,C0020119,AFFECTS,Sustainable Development,Human Development,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0337005,C0020964,AFFECTS,Cold weather,Immunity,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0337007,C0020964,AFFECTS,High humidity,Immunity,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0376525,C0026820,AFFECTS,Dimerization,Muscle Contraction,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0376534,C0678749,AFFECTS,Electrostatics,drug binding,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C0376706,C0005775,AFFECTS,Mechanics,Blood Circulation,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0428692,C0020964,AFFECTS,Ambient temperature,Immunity,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0442540,C0243144,AFFECTS,Streams,Uptake,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0450030,C0035203,AFFECTS,Fog,Respiration,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0459800,C4520800,AFFECTS,Vibration - physical agent,Hydration,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0563533,C0232338,AFFECTS,Magnetic Fields,Blood flow,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0563597,C0231999,AFFECTS,Momentum,Airflow,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0596483,C0243144,AFFECTS,Electric potential (physical force),Uptake,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C0678568,C0232338,AFFECTS,Cool - action,Blood flow,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0679215,C0035203,AFFECTS,health and disease,Respiration,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0681778,C0678686,AFFECTS,monsoon,Dormancy,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0681779,C0035203,AFFECTS,atmospheric condition,Respiration,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0687712,C4520800,AFFECTS,warming process,Hydration,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0806140,C0005775,AFFECTS,Flow,Blood Circulation,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0806140,C0035203,AFFECTS,Flow,Respiration,npop,phsf,5,AFFECTS_NPOPafctPHSF
+C0806140,C0040480,AFFECTS,Flow,"Musculoskeletal torsion, function",npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0806140,C0232338,AFFECTS,Flow,Blood flow,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0806140,C0243144,AFFECTS,Flow,Uptake,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C0806140,C0442696,AFFECTS,Flow,Waking,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0851346,C0035245,AFFECTS,Radiation,Respiratory physiology,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0851346,C0870882,AFFECTS,Radiation,metabolic rates,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0851346,C2945684,AFFECTS,Radiation,pulmonary effects,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C0871974,C0221102,AFFECTS,environmental effects,Excretory function,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C1257749,C0243056,AFFECTS,Herb-Drug Interactions,Plant Physiological Phenomena,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C2348693,C0042380,AFFECTS,Flux,Vascular resistance,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C2718051,C0020964,AFFECTS,Climate Change,Immunity,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C2936412,C0020964,AFFECTS,Host Specificity,Immunity,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C2936412,C0242732,AFFECTS,Host Specificity,Tropism,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C2936412,C1328821,AFFECTS,Host Specificity,tissue tropism,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C2936412,C2717801,AFFECTS,Host Specificity,Viral Tropism,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C2936413,C0020964,AFFECTS,Host Range,Immunity,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C3661513,C0149784,AFFECTS,Osmotic Stress,biological adaptation to stress,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C3826426,C0035203,AFFECTS,Dynamics,Respiration,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C3826426,C0243144,AFFECTS,Dynamics,Uptake,npop,phsf,2,AFFECTS_NPOPafctPHSF
+C4551660,C0020964,AFFECTS,Virus Host Interactions,Immunity,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C4551660,C0282498,AFFECTS,Virus Host Interactions,Heat-Shock Response,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C4551660,C1514892,AFFECTS,Virus Host Interactions,Resistance Process,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C4551660,C2717801,AFFECTS,Virus Host Interactions,Viral Tropism,npop,phsf,1,AFFECTS_NPOPafctPHSF
+C4759724,C0040480,AFFECTS,Hydrogen Bonds,"Musculoskeletal torsion, function",npop,phsf,1,AFFECTS_NPOPafctPHSF
+C5142674,C0020964,AFFECTS,Severe weather event,Immunity,npop,phsf,1,AFFECTS_NPOPafctPHSF

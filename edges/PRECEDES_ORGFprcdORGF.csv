@@ -1,0 +1,99 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000934,C0011065,PRECEDES,Acclimatization,Cessation of life,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0000934,C0018270,PRECEDES,Acclimatization,Growth,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0003618,C0011065,PRECEDES,Desire for food,Cessation of life,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0004048,C0006106,PRECEDES,Inspiration function,Brain Chemistry,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0004048,C0037817,PRECEDES,Inspiration function,Speech,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0004048,C0231795,PRECEDES,Inspiration function,Normal respiratory function,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0004048,C0231800,PRECEDES,Inspiration function,"Expiration, function",orgf,orgf,6,PRECEDES_ORGFprcdORGF
+C0004048,C0678723,PRECEDES,Inspiration function,Biologic Development,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0004048,C1260875,PRECEDES,Inspiration function,mating,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C0006147,PRECEDES,Birth,Breast Feeding,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C0009637,PRECEDES,Birth,Conception,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C0011065,PRECEDES,Birth,Cessation of life,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C0014948,PRECEDES,Birth,Estrus,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0005615,C0022864,PRECEDES,Birth,Labor (Childbirth),orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0005615,C0026649,PRECEDES,Birth,Movement,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C0032961,PRECEDES,Birth,Pregnancy,orgf,orgf,6,PRECEDES_ORGFprcdORGF
+C0005615,C0233081,PRECEDES,Birth,Normal labor,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C0678726,PRECEDES,Birth,Prenatal development,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C0950151,PRECEDES,Birth,Estrous Cycle,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0005615,C1135598,PRECEDES,Birth,postnatal development,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0005615,C1148523,PRECEDES,Birth,Childbirth,orgf,orgf,5,PRECEDES_ORGFprcdORGF
+C0005615,C1260875,PRECEDES,Birth,mating,orgf,orgf,3,PRECEDES_ORGFprcdORGF
+C0006159,C0009253,PRECEDES,Breeding,Coitus,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0006159,C0014948,PRECEDES,Breeding,Estrus,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0006159,C0282576,PRECEDES,Breeding,Molting,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0006159,C0677482,PRECEDES,Breeding,Parasitism,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0009253,C0015914,PRECEDES,Coitus,Fertilization,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0009637,C0032961,PRECEDES,Conception,Pregnancy,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0011065,C0018270,PRECEDES,Cessation of life,Growth,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0011065,C0037817,PRECEDES,Cessation of life,Speech,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0011065,C0699900,PRECEDES,Cessation of life,Catabolism,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0011135,C0013470,PRECEDES,Defecation,Eating,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0011167,C0004048,PRECEDES,Deglutition,Inspiration function,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0011167,C0013470,PRECEDES,Deglutition,Eating,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0011167,C0037361,PRECEDES,Deglutition,Smell Perception,orgf,orgf,4,PRECEDES_ORGFprcdORGF
+C0011167,C0231800,PRECEDES,Deglutition,"Expiration, function",orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0012238,C0032961,PRECEDES,Digestion,Pregnancy,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0012238,C0043240,PRECEDES,Digestion,Wound Healing,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0013470,C0003618,PRECEDES,Eating,Desire for food,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0013470,C0008810,PRECEDES,Eating,Circadian Rhythms,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0013470,C0011065,PRECEDES,Eating,Cessation of life,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0013470,C0011135,PRECEDES,Eating,Defecation,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0013470,C0042034,PRECEDES,Eating,Urination,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0014948,C0015914,PRECEDES,Estrus,Fertilization,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0014948,C0033274,PRECEDES,Estrus,Proestrus,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0015914,C0032961,PRECEDES,Fertilization,Pregnancy,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0015914,C0598016,PRECEDES,Fertilization,hatching,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0015914,C0678723,PRECEDES,Fertilization,Biologic Development,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0018270,C0005615,PRECEDES,Growth,Birth,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0018270,C0011065,PRECEDES,Growth,Cessation of life,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0020967,C1749719,PRECEDES,Humoral Immunity,Adaptive Immune Response,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0021144,C0006159,PRECEDES,Inbreeding,Breeding,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0024888,C0037361,PRECEDES,Chewing,Smell Perception,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0026649,C0004048,PRECEDES,Movement,Inspiration function,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0031807,C0004048,PRECEDES,Physical Exertion,Inspiration function,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0032961,C0005615,PRECEDES,Pregnancy,Birth,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0032961,C0025344,PRECEDES,Pregnancy,Menstruation,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0032961,C1148523,PRECEDES,Pregnancy,Childbirth,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0033274,C0014948,PRECEDES,Proestrus,Estrus,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0033421,C0004048,PRECEDES,Pronation,Inspiration function,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0042034,C0011135,PRECEDES,Urination,Defecation,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0043240,C0005615,PRECEDES,Wound Healing,Birth,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0043240,C0011065,PRECEDES,Wound Healing,Cessation of life,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C0231795,C0231800,PRECEDES,Normal respiratory function,"Expiration, function",orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0231800,C1148523,PRECEDES,"Expiration, function",Childbirth,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0282576,C0013470,PRECEDES,Molting,Eating,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0282576,C0015914,PRECEDES,Molting,Fertilization,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0282576,C0035150,PRECEDES,Molting,Reproduction,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0474461,C0005615,PRECEDES,Spontaneous onset of labor,Birth,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0598016,C0012238,PRECEDES,hatching,Digestion,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0678723,C0018270,PRECEDES,Biologic Development,Growth,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0678723,C0029957,PRECEDES,Biologic Development,Oviposition,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C0699900,C0025516,PRECEDES,Catabolism,"Metabolic Detoxication, Drug",orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1148523,C0001400,PRECEDES,Childbirth,"Adaptation, Physiological",orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1148523,C0004048,PRECEDES,Childbirth,Inspiration function,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1148523,C0005615,PRECEDES,Childbirth,Birth,orgf,orgf,7,PRECEDES_ORGFprcdORGF
+C1148523,C0005823,PRECEDES,Childbirth,Blood Pressure,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C1148523,C0006147,PRECEDES,Childbirth,Breast Feeding,orgf,orgf,7,PRECEDES_ORGFprcdORGF
+C1148523,C0011065,PRECEDES,Childbirth,Cessation of life,orgf,orgf,4,PRECEDES_ORGFprcdORGF
+C1148523,C0018270,PRECEDES,Childbirth,Growth,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1148523,C0022864,PRECEDES,Childbirth,Labor (Childbirth),orgf,orgf,4,PRECEDES_ORGFprcdORGF
+C1148523,C0032961,PRECEDES,Childbirth,Pregnancy,orgf,orgf,26,PRECEDES_ORGFprcdORGF
+C1148523,C0598016,PRECEDES,Childbirth,hatching,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1148523,C0678121,PRECEDES,Childbirth,Basal metabolic rate,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1148523,C0699900,PRECEDES,Childbirth,Catabolism,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1148523,C1260875,PRECEDES,Childbirth,mating,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1148523,C1314680,PRECEDES,Childbirth,"Non-human parturition, function",orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1154978,C0000934,PRECEDES,cold acclimation,Acclimatization,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1260875,C0005615,PRECEDES,mating,Birth,orgf,orgf,2,PRECEDES_ORGFprcdORGF
+C1260875,C0014948,PRECEDES,mating,Estrus,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1260875,C0015895,PRECEDES,mating,Fertility,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1260875,C0015914,PRECEDES,mating,Fertilization,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1260875,C0032961,PRECEDES,mating,Pregnancy,orgf,orgf,5,PRECEDES_ORGFprcdORGF
+C1260875,C2985494,PRECEDES,mating,Resorption,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1314680,C0032961,PRECEDES,"Non-human parturition, function",Pregnancy,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C1516559,C0011065,PRECEDES,Circulatory Process,Cessation of life,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C2584321,C0011065,PRECEDES,Reaching,Cessation of life,orgf,orgf,1,PRECEDES_ORGFprcdORGF
+C2584321,C0560560,PRECEDES,Reaching,Moving,orgf,orgf,1,PRECEDES_ORGFprcdORGF

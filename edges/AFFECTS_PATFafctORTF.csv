@@ -1,0 +1,251 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001122,C0036658,AFFECTS,Acidosis,Esthesia,patf,ortf,1,AFFECTS_PATFafctORTF
+C0001122,C0162337,AFFECTS,Acidosis,Vascular Permeability,patf,ortf,1,AFFECTS_PATFafctORTF
+C0001122,C0232164,AFFECTS,Acidosis,Cardiac function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0001122,C0683212,AFFECTS,Acidosis,central nervous system function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0001349,C0520990,AFFECTS,Acute-Phase Reaction,Host defense,patf,ortf,1,AFFECTS_PATFafctORTF
+C0001511,C0231940,AFFECTS,Tissue Adhesions,Alveolar ventilation function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0001511,C0301872,AFFECTS,Tissue Adhesions,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0001511,C1623047,AFFECTS,Tissue Adhesions,tissue regeneration,patf,ortf,1,AFFECTS_PATFafctORTF
+C0002994,C0042401,AFFECTS,Angioedema,Vasodilation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0002994,C0162337,AFFECTS,Angioedema,Vascular Permeability,patf,ortf,1,AFFECTS_PATFafctORTF
+C0003130,C0683212,AFFECTS,Anoxia,central nervous system function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0004144,C0231940,AFFECTS,Atelectasis,Alveolar ventilation function,patf,ortf,2,AFFECTS_PATFafctORTF
+C0006663,C0029433,AFFECTS,Calcinosis,Osteogenesis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0006663,C0085268,AFFECTS,Calcinosis,Bone remodeling,patf,ortf,1,AFFECTS_PATFafctORTF
+C0006663,C0598067,AFFECTS,Calcinosis,Chondrogenesis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0010828,C0600554,AFFECTS,Cytopenia,Graft vs Leukemia Effect,patf,ortf,1,AFFECTS_PATFafctORTF
+C0011071,C0034057,AFFECTS,Sudden death,Pulmonary Circulation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0011164,C0027540,AFFECTS,Abnormal degeneration,Necrosis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0011304,C1160340,AFFECTS,Demyelination,brain development,patf,ortf,1,AFFECTS_PATFafctORTF
+C0012359,C0024112,AFFECTS,Pathological Dilatation,Lung Compliance,patf,ortf,1,AFFECTS_PATFafctORTF
+C0012359,C0232164,AFFECTS,Pathological Dilatation,Cardiac function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0013604,C0021838,AFFECTS,Edema,Intestinal Motility,patf,ortf,1,AFFECTS_PATFafctORTF
+C0013604,C0021880,AFFECTS,Edema,Intracranial Pressure,patf,ortf,1,AFFECTS_PATFafctORTF
+C0013604,C0024112,AFFECTS,Edema,Lung Compliance,patf,ortf,2,AFFECTS_PATFafctORTF
+C0013604,C0027540,AFFECTS,Edema,Necrosis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0013604,C0079043,AFFECTS,Edema,Bronchoconstriction,patf,ortf,2,AFFECTS_PATFafctORTF
+C0013604,C0162336,AFFECTS,Edema,"Permeability, Microvascular",patf,ortf,2,AFFECTS_PATFafctORTF
+C0013604,C0162337,AFFECTS,Edema,Vascular Permeability,patf,ortf,2,AFFECTS_PATFafctORTF
+C0013687,C0232164,AFFECTS,effusion,Cardiac function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0015376,C0032173,AFFECTS,Extravasation,Platelet Activation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0016059,C0042396,AFFECTS,Fibrosis,Vascular constriction (function),patf,ortf,8,AFFECTS_PATFafctORTF
+C0016059,C0231921,AFFECTS,Fibrosis,Pulmonary function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0016059,C0302600,AFFECTS,Fibrosis,Angiogenic Process,patf,ortf,1,AFFECTS_PATFafctORTF
+C0016059,C0520990,AFFECTS,Fibrosis,Host defense,patf,ortf,1,AFFECTS_PATFafctORTF
+C0018188,C0027540,AFFECTS,Granuloma,Necrosis,patf,ortf,2,AFFECTS_PATFafctORTF
+C0019080,C0019010,AFFECTS,Hemorrhage,Hemodynamics,patf,ortf,2,AFFECTS_PATFafctORTF
+C0019080,C0019116,AFFECTS,Hemorrhage,Hemostatic function,patf,ortf,4,AFFECTS_PATFafctORTF
+C0019080,C0027540,AFFECTS,Hemorrhage,Necrosis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0019080,C0231921,AFFECTS,Hemorrhage,Pulmonary function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020517,C0036658,AFFECTS,Hypersensitivity,Esthesia,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020517,C0301872,AFFECTS,Hypersensitivity,Immune response,patf,ortf,2,AFFECTS_PATFafctORTF
+C0020517,C0598067,AFFECTS,Hypersensitivity,Chondrogenesis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020517,C1817756,AFFECTS,Hypersensitivity,Immune System Processes,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020523,C0311437,AFFECTS,Immediate hypersensitivity,Exudation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020542,C0019010,AFFECTS,Pulmonary Hypertension,Hemodynamics,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020542,C0080311,AFFECTS,Pulmonary Hypertension,"Ventricular Function, Right",patf,ortf,1,AFFECTS_PATFafctORTF
+C0020542,C0231940,AFFECTS,Pulmonary Hypertension,Alveolar ventilation function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020542,C4236506,AFFECTS,Pulmonary Hypertension,pulmonary blood vessel remodeling,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020564,C0028853,AFFECTS,Hypertrophy,Ocular Physiological Phenomena,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020564,C0042401,AFFECTS,Hypertrophy,Vasodilation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020564,C0598067,AFFECTS,Hypertrophy,Chondrogenesis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020581,C0019116,AFFECTS,Hyphema,Hemostatic function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020963,C0018129,AFFECTS,Immune Tolerance,Graft Rejection,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020963,C0301872,AFFECTS,Immune Tolerance,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0020963,C0683201,AFFECTS,Immune Tolerance,specific immunity,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021308,C0872339,AFFECTS,Infarction,cerebellar circulation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021359,C0231921,AFFECTS,Infertility,Pulmonary function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021359,C0301872,AFFECTS,Infertility,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021368,C0005856,AFFECTS,Inflammation,Blood-Testis Barrier,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021368,C0019010,AFFECTS,Inflammation,Hemodynamics,patf,ortf,2,AFFECTS_PATFafctORTF
+C0021368,C0019116,AFFECTS,Inflammation,Hemostatic function,patf,ortf,2,AFFECTS_PATFafctORTF
+C0021368,C0027540,AFFECTS,Inflammation,Necrosis,patf,ortf,2,AFFECTS_PATFafctORTF
+C0021368,C0032173,AFFECTS,Inflammation,Platelet Activation,patf,ortf,3,AFFECTS_PATFafctORTF
+C0021368,C0034057,AFFECTS,Inflammation,Pulmonary Circulation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021368,C0036658,AFFECTS,Inflammation,Esthesia,patf,ortf,2,AFFECTS_PATFafctORTF
+C0021368,C0042396,AFFECTS,Inflammation,Vascular constriction (function),patf,ortf,3,AFFECTS_PATFafctORTF
+C0021368,C0042401,AFFECTS,Inflammation,Vasodilation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021368,C0079043,AFFECTS,Inflammation,Bronchoconstriction,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021368,C0086571,AFFECTS,Inflammation,Lung Capacities,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021368,C0162337,AFFECTS,Inflammation,Vascular Permeability,patf,ortf,3,AFFECTS_PATFafctORTF
+C0021368,C0206249,AFFECTS,Inflammation,Long-Term Potentiation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021368,C0231921,AFFECTS,Inflammation,Pulmonary function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021368,C0282558,AFFECTS,Inflammation,"Immunity, Mucosal",patf,ortf,1,AFFECTS_PATFafctORTF
+C0021368,C0301872,AFFECTS,Inflammation,Immune response,patf,ortf,24,AFFECTS_PATFafctORTF
+C0021368,C0302600,AFFECTS,Inflammation,Angiogenic Process,patf,ortf,2,AFFECTS_PATFafctORTF
+C0021368,C0520990,AFFECTS,Inflammation,Host defense,patf,ortf,2,AFFECTS_PATFafctORTF
+C0021368,C0544633,AFFECTS,Inflammation,"Modulation, cellular",patf,ortf,1,AFFECTS_PATFafctORTF
+C0021368,C0678881,AFFECTS,Inflammation,testicular function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021368,C1373178,AFFECTS,Inflammation,Hepatic Metabolism,patf,ortf,2,AFFECTS_PATFafctORTF
+C0021368,C1511806,AFFECTS,Inflammation,Developmental process,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021368,C1623047,AFFECTS,Inflammation,tissue regeneration,patf,ortf,2,AFFECTS_PATFafctORTF
+C0021368,C1817756,AFFECTS,Inflammation,Immune System Processes,patf,ortf,2,AFFECTS_PATFafctORTF
+C0021368,C2262992,AFFECTS,Inflammation,primitive hemopoiesis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021375,C0301872,AFFECTS,allergic inflammation,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021376,C0025962,AFFECTS,Chronic inflammation,Microcirculation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021376,C0027540,AFFECTS,Chronic inflammation,Necrosis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021376,C0231921,AFFECTS,Chronic inflammation,Pulmonary function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021376,C0301872,AFFECTS,Chronic inflammation,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021376,C0302600,AFFECTS,Chronic inflammation,Angiogenic Process,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021376,C0520990,AFFECTS,Chronic inflammation,Host defense,patf,ortf,1,AFFECTS_PATFafctORTF
+C0021376,C0678897,AFFECTS,Chronic inflammation,hypothalamic pituitary axis,patf,ortf,2,AFFECTS_PATFafctORTF
+C0021376,C1817756,AFFECTS,Chronic inflammation,Immune System Processes,patf,ortf,2,AFFECTS_PATFafctORTF
+C0021655,C0301872,AFFECTS,Insulin Resistance,Immune response,patf,ortf,3,AFFECTS_PATFafctORTF
+C0021890,C0019010,AFFECTS,Intraoperative Complications,Hemodynamics,patf,ortf,1,AFFECTS_PATFafctORTF
+C0022116,C0027540,AFFECTS,Ischemia,Necrosis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0024348,C0301872,AFFECTS,Lysis,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0026766,C0034057,AFFECTS,Multiple Organ Failure,Pulmonary Circulation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0026766,C0231940,AFFECTS,Multiple Organ Failure,Alveolar ventilation function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0026766,C0301872,AFFECTS,Multiple Organ Failure,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0026766,C0428174,AFFECTS,Multiple Organ Failure,Hemoglobin saturation with oxygen,patf,ortf,1,AFFECTS_PATFafctORTF
+C0026846,C0231484,AFFECTS,Muscular Atrophy,Muscle function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0028778,C0025962,AFFECTS,Obstruction,Microcirculation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0028778,C0036658,AFFECTS,Obstruction,Esthesia,patf,ortf,1,AFFECTS_PATFafctORTF
+C0028778,C0234557,AFFECTS,Obstruction,Cerebrospinal fluid circulation,patf,ortf,2,AFFECTS_PATFafctORTF
+C0030660,C0231484,AFFECTS,Pathologic Processes,Muscle function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0030660,C0302600,AFFECTS,Pathologic Processes,Angiogenic Process,patf,ortf,1,AFFECTS_PATFafctORTF
+C0034063,C0024112,AFFECTS,Pulmonary Edema,Lung Compliance,patf,ortf,1,AFFECTS_PATFafctORTF
+C0034063,C0162337,AFFECTS,Pulmonary Edema,Vascular Permeability,patf,ortf,1,AFFECTS_PATFafctORTF
+C0034063,C0231921,AFFECTS,Pulmonary Edema,Pulmonary function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0034063,C0231940,AFFECTS,Pulmonary Edema,Alveolar ventilation function,patf,ortf,3,AFFECTS_PATFafctORTF
+C0034088,C0232741,AFFECTS,Pulmonary Valve Insufficiency,Liver function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0036974,C0025962,AFFECTS,Shock,Microcirculation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0036974,C0162336,AFFECTS,Shock,"Permeability, Microvascular",patf,ortf,2,AFFECTS_PATFafctORTF
+C0036974,C0231940,AFFECTS,Shock,Alveolar ventilation function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0036974,C0232139,AFFECTS,Shock,Peripheral pulse,patf,ortf,1,AFFECTS_PATFafctORTF
+C0036974,C0232164,AFFECTS,Shock,Cardiac function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0036974,C0599323,AFFECTS,Shock,intratracheal pressure,patf,ortf,1,AFFECTS_PATFafctORTF
+C0036980,C0019010,AFFECTS,"Shock, Cardiogenic",Hemodynamics,patf,ortf,1,AFFECTS_PATFafctORTF
+C0036981,C0231940,AFFECTS,Endotoxic shock,Alveolar ventilation function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0036983,C0007227,AFFECTS,Septic Shock,Cardiovascular Physiological Phenomena,patf,ortf,1,AFFECTS_PATFafctORTF
+C0036983,C0019010,AFFECTS,Septic Shock,Hemodynamics,patf,ortf,1,AFFECTS_PATFafctORTF
+C0036983,C0025962,AFFECTS,Septic Shock,Microcirculation,patf,ortf,4,AFFECTS_PATFafctORTF
+C0036983,C0301872,AFFECTS,Septic Shock,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0040053,C0019116,AFFECTS,Thrombosis,Hemostatic function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0040053,C0025962,AFFECTS,Thrombosis,Microcirculation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0040053,C0032173,AFFECTS,Thrombosis,Platelet Activation,patf,ortf,2,AFFECTS_PATFafctORTF
+C0042755,C0232741,AFFECTS,Abnormal Virilization,Liver function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0079581,C0232552,AFFECTS,Hypochlorhydria,Gastric acid secretion,patf,ortf,1,AFFECTS_PATFafctORTF
+C0085298,C0080310,AFFECTS,Sudden Cardiac Death,Left Ventricular Function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0087086,C0162337,AFFECTS,Thrombus,Vascular Permeability,patf,ortf,1,AFFECTS_PATFafctORTF
+C0151526,C0231940,AFFECTS,Premature Birth,Alveolar ventilation function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0151526,C0301872,AFFECTS,Premature Birth,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0151701,C0231921,AFFECTS,Pulmonary hemorrhage,Pulmonary function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0151763,C0232741,AFFECTS,Liver damage,Liver function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0151763,C0301872,AFFECTS,Liver damage,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0152254,C1373178,AFFECTS,Fatty degeneration,Hepatic Metabolism,patf,ortf,1,AFFECTS_PATFafctORTF
+C0220981,C0019010,AFFECTS,Metabolic acidosis,Hemodynamics,patf,ortf,1,AFFECTS_PATFafctORTF
+C0220981,C1373178,AFFECTS,Metabolic acidosis,Hepatic Metabolism,patf,ortf,1,AFFECTS_PATFafctORTF
+C0231302,C0019010,AFFECTS,Physical stress,Hemodynamics,patf,ortf,1,AFFECTS_PATFafctORTF
+C0232342,C0231940,AFFECTS,Decreased vascular flow,Alveolar ventilation function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0232342,C0678860,AFFECTS,Decreased vascular flow,systemic blood circulation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0235063,C0019010,AFFECTS,Respiratory Depression,Hemodynamics,patf,ortf,1,AFFECTS_PATFafctORTF
+C0235395,C0019010,AFFECTS,Fluid loss,Hemodynamics,patf,ortf,1,AFFECTS_PATFafctORTF
+C0235395,C0021880,AFFECTS,Fluid loss,Intracranial Pressure,patf,ortf,1,AFFECTS_PATFafctORTF
+C0235957,C1258017,AFFECTS,myonecrosis,Heart Contractility,patf,ortf,1,AFFECTS_PATFafctORTF
+C0242184,C0005778,AFFECTS,Hypoxia,Blood coagulation,patf,ortf,2,AFFECTS_PATFafctORTF
+C0242184,C0007818,AFFECTS,Hypoxia,Cerebrovascular Circulation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0242184,C0021880,AFFECTS,Hypoxia,Intracranial Pressure,patf,ortf,1,AFFECTS_PATFafctORTF
+C0242184,C0027540,AFFECTS,Hypoxia,Necrosis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0242184,C0042396,AFFECTS,Hypoxia,Vascular constriction (function),patf,ortf,5,AFFECTS_PATFafctORTF
+C0242184,C0042401,AFFECTS,Hypoxia,Vasodilation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0242184,C0231921,AFFECTS,Hypoxia,Pulmonary function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0242184,C0231940,AFFECTS,Hypoxia,Alveolar ventilation function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0242184,C0232164,AFFECTS,Hypoxia,Cardiac function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0242184,C0302600,AFFECTS,Hypoxia,Angiogenic Process,patf,ortf,1,AFFECTS_PATFafctORTF
+C0242184,C3850148,AFFECTS,Hypoxia,Vascular Remodeling,patf,ortf,1,AFFECTS_PATFafctORTF
+C0242648,C0032058,AFFECTS,Vertical Disease Transmission,Placentation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0242656,C0042396,AFFECTS,Disease Progression,Vascular constriction (function),patf,ortf,1,AFFECTS_PATFafctORTF
+C0242656,C0234112,AFFECTS,Disease Progression,Facilitation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0242656,C0301872,AFFECTS,Disease Progression,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0243083,C0301872,AFFECTS,associated disease,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0243087,C0301872,AFFECTS,concomitant disease,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0268000,C0042396,AFFECTS,Body fluid retention,Vascular constriction (function),patf,ortf,1,AFFECTS_PATFafctORTF
+C0268000,C2917275,AFFECTS,Body fluid retention,Increased Coagulation Activity,patf,ortf,1,AFFECTS_PATFafctORTF
+C0302158,C0027540,AFFECTS,Leucocytic infiltrate,Necrosis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0302158,C0301872,AFFECTS,Leucocytic infiltrate,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0332448,C0025962,AFFECTS,Infiltration,Microcirculation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0332448,C0026841,AFFECTS,Infiltration,Muscle Tonus,patf,ortf,1,AFFECTS_PATFafctORTF
+C0332448,C0027540,AFFECTS,Infiltration,Necrosis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0332448,C0162337,AFFECTS,Infiltration,Vascular Permeability,patf,ortf,1,AFFECTS_PATFafctORTF
+C0332448,C0301872,AFFECTS,Infiltration,Immune response,patf,ortf,5,AFFECTS_PATFafctORTF
+C0332448,C2246986,AFFECTS,Infiltration,skin barrier function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0333138,C0232618,AFFECTS,Stasis,Small bowel motility,patf,ortf,1,AFFECTS_PATFafctORTF
+C0333257,C0035230,AFFECTS,Air leakage,Respiratory Mechanics,patf,ortf,1,AFFECTS_PATFafctORTF
+C0333471,C0029965,AFFECTS,Collagenolysis,Ovulation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0334094,C0018951,AFFECTS,Proliferation (morphologic abnormality),Hematopoiesis,patf,ortf,1,AFFECTS_PATFafctORTF
+C0334094,C0301872,AFFECTS,Proliferation (morphologic abnormality),Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0340515,C0080310,AFFECTS,Myocardial dysfunction,Left Ventricular Function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0342299,C0301872,AFFECTS,Poor glycemic control,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0342300,C0301872,AFFECTS,Chronic hyperglycemia,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0342579,C0232164,AFFECTS,Electrolyte imbalance,Cardiac function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0392106,C0018131,AFFECTS,Hepatic artery thrombosis,Graft Survival,patf,ortf,3,AFFECTS_PATFafctORTF
+C0392618,C0232804,AFFECTS,Postoperative infection,Renal function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0443146,C0301872,AFFECTS,Autoimmune reaction,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0449430,C1511806,AFFECTS,Physiological Stress,Developmental process,patf,ortf,1,AFFECTS_PATFafctORTF
+C0456057,C1817756,AFFECTS,Fetal stress,Immune System Processes,patf,ortf,1,AFFECTS_PATFafctORTF
+C0476474,C0231940,AFFECTS,persistent fever,Alveolar ventilation function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0546817,C0019010,AFFECTS,Fluid overload,Hemodynamics,patf,ortf,1,AFFECTS_PATFafctORTF
+C0546817,C0080310,AFFECTS,Fluid overload,Left Ventricular Function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0546817,C0231940,AFFECTS,Fluid overload,Alveolar ventilation function,patf,ortf,1,AFFECTS_PATFafctORTF
+C0599949,C0042401,AFFECTS,Arterial Stiffness,Vasodilation,patf,ortf,1,AFFECTS_PATFafctORTF
+C0679221,C0027880,AFFECTS,hypofunction,Neuronal Plasticity,patf,ortf,2,AFFECTS_PATFafctORTF
+C0700148,C0034965,AFFECTS,Congestion,Regional Blood Flow,patf,ortf,1,AFFECTS_PATFafctORTF
+C0702120,C0301872,AFFECTS,Spongiosis,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C0749225,C1258017,AFFECTS,Systolic dysfunction,Heart Contractility,patf,ortf,1,AFFECTS_PATFafctORTF
+C0919661,C0035070,AFFECTS,alternation,Renal Circulation,patf,ortf,1,AFFECTS_PATFafctORTF
+C1096176,C0301872,AFFECTS,Mitochondrial Damage,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C1142264,C0302600,AFFECTS,critical limb ischemia,Angiogenic Process,patf,ortf,1,AFFECTS_PATFafctORTF
+C1155266,C0019116,AFFECTS,Inflammatory Response,Hemostatic function,patf,ortf,1,AFFECTS_PATFafctORTF
+C1155266,C0027540,AFFECTS,Inflammatory Response,Necrosis,patf,ortf,1,AFFECTS_PATFafctORTF
+C1155266,C0036658,AFFECTS,Inflammatory Response,Esthesia,patf,ortf,1,AFFECTS_PATFafctORTF
+C1155266,C0039336,AFFECTS,Inflammatory Response,Taste Perception,patf,ortf,1,AFFECTS_PATFafctORTF
+C1155266,C0042401,AFFECTS,Inflammatory Response,Vasodilation,patf,ortf,1,AFFECTS_PATFafctORTF
+C1155266,C0162337,AFFECTS,Inflammatory Response,Vascular Permeability,patf,ortf,1,AFFECTS_PATFafctORTF
+C1155266,C0231940,AFFECTS,Inflammatory Response,Alveolar ventilation function,patf,ortf,1,AFFECTS_PATFafctORTF
+C1155266,C0301872,AFFECTS,Inflammatory Response,Immune response,patf,ortf,14,AFFECTS_PATFafctORTF
+C1155266,C1623047,AFFECTS,Inflammatory Response,tissue regeneration,patf,ortf,1,AFFECTS_PATFafctORTF
+C1155266,C1817756,AFFECTS,Inflammatory Response,Immune System Processes,patf,ortf,2,AFFECTS_PATFafctORTF
+C1155266,C1820269,AFFECTS,Inflammatory Response,artery morphogenesis,patf,ortf,1,AFFECTS_PATFafctORTF
+C1265763,C0006660,AFFECTS,Cystic dilatation,Physiologic calcification,patf,ortf,3,AFFECTS_PATFafctORTF
+C1373218,C0005856,AFFECTS,Decreased Immunologic Activity [PE],Blood-Testis Barrier,patf,ortf,1,AFFECTS_PATFafctORTF
+C1373218,C0018131,AFFECTS,Decreased Immunologic Activity [PE],Graft Survival,patf,ortf,1,AFFECTS_PATFafctORTF
+C1373218,C0018951,AFFECTS,Decreased Immunologic Activity [PE],Hematopoiesis,patf,ortf,1,AFFECTS_PATFafctORTF
+C1373218,C0019116,AFFECTS,Decreased Immunologic Activity [PE],Hemostatic function,patf,ortf,1,AFFECTS_PATFafctORTF
+C1373218,C0301872,AFFECTS,Decreased Immunologic Activity [PE],Immune response,patf,ortf,8,AFFECTS_PATFafctORTF
+C1383860,C0232164,AFFECTS,Cardiac Hypertrophy,Cardiac function,patf,ortf,1,AFFECTS_PATFafctORTF
+C1383860,C0600520,AFFECTS,Cardiac Hypertrophy,Left Ventricle Remodeling,patf,ortf,1,AFFECTS_PATFafctORTF
+C1514893,C0301872,AFFECTS,physiologic resolution,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C1518304,C0019010,AFFECTS,Neurotropism,Hemodynamics,patf,ortf,1,AFFECTS_PATFafctORTF
+C1518304,C0301872,AFFECTS,Neurotropism,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C1520005,C0301872,AFFECTS,Viral Pathogenesis,Immune response,patf,ortf,11,AFFECTS_PATFafctORTF
+C1520005,C1817756,AFFECTS,Viral Pathogenesis,Immune System Processes,patf,ortf,1,AFFECTS_PATFafctORTF
+C1527304,C0000936,AFFECTS,Allergic Reaction,Visual Accommodation,patf,ortf,1,AFFECTS_PATFafctORTF
+C1527304,C0079043,AFFECTS,Allergic Reaction,Bronchoconstriction,patf,ortf,1,AFFECTS_PATFafctORTF
+C1527304,C0301872,AFFECTS,Allergic Reaction,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C1817978,C0301872,AFFECTS,acute inflammatory response,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C1997614,C0019116,AFFECTS,Thromboembolism of vein,Hemostatic function,patf,ortf,2,AFFECTS_PATFafctORTF
+C2586211,C0027540,AFFECTS,Thrombosis of blood vessel,Necrosis,patf,ortf,1,AFFECTS_PATFafctORTF
+C2749202,C0017127,AFFECTS,Abnormal gastrointestinal motility,Gastric Emptying,patf,ortf,1,AFFECTS_PATFafctORTF
+C3658208,C0021838,AFFECTS,Dysbiosis,Intestinal Motility,patf,ortf,1,AFFECTS_PATFafctORTF
+C3658208,C0301872,AFFECTS,Dysbiosis,Immune response,patf,ortf,2,AFFECTS_PATFafctORTF
+C3714514,C0000936,AFFECTS,Infection,Visual Accommodation,patf,ortf,1,AFFECTS_PATFafctORTF
+C3714514,C0018951,AFFECTS,Infection,Hematopoiesis,patf,ortf,1,AFFECTS_PATFafctORTF
+C3714514,C0039336,AFFECTS,Infection,Taste Perception,patf,ortf,1,AFFECTS_PATFafctORTF
+C3714514,C0079043,AFFECTS,Infection,Bronchoconstriction,patf,ortf,1,AFFECTS_PATFafctORTF
+C3714514,C0231921,AFFECTS,Infection,Pulmonary function,patf,ortf,3,AFFECTS_PATFafctORTF
+C3714514,C0282558,AFFECTS,Infection,"Immunity, Mucosal",patf,ortf,1,AFFECTS_PATFafctORTF
+C3714514,C0301872,AFFECTS,Infection,Immune response,patf,ortf,29,AFFECTS_PATFafctORTF
+C3714514,C0520990,AFFECTS,Infection,Host defense,patf,ortf,5,AFFECTS_PATFafctORTF
+C3714514,C1160389,AFFECTS,Infection,Lung Development,patf,ortf,1,AFFECTS_PATFafctORTF
+C3714514,C1817756,AFFECTS,Infection,Immune System Processes,patf,ortf,3,AFFECTS_PATFafctORTF
+C3887486,C0231921,AFFECTS,Interstitial lung fibrosis,Pulmonary function,patf,ortf,1,AFFECTS_PATFafctORTF
+C3887640,C0678908,AFFECTS,Astrocytosis,brain function,patf,ortf,1,AFFECTS_PATFafctORTF
+C4061114,C0301872,AFFECTS,Acute illness,Immune response,patf,ortf,1,AFFECTS_PATFafctORTF
+C4505076,C0302600,AFFECTS,Capillary Rarefaction,Angiogenic Process,patf,ortf,1,AFFECTS_PATFafctORTF
+C4708791,C0019010,AFFECTS,Dysregulated host response,Hemodynamics,patf,ortf,1,AFFECTS_PATFafctORTF
+C4727713,C0025962,AFFECTS,Chemically-Induced Menopause,Microcirculation,patf,ortf,1,AFFECTS_PATFafctORTF
+C4743756,C0035230,AFFECTS,Intrauterine Exposure,Respiratory Mechanics,patf,ortf,1,AFFECTS_PATFafctORTF
+C5137640,C0599855,AFFECTS,neuroinflammatory response,neurodevelopment,patf,ortf,1,AFFECTS_PATFafctORTF
+C5137640,C0678908,AFFECTS,neuroinflammatory response,brain function,patf,ortf,1,AFFECTS_PATFafctORTF

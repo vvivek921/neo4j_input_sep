@@ -1,0 +1,31 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0008173,C0008203,INHIBITS,Chlorates,Chlorides,inch,inch,1,INHIBITS_INCHinhbINCH
+C0008173,C0136082,INHIBITS,Chlorates,perchlorate,inch,inch,1,INHIBITS_INCHinhbINCH
+C0008203,C0013832,INHIBITS,Chlorides,Electrolytes,inch,inch,1,INHIBITS_INCHinhbINCH
+C0009359,C0061791,INHIBITS,Gold Colloid,"gold tetrachloride, acid",inch,inch,1,INHIBITS_INCHinhbINCH
+C0016327,C0021966,INHIBITS,Fluorides,Iodides,inch,inch,1,INHIBITS_INCHinhbINCH
+C0016327,C0205679,INHIBITS,Fluorides,montmorrillonite,inch,inch,1,INHIBITS_INCHinhbINCH
+C0020281,C0020315,INHIBITS,hydrogen peroxide,Hydroxides,inch,inch,1,INHIBITS_INCHinhbINCH
+C0020281,C0043047,INHIBITS,hydrogen peroxide,water,inch,inch,3,INHIBITS_INCHinhbINCH
+C0020281,C0063146,INHIBITS,hydrogen peroxide,Hydroxyl Radical,inch,inch,1,INHIBITS_INCHinhbINCH
+C0021966,C0020281,INHIBITS,Iodides,hydrogen peroxide,inch,inch,1,INHIBITS_INCHinhbINCH
+C0031180,C0043047,INHIBITS,Peroxides,water,inch,inch,1,INHIBITS_INCHinhbINCH
+C0038784,C0043047,INHIBITS,sulfuric acid,water,inch,inch,1,INHIBITS_INCHinhbINCH
+C0042305,C0031603,INHIBITS,Vanadates,Phosphates,inch,inch,2,INHIBITS_INCHinhbINCH
+C0042305,C0206443,INHIBITS,Vanadates,Vanadium Compounds,inch,inch,1,INHIBITS_INCHinhbINCH
+C0043047,C0020746,INHIBITS,water,Ice,inch,inch,1,INHIBITS_INCHinhbINCH
+C0043047,C2350022,INHIBITS,water,Water Vapor,inch,inch,1,INHIBITS_INCHinhbINCH
+C0054476,C0021966,INHIBITS,calcium nitrate,Iodides,inch,inch,1,INHIBITS_INCHinhbINCH
+C0060282,C0010511,INHIBITS,ferrous sulfate,Cyanogen Bromide,inch,inch,1,INHIBITS_INCHinhbINCH
+C0074728,C0060240,INHIBITS,sodium borohydride,ferric oxide,inch,inch,1,INHIBITS_INCHinhbINCH
+C0074728,C0596259,INHIBITS,sodium borohydride,carbonyl group,inch,inch,1,INHIBITS_INCHinhbINCH
+C0136082,C0008173,INHIBITS,perchlorate,Chlorates,inch,inch,2,INHIBITS_INCHinhbINCH
+C0136082,C0008203,INHIBITS,perchlorate,Chlorides,inch,inch,1,INHIBITS_INCHinhbINCH
+C0136082,C0021966,INHIBITS,perchlorate,Iodides,inch,inch,1,INHIBITS_INCHinhbINCH
+C0141925,C0036580,INHIBITS,Selenate,selenite,inch,inch,1,INHIBITS_INCHinhbINCH
+C0163748,C0005367,INHIBITS,Diosmectite,Bicarbonates,inch,inch,1,INHIBITS_INCHinhbINCH
+C0163748,C0008203,INHIBITS,Diosmectite,Chlorides,inch,inch,1,INHIBITS_INCHinhbINCH
+C0163748,C0069590,INHIBITS,Diosmectite,ORALIT,inch,inch,1,INHIBITS_INCHinhbINCH
+C0596259,C0700307,INHIBITS,carbonyl group,hydroxyl group,inch,inch,1,INHIBITS_INCHinhbINCH
+C0700307,C0037129,INHIBITS,hydroxyl group,silver nitrate,inch,inch,1,INHIBITS_INCHinhbINCH
+C2919405,C0043047,INHIBITS,Tap water,water,inch,inch,1,INHIBITS_INCHinhbINCH

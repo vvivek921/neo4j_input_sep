@@ -1,0 +1,53 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001117,C0221102,AFFECTS,Acid-Base Equilibrium,Excretory function,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0005529,C0243144,AFFECTS,"Biological Transport, Active",Uptake,phsf,phsf,3,AFFECTS_PHSFafctPHSF
+C0005775,C0016017,AFFECTS,Blood Circulation,Fibrinolysis,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0005775,C0035203,AFFECTS,Blood Circulation,Respiration,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0005775,C0242732,AFFECTS,Blood Circulation,Tropism,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0016017,C0206502,AFFECTS,Fibrinolysis,Hemorheology,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0020964,C0035203,AFFECTS,Immunity,Respiration,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0020964,C0035245,AFFECTS,Immunity,Respiratory physiology,phsf,phsf,2,AFFECTS_PHSFafctPHSF
+C0020964,C0678209,AFFECTS,Immunity,Adaptive Immunity,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0020964,C0870882,AFFECTS,Immunity,metabolic rates,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0020964,C1135927,AFFECTS,Immunity,"Immunity, Herd",phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0020964,C1328821,AFFECTS,Immunity,tissue tropism,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0020964,C3714584,AFFECTS,Immunity,"Transformation, function",phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0026820,C1258192,AFFECTS,Muscle Contraction,Total Peripheral Resistance,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0035203,C0020964,AFFECTS,Respiration,Immunity,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0035203,C0231999,AFFECTS,Respiration,Airflow,phsf,phsf,2,AFFECTS_PHSFafctPHSF
+C0042380,C0232338,AFFECTS,Vascular resistance,Blood flow,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0042380,C3655549,AFFECTS,Vascular resistance,Perfusion Heart,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0149784,C0678209,AFFECTS,biological adaptation to stress,Adaptive Immunity,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0221102,C0814008,AFFECTS,Excretory function,drug retention,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0231999,C0035203,AFFECTS,Airflow,Respiration,phsf,phsf,4,AFFECTS_PHSFafctPHSF
+C0231999,C0035245,AFFECTS,Airflow,Respiratory physiology,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0232338,C0042380,AFFECTS,Blood flow,Vascular resistance,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0242732,C0020964,AFFECTS,Tropism,Immunity,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0243144,C0001117,AFFECTS,Uptake,Acid-Base Equilibrium,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0243144,C0020964,AFFECTS,Uptake,Immunity,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0243144,C0221102,AFFECTS,Uptake,Excretory function,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0243144,C1314973,AFFECTS,Uptake,Response to antigens,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0243144,C1511613,AFFECTS,Uptake,Cytokine Signaling Process,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0442696,C0035203,AFFECTS,Waking,Respiration,phsf,phsf,2,AFFECTS_PHSFafctPHSF
+C0442700,C0035203,AFFECTS,End-expiration,Respiration,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0596761,C0020964,AFFECTS,Immunosenescence,Immunity,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0596761,C0035245,AFFECTS,Immunosenescence,Respiratory physiology,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0678209,C0020964,AFFECTS,Adaptive Immunity,Immunity,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C0678662,C2262744,AFFECTS,regulatory loop,lipid homeostasis,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C1135927,C0020964,AFFECTS,"Immunity, Herd",Immunity,phsf,phsf,5,AFFECTS_PHSFafctPHSF
+C1258192,C0014272,AFFECTS,Total Peripheral Resistance,Energy Metabolism,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C1258192,C0149784,AFFECTS,Total Peripheral Resistance,biological adaptation to stress,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C1258192,C0232338,AFFECTS,Total Peripheral Resistance,Blood flow,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C1258192,C3655549,AFFECTS,Total Peripheral Resistance,Perfusion Heart,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C1314973,C0020964,AFFECTS,Response to antigens,Immunity,phsf,phsf,2,AFFECTS_PHSFafctPHSF
+C1512827,C0020964,AFFECTS,Interferon Signaling Process,Immunity,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C1512827,C0242599,AFFECTS,Interferon Signaling Process,Neutrophil Activation,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C1514892,C0020964,AFFECTS,Resistance Process,Immunity,phsf,phsf,2,AFFECTS_PHSFafctPHSF
+C2256362,C3714584,AFFECTS,system process,"Transformation, function",phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C2256369,C0005775,AFFECTS,heart process,Blood Circulation,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C2917212,C0009348,AFFECTS,Negative Regulation of Coagulation,Collateral Circulation,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C2917212,C3714584,AFFECTS,Negative Regulation of Coagulation,"Transformation, function",phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C3658217,C0020964,AFFECTS,"Immunity, Heterologous",Immunity,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C3714584,C0232338,AFFECTS,"Transformation, function",Blood flow,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C3714584,C0243144,AFFECTS,"Transformation, function",Uptake,phsf,phsf,1,AFFECTS_PHSFafctPHSF
+C4277517,C1328821,AFFECTS,Host Tropism,tissue tropism,phsf,phsf,1,AFFECTS_PHSFafctPHSF

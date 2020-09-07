@@ -1,0 +1,63 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003261,C0017262,AFFECTS,Antibody Formation,Gene Expression,biof,genf,1,AFFECTS_BIOFafctGENF
+C0003261,C0017263,AFFECTS,Antibody Formation,Gene Expression Regulation,biof,genf,1,AFFECTS_BIOFafctGENF
+C0003261,C0026882,AFFECTS,Antibody Formation,Mutation,biof,genf,1,AFFECTS_BIOFafctGENF
+C0013203,C0026882,AFFECTS,Drug resistance,Mutation,biof,genf,4,AFFECTS_BIOFafctGENF
+C0013203,C0525038,AFFECTS,Drug resistance,Amino Acid Substitution,biof,genf,1,AFFECTS_BIOFafctGENF
+C0013203,C0596611,AFFECTS,Drug resistance,Gene Mutation,biof,genf,1,AFFECTS_BIOFafctGENF
+C0019868,C0017262,AFFECTS,Homeostasis,Gene Expression,biof,genf,1,AFFECTS_BIOFafctGENF
+C0019868,C1516924,AFFECTS,Homeostasis,Epigenetic Process,biof,genf,1,AFFECTS_BIOFafctGENF
+C0042765,C0017262,AFFECTS,Virulence,Gene Expression,biof,genf,1,AFFECTS_BIOFafctGENF
+C0042765,C0017393,AFFECTS,Virulence,Genetic Markers,biof,genf,1,AFFECTS_BIOFafctGENF
+C0042765,C0026882,AFFECTS,Virulence,Mutation,biof,genf,7,AFFECTS_BIOFafctGENF
+C0042765,C0034865,AFFECTS,Virulence,"Recombination, Genetic",biof,genf,2,AFFECTS_BIOFafctGENF
+C0042765,C0040649,AFFECTS,Virulence,"Transcription, Genetic",biof,genf,3,AFFECTS_BIOFafctGENF
+C0042765,C0678945,AFFECTS,Virulence,polygene,biof,genf,1,AFFECTS_BIOFafctGENF
+C0042765,C2717776,AFFECTS,Virulence,Genetic Fitness,biof,genf,1,AFFECTS_BIOFafctGENF
+C0042765,C5197798,AFFECTS,Virulence,Codon Usage,biof,genf,3,AFFECTS_BIOFafctGENF
+C0220781,C0012899,AFFECTS,Anabolism,DNA Repair,biof,genf,1,AFFECTS_BIOFafctGENF
+C0220781,C0017262,AFFECTS,Anabolism,Gene Expression,biof,genf,2,AFFECTS_BIOFafctGENF
+C0220781,C0026882,AFFECTS,Anabolism,Mutation,biof,genf,2,AFFECTS_BIOFafctGENF
+C0220781,C0034865,AFFECTS,Anabolism,"Recombination, Genetic",biof,genf,1,AFFECTS_BIOFafctGENF
+C0220781,C0040649,AFFECTS,Anabolism,"Transcription, Genetic",biof,genf,8,AFFECTS_BIOFafctGENF
+C0220781,C0282572,AFFECTS,Anabolism,"Frameshifting, Ribosomal",biof,genf,7,AFFECTS_BIOFafctGENF
+C0220781,C0376437,AFFECTS,Anabolism,Protein Splicing,biof,genf,1,AFFECTS_BIOFafctGENF
+C0220781,C0597360,AFFECTS,Anabolism,receptor expression,biof,genf,1,AFFECTS_BIOFafctGENF
+C0220781,C0598312,AFFECTS,Anabolism,DNA Replication,biof,genf,1,AFFECTS_BIOFafctGENF
+C0220781,C1148846,AFFECTS,Anabolism,RNA Binding,biof,genf,2,AFFECTS_BIOFafctGENF
+C0220781,C1152412,AFFECTS,Anabolism,RNA-directed RNA polymerase activity,biof,genf,1,AFFECTS_BIOFafctGENF
+C0220781,C1158816,AFFECTS,Anabolism,mRNA transcription,biof,genf,1,AFFECTS_BIOFafctGENF
+C0220781,C1328949,AFFECTS,Anabolism,RNA replication,biof,genf,2,AFFECTS_BIOFafctGENF
+C0220781,C1511695,AFFECTS,Anabolism,DNA Sequence Rearrangement,biof,genf,3,AFFECTS_BIOFafctGENF
+C0220781,C1514559,AFFECTS,Anabolism,Protein Overexpression,biof,genf,1,AFFECTS_BIOFafctGENF
+C0220781,C1514849,AFFECTS,Anabolism,Replication-Associated Process,biof,genf,1,AFFECTS_BIOFafctGENF
+C0220781,C1519592,AFFECTS,Anabolism,Transcription Process,biof,genf,1,AFFECTS_BIOFafctGENF
+C0220781,C1519613,AFFECTS,Anabolism,Translation Initiation,biof,genf,2,AFFECTS_BIOFafctGENF
+C0220781,C1519614,AFFECTS,Anabolism,Genetic Translation Process,biof,genf,1,AFFECTS_BIOFafctGENF
+C0232478,C0040649,AFFECTS,Ingestion,"Transcription, Genetic",biof,genf,1,AFFECTS_BIOFafctGENF
+C0242290,C0040649,AFFECTS,Organogenesis,"Transcription, Genetic",biof,genf,1,AFFECTS_BIOFafctGENF
+C0282629,C0040649,AFFECTS,Virus Assembly,"Transcription, Genetic",biof,genf,1,AFFECTS_BIOFafctGENF
+C0282629,C0282630,AFFECTS,Virus Assembly,"Packaging, Virus",biof,genf,1,AFFECTS_BIOFafctGENF
+C0282629,C1158817,AFFECTS,Virus Assembly,viral transcription,biof,genf,1,AFFECTS_BIOFafctGENF
+C0282629,C1519614,AFFECTS,Virus Assembly,Genetic Translation Process,biof,genf,1,AFFECTS_BIOFafctGENF
+C0282688,C0026882,AFFECTS,"Evolution, Molecular",Mutation,biof,genf,1,AFFECTS_BIOFafctGENF
+C0520989,C0026882,AFFECTS,Viral resistance,Mutation,biof,genf,2,AFFECTS_BIOFafctGENF
+C1160638,C0040649,AFFECTS,Viral life cycle,"Transcription, Genetic",biof,genf,1,AFFECTS_BIOFafctGENF
+C1160638,C0162782,AFFECTS,Viral life cycle,RNA Editing,biof,genf,1,AFFECTS_BIOFafctGENF
+C1160638,C1148672,AFFECTS,Viral life cycle,Nucleic Acid Binding,biof,genf,1,AFFECTS_BIOFafctGENF
+C1160638,C1257825,AFFECTS,Viral life cycle,Genomic Stability,biof,genf,1,AFFECTS_BIOFafctGENF
+C1327622,C1158728,AFFECTS,Regulation of biological process,RNA Processing,biof,genf,1,AFFECTS_BIOFafctGENF
+C1537068,C0597360,AFFECTS,Virus Internalization,receptor expression,biof,genf,1,AFFECTS_BIOFafctGENF
+C1537068,C1171362,AFFECTS,Virus Internalization,protein expression,biof,genf,1,AFFECTS_BIOFafctGENF
+C1537068,C1328949,AFFECTS,Virus Internalization,RNA replication,biof,genf,2,AFFECTS_BIOFafctGENF
+C1721020,C1511695,AFFECTS,Virus Membrane Fusion,DNA Sequence Rearrangement,biof,genf,1,AFFECTS_BIOFafctGENF
+C3714634,C0002345,AFFECTS,Biological Processes,Alternative Splicing,biof,genf,1,AFFECTS_BIOFafctGENF
+C3714634,C0012899,AFFECTS,Biological Processes,DNA Repair,biof,genf,1,AFFECTS_BIOFafctGENF
+C3714634,C0017262,AFFECTS,Biological Processes,Gene Expression,biof,genf,5,AFFECTS_BIOFafctGENF
+C3714634,C0040649,AFFECTS,Biological Processes,"Transcription, Genetic",biof,genf,1,AFFECTS_BIOFafctGENF
+C3714634,C1148846,AFFECTS,Biological Processes,RNA Binding,biof,genf,1,AFFECTS_BIOFafctGENF
+C3714634,C1158744,AFFECTS,Biological Processes,RNA modification,biof,genf,1,AFFECTS_BIOFafctGENF
+C3714634,C1158770,AFFECTS,Biological Processes,Transcriptional Regulation,biof,genf,1,AFFECTS_BIOFafctGENF
+C3714634,C1519614,AFFECTS,Biological Processes,Genetic Translation Process,biof,genf,1,AFFECTS_BIOFafctGENF
+C3853734,C0017262,AFFECTS,viral process,Gene Expression,biof,genf,3,AFFECTS_BIOFafctGENF
+C3853734,C0917892,AFFECTS,viral process,Genetic Drift,biof,genf,1,AFFECTS_BIOFafctGENF

@@ -1,0 +1,8 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0015576,C5203670,DIAGNOSES,Family,COVID-19,famg,dsyn,1,DIAGNOSES_FAMGdiagDSYN
+C0030551,C0014009,DIAGNOSES,parent,Empyema,famg,dsyn,1,DIAGNOSES_FAMGdiagDSYN
+C0030551,C0018572,DIAGNOSES,parent,"Hand, Foot and Mouth Disease",famg,dsyn,1,DIAGNOSES_FAMGdiagDSYN
+C0030551,C0035243,DIAGNOSES,parent,Respiratory Tract Infections,famg,dsyn,2,DIAGNOSES_FAMGdiagDSYN
+C0030551,C5203670,DIAGNOSES,parent,COVID-19,famg,dsyn,1,DIAGNOSES_FAMGdiagDSYN
+C0080103,C1412002,DIAGNOSES,Relative (related person),Atypical pneumonia,famg,dsyn,1,DIAGNOSES_FAMGdiagDSYN
+C0086282,C5203670,DIAGNOSES,Family member,COVID-19,famg,dsyn,1,DIAGNOSES_FAMGdiagDSYN

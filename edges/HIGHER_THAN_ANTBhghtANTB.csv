@@ -1,0 +1,70 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002645,C0030840,HIGHER_THAN,amoxicillin,penicillin V,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0002645,C0030842,HIGHER_THAN,amoxicillin,penicillins,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0002645,C1869686,HIGHER_THAN,amoxicillin,cefovecin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0002645,C3536856,HIGHER_THAN,amoxicillin,Cephalosporins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0002679,C0002679,HIGHER_THAN,amphotericin B,amphotericin B,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0002680,C0002680,HIGHER_THAN,ampicillin,ampicillin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0003232,C0003232,HIGHER_THAN,Antibiotics,Antibiotics,antb,antb,13,HIGHER_THAN_ANTBhghtANTB
+C0003232,C0282215,HIGHER_THAN,Antibiotics,beta-Lactams,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0003232,C0300903,HIGHER_THAN,Antibiotics,orbifloxacin,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0003238,C0003232,HIGHER_THAN,antibiotic combinations,Antibiotics,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0003240,C0030840,HIGHER_THAN,Macrolide Antibiotics,penicillin V,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0006968,C0030842,HIGHER_THAN,Carbapenems,penicillins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0006968,C3536856,HIGHER_THAN,Carbapenems,Cephalosporins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0007537,C0007716,HIGHER_THAN,cefaclor,cephalexin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0007557,C0039644,HIGHER_THAN,cefoxitin,tetracycline,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0007559,C0007561,HIGHER_THAN,ceftazidime,ceftriaxone,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0007561,C0007561,HIGHER_THAN,ceftriaxone,ceftriaxone,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0007562,C0055003,HIGHER_THAN,cefuroxime,cefepime,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0008168,C0039644,HIGHER_THAN,chloramphenicol,tetracycline,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0008861,C0008861,HIGHER_THAN,Citrinin,Citrinin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0008947,C0030842,HIGHER_THAN,clindamycin,penicillins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0013089,C0013089,HIGHER_THAN,doxorubicin,doxorubicin,antb,antb,4,HIGHER_THAN_ANTBhghtANTB
+C0013090,C0014806,HIGHER_THAN,doxycycline,erythromycin,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0013090,C0030092,HIGHER_THAN,doxycycline,oxytetracycline,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0013090,C0030842,HIGHER_THAN,doxycycline,penicillins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0013090,C0039644,HIGHER_THAN,doxycycline,tetracycline,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0014806,C0030842,HIGHER_THAN,erythromycin,penicillins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0016673,C0030576,HIGHER_THAN,framycetin,paromomycin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0030092,C0030842,HIGHER_THAN,oxytetracycline,penicillins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0030576,C0016673,HIGHER_THAN,paromomycin,framycetin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0030576,C0038425,HIGHER_THAN,paromomycin,streptomycin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0030827,C0002680,HIGHER_THAN,penicillin G,ampicillin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0030827,C0007554,HIGHER_THAN,penicillin G,cefotaxime,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0030842,C3536856,HIGHER_THAN,penicillins,Cephalosporins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0035608,C0013090,HIGHER_THAN,rifampin,doxycycline,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0035608,C0030842,HIGHER_THAN,rifampin,penicillins,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0038425,C0013090,HIGHER_THAN,streptomycin,doxycycline,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0039644,C0003240,HIGHER_THAN,tetracycline,Macrolide Antibiotics,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0039644,C0014806,HIGHER_THAN,tetracycline,erythromycin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0052796,C0003232,HIGHER_THAN,azithromycin,Antibiotics,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0052796,C0014806,HIGHER_THAN,azithromycin,erythromycin,antb,antb,3,HIGHER_THAN_ANTBhghtANTB
+C0052796,C0052796,HIGHER_THAN,azithromycin,azithromycin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0052796,C0055856,HIGHER_THAN,azithromycin,clarithromycin,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0052796,C0140575,HIGHER_THAN,azithromycin,rifabutin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0055003,C0007561,HIGHER_THAN,cefepime,ceftriaxone,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0055856,C0014806,HIGHER_THAN,clarithromycin,erythromycin,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0060400,C0002645,HIGHER_THAN,cefixime,amoxicillin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0072980,C0072980,HIGHER_THAN,sirolimus,sirolimus,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C0073372,C0140575,HIGHER_THAN,rifapentine,rifabutin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0279516,C0002680,HIGHER_THAN,Anti-Bacterial Agents,ampicillin,antb,antb,3,HIGHER_THAN_ANTBhghtANTB
+C0279516,C0003232,HIGHER_THAN,Anti-Bacterial Agents,Antibiotics,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0279516,C0007546,HIGHER_THAN,Anti-Bacterial Agents,cefazolin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0282386,C0052796,HIGHER_THAN,levofloxacin,azithromycin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0304320,C0013090,HIGHER_THAN,Third generation cephalosporin,doxycycline,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0389169,C0020933,HIGHER_THAN,doripenem,imipenem,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0533545,C0007561,HIGHER_THAN,gemifloxacin,ceftriaxone,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0536495,C0282386,HIGHER_THAN,moxifloxacin,levofloxacin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0546866,C0002499,HIGHER_THAN,gentamicin sulfate,amikacin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0678143,C0014806,HIGHER_THAN,Zithromax,erythromycin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0717668,C0011015,HIGHER_THAN,daunorubicin liposomal,daunorubicin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0723285,C0723285,HIGHER_THAN,Septa,Septa,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0907410,C0003240,HIGHER_THAN,telithromycin,Macrolide Antibiotics,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C0962138,C0962138,HIGHER_THAN,reutericyclin,reutericyclin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C2001521,C0007561,HIGHER_THAN,ceftaroline,ceftriaxone,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C3536856,C0002645,HIGHER_THAN,Cephalosporins,amoxicillin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C3536856,C0030840,HIGHER_THAN,Cephalosporins,penicillin V,antb,antb,1,HIGHER_THAN_ANTBhghtANTB
+C3536856,C0030842,HIGHER_THAN,Cephalosporins,penicillins,antb,antb,6,HIGHER_THAN_ANTBhghtANTB
+C3854019,C0008168,HIGHER_THAN,gentamicin,chloramphenicol,antb,antb,2,HIGHER_THAN_ANTBhghtANTB
+C3854019,C3854019,HIGHER_THAN,gentamicin,gentamicin,antb,antb,1,HIGHER_THAN_ANTBhghtANTB

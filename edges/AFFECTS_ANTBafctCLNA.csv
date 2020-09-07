@@ -1,0 +1,21 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002645,C0854358,AFFECTS,amoxicillin,Purulence,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0002645,C3174773,AFFECTS,amoxicillin,Severity of symptoms:Finding:Point in time:^Patient:Ordinal,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0003233,C0005516,AFFECTS,"Antibiotics, Aminoglycoside",Biological Markers,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0003240,C0026687,AFFECTS,Macrolide Antibiotics,Mucociliary Clearance,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0003240,C0488414,AFFECTS,Macrolide Antibiotics,QT interval:Time:Point in time:Heart:Quantitative:EKG,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0006968,C1456627,AFFECTS,Carbapenems,Antimicrobial Resistance,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0008947,C2926606,AFFECTS,clindamycin,Procedure findings:Finding:Point in time:^Patient:Narrative,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0010572,C1955333,AFFECTS,Cycloheximide,Multiple markers,antb,clna,2,AFFECTS_ANTBafctCLNA
+C0020933,C1456627,AFFECTS,imipenem,Antimicrobial Resistance,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0027603,C0005516,AFFECTS,neomycin,Biological Markers,antb,clna,2,AFFECTS_ANTBafctCLNA
+C0030827,C1456627,AFFECTS,penicillin G,Antimicrobial Resistance,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0038425,C1316572,AFFECTS,streptomycin,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},antb,clna,1,AFFECTS_ANTBafctCLNA
+C0039644,C0854358,AFFECTS,tetracycline,Purulence,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0052796,C0488414,AFFECTS,azithromycin,QT interval:Time:Point in time:Heart:Quantitative:EKG,antb,clna,14,AFFECTS_ANTBafctCLNA
+C0052796,C0489625,AFFECTS,azithromycin,QTC interval,antb,clna,5,AFFECTS_ANTBafctCLNA
+C0063217,C2713234,AFFECTS,hyperforin,Mood:-:Point in time:^Patient:-,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0072980,C0032930,AFFECTS,sirolimus,Precipitating Factors,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0310367,C0946292,AFFECTS,Today,polarization,antb,clna,1,AFFECTS_ANTBafctCLNA
+C0753645,C0489625,AFFECTS,gatifloxacin,QTC interval,antb,clna,1,AFFECTS_ANTBafctCLNA
+C3536856,C1456627,AFFECTS,Cephalosporins,Antimicrobial Resistance,antb,clna,1,AFFECTS_ANTBafctCLNA

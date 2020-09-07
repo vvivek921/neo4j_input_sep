@@ -1,0 +1,931 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004400,C0017004,USES,Autoradiography,Gamma Cameras,lbpr,medd,1,USES_LBPRusesMEDD
+C0004400,C0043303,USES,Autoradiography,X-Ray Film,lbpr,medd,13,USES_LBPRusesMEDD
+C0004400,C0183115,USES,Autoradiography,Scanning Systems,lbpr,medd,3,USES_LBPRusesMEDD
+C0004400,C1553631,USES,Autoradiography,Mandibular right third molar prosthesis,lbpr,medd,1,USES_LBPRusesMEDD
+C0005507,C0181845,USES,Biological Assay,Electron microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0005774,C0039142,USES,Blood Chemical Analysis,Syringes,lbpr,medd,1,USES_LBPRusesMEDD
+C0005800,C0039142,USES,Blood Gas Analysis,Syringes,lbpr,medd,2,USES_LBPRusesMEDD
+C0005800,C0878835,USES,Blood Gas Analysis,blood gas analyzer,lbpr,medd,4,USES_LBPRusesMEDD
+C0005845,C0179966,USES,Blood urea nitrogen measurement,Clinical chemistry analyzer,lbpr,medd,1,USES_LBPRusesMEDD
+C0005861,C0180321,USES,Northern Blotting,Densitometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0005861,C0182400,USES,Northern Blotting,Probes,lbpr,medd,56,USES_LBPRusesMEDD
+C0005861,C0441088,USES,Northern Blotting,Gene probe,lbpr,medd,2,USES_LBPRusesMEDD
+C0005862,C0182400,USES,Southern blot assay (procedure),Probes,lbpr,medd,18,USES_LBPRusesMEDD
+C0005863,C0175723,USES,Western Blotting,Bands,lbpr,medd,1,USES_LBPRusesMEDD
+C0005863,C0180321,USES,Western Blotting,Densitometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0005863,C0182400,USES,Western Blotting,Probes,lbpr,medd,2,USES_LBPRusesMEDD
+C0005863,C1321564,USES,Western Blotting,strip medical device,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0005971,USES,Cell Count,Bone plates,lbpr,medd,25,USES_LBPRusesMEDD
+C0007584,C0009653,USES,Cell Count,"Condoms, Male",lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0017108,USES,Cell Count,Gas Scavengers,lbpr,medd,16,USES_LBPRusesMEDD
+C0007584,C0021102,USES,Cell Count,Implants,lbpr,medd,9,USES_LBPRusesMEDD
+C0007584,C0025256,USES,Cell Count,"Membranes, Artificial",lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0026032,USES,Cell Count,Microspheres,lbpr,medd,5,USES_LBPRusesMEDD
+C0007584,C0027551,USES,Cell Count,Needle device,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0036405,USES,Cell Count,Scintillation Counters,lbpr,medd,3,USES_LBPRusesMEDD
+C0007584,C0039142,USES,Cell Count,Syringes,lbpr,medd,5,USES_LBPRusesMEDD
+C0007584,C0085104,USES,Cell Count,Drug Delivery Systems,lbpr,medd,11,USES_LBPRusesMEDD
+C0007584,C0175648,USES,Cell Count,Mats,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0175727,USES,Cell Count,Stimulator,lbpr,medd,35,USES_LBPRusesMEDD
+C0007584,C0175730,USES,Cell Count,biomedical tube device,lbpr,medd,2,USES_LBPRusesMEDD
+C0007584,C0178987,USES,Cell Count,Artificial Airways,lbpr,medd,164,USES_LBPRusesMEDD
+C0007584,C0179177,USES,Cell Count,Autoclave,lbpr,medd,2,USES_LBPRusesMEDD
+C0007584,C0179245,USES,Cell Count,Water Bath,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0179814,USES,Cell Count,cell analyzer,lbpr,medd,2,USES_LBPRusesMEDD
+C0007584,C0179834,USES,Cell Count,Centrifuges (device),lbpr,medd,3,USES_LBPRusesMEDD
+C0007584,C0179837,USES,Cell Count,Cytological centrifuge,lbpr,medd,6,USES_LBPRusesMEDD
+C0007584,C0180202,USES,Cell Count,Cryostat,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0180279,USES,Cell Count,Flow Cytometer,lbpr,medd,90,USES_LBPRusesMEDD
+C0007584,C0180321,USES,Cell Count,Densitometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0180454,USES,Cell Count,Culture plate,lbpr,medd,2,USES_LBPRusesMEDD
+C0007584,C0180476,USES,Cell Count,Cell disrupter,lbpr,medd,2,USES_LBPRusesMEDD
+C0007584,C0180919,USES,Cell Count,"FLUOROMETER, FOR CLINICAL USE",lbpr,medd,3,USES_LBPRusesMEDD
+C0007584,C0181168,USES,Cell Count,HEMOCYTOMETER,lbpr,medd,60,USES_LBPRusesMEDD
+C0007584,C0181200,USES,Cell Count,homogenizers,lbpr,medd,10,USES_LBPRusesMEDD
+C0007584,C0181839,USES,Cell Count,Microscopes,lbpr,medd,61,USES_LBPRusesMEDD
+C0007584,C0181845,USES,Cell Count,Electron microscope,lbpr,medd,3,USES_LBPRusesMEDD
+C0007584,C0181904,USES,Cell Count,Monitor Device,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0181959,USES,Cell Count,Aspiration needles,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0182256,USES,Cell Count,Light meter,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0182258,USES,Cell Count,Microplate Reader,lbpr,medd,14,USES_LBPRusesMEDD
+C0007584,C0182301,USES,Cell Count,Pipette (physical object),lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0182362,USES,Cell Count,Skin Prep Kits,lbpr,medd,5,USES_LBPRusesMEDD
+C0007584,C0182400,USES,Cell Count,Probes,lbpr,medd,17,USES_LBPRusesMEDD
+C0007584,C0182573,USES,Cell Count,q-tips,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0182576,USES,Cell Count,Rack,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0183210,USES,Cell Count,sensor (device),lbpr,medd,2,USES_LBPRusesMEDD
+C0007584,C0183309,USES,Cell Count,Simulators,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0183400,USES,Cell Count,Spectrophotometer,lbpr,medd,2,USES_LBPRusesMEDD
+C0007584,C0183479,USES,Cell Count,Spreader,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0183644,USES,Cell Count,Wheeled Stretchers,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0184066,USES,Cell Count,Microplate,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0184165,USES,Cell Count,Tubing,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0184301,USES,Cell Count,Vial device,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0184329,USES,Cell Count,Voltmeter,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0262880,USES,Cell Count,Transmission Electron Microscopes,lbpr,medd,3,USES_LBPRusesMEDD
+C0007584,C0301559,USES,Cell Count,Screw,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0376432,USES,Cell Count,Bioreactors,lbpr,medd,3,USES_LBPRusesMEDD
+C0007584,C0392247,USES,Cell Count,Argon Ion Lasers,lbpr,medd,2,USES_LBPRusesMEDD
+C0007584,C0441088,USES,Cell Count,Gene probe,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0491931,USES,Cell Count,Orthopedic Fork,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0491970,USES,Cell Count,Light microscope,lbpr,medd,8,USES_LBPRusesMEDD
+C0007584,C0492254,USES,Cell Count,LYMPHOCYTE SEPARATION MEDIUM,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0492789,USES,Cell Count,"KIT, MYCOPLASMA DETECTION",lbpr,medd,4,USES_LBPRusesMEDD
+C0007584,C0492792,USES,Cell Count,"DISH, TISSUE CULTURE",lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0492793,USES,Cell Count,"FLASK, TISSUE CULTURE",lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0599078,USES,Cell Count,Coulter counter,lbpr,medd,11,USES_LBPRusesMEDD
+C0007584,C0677048,USES,Cell Count,Manual Cytometers,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0687394,USES,Cell Count,"MICROSCOPE, PHASE CONTRAST",lbpr,medd,4,USES_LBPRusesMEDD
+C0007584,C0728990,USES,Cell Count,Clinical Use Template,lbpr,medd,10,USES_LBPRusesMEDD
+C0007584,C0810635,USES,Cell Count,spinal cord stimulators,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C0879123,USES,Cell Count,sorters,lbpr,medd,3,USES_LBPRusesMEDD
+C0007584,C0972401,USES,Cell Count,Boards (medical device),lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C1139930,USES,Cell Count,Device Plate,lbpr,medd,5,USES_LBPRusesMEDD
+C0007584,C1140606,USES,Cell Count,"SORTER, CELL",lbpr,medd,21,USES_LBPRusesMEDD
+C0007584,C1261188,USES,Cell Count,Swab,lbpr,medd,3,USES_LBPRusesMEDD
+C0007584,C1314650,USES,Cell Count,"SUPPLY, NOT OTHERWISE SPECIFIED",lbpr,medd,6,USES_LBPRusesMEDD
+C0007584,C1328924,USES,Cell Count,magnetic beads,lbpr,medd,6,USES_LBPRusesMEDD
+C0007584,C1552166,USES,Cell Count,Maxillary right second molar implant,lbpr,medd,123,USES_LBPRusesMEDD
+C0007584,C1553430,USES,Cell Count,Serum Separator Tube,lbpr,medd,19,USES_LBPRusesMEDD
+C0007584,C1553642,USES,Cell Count,Maxillary left lateral incisor abutment,lbpr,medd,32,USES_LBPRusesMEDD
+C0007584,C1626420,USES,Cell Count,Confocal microscope,lbpr,medd,46,USES_LBPRusesMEDD
+C0007584,C1704653,USES,Cell Count,Cell Device,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C1706912,USES,Cell Count,BARRIER,lbpr,medd,6,USES_LBPRusesMEDD
+C0007584,C1740548,USES,Cell Count,Conveyor,lbpr,medd,2,USES_LBPRusesMEDD
+C0007584,C2609570,USES,Cell Count,ORGANIZER,lbpr,medd,2,USES_LBPRusesMEDD
+C0007584,C2700202,USES,Cell Count,Focused Ion Beam-Scanning Electron Microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C2986783,USES,Cell Count,MicroPET,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C3495449,USES,Cell Count,Mobility aid,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C3879234,USES,Cell Count,Liquid scintillation counter,lbpr,medd,3,USES_LBPRusesMEDD
+C0007584,C4067882,USES,Cell Count,Recording electrode,lbpr,medd,1,USES_LBPRusesMEDD
+C0007584,C4069241,USES,Cell Count,Convective,lbpr,medd,2,USES_LBPRusesMEDD
+C0007584,C4744970,USES,Cell Count,Microneedle Drug Delivery System,lbpr,medd,5,USES_LBPRusesMEDD
+C0007585,C0178987,USES,Cell Culture Techniques,Artificial Airways,lbpr,medd,1,USES_LBPRusesMEDD
+C0007585,C0180249,USES,Cell Culture Techniques,Cushion,lbpr,medd,1,USES_LBPRusesMEDD
+C0007585,C0184066,USES,Cell Culture Techniques,Microplate,lbpr,medd,1,USES_LBPRusesMEDD
+C0007585,C0376432,USES,Cell Culture Techniques,Bioreactors,lbpr,medd,1,USES_LBPRusesMEDD
+C0007585,C1261188,USES,Cell Culture Techniques,Swab,lbpr,medd,1,USES_LBPRusesMEDD
+C0007585,C1553430,USES,Cell Culture Techniques,Serum Separator Tube,lbpr,medd,2,USES_LBPRusesMEDD
+C0007585,C1553642,USES,Cell Culture Techniques,Maxillary left lateral incisor abutment,lbpr,medd,1,USES_LBPRusesMEDD
+C0007616,C0026032,USES,Cell Separation,Microspheres,lbpr,medd,1,USES_LBPRusesMEDD
+C0007616,C0183212,USES,Cell Separation,Separators,lbpr,medd,1,USES_LBPRusesMEDD
+C0007616,C0184047,USES,Cell Separation,Trap medical device,lbpr,medd,1,USES_LBPRusesMEDD
+C0007616,C0493160,USES,Cell Separation,"GRINDER, TISSUE",lbpr,medd,1,USES_LBPRusesMEDD
+C0007616,C1140606,USES,Cell Separation,"SORTER, CELL",lbpr,medd,2,USES_LBPRusesMEDD
+C0007616,C1328924,USES,Cell Separation,magnetic beads,lbpr,medd,2,USES_LBPRusesMEDD
+C0007703,C0005971,USES,Centrifugation,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C0175730,USES,Centrifugation,biomedical tube device,lbpr,medd,3,USES_LBPRusesMEDD
+C0007703,C0179834,USES,Centrifugation,Centrifuges (device),lbpr,medd,8,USES_LBPRusesMEDD
+C0007703,C0180231,USES,Centrifugation,Cup Device,lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C0180249,USES,Centrifugation,Cushion,lbpr,medd,9,USES_LBPRusesMEDD
+C0007703,C0180266,USES,Centrifugation,CUVETTES,lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C0180279,USES,Centrifugation,Flow Cytometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C0180806,USES,Centrifugation,Extractors,lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C0180859,USES,Centrifugation,filter papers,lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C0181168,USES,Centrifugation,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C0182258,USES,Centrifugation,Microplate Reader,lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C0183115,USES,Centrifugation,Scanning Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C0184108,USES,Centrifugation,"TUBE, COLLECTION, CAPILLARY BLOOD",lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C0262880,USES,Centrifugation,Transmission Electron Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C0492254,USES,Centrifugation,LYMPHOCYTE SEPARATION MEDIUM,lbpr,medd,2,USES_LBPRusesMEDD
+C0007703,C0728475,USES,Centrifugation,ultra,lbpr,medd,30,USES_LBPRusesMEDD
+C0007703,C1272835,USES,Centrifugation,Test kit,lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C1328924,USES,Centrifugation,magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C0007703,C1608928,USES,Centrifugation,Refractometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0007704,C0175730,USES,"Centrifugation, Density Gradient",biomedical tube device,lbpr,medd,2,USES_LBPRusesMEDD
+C0007704,C0492254,USES,"Centrifugation, Density Gradient",LYMPHOCYTE SEPARATION MEDIUM,lbpr,medd,2,USES_LBPRusesMEDD
+C0007704,C0728475,USES,"Centrifugation, Density Gradient",ultra,lbpr,medd,3,USES_LBPRusesMEDD
+C0008550,C0085104,USES,Chromatography,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0008550,C1532950,USES,Chromatography,Waters' circuit,lbpr,medd,1,USES_LBPRusesMEDD
+C0008551,C1328924,USES,"Chromatography, Affinity",magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C0008552,C0005971,USES,"Chromatography, Agarose",Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0008555,C0183396,USES,Gas Chromatography,Mass Spectrometers (device),lbpr,medd,2,USES_LBPRusesMEDD
+C0008556,C0183396,USES,"Chromatography, Gas-Liquid",Mass Spectrometers (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0008559,C0085104,USES,Gel Chromatography,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0008562,C0183396,USES,High pressure liquid chromatography procedure,Mass Spectrometers (device),lbpr,medd,2,USES_LBPRusesMEDD
+C0008562,C0302647,USES,High pressure liquid chromatography procedure,chromatographs,lbpr,medd,1,USES_LBPRusesMEDD
+C0008562,C0728475,USES,High pressure liquid chromatography procedure,ultra,lbpr,medd,17,USES_LBPRusesMEDD
+C0008562,C1553642,USES,High pressure liquid chromatography procedure,Maxillary left lateral incisor abutment,lbpr,medd,2,USES_LBPRusesMEDD
+C0008562,C1553658,USES,High pressure liquid chromatography procedure,Mandibular left second premolar abutment,lbpr,medd,1,USES_LBPRusesMEDD
+C0008564,C0302647,USES,Ion-Exchange Chromatography Procedure,chromatographs,lbpr,medd,1,USES_LBPRusesMEDD
+C0008565,C0182256,USES,Liquid Chromatography,Light meter,lbpr,medd,1,USES_LBPRusesMEDD
+C0008565,C1532950,USES,Liquid Chromatography,Waters' circuit,lbpr,medd,1,USES_LBPRusesMEDD
+C0008569,C0728475,USES,Thin Layer Chromatography,ultra,lbpr,medd,1,USES_LBPRusesMEDD
+C0008569,C1139930,USES,Thin Layer Chromatography,Device Plate,lbpr,medd,18,USES_LBPRusesMEDD
+C0009407,C0182158,USES,Colorimetry,Pads,lbpr,medd,2,USES_LBPRusesMEDD
+C0009407,C0183400,USES,Colorimetry,Spectrophotometer,lbpr,medd,2,USES_LBPRusesMEDD
+C0009541,C0972401,USES,Complement Fixation Tests,Boards (medical device),lbpr,medd,1,USES_LBPRusesMEDD
+C0009555,C0175730,USES,Complete Blood Count,biomedical tube device,lbpr,medd,2,USES_LBPRusesMEDD
+C0010818,C0175730,USES,Cytological Techniques,biomedical tube device,lbpr,medd,2,USES_LBPRusesMEDD
+C0010818,C0178987,USES,Cytological Techniques,Artificial Airways,lbpr,medd,4,USES_LBPRusesMEDD
+C0010818,C1261188,USES,Cytological Techniques,Swab,lbpr,medd,1,USES_LBPRusesMEDD
+C0010818,C3874079,USES,Cytological Techniques,Pancreatoscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0011321,C0175723,USES,Densitometry,Bands,lbpr,medd,11,USES_LBPRusesMEDD
+C0011321,C0180321,USES,Densitometry,Densitometer,lbpr,medd,7,USES_LBPRusesMEDD
+C0011321,C0183115,USES,Densitometry,Scanning Systems,lbpr,medd,6,USES_LBPRusesMEDD
+C0013064,C0182400,USES,Dot Immunoblotting,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0013845,C0175723,USES,Electron Spin Resonance Spectroscopy,Bands,lbpr,medd,1,USES_LBPRusesMEDD
+C0013855,C0085104,USES,Electrophoresis,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0013855,C0175723,USES,Electrophoresis,Bands,lbpr,medd,1,USES_LBPRusesMEDD
+C0013855,C0180919,USES,Electrophoresis,"FLUOROMETER, FOR CLINICAL USE",lbpr,medd,3,USES_LBPRusesMEDD
+C0013855,C0182400,USES,Electrophoresis,Probes,lbpr,medd,3,USES_LBPRusesMEDD
+C0013855,C0183400,USES,Electrophoresis,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0013855,C0184035,USES,Electrophoresis,Transilluminator,lbpr,medd,6,USES_LBPRusesMEDD
+C0013855,C0184108,USES,Electrophoresis,"TUBE, COLLECTION, CAPILLARY BLOOD",lbpr,medd,1,USES_LBPRusesMEDD
+C0013855,C0597256,USES,Electrophoresis,platinum electrode,lbpr,medd,1,USES_LBPRusesMEDD
+C0013855,C0728990,USES,Electrophoresis,Clinical Use Template,lbpr,medd,1,USES_LBPRusesMEDD
+C0013856,C0180919,USES,"Electrophoresis, Agar Gel","FLUOROMETER, FOR CLINICAL USE",lbpr,medd,1,USES_LBPRusesMEDD
+C0013856,C0182400,USES,"Electrophoresis, Agar Gel",Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0013856,C0728990,USES,"Electrophoresis, Agar Gel",Clinical Use Template,lbpr,medd,2,USES_LBPRusesMEDD
+C0013860,C1321564,USES,"Electrophoresis, Gel, Two-Dimensional",strip medical device,lbpr,medd,2,USES_LBPRusesMEDD
+C0013862,C0183335,USES,Polyacrylamide Gel Electrophoresis,slabs,lbpr,medd,2,USES_LBPRusesMEDD
+C0014441,C0005971,USES,Enzyme-Linked Immunosorbent Assay,Bone plates,lbpr,medd,8,USES_LBPRusesMEDD
+C0014441,C0085104,USES,Enzyme-Linked Immunosorbent Assay,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0014441,C0175730,USES,Enzyme-Linked Immunosorbent Assay,biomedical tube device,lbpr,medd,2,USES_LBPRusesMEDD
+C0014441,C0180279,USES,Enzyme-Linked Immunosorbent Assay,Flow Cytometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0014441,C0181168,USES,Enzyme-Linked Immunosorbent Assay,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C0014441,C0183400,USES,Enzyme-Linked Immunosorbent Assay,Spectrophotometer,lbpr,medd,4,USES_LBPRusesMEDD
+C0014441,C0184066,USES,Enzyme-Linked Immunosorbent Assay,Microplate,lbpr,medd,17,USES_LBPRusesMEDD
+C0014441,C0441255,USES,Enzyme-Linked Immunosorbent Assay,Standard plate,lbpr,medd,1,USES_LBPRusesMEDD
+C0014441,C0728475,USES,Enzyme-Linked Immunosorbent Assay,ultra,lbpr,medd,3,USES_LBPRusesMEDD
+C0014441,C0728990,USES,Enzyme-Linked Immunosorbent Assay,Clinical Use Template,lbpr,medd,1,USES_LBPRusesMEDD
+C0014441,C1139930,USES,Enzyme-Linked Immunosorbent Assay,Device Plate,lbpr,medd,31,USES_LBPRusesMEDD
+C0014441,C1272835,USES,Enzyme-Linked Immunosorbent Assay,Test kit,lbpr,medd,1,USES_LBPRusesMEDD
+C0014441,C1328924,USES,Enzyme-Linked Immunosorbent Assay,magnetic beads,lbpr,medd,23,USES_LBPRusesMEDD
+C0014772,C0181168,USES,Red Blood Cell Count measurement,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C0014772,C1139930,USES,Red Blood Cell Count measurement,Device Plate,lbpr,medd,1,USES_LBPRusesMEDD
+C0016128,C0183396,USES,"Fingerprints, Peptide",Mass Spectrometers (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0016263,C0026032,USES,Flow Cytometry,Microspheres,lbpr,medd,7,USES_LBPRusesMEDD
+C0016263,C0175730,USES,Flow Cytometry,biomedical tube device,lbpr,medd,1,USES_LBPRusesMEDD
+C0016263,C0179814,USES,Flow Cytometry,cell analyzer,lbpr,medd,1,USES_LBPRusesMEDD
+C0016263,C0180279,USES,Flow Cytometry,Flow Cytometer,lbpr,medd,36,USES_LBPRusesMEDD
+C0016263,C0181200,USES,Flow Cytometry,homogenizers,lbpr,medd,1,USES_LBPRusesMEDD
+C0016263,C0182362,USES,Flow Cytometry,Skin Prep Kits,lbpr,medd,1,USES_LBPRusesMEDD
+C0016263,C0493160,USES,Flow Cytometry,"GRINDER, TISSUE",lbpr,medd,1,USES_LBPRusesMEDD
+C0016263,C0879123,USES,Flow Cytometry,sorters,lbpr,medd,2,USES_LBPRusesMEDD
+C0016263,C1140606,USES,Flow Cytometry,"SORTER, CELL",lbpr,medd,2,USES_LBPRusesMEDD
+C0016318,C0026032,USES,Fluorescent Antibody Technique,Microspheres,lbpr,medd,24,USES_LBPRusesMEDD
+C0016318,C0181839,USES,Fluorescent Antibody Technique,Microscopes,lbpr,medd,2,USES_LBPRusesMEDD
+C0016318,C1626420,USES,Fluorescent Antibody Technique,Confocal microscope,lbpr,medd,3,USES_LBPRusesMEDD
+C0016352,C0180919,USES,Fluorometry,"FLUOROMETER, FOR CLINICAL USE",lbpr,medd,1,USES_LBPRusesMEDD
+C0016352,C0182258,USES,Fluorometry,Microplate Reader,lbpr,medd,1,USES_LBPRusesMEDD
+C0016698,C0027524,USES,Freeze Drying,Nebulizers,lbpr,medd,1,USES_LBPRusesMEDD
+C0018904,C0184066,USES,Hemagglutination Inhibition Tests,Microplate,lbpr,medd,1,USES_LBPRusesMEDD
+C0018904,C1139930,USES,Hemagglutination Inhibition Tests,Device Plate,lbpr,medd,1,USES_LBPRusesMEDD
+C0018935,C0179834,USES,Hematocrit procedure,Centrifuges (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0018935,C0181168,USES,Hematocrit procedure,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C0018935,C0181183,USES,Hematocrit procedure,HEMOGLOBINOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C0018935,C0184108,USES,Hematocrit procedure,"TUBE, COLLECTION, CAPILLARY BLOOD",lbpr,medd,2,USES_LBPRusesMEDD
+C0018935,C0475251,USES,Hematocrit procedure,Gas analyzer,lbpr,medd,1,USES_LBPRusesMEDD
+C0018935,C0687253,USES,Hematocrit procedure,Microhaematocrit centrifuge,lbpr,medd,2,USES_LBPRusesMEDD
+C0018941,C0085104,USES,Hematologic Tests,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0018941,C0175730,USES,Hematologic Tests,biomedical tube device,lbpr,medd,1,USES_LBPRusesMEDD
+C0018941,C0183210,USES,Hematologic Tests,sensor (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0018941,C1314650,USES,Hematologic Tests,"SUPPLY, NOT OTHERWISE SPECIFIED",lbpr,medd,1,USES_LBPRusesMEDD
+C0018941,C1706912,USES,Hematologic Tests,BARRIER,lbpr,medd,1,USES_LBPRusesMEDD
+C0019633,C0175730,USES,Histocompatibility Testing,biomedical tube device,lbpr,medd,1,USES_LBPRusesMEDD
+C0019635,C0182400,USES,Histocytochemistry,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0019637,C0182555,USES,Histological Techniques,Punch,lbpr,medd,1,USES_LBPRusesMEDD
+C0020980,C0005971,USES,Immunoassay method,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0020980,C0026032,USES,Immunoassay method,Microspheres,lbpr,medd,8,USES_LBPRusesMEDD
+C0020980,C0040661,USES,Immunoassay method,Transducers,lbpr,medd,1,USES_LBPRusesMEDD
+C0020980,C0085104,USES,Immunoassay method,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0020980,C0182400,USES,Immunoassay method,Probes,lbpr,medd,2,USES_LBPRusesMEDD
+C0020980,C0183210,USES,Immunoassay method,sensor (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0020980,C0184066,USES,Immunoassay method,Microplate,lbpr,medd,2,USES_LBPRusesMEDD
+C0020980,C0725865,USES,Immunoassay method,disposable,lbpr,medd,1,USES_LBPRusesMEDD
+C0020980,C1328924,USES,Immunoassay method,magnetic beads,lbpr,medd,2,USES_LBPRusesMEDD
+C0020985,C0183115,USES,Immunoblotting,Scanning Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0020985,C0492226,USES,Immunoblotting,"SCANNER, FLUORESCENT",lbpr,medd,1,USES_LBPRusesMEDD
+C0021069,C0005971,USES,Immunoprecipitation,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0021069,C0175723,USES,Immunoprecipitation,Bands,lbpr,medd,1,USES_LBPRusesMEDD
+C0021069,C1328924,USES,Immunoprecipitation,magnetic beads,lbpr,medd,3,USES_LBPRusesMEDD
+C0022885,C0002422,USES,Laboratory Procedures,Ambulances,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0005971,USES,Laboratory Procedures,Bone plates,lbpr,medd,12,USES_LBPRusesMEDD
+C0022885,C0007439,USES,Laboratory Procedures,Indwelling Catheter,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0013194,USES,Laboratory Procedures,Drug Packaging,lbpr,medd,7,USES_LBPRusesMEDD
+C0022885,C0024861,USES,Laboratory Procedures,Masks,lbpr,medd,12,USES_LBPRusesMEDD
+C0022885,C0026032,USES,Laboratory Procedures,Microspheres,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0027524,USES,Laboratory Procedures,Nebulizers,lbpr,medd,2,USES_LBPRusesMEDD
+C0022885,C0039142,USES,Laboratory Procedures,Syringes,lbpr,medd,2,USES_LBPRusesMEDD
+C0022885,C0039818,USES,Laboratory Procedures,"Thermometer, device",lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0040662,USES,Laboratory Procedures,"Transducers, Pressure",lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0042497,USES,Laboratory Procedures,Mechanical Ventilator,lbpr,medd,15,USES_LBPRusesMEDD
+C0022885,C0085104,USES,Laboratory Procedures,Drug Delivery Systems,lbpr,medd,5,USES_LBPRusesMEDD
+C0022885,C0175648,USES,Laboratory Procedures,Mats,lbpr,medd,3,USES_LBPRusesMEDD
+C0022885,C0175723,USES,Laboratory Procedures,Bands,lbpr,medd,2,USES_LBPRusesMEDD
+C0022885,C0175730,USES,Laboratory Procedures,biomedical tube device,lbpr,medd,2,USES_LBPRusesMEDD
+C0022885,C0175731,USES,Laboratory Procedures,T-tube,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0175735,USES,Laboratory Procedures,Scissors (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0178987,USES,Laboratory Procedures,Artificial Airways,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0179891,USES,Laboratory Procedures,"Analyzers, Laboratory, Immunoassay, Chemiluminescent",lbpr,medd,11,USES_LBPRusesMEDD
+C0022885,C0179997,USES,Laboratory Procedures,coagulation analyzers,lbpr,medd,2,USES_LBPRusesMEDD
+C0022885,C0180463,USES,Laboratory Procedures,Dispenser,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0180482,USES,Laboratory Procedures,distractors,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0180748,USES,Laboratory Procedures,ergometers,lbpr,medd,4,USES_LBPRusesMEDD
+C0022885,C0180917,USES,Laboratory Procedures,Fluorescence immunoassay analyzer,lbpr,medd,7,USES_LBPRusesMEDD
+C0022885,C0181168,USES,Laboratory Procedures,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0181264,USES,Laboratory Procedures,Ice Bags,lbpr,medd,2,USES_LBPRusesMEDD
+C0022885,C0181467,USES,Laboratory Procedures,knife,lbpr,medd,5,USES_LBPRusesMEDD
+C0022885,C0181758,USES,Laboratory Procedures,Surgical face mask,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0181797,USES,Laboratory Procedures,Medical Gas Cylinders,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0181845,USES,Laboratory Procedures,Electron microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0182158,USES,Laboratory Procedures,Pads,lbpr,medd,2,USES_LBPRusesMEDD
+C0022885,C0182256,USES,Laboratory Procedures,Light meter,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0182315,USES,Laboratory Procedures,hot plates,lbpr,medd,11,USES_LBPRusesMEDD
+C0022885,C0182400,USES,Laboratory Procedures,Probes,lbpr,medd,31,USES_LBPRusesMEDD
+C0022885,C0183115,USES,Laboratory Procedures,Scanning Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0183309,USES,Laboratory Procedures,Simulators,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0183400,USES,Laboratory Procedures,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0184066,USES,Laboratory Procedures,Microplate,lbpr,medd,13,USES_LBPRusesMEDD
+C0022885,C0336587,USES,Laboratory Procedures,"Surgical drill, device (physical object)",lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0441052,USES,Laboratory Procedures,Latex rubber gloves,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0441255,USES,Laboratory Procedures,Standard plate,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0457177,USES,Laboratory Procedures,Telescopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0491921,USES,Laboratory Procedures,IMPACTOR,lbpr,medd,2,USES_LBPRusesMEDD
+C0022885,C0493644,USES,Laboratory Procedures,"ANTIGEN, C. DIFFICILE",lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0590323,USES,Laboratory Procedures,Gauzes,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0687607,USES,Laboratory Procedures,"Thermometers, Electronic, Infrared, Ear",lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0725865,USES,Laboratory Procedures,disposable,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0728990,USES,Laboratory Procedures,Clinical Use Template,lbpr,medd,6,USES_LBPRusesMEDD
+C0022885,C0872321,USES,Laboratory Procedures,miniature biomedical equipment,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C0879140,USES,Laboratory Procedures,Towelettes,lbpr,medd,2,USES_LBPRusesMEDD
+C0022885,C0879240,USES,Laboratory Procedures,Nasal Swabs,lbpr,medd,19,USES_LBPRusesMEDD
+C0022885,C0879241,USES,Laboratory Procedures,Pharyngeal Swabs,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C1139930,USES,Laboratory Procedures,Device Plate,lbpr,medd,3,USES_LBPRusesMEDD
+C0022885,C1160927,USES,Laboratory Procedures,urine dip stick,lbpr,medd,8,USES_LBPRusesMEDD
+C0022885,C1261188,USES,Laboratory Procedures,Swab,lbpr,medd,188,USES_LBPRusesMEDD
+C0022885,C1272835,USES,Laboratory Procedures,Test kit,lbpr,medd,2,USES_LBPRusesMEDD
+C0022885,C1321564,USES,Laboratory Procedures,strip medical device,lbpr,medd,2,USES_LBPRusesMEDD
+C0022885,C1328924,USES,Laboratory Procedures,magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C1626420,USES,Laboratory Procedures,Confocal microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C1995447,USES,Laboratory Procedures,"ORAL,SWAB",lbpr,medd,2,USES_LBPRusesMEDD
+C0022885,C2700619,USES,Laboratory Procedures,Test Strip (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C2720577,USES,Laboratory Procedures,Centrifuge rotor,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C3881040,USES,Laboratory Procedures,Respiratory simulator,lbpr,medd,1,USES_LBPRusesMEDD
+C0022885,C5203172,USES,Laboratory Procedures,FACE SHIELD,lbpr,medd,2,USES_LBPRusesMEDD
+C0023508,C0179814,USES,White Blood Cell Count procedure,cell analyzer,lbpr,medd,1,USES_LBPRusesMEDD
+C0023508,C0180863,USES,White Blood Cell Count procedure,blood filters,lbpr,medd,1,USES_LBPRusesMEDD
+C0023508,C0181168,USES,White Blood Cell Count procedure,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C0023508,C0677048,USES,White Blood Cell Count procedure,Manual Cytometers,lbpr,medd,1,USES_LBPRusesMEDD
+C0023508,C3495449,USES,White Blood Cell Count procedure,Mobility aid,lbpr,medd,1,USES_LBPRusesMEDD
+C0024751,C0179752,USES,Manometry,Esophageal balloon,lbpr,medd,1,USES_LBPRusesMEDD
+C0025994,C0180279,USES,Micromanipulation,Flow Cytometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0026018,C0005971,USES,Microscopy,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0026018,C0085104,USES,Microscopy,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0026018,C0181839,USES,Microscopy,Microscopes,lbpr,medd,9,USES_LBPRusesMEDD
+C0026018,C0182400,USES,Microscopy,Probes,lbpr,medd,2,USES_LBPRusesMEDD
+C0026018,C1289846,USES,Microscopy,Helium Neon Gas Lasers,lbpr,medd,1,USES_LBPRusesMEDD
+C0026018,C1328924,USES,Microscopy,magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C0026018,C1626420,USES,Microscopy,Confocal microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0026019,C0005971,USES,Electron Microscopy,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0026019,C0183400,USES,Electron Microscopy,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0026020,C0181839,USES,Scanning Electron Microscopy,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0026020,C0262878,USES,Scanning Electron Microscopy,"Microscopes, Electron, Scanning",lbpr,medd,4,USES_LBPRusesMEDD
+C0026022,C0175648,USES,"Microscopy, Fluorescence",Mats,lbpr,medd,1,USES_LBPRusesMEDD
+C0026022,C0181633,USES,"Microscopy, Fluorescence",Light source,lbpr,medd,1,USES_LBPRusesMEDD
+C0026022,C0181839,USES,"Microscopy, Fluorescence",Microscopes,lbpr,medd,8,USES_LBPRusesMEDD
+C0026022,C0491850,USES,"Microscopy, Fluorescence","MAGNET, PERMANENT",lbpr,medd,1,USES_LBPRusesMEDD
+C0026022,C1626420,USES,"Microscopy, Fluorescence",Confocal microscope,lbpr,medd,4,USES_LBPRusesMEDD
+C0026040,C0181467,USES,Microtomy,knife,lbpr,medd,1,USES_LBPRusesMEDD
+C0026040,C0181845,USES,Microtomy,Electron microscope,lbpr,medd,4,USES_LBPRusesMEDD
+C0026040,C0181860,USES,Microtomy,Ultramicrotome,lbpr,medd,7,USES_LBPRusesMEDD
+C0026040,C0262880,USES,Microtomy,Transmission Electron Microscopes,lbpr,medd,5,USES_LBPRusesMEDD
+C0026040,C0454169,USES,Microtomy,Collimator devices,lbpr,medd,1,USES_LBPRusesMEDD
+C0026040,C0728475,USES,Microtomy,ultra,lbpr,medd,69,USES_LBPRusesMEDD
+C0027692,C0181168,USES,Nephelometry,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C0027944,C0184066,USES,Neutralization Tests,Microplate,lbpr,medd,1,USES_LBPRusesMEDD
+C0031752,C0175723,USES,Photometry,Bands,lbpr,medd,1,USES_LBPRusesMEDD
+C0031753,C0179540,USES,Photomicrography,Microscope camera,lbpr,medd,1,USES_LBPRusesMEDD
+C0031753,C0181839,USES,Photomicrography,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0031753,C0262880,USES,Photomicrography,Transmission Electron Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0031753,C1626420,USES,Photomicrography,Confocal microscope,lbpr,medd,2,USES_LBPRusesMEDD
+C0032102,C0005971,USES,plaque assay,Bone plates,lbpr,medd,3,USES_LBPRusesMEDD
+C0032102,C0180454,USES,plaque assay,Culture plate,lbpr,medd,3,USES_LBPRusesMEDD
+C0032102,C1139930,USES,plaque assay,Device Plate,lbpr,medd,2,USES_LBPRusesMEDD
+C0033707,C0179997,USES,Prothrombin time assay,coagulation analyzers,lbpr,medd,1,USES_LBPRusesMEDD
+C0034532,C0180488,USES,Radiation Monitoring,"Dosimeter, device",lbpr,medd,1,USES_LBPRusesMEDD
+C0034580,C0175730,USES,Radioimmunoassay,biomedical tube device,lbpr,medd,1,USES_LBPRusesMEDD
+C0034580,C0182301,USES,Radioimmunoassay,Pipette (physical object),lbpr,medd,1,USES_LBPRusesMEDD
+C0034584,C0175723,USES,Radioimmunoprecipitation Assay,Bands,lbpr,medd,1,USES_LBPRusesMEDD
+C0034603,C0021102,USES,Radiometry,Implants,lbpr,medd,1,USES_LBPRusesMEDD
+C0035269,C0728990,USES,Restriction Mapping,Clinical Use Template,lbpr,medd,1,USES_LBPRusesMEDD
+C0036743,C0179891,USES,Serologic tests,"Analyzers, Laboratory, Immunoassay, Chemiluminescent",lbpr,medd,2,USES_LBPRusesMEDD
+C0036759,C2700619,USES,Serotyping,Test Strip (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0036828,C0182258,USES,Serum Alanine Transaminase tests,Microplate Reader,lbpr,medd,1,USES_LBPRusesMEDD
+C0036836,C1608928,USES,Serum total protein measurement,Refractometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0037805,C0183400,USES,Spectrophotometry,Spectrophotometer,lbpr,medd,4,USES_LBPRusesMEDD
+C0037805,C0184066,USES,Spectrophotometry,Microplate,lbpr,medd,1,USES_LBPRusesMEDD
+C0037806,C0183400,USES,"Spectrophotometry, Atomic Absorption",Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0037808,C0183400,USES,"Spectrophotometry, Ultraviolet",Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0037812,C0175723,USES,Spectrum Analysis,Bands,lbpr,medd,1,USES_LBPRusesMEDD
+C0037812,C0181839,USES,Spectrum Analysis,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0037812,C0182400,USES,Spectrum Analysis,Probes,lbpr,medd,2,USES_LBPRusesMEDD
+C0037812,C0183396,USES,Spectrum Analysis,Mass Spectrometers (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0037812,C0183400,USES,Spectrum Analysis,Spectrophotometer,lbpr,medd,3,USES_LBPRusesMEDD
+C0037812,C0457177,USES,Spectrum Analysis,Telescopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0037813,C0183396,USES,Mass Spectrometry,Mass Spectrometers (device),lbpr,medd,13,USES_LBPRusesMEDD
+C0037813,C0728475,USES,Mass Spectrometry,ultra,lbpr,medd,3,USES_LBPRusesMEDD
+C0037813,C1261188,USES,Mass Spectrometry,Swab,lbpr,medd,1,USES_LBPRusesMEDD
+C0037815,C0175648,USES,"Spectrum Analysis, Raman",Mats,lbpr,medd,1,USES_LBPRusesMEDD
+C0037815,C0182400,USES,"Spectrum Analysis, Raman",Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0040017,C0005978,USES,Thrombelastography,Bone Wires,lbpr,medd,1,USES_LBPRusesMEDD
+C0040284,C0005971,USES,Tissue culture,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0040284,C0182400,USES,Tissue culture,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0040284,C1261188,USES,Tissue culture,Swab,lbpr,medd,1,USES_LBPRusesMEDD
+C0040284,C1322960,USES,Tissue culture,Petri dish,lbpr,medd,1,USES_LBPRusesMEDD
+C0041609,C0180249,USES,Ultracentrifugation,Cushion,lbpr,medd,11,USES_LBPRusesMEDD
+C0079240,C0005971,USES,Dilution technique,Bone plates,lbpr,medd,4,USES_LBPRusesMEDD
+C0079240,C0175730,USES,Dilution technique,biomedical tube device,lbpr,medd,1,USES_LBPRusesMEDD
+C0079240,C0180321,USES,Dilution technique,Densitometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0079240,C0182258,USES,Dilution technique,Microplate Reader,lbpr,medd,1,USES_LBPRusesMEDD
+C0079240,C0182301,USES,Dilution technique,Pipette (physical object),lbpr,medd,1,USES_LBPRusesMEDD
+C0079240,C0182400,USES,Dilution technique,Probes,lbpr,medd,2,USES_LBPRusesMEDD
+C0079240,C0183115,USES,Dilution technique,Scanning Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0079240,C0183400,USES,Dilution technique,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0079240,C0184066,USES,Dilution technique,Microplate,lbpr,medd,1,USES_LBPRusesMEDD
+C0079240,C0491970,USES,Dilution technique,Light microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0079240,C0493049,USES,Dilution technique,AUTOMATED COLONY COUNTER,lbpr,medd,1,USES_LBPRusesMEDD
+C0079240,C0728990,USES,Dilution technique,Clinical Use Template,lbpr,medd,15,USES_LBPRusesMEDD
+C0079240,C0879140,USES,Dilution technique,Towelettes,lbpr,medd,1,USES_LBPRusesMEDD
+C0079240,C1139930,USES,Dilution technique,Device Plate,lbpr,medd,2,USES_LBPRusesMEDD
+C0079366,C0785697,USES,Fluorescence-Activated Cell Sorting,Razor blade,lbpr,medd,1,USES_LBPRusesMEDD
+C0079604,C0184066,USES,Immunofluorescence Microscopy,Microplate,lbpr,medd,1,USES_LBPRusesMEDD
+C0079604,C1626420,USES,Immunofluorescence Microscopy,Confocal microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0079611,C0178987,USES,Immunophenotyping,Artificial Airways,lbpr,medd,1,USES_LBPRusesMEDD
+C0079837,C0013194,USES,"Microscopy, Scanning Tunneling",Drug Packaging,lbpr,medd,1,USES_LBPRusesMEDD
+C0085117,C0085104,USES,"Electrophoresis, Gel, Pulsed-Field",Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0085185,C0183957,USES,Paraffin Embedding,"PROCESSOR, TISSUE, AUTOMATED",lbpr,medd,1,USES_LBPRusesMEDD
+C0085188,C0180202,USES,Cryoultramicrotomy,Cryostat,lbpr,medd,1,USES_LBPRusesMEDD
+C0085188,C0181467,USES,Cryoultramicrotomy,knife,lbpr,medd,1,USES_LBPRusesMEDD
+C0085194,C0179834,USES,Negative Staining,Centrifuges (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0085194,C0181845,USES,Negative Staining,Electron microscope,lbpr,medd,2,USES_LBPRusesMEDD
+C0085672,C0184252,USES,Microbiology procedure,Medical Valves,lbpr,medd,1,USES_LBPRusesMEDD
+C0086231,C0181222,USES,Enzyme Immunoassay,Hoses,lbpr,medd,1,USES_LBPRusesMEDD
+C0086231,C0184066,USES,Enzyme Immunoassay,Microplate,lbpr,medd,7,USES_LBPRusesMEDD
+C0086890,C0725865,USES,Quick Test for Liver Function,disposable,lbpr,medd,1,USES_LBPRusesMEDD
+C0086890,C0879240,USES,Quick Test for Liver Function,Nasal Swabs,lbpr,medd,2,USES_LBPRusesMEDD
+C0086890,C1261188,USES,Quick Test for Liver Function,Swab,lbpr,medd,3,USES_LBPRusesMEDD
+C0086890,C2713471,USES,Quick Test for Liver Function,In Vitro Diagnostic Devices,lbpr,medd,1,USES_LBPRusesMEDD
+C0150411,C0179630,USES,Analysis of arterial blood gases and pH,Cartridge device,lbpr,medd,1,USES_LBPRusesMEDD
+C0150411,C0878835,USES,Analysis of arterial blood gases and pH,blood gas analyzer,lbpr,medd,1,USES_LBPRusesMEDD
+C0162401,C0491970,USES,Differential white blood cell count procedure,Light microscope,lbpr,medd,2,USES_LBPRusesMEDD
+C0162621,C0180919,USES,Titration Method,"FLUOROMETER, FOR CLINICAL USE",lbpr,medd,1,USES_LBPRusesMEDD
+C0162621,C0182400,USES,Titration Method,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0162621,C0183400,USES,Titration Method,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0162621,C0972401,USES,Titration Method,Boards (medical device),lbpr,medd,5,USES_LBPRusesMEDD
+C0162621,C1139930,USES,Titration Method,Device Plate,lbpr,medd,1,USES_LBPRusesMEDD
+C0162676,C0021461,USES,Enzyme Multiplied Immunoassay Technique,Inhaler,lbpr,medd,1,USES_LBPRusesMEDD
+C0162676,C0392247,USES,Enzyme Multiplied Immunoassay Technique,Argon Ion Lasers,lbpr,medd,1,USES_LBPRusesMEDD
+C0162801,C0005971,USES,Sequence Analysis,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0162801,C0013194,USES,Sequence Analysis,Drug Packaging,lbpr,medd,4,USES_LBPRusesMEDD
+C0162801,C0085104,USES,Sequence Analysis,Drug Delivery Systems,lbpr,medd,2,USES_LBPRusesMEDD
+C0162801,C0175723,USES,Sequence Analysis,Bands,lbpr,medd,1,USES_LBPRusesMEDD
+C0162801,C0178959,USES,Sequence Analysis,ADAPTER,lbpr,medd,2,USES_LBPRusesMEDD
+C0162801,C0180919,USES,Sequence Analysis,"FLUOROMETER, FOR CLINICAL USE",lbpr,medd,1,USES_LBPRusesMEDD
+C0162801,C0182362,USES,Sequence Analysis,Skin Prep Kits,lbpr,medd,7,USES_LBPRusesMEDD
+C0162801,C0182400,USES,Sequence Analysis,Probes,lbpr,medd,4,USES_LBPRusesMEDD
+C0162801,C0183396,USES,Sequence Analysis,Mass Spectrometers (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0162801,C0183400,USES,Sequence Analysis,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0162801,C0728990,USES,Sequence Analysis,Clinical Use Template,lbpr,medd,13,USES_LBPRusesMEDD
+C0162801,C1261188,USES,Sequence Analysis,Swab,lbpr,medd,2,USES_LBPRusesMEDD
+C0162801,C1553671,USES,Sequence Analysis,Mandibular right second molar abutment,lbpr,medd,1,USES_LBPRusesMEDD
+C0162801,C1611676,USES,Sequence Analysis,Thermal Cycler,lbpr,medd,1,USES_LBPRusesMEDD
+C0178539,C0178987,USES,Cellular,Artificial Airways,lbpr,medd,2,USES_LBPRusesMEDD
+C0178539,C1626420,USES,Cellular,Confocal microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0200354,C0179802,USES,Urine Specimen Collection,Urinary catheter,lbpr,medd,1,USES_LBPRusesMEDD
+C0200363,C0039142,USES,Specimen preparation,Syringes,lbpr,medd,1,USES_LBPRusesMEDD
+C0200363,C0085104,USES,Specimen preparation,Drug Delivery Systems,lbpr,medd,3,USES_LBPRusesMEDD
+C0200363,C0175730,USES,Specimen preparation,biomedical tube device,lbpr,medd,1,USES_LBPRusesMEDD
+C0200363,C0180919,USES,Specimen preparation,"FLUOROMETER, FOR CLINICAL USE",lbpr,medd,1,USES_LBPRusesMEDD
+C0200363,C0182301,USES,Specimen preparation,Pipette (physical object),lbpr,medd,1,USES_LBPRusesMEDD
+C0200363,C1328924,USES,Specimen preparation,magnetic beads,lbpr,medd,2,USES_LBPRusesMEDD
+C0200416,C0179997,USES,Antithrombin III Measurement,coagulation analyzers,lbpr,medd,1,USES_LBPRusesMEDD
+C0200638,C0178987,USES,Eosinophil count procedure,Artificial Airways,lbpr,medd,1,USES_LBPRusesMEDD
+C0200728,C0016533,USES,Tissue processing technique,Forceps,lbpr,medd,1,USES_LBPRusesMEDD
+C0200728,C0181116,USES,Tissue processing technique,Dental handpiece,lbpr,medd,1,USES_LBPRusesMEDD
+C0200728,C0181467,USES,Tissue processing technique,knife,lbpr,medd,1,USES_LBPRusesMEDD
+C0200728,C0183103,USES,Tissue processing technique,Dental ultrasonic scaler,lbpr,medd,1,USES_LBPRusesMEDD
+C0200728,C1261188,USES,Tissue processing technique,Swab,lbpr,medd,1,USES_LBPRusesMEDD
+C0200760,C0181839,USES,Morphometric analysis,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0200898,C0013194,USES,DNA analysis,Drug Packaging,lbpr,medd,2,USES_LBPRusesMEDD
+C0200898,C0182400,USES,DNA analysis,Probes,lbpr,medd,4,USES_LBPRusesMEDD
+C0200931,C0085104,USES,Polymerase chain reaction analysis,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0200931,C0184301,USES,Polymerase chain reaction analysis,Vial device,lbpr,medd,1,USES_LBPRusesMEDD
+C0200931,C0441088,USES,Polymerase chain reaction analysis,Gene probe,lbpr,medd,1,USES_LBPRusesMEDD
+C0200931,C0879241,USES,Polymerase chain reaction analysis,Pharyngeal Swabs,lbpr,medd,1,USES_LBPRusesMEDD
+C0200931,C1261188,USES,Polymerase chain reaction analysis,Swab,lbpr,medd,1,USES_LBPRusesMEDD
+C0200932,C0005971,USES,Nucleic Acid Amplification Tests,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0200932,C0182400,USES,Nucleic Acid Amplification Tests,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0200932,C0725865,USES,Nucleic Acid Amplification Tests,disposable,lbpr,medd,1,USES_LBPRusesMEDD
+C0200932,C1261188,USES,Nucleic Acid Amplification Tests,Swab,lbpr,medd,1,USES_LBPRusesMEDD
+C0200949,C0005971,USES,Blood culture,Bone plates,lbpr,medd,12,USES_LBPRusesMEDD
+C0200949,C0182400,USES,Blood culture,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0200949,C0184301,USES,Blood culture,Vial device,lbpr,medd,1,USES_LBPRusesMEDD
+C0200949,C0441265,USES,Blood culture,Custom plate,lbpr,medd,1,USES_LBPRusesMEDD
+C0200949,C1145640,USES,Blood culture,"Central venous catheter, device",lbpr,medd,2,USES_LBPRusesMEDD
+C0200955,C0175730,USES,Viral culture procedure,biomedical tube device,lbpr,medd,2,USES_LBPRusesMEDD
+C0200955,C0181200,USES,Viral culture procedure,homogenizers,lbpr,medd,2,USES_LBPRusesMEDD
+C0200955,C0182400,USES,Viral culture procedure,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0200955,C0184066,USES,Viral culture procedure,Microplate,lbpr,medd,2,USES_LBPRusesMEDD
+C0200955,C0184301,USES,Viral culture procedure,Vial device,lbpr,medd,2,USES_LBPRusesMEDD
+C0200955,C0879240,USES,Viral culture procedure,Nasal Swabs,lbpr,medd,7,USES_LBPRusesMEDD
+C0200955,C0879241,USES,Viral culture procedure,Pharyngeal Swabs,lbpr,medd,1,USES_LBPRusesMEDD
+C0200955,C1261188,USES,Viral culture procedure,Swab,lbpr,medd,3,USES_LBPRusesMEDD
+C0201074,C0175730,USES,Motility test,biomedical tube device,lbpr,medd,1,USES_LBPRusesMEDD
+C0201227,C0014243,USES,Surveillance culture,Endoscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0201519,C0085734,USES,Antibody to islet cells of pancreas measurement,Absorbent Pads,lbpr,medd,1,USES_LBPRusesMEDD
+C0201544,C0182400,USES,Prostate specific antigen measurement,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0201576,C0005971,USES,Cytokine assay,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0201622,C0184066,USES,Cytotoxicity assay,Microplate,lbpr,medd,1,USES_LBPRusesMEDD
+C0201679,C0182400,USES,Human papillomavirus typing (procedure),Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0201683,C0026032,USES,Chemical method,Microspheres,lbpr,medd,1,USES_LBPRusesMEDD
+C0201683,C0879017,USES,Chemical method,examination stools,lbpr,medd,1,USES_LBPRusesMEDD
+C0201699,C0728990,USES,"Electrophoresis, Capillary",Clinical Use Template,lbpr,medd,1,USES_LBPRusesMEDD
+C0201709,C0026032,USES,Chemiluminescence assay,Microspheres,lbpr,medd,1,USES_LBPRusesMEDD
+C0201709,C0182400,USES,Chemiluminescence assay,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0201720,C0725865,USES,Serum protein electrophoresis,disposable,lbpr,medd,4,USES_LBPRusesMEDD
+C0201720,C1321564,USES,Serum protein electrophoresis,strip medical device,lbpr,medd,1,USES_LBPRusesMEDD
+C0201747,C0183210,USES,Ion selective electrode measurement,sensor (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0201794,C0182400,USES,DNA hybridization assay,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0201811,C1261188,USES,Fecal occult blood test,Swab,lbpr,medd,2,USES_LBPRusesMEDD
+C0201874,C0492870,USES,Amino acids measurement,AIRBRUSH,lbpr,medd,1,USES_LBPRusesMEDD
+C0201931,C0179630,USES,"Carbon dioxide measurement, partial pressure",Cartridge device,lbpr,medd,1,USES_LBPRusesMEDD
+C0201950,C0179966,USES,Cholesterol measurement test,Clinical chemistry analyzer,lbpr,medd,1,USES_LBPRusesMEDD
+C0202010,C0039142,USES,Fecal analysis procedure,Syringes,lbpr,medd,1,USES_LBPRusesMEDD
+C0202010,C1261188,USES,Fecal analysis procedure,Swab,lbpr,medd,2,USES_LBPRusesMEDD
+C0206055,C0181839,USES,"Spectroscopy, Fourier Transform Infrared",Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0206618,C0026032,USES,Immunomagnetic Separation,Microspheres,lbpr,medd,2,USES_LBPRusesMEDD
+C0206691,C0027551,USES,Electroporation,Needle device,lbpr,medd,1,USES_LBPRusesMEDD
+C0206691,C0180266,USES,Electroporation,CUVETTES,lbpr,medd,1,USES_LBPRusesMEDD
+C0206691,C1140627,USES,Electroporation,pulse generators,lbpr,medd,1,USES_LBPRusesMEDD
+C0231990,C0024861,USES,Lung clearance index,Masks,lbpr,medd,1,USES_LBPRusesMEDD
+C0242831,C0182400,USES,Epitope Mapping,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0242831,C0184066,USES,Epitope Mapping,Microplate,lbpr,medd,1,USES_LBPRusesMEDD
+C0242841,C0181839,USES,"Microscopy, Confocal, Laser Scanning",Microscopes,lbpr,medd,5,USES_LBPRusesMEDD
+C0242841,C0392247,USES,"Microscopy, Confocal, Laser Scanning",Argon Ion Lasers,lbpr,medd,2,USES_LBPRusesMEDD
+C0242842,C1626420,USES,"Microscopy, Confocal",Confocal microscope,lbpr,medd,6,USES_LBPRusesMEDD
+C0242842,C3873738,USES,"Microscopy, Confocal",Laser system,lbpr,medd,2,USES_LBPRusesMEDD
+C0242849,C0182400,USES,"Microscopy, Atomic Force",Probes,lbpr,medd,2,USES_LBPRusesMEDD
+C0282597,C0013194,USES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Drug Packaging,lbpr,medd,1,USES_LBPRusesMEDD
+C0282597,C0182400,USES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0282597,C0183396,USES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",Mass Spectrometers (device),lbpr,medd,2,USES_LBPRusesMEDD
+C0282597,C1328924,USES,"Spectrometry, Mass, Matrix-Assisted Laser Desorption-Ionization",magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C0282608,C0005971,USES,Image Cytometry,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0282646,C0180202,USES,Indirect Immunofluorescence,Cryostat,lbpr,medd,1,USES_LBPRusesMEDD
+C0282646,C1626420,USES,Indirect Immunofluorescence,Confocal microscope,lbpr,medd,4,USES_LBPRusesMEDD
+C0282648,C1626420,USES,Direct immunofluorescence,Confocal microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0337438,C0472226,USES,Glucose measurement,Blood glucose meters (medical device),lbpr,medd,2,USES_LBPRusesMEDD
+C0368930,C0184252,USES,Coagulation time measurement,Medical Valves,lbpr,medd,1,USES_LBPRusesMEDD
+C0368930,C0491318,USES,Coagulation time measurement,FIBROMETER,lbpr,medd,2,USES_LBPRusesMEDD
+C0368993,C0005971,USES,Colony count,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0369671,C0181839,USES,Microscopic observation,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0373680,C0182400,USES,Myoglobin measurement,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0373861,C1139930,USES,Immunodiffusion; not elsewhere specified (procedure in CPT),Device Plate,lbpr,medd,1,USES_LBPRusesMEDD
+C0373861,C1608928,USES,Immunodiffusion; not elsewhere specified (procedure in CPT),Refractometer,lbpr,medd,4,USES_LBPRusesMEDD
+C0392201,C0472226,USES,Blood glucose measurement,Blood glucose meters (medical device),lbpr,medd,1,USES_LBPRusesMEDD
+C0427716,C0013194,USES,"Protein concentration, test strip measurement",Drug Packaging,lbpr,medd,1,USES_LBPRusesMEDD
+C0427716,C0180919,USES,"Protein concentration, test strip measurement","FLUOROMETER, FOR CLINICAL USE",lbpr,medd,1,USES_LBPRusesMEDD
+C0427716,C0183400,USES,"Protein concentration, test strip measurement",Spectrophotometer,lbpr,medd,14,USES_LBPRusesMEDD
+C0427716,C1608928,USES,"Protein concentration, test strip measurement",Refractometer,lbpr,medd,3,USES_LBPRusesMEDD
+C0427743,C0472226,USES,"Glucose concentration, test strip measurement",Blood glucose meters (medical device),lbpr,medd,4,USES_LBPRusesMEDD
+C0427743,C0879630,USES,"Glucose concentration, test strip measurement",Blood Glucometers,lbpr,medd,1,USES_LBPRusesMEDD
+C0427979,C0180799,USES,Toxin assay procedure,explorers,lbpr,medd,1,USES_LBPRusesMEDD
+C0430027,C0182400,USES,biochemical test,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0430179,C0183210,USES,Sweat test,sensor (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0430389,C0175722,USES,Light Microscopy,Clip,lbpr,medd,1,USES_LBPRusesMEDD
+C0430389,C0181839,USES,Light Microscopy,Microscopes,lbpr,medd,3,USES_LBPRusesMEDD
+C0430389,C0262880,USES,Light Microscopy,Transmission Electron Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0430389,C0491970,USES,Light Microscopy,Light microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0430402,C0039142,USES,Bacterial culture (procedure),Syringes,lbpr,medd,1,USES_LBPRusesMEDD
+C0430402,C0182400,USES,Bacterial culture (procedure),Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0430402,C1272835,USES,Bacterial culture (procedure),Test kit,lbpr,medd,1,USES_LBPRusesMEDD
+C0430414,C0005971,USES,Stool culture,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0430420,C0085104,USES,Antigen assay,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0430420,C0182400,USES,Antigen assay,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0430420,C0183400,USES,Antigen assay,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0430420,C0879240,USES,Antigen assay,Nasal Swabs,lbpr,medd,2,USES_LBPRusesMEDD
+C0430425,C0085104,USES,Procedure to identify antibody,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0430425,C0791227,USES,Procedure to identify antibody,candida test,lbpr,medd,1,USES_LBPRusesMEDD
+C0430425,C1139930,USES,Procedure to identify antibody,Device Plate,lbpr,medd,1,USES_LBPRusesMEDD
+C0430425,C2700619,USES,Procedure to identify antibody,Test Strip (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0441073,C0181633,USES,Bright field,Light source,lbpr,medd,1,USES_LBPRusesMEDD
+C0441073,C0491970,USES,Bright field,Light microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0444680,C0183396,USES,Protein profiling,Mass Spectrometers (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0445076,C0687391,USES,Morphotyping,Dark-Field Microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0459958,C0175730,USES,HIV screen,biomedical tube device,lbpr,medd,1,USES_LBPRusesMEDD
+C0474643,C0175648,USES,Antibody titer measurement,Mats,lbpr,medd,1,USES_LBPRusesMEDD
+C0474643,C0184066,USES,Antibody titer measurement,Microplate,lbpr,medd,1,USES_LBPRusesMEDD
+C0474643,C1272835,USES,Antibody titer measurement,Test kit,lbpr,medd,1,USES_LBPRusesMEDD
+C0474652,C0179891,USES,Human immunodeficiency virus antibody titer measurement,"Analyzers, Laboratory, Immunoassay, Chemiluminescent",lbpr,medd,1,USES_LBPRusesMEDD
+C0487602,C0180321,USES,Staining method,Densitometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0519671,C1328924,USES,Immunology procedure,magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C0519825,C0010384,USES,Comprehensive Metabolic Panel,"Prostheses, Dental, Fixed, Crown, Total, Temporary",lbpr,medd,1,USES_LBPRusesMEDD
+C0519825,C0183115,USES,Comprehensive Metabolic Panel,Scanning Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0519952,C0184301,USES,Sperm Cryopreservation,Vial device,lbpr,medd,1,USES_LBPRusesMEDD
+C0523176,C0180694,USES,Mycoplasma culture,Bovie,lbpr,medd,2,USES_LBPRusesMEDD
+C0523205,C0181839,USES,Giemsa stain method,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0523207,C0181839,USES,Hematoxylin and eosin stain method,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0523207,C0183115,USES,Hematoxylin and eosin stain method,Scanning Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0523212,C0492883,USES,Wright-Giemsa stain method,"SLIDE STAINER, AUTOMATED",lbpr,medd,1,USES_LBPRusesMEDD
+C0523744,C0175730,USES,Lipids measurement,biomedical tube device,lbpr,medd,1,USES_LBPRusesMEDD
+C0523807,C0024861,USES,Oxygen saturation measurement,Masks,lbpr,medd,1,USES_LBPRusesMEDD
+C0523807,C0182109,USES,Oxygen saturation measurement,Pulse oximeter,lbpr,medd,1,USES_LBPRusesMEDD
+C0523957,C0183400,USES,Tryptophan measurement,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0525032,C0336657,USES,International Normalized Ratio,Blood coagulation analyzer,lbpr,medd,1,USES_LBPRusesMEDD
+C0554818,C1261188,USES,Double test,Swab,lbpr,medd,1,USES_LBPRusesMEDD
+C0559312,C0441299,USES,One-Lung Ventilation,Double lumen tube,lbpr,medd,1,USES_LBPRusesMEDD
+C0580327,C1272835,USES,Antibody studies (procedure),Test kit,lbpr,medd,1,USES_LBPRusesMEDD
+C0596495,C0182400,USES,"Spectrometry, Mass, Electrospray Ionization",Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0596495,C0183396,USES,"Spectrometry, Mass, Electrospray Ionization",Mass Spectrometers (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0596795,C1626420,USES,Intravital Microscopy,Confocal microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0597239,C0184402,USES,physical separation,Drinking Water Treatment Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0597705,C0262880,USES,Cryoelectron Microscopy,Transmission Electron Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0597705,C1512629,USES,Cryoelectron Microscopy,Imaging Device,lbpr,medd,1,USES_LBPRusesMEDD
+C0597717,C0005971,USES,Fluorescence Resonance Energy Transfer,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0597717,C0182400,USES,Fluorescence Resonance Energy Transfer,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0597717,C0184066,USES,Fluorescence Resonance Energy Transfer,Microplate,lbpr,medd,2,USES_LBPRusesMEDD
+C0599209,C0180799,USES,Fast Protein Liquid Chromatography,explorers,lbpr,medd,2,USES_LBPRusesMEDD
+C0599616,C0182400,USES,Virus identification,Probes,lbpr,medd,2,USES_LBPRusesMEDD
+C0599616,C0879240,USES,Virus identification,Nasal Swabs,lbpr,medd,2,USES_LBPRusesMEDD
+C0599662,C0026032,USES,magnetic cell separation system,Microspheres,lbpr,medd,1,USES_LBPRusesMEDD
+C0599662,C1328924,USES,magnetic cell separation system,magnetic beads,lbpr,medd,3,USES_LBPRusesMEDD
+C0599777,C0182400,USES,physical mapping,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0599862,C0182400,USES,northern hybridization,Probes,lbpr,medd,5,USES_LBPRusesMEDD
+C0599927,C0182400,USES,southern hybridization,Probes,lbpr,medd,4,USES_LBPRusesMEDD
+C0600209,C0043303,USES,SDS-PAGE,X-Ray Film,lbpr,medd,1,USES_LBPRusesMEDD
+C0600209,C0175723,USES,SDS-PAGE,Bands,lbpr,medd,2,USES_LBPRusesMEDD
+C0600209,C0183115,USES,SDS-PAGE,Scanning Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0600209,C0183335,USES,SDS-PAGE,slabs,lbpr,medd,3,USES_LBPRusesMEDD
+C0600209,C0183400,USES,SDS-PAGE,Spectrophotometer,lbpr,medd,2,USES_LBPRusesMEDD
+C0600209,C1618912,USES,SDS-PAGE,"TRANSFER DEVICE, ANY TYPE, EACH",lbpr,medd,2,USES_LBPRusesMEDD
+C0600324,C0026032,USES,Serodiagnosis,Microspheres,lbpr,medd,1,USES_LBPRusesMEDD
+C0600396,C0181839,USES,Laser Scanning Microscopy,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0600509,C0182400,USES,Chromosome Painting,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0600561,C0184252,USES,"Chromatography, Micellar Electrokinetic Capillary",Medical Valves,lbpr,medd,1,USES_LBPRusesMEDD
+C0678118,C0181839,USES,Transmission Electron Microscopy,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0678118,C0181845,USES,Transmission Electron Microscopy,Electron microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C0678118,C0262880,USES,Transmission Electron Microscopy,Transmission Electron Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0678118,C1322960,USES,Transmission Electron Microscopy,Petri dish,lbpr,medd,1,USES_LBPRusesMEDD
+C0678621,C0179834,USES,separation method,Centrifuges (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0678628,C0039142,USES,membrane filtration,Syringes,lbpr,medd,1,USES_LBPRusesMEDD
+C0678628,C0728475,USES,membrane filtration,ultra,lbpr,medd,2,USES_LBPRusesMEDD
+C0678651,C0024861,USES,spectrography,Masks,lbpr,medd,1,USES_LBPRusesMEDD
+C0679560,C0085104,USES,Genetic screening method,Drug Delivery Systems,lbpr,medd,3,USES_LBPRusesMEDD
+C0679560,C1261188,USES,Genetic screening method,Swab,lbpr,medd,1,USES_LBPRusesMEDD
+C0681827,C0027524,USES,Laboratory Study,Nebulizers,lbpr,medd,1,USES_LBPRusesMEDD
+C0681827,C0085104,USES,Laboratory Study,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0683134,C0025973,USES,voltammetry,Microelectrodes,lbpr,medd,1,USES_LBPRusesMEDD
+C0684296,C1328924,USES,Column Chromatography,magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C0729856,C0180917,USES,Antigen test,Fluorescence immunoassay analyzer,lbpr,medd,1,USES_LBPRusesMEDD
+C0752248,C0182362,USES,Gene Expression Profiling,Skin Prep Kits,lbpr,medd,1,USES_LBPRusesMEDD
+C0796357,C0013194,USES,Genetic Variation Analysis,Drug Packaging,lbpr,medd,2,USES_LBPRusesMEDD
+C0807878,C0005971,USES,screen techniques,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0814048,C0005971,USES,Cytometry,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C0848397,C1261188,USES,Throat culture,Swab,lbpr,medd,20,USES_LBPRusesMEDD
+C0858155,C0182256,USES,plasma potassium,Light meter,lbpr,medd,1,USES_LBPRusesMEDD
+C0871511,C0024861,USES,Test Method,Masks,lbpr,medd,1,USES_LBPRusesMEDD
+C0871511,C0042497,USES,Test Method,Mechanical Ventilator,lbpr,medd,3,USES_LBPRusesMEDD
+C0872071,C0085104,USES,nucleic acid purification,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0872071,C1328924,USES,nucleic acid purification,magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C0872148,C0180476,USES,DNA purification,Cell disrupter,lbpr,medd,1,USES_LBPRusesMEDD
+C0872148,C1328924,USES,DNA purification,magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C0872232,C0026032,USES,Nucleic acid assay,Microspheres,lbpr,medd,1,USES_LBPRusesMEDD
+C0872232,C0085104,USES,Nucleic acid assay,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0872232,C0182301,USES,Nucleic acid assay,Pipette (physical object),lbpr,medd,1,USES_LBPRusesMEDD
+C0872232,C0182400,USES,Nucleic acid assay,Probes,lbpr,medd,4,USES_LBPRusesMEDD
+C0872232,C0183210,USES,Nucleic acid assay,sensor (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0872232,C0879240,USES,Nucleic acid assay,Nasal Swabs,lbpr,medd,1,USES_LBPRusesMEDD
+C0872264,C0026032,USES,RNA purification,Microspheres,lbpr,medd,1,USES_LBPRusesMEDD
+C0872264,C0182555,USES,RNA purification,Punch,lbpr,medd,1,USES_LBPRusesMEDD
+C0872264,C1328924,USES,RNA purification,magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C0872318,C0181200,USES,Liquid Chromatography Mass Spectrometry,homogenizers,lbpr,medd,1,USES_LBPRusesMEDD
+C0872318,C0183396,USES,Liquid Chromatography Mass Spectrometry,Mass Spectrometers (device),lbpr,medd,12,USES_LBPRusesMEDD
+C0883003,C0175663,USES,Differential panel,Sounds device,lbpr,medd,1,USES_LBPRusesMEDD
+C0887905,C0728990,USES,Ligase Chain Reaction,Clinical Use Template,lbpr,medd,1,USES_LBPRusesMEDD
+C0917791,C0085104,USES,Sequence Determinations,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0919386,C0002422,USES,Pathology procedure,Ambulances,lbpr,medd,1,USES_LBPRusesMEDD
+C0919386,C0181089,USES,Pathology procedure,"Catheter guide wire, device",lbpr,medd,1,USES_LBPRusesMEDD
+C0919386,C0181620,USES,Pathology procedure,Hoist device,lbpr,medd,1,USES_LBPRusesMEDD
+C0919386,C0181839,USES,Pathology procedure,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C0919386,C0182124,USES,Pathology procedure,Oxygen cylinder,lbpr,medd,1,USES_LBPRusesMEDD
+C0919386,C0183210,USES,Pathology procedure,sensor (device),lbpr,medd,1,USES_LBPRusesMEDD
+C0919386,C0491931,USES,Pathology procedure,Orthopedic Fork,lbpr,medd,1,USES_LBPRusesMEDD
+C0920508,C1139930,USES,Enzyme-Linked Immunospot Assay,Device Plate,lbpr,medd,4,USES_LBPRusesMEDD
+C0947630,C0013194,USES,Scientific Study,Drug Packaging,lbpr,medd,2,USES_LBPRusesMEDD
+C0947630,C0085104,USES,Scientific Study,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C0947630,C0150789,USES,Scientific Study,Patient Holding Stretchers,lbpr,medd,1,USES_LBPRusesMEDD
+C0947630,C0179630,USES,Scientific Study,Cartridge device,lbpr,medd,1,USES_LBPRusesMEDD
+C0947630,C0182400,USES,Scientific Study,Probes,lbpr,medd,2,USES_LBPRusesMEDD
+C0947630,C0184301,USES,Scientific Study,Vial device,lbpr,medd,1,USES_LBPRusesMEDD
+C0947630,C0728990,USES,Scientific Study,Clinical Use Template,lbpr,medd,1,USES_LBPRusesMEDD
+C0947630,C0879240,USES,Scientific Study,Nasal Swabs,lbpr,medd,1,USES_LBPRusesMEDD
+C0949466,C0180321,USES,Western Blot,Densitometer,lbpr,medd,1,USES_LBPRusesMEDD
+C0949466,C0182400,USES,Western Blot,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C0949466,C0183115,USES,Western Blot,Scanning Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C1113652,C0491970,USES,Laser Capture Microdissection,Light microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C1261478,C0181200,USES,Viral load measurement,homogenizers,lbpr,medd,1,USES_LBPRusesMEDD
+C1262031,C0013194,USES,sputum test,Drug Packaging,lbpr,medd,1,USES_LBPRusesMEDD
+C1262031,C1261188,USES,sputum test,Swab,lbpr,medd,2,USES_LBPRusesMEDD
+C1262735,C0026032,USES,Plasminogen measurement,Microspheres,lbpr,medd,1,USES_LBPRusesMEDD
+C1266211,C0005971,USES,Optical density measurement,Bone plates,lbpr,medd,2,USES_LBPRusesMEDD
+C1266211,C0183400,USES,Optical density measurement,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C1271681,C0181168,USES,Total white blood count,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C1271681,C0599078,USES,Total white blood count,Coulter counter,lbpr,medd,1,USES_LBPRusesMEDD
+C1273342,C0178987,USES,Epithelial cell count (procedure),Artificial Airways,lbpr,medd,1,USES_LBPRusesMEDD
+C1273421,C1261188,USES,Viral studies (procedure),Swab,lbpr,medd,1,USES_LBPRusesMEDD
+C1273935,C0005971,USES,Anaerobic microbial culture,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C1275826,C0879240,USES,PCR test for SARS,Nasal Swabs,lbpr,medd,2,USES_LBPRusesMEDD
+C1275826,C1261188,USES,PCR test for SARS,Swab,lbpr,medd,1,USES_LBPRusesMEDD
+C1285573,C0005971,USES,Genotype determination,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C1285573,C0180694,USES,Genotype determination,Bovie,lbpr,medd,3,USES_LBPRusesMEDD
+C1285573,C0182400,USES,Genotype determination,Probes,lbpr,medd,4,USES_LBPRusesMEDD
+C1285573,C0183210,USES,Genotype determination,sensor (device),lbpr,medd,1,USES_LBPRusesMEDD
+C1285573,C0728990,USES,Genotype determination,Clinical Use Template,lbpr,medd,1,USES_LBPRusesMEDD
+C1285573,C0879240,USES,Genotype determination,Nasal Swabs,lbpr,medd,1,USES_LBPRusesMEDD
+C1285573,C1139930,USES,Genotype determination,Device Plate,lbpr,medd,1,USES_LBPRusesMEDD
+C1294356,C0085104,USES,Detection of virus procedure,Drug Delivery Systems,lbpr,medd,2,USES_LBPRusesMEDD
+C1294356,C0182400,USES,Detection of virus procedure,Probes,lbpr,medd,6,USES_LBPRusesMEDD
+C1294356,C0183210,USES,Detection of virus procedure,sensor (device),lbpr,medd,2,USES_LBPRusesMEDD
+C1294356,C0336630,USES,Detection of virus procedure,Endotracheal tube,lbpr,medd,1,USES_LBPRusesMEDD
+C1294356,C0879017,USES,Detection of virus procedure,examination stools,lbpr,medd,2,USES_LBPRusesMEDD
+C1294356,C0879240,USES,Detection of virus procedure,Nasal Swabs,lbpr,medd,6,USES_LBPRusesMEDD
+C1294356,C1261188,USES,Detection of virus procedure,Swab,lbpr,medd,2,USES_LBPRusesMEDD
+C1294356,C1995447,USES,Detection of virus procedure,"ORAL,SWAB",lbpr,medd,2,USES_LBPRusesMEDD
+C1294359,C0040661,USES,Escherichia coli detection,Transducers,lbpr,medd,1,USES_LBPRusesMEDD
+C1294423,C0182400,USES,Allergen identification,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C1303103,C0180917,USES,Sample analysis,Fluorescence immunoassay analyzer,lbpr,medd,1,USES_LBPRusesMEDD
+C1315011,C0026032,USES,Challenge tests,Microspheres,lbpr,medd,1,USES_LBPRusesMEDD
+C1315011,C0178987,USES,Challenge tests,Artificial Airways,lbpr,medd,1,USES_LBPRusesMEDD
+C1318786,C0182400,USES,Fluorescent stain method,Probes,lbpr,medd,3,USES_LBPRusesMEDD
+C1318786,C0183400,USES,Fluorescent stain method,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C1318786,C1626420,USES,Fluorescent stain method,Confocal microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C1318793,C1626420,USES,Immunofluorescent stain method,Confocal microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C1318869,C0181168,USES,Trypan blue stain method,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C1319309,C0183115,USES,Hematoxylin stain method,Scanning Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C1327760,C0182400,USES,Proteomic Profiling,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C1439852,C0180266,USES,Incubated,CUVETTES,lbpr,medd,1,USES_LBPRusesMEDD
+C1441441,C0040661,USES,2D ECHO,Transducers,lbpr,medd,1,USES_LBPRusesMEDD
+C1441457,C0181797,USES,Agar diffusion,Medical Gas Cylinders,lbpr,medd,1,USES_LBPRusesMEDD
+C1441488,C2826325,USES,Auto,Fiducial Markers,lbpr,medd,1,USES_LBPRusesMEDD
+C1441489,C0180279,USES,Automated count,Flow Cytometer,lbpr,medd,1,USES_LBPRusesMEDD
+C1441554,C0183210,USES,Direct assay,sensor (device),lbpr,medd,1,USES_LBPRusesMEDD
+C1441565,C0175730,USES,Elution,biomedical tube device,lbpr,medd,1,USES_LBPRusesMEDD
+C1441565,C0182258,USES,Elution,Microplate Reader,lbpr,medd,1,USES_LBPRusesMEDD
+C1441565,C0492253,USES,Elution,PH BUFFER,lbpr,medd,1,USES_LBPRusesMEDD
+C1441565,C1139930,USES,Elution,Device Plate,lbpr,medd,1,USES_LBPRusesMEDD
+C1441565,C1261188,USES,Elution,Swab,lbpr,medd,1,USES_LBPRusesMEDD
+C1441565,C1532950,USES,Elution,Waters' circuit,lbpr,medd,1,USES_LBPRusesMEDD
+C1441604,C0175648,USES,High sensitivity,Mats,lbpr,medd,1,USES_LBPRusesMEDD
+C1441604,C0181839,USES,High sensitivity,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C1441604,C0728475,USES,High sensitivity,ultra,lbpr,medd,9,USES_LBPRusesMEDD
+C1441639,C0181168,USES,Manual count,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C1441646,C0181168,USES,Microscopic count,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C1441657,C1328924,USES,Mouse bioassay,magnetic beads,lbpr,medd,2,USES_LBPRusesMEDD
+C1446863,C0179834,USES,Spun,Centrifuges (device),lbpr,medd,1,USES_LBPRusesMEDD
+C1449562,C2720748,USES,Primary Cell Culture,Hoods,lbpr,medd,1,USES_LBPRusesMEDD
+C1449575,C0026032,USES,Microarray Analysis,Microspheres,lbpr,medd,1,USES_LBPRusesMEDD
+C1449575,C1328924,USES,Microarray Analysis,magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C1449619,C0005971,USES,Culture Techniques,Bone plates,lbpr,medd,4,USES_LBPRusesMEDD
+C1449619,C1139930,USES,Culture Techniques,Device Plate,lbpr,medd,1,USES_LBPRusesMEDD
+C1449619,C1261188,USES,Culture Techniques,Swab,lbpr,medd,2,USES_LBPRusesMEDD
+C1449705,C1328924,USES,Co-Immunoprecipitation,magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C1450269,C0005971,USES,Luminescent Measurements,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C1450269,C0182258,USES,Luminescent Measurements,Microplate Reader,lbpr,medd,1,USES_LBPRusesMEDD
+C1450269,C0183210,USES,Luminescent Measurements,sensor (device),lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0005971,USES,Assay,Bone plates,lbpr,medd,52,USES_LBPRusesMEDD
+C1510438,C0013194,USES,Assay,Drug Packaging,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0025256,USES,Assay,"Membranes, Artificial",lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0026032,USES,Assay,Microspheres,lbpr,medd,31,USES_LBPRusesMEDD
+C1510438,C0040661,USES,Assay,Transducers,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0085104,USES,Assay,Drug Delivery Systems,lbpr,medd,4,USES_LBPRusesMEDD
+C1510438,C0150789,USES,Assay,Patient Holding Stretchers,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0175722,USES,Assay,Clip,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0175730,USES,Assay,biomedical tube device,lbpr,medd,6,USES_LBPRusesMEDD
+C1510438,C0179245,USES,Assay,Water Bath,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0179891,USES,Assay,"Analyzers, Laboratory, Immunoassay, Chemiluminescent",lbpr,medd,22,USES_LBPRusesMEDD
+C1510438,C0180266,USES,Assay,CUVETTES,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0180279,USES,Assay,Flow Cytometer,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0180454,USES,Assay,Culture plate,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0180806,USES,Assay,Extractors,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0180859,USES,Assay,filter papers,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0180917,USES,Assay,Fluorescence immunoassay analyzer,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0180919,USES,Assay,"FLUOROMETER, FOR CLINICAL USE",lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0181168,USES,Assay,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0181200,USES,Assay,homogenizers,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0181620,USES,Assay,Hoist device,lbpr,medd,8,USES_LBPRusesMEDD
+C1510438,C0181839,USES,Assay,Microscopes,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0181845,USES,Assay,Electron microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0182258,USES,Assay,Microplate Reader,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0182301,USES,Assay,Pipette (physical object),lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0182315,USES,Assay,hot plates,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0182400,USES,Assay,Probes,lbpr,medd,257,USES_LBPRusesMEDD
+C1510438,C0182537,USES,Assay,pump (device),lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0183115,USES,Assay,Scanning Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0183210,USES,Assay,sensor (device),lbpr,medd,4,USES_LBPRusesMEDD
+C1510438,C0183400,USES,Assay,Spectrophotometer,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0183884,USES,Assay,Test tube,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0184047,USES,Assay,Trap medical device,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0184054,USES,Assay,Tray - device,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0184066,USES,Assay,Microplate,lbpr,medd,53,USES_LBPRusesMEDD
+C1510438,C0441084,USES,Assay,Single probe,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0441088,USES,Assay,Gene probe,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0441255,USES,Assay,Standard plate,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0472226,USES,Assay,Blood glucose meters (medical device),lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0491850,USES,Assay,"MAGNET, PERMANENT",lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0492253,USES,Assay,PH BUFFER,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C0599078,USES,Assay,Coulter counter,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0725865,USES,Assay,disposable,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0728475,USES,Assay,ultra,lbpr,medd,9,USES_LBPRusesMEDD
+C1510438,C0728990,USES,Assay,Clinical Use Template,lbpr,medd,24,USES_LBPRusesMEDD
+C1510438,C0872077,USES,Assay,portable biomedical equipment,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C0879240,USES,Assay,Nasal Swabs,lbpr,medd,8,USES_LBPRusesMEDD
+C1510438,C1139930,USES,Assay,Device Plate,lbpr,medd,17,USES_LBPRusesMEDD
+C1510438,C1140608,USES,Assay,Metal detector,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C1261188,USES,Assay,Swab,lbpr,medd,3,USES_LBPRusesMEDD
+C1510438,C1272835,USES,Assay,Test kit,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C1321564,USES,Assay,strip medical device,lbpr,medd,3,USES_LBPRusesMEDD
+C1510438,C1322960,USES,Assay,Petri dish,lbpr,medd,3,USES_LBPRusesMEDD
+C1510438,C1328924,USES,Assay,magnetic beads,lbpr,medd,15,USES_LBPRusesMEDD
+C1510438,C1455741,USES,Assay,Charge coupled device,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C1611676,USES,Assay,Thermal Cycler,lbpr,medd,6,USES_LBPRusesMEDD
+C1510438,C1626420,USES,Assay,Confocal microscope,lbpr,medd,2,USES_LBPRusesMEDD
+C1510438,C1704779,USES,Assay,Battery Device,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C2713471,USES,Assay,In Vitro Diagnostic Devices,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C2720748,USES,Assay,Hoods,lbpr,medd,1,USES_LBPRusesMEDD
+C1510438,C3495449,USES,Assay,Mobility aid,lbpr,medd,1,USES_LBPRusesMEDD
+C1510803,C0085104,USES,Adherent Culture,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C1511226,C1314650,USES,Blood Screening,"SUPPLY, NOT OTHERWISE SPECIFIED",lbpr,medd,1,USES_LBPRusesMEDD
+C1511556,C0178987,USES,"Culturing, In Vitro Microbial",Artificial Airways,lbpr,medd,1,USES_LBPRusesMEDD
+C1513388,C0085104,USES,Molecular Diagnosis,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C1513388,C1995447,USES,Molecular Diagnosis,"ORAL,SWAB",lbpr,medd,1,USES_LBPRusesMEDD
+C1513778,C0182400,USES,Mutation Detection,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C1517334,C0182400,USES,G-Banding,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C1518598,C0184187,USES,Optical Methods,Tweezer,lbpr,medd,4,USES_LBPRusesMEDD
+C1519406,C0005971,USES,Soft Agar Assay,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C1535922,C0181904,USES,Procalcitonin measurement,Monitor Device,lbpr,medd,1,USES_LBPRusesMEDD
+C1537058,C0728475,USES,small angle X ray scattering,ultra,lbpr,medd,1,USES_LBPRusesMEDD
+C1553146,C0085104,USES,VITEK 2,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C1553183,C0183396,USES,Inductively-Coupled Plasma Mass Spectrometry,Mass Spectrometers (device),lbpr,medd,1,USES_LBPRusesMEDD
+C1705192,C0005971,USES,Seeding,Bone plates,lbpr,medd,4,USES_LBPRusesMEDD
+C1705192,C0180806,USES,Seeding,Extractors,lbpr,medd,1,USES_LBPRusesMEDD
+C1705192,C0181168,USES,Seeding,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C1705192,C0181332,USES,Seeding,Syringe pump,lbpr,medd,1,USES_LBPRusesMEDD
+C1705192,C0182400,USES,Seeding,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C1705192,C0376432,USES,Seeding,Bioreactors,lbpr,medd,1,USES_LBPRusesMEDD
+C1705192,C3495449,USES,Seeding,Mobility aid,lbpr,medd,1,USES_LBPRusesMEDD
+C1705913,C0725865,USES,Rapid Antigen Test,disposable,lbpr,medd,1,USES_LBPRusesMEDD
+C1705913,C0879241,USES,Rapid Antigen Test,Pharyngeal Swabs,lbpr,medd,1,USES_LBPRusesMEDD
+C1707759,C0013194,USES,Direct Fluorescent Antibody Test,Drug Packaging,lbpr,medd,1,USES_LBPRusesMEDD
+C1707903,C0013194,USES,Embedding,Drug Packaging,lbpr,medd,1,USES_LBPRusesMEDD
+C1707903,C0450240,USES,Embedding,Cassette (physical object),lbpr,medd,2,USES_LBPRusesMEDD
+C1708481,C0182400,USES,In Vivo Imaging,Probes,lbpr,medd,2,USES_LBPRusesMEDD
+C1710378,C0005971,USES,Thaw,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C1710378,C0179245,USES,Thaw,Water Bath,lbpr,medd,2,USES_LBPRusesMEDD
+C1710378,C0493160,USES,Thaw,"GRINDER, TISSUE",lbpr,medd,1,USES_LBPRusesMEDD
+C1719039,C0183396,USES,High resolution,Mass Spectrometers (device),lbpr,medd,1,USES_LBPRusesMEDD
+C1719039,C0728475,USES,High resolution,ultra,lbpr,medd,7,USES_LBPRusesMEDD
+C1720880,C0179630,USES,Solid Phase Extraction,Cartridge device,lbpr,medd,3,USES_LBPRusesMEDD
+C1879655,C0182158,USES,Corner Minus,Pads,lbpr,medd,1,USES_LBPRusesMEDD
+C1879655,C0183737,USES,Corner Minus,Polydioxanone suture,lbpr,medd,1,USES_LBPRusesMEDD
+C1882368,C0302647,USES,Photon Correlation Spectroscopy,chromatographs,lbpr,medd,1,USES_LBPRusesMEDD
+C1882516,C0728475,USES,Quick Freeze,ultra,lbpr,medd,1,USES_LBPRusesMEDD
+C2010597,C0085590,USES,gastrointestinal Tests,catheter device,lbpr,medd,1,USES_LBPRusesMEDD
+C2121080,C0725865,USES,molecular diagnostics (lab procedure),disposable,lbpr,medd,1,USES_LBPRusesMEDD
+C2238079,C0175730,USES,Blood Smear,biomedical tube device,lbpr,medd,1,USES_LBPRusesMEDD
+C2347338,C0026032,USES,Negative Selection,Microspheres,lbpr,medd,1,USES_LBPRusesMEDD
+C2347338,C0181168,USES,Negative Selection,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C2347338,C0183212,USES,Negative Selection,Separators,lbpr,medd,1,USES_LBPRusesMEDD
+C2347338,C1328924,USES,Negative Selection,magnetic beads,lbpr,medd,3,USES_LBPRusesMEDD
+C2347644,C0013194,USES,Positive Selection,Drug Packaging,lbpr,medd,1,USES_LBPRusesMEDD
+C2347644,C0026032,USES,Positive Selection,Microspheres,lbpr,medd,14,USES_LBPRusesMEDD
+C2347644,C0182400,USES,Positive Selection,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C2347644,C0183212,USES,Positive Selection,Separators,lbpr,medd,1,USES_LBPRusesMEDD
+C2347644,C1328924,USES,Positive Selection,magnetic beads,lbpr,medd,8,USES_LBPRusesMEDD
+C2347885,C1553631,USES,Radioisotopic Labeling (lab procedure),Mandibular right third molar prosthesis,lbpr,medd,1,USES_LBPRusesMEDD
+C2350499,C0182400,USES,Electrochemical Techniques,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C2599415,C0085104,USES,Identity testing,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C2697666,C0005971,USES,Immunoenzyme Procedure,Bone plates,lbpr,medd,3,USES_LBPRusesMEDD
+C2697666,C0026032,USES,Immunoenzyme Procedure,Microspheres,lbpr,medd,48,USES_LBPRusesMEDD
+C2697666,C0182158,USES,Immunoenzyme Procedure,Pads,lbpr,medd,2,USES_LBPRusesMEDD
+C2697666,C0184187,USES,Immunoenzyme Procedure,Tweezer,lbpr,medd,1,USES_LBPRusesMEDD
+C2697666,C0441090,USES,Immunoenzyme Procedure,Dipstick device,lbpr,medd,1,USES_LBPRusesMEDD
+C2697666,C0725865,USES,Immunoenzyme Procedure,disposable,lbpr,medd,1,USES_LBPRusesMEDD
+C2697666,C1328924,USES,Immunoenzyme Procedure,magnetic beads,lbpr,medd,5,USES_LBPRusesMEDD
+C2699420,C0221872,USES,Complement Measurement,Sizer,lbpr,medd,1,USES_LBPRusesMEDD
+C2699541,C1139930,USES,Cytokine Measurement,Device Plate,lbpr,medd,1,USES_LBPRusesMEDD
+C2700094,C0183400,USES,Turbidity Measurement,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C2700258,C0024861,USES,Volume Measurement,Masks,lbpr,medd,1,USES_LBPRusesMEDD
+C2700289,C0184187,USES,Yeast Cell Measurement,Tweezer,lbpr,medd,1,USES_LBPRusesMEDD
+C2717977,C0183400,USES,Enzyme Assays,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C2717977,C0184066,USES,Enzyme Assays,Microplate,lbpr,medd,2,USES_LBPRusesMEDD
+C2718003,C0872077,USES,High-Throughput Screening Methods,portable biomedical equipment,lbpr,medd,1,USES_LBPRusesMEDD
+C2718007,C1289829,USES,Distillation,Packing material,lbpr,medd,1,USES_LBPRusesMEDD
+C2732543,C0005971,USES,Pyrosequencing,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C2733022,C0182400,USES,Quantitative PCR analysis,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C2825900,C1328924,USES,Monocyte Chemotactic Protein 1 Measurement,magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C2827788,C1321564,USES,Epsilometry,strip medical device,lbpr,medd,1,USES_LBPRusesMEDD
+C2936240,C1321564,USES,Two-Dimensional Difference Gel Electrophoresis,strip medical device,lbpr,medd,1,USES_LBPRusesMEDD
+C2985515,C0183396,USES,Glycan Analysis,Mass Spectrometers (device),lbpr,medd,1,USES_LBPRusesMEDD
+C3178849,C1321564,USES,Immunochromatography,strip medical device,lbpr,medd,1,USES_LBPRusesMEDD
+C3178850,C0182400,USES,Immunochromatographic Assay,Probes,lbpr,medd,2,USES_LBPRusesMEDD
+C3178894,C0180694,USES,Genotyping Techniques,Bovie,lbpr,medd,2,USES_LBPRusesMEDD
+C3259781,C0182400,USES,Coagulation Index Measurement,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C3274435,C0005978,USES,Prothrombin Activity Measurement,Bone Wires,lbpr,medd,1,USES_LBPRusesMEDD
+C3274435,C0038257,USES,Prothrombin Activity Measurement,"Stent, device",lbpr,medd,1,USES_LBPRusesMEDD
+C3274435,C1139930,USES,Prothrombin Activity Measurement,Device Plate,lbpr,medd,1,USES_LBPRusesMEDD
+C3483776,C0179740,USES,Antibiotic panel,Peripherally inserted central catheter (physical object),lbpr,medd,1,USES_LBPRusesMEDD
+C3484173,C0013194,USES,Vaccination panel,Drug Packaging,lbpr,medd,1,USES_LBPRusesMEDD
+C3484173,C3880144,USES,Vaccination panel,Micro-needle,lbpr,medd,1,USES_LBPRusesMEDD
+C3495389,C0181839,USES,Chemical analysis,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C3539922,C0179245,USES,Loop-mediated Isothermal Amplification,Water Bath,lbpr,medd,1,USES_LBPRusesMEDD
+C3539922,C0181153,USES,Loop-mediated Isothermal Amplification,"BLOCK, HEATING",lbpr,medd,1,USES_LBPRusesMEDD
+C3539922,C0182400,USES,Loop-mediated Isothermal Amplification,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C3641250,C0182400,USES,Hepatitis B DNA Measurement,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C3641616,C0181839,USES,CD4 Cell to Lymphocyte Ratio Measurement,Microscopes,lbpr,medd,1,USES_LBPRusesMEDD
+C3641616,C1328924,USES,CD4 Cell to Lymphocyte Ratio Measurement,magnetic beads,lbpr,medd,1,USES_LBPRusesMEDD
+C3811131,C0182258,USES,Estrogen Receptor Measurement,Microplate Reader,lbpr,medd,1,USES_LBPRusesMEDD
+C3811388,C0013194,USES,Platelet Activating Factor Measurement,Drug Packaging,lbpr,medd,1,USES_LBPRusesMEDD
+C3811745,C0178987,USES,Mast Cell Count,Artificial Airways,lbpr,medd,2,USES_LBPRusesMEDD
+C3811844,C0085104,USES,Estimated Glomerular Filtration Rate,Drug Delivery Systems,lbpr,medd,1,USES_LBPRusesMEDD
+C3812195,C0182400,USES,Chemokine (C-X-C Motif) Ligand 10 Measurement,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C3828583,C1704653,USES,Perfusion Culture,Cell Device,lbpr,medd,1,USES_LBPRusesMEDD
+C3828715,C0182400,USES,Oligonucleotide Synthesis,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C3829074,C1967611,USES,Micronization,Dry Powder Inhaler (device),lbpr,medd,1,USES_LBPRusesMEDD
+C3872623,C0005971,USES,Dot blot assay,Bone plates,lbpr,medd,1,USES_LBPRusesMEDD
+C3872623,C0182400,USES,Dot blot assay,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C3872623,C0441088,USES,Dot blot assay,Gene probe,lbpr,medd,1,USES_LBPRusesMEDD
+C4048784,C0181061,USES,Reactive Oxygen Metabolite Measurement,goniometers,lbpr,medd,1,USES_LBPRusesMEDD
+C4049918,C0183396,USES,Liquid Chromatography/Tandem Mass Spectrometry,Mass Spectrometers (device),lbpr,medd,2,USES_LBPRusesMEDD
+C4049928,C0175727,USES,Immunoglobulin G Subclass 1 Measurement,Stimulator,lbpr,medd,1,USES_LBPRusesMEDD
+C4053868,C0182400,USES,Viral Identification,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C4054772,C0183396,USES,High-performance Liquid Chromatography/Tandem Mass Spectrometry,Mass Spectrometers (device),lbpr,medd,1,USES_LBPRusesMEDD
+C4284307,C0175730,USES,RNA Isolation,biomedical tube device,lbpr,medd,2,USES_LBPRusesMEDD
+C4284307,C0181200,USES,RNA Isolation,homogenizers,lbpr,medd,1,USES_LBPRusesMEDD
+C4284307,C0182400,USES,RNA Isolation,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C4317078,C0182158,USES,Mycobacterium Tuberculosis Measurement,Pads,lbpr,medd,1,USES_LBPRusesMEDD
+C4317078,C0182400,USES,Mycobacterium Tuberculosis Measurement,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C4318462,C0181168,USES,Viable Cell Count,HEMOCYTOMETER,lbpr,medd,1,USES_LBPRusesMEDD
+C4318939,C0178987,USES,Nasal Swab (procedure),Artificial Airways,lbpr,medd,2,USES_LBPRusesMEDD
+C4318939,C0180806,USES,Nasal Swab (procedure),Extractors,lbpr,medd,1,USES_LBPRusesMEDD
+C4318939,C0879240,USES,Nasal Swab (procedure),Nasal Swabs,lbpr,medd,2,USES_LBPRusesMEDD
+C4318939,C0879241,USES,Nasal Swab (procedure),Pharyngeal Swabs,lbpr,medd,1,USES_LBPRusesMEDD
+C4318939,C1261188,USES,Nasal Swab (procedure),Swab,lbpr,medd,2,USES_LBPRusesMEDD
+C4318939,C1272835,USES,Nasal Swab (procedure),Test kit,lbpr,medd,1,USES_LBPRusesMEDD
+C4522212,C0180279,USES,Complement Ba Measurement,Flow Cytometer,lbpr,medd,1,USES_LBPRusesMEDD
+C4528398,C0183400,USES,A260 to A280 Ratio,Spectrophotometer,lbpr,medd,2,USES_LBPRusesMEDD
+C4528399,C0183400,USES,A260 to A230 Ratio,Spectrophotometer,lbpr,medd,1,USES_LBPRusesMEDD
+C4697079,C0182400,USES,Line blot,Probes,lbpr,medd,3,USES_LBPRusesMEDD
+C4721550,C0178987,USES,Cell Culture,Artificial Airways,lbpr,medd,1,USES_LBPRusesMEDD
+C4721550,C0376432,USES,Cell Culture,Bioreactors,lbpr,medd,2,USES_LBPRusesMEDD
+C4721550,C0392220,USES,Cell Culture,scalpel,lbpr,medd,1,USES_LBPRusesMEDD
+C4721550,C0491970,USES,Cell Culture,Light microscope,lbpr,medd,1,USES_LBPRusesMEDD
+C4721550,C1875499,USES,Cell Culture,MICROCHAMBER,lbpr,medd,1,USES_LBPRusesMEDD
+C4724130,C0181168,USES,Nucleated Cell Count,HEMOCYTOMETER,lbpr,medd,2,USES_LBPRusesMEDD
+C4724157,C0728990,USES,Human Parvovirus B19 Measurement,Clinical Use Template,lbpr,medd,1,USES_LBPRusesMEDD
+C4744457,C0182400,USES,Myeloid Mutation Panel,Probes,lbpr,medd,1,USES_LBPRusesMEDD
+C4760316,C1272835,USES,Opioid risk tool panel,Test kit,lbpr,medd,1,USES_LBPRusesMEDD
+C5197725,C0182537,USES,Hydrogen Deuterium Exchange-Mass Spectrometry,pump (device),lbpr,medd,1,USES_LBPRusesMEDD
+C5201164,C0182400,USES,Cytochrome P450 2C9 Measurement,Probes,lbpr,medd,3,USES_LBPRusesMEDD
+C5201164,C0728990,USES,Cytochrome P450 2C9 Measurement,Clinical Use Template,lbpr,medd,1,USES_LBPRusesMEDD

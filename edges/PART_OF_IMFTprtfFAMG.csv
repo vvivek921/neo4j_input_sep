@@ -1,0 +1,20 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0015576,PART_OF,Immunologic Adjuvants,Family,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0001697,C0020052,PART_OF,Aeroallergen,Households,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0003316,C0015576,PART_OF,Epitopes,Family,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0003316,C0030551,PART_OF,Epitopes,parent,imft,famg,3,PART_OF_IMFTprtfFAMG
+C0003320,C0015576,PART_OF,Antigens,Family,imft,famg,5,PART_OF_IMFTprtfFAMG
+C0003320,C0026591,PART_OF,Antigens,Mother (person),imft,famg,1,PART_OF_IMFTprtfFAMG
+C0003320,C0870134,PART_OF,Antigens,Ancestor,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0003320,C4053457,PART_OF,Antigens,Surrogate,imft,famg,10,PART_OF_IMFTprtfFAMG
+C0003342,C4053457,PART_OF,"Antigens, Viral",Surrogate,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0004886,C0030551,PART_OF,BCG Vaccine,parent,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0019168,C0026591,PART_OF,Hepatitis B Surface Antigens,Mother (person),imft,famg,2,PART_OF_IMFTprtfFAMG
+C0032375,C0030551,PART_OF,Oral Poliovirus Vaccine,parent,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0037355,C0030551,PART_OF,smallpox vaccine,parent,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0042211,C0030551,PART_OF,"Vaccines, Attenuated",parent,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0042742,C0015576,PART_OF,Viral Vaccines,Family,imft,famg,1,PART_OF_IMFTprtfFAMG
+C0069180,C0870134,PART_OF,O Antigens,Ancestor,imft,famg,1,PART_OF_IMFTprtfFAMG
+C1440515,C0680063,PART_OF,Coxsackievirus B4,Offspring,imft,famg,1,PART_OF_IMFTprtfFAMG
+C1883036,C0030551,PART_OF,Single-Chain Antibodies,parent,imft,famg,2,PART_OF_IMFTprtfFAMG
+C2825347,C0030551,PART_OF,"immunoglobulin A, human",parent,imft,famg,1,PART_OF_IMFTprtfFAMG

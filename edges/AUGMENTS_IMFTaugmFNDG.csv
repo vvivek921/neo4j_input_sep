@@ -1,0 +1,69 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0241863,AUGMENTS,Immunologic Adjuvants,diabetic,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0001551,C0376705,AUGMENTS,Immunologic Adjuvants,Viral Load result,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0001551,C0439662,AUGMENTS,Immunologic Adjuvants,Immune,imft,fndg,14,AUGMENTS_IMFTaugmFNDG
+C0001551,C1545588,AUGMENTS,Immunologic Adjuvants,Protection,imft,fndg,17,AUGMENTS_IMFTaugmFNDG
+C0001551,C2945640,AUGMENTS,Immunologic Adjuvants,compromise,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0001551,C3808177,AUGMENTS,Immunologic Adjuvants,Relapsing-remitting course,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0001551,C3840892,AUGMENTS,Immunologic Adjuvants,Day 4,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0001551,C4321237,AUGMENTS,Immunologic Adjuvants,High Level,imft,fndg,3,AUGMENTS_IMFTaugmFNDG
+C0003320,C0439662,AUGMENTS,Antigens,Immune,imft,fndg,4,AUGMENTS_IMFTaugmFNDG
+C0004359,C0150312,AUGMENTS,Autoantigens,Present,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0004886,C1545588,AUGMENTS,BCG Vaccine,Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0005525,C0035648,AUGMENTS,Biological Response Modifiers,risk factors,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0005525,C0439662,AUGMENTS,Biological Response Modifiers,Immune,imft,fndg,2,AUGMENTS_IMFTaugmFNDG
+C0016712,C1545588,AUGMENTS,Freund's Adjuvant,Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0016712,C3280118,AUGMENTS,Freund's Adjuvant,Mild disorder,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0021081,C0029053,AUGMENTS,Immunosuppressive Agents,Decreased translucency,imft,fndg,2,AUGMENTS_IMFTaugmFNDG
+C0021081,C0332149,AUGMENTS,Immunosuppressive Agents,Possible,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0021081,C0439662,AUGMENTS,Immunosuppressive Agents,Immune,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0021403,C0332149,AUGMENTS,Influenza virus vaccine,Possible,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0021403,C0333361,AUGMENTS,Influenza virus vaccine,Acute inflammation,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0021403,C0476442,AUGMENTS,Influenza virus vaccine,High antibody titer,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0021403,C1299586,AUGMENTS,Influenza virus vaccine,Has difficulty doing (qualifier value),imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0021403,C1545588,AUGMENTS,Influenza virus vaccine,Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0021403,C3714738,AUGMENTS,Influenza virus vaccine,Compliance,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0021403,C3842672,AUGMENTS,Influenza virus vaccine,Day 7,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0021403,C4321237,AUGMENTS,Influenza virus vaccine,High Level,imft,fndg,2,AUGMENTS_IMFTaugmFNDG
+C0023158,C0439662,AUGMENTS,Lymphocyte antigen,Immune,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0040555,C0439662,AUGMENTS,Toxoids,Immune,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042211,C0015663,AUGMENTS,"Vaccines, Attenuated",Fasting,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042211,C0439662,AUGMENTS,"Vaccines, Attenuated",Immune,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042211,C1545588,AUGMENTS,"Vaccines, Attenuated",Protection,imft,fndg,3,AUGMENTS_IMFTaugmFNDG
+C0042211,C3540840,AUGMENTS,"Vaccines, Attenuated",Sign or Symptom,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042211,C4321237,AUGMENTS,"Vaccines, Attenuated",High Level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042212,C0033213,AUGMENTS,"Vaccines, Inactivated",Problem,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042212,C0150312,AUGMENTS,"Vaccines, Inactivated",Present,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042212,C0476442,AUGMENTS,"Vaccines, Inactivated",High antibody titer,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042212,C0858628,AUGMENTS,"Vaccines, Inactivated",Pulmonary eosinophilic infiltration,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0042212,C1545588,AUGMENTS,"Vaccines, Inactivated",Protection,imft,fndg,3,AUGMENTS_IMFTaugmFNDG
+C0042212,C4321237,AUGMENTS,"Vaccines, Inactivated",High Level,imft,fndg,3,AUGMENTS_IMFTaugmFNDG
+C0242654,C3540840,AUGMENTS,SIV Vaccine,Sign or Symptom,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0376613,C0239984,AUGMENTS,"Vaccines, DNA",Increased circulating IgA level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0376613,C0439662,AUGMENTS,"Vaccines, DNA",Immune,imft,fndg,5,AUGMENTS_IMFTaugmFNDG
+C0376613,C0476442,AUGMENTS,"Vaccines, DNA",High antibody titer,imft,fndg,6,AUGMENTS_IMFTaugmFNDG
+C0376613,C1545588,AUGMENTS,"Vaccines, DNA",Protection,imft,fndg,6,AUGMENTS_IMFTaugmFNDG
+C0376613,C3272903,AUGMENTS,"Vaccines, DNA",Overall Response,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0376613,C4321237,AUGMENTS,"Vaccines, DNA",High Level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0443758,C0033213,AUGMENTS,Carbohydrate antigen,Problem,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0456981,C0439662,AUGMENTS,Specific antigen,Immune,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0597641,C0439662,AUGMENTS,plasmid vaccine,Immune,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0597641,C1545588,AUGMENTS,plasmid vaccine,Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0599597,C4321351,AUGMENTS,genetic vaccine,Low Level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0599934,C1545588,AUGMENTS,"Vaccines, Peptide",Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0887892,C0150312,AUGMENTS,"Vaccines, Subunit",Present,imft,fndg,2,AUGMENTS_IMFTaugmFNDG
+C0887892,C1545588,AUGMENTS,"Vaccines, Subunit",Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0887892,C4321237,AUGMENTS,"Vaccines, Subunit",High Level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0887902,C3714738,AUGMENTS,"Vaccines, Edible",Compliance,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0887908,C0332219,AUGMENTS,"Vaccines, Marker",Easy,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0887908,C1545588,AUGMENTS,"Vaccines, Marker",Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C0907160,C1148363,AUGMENTS,Pegylated Interferon Alfa,Hepatitis C virus genotype (finding),imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C1327897,C4321351,AUGMENTS,Autologous Immunoglobulin Idiotype-KLH Conjugate Vaccine,Low Level,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C1514218,C1545588,AUGMENTS,Polyvalent Vaccine,Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C1699926,C0428977,AUGMENTS,fingolimod,Bradycardia,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C2825347,C0150312,AUGMENTS,"immunoglobulin A, human",Present,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C2825347,C0332149,AUGMENTS,"immunoglobulin A, human",Possible,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C2825347,C1545588,AUGMENTS,"immunoglobulin A, human",Protection,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C2825347,C3842672,AUGMENTS,"immunoglobulin A, human",Day 7,imft,fndg,5,AUGMENTS_IMFTaugmFNDG
+C2825347,C4289767,AUGMENTS,"immunoglobulin A, human",Colonization,imft,fndg,1,AUGMENTS_IMFTaugmFNDG
+C3530029,C1545588,AUGMENTS,advax,Protection,imft,fndg,2,AUGMENTS_IMFTaugmFNDG

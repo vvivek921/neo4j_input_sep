@@ -1,0 +1,124 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0011441,C0815107,DIAGNOSES,Dentist,Psychological Distress,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0017319,C0011581,DIAGNOSES,General Practitioners,Depressive disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0018724,C0003467,DIAGNOSES,Health Personnel,Anxiety,humn,mobd,3,DIAGNOSES_HUMNdiagMOBD
+C0018724,C0004936,DIAGNOSES,Health Personnel,Mental disorders,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0018724,C0011206,DIAGNOSES,Health Personnel,Delirium,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0018724,C0011581,DIAGNOSES,Health Personnel,Depressive disorder,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0018724,C0038436,DIAGNOSES,Health Personnel,Post-Traumatic Stress Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0018724,C0042693,DIAGNOSES,Health Personnel,Violence,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0018724,C0149779,DIAGNOSES,Health Personnel,Somatization,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0018724,C0233494,DIAGNOSES,Health Personnel,Tension,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0018724,C0700201,DIAGNOSES,Health Personnel,Dyssomnias,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0018724,C0740697,DIAGNOSES,Health Personnel,Psychosocial problem,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0018724,C0815107,DIAGNOSES,Health Personnel,Psychological Distress,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0019949,C0700201,DIAGNOSES,Hospital Administrators,Dyssomnias,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0025106,C0003467,DIAGNOSES,Medical Staff,Anxiety,humn,mobd,5,DIAGNOSES_HUMNdiagMOBD
+C0025106,C0011581,DIAGNOSES,Medical Staff,Depressive disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0025106,C0038443,DIAGNOSES,Medical Staff,"Stress, Psychological",humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0025106,C0149779,DIAGNOSES,Medical Staff,Somatization,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0025106,C0349231,DIAGNOSES,Medical Staff,Phobic anxiety disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0028661,C0003467,DIAGNOSES,Nurses,Anxiety,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0028661,C0004936,DIAGNOSES,Nurses,Mental disorders,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0028661,C0011206,DIAGNOSES,Nurses,Delirium,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0028661,C0038436,DIAGNOSES,Nurses,Post-Traumatic Stress Disorder,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0028661,C0042693,DIAGNOSES,Nurses,Violence,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0028661,C0149779,DIAGNOSES,Nurses,Somatization,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0028661,C0497327,DIAGNOSES,Nurses,Dementia,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0028661,C0751265,DIAGNOSES,Nurses,Learning Disabilities,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0028661,C0815107,DIAGNOSES,Nurses,Psychological Distress,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0028661,C0851578,DIAGNOSES,Nurses,Sleep Disorders,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0028661,C4042834,DIAGNOSES,Nurses,Compassion Fatigue,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0028698,C0011206,DIAGNOSES,Nursing Staff,Delirium,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0028698,C0338656,DIAGNOSES,Nursing Staff,Impaired cognition,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0028698,C0497327,DIAGNOSES,Nursing Staff,Dementia,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0031228,C0815107,DIAGNOSES,"Personnel, Hospital",Psychological Distress,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0031323,C0935578,DIAGNOSES,Pharmacist,harassment,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0031831,C0003467,DIAGNOSES,Physicians,Anxiety,humn,mobd,4,DIAGNOSES_HUMNdiagMOBD
+C0031831,C0011581,DIAGNOSES,Physicians,Depressive disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0031831,C0038436,DIAGNOSES,Physicians,Post-Traumatic Stress Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0031831,C0338656,DIAGNOSES,Physicians,Impaired cognition,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0031831,C0424295,DIAGNOSES,Physicians,Hyperactive behavior,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0031831,C0815107,DIAGNOSES,Physicians,Psychological Distress,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0031831,C4087321,DIAGNOSES,Physicians,Somatic symptom disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0033872,C0004936,DIAGNOSES,Psychiatrist,Mental disorders,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0033872,C0009595,DIAGNOSES,Psychiatrist,Obsessive-Compulsive Personality,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0033872,C0038436,DIAGNOSES,Psychiatrist,Post-Traumatic Stress Disorder,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0033872,C0085281,DIAGNOSES,Psychiatrist,Addictive Behavior,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0033872,C0338656,DIAGNOSES,Psychiatrist,Impaired cognition,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0033908,C0004936,DIAGNOSES,Psychologist,Mental disorders,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0033908,C0085281,DIAGNOSES,Psychologist,Addictive Behavior,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0033908,C0338656,DIAGNOSES,Psychologist,Impaired cognition,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0035173,C0003431,DIAGNOSES,Research Personnel,Antisocial Personality Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0035173,C0003467,DIAGNOSES,Research Personnel,Anxiety,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0035173,C0004352,DIAGNOSES,Research Personnel,Autistic Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0035173,C0011581,DIAGNOSES,Research Personnel,Depressive disorder,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0035173,C0038436,DIAGNOSES,Research Personnel,Post-Traumatic Stress Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0035173,C0270549,DIAGNOSES,Research Personnel,Generalized Anxiety Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0035173,C0497327,DIAGNOSES,Research Personnel,Dementia,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0037444,C0424318,DIAGNOSES,social worker,Bullying,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0038495,C0011581,DIAGNOSES,"Students, Medical",Depressive disorder,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0042960,C0006012,DIAGNOSES,Voluntary Workers,Borderline Personality Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0042960,C0008060,DIAGNOSES,Voluntary Workers,child abuse behavior,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0042960,C0031572,DIAGNOSES,Voluntary Workers,"Phobia, Social",humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0042960,C0036341,DIAGNOSES,Voluntary Workers,Schizophrenia,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0042960,C0524528,DIAGNOSES,Voluntary Workers,Pervasive Development Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0085098,C0206073,DIAGNOSES,Police,Domestic Violence,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0085537,C0338656,DIAGNOSES,Caregiver,Impaired cognition,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0085537,C0497327,DIAGNOSES,Caregiver,Dementia,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0085537,C4042834,DIAGNOSES,Caregiver,Compassion Fatigue,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0086530,C0206073,DIAGNOSES,Lawyer (occupation),Domestic Violence,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0221457,C0029121,DIAGNOSES,Teacher,Oppositional Defiant Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0221457,C0038443,DIAGNOSES,Teacher,"Stress, Psychological",humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0237412,C0011581,DIAGNOSES,Psychologist - Clinical,Depressive disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0237412,C0038436,DIAGNOSES,Psychologist - Clinical,Post-Traumatic Stress Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0237426,C4041080,DIAGNOSES,Neurologists,Neurocognitive Disorders,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0239971,C0233622,DIAGNOSES,hunter,Ritual compulsion,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0242170,C0042693,DIAGNOSES,Policy Makers,Violence,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0259853,C0233494,DIAGNOSES,Educator,Tension,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0334970,C0011581,DIAGNOSES,Economist,Depressive disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0335083,C0042693,DIAGNOSES,Actor,Violence,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0335115,C0233494,DIAGNOSES,Historian,Tension,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0341641,C0038441,DIAGNOSES,Architect,"Stress Disorders, Traumatic",humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0392791,C0233494,DIAGNOSES,Geographer,Tension,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0524647,C0009676,DIAGNOSES,Soldiers,Confusion,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0557555,C0233701,DIAGNOSES,Psychotherapists,Fear of heights,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0582175,C0240602,DIAGNOSES,Surgeon,opioid use,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0596910,C0003467,DIAGNOSES,mental health personnel,Anxiety,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0596910,C0004936,DIAGNOSES,mental health personnel,Mental disorders,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0679924,C0008060,DIAGNOSES,professional occupation status,child abuse behavior,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0679924,C0038441,DIAGNOSES,professional occupation status,"Stress Disorders, Traumatic",humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0684017,C0020903,DIAGNOSES,scholar,Illusions,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0684017,C0206073,DIAGNOSES,scholar,Domestic Violence,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0851286,C0003467,DIAGNOSES,Staff,Anxiety,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0851286,C0004936,DIAGNOSES,Staff,Mental disorders,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0851286,C0038436,DIAGNOSES,Staff,Post-Traumatic Stress Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0851286,C0042693,DIAGNOSES,Staff,Violence,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0870132,C0004352,DIAGNOSES,analysts,Autistic Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0871525,C0858952,DIAGNOSES,therapist,silence,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0871554,C0009676,DIAGNOSES,Tutors,Confusion,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0871685,C0003467,DIAGNOSES,Clinician,Anxiety,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0871685,C0004936,DIAGNOSES,Clinician,Mental disorders,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0871685,C0005586,DIAGNOSES,Clinician,Bipolar Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0871685,C0009595,DIAGNOSES,Clinician,Obsessive-Compulsive Personality,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C0871685,C0011206,DIAGNOSES,Clinician,Delirium,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0871685,C0033975,DIAGNOSES,Clinician,Psychotic Disorders,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0871685,C0038436,DIAGNOSES,Clinician,Post-Traumatic Stress Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0871685,C0338656,DIAGNOSES,Clinician,Impaired cognition,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C0871685,C0497327,DIAGNOSES,Clinician,Dementia,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C1571885,C0004936,DIAGNOSES,Professional Counselor,Mental disorders,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C1709627,C0004249,DIAGNOSES,Practitioner,Atrocities,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C2362565,C0009676,DIAGNOSES,Physical Therapist,Confusion,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C3812881,C0004352,DIAGNOSES,Author,Autistic Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C3812881,C0004936,DIAGNOSES,Author,Mental disorders,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C3812881,C0011206,DIAGNOSES,Author,Delirium,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C3812881,C0011581,DIAGNOSES,Author,Depressive disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C3812881,C0036341,DIAGNOSES,Author,Schizophrenia,humn,mobd,2,DIAGNOSES_HUMNdiagMOBD
+C3812881,C0086168,DIAGNOSES,Author,Dissociation,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C3812881,C0233514,DIAGNOSES,Author,Abnormal behavior,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C3812881,C0424318,DIAGNOSES,Author,Bullying,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C3812881,C0858952,DIAGNOSES,Author,silence,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C3812881,C0935578,DIAGNOSES,Author,harassment,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C4522252,C0004352,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,Autistic Disorder,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C4522252,C0349208,DIAGNOSES,Foundation for the Accreditation of Cellular Therapy,manic episode,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD
+C4738285,C0004936,DIAGNOSES,Response team,Mental disorders,humn,mobd,1,DIAGNOSES_HUMNdiagMOBD

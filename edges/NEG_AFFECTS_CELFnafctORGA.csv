@@ -1,0 +1,13 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004391,C0020969,NEG_AFFECTS,Autophagy,"Immunity, Innate",celf,orga,1,NEG_AFFECTS_CELFnafctORGA
+C0010813,C0085732,NEG_AFFECTS,Cytokinesis,Ability,celf,orga,1,NEG_AFFECTS_CELFnafctORGA
+C0031308,C0085732,NEG_AFFECTS,Phagocytosis,Ability,celf,orga,1,NEG_AFFECTS_CELFnafctORGA
+C0031308,C0489451,NEG_AFFECTS,Phagocytosis,Body surface,celf,orga,2,NEG_AFFECTS_CELFnafctORGA
+C0042774,C0005903,NEG_AFFECTS,Virus Replication,Body Temperature,celf,orga,1,NEG_AFFECTS_CELFnafctORGA
+C0162638,C0085732,NEG_AFFECTS,Apoptosis,Ability,celf,orga,1,NEG_AFFECTS_CELFnafctORGA
+C0162638,C0220898,NEG_AFFECTS,Apoptosis,Predisposition -- attribute,celf,orga,3,NEG_AFFECTS_CELFnafctORGA
+C1159455,C0220898,NEG_AFFECTS,syncytium formation,Predisposition -- attribute,celf,orga,1,NEG_AFFECTS_CELFnafctORGA
+C1622501,C0085732,NEG_AFFECTS,"Migration, Cell",Ability,celf,orga,1,NEG_AFFECTS_CELFnafctORGA
+C2610958,C0220898,NEG_AFFECTS,Necroptosis,Predisposition -- attribute,celf,orga,1,NEG_AFFECTS_CELFnafctORGA
+C3156680,C1136169,NEG_AFFECTS,interleukin-18 secretion,Pathogenicity,celf,orga,1,NEG_AFFECTS_CELFnafctORGA
+C4236737,C0220898,NEG_AFFECTS,Ferroptosis,Predisposition -- attribute,celf,orga,1,NEG_AFFECTS_CELFnafctORGA

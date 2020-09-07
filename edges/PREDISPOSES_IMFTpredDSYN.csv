@@ -1,0 +1,82 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0002792,PREDISPOSES,Immunologic Adjuvants,anaphylaxis,imft,dsyn,2,PREDISPOSES_IMFTpredDSYN
+C0001551,C0003811,PREDISPOSES,Immunologic Adjuvants,Cardiac Arrhythmia,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0001551,C0021400,PREDISPOSES,Immunologic Adjuvants,Influenza,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0001551,C1175175,PREDISPOSES,Immunologic Adjuvants,Severe Acute Respiratory Syndrome,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0001551,C5203670,PREDISPOSES,Immunologic Adjuvants,COVID-19,imft,dsyn,2,PREDISPOSES_IMFTpredDSYN
+C0001697,C0004096,PREDISPOSES,Aeroallergen,Asthma,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0002092,C0002106,PREDISPOSES,Allergens,Allergic pneumonia,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0002092,C0004096,PREDISPOSES,Allergens,Asthma,imft,dsyn,8,PREDISPOSES_IMFTpredDSYN
+C0003316,C0004364,PREDISPOSES,Epitopes,Autoimmune Diseases,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003316,C0014518,PREDISPOSES,Epitopes,Toxic Epidermal Necrolysis,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003316,C1843004,PREDISPOSES,Epitopes,HYPOTRICHOSIS-LYMPHEDEMA-TELANGIECTASIA SYNDROME,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003316,C1852551,PREDISPOSES,Epitopes,Epithelial Recurrent Erosion Dystrophy,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003316,C5203670,PREDISPOSES,Epitopes,COVID-19,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003320,C0004096,PREDISPOSES,Antigens,Asthma,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003320,C0011303,PREDISPOSES,Antigens,Demyelinating Diseases,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003320,C0021400,PREDISPOSES,Antigens,Influenza,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003320,C0033036,PREDISPOSES,Antigens,Atrial Premature Complexes,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003320,C0036202,PREDISPOSES,Antigens,Sarcoidosis,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003320,C0041296,PREDISPOSES,Antigens,Tuberculosis,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003320,C0042749,PREDISPOSES,Antigens,Viremia,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003320,C0042769,PREDISPOSES,Antigens,Virus Diseases,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003320,C0043528,PREDISPOSES,Antigens,Zoonoses,imft,dsyn,2,PREDISPOSES_IMFTpredDSYN
+C0003320,C0746556,PREDISPOSES,Antigens,metabolic disturbance,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003320,C1535950,PREDISPOSES,Antigens,Gastrointestinal inflammation,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003320,C3662483,PREDISPOSES,Antigens,Allergic sensitization,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003339,C0042721,PREDISPOSES,Surface Antigens,Viral hepatitis,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003342,C0011311,PREDISPOSES,"Antigens, Viral",Dengue Fever,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0003342,C0042769,PREDISPOSES,"Antigens, Viral",Virus Diseases,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0004359,C0003864,PREDISPOSES,Autoantigens,Arthritis,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0004359,C0004364,PREDISPOSES,Autoantigens,Autoimmune Diseases,imft,dsyn,4,PREDISPOSES_IMFTpredDSYN
+C0004359,C0011854,PREDISPOSES,Autoantigens,"Diabetes Mellitus, Insulin-Dependent",imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0004632,C0275544,PREDISPOSES,Bacterial Vaccines,Congenital infectious disease,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0005525,C0024312,PREDISPOSES,Biological Response Modifiers,Lymphopenia,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0005525,C0032285,PREDISPOSES,Biological Response Modifiers,Pneumonia,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0005525,C1175175,PREDISPOSES,Biological Response Modifiers,Severe Acute Respiratory Syndrome,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0005525,C1609538,PREDISPOSES,Biological Response Modifiers,Latent Tuberculosis,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0005525,C5203670,PREDISPOSES,Biological Response Modifiers,COVID-19,imft,dsyn,2,PREDISPOSES_IMFTpredDSYN
+C0019168,C0019158,PREDISPOSES,Hepatitis B Surface Antigens,Hepatitis,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0019168,C0019163,PREDISPOSES,Hepatitis B Surface Antigens,Hepatitis B,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0019168,C0042749,PREDISPOSES,Hepatitis B Surface Antigens,Viremia,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0019168,C0275518,PREDISPOSES,Hepatitis B Surface Antigens,Acute infectious disease,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0021054,C0004096,PREDISPOSES,Immunologic Factors,Asthma,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0021054,C0019360,PREDISPOSES,Immunologic Factors,Herpes zoster disease,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0021054,C0032269,PREDISPOSES,Immunologic Factors,Pneumococcal Infections,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0021054,C0042769,PREDISPOSES,Immunologic Factors,Virus Diseases,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0021081,C0009450,PREDISPOSES,Immunosuppressive Agents,Communicable Diseases,imft,dsyn,2,PREDISPOSES_IMFTpredDSYN
+C0021081,C0042769,PREDISPOSES,Immunosuppressive Agents,Virus Diseases,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0021081,C5203670,PREDISPOSES,Immunosuppressive Agents,COVID-19,imft,dsyn,3,PREDISPOSES_IMFTpredDSYN
+C0021403,C0021400,PREDISPOSES,Influenza virus vaccine,Influenza,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0021403,C0032285,PREDISPOSES,Influenza virus vaccine,Pneumonia,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0021403,C5139167,PREDISPOSES,Influenza virus vaccine,Severe infection,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0022144,C0948201,PREDISPOSES,Isoantibodies,Alloimmunization,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0025010,C0021390,PREDISPOSES,Measles Vaccine,Inflammatory Bowel Diseases,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0032375,C0025290,PREDISPOSES,Oral Poliovirus Vaccine,Aseptic Meningitis,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0037355,C0037354,PREDISPOSES,smallpox vaccine,Smallpox,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0042211,C0021334,PREDISPOSES,"Vaccines, Attenuated",Infectious Bovine Rhinotracheitis,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0042212,C0014059,PREDISPOSES,"Vaccines, Inactivated","Encephalomyelitis, Acute Disseminated",imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0051967,C1264606,PREDISPOSES,anti-c antibody,Persistent infection,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0062086,C0018482,PREDISPOSES,Haemophilus influenzae type b polysaccharide vaccine,Haemophilus Infections,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0103647,C0022661,PREDISPOSES,Antineutrophil Cytoplasmic Antibodies,"Kidney Failure, Chronic",imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0282580,C0206750,PREDISPOSES,"Epitopes, T-Lymphocyte",Coronavirus Infections,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0282580,C0263214,PREDISPOSES,"Epitopes, T-Lymphocyte",Pyotraumatic dermatitis,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0282580,C3888198,PREDISPOSES,"Epitopes, T-Lymphocyte","BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0301508,C0043395,PREDISPOSES,yellow fever vaccine,Yellow Fever,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0358314,C0032285,PREDISPOSES,Pneumococcal vaccine,Pneumonia,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0456981,C0004364,PREDISPOSES,Specific antigen,Autoimmune Diseases,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C0887894,C5139167,PREDISPOSES,Respiratory Syncytial Virus Vaccines,Severe infection,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C1291802,C0276500,PREDISPOSES,Human immunodeficiency virus 1 glycoprotein 120 antigen,Human immunodeficiency virus I infection,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C1440514,C0027059,PREDISPOSES,Coxsackievirus B3,Myocarditis,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C1440710,C0011175,PREDISPOSES,HIV 1 gp41,Dehydration,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C1699926,C1175175,PREDISPOSES,fingolimod,Severe Acute Respiratory Syndrome,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C1706452,C0238013,PREDISPOSES,Stem cell product,Invasive aspergillosis,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C1883036,C0042373,PREDISPOSES,Single-Chain Antibodies,Vascular Diseases,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C2825347,C0035235,PREDISPOSES,"immunoglobulin A, human",Respiratory Syncytial Virus Infections,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C2825347,C1175175,PREDISPOSES,"immunoglobulin A, human",Severe Acute Respiratory Syndrome,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C2825347,C1836764,PREDISPOSES,"immunoglobulin A, human",RESPIRATORY RHYTHMICITY IN SLEEP,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C3273243,C0032269,PREDISPOSES,Polysaccharide Vaccine,Pneumococcal Infections,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C3495466,C0600327,PREDISPOSES,Toxoid Vaccine,Toxic Shock Syndrome,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C3657824,C1175175,PREDISPOSES,siponimod,Severe Acute Respiratory Syndrome,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C4684977,C0032285,PREDISPOSES,Immune Checkpoint Inhibitor,Pneumonia,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN
+C4684977,C5203670,PREDISPOSES,Immune Checkpoint Inhibitor,COVID-19,imft,dsyn,1,PREDISPOSES_IMFTpredDSYN

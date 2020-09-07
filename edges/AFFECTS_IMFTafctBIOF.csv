@@ -1,0 +1,50 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0003261,AFFECTS,Immunologic Adjuvants,Antibody Formation,imft,biof,6,AFFECTS_IMFTafctBIOF
+C0001551,C1160638,AFFECTS,Immunologic Adjuvants,Viral life cycle,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0001551,C4277607,AFFECTS,Immunologic Adjuvants,"Immunogenicity, Vaccine",imft,biof,4,AFFECTS_IMFTafctBIOF
+C0003316,C0003261,AFFECTS,Epitopes,Antibody Formation,imft,biof,9,AFFECTS_IMFTafctBIOF
+C0003316,C0042765,AFFECTS,Epitopes,Virulence,imft,biof,4,AFFECTS_IMFTafctBIOF
+C0003316,C0220781,AFFECTS,Epitopes,Anabolism,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003316,C1537068,AFFECTS,Epitopes,Virus Internalization,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003316,C1721019,AFFECTS,Epitopes,Virus Attachment,imft,biof,11,AFFECTS_IMFTafctBIOF
+C0003316,C3822293,AFFECTS,Epitopes,hydrogen biosynthetic process,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003316,C4277607,AFFECTS,Epitopes,"Immunogenicity, Vaccine",imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003320,C0003261,AFFECTS,Antigens,Antibody Formation,imft,biof,10,AFFECTS_IMFTafctBIOF
+C0003320,C0042765,AFFECTS,Antigens,Virulence,imft,biof,3,AFFECTS_IMFTafctBIOF
+C0003320,C0220781,AFFECTS,Antigens,Anabolism,imft,biof,5,AFFECTS_IMFTafctBIOF
+C0003320,C0232478,AFFECTS,Antigens,Ingestion,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003320,C0282629,AFFECTS,Antigens,Virus Assembly,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003320,C1537068,AFFECTS,Antigens,Virus Internalization,imft,biof,2,AFFECTS_IMFTafctBIOF
+C0003320,C1721019,AFFECTS,Antigens,Virus Attachment,imft,biof,2,AFFECTS_IMFTafctBIOF
+C0003320,C4277607,AFFECTS,Antigens,"Immunogenicity, Vaccine",imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003320,C5205068,AFFECTS,Antigens,Virus Reactivation,imft,biof,2,AFFECTS_IMFTafctBIOF
+C0003339,C0042765,AFFECTS,Surface Antigens,Virulence,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003339,C1537068,AFFECTS,Surface Antigens,Virus Internalization,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003339,C1721019,AFFECTS,Surface Antigens,Virus Attachment,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003339,C1721020,AFFECTS,Surface Antigens,Virus Membrane Fusion,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003342,C0003261,AFFECTS,"Antigens, Viral",Antibody Formation,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003342,C0220781,AFFECTS,"Antigens, Viral",Anabolism,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0003342,C0282629,AFFECTS,"Antigens, Viral",Virus Assembly,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0005525,C1721019,AFFECTS,Biological Response Modifiers,Virus Attachment,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0018911,C1537068,AFFECTS,"Hemagglutinins, Viral",Virus Internalization,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0019168,C0220781,AFFECTS,Hepatitis B Surface Antigens,Anabolism,imft,biof,2,AFFECTS_IMFTafctBIOF
+C0021403,C3853734,AFFECTS,Influenza virus vaccine,viral process,imft,biof,2,AFFECTS_IMFTafctBIOF
+C0042211,C0003261,AFFECTS,"Vaccines, Attenuated",Antibody Formation,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0042211,C0042765,AFFECTS,"Vaccines, Attenuated",Virulence,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0042211,C0282688,AFFECTS,"Vaccines, Attenuated","Evolution, Molecular",imft,biof,1,AFFECTS_IMFTafctBIOF
+C0042212,C0003261,AFFECTS,"Vaccines, Inactivated",Antibody Formation,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0057317,C1160638,AFFECTS,Hepatitis delta Antigens,Viral life cycle,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0085432,C4277607,AFFECTS,AIDS Vaccines,"Immunogenicity, Vaccine",imft,biof,1,AFFECTS_IMFTafctBIOF
+C0282580,C0003261,AFFECTS,"Epitopes, T-Lymphocyte",Antibody Formation,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0376613,C0003261,AFFECTS,"Vaccines, DNA",Antibody Formation,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0669873,C0042765,AFFECTS,H5 hemagglutinin,Virulence,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0770694,C1710276,AFFECTS,trivalent influenza vaccine,Systemic Reaction,imft,biof,1,AFFECTS_IMFTafctBIOF
+C0887892,C0003261,AFFECTS,"Vaccines, Subunit",Antibody Formation,imft,biof,1,AFFECTS_IMFTafctBIOF
+C1440710,C1160638,AFFECTS,HIV 1 gp41,Viral life cycle,imft,biof,1,AFFECTS_IMFTafctBIOF
+C1440710,C1537068,AFFECTS,HIV 1 gp41,Virus Internalization,imft,biof,1,AFFECTS_IMFTafctBIOF
+C2825347,C1537068,AFFECTS,"immunoglobulin A, human",Virus Internalization,imft,biof,1,AFFECTS_IMFTafctBIOF
+C2986386,C1721019,AFFECTS,Virus-neutralizing Antibody,Virus Attachment,imft,biof,2,AFFECTS_IMFTafctBIOF
+C3272757,C0220781,AFFECTS,Live Attenuated Influenza Vaccine,Anabolism,imft,biof,1,AFFECTS_IMFTafctBIOF
+C3530029,C0220781,AFFECTS,advax,Anabolism,imft,biof,1,AFFECTS_IMFTafctBIOF
+C3825206,C1721019,AFFECTS,Phospholipid antibodies,Virus Attachment,imft,biof,1,AFFECTS_IMFTafctBIOF
+C4549501,C0003261,AFFECTS,Matrix-M,Antibody Formation,imft,biof,1,AFFECTS_IMFTafctBIOF

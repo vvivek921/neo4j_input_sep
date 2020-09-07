@@ -1,0 +1,183 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001143,C0020517,TREATS,aclarubicin,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0002499,C0151526,TREATS,amikacin,Premature Birth,antb,patf,1,TREATS_ANTBtrtsPATF
+C0002499,C3714514,TREATS,amikacin,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0002645,C0021368,TREATS,amoxicillin,Inflammation,antb,patf,1,TREATS_ANTBtrtsPATF
+C0002645,C1520005,TREATS,amoxicillin,Viral Pathogenesis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0002645,C3714514,TREATS,amoxicillin,Infection,antb,patf,4,TREATS_ANTBtrtsPATF
+C0002679,C0007642,TREATS,amphotericin B,Cellulitis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0002679,C0031154,TREATS,amphotericin B,Peritonitis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0002679,C3714514,TREATS,amphotericin B,Infection,antb,patf,5,TREATS_ANTBtrtsPATF
+C0002680,C0034063,TREATS,ampicillin,Pulmonary Edema,antb,patf,1,TREATS_ANTBtrtsPATF
+C0002680,C0149777,TREATS,ampicillin,Abscess of skin AND/OR subcutaneous tissue,antb,patf,1,TREATS_ANTBtrtsPATF
+C0002680,C3714514,TREATS,ampicillin,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0003232,C0000786,TREATS,Antibiotics,Spontaneous abortion,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0001511,TREATS,Antibiotics,Tissue Adhesions,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0007642,TREATS,Antibiotics,Cellulitis,antb,patf,6,TREATS_ANTBtrtsPATF
+C0003232,C0013604,TREATS,Antibiotics,Edema,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0013687,TREATS,Antibiotics,effusion,antb,patf,3,TREATS_ANTBtrtsPATF
+C0003232,C0020517,TREATS,Antibiotics,Hypersensitivity,antb,patf,14,TREATS_ANTBtrtsPATF
+C0003232,C0021359,TREATS,Antibiotics,Infertility,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0021368,TREATS,Antibiotics,Inflammation,antb,patf,8,TREATS_ANTBtrtsPATF
+C0003232,C0022876,TREATS,Antibiotics,Premature Obstetric Labor,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0026766,TREATS,Antibiotics,Multiple Organ Failure,antb,patf,5,TREATS_ANTBtrtsPATF
+C0003232,C0028778,TREATS,Antibiotics,Obstruction,antb,patf,3,TREATS_ANTBtrtsPATF
+C0003232,C0031154,TREATS,Antibiotics,Peritonitis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0034063,TREATS,Antibiotics,Pulmonary Edema,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0035228,TREATS,Antibiotics,Respiratory Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0036974,TREATS,Antibiotics,Shock,antb,patf,5,TREATS_ANTBtrtsPATF
+C0003232,C0036983,TREATS,Antibiotics,Septic Shock,antb,patf,24,TREATS_ANTBtrtsPATF
+C0003232,C0038941,TREATS,Antibiotics,Surgical Wound Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0003232,C0040053,TREATS,Antibiotics,Thrombosis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0041582,TREATS,Antibiotics,Ulcer,antb,patf,5,TREATS_ANTBtrtsPATF
+C0003232,C0043241,TREATS,Antibiotics,Wound Infection,antb,patf,3,TREATS_ANTBtrtsPATF
+C0003232,C0149777,TREATS,Antibiotics,Abscess of skin AND/OR subcutaneous tissue,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0151521,TREATS,Antibiotics,Bacterial resistance,antb,patf,4,TREATS_ANTBtrtsPATF
+C0003232,C0151526,TREATS,Antibiotics,Premature Birth,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0151763,TREATS,Antibiotics,Liver damage,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0242656,TREATS,Antibiotics,Disease Progression,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0281169,TREATS,Antibiotics,Pulmonary Complication,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0301889,TREATS,Antibiotics,Immune defect,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0332448,TREATS,Antibiotics,Infiltration,antb,patf,6,TREATS_ANTBtrtsPATF
+C0003232,C0333355,TREATS,Antibiotics,Inflammatory disease of mucous membrane,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0341950,TREATS,Antibiotics,Severe pre-eclampsia,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0342579,TREATS,Antibiotics,Electrolyte imbalance,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0476474,TREATS,Antibiotics,persistent fever,antb,patf,2,TREATS_ANTBtrtsPATF
+C0003232,C0543419,TREATS,Antibiotics,Sequela of disorder,antb,patf,2,TREATS_ANTBtrtsPATF
+C0003232,C0544688,TREATS,Antibiotics,complication of disease,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0588128,TREATS,Antibiotics,Infection and inflammatory reaction due to internal orthopedic fixation device,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0729264,TREATS,Antibiotics,Preterm premature rupture of membranes (disorder),antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C0745283,TREATS,Antibiotics,INFECTIOUS PROCESS,antb,patf,3,TREATS_ANTBtrtsPATF
+C0003232,C0860239,TREATS,Antibiotics,Catheter related infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C1155266,TREATS,Antibiotics,Inflammatory Response,antb,patf,2,TREATS_ANTBtrtsPATF
+C0003232,C1373218,TREATS,Antibiotics,Decreased Immunologic Activity [PE],antb,patf,5,TREATS_ANTBtrtsPATF
+C0003232,C1514893,TREATS,Antibiotics,physiologic resolution,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C1520005,TREATS,Antibiotics,Viral Pathogenesis,antb,patf,3,TREATS_ANTBtrtsPATF
+C0003232,C2886794,TREATS,Antibiotics,Catheter related bloodstream infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C3658208,TREATS,Antibiotics,Dysbiosis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003232,C3714514,TREATS,Antibiotics,Infection,antb,patf,161,TREATS_ANTBtrtsPATF
+C0003232,C4061114,TREATS,Antibiotics,Acute illness,antb,patf,3,TREATS_ANTBtrtsPATF
+C0003233,C3714514,TREATS,"Antibiotics, Aminoglycoside",Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0003240,C0020517,TREATS,Macrolide Antibiotics,Hypersensitivity,antb,patf,2,TREATS_ANTBtrtsPATF
+C0003240,C0021368,TREATS,Macrolide Antibiotics,Inflammation,antb,patf,2,TREATS_ANTBtrtsPATF
+C0003240,C3714514,TREATS,Macrolide Antibiotics,Infection,antb,patf,11,TREATS_ANTBtrtsPATF
+C0003387,C0543419,TREATS,Antimycin A,Sequela of disorder,antb,patf,2,TREATS_ANTBtrtsPATF
+C0004521,C0020517,TREATS,aztreonam,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0004521,C3714514,TREATS,aztreonam,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0006968,C3714514,TREATS,Carbapenems,Infection,antb,patf,6,TREATS_ANTBtrtsPATF
+C0007546,C0013604,TREATS,cefazolin,Edema,antb,patf,1,TREATS_ANTBtrtsPATF
+C0007546,C3714514,TREATS,cefazolin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0007561,C0242184,TREATS,ceftriaxone,Hypoxia,antb,patf,1,TREATS_ANTBtrtsPATF
+C0007561,C3495374,TREATS,ceftriaxone,penicillin allergic reaction,antb,patf,1,TREATS_ANTBtrtsPATF
+C0007561,C3714514,TREATS,ceftriaxone,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0007562,C0028778,TREATS,cefuroxime,Obstruction,antb,patf,1,TREATS_ANTBtrtsPATF
+C0007716,C0007642,TREATS,cephalexin,Cellulitis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0008947,C0020517,TREATS,clindamycin,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0008947,C0036974,TREATS,clindamycin,Shock,antb,patf,1,TREATS_ANTBtrtsPATF
+C0008947,C3714514,TREATS,clindamycin,Infection,antb,patf,7,TREATS_ANTBtrtsPATF
+C0009077,C3714514,TREATS,cloxacillin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0010572,C0020517,TREATS,Cycloheximide,Hypersensitivity,antb,patf,3,TREATS_ANTBtrtsPATF
+C0010572,C0024348,TREATS,Cycloheximide,Lysis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0013089,C0020517,TREATS,doxorubicin,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0013089,C0151686,TREATS,doxorubicin,Growth retardation,antb,patf,1,TREATS_ANTBtrtsPATF
+C0013089,C1373218,TREATS,doxorubicin,Decreased Immunologic Activity [PE],antb,patf,1,TREATS_ANTBtrtsPATF
+C0013090,C0020517,TREATS,doxycycline,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0013090,C0242184,TREATS,doxycycline,Hypoxia,antb,patf,1,TREATS_ANTBtrtsPATF
+C0013090,C0476474,TREATS,doxycycline,persistent fever,antb,patf,1,TREATS_ANTBtrtsPATF
+C0013090,C3714514,TREATS,doxycycline,Infection,antb,patf,3,TREATS_ANTBtrtsPATF
+C0014806,C0020517,TREATS,erythromycin,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0014806,C0151526,TREATS,erythromycin,Premature Birth,antb,patf,1,TREATS_ANTBtrtsPATF
+C0014806,C3714514,TREATS,erythromycin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0016610,C3714514,TREATS,fosfomycin,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0020933,C3714514,TREATS,imipenem,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0022914,C0020517,TREATS,Lactams,Hypersensitivity,antb,patf,2,TREATS_ANTBtrtsPATF
+C0022914,C1155266,TREATS,Lactams,Inflammatory Response,antb,patf,2,TREATS_ANTBtrtsPATF
+C0024452,C0043241,TREATS,mafenide,Wound Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0026187,C3714514,TREATS,minocycline,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0026458,C0007642,TREATS,Monobactams,Cellulitis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0026458,C1155266,TREATS,Monobactams,Inflammatory Response,antb,patf,1,TREATS_ANTBtrtsPATF
+C0026458,C3714514,TREATS,Monobactams,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0027780,C0332448,TREATS,netilmicin,Infiltration,antb,patf,1,TREATS_ANTBtrtsPATF
+C0028741,C3714514,TREATS,nystatin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0028951,C0020517,TREATS,Oligomycins,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0030827,C0020517,TREATS,penicillin G,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0030840,C3714514,TREATS,penicillin V,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0030842,C0007642,TREATS,penicillins,Cellulitis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0030842,C0020517,TREATS,penicillins,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0030842,C0041582,TREATS,penicillins,Ulcer,antb,patf,1,TREATS_ANTBtrtsPATF
+C0030842,C0242184,TREATS,penicillins,Hypoxia,antb,patf,1,TREATS_ANTBtrtsPATF
+C0030842,C0332448,TREATS,penicillins,Infiltration,antb,patf,1,TREATS_ANTBtrtsPATF
+C0030842,C0543419,TREATS,penicillins,Sequela of disorder,antb,patf,1,TREATS_ANTBtrtsPATF
+C0030842,C3714514,TREATS,penicillins,Infection,antb,patf,8,TREATS_ANTBtrtsPATF
+C0035608,C0013604,TREATS,rifampin,Edema,antb,patf,1,TREATS_ANTBtrtsPATF
+C0035608,C1155266,TREATS,rifampin,Inflammatory Response,antb,patf,3,TREATS_ANTBtrtsPATF
+C0035608,C3714514,TREATS,rifampin,Infection,antb,patf,4,TREATS_ANTBtrtsPATF
+C0035891,C3714514,TREATS,roxithromycin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0038425,C3714514,TREATS,streptomycin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0038675,C3714514,TREATS,sulfadiazine,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0039644,C3714514,TREATS,tetracycline,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0040341,C3714514,TREATS,tobramycin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0041385,C0020517,TREATS,Tunicamycin,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0041385,C0028778,TREATS,Tunicamycin,Obstruction,antb,patf,1,TREATS_ANTBtrtsPATF
+C0052796,C0020517,TREATS,azithromycin,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0052796,C0021368,TREATS,azithromycin,Inflammation,antb,patf,2,TREATS_ANTBtrtsPATF
+C0052796,C0028778,TREATS,azithromycin,Obstruction,antb,patf,1,TREATS_ANTBtrtsPATF
+C0052796,C0036983,TREATS,azithromycin,Septic Shock,antb,patf,1,TREATS_ANTBtrtsPATF
+C0052796,C0162633,TREATS,azithromycin,Viral Shedding,antb,patf,2,TREATS_ANTBtrtsPATF
+C0052796,C0232219,TREATS,azithromycin,Abnormal cardiac conduction,antb,patf,1,TREATS_ANTBtrtsPATF
+C0052796,C0242656,TREATS,azithromycin,Disease Progression,antb,patf,1,TREATS_ANTBtrtsPATF
+C0052796,C0342579,TREATS,azithromycin,Electrolyte imbalance,antb,patf,1,TREATS_ANTBtrtsPATF
+C0052796,C0476474,TREATS,azithromycin,persistent fever,antb,patf,2,TREATS_ANTBtrtsPATF
+C0052796,C1155266,TREATS,azithromycin,Inflammatory Response,antb,patf,1,TREATS_ANTBtrtsPATF
+C0052796,C3714514,TREATS,azithromycin,Infection,antb,patf,3,TREATS_ANTBtrtsPATF
+C0054036,C0020517,TREATS,Brefeldin A,Hypersensitivity,antb,patf,2,TREATS_ANTBtrtsPATF
+C0054036,C0036679,TREATS,Brefeldin A,Diastasis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0055003,C0036983,TREATS,cefepime,Septic Shock,antb,patf,1,TREATS_ANTBtrtsPATF
+C0055856,C0020517,TREATS,clarithromycin,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0055856,C0035228,TREATS,clarithromycin,Respiratory Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0055856,C3714514,TREATS,clarithromycin,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0059374,C1720776,TREATS,enrofloxacin,"Kindling, Neurologic",antb,patf,1,TREATS_ANTBtrtsPATF
+C0060405,C4743756,TREATS,cefdinir,Intrauterine Exposure,antb,patf,1,TREATS_ANTBtrtsPATF
+C0060466,C0031557,TREATS,florfenicol,Phlegmon,antb,patf,1,TREATS_ANTBtrtsPATF
+C0060879,C3714514,TREATS,fusafungin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0062565,C0001511,TREATS,herbimycin,Tissue Adhesions,antb,patf,1,TREATS_ANTBtrtsPATF
+C0065002,C3714514,TREATS,Lincosamides,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0066005,C3714514,TREATS,meropenem,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0072980,C0013604,TREATS,sirolimus,Edema,antb,patf,1,TREATS_ANTBtrtsPATF
+C0072980,C0016059,TREATS,sirolimus,Fibrosis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0072980,C0020517,TREATS,sirolimus,Hypersensitivity,antb,patf,2,TREATS_ANTBtrtsPATF
+C0072980,C0021655,TREATS,sirolimus,Insulin Resistance,antb,patf,1,TREATS_ANTBtrtsPATF
+C0072980,C1373218,TREATS,sirolimus,Decreased Immunologic Activity [PE],antb,patf,2,TREATS_ANTBtrtsPATF
+C0085259,C0392618,TREATS,mupirocin,Postoperative infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0110038,C0021368,TREATS,clavulanate,Inflammation,antb,patf,1,TREATS_ANTBtrtsPATF
+C0279516,C0013687,TREATS,Anti-Bacterial Agents,effusion,antb,patf,1,TREATS_ANTBtrtsPATF
+C0279516,C0021368,TREATS,Anti-Bacterial Agents,Inflammation,antb,patf,1,TREATS_ANTBtrtsPATF
+C0279516,C0036983,TREATS,Anti-Bacterial Agents,Septic Shock,antb,patf,1,TREATS_ANTBtrtsPATF
+C0279516,C0151521,TREATS,Anti-Bacterial Agents,Bacterial resistance,antb,patf,1,TREATS_ANTBtrtsPATF
+C0279516,C0242656,TREATS,Anti-Bacterial Agents,Disease Progression,antb,patf,1,TREATS_ANTBtrtsPATF
+C0279516,C0333506,TREATS,Anti-Bacterial Agents,Massive necrosis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0279516,C0392618,TREATS,Anti-Bacterial Agents,Postoperative infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0279516,C0476474,TREATS,Anti-Bacterial Agents,persistent fever,antb,patf,1,TREATS_ANTBtrtsPATF
+C0279516,C1261287,TREATS,Anti-Bacterial Agents,Stenosis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0279516,C3714514,TREATS,Anti-Bacterial Agents,Infection,antb,patf,11,TREATS_ANTBtrtsPATF
+C0282215,C0020517,TREATS,beta-Lactams,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0282215,C0036983,TREATS,beta-Lactams,Septic Shock,antb,patf,1,TREATS_ANTBtrtsPATF
+C0282386,C3714514,TREATS,levofloxacin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0304317,C0007642,TREATS,First generation cephalosporin,Cellulitis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0304317,C0020517,TREATS,First generation cephalosporin,Hypersensitivity,antb,patf,2,TREATS_ANTBtrtsPATF
+C0304320,C0020517,TREATS,Third generation cephalosporin,Hypersensitivity,antb,patf,2,TREATS_ANTBtrtsPATF
+C0304320,C3714514,TREATS,Third generation cephalosporin,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C0310367,C0020517,TREATS,Today,Hypersensitivity,antb,patf,1,TREATS_ANTBtrtsPATF
+C0310367,C0024348,TREATS,Today,Lysis,antb,patf,2,TREATS_ANTBtrtsPATF
+C0310367,C3714514,TREATS,Today,Infection,antb,patf,4,TREATS_ANTBtrtsPATF
+C0355824,C0007642,TREATS,Penicillinase-resistant penicillin,Cellulitis,antb,patf,1,TREATS_ANTBtrtsPATF
+C0361823,C3714514,TREATS,Fourth generation cephalosporin,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0536495,C1096343,TREATS,moxifloxacin,Infusion site reaction,antb,patf,1,TREATS_ANTBtrtsPATF
+C0599503,C3714514,TREATS,Sulfonamide Anti-Infective Agents,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C0723285,C0013687,TREATS,Septa,effusion,antb,patf,1,TREATS_ANTBtrtsPATF
+C0887953,C3714514,TREATS,Oxazolidinones,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C1260298,C3714514,TREATS,tigecycline,Infection,antb,patf,4,TREATS_ANTBtrtsPATF
+C3536856,C0429892,TREATS,Cephalosporins,Type 1 hypersensitivity response,antb,patf,1,TREATS_ANTBtrtsPATF
+C3536856,C3714514,TREATS,Cephalosporins,Infection,antb,patf,1,TREATS_ANTBtrtsPATF
+C3854019,C3714514,TREATS,gentamicin,Infection,antb,patf,2,TREATS_ANTBtrtsPATF
+C4548369,C3714514,TREATS,cefiderocol,Infection,antb,patf,2,TREATS_ANTBtrtsPATF

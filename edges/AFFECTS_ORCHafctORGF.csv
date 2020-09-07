@@ -1,0 +1,441 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000959,C0005823,AFFECTS,acepromazine,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0000975,C0011135,AFFECTS,acetate,Defecation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0000975,C0018270,AFFECTS,acetate,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0001186,C0018270,AFFECTS,Acridines,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0001275,C0018270,AFFECTS,activated charcoal,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0001392,C1516559,AFFECTS,Adamantane,Circulatory Process,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0001962,C0011065,AFFECTS,ethanol,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0001962,C0012238,AFFECTS,ethanol,Digestion,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0001962,C0699900,AFFECTS,ethanol,Catabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0001975,C0018270,AFFECTS,Alcohols,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0001992,C0018270,AFFECTS,Aldehydes,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0002421,C0678889,AFFECTS,ambroxol,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0002482,C0016284,AFFECTS,Amides,Fluid Balance,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0002556,C1148523,AFFECTS,Aminoglycosides,Childbirth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0002598,C0025519,AFFECTS,amiodarone,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0002707,C0678889,AFFECTS,amygdalin,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0003392,C0018270,AFFECTS,Antineoplastic Agents,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0003392,C0020966,AFFECTS,Antineoplastic Agents,Cellular Immunity,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0003392,C0035150,AFFECTS,Antineoplastic Agents,Reproduction,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0003968,C0018270,AFFECTS,ascorbic acid,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0003968,C0032961,AFFECTS,ascorbic acid,Pregnancy,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0003968,C0043240,AFFECTS,ascorbic acid,Wound Healing,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0003968,C0920552,AFFECTS,ascorbic acid,hormonal regulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0004057,C0035150,AFFECTS,aspirin,Reproduction,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0004057,C1155328,AFFECTS,aspirin,Antiviral Response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0004504,C4234967,AFFECTS,Azoles,developmental resistance,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0005802,C0011065,AFFECTS,Blood Glucose,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0005802,C0920552,AFFECTS,Blood Glucose,hormonal regulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0006405,C0009253,AFFECTS,buprenorphine,Coitus,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0006507,C0678889,AFFECTS,butylated hydroxytoluene,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0006521,C0018270,AFFECTS,Butyrates,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0006521,C0678889,AFFECTS,Butyrates,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0006644,C0008810,AFFECTS,caffeine,Circadian Rhythms,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0006644,C0026649,AFFECTS,caffeine,Movement,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0006863,C1327413,AFFECTS,cannabidiol,cytokine production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0006864,C0814002,AFFECTS,Cannabinoids,Neurogenesis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0007004,C0000934,AFFECTS,Carbohydrates,Acclimatization,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0007004,C0018270,AFFECTS,Carbohydrates,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0007004,C0025519,AFFECTS,Carbohydrates,Metabolism,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0007004,C0026559,AFFECTS,Carbohydrates,Morphogenesis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0007004,C1155328,AFFECTS,Carbohydrates,Antiviral Response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0008269,C0011065,AFFECTS,chloroquine,Cessation of life,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0008269,C0032961,AFFECTS,chloroquine,Pregnancy,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0008269,C0678723,AFFECTS,chloroquine,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0008269,C0678889,AFFECTS,chloroquine,Immunoregulation,orch,orgf,19,AFFECTS_ORCHafctORGF
+C0008269,C1327413,AFFECTS,chloroquine,cytokine production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0008286,C0678889,AFFECTS,chlorpromazine,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0008318,C0018270,AFFECTS,cholecalciferol,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0009262,C0018270,AFFECTS,colchicine,Growth,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0009262,C0026649,AFFECTS,colchicine,Movement,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0009262,C0678723,AFFECTS,colchicine,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0009262,C0678889,AFFECTS,colchicine,Immunoregulation,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0009262,C1327413,AFFECTS,colchicine,cytokine production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0010207,C0035150,AFFECTS,Coumarins,Reproduction,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0010583,C0020967,AFFECTS,cyclophosphamide,Humoral Immunity,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0011685,C0231256,AFFECTS,desipramine,Body growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0011777,C0011065,AFFECTS,dexamethasone,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0011806,C1516559,AFFECTS,Dextrans,Circulatory Process,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0011816,C1327441,AFFECTS,dextromethorphan,negative regulation of inflammatory response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0012328,C0596236,AFFECTS,Dihydroxycholecalciferols,calcium metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0012611,C0043064,AFFECTS,Disaccharides,Water-Electrolyte Balance,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0012611,C0043240,AFFECTS,Disaccharides,Wound Healing,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0014479,C0678889,AFFECTS,ephedrine,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0014695,C0001811,AFFECTS,ergocalciferol,Aging,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0014695,C0020966,AFFECTS,ergocalciferol,Cellular Immunity,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0014695,C0025519,AFFECTS,ergocalciferol,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0014695,C0596236,AFFECTS,ergocalciferol,calcium metabolism,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0014695,C0678723,AFFECTS,ergocalciferol,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0014695,C0678889,AFFECTS,ergocalciferol,Immunoregulation,orch,orgf,8,AFFECTS_ORCHafctORGF
+C0014695,C1155328,AFFECTS,ergocalciferol,Antiviral Response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0014695,C1749719,AFFECTS,ergocalciferol,Adaptive Immune Response,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0014695,C2610587,AFFECTS,ergocalciferol,lung growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0014695,C2936375,AFFECTS,ergocalciferol,Th1-Th2 Balance,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0014695,C2985494,AFFECTS,ergocalciferol,Resorption,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0014898,C0012238,AFFECTS,Esters,Digestion,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0014898,C0018270,AFFECTS,Esters,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0015684,C0013470,AFFECTS,Fatty Acids,Eating,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0015684,C0597252,AFFECTS,Fatty Acids,Plant Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0015688,C0001811,AFFECTS,Nonesterified Fatty Acids,Aging,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0015688,C0678711,AFFECTS,Nonesterified Fatty Acids,gut fermentation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0015846,C0011065,AFFECTS,fentanyl,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0016157,C1327413,AFFECTS,fish oils,cytokine production,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0016157,C1819464,AFFECTS,fish oils,tumor necrosis factor production,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0016410,C0699900,AFFECTS,folic acid,Catabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0016572,C0011135,AFFECTS,Formates,Defecation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0016786,C0678889,AFFECTS,Fucose,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0016801,C0018270,AFFECTS,Fumarates,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0017082,C0001811,AFFECTS,Gangliosides,Aging,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0017696,C0678889,AFFECTS,Glucans,Immunoregulation,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0017887,C0162523,AFFECTS,nitroglycerin,Portal Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0017977,C0018270,AFFECTS,Glycosides,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0017986,C0005823,AFFECTS,glycyrrhetinic acid,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0017986,C0025519,AFFECTS,glycyrrhetinic acid,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0017992,C0001811,AFFECTS,glyoxal,Aging,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0019139,C0011065,AFFECTS,"Heparin, Low-Molecular-Weight",Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0019139,C0678889,AFFECTS,"Heparin, Low-Molecular-Weight",Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0020336,C0009253,AFFECTS,hydroxychloroquine,Coitus,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0020336,C0011065,AFFECTS,hydroxychloroquine,Cessation of life,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0020336,C0018270,AFFECTS,hydroxychloroquine,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0020336,C0597230,AFFECTS,hydroxychloroquine,photoprotection,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0020336,C0678889,AFFECTS,hydroxychloroquine,Immunoregulation,orch,orgf,19,AFFECTS_ORCHafctORGF
+C0020336,C1155328,AFFECTS,hydroxychloroquine,Antiviral Response,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0020336,C1327413,AFFECTS,hydroxychloroquine,cytokine production,orch,orgf,4,AFFECTS_ORCHafctORGF
+C0020336,C1749719,AFFECTS,hydroxychloroquine,Adaptive Immune Response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0021547,C0001811,AFFECTS,inositol,Aging,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0022179,C0233896,AFFECTS,Isoflavones,Sexual Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0022322,C0011065,AFFECTS,ivermectin,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0022322,C0018270,AFFECTS,ivermectin,Growth,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0022634,C0018270,AFFECTS,Ketones,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0022860,C0005823,AFFECTS,labetalol,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0022924,C0005615,AFFECTS,Lactates,Birth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0022924,C0005823,AFFECTS,Lactates,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023779,C0005823,AFFECTS,Lipids,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023779,C0018270,AFFECTS,Lipids,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023779,C0025519,AFFECTS,Lipids,Metabolism,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0023779,C0678889,AFFECTS,Lipids,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023779,C1148523,AFFECTS,Lipids,Childbirth,orch,orgf,7,AFFECTS_ORCHafctORGF
+C0023779,C1155328,AFFECTS,Lipids,Antiviral Response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023779,C1523776,AFFECTS,Lipids,surfactant homeostasis,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0023779,C1563744,AFFECTS,Lipids,Lipogenesis,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0023779,C1752856,AFFECTS,Lipids,Host-Pathogen Interactions,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023810,C0011065,AFFECTS,Lipopolysaccharides,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023810,C0035150,AFFECTS,Lipopolysaccharides,Reproduction,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023810,C0678889,AFFECTS,Lipopolysaccharides,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023810,C0814002,AFFECTS,Lipopolysaccharides,Neurogenesis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023810,C1155328,AFFECTS,Lipopolysaccharides,Antiviral Response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023810,C1327413,AFFECTS,Lipopolysaccharides,cytokine production,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0023810,C1819459,AFFECTS,Lipopolysaccharides,interleukin-6 production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023810,C1819461,AFFECTS,Lipopolysaccharides,interleukin-8 production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023828,C0000934,AFFECTS,Liposomes,Acclimatization,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023828,C0011167,AFFECTS,Liposomes,Deglutition,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023828,C0018270,AFFECTS,Liposomes,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0023828,C1148523,AFFECTS,Liposomes,Childbirth,orch,orgf,21,AFFECTS_ORCHafctORGF
+C0023992,C1819464,AFFECTS,loperamide,tumor necrosis factor production,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0024658,C0043064,AFFECTS,maltose,Water-Electrolyte Balance,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0024728,C0005823,AFFECTS,Mannich Bases,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0024730,C0026649,AFFECTS,mannitol,Movement,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0024742,C1154988,AFFECTS,mannose,defense response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0025598,C0013470,AFFECTS,metformin,Eating,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0025598,C0043240,AFFECTS,metformin,Wound Healing,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0025598,C0678889,AFFECTS,metformin,Immunoregulation,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0025638,C0035150,AFFECTS,methenamine,Reproduction,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0026549,C0023946,AFFECTS,morphine,Locomotion,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0026818,C0029957,AFFECTS,Muscimol,Oviposition,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0027360,C0018270,AFFECTS,naltrexone,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0027996,C0025519,AFFECTS,niacin,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0028017,C0018270,AFFECTS,niclosamide,Growth,orch,orgf,14,AFFECTS_ORCHafctORGF
+C0028017,C4279968,AFFECTS,niclosamide,Anaerobic Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0028066,C0162523,AFFECTS,nifedipine,Portal Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0028128,C0005823,AFFECTS,nitric oxide,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0028128,C0011065,AFFECTS,nitric oxide,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0028128,C0699900,AFFECTS,nitric oxide,Catabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0028908,C0018270,AFFECTS,Oils,Growth,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0028908,C0678889,AFFECTS,Oils,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0028908,C2584321,AFFECTS,Oils,Reaching,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0028910,C0011065,AFFECTS,"Oils, Volatile",Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0028959,C0006147,AFFECTS,Oligosaccharides,Breast Feeding,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0028959,C0018270,AFFECTS,Oligosaccharides,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0028959,C0678723,AFFECTS,Oligosaccharides,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0030899,C0020967,AFFECTS,pentoxifylline,Humoral Immunity,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0030899,C0678889,AFFECTS,pentoxifylline,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0031428,C0018270,AFFECTS,Phenols,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0031469,C0005823,AFFECTS,phenylephrine,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0031495,C0003618,AFFECTS,phenylpropanolamine,Desire for food,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0031623,C1148523,AFFECTS,Phosphatidylserines,Childbirth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0031716,C0014653,AFFECTS,Phosphorylcholine,Equilibrium,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0032433,C0008810,AFFECTS,Polyamines,Circadian Rhythms,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0032433,C0043240,AFFECTS,Polyamines,Wound Healing,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0032433,C2936272,AFFECTS,Polyamines,Circadian Clocks,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0032594,C0014653,AFFECTS,Polysaccharides,Equilibrium,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0032594,C0018270,AFFECTS,Polysaccharides,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0032594,C0678723,AFFECTS,Polysaccharides,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0032594,C0678889,AFFECTS,Polysaccharides,Immunoregulation,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0032594,C0699900,AFFECTS,Polysaccharides,Catabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0032594,C1654934,AFFECTS,Polysaccharides,Immune Evasion,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0032594,C1752856,AFFECTS,Polysaccharides,Host-Pathogen Interactions,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0032594,C1819439,AFFECTS,Polysaccharides,interleukin-12 production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0032950,C0029976,AFFECTS,prednisolone,"Blastocyst Implantation, natural",orch,orgf,1,AFFECTS_ORCHafctORGF
+C0033474,C0018270,AFFECTS,Propionates,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0033482,C0003618,AFFECTS,Propionic Acids,Desire for food,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0033497,C0162523,AFFECTS,propranolol,Portal Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0033798,C0678889,AFFECTS,pseudoephedrine,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0034240,C0678889,AFFECTS,Pyrazines,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0034266,C0018270,AFFECTS,pyridoxal phosphate,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0034284,C0018270,AFFECTS,Pyrimidine,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0034284,C0025519,AFFECTS,Pyrimidine,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0034284,C1155328,AFFECTS,Pyrimidine,Antiviral Response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0034392,C0014653,AFFECTS,quercetin,Equilibrium,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0035339,C0025519,AFFECTS,Retinoids,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0035339,C0814002,AFFECTS,Retinoids,Neurogenesis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0035549,C0026559,AFFECTS,ribose,Morphogenesis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0035976,C1327441,AFFECTS,rutin,negative regulation of inflammatory response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0036023,C0013470,AFFECTS,saccharin,Eating,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0037500,C1148523,AFFECTS,"deoxycholic acid, monosodium salt",Childbirth,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0037501,C0025519,AFFECTS,sodium dichloroacetate,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0037900,C0014653,AFFECTS,Sphingolipids,Equilibrium,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0038317,C0011065,AFFECTS,Steroids,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0038317,C0018270,AFFECTS,Steroids,Growth,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0038317,C0043240,AFFECTS,Steroids,Wound Healing,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0038317,C1155328,AFFECTS,Steroids,Antiviral Response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0038617,C0018270,AFFECTS,Succinates,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0038734,C0025516,AFFECTS,Sulfhydryl Compounds,"Metabolic Detoxication, Drug",orch,orgf,1,AFFECTS_ORCHafctORGF
+C0038880,C0043240,AFFECTS,suramin,Wound Healing,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0039771,C0004048,AFFECTS,theophylline,Inspiration function,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0039902,C0026649,AFFECTS,thioguanine,Movement,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0039902,C1819459,AFFECTS,thioguanine,interleukin-6 production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0040263,C1621922,AFFECTS,tinidazole,somatic embryogenesis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0040383,C0011065,AFFECTS,toluene,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0040613,C0011065,AFFECTS,tranexamic acid,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0040958,C1563744,AFFECTS,triclosan,Lipogenesis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0041417,C1148523,AFFECTS,Tween 80,Childbirth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0041738,C0814001,AFFECTS,unithiol,Mineral balance,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0042523,C0162523,AFFECTS,verapamil,Portal Pressure,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0042672,C0018270,AFFECTS,Vinca Alkaloids,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0042839,C0018270,AFFECTS,vitamin A,Growth,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0042839,C0042789,AFFECTS,vitamin A,Vision,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0042845,C0025519,AFFECTS,vitamin B12,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0042849,C0003618,AFFECTS,vitamin B complex,Desire for food,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0042874,C0018270,AFFECTS,vitamin E,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0042874,C0678723,AFFECTS,vitamin E,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0042874,C0678889,AFFECTS,vitamin E,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0042874,C1819447,AFFECTS,vitamin E,interleukin-2 production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0042890,C0025519,AFFECTS,Vitamins,Metabolism,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0042890,C0678723,AFFECTS,Vitamins,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0042890,C0678889,AFFECTS,Vitamins,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0050156,C1819447,AFFECTS,Conjugated Linoleic Acid,interleukin-2 production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0050492,C0018270,AFFECTS,acetylacetone,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0051696,C0005823,AFFECTS,amlodipine,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0051767,C0009637,AFFECTS,amsonic acid,Conception,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0052429,C0032961,AFFECTS,artemether,Pregnancy,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0052430,C0018270,AFFECTS,artemisinine,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0052432,C0018270,AFFECTS,artesunate,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0052919,C0678723,AFFECTS,bafilomycin A1,Biologic Development,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0052919,C0678889,AFFECTS,bafilomycin A1,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0053622,C0678889,AFFECTS,biochanin A,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0054984,C0018270,AFFECTS,CDTA,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0055082,C0598358,AFFECTS,cepharanthine,ionic balance,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0055295,C1155328,AFFECTS,chenodeoxycholate sulfate conjugate,Antiviral Response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0055295,C1654934,AFFECTS,chenodeoxycholate sulfate conjugate,Immune Evasion,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0055295,C1819431,AFFECTS,chenodeoxycholate sulfate conjugate,interferon-alpha production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0055729,C0011167,AFFECTS,cilostazol,Deglutition,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0057472,C0025519,AFFECTS,1-(2-(dodecyloxy)ethyl)pyrrolidine hydrochloride,Metabolism,orch,orgf,8,AFFECTS_ORCHafctORGF
+C0057743,C0001811,AFFECTS,diazobenzenesulfonic acid,Aging,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0058882,C0015895,AFFECTS,E 64,Fertility,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0059438,C0001811,AFFECTS,epigallocatechin gallate,Aging,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0059438,C0014653,AFFECTS,epigallocatechin gallate,Equilibrium,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0059438,C0018270,AFFECTS,epigallocatechin gallate,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0060444,C0025519,AFFECTS,Flavonols,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0060991,C3159140,AFFECTS,galacturonic acid,interferon production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0061751,C0018270,AFFECTS,glycyrrhizic acid,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0061751,C0678889,AFFECTS,glycyrrhizic acid,Immunoregulation,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0061751,C1154988,AFFECTS,glycyrrhizic acid,defense response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0061751,C1327413,AFFECTS,glycyrrhizic acid,cytokine production,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0063083,C0678889,AFFECTS,Hydrogel,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0063273,C0014653,AFFECTS,icariin,Equilibrium,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0063273,C2936272,AFFECTS,icariin,Circadian Clocks,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0065264,C0678889,AFFECTS,Luteolin,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0065264,C0699900,AFFECTS,Luteolin,Catabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0067067,C0011065,AFFECTS,myricetin,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0068649,C0598941,AFFECTS,neurotropin,Biological Neural Networks,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0068711,C0025519,AFFECTS,nicotinamide-beta-riboside,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0068788,C0678723,AFFECTS,nitazoxanide,Biologic Development,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0068961,C0015946,AFFECTS,norbinaltorphimine,Fetal Movement,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0070122,C0678889,AFFECTS,paroxetine,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0070302,C1148523,AFFECTS,pentamethylmelamine,Childbirth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0070320,C0678889,AFFECTS,peoniflorin,Immunoregulation,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0071649,C0015264,AFFECTS,polyphenols,Exertion,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0071649,C0025519,AFFECTS,polyphenols,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0072522,C1621922,AFFECTS,polysaccharide-K,somatic embryogenesis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0073374,C0011135,AFFECTS,rifaximin,Defecation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0074222,C0009253,AFFECTS,SDDS,Coitus,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0074393,C0678889,AFFECTS,sertraline,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0074722,C0013123,AFFECTS,sodium bicarbonate,Water consumption,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0074992,C0014653,AFFECTS,sphingosine 1-phosphate,Equilibrium,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0074992,C0018270,AFFECTS,sphingosine 1-phosphate,Growth,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0074992,C0678723,AFFECTS,sphingosine 1-phosphate,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0076316,C0037313,AFFECTS,tetrandrine,Sleep,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0076316,C0678889,AFFECTS,tetrandrine,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0077857,C0005823,AFFECTS,urapidil,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0077938,C0678889,AFFECTS,ursolic acid,Immunoregulation,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0079224,C0018270,AFFECTS,dextran sulfate,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0081408,C1819436,AFFECTS,zileuton,interleukin-1 production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0081876,C0018270,AFFECTS,pantoprazole,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0083136,C0018270,AFFECTS,kifunensine,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0083381,C0003618,AFFECTS,meloxicam,Desire for food,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0085535,C0026649,AFFECTS,Swainsonine,Movement,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0089267,C0026649,AFFECTS,1-Deoxynojirimycin,Movement,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0102885,C1563744,AFFECTS,Am 580,Lipogenesis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0107162,C1148523,AFFECTS,Brij 35,Childbirth,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0114346,C0023946,AFFECTS,Dimesna,Locomotion,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0119093,C0018270,AFFECTS,germacrone,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0123643,C0026559,AFFECTS,InsP5,Morphogenesis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0126174,C0005823,AFFECTS,losartan,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0126174,C1819435,AFFECTS,losartan,interleukin-1 beta production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0127615,C0678889,AFFECTS,mesalamine,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0131850,C0023946,AFFECTS,naltrindole benzofuran,Locomotion,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0135567,C1752856,AFFECTS,PAVAS,Host-Pathogen Interactions,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0136074,C0003618,AFFECTS,Pepto-bismol,Desire for food,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0143993,C0005823,AFFECTS,sufentanil,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0144576,C0678889,AFFECTS,paclitaxel,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0162969,C0018270,AFFECTS,chitosan,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0162969,C0678889,AFFECTS,chitosan,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0162969,C1148523,AFFECTS,chitosan,Childbirth,orch,orgf,4,AFFECTS_ORCHafctORGF
+C0163638,C0009637,AFFECTS,IL-W,Conception,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0165032,C0678889,AFFECTS,imiquimod,Immunoregulation,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0172934,C0025519,AFFECTS,27-hydroxycholesterol,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0172934,C1563744,AFFECTS,27-hydroxycholesterol,Lipogenesis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0175788,C0678723,AFFECTS,Triacetate,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0175820,C0025519,AFFECTS,Anthocyanidins,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0206008,C0678723,AFFECTS,2-mercaptoethanesulfonic acid,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0206008,C1662975,AFFECTS,2-mercaptoethanesulfonic acid,heat dissipation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0216660,C1148523,AFFECTS,zanamivir,Childbirth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0242209,C1523928,AFFECTS,Sugars,lipid digestion,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0248719,C0025519,AFFECTS,telmisartan,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0251991,C0018270,AFFECTS,LY 294002,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0254211,C0678889,AFFECTS,arbidol,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0260127,C0678889,AFFECTS,Phosphonates,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0260264,C0011167,AFFECTS,steroid drug,Deglutition,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0282398,C0598358,AFFECTS,mefloquine hydrochloride,ionic balance,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0286185,C0005823,AFFECTS,mibefradil,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0292818,C0025519,AFFECTS,ritonavir,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0304721,C0678889,AFFECTS,adrenal cortex extract,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0309049,C0560560,AFFECTS,favor,Moving,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0360114,C0037313,AFFECTS,Benzodiazepine sedative,Sleep,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0360714,C0678889,AFFECTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Immunoregulation,orch,orgf,6,AFFECTS_ORCHafctORGF
+C0360714,C0699900,AFFECTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Catabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0440015,C0005823,AFFECTS,dandelion extract,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0525678,C0001811,AFFECTS,rasagiline,Aging,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0525678,C0005823,AFFECTS,rasagiline,Blood Pressure,orch,orgf,19,AFFECTS_ORCHafctORGF
+C0525678,C0011065,AFFECTS,rasagiline,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0525678,C0013831,AFFECTS,rasagiline,Electrolyte Balance,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0525678,C0014653,AFFECTS,rasagiline,Equilibrium,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0525678,C0016284,AFFECTS,rasagiline,Fluid Balance,orch,orgf,4,AFFECTS_ORCHafctORGF
+C0525678,C0025519,AFFECTS,rasagiline,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0525678,C0678863,AFFECTS,rasagiline,blood pressure regulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0525678,C1510835,AFFECTS,rasagiline,Aging-Related Process,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0525678,C1516559,AFFECTS,rasagiline,Circulatory Process,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0525678,C1523351,AFFECTS,rasagiline,tissue homeostasis,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0525678,C1753304,AFFECTS,rasagiline,blood pressure homeostasis,orch,orgf,6,AFFECTS_ORCHafctORGF
+C0529793,C0029976,AFFECTS,sildenafil,"Blastocyst Implantation, natural",orch,orgf,1,AFFECTS_ORCHafctORGF
+C0529793,C0043240,AFFECTS,sildenafil,Wound Healing,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0535187,C0026649,AFFECTS,tizoxanide,Movement,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0535187,C0678723,AFFECTS,tizoxanide,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0538927,C0678889,AFFECTS,celecoxib,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0556150,C0023946,AFFECTS,docosahexaenoic acid,Locomotion,orch,orgf,3,AFFECTS_ORCHafctORGF
+C0556154,C0012238,AFFECTS,Complex carbohydrate,Digestion,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0561929,C0005823,AFFECTS,N-3 fatty acid supplementation,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0592257,C0678889,AFFECTS,Vita-E,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0595726,C1327413,AFFECTS,Leukotriene Antagonists,cytokine production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0596577,C0678889,AFFECTS,Flavonoids,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0603200,C0043240,AFFECTS,"1,2-di-(4-sulfamidophenyl)-4-butylpyrazolidine-3,5-dione",Wound Healing,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0613593,C0025519,AFFECTS,Catosal,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0631057,C0026649,AFFECTS,N-desmethylstobadine,Movement,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0637815,C0011135,AFFECTS,eckol,Defecation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0637815,C0018270,AFFECTS,eckol,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0643808,C0009637,AFFECTS,SDM,Conception,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0664589,C0018270,AFFECTS,glabridin,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0664589,C1819464,AFFECTS,glabridin,tumor necrosis factor production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0682986,C0011065,AFFECTS,synthetic opioids,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0683001,C0005823,AFFECTS,Therapeutic Steroid Hormone,Blood Pressure,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0699680,C0011065,AFFECTS,Metric (substance),Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0699680,C0043240,AFFECTS,Metric (substance),Wound Healing,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0701303,C1327441,AFFECTS,R-38486,negative regulation of inflammatory response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0719066,C0012238,AFFECTS,CP-2,Digestion,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0719894,C0011065,AFFECTS,Diet Aid,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0720654,C0026649,AFFECTS,gentle,Movement,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0723179,C0678889,AFFECTS,SSD,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0733688,C0014653,AFFECTS,VP-16,Equilibrium,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0755529,C0018270,AFFECTS,phosphatidylinositol 5-phosphate,Growth,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0755562,C0018270,AFFECTS,U 0126,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0770959,C0678889,AFFECTS,Capsicum oleoresin,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0796419,C0018270,AFFECTS,Taxanes,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0872893,C0950151,AFFECTS,estrogenic substances,Estrous Cycle,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0873137,C0278092,AFFECTS,Korean ginseng preparation,Sexual function,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0873137,C0678889,AFFECTS,Korean ginseng preparation,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0874161,C0018270,AFFECTS,oseltamivir,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0919289,C0012238,AFFECTS,Proanthocyanidins,Digestion,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0935989,C0678723,AFFECTS,imatinib,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0949665,C0678889,AFFECTS,Fluoroquinolones,Immunoregulation,orch,orgf,2,AFFECTS_ORCHafctORGF
+C0961275,C0598358,AFFECTS,selamectin,ionic balance,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0965594,C1155328,AFFECTS,resiquimod,Antiviral Response,orch,orgf,5,AFFECTS_ORCHafctORGF
+C0968383,C0014653,AFFECTS,SP600125,Equilibrium,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0968383,C0026559,AFFECTS,SP600125,Morphogenesis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C0968642,C3893395,AFFECTS,JWH-133,thermal nociception,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1098510,C1148523,AFFECTS,fondaparinux,Childbirth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1119842,C0018270,AFFECTS,garlic powder,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1119918,C0678889,AFFECTS,ginseng preparation,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1136012,C0018270,AFFECTS,Epothilones,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1144149,C1327441,AFFECTS,lenalidomide,negative regulation of inflammatory response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1175112,C1819461,AFFECTS,oxidized-L-alpha-1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphorylcholine,interleukin-8 production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1176309,C0678889,AFFECTS,bortezomib,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1328695,C0678723,AFFECTS,silicon phthalocyanine 4,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1328819,C0011065,AFFECTS,Small Molecule,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1328819,C0014653,AFFECTS,Small Molecule,Equilibrium,orch,orgf,2,AFFECTS_ORCHafctORGF
+C1328819,C0043240,AFFECTS,Small Molecule,Wound Healing,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1328819,C0678723,AFFECTS,Small Molecule,Biologic Development,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1328819,C0678889,AFFECTS,Small Molecule,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1328819,C1148523,AFFECTS,Small Molecule,Childbirth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1328819,C3825968,AFFECTS,Small Molecule,Microbial metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1436435,C0678889,AFFECTS,NTZ,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1510940,C0000934,AFFECTS,Aromatic Compounds,Acclimatization,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1614561,C0032961,AFFECTS,Polypodium leucotomos,Pregnancy,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1667046,C0018270,AFFECTS,compound 26,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C1676719,C0678889,AFFECTS,sang ju yin,Immunoregulation,orch,orgf,2,AFFECTS_ORCHafctORGF
+C1676720,C0678889,AFFECTS,yu ping feng san,Immunoregulation,orch,orgf,2,AFFECTS_ORCHafctORGF
+C1831992,C0011065,AFFECTS,ABT 263,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2347236,C0025519,AFFECTS,butafosfan,Metabolism,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2348264,C0015895,AFFECTS,Dietary Fatty Acid,Fertility,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2348281,C0018270,AFFECTS,Dietary Polysaccharide,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2350866,C0018270,AFFECTS,eribulin,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2716501,C0018270,AFFECTS,GSK983,Growth,orch,orgf,9,AFFECTS_ORCHafctORGF
+C2717875,C0014653,AFFECTS,Prebiotics,Equilibrium,orch,orgf,2,AFFECTS_ORCHafctORGF
+C2717875,C0678889,AFFECTS,Prebiotics,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2744493,C3714605,AFFECTS,IC 87201,Pain Perception,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2926735,C0006147,AFFECTS,Duration,Breast Feeding,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2926735,C0011065,AFFECTS,Duration,Cessation of life,orch,orgf,2,AFFECTS_ORCHafctORGF
+C2926735,C0013470,AFFECTS,Duration,Eating,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2926735,C0037313,AFFECTS,Duration,Sleep,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2926735,C1155328,AFFECTS,Duration,Antiviral Response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2926735,C1523351,AFFECTS,Duration,tissue homeostasis,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2926735,C2584321,AFFECTS,Duration,Reaching,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2931926,C1327413,AFFECTS,ruxolitinib,cytokine production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2962221,C0011065,AFFECTS,TAC,Cessation of life,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2973933,C0020966,AFFECTS,cumaside,Cellular Immunity,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2984037,C1327413,AFFECTS,PTC299,cytokine production,orch,orgf,1,AFFECTS_ORCHafctORGF
+C2986418,C0011135,AFFECTS,Resistant Starch,Defecation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C3179535,C0871379,AFFECTS,suvorexant,sleep wake cycle,orch,orgf,1,AFFECTS_ORCHafctORGF
+C3282376,C0014653,AFFECTS,Supreme,Equilibrium,orch,orgf,1,AFFECTS_ORCHafctORGF
+C3700960,C0018270,AFFECTS,Sub Zero,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C3813211,C0005823,AFFECTS,Prostaglandin E2,Blood Pressure,orch,orgf,1,AFFECTS_ORCHafctORGF
+C3813211,C0018270,AFFECTS,Prostaglandin E2,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C4050026,C0009253,AFFECTS,Matrix,Coitus,orch,orgf,1,AFFECTS_ORCHafctORGF
+C4050026,C0020966,AFFECTS,Matrix,Cellular Immunity,orch,orgf,1,AFFECTS_ORCHafctORGF
+C4519149,C0012238,AFFECTS,Na-1,Digestion,orch,orgf,1,AFFECTS_ORCHafctORGF
+C4519262,C0013470,AFFECTS,Methylprednisone,Eating,orch,orgf,1,AFFECTS_ORCHafctORGF
+C4550877,C0018270,AFFECTS,Siklos,Growth,orch,orgf,1,AFFECTS_ORCHafctORGF
+C4688438,C0678889,AFFECTS,PRN1008,Immunoregulation,orch,orgf,1,AFFECTS_ORCHafctORGF
+C4726677,C0032961,AFFECTS,remdesivir,Pregnancy,orch,orgf,1,AFFECTS_ORCHafctORGF
+C5198073,C1749719,AFFECTS,PLX5622,Adaptive Immune Response,orch,orgf,1,AFFECTS_ORCHafctORGF
+C5198777,C0014653,AFFECTS,NeuroHeal,Equilibrium,orch,orgf,2,AFFECTS_ORCHafctORGF

@@ -1,0 +1,38 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002915,C0010200,NEG_TREATS,General Anesthesia,Coughing,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0002915,C0037383,NEG_TREATS,General Anesthesia,Sneezing,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0017296,C0011991,NEG_TREATS,gene therapy,Diarrhea,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0021079,C0011991,NEG_TREATS,Therapeutic immunosuppression,Diarrhea,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0021440,C0015967,NEG_TREATS,Intravenous infusion procedures,Fever,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0021440,C0850149,NEG_TREATS,Intravenous infusion procedures,Dry cough,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0021932,C0476273,NEG_TREATS,"Intubation, Intratracheal",Respiratory distress,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0032042,C0013395,NEG_TREATS,Placebos,Dyspepsia,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0032042,C0086132,NEG_TREATS,Placebos,Depressive Symptoms,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0040732,C0426576,NEG_TREATS,Transplantation,Gastrointestinal symptom,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0040808,C0015967,NEG_TREATS,Treatment Protocols,Fever,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0040808,C0264272,NEG_TREATS,Treatment Protocols,Purulent rhinitis,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0042196,C0011991,NEG_TREATS,Vaccination,Diarrhea,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0042196,C0036572,NEG_TREATS,Vaccination,Seizures,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0042196,C0152032,NEG_TREATS,Vaccination,Urinary hesitation,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0057163,C0037088,NEG_TREATS,DAV regimen,Signs and Symptoms,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0149783,C0037090,NEG_TREATS,Steroid therapy,"Signs and Symptoms, Respiratory",topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0185115,C0019079,NEG_TREATS,Extraction,Hemoptysis,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0199470,C0349410,NEG_TREATS,Mechanical ventilation,Single organ dysfunction,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0199779,C0015967,NEG_TREATS,Administration of antibiotic,Fever,topp,sosy,2,NEG_TREATS_TOPPntrtsSOSY
+C0199779,C0028081,NEG_TREATS,Administration of antibiotic,Night sweats,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0199801,C0679309,NEG_TREATS,Typhoid vaccination,physical symptom,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0204727,C0013404,NEG_TREATS,Isolation procedure,Dyspnea,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0204727,C0037090,NEG_TREATS,Isolation procedure,"Signs and Symptoms, Respiratory",topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0280274,C0010200,NEG_TREATS,Antiviral Therapy,Coughing,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0280274,C0013404,NEG_TREATS,Antiviral Therapy,Dyspnea,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0280274,C0019079,NEG_TREATS,Antiviral Therapy,Hemoptysis,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0454511,C0013404,NEG_TREATS,Inspiratory muscle training,Dyspnea,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0454511,C0030193,NEG_TREATS,Inspiratory muscle training,Pain,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0472699,C0011991,NEG_TREATS,Hemopoietic stem cell transplant,Diarrhea,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0472699,C0037090,NEG_TREATS,Hemopoietic stem cell transplant,"Signs and Symptoms, Respiratory",topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C0747973,C0231218,NEG_TREATS,Elective procedure,Malaise,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C1141958,C0010200,NEG_TREATS,anti-infective therapy,Coughing,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C1299597,C0037088,NEG_TREATS,Empirical therapy,Signs and Symptoms,topp,sosy,2,NEG_TREATS_TOPPntrtsSOSY
+C2242628,C0011991,NEG_TREATS,Fecal Microbiota Transplantation,Diarrhea,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C3858690,C0349410,NEG_TREATS,adjunctive treatment,Single organ dysfunction,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY
+C4723833,C0037088,NEG_TREATS,vertebral augmentation procedure,Signs and Symptoms,topp,sosy,1,NEG_TREATS_TOPPntrtsSOSY

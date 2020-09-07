@@ -1,0 +1,19 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007603,C0007620,NEG_AFFECTS,Plasma membrane,Cell Survival,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C0007603,C0010813,NEG_AFFECTS,Plasma membrane,Cytokinesis,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C0008643,C0042774,NEG_AFFECTS,"Chromosomes, Human",Virus Replication,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C0010834,C1660642,NEG_AFFECTS,Cytoplasm,cellular localization,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C0018042,C1660749,NEG_AFFECTS,Golgi Apparatus,localization within cell,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C0024369,C0031308,NEG_AFFECTS,Lysosomes,Phagocytosis,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C0026237,C2754100,NEG_AFFECTS,Mitochondria,neuron death,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C0034850,C0596898,NEG_AFFECTS,Endosomes,membrane biogenesis,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C0042219,C0162638,NEG_AFFECTS,Vacuole,Apoptosis,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C0042760,C0042774,NEG_AFFECTS,Virion,Virus Replication,celc,celf,3,NEG_AFFECTS_CELCnafctCELF
+C0042760,C1327616,NEG_AFFECTS,Virion,Cell secretion,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C0175996,C0042774,NEG_AFFECTS,Protoplasm,Virus Replication,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C1167250,C1160701,NEG_AFFECTS,lipid raft,viral genome replication,celc,celf,3,NEG_AFFECTS_CELCnafctCELF
+C1167315,C0037083,NEG_AFFECTS,endomembrane system,Signal Transduction,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C1167398,C0597361,NEG_AFFECTS,Viral envelope,Receptor Mediated Endocytosis,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C2611130,C0596846,NEG_AFFECTS,exocytic vesicle,Lipid Transport,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C2752415,C0007577,NEG_AFFECTS,type IV pilus,Cell Adhesion,celc,celf,1,NEG_AFFECTS_CELCnafctCELF
+C3887595,C0004391,NEG_AFFECTS,Autophagosome,Autophagy,celc,celf,2,NEG_AFFECTS_CELCnafctCELF

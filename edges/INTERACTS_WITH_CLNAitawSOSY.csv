@@ -1,0 +1,49 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005516,C0013404,INTERACTS_WITH,Biological Markers,Dyspnea,clna,sosy,2,INTERACTS_WITH_CLNAitawSOSY
+C0005516,C0015230,INTERACTS_WITH,Biological Markers,Exanthema,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0005516,C0023380,INTERACTS_WITH,Biological Markers,Lethargy,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0005516,C0349410,INTERACTS_WITH,Biological Markers,Single organ dysfunction,clna,sosy,3,INTERACTS_WITH_CLNAitawSOSY
+C0005516,C0392674,INTERACTS_WITH,Biological Markers,Exhaustion,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0026687,C0010200,INTERACTS_WITH,Mucociliary Clearance,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0032930,C0010200,INTERACTS_WITH,Precipitating Factors,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0032930,C0030193,INTERACTS_WITH,Precipitating Factors,Pain,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0032930,C0036572,INTERACTS_WITH,Precipitating Factors,Seizures,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0032930,C2364135,INTERACTS_WITH,Precipitating Factors,Discomfort,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0035190,C0011991,INTERACTS_WITH,Residual volume,Diarrhea,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0080078,C0030193,INTERACTS_WITH,"Range of Motion, Articular",Pain,clna,sosy,2,INTERACTS_WITH_CLNAitawSOSY
+C0231832,C0233401,INTERACTS_WITH,Respiratory rate,Psychiatric symptom,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0231998,C0016204,INTERACTS_WITH,Airflow pattern,Flatulence,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0370005,C0026837,INTERACTS_WITH,Specimen volume,Muscle Rigidity,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0798503,C0011991,INTERACTS_WITH,Challenge:Type:Point in time:^Patient:Nominal,Diarrhea,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0798503,C0015672,INTERACTS_WITH,Challenge:Type:Point in time:^Patient:Nominal,Fatigue,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0798503,C0026837,INTERACTS_WITH,Challenge:Type:Point in time:^Patient:Nominal,Muscle Rigidity,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0798503,C0030193,INTERACTS_WITH,Challenge:Type:Point in time:^Patient:Nominal,Pain,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0798503,C0221170,INTERACTS_WITH,Challenge:Type:Point in time:^Patient:Nominal,Muscular stiffness,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0798503,C0850149,INTERACTS_WITH,Challenge:Type:Point in time:^Patient:Nominal,Dry cough,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0802902,C0010200,INTERACTS_WITH,Respiratory mask:Type:Point in time:*:Nominal,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C0802902,C0037383,INTERACTS_WITH,Respiratory mask:Type:Point in time:*:Nominal,Sneezing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C1316572,C0011991,INTERACTS_WITH,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},Diarrhea,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C1316572,C0037088,INTERACTS_WITH,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},Signs and Symptoms,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C1316572,C0518214,INTERACTS_WITH,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},Perceived quality of life,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C1831583,C3714552,INTERACTS_WITH,Elasticity (tissue integrity),Weakness,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C1980023,C0010200,INTERACTS_WITH,Wall motion,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2713234,C0015672,INTERACTS_WITH,Mood:-:Point in time:^Patient:-,Fatigue,clna,sosy,2,INTERACTS_WITH_CLNAitawSOSY
+C2713234,C0030193,INTERACTS_WITH,Mood:-:Point in time:^Patient:-,Pain,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2741673,C0030193,INTERACTS_WITH,Account number:Identifier:Point in time:^Patient:Nominal,Pain,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0010200,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0011991,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Diarrhea,clna,sosy,5,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0015967,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Fever,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0016204,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Flatulence,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0037088,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Signs and Symptoms,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0231239,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Fluctuation,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0235169,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Excitability,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0349410,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Single organ dysfunction,clna,sosy,3,INTERACTS_WITH_CLNAitawSOSY
+C2926606,C0518214,INTERACTS_WITH,Procedure findings:Finding:Point in time:^Patient:Narrative,Perceived quality of life,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2979880,C0015967,INTERACTS_WITH,Subjective:Finding:Point in time:^Patient:Narrative,Fever,clna,sosy,3,INTERACTS_WITH_CLNAitawSOSY
+C2979880,C3714552,INTERACTS_WITH,Subjective:Finding:Point in time:^Patient:Narrative,Weakness,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C2984554,C0085631,INTERACTS_WITH,Emotional Well-being,Agitation,clna,sosy,2,INTERACTS_WITH_CLNAitawSOSY
+C3166387,C0086132,INTERACTS_WITH,Suicidality,Depressive Symptoms,clna,sosy,2,INTERACTS_WITH_CLNAitawSOSY
+C3173575,C0010200,INTERACTS_WITH,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,Coughing,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C3538984,C0086132,INTERACTS_WITH,Social Risk Factor,Depressive Symptoms,clna,sosy,2,INTERACTS_WITH_CLNAitawSOSY
+C3640049,C0518214,INTERACTS_WITH,Appropriate Treatment,Perceived quality of life,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY
+C3830527,C0039070,INTERACTS_WITH,Detectable,Syncope,clna,sosy,1,INTERACTS_WITH_CLNAitawSOSY

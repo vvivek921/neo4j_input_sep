@@ -1,0 +1,75 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003261,C0001811,AFFECTS,Antibody Formation,Aging,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0003261,C0011065,AFFECTS,Antibody Formation,Cessation of life,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0003261,C0018270,AFFECTS,Antibody Formation,Growth,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0003261,C0020966,AFFECTS,Antibody Formation,Cellular Immunity,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0003261,C0020967,AFFECTS,Antibody Formation,Humoral Immunity,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0003261,C0032961,AFFECTS,Antibody Formation,Pregnancy,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0003261,C0678723,AFFECTS,Antibody Formation,Biologic Development,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0003261,C0678889,AFFECTS,Antibody Formation,Immunoregulation,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0003261,C1155328,AFFECTS,Antibody Formation,Antiviral Response,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0003261,C2584321,AFFECTS,Antibody Formation,Reaching,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0003261,C2936375,AFFECTS,Antibody Formation,Th1-Th2 Balance,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0003261,C3896429,AFFECTS,Antibody Formation,reproductive senescence,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0019868,C0005823,AFFECTS,Homeostasis,Blood Pressure,biof,orgf,5,AFFECTS_BIOFafctORGF
+C0019868,C0006147,AFFECTS,Homeostasis,Breast Feeding,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0019868,C0011065,AFFECTS,Homeostasis,Cessation of life,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0019868,C0025519,AFFECTS,Homeostasis,Metabolism,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0019868,C0043240,AFFECTS,Homeostasis,Wound Healing,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0019868,C0678889,AFFECTS,Homeostasis,Immunoregulation,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0019868,C0699900,AFFECTS,Homeostasis,Catabolism,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0019868,C0814002,AFFECTS,Homeostasis,Neurogenesis,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0019868,C4505136,AFFECTS,Homeostasis,Immune Privilege,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042765,C0000934,AFFECTS,Virulence,Acclimatization,biof,orgf,7,AFFECTS_BIOFafctORGF
+C0042765,C0011065,AFFECTS,Virulence,Cessation of life,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042765,C0014653,AFFECTS,Virulence,Equilibrium,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042765,C0018270,AFFECTS,Virulence,Growth,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0042765,C0025519,AFFECTS,Virulence,Metabolism,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042765,C0042789,AFFECTS,Virulence,Vision,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0042765,C1155328,AFFECTS,Virulence,Antiviral Response,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042765,C3826356,AFFECTS,Virulence,"Fertility, Human",biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042767,C0699900,AFFECTS,Virus Activation,Catabolism,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042767,C1749719,AFFECTS,Virus Activation,Adaptive Immune Response,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0042767,C1819459,AFFECTS,Virus Activation,interleukin-6 production,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C0004048,AFFECTS,Anabolism,Inspiration function,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C0014653,AFFECTS,Anabolism,Equilibrium,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C0018270,AFFECTS,Anabolism,Growth,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C0025516,AFFECTS,Anabolism,"Metabolic Detoxication, Drug",biof,orgf,2,AFFECTS_BIOFafctORGF
+C0220781,C0025519,AFFECTS,Anabolism,Metabolism,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C0026559,AFFECTS,Anabolism,Morphogenesis,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0220781,C0026649,AFFECTS,Anabolism,Movement,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C0037361,AFFECTS,Anabolism,Smell Perception,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C0596841,AFFECTS,Anabolism,limb regeneration,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C0678723,AFFECTS,Anabolism,Biologic Development,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0220781,C0699900,AFFECTS,Anabolism,Catabolism,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0220781,C1327413,AFFECTS,Anabolism,cytokine production,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C1563744,AFFECTS,Anabolism,Lipogenesis,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C1654934,AFFECTS,Anabolism,Immune Evasion,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0220781,C2610587,AFFECTS,Anabolism,lung growth,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0232478,C0018270,AFFECTS,Ingestion,Growth,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0234130,C0011065,AFFECTS,Motor function,Cessation of life,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0242735,C0011065,AFFECTS,Germination,Cessation of life,biof,orgf,1,AFFECTS_BIOFafctORGF
+C0282629,C0026559,AFFECTS,Virus Assembly,Morphogenesis,biof,orgf,2,AFFECTS_BIOFafctORGF
+C0392673,C0014653,AFFECTS,Adaptation,Equilibrium,biof,orgf,1,AFFECTS_BIOFafctORGF
+C1160638,C1654934,AFFECTS,Viral life cycle,Immune Evasion,biof,orgf,1,AFFECTS_BIOFafctORGF
+C1537068,C1155328,AFFECTS,Virus Internalization,Antiviral Response,biof,orgf,1,AFFECTS_BIOFafctORGF
+C1537068,C2584321,AFFECTS,Virus Internalization,Reaching,biof,orgf,1,AFFECTS_BIOFafctORGF
+C1817420,C1749719,AFFECTS,immune effector process,Adaptive Immune Response,biof,orgf,1,AFFECTS_BIOFafctORGF
+C1817972,C0678723,AFFECTS,immune system development,Biologic Development,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3156318,C0678863,AFFECTS,cardiovascular system development,blood pressure regulation,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3537152,C1752856,AFFECTS,biological signaling,Host-Pathogen Interactions,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C0005823,AFFECTS,Biological Processes,Blood Pressure,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C0011065,AFFECTS,Biological Processes,Cessation of life,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C0012238,AFFECTS,Biological Processes,Digestion,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C0043240,AFFECTS,Biological Processes,Wound Healing,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C0560560,AFFECTS,Biological Processes,Moving,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C0678723,AFFECTS,Biological Processes,Biologic Development,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C1154988,AFFECTS,Biological Processes,defense response,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C1155328,AFFECTS,Biological Processes,Antiviral Response,biof,orgf,2,AFFECTS_BIOFafctORGF
+C3714634,C1327413,AFFECTS,Biological Processes,cytokine production,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C1327471,AFFECTS,Biological Processes,nervous system process,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3714634,C3159140,AFFECTS,Biological Processes,interferon production,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3820740,C0026559,AFFECTS,viroporin,Morphogenesis,biof,orgf,2,AFFECTS_BIOFafctORGF
+C3820740,C3825510,AFFECTS,viroporin,Viruses--Reproduction,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3853734,C0035150,AFFECTS,viral process,Reproduction,biof,orgf,1,AFFECTS_BIOFafctORGF
+C3894443,C0011065,AFFECTS,reactive oxygen species biosynthetic process,Cessation of life,biof,orgf,1,AFFECTS_BIOFafctORGF

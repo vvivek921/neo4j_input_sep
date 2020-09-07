@@ -1,0 +1,77 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005775,C0005778,AFFECTS,Blood Circulation,Blood coagulation,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0005775,C0025962,AFFECTS,Blood Circulation,Microcirculation,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0005775,C0162337,AFFECTS,Blood Circulation,Vascular Permeability,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0005775,C1817756,AFFECTS,Blood Circulation,Immune System Processes,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0014272,C0301872,AFFECTS,Energy Metabolism,Immune response,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0016017,C0005778,AFFECTS,Fibrinolysis,Blood coagulation,phsf,ortf,4,AFFECTS_PHSFafctORTF
+C0016017,C0301872,AFFECTS,Fibrinolysis,Immune response,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0016017,C3850148,AFFECTS,Fibrinolysis,Vascular Remodeling,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0020964,C0018951,AFFECTS,Immunity,Hematopoiesis,phsf,ortf,3,AFFECTS_PHSFafctORTF
+C0020964,C0021055,AFFECTS,Immunity,Immunologic Memory,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0020964,C0301872,AFFECTS,Immunity,Immune response,phsf,ortf,21,AFFECTS_PHSFafctORTF
+C0020964,C0302600,AFFECTS,Immunity,Angiogenic Process,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0020964,C0520990,AFFECTS,Immunity,Host defense,phsf,ortf,4,AFFECTS_PHSFafctORTF
+C0020964,C1516031,AFFECTS,Immunity,Antitumor Response,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0020964,C1817756,AFFECTS,Immunity,Immune System Processes,phsf,ortf,4,AFFECTS_PHSFafctORTF
+C0026820,C0019010,AFFECTS,Muscle Contraction,Hemodynamics,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0026820,C0231940,AFFECTS,Muscle Contraction,Alveolar ventilation function,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0035203,C0019010,AFFECTS,Respiration,Hemodynamics,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0035203,C0024112,AFFECTS,Respiration,Lung Compliance,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0035203,C0034071,AFFECTS,Respiration,Pulmonary Gas Exchange,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0035203,C0035230,AFFECTS,Respiration,Respiratory Mechanics,phsf,ortf,3,AFFECTS_PHSFafctORTF
+C0035203,C0036658,AFFECTS,Respiration,Esthesia,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0035203,C0042396,AFFECTS,Respiration,Vascular constriction (function),phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0035203,C0042401,AFFECTS,Respiration,Vasodilation,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0035203,C0042495,AFFECTS,Respiration,Ventilation-Perfusion Ratio,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0035203,C0231940,AFFECTS,Respiration,Alveolar ventilation function,phsf,ortf,13,AFFECTS_PHSFafctORTF
+C0035203,C1326653,AFFECTS,Respiration,lung alveolus development,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0035245,C0042495,AFFECTS,Respiratory physiology,Ventilation-Perfusion Ratio,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0035245,C0301872,AFFECTS,Respiratory physiology,Immune response,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0035245,C3537072,AFFECTS,Respiratory physiology,Bronchodilation,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0149784,C0007227,AFFECTS,biological adaptation to stress,Cardiovascular Physiological Phenomena,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0149784,C0598604,AFFECTS,biological adaptation to stress,alloimmunity,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0231899,C0597579,AFFECTS,Accessory muscle respiratory movement,thoracic pressure,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0231999,C0231940,AFFECTS,Airflow,Alveolar ventilation function,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0232091,C0019010,AFFECTS,Normal blood volume,Hemodynamics,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0232338,C0019010,AFFECTS,Blood flow,Hemodynamics,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0232338,C0025962,AFFECTS,Blood flow,Microcirculation,phsf,ortf,3,AFFECTS_PHSFafctORTF
+C0232338,C0042401,AFFECTS,Blood flow,Vasodilation,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0232338,C0042495,AFFECTS,Blood flow,Ventilation-Perfusion Ratio,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0232338,C0162337,AFFECTS,Blood flow,Vascular Permeability,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0232338,C0231940,AFFECTS,Blood flow,Alveolar ventilation function,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0232338,C0232809,AFFECTS,Blood flow,Glomerular filtration,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0232338,C0235086,AFFECTS,Blood flow,Involuntary muscle contraction,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0232338,C0516983,AFFECTS,Blood flow,gastrointestinal function,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0242599,C0301872,AFFECTS,Neutrophil Activation,Immune response,phsf,ortf,2,AFFECTS_PHSFafctORTF
+C0242705,C0162337,AFFECTS,Fluid Shifts,Vascular Permeability,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0242732,C0301872,AFFECTS,Tropism,Immune response,phsf,ortf,2,AFFECTS_PHSFafctORTF
+C0242732,C0302600,AFFECTS,Tropism,Angiogenic Process,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0243144,C0234107,AFFECTS,Uptake,Excitatory synaptic transmission,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0243144,C0301872,AFFECTS,Uptake,Immune response,phsf,ortf,3,AFFECTS_PHSFafctORTF
+C0243144,C0544683,AFFECTS,Uptake,reception,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0442687,C0301872,AFFECTS,Physiological action,Immune response,phsf,ortf,2,AFFECTS_PHSFafctORTF
+C0442696,C0027880,AFFECTS,Waking,Neuronal Plasticity,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0442700,C0035230,AFFECTS,End-expiration,Respiratory Mechanics,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0442700,C0231940,AFFECTS,End-expiration,Alveolar ventilation function,phsf,ortf,2,AFFECTS_PHSFafctORTF
+C0596761,C0301872,AFFECTS,Immunosenescence,Immune response,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0596761,C1817756,AFFECTS,Immunosenescence,Immune System Processes,phsf,ortf,2,AFFECTS_PHSFafctORTF
+C0597170,C0301872,AFFECTS,paracrine,Immune response,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0678209,C0301872,AFFECTS,Adaptive Immunity,Immune response,phsf,ortf,4,AFFECTS_PHSFafctORTF
+C0678209,C0520990,AFFECTS,Adaptive Immunity,Host defense,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0678686,C0301872,AFFECTS,Dormancy,Immune response,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0751982,C0311437,AFFECTS,Neutrophil Infiltration,Exudation,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0870882,C0301872,AFFECTS,metabolic rates,Immune response,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C0870882,C0520990,AFFECTS,metabolic rates,Host defense,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C1511613,C0301872,AFFECTS,Cytokine Signaling Process,Immune response,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C1515425,C0032173,AFFECTS,Thromboxane Production,Platelet Activation,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C2242456,C0232164,AFFECTS,thyroid function,Cardiac function,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C2256369,C0027045,AFFECTS,heart process,Myocardial Contraction,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C2267003,C0301872,AFFECTS,Increased Immunologic Activity [PE],Immune response,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C2717801,C0301872,AFFECTS,Viral Tropism,Immune response,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C2917212,C0005778,AFFECTS,Negative Regulation of Coagulation,Blood coagulation,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C3179230,C2752214,AFFECTS,Anti-Angiogenesis Effect,tube formation,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C3179307,C0232164,AFFECTS,Angiogenesis Effect,Cardiac function,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C3179309,C0596204,AFFECTS,Anabolic Effect,bone metabolism,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C3658217,C0301872,AFFECTS,"Immunity, Heterologous",Immune response,phsf,ortf,1,AFFECTS_PHSFafctORTF
+C3714584,C0301872,AFFECTS,"Transformation, function",Immune response,phsf,ortf,1,AFFECTS_PHSFafctORTF

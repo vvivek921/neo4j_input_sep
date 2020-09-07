@@ -1,0 +1,50 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005529,C0243144,COEXISTS_WITH,"Biological Transport, Active",Uptake,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0005775,C0020964,COEXISTS_WITH,Blood Circulation,Immunity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0020119,C0020964,COEXISTS_WITH,Human Development,Immunity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0020964,C0005775,COEXISTS_WITH,Immunity,Blood Circulation,phsf,phsf,3,COEXISTS_WITH_PHSFcxwtPHSF
+C0020964,C1135927,COEXISTS_WITH,Immunity,"Immunity, Herd",phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0020964,C1512827,COEXISTS_WITH,Immunity,Interferon Signaling Process,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0020964,C3824789,COEXISTS_WITH,Immunity,Fetus--Development,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0231999,C0035203,COEXISTS_WITH,Airflow,Respiration,phsf,phsf,4,COEXISTS_WITH_PHSFcxwtPHSF
+C0232338,C0042380,COEXISTS_WITH,Blood flow,Vascular resistance,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0232338,C0443158,COEXISTS_WITH,Blood flow,Brain activity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0232338,C0678745,COEXISTS_WITH,Blood flow,drug absorption,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0237476,C0035203,COEXISTS_WITH,Physiological Arousal,Respiration,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0242732,C0005775,COEXISTS_WITH,Tropism,Blood Circulation,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0242732,C1328821,COEXISTS_WITH,Tropism,tissue tropism,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0243144,C0020964,COEXISTS_WITH,Uptake,Immunity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0243144,C0035203,COEXISTS_WITH,Uptake,Respiration,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0243144,C0242599,COEXISTS_WITH,Uptake,Neutrophil Activation,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0243144,C0442696,COEXISTS_WITH,Uptake,Waking,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0243144,C0544570,COEXISTS_WITH,Uptake,Bactericidal activity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0243144,C0678209,COEXISTS_WITH,Uptake,Adaptive Immunity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0243144,C0678759,COEXISTS_WITH,Uptake,drug accumulation,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0243144,C1514892,COEXISTS_WITH,Uptake,Resistance Process,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0282498,C1514892,COEXISTS_WITH,Heat-Shock Response,Resistance Process,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0442696,C0020964,COEXISTS_WITH,Waking,Immunity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0442696,C0035203,COEXISTS_WITH,Waking,Respiration,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0442696,C0231999,COEXISTS_WITH,Waking,Airflow,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0442700,C0442704,COEXISTS_WITH,End-expiration,Early inspiration,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0442703,C0035203,COEXISTS_WITH,Full expiration,Respiration,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0524828,C3714584,COEXISTS_WITH,Cytoprotection,"Transformation, function",phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0597675,C3714584,COEXISTS_WITH,voltage gated channel,"Transformation, function",phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0678209,C0020964,COEXISTS_WITH,Adaptive Immunity,Immunity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0678209,C0597170,COEXISTS_WITH,Adaptive Immunity,paracrine,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0678209,C1135927,COEXISTS_WITH,Adaptive Immunity,"Immunity, Herd",phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0678686,C0005775,COEXISTS_WITH,Dormancy,Blood Circulation,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C0678686,C0149784,COEXISTS_WITH,Dormancy,biological adaptation to stress,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1135927,C0020964,COEXISTS_WITH,"Immunity, Herd",Immunity,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1257789,C0597170,COEXISTS_WITH,Lymphangiogenesis,paracrine,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1258192,C0232338,COEXISTS_WITH,Total Peripheral Resistance,Blood flow,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1314973,C0035245,COEXISTS_WITH,Response to antigens,Respiratory physiology,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1446949,C1326532,COEXISTS_WITH,Preimplantation Embryo Development,blastocyst formation,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1514892,C0016017,COEXISTS_WITH,Resistance Process,Fibrinolysis,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1514892,C0020964,COEXISTS_WITH,Resistance Process,Immunity,phsf,phsf,2,COEXISTS_WITH_PHSFcxwtPHSF
+C1514892,C0442696,COEXISTS_WITH,Resistance Process,Waking,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1514892,C3714584,COEXISTS_WITH,Resistance Process,"Transformation, function",phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C1518287,C0243144,COEXISTS_WITH,Neurologic Effect,Uptake,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C3655549,C0026820,COEXISTS_WITH,Perfusion Heart,Muscle Contraction,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C3714584,C0020964,COEXISTS_WITH,"Transformation, function",Immunity,phsf,phsf,2,COEXISTS_WITH_PHSFcxwtPHSF
+C3714584,C0442696,COEXISTS_WITH,"Transformation, function",Waking,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF
+C3714584,C1373177,COEXISTS_WITH,"Transformation, function",Intestinal Metabolism,phsf,phsf,1,COEXISTS_WITH_PHSFcxwtPHSF

@@ -1,0 +1,58 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005778,C0005848,AFFECTS,Blood coagulation,Blood Viscosity,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0011382,C0005775,AFFECTS,Dental Occlusion,Blood Circulation,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0012797,C0221102,AFFECTS,Diuresis,Excretory function,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0019116,C0016017,AFFECTS,Hemostatic function,Fibrinolysis,ortf,phsf,3,AFFECTS_ORTFafctPHSF
+C0019116,C2917212,AFFECTS,Hemostatic function,Negative Regulation of Coagulation,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0021055,C0020964,AFFECTS,Immunologic Memory,Immunity,ortf,phsf,4,AFFECTS_ORTFafctPHSF
+C0021055,C0678209,AFFECTS,Immunologic Memory,Adaptive Immunity,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0023889,C0232338,AFFECTS,Liver Circulation,Blood flow,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0024112,C0035203,AFFECTS,Lung Compliance,Respiration,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0025962,C0005848,AFFECTS,Microcirculation,Blood Viscosity,ortf,phsf,2,AFFECTS_ORTFafctPHSF
+C0025962,C0035203,AFFECTS,Microcirculation,Respiration,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0027540,C0232338,AFFECTS,Necrosis,Blood flow,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0032058,C0020964,AFFECTS,Placentation,Immunity,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0034071,C0035203,AFFECTS,Pulmonary Gas Exchange,Respiration,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0034929,C0005775,AFFECTS,Reflex action,Blood Circulation,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0034963,C0597170,AFFECTS,Natural regeneration,paracrine,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0035230,C0035203,AFFECTS,Respiratory Mechanics,Respiration,ortf,phsf,2,AFFECTS_ORTFafctPHSF
+C0036658,C0442696,AFFECTS,Esthesia,Waking,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0039336,C0020964,AFFECTS,Taste Perception,Immunity,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0042396,C0005775,AFFECTS,Vascular constriction (function),Blood Circulation,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0042396,C0232338,AFFECTS,Vascular constriction (function),Blood flow,ortf,phsf,2,AFFECTS_ORTFafctPHSF
+C0042401,C0232338,AFFECTS,Vasodilation,Blood flow,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0042401,C1258192,AFFECTS,Vasodilation,Total Peripheral Resistance,ortf,phsf,3,AFFECTS_ORTFafctPHSF
+C0206162,C0026820,AFFECTS,Baroreflex,Muscle Contraction,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0231921,C0035203,AFFECTS,Pulmonary function,Respiration,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0231940,C0035203,AFFECTS,Alveolar ventilation function,Respiration,ortf,phsf,2,AFFECTS_ORTFafctPHSF
+C0232079,C0035203,AFFECTS,Diaphragmatic movement,Respiration,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0232108,C0042380,AFFECTS,Arterial pulse pressure,Vascular resistance,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0232164,C0026820,AFFECTS,Cardiac function,Muscle Contraction,ortf,phsf,2,AFFECTS_ORTFafctPHSF
+C0232174,C0035203,AFFECTS,Cardiac ejection fraction,Respiration,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0232741,C2262744,AFFECTS,Liver function,lipid homeostasis,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0232816,C0221102,AFFECTS,Tubular reabsorption,Excretory function,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0234112,C0035203,AFFECTS,Facilitation,Respiration,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0234112,C0243144,AFFECTS,Facilitation,Uptake,ortf,phsf,2,AFFECTS_ORTFafctPHSF
+C0234194,C0018767,AFFECTS,Nociception,Hearing,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0282557,C0020964,AFFECTS,"Immune Response, Mucosal",Immunity,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0282558,C0020964,AFFECTS,"Immunity, Mucosal",Immunity,ortf,phsf,2,AFFECTS_ORTFafctPHSF
+C0301872,C0020964,AFFECTS,Immune response,Immunity,ortf,phsf,21,AFFECTS_ORTFafctPHSF
+C0301872,C0035245,AFFECTS,Immune response,Respiratory physiology,ortf,phsf,3,AFFECTS_ORTFafctPHSF
+C0301872,C0232338,AFFECTS,Immune response,Blood flow,ortf,phsf,2,AFFECTS_ORTFafctPHSF
+C0301872,C0597170,AFFECTS,Immune response,paracrine,ortf,phsf,2,AFFECTS_ORTFafctPHSF
+C0301872,C0678209,AFFECTS,Immune response,Adaptive Immunity,ortf,phsf,4,AFFECTS_ORTFafctPHSF
+C0301872,C1511613,AFFECTS,Immune response,Cytokine Signaling Process,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0301872,C1512827,AFFECTS,Immune response,Interferon Signaling Process,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0301872,C1622271,AFFECTS,Immune response,neutrophil degranulation,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0311437,C0035203,AFFECTS,Exudation,Respiration,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0516983,C0020964,AFFECTS,gastrointestinal function,Immunity,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0520990,C0020964,AFFECTS,Host defense,Immunity,ortf,phsf,2,AFFECTS_ORTFafctPHSF
+C0520990,C0678209,AFFECTS,Host defense,Adaptive Immunity,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0678860,C0020964,AFFECTS,systemic blood circulation,Immunity,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C0683201,C0020964,AFFECTS,specific immunity,Immunity,ortf,phsf,4,AFFECTS_ORTFafctPHSF
+C1155937,C0232338,AFFECTS,smooth muscle contraction,Blood flow,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C1258017,C3179174,AFFECTS,Heart Contractility,Adrenergic Effect,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C1371490,C0026820,AFFECTS,Arterial Vasoconstriction,Muscle Contraction,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C1511806,C1326962,AFFECTS,Developmental process,ion homeostasis,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C1817756,C0312550,AFFECTS,Immune System Processes,Immune clearance,ortf,phsf,1,AFFECTS_ORTFafctPHSF
+C3850073,C0243144,AFFECTS,Nasal Absorption,Uptake,ortf,phsf,1,AFFECTS_ORTFafctPHSF

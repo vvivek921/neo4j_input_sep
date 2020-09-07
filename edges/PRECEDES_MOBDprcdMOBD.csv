@@ -1,0 +1,27 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0003467,C0009676,PRECEDES,Anxiety,Confusion,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0003467,C0011581,PRECEDES,Anxiety,Depressive disorder,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0003467,C0233514,PRECEDES,Anxiety,Abnormal behavior,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0003467,C0234985,PRECEDES,Anxiety,Mental deterioration,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0004936,C0338831,PRECEDES,Mental disorders,Manic,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0004936,C0588008,PRECEDES,Mental disorders,Severe depression,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0009595,C0270549,PRECEDES,Obsessive-Compulsive Personality,Generalized Anxiety Disorder,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0009676,C0233514,PRECEDES,Confusion,Abnormal behavior,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0011581,C0003467,PRECEDES,Depressive disorder,Anxiety,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0011581,C0003469,PRECEDES,Depressive disorder,Anxiety Disorders,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0011581,C0004936,PRECEDES,Depressive disorder,Mental disorders,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0011581,C0234985,PRECEDES,Depressive disorder,Mental deterioration,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0036341,C0004352,PRECEDES,Schizophrenia,Autistic Disorder,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0036341,C0005586,PRECEDES,Schizophrenia,Bipolar Disorder,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0038436,C0004936,PRECEDES,Post-Traumatic Stress Disorder,Mental disorders,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0038436,C0011581,PRECEDES,Post-Traumatic Stress Disorder,Depressive disorder,mobd,mobd,3,PRECEDES_MOBDprcdMOBD
+C0038436,C4065471,PRECEDES,Post-Traumatic Stress Disorder,Disruptive mood dysregulation disorder,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0038587,C0596170,PRECEDES,Substance Withdrawal Syndrome,Binge eating disorder,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0042693,C2362914,PRECEDES,Violence,clinical depression,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0085281,C0042693,PRECEDES,Addictive Behavior,Violence,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0085632,C0234985,PRECEDES,Apathy,Mental deterioration,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0233514,C0497327,PRECEDES,Abnormal behavior,Dementia,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C0242151,C0476480,PRECEDES,violent,Physical violence,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C1269683,C0036341,PRECEDES,Major Depressive Disorder,Schizophrenia,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C1392786,C0009241,PRECEDES,Cognitive changes,Cognition Disorders,mobd,mobd,1,PRECEDES_MOBDprcdMOBD
+C4042891,C0234985,PRECEDES,Sleep Wake Disorders,Mental deterioration,mobd,mobd,1,PRECEDES_MOBDprcdMOBD

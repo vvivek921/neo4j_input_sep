@@ -1,0 +1,17 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004793,C1956148,INHIBITS,Base Sequence,Amber Stop Codon,nusq,nusq,1,INHIBITS_NUSQinhbNUSQ
+C0009221,C0242611,INHIBITS,Codon (nucleotide sequence),"Codon, Terminator",nusq,nusq,2,INHIBITS_NUSQinhbNUSQ
+C0080089,C0242611,INHIBITS,Reading Frames (Nucleotide Sequence),"Codon, Terminator",nusq,nusq,1,INHIBITS_NUSQinhbNUSQ
+C0080089,C1956148,INHIBITS,Reading Frames (Nucleotide Sequence),Amber Stop Codon,nusq,nusq,2,INHIBITS_NUSQinhbNUSQ
+C0162326,C0009802,INHIBITS,DNA Sequence,Conserved Sequence,nusq,nusq,1,INHIBITS_NUSQinhbNUSQ
+C0162326,C0079160,INHIBITS,DNA Sequence,Consensus Sequence,nusq,nusq,1,INHIBITS_NUSQinhbNUSQ
+C0162326,C0080089,INHIBITS,DNA Sequence,Reading Frames (Nucleotide Sequence),nusq,nusq,2,INHIBITS_NUSQinhbNUSQ
+C0162326,C0162327,INHIBITS,DNA Sequence,RNA Sequence,nusq,nusq,1,INHIBITS_NUSQinhbNUSQ
+C0162326,C1512886,INHIBITS,DNA Sequence,Internal Ribosome Entry Sites,nusq,nusq,1,INHIBITS_NUSQinhbNUSQ
+C0162326,C1883644,INHIBITS,DNA Sequence,5' Region,nusq,nusq,1,INHIBITS_NUSQinhbNUSQ
+C0242611,C0080089,INHIBITS,"Codon, Terminator",Reading Frames (Nucleotide Sequence),nusq,nusq,1,INHIBITS_NUSQinhbNUSQ
+C0242612,C0242610,INHIBITS,"Codon, Nonsense","Codon, Initiator",nusq,nusq,1,INHIBITS_NUSQinhbNUSQ
+C0242612,C0242611,INHIBITS,"Codon, Nonsense","Codon, Terminator",nusq,nusq,1,INHIBITS_NUSQinhbNUSQ
+C0600600,C0162326,INHIBITS,3' Untranslated Regions,DNA Sequence,nusq,nusq,1,INHIBITS_NUSQinhbNUSQ
+C0600600,C1512886,INHIBITS,3' Untranslated Regions,Internal Ribosome Entry Sites,nusq,nusq,1,INHIBITS_NUSQinhbNUSQ
+C3178810,C0162326,INHIBITS,Transcriptome,DNA Sequence,nusq,nusq,1,INHIBITS_NUSQinhbNUSQ

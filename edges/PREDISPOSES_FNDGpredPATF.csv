@@ -1,0 +1,634 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0007294,C0006663,PREDISPOSES,Genetic Carriers,Calcinosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0007294,C0242781,PREDISPOSES,Genetic Carriers,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0009488,C0021368,PREDISPOSES,Comorbidity,Inflammation,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C0009488,C0032787,PREDISPOSES,Comorbidity,Postoperative Complications,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0009488,C0032914,PREDISPOSES,Comorbidity,Pre-Eclampsia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0009488,C0034065,PREDISPOSES,Comorbidity,Pulmonary Embolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0009488,C0035229,PREDISPOSES,Comorbidity,Respiratory Insufficiency,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0009488,C0040053,PREDISPOSES,Comorbidity,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0009488,C0151526,PREDISPOSES,Comorbidity,Premature Birth,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0009488,C0161816,PREDISPOSES,Comorbidity,Cardiac complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0009488,C0206277,PREDISPOSES,Comorbidity,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0009488,C0242656,PREDISPOSES,Comorbidity,Disease Progression,fndg,patf,7,PREDISPOSES_FNDGpredPATF
+C0009488,C1285328,PREDISPOSES,Comorbidity,Infectious sequelae of disorders,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0009488,C3714514,PREDISPOSES,Comorbidity,Infection,fndg,patf,4,PREDISPOSES_FNDGpredPATF
+C0015663,C0242656,PREDISPOSES,Fasting,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0016815,C0036974,PREDISPOSES,Functional Residual Capacity,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0017187,C0000786,PREDISPOSES,Gastrointestinal problem,Spontaneous abortion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0018800,C0085298,PREDISPOSES,Cardiomegaly,Sudden Cardiac Death,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0020440,C0240059,PREDISPOSES,Hypercapnia,Ventricular hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0020578,C0034063,PREDISPOSES,Hyperventilation,Pulmonary Edema,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0020649,C0026766,PREDISPOSES,Hypotension,Multiple Organ Failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0020649,C0036983,PREDISPOSES,Hypotension,Septic Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0020649,C0333501,PREDISPOSES,Hypotension,Acute necrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0020649,C0340865,PREDISPOSES,Hypotension,Anaphylactoid Reaction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0020672,C0019080,PREDISPOSES,"Hypothermia, natural",Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0021294,C0242648,PREDISPOSES,"Infant, Premature",Vertical Disease Transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0021294,C2937358,PREDISPOSES,"Infant, Premature",Cerebral Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0023974,C0021368,PREDISPOSES,Loneliness,Inflammation,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0026562,C0242781,PREDISPOSES,Morphologic diagnosis deferred,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0032972,C0000786,PREDISPOSES,Pregnancy Outcome,Spontaneous abortion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0032972,C0032914,PREDISPOSES,Pregnancy Outcome,Pre-Eclampsia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0032972,C0151526,PREDISPOSES,Pregnancy Outcome,Premature Birth,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0033213,C0020517,PREDISPOSES,Problem,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0033213,C0021368,PREDISPOSES,Problem,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0033213,C0026766,PREDISPOSES,Problem,Multiple Organ Failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0033213,C0040053,PREDISPOSES,Problem,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0033213,C0087086,PREDISPOSES,Problem,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0033213,C0242781,PREDISPOSES,Problem,disease transmission,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C0033213,C1096176,PREDISPOSES,Problem,Mitochondrial Damage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0033213,C3714514,PREDISPOSES,Problem,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0033687,C0392106,PREDISPOSES,Proteinuria,Hepatic artery thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0033774,C0340865,PREDISPOSES,Pruritus,Anaphylactoid Reaction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0013922,PREDISPOSES,risk factors,Embolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0019080,PREDISPOSES,risk factors,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0020517,PREDISPOSES,risk factors,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0021368,PREDISPOSES,risk factors,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0032914,PREDISPOSES,risk factors,Pre-Eclampsia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0038941,PREDISPOSES,risk factors,Surgical Wound Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0040038,PREDISPOSES,risk factors,Thromboembolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0040053,PREDISPOSES,risk factors,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0041755,PREDISPOSES,risk factors,Adverse reaction to drug,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0043241,PREDISPOSES,risk factors,Wound Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0151526,PREDISPOSES,risk factors,Premature Birth,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0151746,PREDISPOSES,risk factors,Abnormal renal function,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0161816,PREDISPOSES,risk factors,Cardiac complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0206277,PREDISPOSES,risk factors,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0242656,PREDISPOSES,risk factors,Disease Progression,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C0035648,C0242781,PREDISPOSES,risk factors,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0281169,PREDISPOSES,risk factors,Pulmonary Complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0392618,PREDISPOSES,risk factors,Postoperative infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C0392707,PREDISPOSES,risk factors,Atopy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0035648,C3714514,PREDISPOSES,risk factors,Infection,fndg,patf,6,PREDISPOSES_FNDGpredPATF
+C0035648,C4061114,PREDISPOSES,risk factors,Acute illness,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038435,C0000786,PREDISPOSES,Stress,Spontaneous abortion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038435,C0021368,PREDISPOSES,Stress,Inflammation,fndg,patf,4,PREDISPOSES_FNDGpredPATF
+C0038435,C0021655,PREDISPOSES,Stress,Insulin Resistance,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038435,C0036679,PREDISPOSES,Stress,Diastasis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038435,C0036974,PREDISPOSES,Stress,Shock,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0038435,C0151526,PREDISPOSES,Stress,Premature Birth,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038435,C0162633,PREDISPOSES,Stress,Viral Shedding,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038435,C0848215,PREDISPOSES,Stress,perinatal morbidity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038435,C1155266,PREDISPOSES,Stress,Inflammatory Response,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C0038435,C1373218,PREDISPOSES,Stress,Decreased Immunologic Activity [PE],fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0038435,C1519697,PREDISPOSES,Stress,Tumorigenicity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038435,C3203358,PREDISPOSES,Stress,Hypoventilation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038435,C3714514,PREDISPOSES,Stress,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0038990,C0036974,PREDISPOSES,Sweating,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0039231,C0019080,PREDISPOSES,Tachycardia,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0041674,C0036974,PREDISPOSES,Unemployment,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0043084,C0021368,PREDISPOSES,Weaning,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0043094,C3887513,PREDISPOSES,Weight Gain,Avascular necrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0085128,C0034063,PREDISPOSES,"Cardiac Output, High",Pulmonary Edema,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0085383,C0013604,PREDISPOSES,Hypocapnia,Edema,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0085393,C3714514,PREDISPOSES,Immunocompromised Host,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0086310,C0036974,PREDISPOSES,Food fads,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0086439,C0021368,PREDISPOSES,Hypokinesia,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0086565,C0006114,PREDISPOSES,Liver Dysfunction,Cerebral Edema,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0086565,C0019080,PREDISPOSES,Liver Dysfunction,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0087130,C0011304,PREDISPOSES,Uncertainty,Demyelination,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0087130,C0024524,PREDISPOSES,Uncertainty,Malacia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0087130,C0032787,PREDISPOSES,Uncertainty,Postoperative Complications,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0087130,C0087086,PREDISPOSES,Uncertainty,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0087130,C0242648,PREDISPOSES,Uncertainty,Vertical Disease Transmission,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0087130,C3714514,PREDISPOSES,Uncertainty,Infection,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0150312,C0000786,PREDISPOSES,Present,Spontaneous abortion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0004366,PREDISPOSES,Present,Autoimmune Response,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0013687,PREDISPOSES,Present,effusion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0016059,PREDISPOSES,Present,Fibrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0017181,PREDISPOSES,Present,Gastrointestinal Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0019080,PREDISPOSES,Present,Hemorrhage,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C0150312,C0020517,PREDISPOSES,Present,Hypersensitivity,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0150312,C0021368,PREDISPOSES,Present,Inflammation,fndg,patf,7,PREDISPOSES_FNDGpredPATF
+C0150312,C0026766,PREDISPOSES,Present,Multiple Organ Failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0034065,PREDISPOSES,Present,Pulmonary Embolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0036983,PREDISPOSES,Present,Septic Shock,fndg,patf,4,PREDISPOSES_FNDGpredPATF
+C0150312,C0040053,PREDISPOSES,Present,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0087086,PREDISPOSES,Present,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0151699,PREDISPOSES,Present,Intracranial Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0151763,PREDISPOSES,Present,Liver damage,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0150312,C0161818,PREDISPOSES,Present,Respiratory complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0162633,PREDISPOSES,Present,Viral Shedding,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0150312,C0206277,PREDISPOSES,Present,Fatal Outcome,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0150312,C0242648,PREDISPOSES,Present,Vertical Disease Transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0242656,PREDISPOSES,Present,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0242781,PREDISPOSES,Present,disease transmission,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C0150312,C0333276,PREDISPOSES,Present,Acute hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0392618,PREDISPOSES,Present,Postoperative infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0392707,PREDISPOSES,Present,Atopy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0543419,PREDISPOSES,Present,Sequela of disorder,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C0544688,PREDISPOSES,Present,complication of disease,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0150312,C1155266,PREDISPOSES,Present,Inflammatory Response,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C0150312,C3714514,PREDISPOSES,Present,Infection,fndg,patf,11,PREDISPOSES_FNDGpredPATF
+C0150312,C4505499,PREDISPOSES,Present,Transfusion-Transmitted Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0151754,C0020517,PREDISPOSES,Lactate Dehydrogenase Increased,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0151754,C0206277,PREDISPOSES,Lactate Dehydrogenase Increased,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0151878,C0011071,PREDISPOSES,Prolonged QT interval,Sudden death,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0151878,C0085298,PREDISPOSES,Prolonged QT interval,Sudden Cardiac Death,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0151904,C0019080,PREDISPOSES,Aspartate Aminotransferase Increased,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0151904,C0021368,PREDISPOSES,Aspartate Aminotransferase Increased,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0151905,C0151763,PREDISPOSES,Alanine Aminotransferase Increased,Liver damage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0152030,C0000786,PREDISPOSES,Skin irritation,Spontaneous abortion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0184511,C0020517,PREDISPOSES,Improved,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0184512,C0087086,PREDISPOSES,Stabilized (qualifier value),Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0205160,C0020517,PREDISPOSES,Negative,Hypersensitivity,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0205160,C0034063,PREDISPOSES,Negative,Pulmonary Edema,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0205160,C0242656,PREDISPOSES,Negative,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0205161,C0020517,PREDISPOSES,Abnormal,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0205400,C0032787,PREDISPOSES,Thickened,Postoperative Complications,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0205400,C0332448,PREDISPOSES,Thickened,Infiltration,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0205557,C0020517,PREDISPOSES,False Positive,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0206076,C0235029,PREDISPOSES,Reproductive History,neurological complication,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0206076,C0242656,PREDISPOSES,Reproductive History,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0221082,C0019080,PREDISPOSES,adverse effect due to surgery,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0221104,C0040053,PREDISPOSES,Hyperviscosity,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0221104,C0087086,PREDISPOSES,Hyperviscosity,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0221198,C0016059,PREDISPOSES,Lesion,Fibrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0221198,C0019080,PREDISPOSES,Lesion,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0221198,C0036974,PREDISPOSES,Lesion,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0221198,C0041582,PREDISPOSES,Lesion,Ulcer,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0221198,C0161818,PREDISPOSES,Lesion,Respiratory complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0221198,C3665429,PREDISPOSES,Lesion,Recurrent hemorrhage,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0231162,C0087086,PREDISPOSES,Normal general body function,Thrombus,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0231170,C0026846,PREDISPOSES,Disability,Muscular Atrophy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231170,C0281169,PREDISPOSES,Disability,Pulmonary Complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231184,C0028778,PREDISPOSES,Inefficiency,Obstruction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231221,C0242656,PREDISPOSES,Asymptomatic,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231221,C3714514,PREDISPOSES,Asymptomatic,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231224,C0036974,PREDISPOSES,Crisis,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231224,C1510411,PREDISPOSES,Crisis,metaplastic cell transformation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231224,C3714514,PREDISPOSES,Crisis,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231254,C0020542,PREDISPOSES,Increased body mass index,Pulmonary Hypertension,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231337,C0021368,PREDISPOSES,Senility,Inflammation,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C0231337,C0087086,PREDISPOSES,Senility,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231337,C0161816,PREDISPOSES,Senility,Cardiac complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231337,C0162633,PREDISPOSES,Senility,Viral Shedding,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0231337,C0206277,PREDISPOSES,Senility,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231337,C0242656,PREDISPOSES,Senility,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231337,C0243083,PREDISPOSES,Senility,associated disease,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231337,C0920563,PREDISPOSES,Senility,Insulin Sensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231337,C1262018,PREDISPOSES,Senility,Graft failure,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0231337,C3714514,PREDISPOSES,Senility,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231441,C0161818,PREDISPOSES,Immobile,Respiratory complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231819,C0020517,PREDISPOSES,Air trapping,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231819,C0028778,PREDISPOSES,Air trapping,Obstruction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0231835,C0242184,PREDISPOSES,Tachypnea,Hypoxia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0233481,C0242781,PREDISPOSES,Worried,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0235195,C0036974,PREDISPOSES,Sedated state,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0235601,C0019080,PREDISPOSES,HYPOCOAGULABLE STATE,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0235996,C0021368,PREDISPOSES,Elevated liver enzymes,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0236175,C0020517,PREDISPOSES,Increased circulating total IgE level,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0237849,C0026766,PREDISPOSES,Peeling of skin,Multiple Organ Failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0237849,C0235395,PREDISPOSES,Peeling of skin,Fluid loss,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0238614,C0021368,PREDISPOSES,ALLERGEN EXPOSURE,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0238646,C0020517,PREDISPOSES,ANIMAL EXPOSURE,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0239126,C0021368,PREDISPOSES,corticosteroid use,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0239126,C0029445,PREDISPOSES,corticosteroid use,Bone necrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0239126,C3714514,PREDISPOSES,corticosteroid use,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0239997,C0000786,PREDISPOSES,Maternal infection,Spontaneous abortion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0239997,C0000817,PREDISPOSES,Maternal infection,"Abortion, Septic",fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0239997,C0015927,PREDISPOSES,Maternal infection,Fetal Death,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0239997,C0022876,PREDISPOSES,Maternal infection,Premature Obstetric Labor,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0239997,C0032914,PREDISPOSES,Maternal infection,Pre-Eclampsia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0239997,C0151526,PREDISPOSES,Maternal infection,Premature Birth,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0239997,C0242648,PREDISPOSES,Maternal infection,Vertical Disease Transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0241158,C0267716,PREDISPOSES,Scar Tissue,Incisional hernia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0241411,C0729264,PREDISPOSES,TOBACCO LEAF EXPOSURE,Preterm premature rupture of membranes (disorder),fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0241889,C0392707,PREDISPOSES,Family history,Atopy,fndg,patf,4,PREDISPOSES_FNDGpredPATF
+C0260877,C0021368,PREDISPOSES,laboratory examination,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0262926,C0242781,PREDISPOSES,Medical History,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0262926,C0543419,PREDISPOSES,Medical History,Sequela of disorder,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0262926,C0553987,PREDISPOSES,Medical History,Arterial air embolus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0262926,C3714514,PREDISPOSES,Medical History,Infection,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0277797,C0021368,PREDISPOSES,Apyrexial,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0278252,C0242656,PREDISPOSES,Prognosis bad,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0311277,C0021655,PREDISPOSES,"Obesity, Abdominal",Insulin Resistance,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0002994,PREDISPOSES,Possible,Angioedema,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0004044,PREDISPOSES,Possible,Asphyxia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0012359,PREDISPOSES,Possible,Pathological Dilatation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0016059,PREDISPOSES,Possible,Fibrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0019080,PREDISPOSES,Possible,Hemorrhage,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0332149,C0020517,PREDISPOSES,Possible,Hypersensitivity,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0332149,C0021368,PREDISPOSES,Possible,Inflammation,fndg,patf,6,PREDISPOSES_FNDGpredPATF
+C0332149,C0021376,PREDISPOSES,Possible,Chronic inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0028778,PREDISPOSES,Possible,Obstruction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0032962,PREDISPOSES,Possible,Pregnancy Complications,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0034063,PREDISPOSES,Possible,Pulmonary Edema,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0040038,PREDISPOSES,Possible,Thromboembolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0151699,PREDISPOSES,Possible,Intracranial Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0161816,PREDISPOSES,Possible,Cardiac complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0231178,PREDISPOSES,Possible,Chronic failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0235063,PREDISPOSES,Possible,Respiratory Depression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0242648,PREDISPOSES,Possible,Vertical Disease Transmission,fndg,patf,7,PREDISPOSES_FNDGpredPATF
+C0332149,C0242656,PREDISPOSES,Possible,Disease Progression,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0332149,C0242781,PREDISPOSES,Possible,disease transmission,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C0332149,C0282474,PREDISPOSES,Possible,Maternal-Fetal Infection Transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0443146,PREDISPOSES,Possible,Autoimmune reaction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0854457,PREDISPOSES,Possible,Direct disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C0919924,PREDISPOSES,Possible,pulmonary toxicity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C1155266,PREDISPOSES,Possible,Inflammatory Response,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C3658208,PREDISPOSES,Possible,Dysbiosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C3662262,PREDISPOSES,Possible,Pseudoallergic reaction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332149,C3714514,PREDISPOSES,Possible,Infection,fndg,patf,10,PREDISPOSES_FNDGpredPATF
+C0332219,C0032787,PREDISPOSES,Easy,Postoperative Complications,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0332509,C1262018,PREDISPOSES,Increased size (finding),Graft failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0333139,C1261287,PREDISPOSES,Gas retention,Stenosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0333361,C0029445,PREDISPOSES,Acute inflammation,Bone necrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0333574,C0021368,PREDISPOSES,Fatty deposition,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0337664,C0151701,PREDISPOSES,Smoker,Pulmonary hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0342917,C3714514,PREDISPOSES,Deficiency of micronutrients,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0342952,C0242184,PREDISPOSES,Hypermetabolism,Hypoxia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0349790,C0021368,PREDISPOSES,Exacerbation of asthma,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0392209,C0017181,PREDISPOSES,Nutritional status,Gastrointestinal Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0392209,C0032787,PREDISPOSES,Nutritional status,Postoperative Complications,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0422837,C0020517,PREDISPOSES,Neurological observations,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0422837,C0543419,PREDISPOSES,Neurological observations,Sequela of disorder,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0424316,C0206277,PREDISPOSES,Exuberance,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0424470,C0242781,PREDISPOSES,Undressed,disease transmission,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0424589,C0376297,PREDISPOSES,Vitality,Cardiac Death,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0424594,C0242184,PREDISPOSES,Frailty,Hypoxia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0424594,C0392618,PREDISPOSES,Frailty,Postoperative infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0424594,C4545429,PREDISPOSES,Frailty,Perioperative complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0425382,C0242781,PREDISPOSES,Personal status - Adopted,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0425945,C0021376,PREDISPOSES,Prolonged menses,Chronic inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0425946,C0021368,PREDISPOSES,Short menstrual periods,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0427096,C3714514,PREDISPOSES,Patterning of movement,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0428687,C0036974,PREDISPOSES,Expiratory time,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0428776,C0340515,PREDISPOSES,Cardiac index,Myocardial dysfunction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0428977,C0085298,PREDISPOSES,Bradycardia,Sudden Cardiac Death,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0429673,C0700198,PREDISPOSES,Respiratory measure,Pulmonary aspiration,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0436331,C0281169,PREDISPOSES,Symptom aggravating factors,Pulmonary Complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0436343,C0242656,PREDISPOSES,Symptom mild,Disease Progression,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C0436345,C0040053,PREDISPOSES,Symptom severe,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0439662,C0020517,PREDISPOSES,Immune,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0439662,C0161816,PREDISPOSES,Immune,Cardiac complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0439662,C0242656,PREDISPOSES,Immune,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0439662,C0392707,PREDISPOSES,Immune,Atopy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0439662,C0815080,PREDISPOSES,Immune,organ rejection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0439662,C1265824,PREDISPOSES,Immune,Persistent inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0439662,C3714514,PREDISPOSES,Immune,Infection,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0439663,C0021368,PREDISPOSES,Infected,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0442726,C0332448,PREDISPOSES,Detected (finding),Infiltration,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0442748,C0235029,PREDISPOSES,6/4,neurological complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0442751,C0011071,PREDISPOSES,Distance vision 6/9,Sudden death,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0442751,C0020564,PREDISPOSES,Distance vision 6/9,Hypertrophy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0442797,C0019080,PREDISPOSES,Decreasing,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0442797,C0020517,PREDISPOSES,Decreasing,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0442797,C0242781,PREDISPOSES,Decreasing,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0442797,C0854460,PREDISPOSES,Decreasing,Indirect Transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0442816,C0019080,PREDISPOSES,Normal limits,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0474396,C4061114,PREDISPOSES,Sleep behavior finding,Acute illness,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0516918,C3714514,PREDISPOSES,Financial resources,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0518609,C0019080,PREDISPOSES,Consideration,Hemorrhage,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0518609,C0161816,PREDISPOSES,Consideration,Cardiac complication,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0518609,C0161818,PREDISPOSES,Consideration,Respiratory complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0518609,C0242184,PREDISPOSES,Consideration,Hypoxia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0518609,C0242656,PREDISPOSES,Consideration,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0518609,C0242781,PREDISPOSES,Consideration,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0518609,C3714514,PREDISPOSES,Consideration,Infection,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0521525,C0151526,PREDISPOSES,Short neck,Premature Birth,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0522224,C0035410,PREDISPOSES,Paralysed,Rhabdomyolysis,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0522224,C0036974,PREDISPOSES,Paralysed,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0549397,C0028778,PREDISPOSES,Deviated nasal septum,Obstruction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0549405,C0151699,PREDISPOSES,blood pressure fluctuation,Intracranial Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0549409,C0040053,PREDISPOSES,Packed cell volume increased,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0549649,C0041755,PREDISPOSES,MISUSE,Adverse reaction to drug,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0549649,C0242781,PREDISPOSES,MISUSE,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0558141,C1265831,PREDISPOSES,Transsexual (finding),Interstitial inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0559473,C0392707,PREDISPOSES,maternal history,Atopy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0564470,C3714514,PREDISPOSES,Optimistic,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0574078,C0021308,PREDISPOSES,Maternal pyrexia,Infarction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0577053,C0020517,PREDISPOSES,Lesion of liver,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0578022,C0038941,PREDISPOSES,Finding of body mass index,Surgical Wound Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0578022,C0087086,PREDISPOSES,Finding of body mass index,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0578022,C0206277,PREDISPOSES,Finding of body mass index,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0581125,C0040053,PREDISPOSES,Moderate asthma,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0581126,C2717792,PREDISPOSES,Severe asthma,Airway Remodeling,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0582147,C3714514,PREDISPOSES,At risk of infection,Infection,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0585715,C0019080,PREDISPOSES,Does clean own teeth,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0595939,C0000786,PREDISPOSES,Stillbirth,Spontaneous abortion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0595939,C0015927,PREDISPOSES,Stillbirth,Fetal Death,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0595939,C0151526,PREDISPOSES,Stillbirth,Premature Birth,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0595939,C3714514,PREDISPOSES,Stillbirth,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0595998,C0020517,PREDISPOSES,Household composition,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0595998,C0242781,PREDISPOSES,Household composition,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0595998,C3714514,PREDISPOSES,Household composition,Infection,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0596020,C0040053,PREDISPOSES,Does hit (finding),Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0600457,C0040038,PREDISPOSES,Gravidity,Thromboembolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0678803,C0392707,PREDISPOSES,Chemical Exposure,Atopy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0679838,C0151521,PREDISPOSES,Misdiagnosis,Bacterial resistance,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0682075,C0087086,PREDISPOSES,racial differences,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0683521,C3714514,PREDISPOSES,Patient Physiological Condition,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0686744,C0021368,PREDISPOSES,Well child,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0700225,C0013687,PREDISPOSES,Serum creatinine raised,effusion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0700292,C0002064,PREDISPOSES,Hypoxemia,"Alkalosis, Respiratory",fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0700292,C0020542,PREDISPOSES,Hypoxemia,Pulmonary Hypertension,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0700292,C0021368,PREDISPOSES,Hypoxemia,Inflammation,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C0700292,C0151946,PREDISPOSES,Hypoxemia,Pulmonary thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0700292,C0220981,PREDISPOSES,Hypoxemia,Metabolic acidosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0700292,C0242184,PREDISPOSES,Hypoxemia,Hypoxia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0700292,C0848898,PREDISPOSES,Hypoxemia,Neonatal morbidity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0700590,C0007642,PREDISPOSES,Increased sweating,Cellulitis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0728725,C0036974,PREDISPOSES,Low pH,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0728731,C0151521,PREDISPOSES,Prematurity of fetus,Bacterial resistance,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0728827,C0242781,PREDISPOSES,transfers,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0742724,C0034065,PREDISPOSES,Complication of procedure,Pulmonary Embolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0742969,C0020517,PREDISPOSES,D-dimer above reference range,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0745041,C0242656,PREDISPOSES,prolonged hospitalization,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0745114,C0032914,PREDISPOSES,hypertension chronic,Pre-Eclampsia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0746961,C4287874,PREDISPOSES,Oxygen saturation below reference range,Droplet transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0748864,C0019080,PREDISPOSES,small size,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0750484,C0206277,PREDISPOSES,Confirmation,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0750558,C0242184,PREDISPOSES,Unlikely,Hypoxia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0750558,C0242648,PREDISPOSES,Unlikely,Vertical Disease Transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0750558,C0242781,PREDISPOSES,Unlikely,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0750558,C0333641,PREDISPOSES,Unlikely,Atrophic,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0750558,C0341745,PREDISPOSES,Unlikely,Postoperative retention of urine,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0750558,C3203360,PREDISPOSES,Unlikely,Suppuration,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0750558,C3887513,PREDISPOSES,Unlikely,Avascular necrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0750558,C4289744,PREDISPOSES,Unlikely,Contact Transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0750863,C0235957,PREDISPOSES,Finding of creatine kinase level,myonecrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0853986,C0242656,PREDISPOSES,Lymphocyte count decreased,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0857460,C0040038,PREDISPOSES,Increased number of platelets,Thromboembolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0857460,C0040053,PREDISPOSES,Increased number of platelets,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C0872173,C3714514,PREDISPOSES,Functional Disability,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1113703,C0242781,PREDISPOSES,zero tolerance,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1134488,C0021655,PREDISPOSES,Hormonal Change,Insulin Resistance,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1134488,C0151699,PREDISPOSES,Hormonal Change,Intracranial Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1135241,C0000832,PREDISPOSES,Weeks pregnant,Abruptio Placentae,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1135241,C0032914,PREDISPOSES,Weeks pregnant,Pre-Eclampsia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1142499,C3714514,PREDISPOSES,gastrointestinal toxicity,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1260922,C0281169,PREDISPOSES,Abnormal breathing,Pulmonary Complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1262477,C0242656,PREDISPOSES,Weight decreased,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1273865,C0020581,PREDISPOSES,Past medication,Hyphema,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1275743,C0206277,PREDISPOSES,Co-morbid conditions,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1275743,C0242656,PREDISPOSES,Co-morbid conditions,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1281905,C0242781,PREDISPOSES,At risk of disease,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1290916,C0021368,PREDISPOSES,Radiologic finding,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1295715,C0019080,PREDISPOSES,Fibrinogen Decreased,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1299586,C0021368,PREDISPOSES,Has difficulty doing (qualifier value),Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1299586,C0024524,PREDISPOSES,Has difficulty doing (qualifier value),Malacia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1299586,C0151526,PREDISPOSES,Has difficulty doing (qualifier value),Premature Birth,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1299586,C0161818,PREDISPOSES,Has difficulty doing (qualifier value),Respiratory complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1299586,C0206277,PREDISPOSES,Has difficulty doing (qualifier value),Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1299586,C0242781,PREDISPOSES,Has difficulty doing (qualifier value),disease transmission,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C1299586,C3714514,PREDISPOSES,Has difficulty doing (qualifier value),Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1299590,C0235097,PREDISPOSES,Seizure free,withdrawal seizures,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1301624,C0000786,PREDISPOSES,Medical contraindication,Spontaneous abortion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1301624,C0151526,PREDISPOSES,Medical contraindication,Premature Birth,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1318963,C3714514,PREDISPOSES,Readiness,Infection,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C1444783,C0021368,PREDISPOSES,Instability,Inflammation,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C1444783,C0340515,PREDISPOSES,Instability,Myocardial dysfunction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1457868,C0161818,PREDISPOSES,Worse,Respiratory complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1516998,C0032914,PREDISPOSES,Exogenous Factors,Pre-Eclampsia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1518681,C0040038,PREDISPOSES,Outcome of Therapy,Thromboembolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1545588,C0021368,PREDISPOSES,Protection,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1545588,C0151763,PREDISPOSES,Protection,Liver damage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1545588,C0242781,PREDISPOSES,Protection,disease transmission,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C1545588,C3714514,PREDISPOSES,Protection,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1548982,C0274435,PREDISPOSES,Washed,Transfusion Reaction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1560209,C0011071,PREDISPOSES,"Hemolysis, CTCAE",Sudden death,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1560209,C0040053,PREDISPOSES,"Hemolysis, CTCAE",Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1562509,C0015376,PREDISPOSES,Anatomic motion barrier,Extravasation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1699112,C1155266,PREDISPOSES,Absolute Neutrophilia,Inflammatory Response,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1704212,C0019080,PREDISPOSES,Embolus,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1704212,C0087086,PREDISPOSES,Embolus,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1706712,C0021368,PREDISPOSES,Additional Therapy,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1706712,C0036974,PREDISPOSES,Additional Therapy,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1709157,C0020507,PREDISPOSES,Negative Surgical Margin,Hyperplasia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1709157,C0151526,PREDISPOSES,Negative Surgical Margin,Premature Birth,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1709157,C0242781,PREDISPOSES,Negative Surgical Margin,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1709157,C1155266,PREDISPOSES,Negative Surgical Margin,Inflammatory Response,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1710226,C0021368,PREDISPOSES,Subepithelial Infiltration,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1832073,C0242781,PREDISPOSES,Handling,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1832073,C4289744,PREDISPOSES,Handling,Contact Transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1832338,C0333641,PREDISPOSES,Axonal loss,Atrophic,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1836348,C0087086,PREDISPOSES,Severe disorder,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1836348,C0242656,PREDISPOSES,Severe disorder,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1836348,C1155266,PREDISPOSES,Severe disorder,Inflammatory Response,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1837655,C0020517,PREDISPOSES,Multifactorial,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1837655,C1155266,PREDISPOSES,Multifactorial,Inflammatory Response,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1839041,C0700198,PREDISPOSES,Bulbar dysfunction,Pulmonary aspiration,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1848701,C0035410,PREDISPOSES,Elevated hepatic transaminase,Rhabdomyolysis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1849265,C0008767,PREDISPOSES,Overgrowth,Cicatrization,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C1849265,C0016059,PREDISPOSES,Overgrowth,Fibrosis,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C1849265,C0021368,PREDISPOSES,Overgrowth,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1852184,C1373218,PREDISPOSES,Severe attrition,Decreased Immunologic Activity [PE],fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1855204,C3714514,PREDISPOSES,Cellular immunodeficiency,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1855575,C0151701,PREDISPOSES,Very rare,Pulmonary hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1858576,C0021368,PREDISPOSES,Heterogeneous disorder,Inflammation,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C1880087,C0019080,PREDISPOSES,Circuit Failure,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1963076,C0019080,PREDISPOSES,"Platelets, CTCAE",Hemorrhage,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C1963076,C0021368,PREDISPOSES,"Platelets, CTCAE",Inflammation,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C1963076,C0034063,PREDISPOSES,"Platelets, CTCAE",Pulmonary Edema,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1963076,C0040053,PREDISPOSES,"Platelets, CTCAE",Thrombosis,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C1963076,C0087086,PREDISPOSES,"Platelets, CTCAE",Thrombus,fndg,patf,5,PREDISPOSES_FNDGpredPATF
+C1963076,C0242781,PREDISPOSES,"Platelets, CTCAE",disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1963076,C1155266,PREDISPOSES,"Platelets, CTCAE",Inflammatory Response,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C1963076,C1321132,PREDISPOSES,"Platelets, CTCAE",Spontaneous hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1963076,C4505499,PREDISPOSES,"Platelets, CTCAE",Transfusion-Transmitted Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1970394,C0151701,PREDISPOSES,Bleeding episodes,Pulmonary hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1998827,C0040053,PREDISPOSES,Respiratory Status,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C1999010,C0220981,PREDISPOSES,Actual Negative Spontaneous Ventilation,Metabolic acidosis,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C2004062,C0036974,PREDISPOSES,History of previous events,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2004062,C1520005,PREDISPOSES,History of previous events,Viral Pathogenesis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2136639,C0019080,PREDISPOSES,reported tissue injury,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2347610,C0020517,PREDISPOSES,Chemosensitivity,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2677484,C3714514,PREDISPOSES,Impaired immune responses,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2712179,C0242781,PREDISPOSES,Actual Effective Skin Integrity,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2750122,C0004144,PREDISPOSES,Surfactant deficiency,Atelectasis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2751148,C0019080,PREDISPOSES,Hemorrhagic blisters,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2825142,C0700148,PREDISPOSES,Experimental Result,Congestion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2825972,C0019080,PREDISPOSES,Cant,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2825972,C0032914,PREDISPOSES,Cant,Pre-Eclampsia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2826606,C0231178,PREDISPOSES,Fungal Colonization,Chronic failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2945640,C0020517,PREDISPOSES,compromise,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2945656,C0020517,PREDISPOSES,severe allergy,Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2959885,C0242184,PREDISPOSES,Microthrombus,Hypoxia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2985338,C0752351,PREDISPOSES,Uterine Involution,Embryo Loss,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C2986501,C0040053,PREDISPOSES,Blood Stasis,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3242274,C0161818,PREDISPOSES,new therapy,Respiratory complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3244223,C0024348,PREDISPOSES,Intimate Interaction,Lysis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3251812,C0019080,PREDISPOSES,Bleeding risk,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3251812,C0152154,PREDISPOSES,Bleeding risk,Prolonged labor,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272281,C0019080,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score A,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272281,C0040038,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score A,Thromboembolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272281,C0040053,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score A,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272281,C0087086,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score A,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272283,C0015927,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Fetal Death,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272283,C0019080,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Hemorrhage,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C3272283,C0040038,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Thromboembolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272283,C0040053,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272283,C0042487,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Venous Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272283,C0242781,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,disease transmission,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C3272283,C0243083,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,associated disease,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272283,C0543419,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Sequela of disorder,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272283,C3897493,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Stent Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3272283,C4287874,PREDISPOSES,American College of Cardiology/American Heart Association Lesion Complexity Score C,Droplet transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3273245,C0349725,PREDISPOSES,Acute Rejection,Graft infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3273245,C1373218,PREDISPOSES,Acute Rejection,Decreased Immunologic Activity [PE],fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3276087,C0151699,PREDISPOSES,Elevated inflammatory markers,Intracranial Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3276087,C0206277,PREDISPOSES,Elevated inflammatory markers,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3278537,C0151654,PREDISPOSES,Myofibrillar disorganization,Myocardial fibrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3279537,C0032962,PREDISPOSES,Severe brain damage,Pregnancy Complications,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3476546,C0021368,PREDISPOSES,Symptoms score,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3494625,C0281169,PREDISPOSES,Heavy tobacco smoker,Pulmonary Complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3532827,C0040038,PREDISPOSES,Thrombus of left atrium,Thromboembolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3540840,C0021368,PREDISPOSES,Sign or Symptom,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3540840,C0543419,PREDISPOSES,Sign or Symptom,Sequela of disorder,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3553304,C0028778,PREDISPOSES,Subepithelial fibrosis,Obstruction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3656218,C0151526,PREDISPOSES,Maternal morbidity,Premature Birth,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3714738,C0242649,PREDISPOSES,Compliance,"Infectious Disease Transmission, Horizontal",fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3714738,C0242781,PREDISPOSES,Compliance,disease transmission,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C3806166,C0021368,PREDISPOSES,Poor outcome,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3807409,C3714514,PREDISPOSES,Low LDL cholesterol,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3811922,C0242656,PREDISPOSES,Liver transplant recipient,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3816499,C0087086,PREDISPOSES,Pathogenic,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3816499,C1373218,PREDISPOSES,Pathogenic,Decreased Immunologic Activity [PE],fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3827961,C0151526,PREDISPOSES,Spontaneous Preterm Birth,Premature Birth,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3840880,C0016059,PREDISPOSES,Traffic,Fibrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3840880,C0028778,PREDISPOSES,Traffic,Obstruction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3840880,C0038941,PREDISPOSES,Traffic,Surgical Wound Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3840880,C3714514,PREDISPOSES,Traffic,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3840880,C4545429,PREDISPOSES,Traffic,Perioperative complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3841448,C0242656,PREDISPOSES,Much worse,Disease Progression,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C3841939,C0242781,PREDISPOSES,Patient access,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3842672,C0206277,PREDISPOSES,Day 7,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3843353,C0034065,PREDISPOSES,Very Difficult,Pulmonary Embolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3843353,C0206277,PREDISPOSES,Very Difficult,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3843647,C0392707,PREDISPOSES,> 2 years,Atopy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3843708,C0235029,PREDISPOSES,29+,neurological complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3844126,C0235280,PREDISPOSES,Can Do Very Little,Ototoxicity,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C3844126,C0242648,PREDISPOSES,Can Do Very Little,Vertical Disease Transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3844729,C0392707,PREDISPOSES,Very Important,Atopy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3844729,C1265583,PREDISPOSES,Very Important,Secondary collapse,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3844729,C3714514,PREDISPOSES,Very Important,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3845793,C0019080,PREDISPOSES,Inadequate monitoring,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3845793,C0040038,PREDISPOSES,Inadequate monitoring,Thromboembolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3845876,C0026766,PREDISPOSES,Consequent,Multiple Organ Failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3845876,C1373218,PREDISPOSES,Consequent,Decreased Immunologic Activity [PE],fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3890735,C0001349,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Acute-Phase Reaction,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C3890735,C0016059,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Fibrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3890735,C0020517,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Hypersensitivity,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C3890735,C0021368,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Inflammation,fndg,patf,25,PREDISPOSES_FNDGpredPATF
+C3890735,C0021655,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Insulin Resistance,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3890735,C0040053,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C3890735,C0242656,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,Disease Progression,fndg,patf,5,PREDISPOSES_FNDGpredPATF
+C3890735,C1817978,PREDISPOSES,Complete Response with Incomplete Platelet Recovery,acute inflammatory response,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4014328,C2717792,PREDISPOSES,Epithelial thickening,Airway Remodeling,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4016022,C0161818,PREDISPOSES,AUTONOMIC NERVOUS SYSTEM DYSFUNCTION,Respiratory complication,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4036058,C3714514,PREDISPOSES,Too high,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4050466,C0007642,PREDISPOSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Cellulitis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4050466,C0040053,PREDISPOSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4050466,C0041582,PREDISPOSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Ulcer,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4050466,C0206277,PREDISPOSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4050466,C0274435,PREDISPOSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Transfusion Reaction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4050466,C3714514,PREDISPOSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Infection,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C4050466,C4287874,PREDISPOSES,Borg Category-Ratio 10 Perceived Exertion Score 5,Droplet transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4054756,C0442856,PREDISPOSES,Elevated lactate level,Hypoperfusion,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4055506,C0016059,PREDISPOSES,Accumulation,Fibrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4055506,C0021368,PREDISPOSES,Accumulation,Inflammation,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C4055506,C0021376,PREDISPOSES,Accumulation,Chronic inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4055506,C0021655,PREDISPOSES,Accumulation,Insulin Resistance,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C4055506,C0034063,PREDISPOSES,Accumulation,Pulmonary Edema,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4055506,C0040053,PREDISPOSES,Accumulation,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4055506,C0151763,PREDISPOSES,Accumulation,Liver damage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4055506,C0282683,PREDISPOSES,Accumulation,Tumor Escape,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4055506,C0333563,PREDISPOSES,Accumulation,Hyaline membrane,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4055506,C4287874,PREDISPOSES,Accumulation,Droplet transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4061338,C0020517,PREDISPOSES,Oxygen desaturation,Hypersensitivity,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C4086268,C0021368,PREDISPOSES,Exacerbation,Inflammation,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C4086268,C0028778,PREDISPOSES,Exacerbation,Obstruction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4086268,C0035228,PREDISPOSES,Exacerbation,Respiratory Hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4086268,C0684336,PREDISPOSES,Exacerbation,Impaired health,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4086268,C3714514,PREDISPOSES,Exacerbation,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4228838,C0021368,PREDISPOSES,Immune complex deposition,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4266412,C0242656,PREDISPOSES,CD8 ratio,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4289767,C0020517,PREDISPOSES,Colonization,Hypersensitivity,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C4289767,C0021368,PREDISPOSES,Colonization,Inflammation,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C4289767,C0021376,PREDISPOSES,Colonization,Chronic inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4289767,C0022876,PREDISPOSES,Colonization,Premature Obstetric Labor,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4289767,C0149663,PREDISPOSES,Colonization,Dehiscence,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4289767,C0240059,PREDISPOSES,Colonization,Ventricular hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4289767,C0333355,PREDISPOSES,Colonization,Inflammatory disease of mucous membrane,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4289767,C1155266,PREDISPOSES,Colonization,Inflammatory Response,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C4289767,C3714514,PREDISPOSES,Colonization,Infection,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C4289767,C4061114,PREDISPOSES,Colonization,Acute illness,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4296822,C0026766,PREDISPOSES,Intramucosal pH,Multiple Organ Failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4296962,C0034063,PREDISPOSES,Normal function,Pulmonary Edema,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4297006,C0019080,PREDISPOSES,Increase dose,Hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4313322,C0920645,PREDISPOSES,Alveolar damage,renal hypoxia,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4314584,C0553692,PREDISPOSES,Disseminated coagulopathy,Brain hemorrhage,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C0020523,PREDISPOSES,High Level,Immediate hypersensitivity,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C0020963,PREDISPOSES,High Level,Immune Tolerance,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C0021368,PREDISPOSES,High Level,Inflammation,fndg,patf,16,PREDISPOSES_FNDGpredPATF
+C4321237,C0021655,PREDISPOSES,High Level,Insulin Resistance,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C0036983,PREDISPOSES,High Level,Septic Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C0040053,PREDISPOSES,High Level,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C0087086,PREDISPOSES,High Level,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C0206277,PREDISPOSES,High Level,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C0243083,PREDISPOSES,High Level,associated disease,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C0340515,PREDISPOSES,High Level,Myocardial dysfunction,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C0392707,PREDISPOSES,High Level,Atopy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321237,C1373218,PREDISPOSES,High Level,Decreased Immunologic Activity [PE],fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C4321237,C3714514,PREDISPOSES,High Level,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321351,C0026766,PREDISPOSES,Low Level,Multiple Organ Failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321351,C0036983,PREDISPOSES,Low Level,Septic Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321351,C0087086,PREDISPOSES,Low Level,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4321351,C0242781,PREDISPOSES,Low Level,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4478245,C0020542,PREDISPOSES,Small pulmonary arteries,Pulmonary Hypertension,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4521222,C1373218,PREDISPOSES,Allergy Status,Decreased Immunologic Activity [PE],fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4521243,C0036974,PREDISPOSES,Injury severity,Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4521243,C1155266,PREDISPOSES,Injury severity,Inflammatory Response,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4533736,C0015376,PREDISPOSES,Low pressure,Extravasation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4533736,C0700198,PREDISPOSES,Low pressure,Pulmonary aspiration,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4534306,C0021368,PREDISPOSES,Supplemental oxygen,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4534363,C0040053,PREDISPOSES,At home,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4534363,C0242781,PREDISPOSES,At home,disease transmission,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C4553645,C3887513,PREDISPOSES,"Cushingoid, CTCAE",Avascular necrosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4554418,C0087086,PREDISPOSES,Parallel,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4554665,C1373218,PREDISPOSES,"Cytomegalovirus Infection Reactivation, CTCAE",Decreased Immunologic Activity [PE],fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4554665,C3714514,PREDISPOSES,"Cytomegalovirus Infection Reactivation, CTCAE",Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4693174,C0333355,PREDISPOSES,Hyperreactivity,Inflammatory disease of mucous membrane,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4698019,C0543419,PREDISPOSES,Incompatible,Sequela of disorder,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4698386,C0040038,PREDISPOSES,Intubated,Thromboembolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4698447,C0392618,PREDISPOSES,Patient age,Postoperative infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4698719,C0036983,PREDISPOSES,Confirmed case,Septic Shock,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4698719,C0242656,PREDISPOSES,Confirmed case,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699158,C0019080,PREDISPOSES,Increased risk,Hemorrhage,fndg,patf,3,PREDISPOSES_FNDGpredPATF
+C4699158,C0021368,PREDISPOSES,Increased risk,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699158,C0040053,PREDISPOSES,Increased risk,Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699158,C0087086,PREDISPOSES,Increased risk,Thrombus,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699158,C0235063,PREDISPOSES,Increased risk,Respiratory Depression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699158,C0242781,PREDISPOSES,Increased risk,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699158,C0392707,PREDISPOSES,Increased risk,Atopy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699158,C3714514,PREDISPOSES,Increased risk,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699158,C3897493,PREDISPOSES,Increased risk,Stent Thrombosis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699158,C4287874,PREDISPOSES,Increased risk,Droplet transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699164,C0235063,PREDISPOSES,Poor function,Respiratory Depression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699165,C0021368,PREDISPOSES,Decreased function,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699378,C3241936,PREDISPOSES,High expression,Non-cardiogenic pulmonary edema,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699379,C0021368,PREDISPOSES,Low expression,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699604,C0242781,PREDISPOSES,<12 months,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699609,C0242656,PREDISPOSES,Early disease stage,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4699618,C0242656,PREDISPOSES,>65 years,Disease Progression,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4721824,C0149889,PREDISPOSES,Smoking History,Anorectal fistula,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C4721824,C0392618,PREDISPOSES,Smoking History,Postoperative infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4722602,C0034065,PREDISPOSES,Underlying,Pulmonary Embolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4722602,C0242656,PREDISPOSES,Underlying,Disease Progression,fndg,patf,2,PREDISPOSES_FNDGpredPATF
+C4722602,C0392707,PREDISPOSES,Underlying,Atopy,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4722602,C0920394,PREDISPOSES,Underlying,angiotensin hypertension,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4722602,C1817997,PREDISPOSES,Underlying,chronic inflammatory response,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4722602,C3714514,PREDISPOSES,Underlying,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4738506,C0242781,PREDISPOSES,Operating,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4740705,C0042024,PREDISPOSES,Moderate risk,Urinary Incontinence,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4744948,C0206277,PREDISPOSES,Individual Exposure,Fatal Outcome,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4747995,C0015376,PREDISPOSES,Nasal secretions,Extravasation,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4747995,C0242781,PREDISPOSES,Nasal secretions,disease transmission,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C4748623,C0004144,PREDISPOSES,Ventilatory support,Atelectasis,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C5203671,C0034065,PREDISPOSES,Suspected COVID-19,Pulmonary Embolism,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C5204630,C1262018,PREDISPOSES,Serostatus,Graft failure,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C5204630,C3714514,PREDISPOSES,Serostatus,Infection,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C5233331,C0877042,PREDISPOSES,Low BMI,graft loss,fndg,patf,1,PREDISPOSES_FNDGpredPATF
+C5233566,C0021368,PREDISPOSES,Defective mucociliary clearance,Inflammation,fndg,patf,1,PREDISPOSES_FNDGpredPATF

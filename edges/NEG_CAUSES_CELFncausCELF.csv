@@ -1,0 +1,25 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0004391,C0007587,NEG_CAUSES,Autophagy,Cell Death,celf,celf,2,NEG_CAUSES_CELFncausCELF
+C0004391,C3548489,NEG_CAUSES,Autophagy,autophagosome maturation,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C0007587,C0004391,NEG_CAUSES,Cell Death,Autophagy,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C0007587,C0007620,NEG_CAUSES,Cell Death,Cell Survival,celf,celf,2,NEG_CAUSES_CELFncausCELF
+C0007587,C0162638,NEG_CAUSES,Cell Death,Apoptosis,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C0007587,C2612762,NEG_CAUSES,Cell Death,cellular macromolecule biosynthetic process,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C0010813,C0042774,NEG_CAUSES,Cytokinesis,Virus Replication,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C0010813,C0596898,NEG_CAUSES,Cytokinesis,membrane biogenesis,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C0031308,C0042774,NEG_CAUSES,Phagocytosis,Virus Replication,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C0042774,C0007620,NEG_CAUSES,Virus Replication,Cell Survival,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C0042774,C0162638,NEG_CAUSES,Virus Replication,Apoptosis,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C0042774,C1326207,NEG_CAUSES,Virus Replication,Autophagic Cell Death,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C0162638,C0007587,NEG_CAUSES,Apoptosis,Cell Death,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C0162638,C0010813,NEG_CAUSES,Apoptosis,Cytokinesis,celf,celf,2,NEG_CAUSES_CELFncausCELF
+C0206431,C0007595,NEG_CAUSES,Antigen Presentation,Cell Growth,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C0221145,C0007587,NEG_CAUSES,Thrombopoiesis,Cell Death,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C1155342,C0010813,NEG_CAUSES,cellular response to unfolded protein,Cytokinesis,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C1155873,C0162638,NEG_CAUSES,Cell Cycle Arrest,Apoptosis,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C1159762,C0031308,NEG_CAUSES,opsonization,Phagocytosis,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C1160700,C0007587,NEG_CAUSES,viral gene expression,Cell Death,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C1820119,C0004391,NEG_CAUSES,Mitophagy,Autophagy,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C2611772,C0042774,NEG_CAUSES,autophagosome assembly,Virus Replication,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C3271453,C0004391,NEG_CAUSES,Aggrephagy,Autophagy,celf,celf,1,NEG_CAUSES_CELFncausCELF
+C3546359,C0162638,NEG_CAUSES,pro-apoptosis,Apoptosis,celf,celf,1,NEG_CAUSES_CELFncausCELF

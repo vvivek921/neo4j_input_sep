@@ -1,0 +1,1515 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0026032,USES,"Administration, Intranasal",Microspheres,topp,medd,1,USES_TOPPusesMEDD
+C0001560,C0039142,USES,"Administration, Intranasal",Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0001563,C0009653,USES,"Administration, Oral","Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0001563,C0085104,USES,"Administration, Oral",Drug Delivery Systems,topp,medd,2,USES_TOPPusesMEDD
+C0001563,C0184154,USES,"Administration, Oral",stomach evacuator tubes,topp,medd,1,USES_TOPPusesMEDD
+C0002903,C0007439,USES,Anesthesia procedures,Indwelling Catheter,topp,medd,1,USES_TOPPusesMEDD
+C0002903,C0016533,USES,Anesthesia procedures,Forceps,topp,medd,1,USES_TOPPusesMEDD
+C0002903,C0021436,USES,Anesthesia procedures,Infusion Pump,topp,medd,1,USES_TOPPusesMEDD
+C0002903,C0024861,USES,Anesthesia procedures,Masks,topp,medd,3,USES_TOPPusesMEDD
+C0002903,C0042325,USES,Anesthesia procedures,Vaporizers,topp,medd,2,USES_TOPPusesMEDD
+C0002903,C0178987,USES,Anesthesia procedures,Artificial Airways,topp,medd,2,USES_TOPPusesMEDD
+C0002903,C0182098,USES,Anesthesia procedures,Otoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0002903,C0182301,USES,Anesthesia procedures,Pipette (physical object),topp,medd,1,USES_TOPPusesMEDD
+C0002903,C0182318,USES,Anesthesia procedures,Pledgets,topp,medd,1,USES_TOPPusesMEDD
+C0002903,C0183644,USES,Anesthesia procedures,Wheeled Stretchers,topp,medd,1,USES_TOPPusesMEDD
+C0002903,C0184108,USES,Anesthesia procedures,"TUBE, COLLECTION, CAPILLARY BLOOD",topp,medd,1,USES_TOPPusesMEDD
+C0002903,C0184283,USES,Anesthesia procedures,Intensive-care ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0002903,C0336630,USES,Anesthesia procedures,Endotracheal tube,topp,medd,3,USES_TOPPusesMEDD
+C0002903,C0493160,USES,Anesthesia procedures,"GRINDER, TISSUE",topp,medd,1,USES_TOPPusesMEDD
+C0002903,C0745442,USES,Anesthesia procedures,Intravenous Catheters,topp,medd,1,USES_TOPPusesMEDD
+C0002903,C0770764,USES,Anesthesia procedures,Disposable Syringe,topp,medd,1,USES_TOPPusesMEDD
+C0002911,C1875853,USES,"Anesthesia, Conduction",VALVE PORT,topp,medd,1,USES_TOPPusesMEDD
+C0002915,C0024861,USES,General Anesthesia,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0002915,C0336630,USES,General Anesthesia,Endotracheal tube,topp,medd,4,USES_TOPPusesMEDD
+C0002915,C0441161,USES,General Anesthesia,Rigid endoscope,topp,medd,1,USES_TOPPusesMEDD
+C0002915,C0441299,USES,General Anesthesia,Double lumen tube,topp,medd,1,USES_TOPPusesMEDD
+C0002915,C0491850,USES,General Anesthesia,"MAGNET, PERMANENT",topp,medd,1,USES_TOPPusesMEDD
+C0002915,C4076036,USES,General Anesthesia,Supraglottic airway,topp,medd,1,USES_TOPPusesMEDD
+C0002917,C2584423,USES,"Anesthesia, Inhalation",Double lumen tracheobronchial tube,topp,medd,1,USES_TOPPusesMEDD
+C0002921,C0024861,USES,Local anesthesia,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0002921,C3880144,USES,Local anesthesia,Micro-needle,topp,medd,1,USES_TOPPusesMEDD
+C0002928,C0456642,USES,Spinal Anesthesia,Introducer,topp,medd,1,USES_TOPPusesMEDD
+C0003893,C0175649,USES,Arthroplasty,Prosthesis,topp,medd,1,USES_TOPPusesMEDD
+C0004704,C0179435,USES,Balloon Dilatation,Rigid bronchoscope,topp,medd,1,USES_TOPPusesMEDD
+C0004764,C1706912,USES,"Contraception, Barrier",BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0005841,C0009653,USES,Blood Transfusion,"Condoms, Male",topp,medd,9,USES_TOPPusesMEDD
+C0005841,C0039142,USES,Blood Transfusion,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0005841,C0184348,USES,Blood Transfusion,"Warmer, device",topp,medd,1,USES_TOPPusesMEDD
+C0005841,C0520453,USES,Blood Transfusion,Cannula device,topp,medd,1,USES_TOPPusesMEDD
+C0005841,C1314650,USES,Blood Transfusion,"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,1,USES_TOPPusesMEDD
+C0005976,C0301559,USES,Bone Transplantation,Screw,topp,medd,1,USES_TOPPusesMEDD
+C0006042,C0184115,USES,Bottle feeding,Esophageal tube,topp,medd,1,USES_TOPPusesMEDD
+C0006098,C0179108,USES,Brachytherapy,Applicator - device,topp,medd,1,USES_TOPPusesMEDD
+C0006155,C0183441,USES,Breathing Exercises,Spirometer (device),topp,medd,1,USES_TOPPusesMEDD
+C0007202,C0520453,USES,Cardiopulmonary Bypass,Cannula device,topp,medd,1,USES_TOPPusesMEDD
+C0007203,C0180307,USES,Cardiopulmonary Resuscitation,Defibrillators,topp,medd,1,USES_TOPPusesMEDD
+C0007203,C0180309,USES,Cardiopulmonary Resuscitation,Automated External Defibrillators,topp,medd,1,USES_TOPPusesMEDD
+C0007203,C3164607,USES,Cardiopulmonary Resuscitation,Videolaryngoscope,topp,medd,1,USES_TOPPusesMEDD
+C0007344,C0175723,USES,Castration,Bands,topp,medd,1,USES_TOPPusesMEDD
+C0007430,C0009653,USES,Catheterization,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0007430,C0085590,USES,Catheterization,catheter device,topp,medd,3,USES_TOPPusesMEDD
+C0007430,C0178987,USES,Catheterization,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0007430,C0181982,USES,Catheterization,Spinal needle,topp,medd,1,USES_TOPPusesMEDD
+C0007430,C0221093,USES,Catheterization,Hypodermic Needles,topp,medd,1,USES_TOPPusesMEDD
+C0007430,C0581447,USES,Catheterization,Arterial catheter,topp,medd,1,USES_TOPPusesMEDD
+C0007430,C3831121,USES,Catheterization,Chest Tube Flutter Valve,topp,medd,1,USES_TOPPusesMEDD
+C0007471,C0175730,USES,Cauterization - action,biomedical tube device,topp,medd,1,USES_TOPPusesMEDD
+C0007471,C0180694,USES,Cauterization - action,Bovie,topp,medd,1,USES_TOPPusesMEDD
+C0007471,C0181467,USES,Cauterization - action,knife,topp,medd,1,USES_TOPPusesMEDD
+C0007471,C0260027,USES,Cauterization - action,Moxa,topp,medd,1,USES_TOPPusesMEDD
+C0007471,C2699315,USES,Cauterization - action,Smoke Evacuator,topp,medd,1,USES_TOPPusesMEDD
+C0007656,C0021102,USES,Cementation,Implants,topp,medd,2,USES_TOPPusesMEDD
+C0007876,C1301881,USES,Cesarean section,Anesthesia equipment,topp,medd,1,USES_TOPPusesMEDD
+C0008320,C0009653,USES,Cholecystectomy procedure,"Condoms, Male",topp,medd,5,USES_TOPPusesMEDD
+C0009068,C0461628,USES,Closure by suture,Non-absorbable suture,topp,medd,1,USES_TOPPusesMEDD
+C0009274,C0009653,USES,Colectomy,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0010055,C0184252,USES,Coronary Artery Bypass Surgery,Medical Valves,topp,medd,1,USES_TOPPusesMEDD
+C0010216,C0702122,USES,Counterpulsation,Intra-aortic balloon pump device,topp,medd,6,USES_TOPPusesMEDD
+C0010280,C0336587,USES,Craniotomy,"Surgical drill, device (physical object)",topp,medd,2,USES_TOPPusesMEDD
+C0011079,C0013119,USES,Debridement,Medical dressing,topp,medd,1,USES_TOPPusesMEDD
+C0011079,C0016533,USES,Debridement,Forceps,topp,medd,1,USES_TOPPusesMEDD
+C0011079,C1261188,USES,Debridement,Swab,topp,medd,1,USES_TOPPusesMEDD
+C0011121,C0002422,USES,Decontamination,Ambulances,topp,medd,2,USES_TOPPusesMEDD
+C0011121,C0024861,USES,Decontamination,Masks,topp,medd,17,USES_TOPPusesMEDD
+C0011121,C0035208,USES,Decontamination,"Respirators, Air-Purifying",topp,medd,1,USES_TOPPusesMEDD
+C0011121,C0042497,USES,Decontamination,Mechanical Ventilator,topp,medd,19,USES_TOPPusesMEDD
+C0011121,C0179177,USES,Decontamination,Autoclave,topp,medd,9,USES_TOPPusesMEDD
+C0011121,C0181222,USES,Decontamination,Hoses,topp,medd,1,USES_TOPPusesMEDD
+C0011121,C0181758,USES,Decontamination,Surgical face mask,topp,medd,1,USES_TOPPusesMEDD
+C0011121,C0183255,USES,Decontamination,Face shield (physical object),topp,medd,1,USES_TOPPusesMEDD
+C0011121,C0392254,USES,Decontamination,"Lasers, Semiconductor",topp,medd,1,USES_TOPPusesMEDD
+C0011121,C0879140,USES,Decontamination,Towelettes,topp,medd,2,USES_TOPPusesMEDD
+C0011121,C0936234,USES,Decontamination,Computed Tomography Scanning Systems,topp,medd,1,USES_TOPPusesMEDD
+C0011121,C1314650,USES,Decontamination,"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,2,USES_TOPPusesMEDD
+C0011121,C3873738,USES,Decontamination,Laser system,topp,medd,1,USES_TOPPusesMEDD
+C0011209,C0009836,USES,Obstetric Delivery,Contact Lenses,topp,medd,1,USES_TOPPusesMEDD
+C0011331,C0024861,USES,Dental Procedures,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0011331,C0042497,USES,Dental Procedures,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0011331,C0180590,USES,Dental Procedures,SALIVA EJECTOR,topp,medd,1,USES_TOPPusesMEDD
+C0011331,C0181115,USES,Dental Procedures,Handpiece,topp,medd,1,USES_TOPPusesMEDD
+C0011331,C0181116,USES,Dental Procedures,Dental handpiece,topp,medd,2,USES_TOPPusesMEDD
+C0011946,C0175730,USES,Dialysis procedure,biomedical tube device,topp,medd,1,USES_TOPPusesMEDD
+C0011946,C0181904,USES,Dialysis procedure,Monitor Device,topp,medd,1,USES_TOPPusesMEDD
+C0011946,C0183400,USES,Dialysis procedure,Spectrophotometer,topp,medd,1,USES_TOPPusesMEDD
+C0011946,C0878969,USES,Dialysis procedure,tunneled catheters,topp,medd,1,USES_TOPPusesMEDD
+C0011946,C4069241,USES,Dialysis procedure,Convective,topp,medd,1,USES_TOPPusesMEDD
+C0012002,C0181209,USES,Diathermy,Hook,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0002422,USES,Disinfection,Ambulances,topp,medd,2,USES_TOPPusesMEDD
+C0012683,C0005971,USES,Disinfection,Bone plates,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0009836,USES,Disinfection,Contact Lenses,topp,medd,2,USES_TOPPusesMEDD
+C0012683,C0013119,USES,Disinfection,Medical dressing,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0014243,USES,Disinfection,Endoscopes,topp,medd,4,USES_TOPPusesMEDD
+C0012683,C0024861,USES,Disinfection,Masks,topp,medd,3,USES_TOPPusesMEDD
+C0012683,C0042497,USES,Disinfection,Mechanical Ventilator,topp,medd,11,USES_TOPPusesMEDD
+C0012683,C0085104,USES,Disinfection,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0175730,USES,Disinfection,biomedical tube device,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0179177,USES,Disinfection,Autoclave,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0180202,USES,Disinfection,Cryostat,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0181033,USES,Disinfection,germicidal lamps,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0181222,USES,Disinfection,Hoses,topp,medd,2,USES_TOPPusesMEDD
+C0012683,C0181633,USES,Disinfection,Light source,topp,medd,2,USES_TOPPusesMEDD
+C0012683,C0181652,USES,Disinfection,Ultraviolet germicidal light,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0182400,USES,Disinfection,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0183086,USES,Disinfection,sanitizers,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0183115,USES,Disinfection,Scanning Systems,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0184054,USES,Disinfection,Tray - device,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0497652,USES,Disinfection,New equipment,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0590323,USES,Disinfection,Gauzes,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0725865,USES,Disinfection,disposable,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0740043,USES,Disinfection,medical supplies,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0752152,USES,Disinfection,"Endoscopes, Gastrointestinal",topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0770764,USES,Disinfection,Disposable Syringe,topp,medd,1,USES_TOPPusesMEDD
+C0012683,C0879140,USES,Disinfection,Towelettes,topp,medd,20,USES_TOPPusesMEDD
+C0012683,C1321866,USES,Disinfection,Sterilizing Units,topp,medd,1,USES_TOPPusesMEDD
+C0012737,C0392220,USES,Tissue Dissection,scalpel,topp,medd,1,USES_TOPPusesMEDD
+C0013103,C0005978,USES,Drainage procedure,Bone Wires,topp,medd,1,USES_TOPPusesMEDD
+C0013103,C0184047,USES,Drainage procedure,Trap medical device,topp,medd,1,USES_TOPPusesMEDD
+C0013103,C1706912,USES,Drainage procedure,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0013103,C3831121,USES,Drainage procedure,Chest Tube Flutter Valve,topp,medd,2,USES_TOPPusesMEDD
+C0013216,C0021455,USES,Pharmacotherapy,Inhalation Devices,topp,medd,1,USES_TOPPusesMEDD
+C0013216,C0750164,USES,Pharmacotherapy,venous access,topp,medd,1,USES_TOPPusesMEDD
+C0013216,C1706912,USES,Pharmacotherapy,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0013778,C0180309,USES,Electric Countershock,Automated External Defibrillators,topp,medd,2,USES_TOPPusesMEDD
+C0013786,C0376432,USES,Electric stimulation technique,Bioreactors,topp,medd,1,USES_TOPPusesMEDD
+C0013804,C0180694,USES,Electrocoagulation,Bovie,topp,medd,1,USES_TOPPusesMEDD
+C0013804,C2699315,USES,Electrocoagulation,Smoke Evacuator,topp,medd,3,USES_TOPPusesMEDD
+C0013806,C0178987,USES,Electroconvulsive Therapy,Artificial Airways,topp,medd,3,USES_TOPPusesMEDD
+C0013931,C0026032,USES,"Embolization, Therapeutic",Microspheres,topp,medd,4,USES_TOPPusesMEDD
+C0013931,C0490617,USES,"Embolization, Therapeutic","CATHETER, PERCUTANEOUS",topp,medd,1,USES_TOPPusesMEDD
+C0014327,C2945625,USES,Enteral Nutrition,Feeding tube,topp,medd,1,USES_TOPPusesMEDD
+C0015252,C0005971,USES,removal technique,Bone plates,topp,medd,1,USES_TOPPusesMEDD
+C0015252,C0009653,USES,removal technique,"Condoms, Male",topp,medd,5,USES_TOPPusesMEDD
+C0015252,C0021102,USES,removal technique,Implants,topp,medd,3,USES_TOPPusesMEDD
+C0015252,C0024861,USES,removal technique,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0015252,C0032159,USES,removal technique,Plaster Casts,topp,medd,1,USES_TOPPusesMEDD
+C0015252,C0042497,USES,removal technique,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0015252,C0175659,USES,removal technique,Weight measurement scales,topp,medd,2,USES_TOPPusesMEDD
+C0015252,C0175723,USES,removal technique,Bands,topp,medd,4,USES_TOPPusesMEDD
+C0015252,C0179323,USES,removal technique,Blades (device),topp,medd,2,USES_TOPPusesMEDD
+C0015252,C0179630,USES,removal technique,Cartridge device,topp,medd,1,USES_TOPPusesMEDD
+C0015252,C0181064,USES,removal technique,Gown,topp,medd,4,USES_TOPPusesMEDD
+C0015252,C0181467,USES,removal technique,knife,topp,medd,1,USES_TOPPusesMEDD
+C0015252,C0184159,USES,removal technique,Tracheostomy tube,topp,medd,1,USES_TOPPusesMEDD
+C0015252,C0392220,USES,removal technique,scalpel,topp,medd,1,USES_TOPPusesMEDD
+C0015252,C0392222,USES,removal technique,Potassium Titanyl Phosphate Lasers,topp,medd,1,USES_TOPPusesMEDD
+C0015252,C0456898,USES,removal technique,Cutting needle,topp,medd,1,USES_TOPPusesMEDD
+C0015357,C0085590,USES,Extracorporeal Membrane Oxygenation,catheter device,topp,medd,1,USES_TOPPusesMEDD
+C0015357,C0180409,USES,Extracorporeal Membrane Oxygenation,DIALYZER,topp,medd,1,USES_TOPPusesMEDD
+C0015357,C0441130,USES,Extracorporeal Membrane Oxygenation,Single lumen catheter,topp,medd,1,USES_TOPPusesMEDD
+C0015357,C0444755,USES,Extracorporeal Membrane Oxygenation,Centrifugal pump,topp,medd,2,USES_TOPPusesMEDD
+C0015357,C0520453,USES,Extracorporeal Membrane Oxygenation,Cannula device,topp,medd,1,USES_TOPPusesMEDD
+C0015357,C1875843,USES,Extracorporeal Membrane Oxygenation,ultrasound device,topp,medd,1,USES_TOPPusesMEDD
+C0016286,C0179768,USES,Fluid Therapy,Peripheral intravenous catheter,topp,medd,1,USES_TOPPusesMEDD
+C0016642,C0005971,USES,"Fracture Fixation, Internal",Bone plates,topp,medd,3,USES_TOPPusesMEDD
+C0016642,C0336581,USES,"Fracture Fixation, Internal",Intramedullary rod,topp,medd,2,USES_TOPPusesMEDD
+C0016642,C1139930,USES,"Fracture Fixation, Internal",Device Plate,topp,medd,1,USES_TOPPusesMEDD
+C0016642,C1961768,USES,"Fracture Fixation, Internal",Pedicle Screws,topp,medd,2,USES_TOPPusesMEDD
+C0017118,C0183336,USES,Gastrectomy,Sleeve,topp,medd,22,USES_TOPPusesMEDD
+C0017193,C0183336,USES,Gastroplasty,Sleeve,topp,medd,1,USES_TOPPusesMEDD
+C0017196,C0009653,USES,Gastrostomy,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0017196,C0181020,USES,Gastrostomy,Gastroscopes,topp,medd,1,USES_TOPPusesMEDD
+C0017296,C0085104,USES,gene therapy,Drug Delivery Systems,topp,medd,2,USES_TOPPusesMEDD
+C0017296,C0178959,USES,gene therapy,ADAPTER,topp,medd,1,USES_TOPPusesMEDD
+C0017296,C0178987,USES,gene therapy,Artificial Airways,topp,medd,17,USES_TOPPusesMEDD
+C0017296,C1706912,USES,gene therapy,BARRIER,topp,medd,3,USES_TOPPusesMEDD
+C0018821,C0183014,USES,Cardiac Surgery procedures,"Retractor, device",topp,medd,1,USES_TOPPusesMEDD
+C0018823,C0184252,USES,Heart Transplantation,Medical Valves,topp,medd,1,USES_TOPPusesMEDD
+C0019004,C0181904,USES,Hemodialysis,Monitor Device,topp,medd,1,USES_TOPPusesMEDD
+C0019004,C1145640,USES,Hemodialysis,"Central venous catheter, device",topp,medd,2,USES_TOPPusesMEDD
+C0019063,C0179630,USES,Hemoperfusion,Cartridge device,topp,medd,1,USES_TOPPusesMEDD
+C0019063,C0180863,USES,Hemoperfusion,blood filters,topp,medd,1,USES_TOPPusesMEDD
+C0019063,C4528683,USES,Hemoperfusion,Toraymyxin,topp,medd,3,USES_TOPPusesMEDD
+C0019328,C2717996,USES,Herniorrhaphy,Mosquito Nets,topp,medd,1,USES_TOPPusesMEDD
+C0019541,C0087153,USES,High-Frequency Ventilation,Ventilator - respiratory equipment,topp,medd,1,USES_TOPPusesMEDD
+C0020944,C0005971,USES,Immobilization,Bone plates,topp,medd,2,USES_TOPPusesMEDD
+C0020944,C0006086,USES,Immobilization,Braces-Orthopedic appliances,topp,medd,1,USES_TOPPusesMEDD
+C0020944,C0024861,USES,Immobilization,Masks,topp,medd,2,USES_TOPPusesMEDD
+C0020944,C0026032,USES,Immobilization,Microspheres,topp,medd,1,USES_TOPPusesMEDD
+C0020944,C0029365,USES,Immobilization,Orthotic Devices,topp,medd,1,USES_TOPPusesMEDD
+C0020944,C0175718,USES,Immobilization,Medical pins,topp,medd,1,USES_TOPPusesMEDD
+C0020944,C0175730,USES,Immobilization,biomedical tube device,topp,medd,1,USES_TOPPusesMEDD
+C0020944,C0178959,USES,Immobilization,ADAPTER,topp,medd,2,USES_TOPPusesMEDD
+C0020944,C0181332,USES,Immobilization,Syringe pump,topp,medd,1,USES_TOPPusesMEDD
+C0020944,C0182400,USES,Immobilization,Probes,topp,medd,25,USES_TOPPusesMEDD
+C0020944,C0183346,USES,Immobilization,"Sling, device",topp,medd,1,USES_TOPPusesMEDD
+C0020944,C0184066,USES,Immobilization,Microplate,topp,medd,1,USES_TOPPusesMEDD
+C0020944,C0221874,USES,Immobilization,spacer device,topp,medd,1,USES_TOPPusesMEDD
+C0020944,C1139930,USES,Immobilization,Device Plate,topp,medd,1,USES_TOPPusesMEDD
+C0020944,C1328924,USES,Immobilization,magnetic beads,topp,medd,1,USES_TOPPusesMEDD
+C0020971,C0009653,USES,Immunization,"Condoms, Male",topp,medd,15,USES_TOPPusesMEDD
+C0020971,C0024861,USES,Immunization,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0020971,C0026032,USES,Immunization,Microspheres,topp,medd,1,USES_TOPPusesMEDD
+C0020971,C0027551,USES,Immunization,Needle device,topp,medd,3,USES_TOPPusesMEDD
+C0020971,C0039142,USES,Immunization,Syringes,topp,medd,3,USES_TOPPusesMEDD
+C0020971,C0175730,USES,Immunization,biomedical tube device,topp,medd,1,USES_TOPPusesMEDD
+C0020971,C0178987,USES,Immunization,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0020971,C0182400,USES,Immunization,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0020971,C0183400,USES,Immunization,Spectrophotometer,topp,medd,1,USES_TOPPusesMEDD
+C0020971,C0376432,USES,Immunization,Bioreactors,topp,medd,1,USES_TOPPusesMEDD
+C0020971,C0777169,USES,Immunization,Lancet,topp,medd,1,USES_TOPPusesMEDD
+C0020971,C1139930,USES,Immunization,Device Plate,topp,medd,1,USES_TOPPusesMEDD
+C0020971,C1608324,USES,Immunization,Vascular Access Ports,topp,medd,1,USES_TOPPusesMEDD
+C0020971,C1706912,USES,Immunization,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0020971,C3880144,USES,Immunization,Micro-needle,topp,medd,3,USES_TOPPusesMEDD
+C0020972,C0039142,USES,Immunization Schedule,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0020974,C0009653,USES,passive immunization procedure,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0020975,C0178987,USES,Secondary Immunization,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0020975,C0180917,USES,Secondary Immunization,Fluorescence immunoassay analyzer,topp,medd,1,USES_TOPPusesMEDD
+C0021022,C0009653,USES,Immunoglobulin Therapy,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0005975,USES,Implantation procedure,Bone Screws,topp,medd,3,USES_TOPPusesMEDD
+C0021107,C0007439,USES,Implantation procedure,Indwelling Catheter,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0009653,USES,Implantation procedure,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C0021107,C0011373,USES,Implantation procedure,"Implantable dental prosthesis, device",topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0013314,USES,Implantation procedure,Durable Medical Equipment,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0021102,USES,Implantation procedure,Implants,topp,medd,12,USES_TOPPusesMEDD
+C0021107,C0023036,USES,Implantation procedure,Laparoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0024861,USES,Implantation procedure,Masks,topp,medd,5,USES_TOPPusesMEDD
+C0021107,C0024939,USES,Implantation procedure,Matrix Bands,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0025973,USES,Implantation procedure,Microelectrodes,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C0026032,USES,Implantation procedure,Microspheres,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0027524,USES,Implantation procedure,Nebulizers,topp,medd,4,USES_TOPPusesMEDD
+C0021107,C0038257,USES,Implantation procedure,"Stent, device",topp,medd,56,USES_TOPPusesMEDD
+C0021107,C0038917,USES,Implantation procedure,Surgical Clips,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0039142,USES,Implantation procedure,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0040519,USES,Implantation procedure,Tourniquets,topp,medd,3,USES_TOPPusesMEDD
+C0021107,C0040661,USES,Implantation procedure,Transducers,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C0041158,USES,Implantation procedure,Trocar,topp,medd,3,USES_TOPPusesMEDD
+C0021107,C0080306,USES,Implantation procedure,Vena Cava Filters,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0085275,USES,Implantation procedure,Rubber Dams,topp,medd,3,USES_TOPPusesMEDD
+C0021107,C0085283,USES,Implantation procedure,"Urinary Sphincter, Artificial",topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0085678,USES,Implantation procedure,Nasogastric tube,topp,medd,10,USES_TOPPusesMEDD
+C0021107,C0085842,USES,Implantation procedure,Artificial Ventricle,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C0087165,USES,Implantation procedure,Voice Prosthesis,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0150595,USES,Implantation procedure,Gastrostomy tube,topp,medd,10,USES_TOPPusesMEDD
+C0021107,C0162589,USES,Implantation procedure,Implantable defibrillator,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0162645,USES,Implantation procedure,Laryngeal Masks,topp,medd,3,USES_TOPPusesMEDD
+C0021107,C0175649,USES,Implantation procedure,Prosthesis,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0175662,USES,Implantation procedure,Ventriculoperitoneal catheter,topp,medd,4,USES_TOPPusesMEDD
+C0021107,C0175720,USES,Implantation procedure,Caliper,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0175723,USES,Implantation procedure,Bands,topp,medd,3,USES_TOPPusesMEDD
+C0021107,C0175733,USES,Implantation procedure,Arterial cannula,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0178959,USES,Implantation procedure,ADAPTER,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0179108,USES,Implantation procedure,Applicator - device,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0179390,USES,Implantation procedure,Bougie,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0179407,USES,Implantation procedure,brackets,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0179432,USES,Implantation procedure,Bronchoscopes,topp,medd,4,USES_TOPPusesMEDD
+C0021107,C0179571,USES,Implantation procedure,femoral cannulae,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C0179768,USES,Implantation procedure,Peripheral intravenous catheter,topp,medd,6,USES_TOPPusesMEDD
+C0021107,C0179783,USES,Implantation procedure,Peritoneal dialysis catheter,topp,medd,3,USES_TOPPusesMEDD
+C0021107,C0179790,USES,Implantation procedure,Pulmonary artery flotation catheter,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0179800,USES,Implantation procedure,Urethral Catheters,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0180307,USES,Implantation procedure,Defibrillators,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C0180309,USES,Implantation procedure,Automated External Defibrillators,topp,medd,3,USES_TOPPusesMEDD
+C0021107,C0180431,USES,Implantation procedure,Dilator,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0180463,USES,Implantation procedure,Dispenser,topp,medd,3,USES_TOPPusesMEDD
+C0021107,C0180482,USES,Implantation procedure,distractors,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0180488,USES,Implantation procedure,"Dosimeter, device",topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0180647,USES,Implantation procedure,Fetal scalp electrode,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0180979,USES,Implantation procedure,Frame (physical object),topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0181089,USES,Implantation procedure,"Catheter guide wire, device",topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0181374,USES,Implantation procedure,Intrauterine balloon,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0181598,USES,Implantation procedure,Left ventricular assist device,topp,medd,25,USES_TOPPusesMEDD
+C0021107,C0181970,USES,Implantation procedure,Epidural needle,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0182098,USES,Implantation procedure,Otoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0182380,USES,Implantation procedure,Intracranial Pressure Monitors,topp,medd,7,USES_TOPPusesMEDD
+C0021107,C0182400,USES,Implantation procedure,Probes,topp,medd,11,USES_TOPPusesMEDD
+C0021107,C0182555,USES,Implantation procedure,Punch,topp,medd,8,USES_TOPPusesMEDD
+C0021107,C0182576,USES,Implantation procedure,Rack,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0183014,USES,Implantation procedure,"Retractor, device",topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0183210,USES,Implantation procedure,sensor (device),topp,medd,4,USES_TOPPusesMEDD
+C0021107,C0183346,USES,Implantation procedure,"Sling, device",topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0183516,USES,Implantation procedure,Pancreatic stent,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0183517,USES,Implantation procedure,Tracheal stent,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C0183518,USES,Implantation procedure,Ureteric stent,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C0183559,USES,Implantation procedure,Stethoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0183675,USES,Implantation procedure,Suction Tips,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0183738,USES,Implantation procedure,Polyester suture,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0184113,USES,Implantation procedure,decompression tubes,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0184148,USES,Implantation procedure,Nasojejunal Tube,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0184159,USES,Implantation procedure,Tracheostomy tube,topp,medd,9,USES_TOPPusesMEDD
+C0021107,C0184186,USES,Implantation procedure,Tuohy needle,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0184252,USES,Implantation procedure,Medical Valves,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0282007,USES,Implantation procedure,temporary pacemaker,topp,medd,6,USES_TOPPusesMEDD
+C0021107,C0336581,USES,Implantation procedure,Intramedullary rod,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0336587,USES,Implantation procedure,"Surgical drill, device (physical object)",topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0337184,USES,Implantation procedure,Physical restraint equipment (device),topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0441127,USES,Implantation procedure,Balloon dilatation catheter,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0441202,USES,Implantation procedure,Subcutaneous cerebrospinal fluid reservoir,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0441290,USES,Implantation procedure,Metal stent,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0441291,USES,Implantation procedure,Self-expanding stent,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0441293,USES,Implantation procedure,JJ-stent,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0441295,USES,Implantation procedure,Strut,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0441299,USES,Implantation procedure,Double lumen tube,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0490617,USES,Implantation procedure,"CATHETER, PERCUTANEOUS",topp,medd,2,USES_TOPPusesMEDD
+C0021107,C0491564,USES,Implantation procedure,Cortical electrode,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0492262,USES,Implantation procedure,"CATHETER, INFUSION",topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0555895,USES,Implantation procedure,Intercostal drain,topp,medd,4,USES_TOPPusesMEDD
+C0021107,C0564683,USES,Implantation procedure,Cystostomy tube,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0582124,USES,Implantation procedure,"Neurostimulator, device (physical object)",topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0700221,USES,Implantation procedure,Intravascular line,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C0702122,USES,Implantation procedure,Intra-aortic balloon pump device,topp,medd,3,USES_TOPPusesMEDD
+C0021107,C0728990,USES,Implantation procedure,Clinical Use Template,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C0810633,USES,Implantation procedure,Pacemakers,topp,medd,20,USES_TOPPusesMEDD
+C0021107,C0940520,USES,Implantation procedure,colonic stent,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C1145640,USES,Implantation procedure,"Central venous catheter, device",topp,medd,1,USES_TOPPusesMEDD
+C0021107,C1260970,USES,Implantation procedure,Tracheal tube,topp,medd,7,USES_TOPPusesMEDD
+C0021107,C1272738,USES,Implantation procedure,Jackson - Pratt drain,topp,medd,3,USES_TOPPusesMEDD
+C0021107,C1289829,USES,Implantation procedure,Packing material,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C1317862,USES,Implantation procedure,VENTILATION TUBE,topp,medd,10,USES_TOPPusesMEDD
+C0021107,C1322815,USES,Implantation procedure,Drug-Eluting Stents,topp,medd,4,USES_TOPPusesMEDD
+C0021107,C1707724,USES,Implantation procedure,Transponder,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C1827740,USES,Implantation procedure,Peripheral catheter,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C2584423,USES,Implantation procedure,Double lumen tracheobronchial tube,topp,medd,4,USES_TOPPusesMEDD
+C0021107,C2720748,USES,Implantation procedure,Hoods,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C2825200,USES,Implantation procedure,Bare metal stent,topp,medd,4,USES_TOPPusesMEDD
+C0021107,C2985513,USES,Implantation procedure,Peripheral Venous Catheter,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C3876322,USES,Implantation procedure,Viral filter,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C3880144,USES,Implantation procedure,Micro-needle,topp,medd,5,USES_TOPPusesMEDD
+C0021107,C3887609,USES,Implantation procedure,CABLE,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C4038974,USES,Implantation procedure,Intestinal stent,topp,medd,1,USES_TOPPusesMEDD
+C0021107,C4076036,USES,Implantation procedure,Supraglottic airway,topp,medd,2,USES_TOPPusesMEDD
+C0021107,C4744970,USES,Implantation procedure,Microneedle Drug Delivery System,topp,medd,5,USES_TOPPusesMEDD
+C0021459,C0027524,USES,Inhalation Therapy,Nebulizers,topp,medd,2,USES_TOPPusesMEDD
+C0021459,C0179630,USES,Inhalation Therapy,Cartridge device,topp,medd,1,USES_TOPPusesMEDD
+C0021459,C0993596,USES,Inhalation Therapy,Metered Dose Inhaler,topp,medd,1,USES_TOPPusesMEDD
+C0021485,C0027551,USES,Injection of therapeutic agent,Needle device,topp,medd,2,USES_TOPPusesMEDD
+C0021485,C0039142,USES,Injection of therapeutic agent,Syringes,topp,medd,2,USES_TOPPusesMEDD
+C0021485,C0181965,USES,Injection of therapeutic agent,"NEEDLE, DENTAL",topp,medd,1,USES_TOPPusesMEDD
+C0021485,C0182301,USES,Injection of therapeutic agent,Pipette (physical object),topp,medd,1,USES_TOPPusesMEDD
+C0021485,C3495449,USES,Injection of therapeutic agent,Mobility aid,topp,medd,1,USES_TOPPusesMEDD
+C0021489,C0039142,USES,intradermal injection,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0021489,C1322644,USES,intradermal injection,"Bifurcated needle, device",topp,medd,1,USES_TOPPusesMEDD
+C0021778,C0024861,USES,Intermittent Positive-Pressure Ventilation,Masks,topp,medd,6,USES_TOPPusesMEDD
+C0021778,C0178987,USES,Intermittent Positive-Pressure Ventilation,Artificial Airways,topp,medd,5,USES_TOPPusesMEDD
+C0021778,C0184252,USES,Intermittent Positive-Pressure Ventilation,Medical Valves,topp,medd,1,USES_TOPPusesMEDD
+C0021778,C4076036,USES,Intermittent Positive-Pressure Ventilation,Supraglottic airway,topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0009653,USES,Intubation,"Condoms, Male",topp,medd,3,USES_TOPPusesMEDD
+C0021925,C0014243,USES,Intubation,Endoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0024861,USES,Intubation,Masks,topp,medd,2,USES_TOPPusesMEDD
+C0021925,C0042497,USES,Intubation,Mechanical Ventilator,topp,medd,4,USES_TOPPusesMEDD
+C0021925,C0162645,USES,Intubation,Laryngeal Masks,topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0175730,USES,Intubation,biomedical tube device,topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0178987,USES,Intubation,Artificial Airways,topp,medd,18,USES_TOPPusesMEDD
+C0021925,C0179390,USES,Intubation,Bougie,topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0179432,USES,Intubation,Bronchoscopes,topp,medd,6,USES_TOPPusesMEDD
+C0021925,C0179433,USES,Intubation,Flexible bronchoscope,topp,medd,2,USES_TOPPusesMEDD
+C0021925,C0180453,USES,Intubation,Laryngoscopes,topp,medd,3,USES_TOPPusesMEDD
+C0021925,C0180504,USES,Intubation,Drapes (device),topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0181758,USES,Intubation,Surgical face mask,topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0183255,USES,Intubation,Face shield (physical object),topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0183663,USES,Intubation,"Stylet, device",topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0183875,USES,Intubation,Medical Tent,topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0184165,USES,Intubation,Tubing,topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0336630,USES,Intubation,Endotracheal tube,topp,medd,2,USES_TOPPusesMEDD
+C0021925,C0441298,USES,Intubation,Single lumen tube,topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0475252,USES,Intubation,Anesthetic laryngoscope,topp,medd,2,USES_TOPPusesMEDD
+C0021925,C0491243,USES,Intubation,Flexible endoscope,topp,medd,1,USES_TOPPusesMEDD
+C0021925,C0872077,USES,Intubation,portable biomedical equipment,topp,medd,1,USES_TOPPusesMEDD
+C0021925,C1706912,USES,Intubation,BARRIER,topp,medd,5,USES_TOPPusesMEDD
+C0021925,C2720748,USES,Intubation,Hoods,topp,medd,3,USES_TOPPusesMEDD
+C0021925,C3164607,USES,Intubation,Videolaryngoscope,topp,medd,15,USES_TOPPusesMEDD
+C0021925,C4054317,USES,Intubation,Oral Endotracheal Tube,topp,medd,1,USES_TOPPusesMEDD
+C0021925,C4698390,USES,Intubation,Cuffed endotracheal tube,topp,medd,1,USES_TOPPusesMEDD
+C0021931,C0009653,USES,"Intubation, Gastrointestinal","Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C0021932,C0021436,USES,"Intubation, Intratracheal",Infusion Pump,topp,medd,1,USES_TOPPusesMEDD
+C0021932,C0024861,USES,"Intubation, Intratracheal",Masks,topp,medd,1,USES_TOPPusesMEDD
+C0021932,C0042497,USES,"Intubation, Intratracheal",Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0021932,C0175730,USES,"Intubation, Intratracheal",biomedical tube device,topp,medd,1,USES_TOPPusesMEDD
+C0021932,C0178987,USES,"Intubation, Intratracheal",Artificial Airways,topp,medd,3,USES_TOPPusesMEDD
+C0021932,C0180453,USES,"Intubation, Intratracheal",Laryngoscopes,topp,medd,4,USES_TOPPusesMEDD
+C0021932,C0182400,USES,"Intubation, Intratracheal",Probes,topp,medd,1,USES_TOPPusesMEDD
+C0021932,C0183663,USES,"Intubation, Intratracheal","Stylet, device",topp,medd,1,USES_TOPPusesMEDD
+C0021932,C0184165,USES,"Intubation, Intratracheal",Tubing,topp,medd,1,USES_TOPPusesMEDD
+C0021932,C0441298,USES,"Intubation, Intratracheal",Single lumen tube,topp,medd,1,USES_TOPPusesMEDD
+C0021932,C0441299,USES,"Intubation, Intratracheal",Double lumen tube,topp,medd,1,USES_TOPPusesMEDD
+C0021932,C1260970,USES,"Intubation, Intratracheal",Tracheal tube,topp,medd,3,USES_TOPPusesMEDD
+C0021932,C3164607,USES,"Intubation, Intratracheal",Videolaryngoscope,topp,medd,6,USES_TOPPusesMEDD
+C0021932,C3876322,USES,"Intubation, Intratracheal",Viral filter,topp,medd,1,USES_TOPPusesMEDD
+C0021932,C3881877,USES,"Intubation, Intratracheal","Laryngoscope blade, single-use",topp,medd,1,USES_TOPPusesMEDD
+C0022100,C0039142,USES,Irrigation,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0022100,C0085104,USES,Irrigation,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0022100,C0178987,USES,Irrigation,Artificial Airways,topp,medd,7,USES_TOPPusesMEDD
+C0022100,C0179226,USES,Irrigation,Basin,topp,medd,3,USES_TOPPusesMEDD
+C0022100,C0179784,USES,Irrigation,Rectal catheter,topp,medd,1,USES_TOPPusesMEDD
+C0022100,C0181222,USES,Irrigation,Hoses,topp,medd,1,USES_TOPPusesMEDD
+C0022100,C0182537,USES,Irrigation,pump (device),topp,medd,3,USES_TOPPusesMEDD
+C0022100,C0183783,USES,Irrigation,bulb syringe,topp,medd,2,USES_TOPPusesMEDD
+C0022100,C0441127,USES,Irrigation,Balloon dilatation catheter,topp,medd,1,USES_TOPPusesMEDD
+C0023038,C0013119,USES,Laparotomy,Medical dressing,topp,medd,1,USES_TOPPusesMEDD
+C0023038,C0038969,USES,Laparotomy,Surgical sutures,topp,medd,1,USES_TOPPusesMEDD
+C0023065,C0178959,USES,Laryngectomy,ADAPTER,topp,medd,1,USES_TOPPusesMEDD
+C0023416,C0920434,USES,Leukapheresis,cell separator,topp,medd,1,USES_TOPPusesMEDD
+C0023690,C0009653,USES,Ligation,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C0023690,C0038917,USES,Ligation,Surgical Clips,topp,medd,1,USES_TOPPusesMEDD
+C0023690,C0038969,USES,Ligation,Surgical sutures,topp,medd,1,USES_TOPPusesMEDD
+C0023690,C0175723,USES,Ligation,Bands,topp,medd,31,USES_TOPPusesMEDD
+C0023690,C0178959,USES,Ligation,ADAPTER,topp,medd,88,USES_TOPPusesMEDD
+C0023690,C0182400,USES,Ligation,Probes,topp,medd,2,USES_TOPPusesMEDD
+C0023690,C0183400,USES,Ligation,Spectrophotometer,topp,medd,1,USES_TOPPusesMEDD
+C0023690,C0679328,USES,Ligation,surgical shunt,topp,medd,2,USES_TOPPusesMEDD
+C0023690,C0728990,USES,Ligation,Clinical Use Template,topp,medd,5,USES_TOPPusesMEDD
+C0023690,C1446330,USES,Ligation,Band ligator,topp,medd,1,USES_TOPPusesMEDD
+C0023690,C1611676,USES,Ligation,Thermal Cycler,topp,medd,1,USES_TOPPusesMEDD
+C0023694,C0009836,USES,Light Coagulation,Contact Lenses,topp,medd,1,USES_TOPPusesMEDD
+C0023694,C0182400,USES,Light Coagulation,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0023694,C0392254,USES,Light Coagulation,"Lasers, Semiconductor",topp,medd,1,USES_TOPPusesMEDD
+C0024875,C0040661,USES,Massage,Transducers,topp,medd,1,USES_TOPPusesMEDD
+C0024875,C1261188,USES,Massage,Swab,topp,medd,2,USES_TOPPusesMEDD
+C0025991,C0085104,USES,Microinjections,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0026035,C0016533,USES,Microsurgery,Forceps,topp,medd,2,USES_TOPPusesMEDD
+C0026035,C0181849,USES,Microsurgery,Operating microscope,topp,medd,1,USES_TOPPusesMEDD
+C0027617,C0027524,USES,Neonatal Screening,Nebulizers,topp,medd,1,USES_TOPPusesMEDD
+C0029216,C0003918,USES,Organ Transplantation,Artificial Organs,topp,medd,1,USES_TOPPusesMEDD
+C0030547,C0021436,USES,Parenteral Nutrition,Infusion Pump,topp,medd,1,USES_TOPPusesMEDD
+C0030547,C1145640,USES,Parenteral Nutrition,"Central venous catheter, device",topp,medd,1,USES_TOPPusesMEDD
+C0030548,C1145640,USES,"Parenteral Nutrition, Total","Central venous catheter, device",topp,medd,1,USES_TOPPusesMEDD
+C0030693,C0002422,USES,Patient Isolation,Ambulances,topp,medd,1,USES_TOPPusesMEDD
+C0030693,C0042497,USES,Patient Isolation,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0031139,C0085590,USES,Peritoneal Dialysis,catheter device,topp,medd,1,USES_TOPPusesMEDD
+C0031139,C0179781,USES,Peritoneal Dialysis,Peritoneal catheter,topp,medd,1,USES_TOPPusesMEDD
+C0031740,C0178987,USES,Photochemotherapy,Artificial Airways,topp,medd,2,USES_TOPPusesMEDD
+C0031740,C0181633,USES,Photochemotherapy,Light source,topp,medd,1,USES_TOPPusesMEDD
+C0032042,C0180463,USES,Placebos,Dispenser,topp,medd,1,USES_TOPPusesMEDD
+C0032113,C0183212,USES,Plasma Exchange,Separators,topp,medd,1,USES_TOPPusesMEDD
+C0032113,C0336562,USES,Plasma Exchange,"Liver, Artificial",topp,medd,9,USES_TOPPusesMEDD
+C0032113,C3879882,USES,Plasma Exchange,Apheresis system,topp,medd,1,USES_TOPPusesMEDD
+C0032134,C3873020,USES,Plasmapheresis,Hemofilter,topp,medd,1,USES_TOPPusesMEDD
+C0032202,C0183212,USES,Therapeutic plateletpheresis,Separators,topp,medd,1,USES_TOPPusesMEDD
+C0032720,C0038257,USES,Surgical Portosystemic Shunt,"Stent, device",topp,medd,2,USES_TOPPusesMEDD
+C0032720,C0441127,USES,Surgical Portosystemic Shunt,Balloon dilatation catheter,topp,medd,1,USES_TOPPusesMEDD
+C0032740,C0178987,USES,Positive End-Expiratory Pressure,Artificial Airways,topp,medd,2,USES_TOPPusesMEDD
+C0033144,C0993733,USES,Primary Prevention,"Cardioverter-defibrillator, single chamber (implantable)",topp,medd,1,USES_TOPPusesMEDD
+C0034115,C0441186,USES,Paracentesis,Fine needle,topp,medd,1,USES_TOPPusesMEDD
+C0034386,C0009653,USES,Quarantine,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C0034386,C0024861,USES,Quarantine,Masks,topp,medd,3,USES_TOPPusesMEDD
+C0034386,C0042497,USES,Quarantine,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0034386,C0085104,USES,Quarantine,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0034386,C0180565,USES,Quarantine,Duodenoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0034386,C0181064,USES,Quarantine,Gown,topp,medd,2,USES_TOPPusesMEDD
+C0034386,C0181620,USES,Quarantine,Hoist device,topp,medd,3,USES_TOPPusesMEDD
+C0034386,C0183210,USES,Quarantine,sensor (device),topp,medd,1,USES_TOPPusesMEDD
+C0034386,C0183652,USES,Quarantine,String (device),topp,medd,1,USES_TOPPusesMEDD
+C0034386,C1314650,USES,Quarantine,"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,1,USES_TOPPusesMEDD
+C0035110,C0021102,USES,Repeat Surgery,Implants,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C0021102,USES,Surgical Replantation,Implants,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C0024861,USES,Surgical Replantation,Masks,topp,medd,2,USES_TOPPusesMEDD
+C0035139,C0027551,USES,Surgical Replantation,Needle device,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C0030067,USES,Surgical Replantation,Oxygenators,topp,medd,2,USES_TOPPusesMEDD
+C0035139,C0038257,USES,Surgical Replantation,"Stent, device",topp,medd,3,USES_TOPPusesMEDD
+C0035139,C0042296,USES,Surgical Replantation,"Valves, Surgical",topp,medd,12,USES_TOPPusesMEDD
+C0035139,C0085104,USES,Surgical Replantation,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C0175649,USES,Surgical Replantation,Prosthesis,topp,medd,2,USES_TOPPusesMEDD
+C0035139,C0179108,USES,Surgical Replantation,Applicator - device,topp,medd,2,USES_TOPPusesMEDD
+C0035139,C0181598,USES,Surgical Replantation,Left ventricular assist device,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C0181758,USES,Surgical Replantation,Surgical face mask,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C0182140,USES,Surgical Replantation,Pacemaker battery,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C0183919,USES,Surgical Replantation,infrared thermometers,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C0184252,USES,Surgical Replantation,Medical Valves,topp,medd,62,USES_TOPPusesMEDD
+C0035139,C0336630,USES,Surgical Replantation,Endotracheal tube,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C0725865,USES,Surgical Replantation,disposable,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C1283190,USES,Surgical Replantation,Porcine cardiac valve,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C1317862,USES,Surgical Replantation,VENTILATION TUBE,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C2825203,USES,Surgical Replantation,Mechanical Aortic Valve,topp,medd,1,USES_TOPPusesMEDD
+C0035139,C4704931,USES,Surgical Replantation,Endoprosthesis,topp,medd,4,USES_TOPPusesMEDD
+C0035205,C0178987,USES,"Respiration, Artificial",Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0035205,C0182380,USES,"Respiration, Artificial",Intracranial Pressure Monitors,topp,medd,1,USES_TOPPusesMEDD
+C0035239,C0042497,USES,Respiratory Therapy,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0035239,C0178987,USES,Respiratory Therapy,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0035239,C0179574,USES,Respiratory Therapy,Nasal Cannula,topp,medd,1,USES_TOPPusesMEDD
+C0035239,C3873867,USES,Respiratory Therapy,Suction system,topp,medd,1,USES_TOPPusesMEDD
+C0035273,C0879140,USES,Resuscitation procedure,Towelettes,topp,medd,1,USES_TOPPusesMEDD
+C0036589,C1609474,USES,Self Administration,Prefilled Syringe,topp,medd,1,USES_TOPPusesMEDD
+C0038288,C0011377,USES,Sexual sterilization,Dental Instruments,topp,medd,2,USES_TOPPusesMEDD
+C0038288,C0014243,USES,Sexual sterilization,Endoscopes,topp,medd,2,USES_TOPPusesMEDD
+C0038288,C0024861,USES,Sexual sterilization,Masks,topp,medd,8,USES_TOPPusesMEDD
+C0038288,C0042497,USES,Sexual sterilization,Mechanical Ventilator,topp,medd,3,USES_TOPPusesMEDD
+C0038288,C0179177,USES,Sexual sterilization,Autoclave,topp,medd,22,USES_TOPPusesMEDD
+C0038288,C0181651,USES,Sexual sterilization,ultraviolet lights,topp,medd,1,USES_TOPPusesMEDD
+C0038288,C0181758,USES,Sexual sterilization,Surgical face mask,topp,medd,1,USES_TOPPusesMEDD
+C0038288,C1321866,USES,Sexual sterilization,Sterilizing Units,topp,medd,1,USES_TOPPusesMEDD
+C0038288,C3495388,USES,Sexual sterilization,Vacuum Pumps,topp,medd,1,USES_TOPPusesMEDD
+C0038288,C3873686,USES,Sexual sterilization,Gas sterilizer,topp,medd,1,USES_TOPPusesMEDD
+C0038288,C5203172,USES,Sexual sterilization,FACE SHIELD,topp,medd,2,USES_TOPPusesMEDD
+C0038638,C0024861,USES,Suction drainage,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0038638,C0039142,USES,Suction drainage,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0038638,C0179432,USES,Suction drainage,Bronchoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0038638,C0179774,USES,Suction drainage,Nasopharyngeal catheter,topp,medd,1,USES_TOPPusesMEDD
+C0038638,C0179788,USES,Suction drainage,Suction catheter,topp,medd,3,USES_TOPPusesMEDD
+C0038638,C1260970,USES,Suction drainage,Tracheal tube,topp,medd,1,USES_TOPPusesMEDD
+C0038638,C2699315,USES,Suction drainage,Smoke Evacuator,topp,medd,1,USES_TOPPusesMEDD
+C0038638,C3873867,USES,Suction drainage,Suction system,topp,medd,3,USES_TOPPusesMEDD
+C0038638,C3876322,USES,Suction drainage,Viral filter,topp,medd,1,USES_TOPPusesMEDD
+C0038899,C0180504,USES,Otologic Surgical Procedures,Drapes (device),topp,medd,1,USES_TOPPusesMEDD
+C0038968,C0441209,USES,Suture Techniques,Prosthetic patch,topp,medd,1,USES_TOPPusesMEDD
+C0040145,C0009653,USES,Thyroidectomy,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0040440,C0810597,USES,Tooth Extraction,Precision balance,topp,medd,1,USES_TOPPusesMEDD
+C0040461,C0150683,USES,Toothbrushing,"Artificial Airways, Nasopharyngeal",topp,medd,1,USES_TOPPusesMEDD
+C0040461,C0178987,USES,Toothbrushing,Artificial Airways,topp,medd,2,USES_TOPPusesMEDD
+C0040461,C0179432,USES,Toothbrushing,Bronchoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0040461,C0179448,USES,Toothbrushing,"Cytology brush, device",topp,medd,2,USES_TOPPusesMEDD
+C0040461,C0179837,USES,Toothbrushing,Cytological centrifuge,topp,medd,1,USES_TOPPusesMEDD
+C0040461,C1736425,USES,Toothbrushing,Cervical cytology brush,topp,medd,1,USES_TOPPusesMEDD
+C0040590,C0009653,USES,Tracheostomy procedure,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0040590,C0024861,USES,Tracheostomy procedure,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0040590,C0042497,USES,Tracheostomy procedure,Mechanical Ventilator,topp,medd,3,USES_TOPPusesMEDD
+C0040590,C0085104,USES,Tracheostomy procedure,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0040590,C0178987,USES,Tracheostomy procedure,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0040590,C0181020,USES,Tracheostomy procedure,Gastroscopes,topp,medd,1,USES_TOPPusesMEDD
+C0040590,C0181064,USES,Tracheostomy procedure,Gown,topp,medd,1,USES_TOPPusesMEDD
+C0040590,C0183255,USES,Tracheostomy procedure,Face shield (physical object),topp,medd,1,USES_TOPPusesMEDD
+C0040590,C2720530,USES,Tracheostomy procedure,Manometer,topp,medd,1,USES_TOPPusesMEDD
+C0040590,C4698390,USES,Tracheostomy procedure,Cuffed endotracheal tube,topp,medd,1,USES_TOPPusesMEDD
+C0040591,C0181467,USES,Tracheotomy procedure,knife,topp,medd,1,USES_TOPPusesMEDD
+C0040732,C0009653,USES,Transplantation,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0040732,C0175720,USES,Transplantation,Caliper,topp,medd,1,USES_TOPPusesMEDD
+C0040732,C1706912,USES,Transplantation,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0040739,C0021102,USES,"Transplantation, Homologous",Implants,topp,medd,2,USES_TOPPusesMEDD
+C0040739,C0181960,USES,"Transplantation, Homologous",Biopsy needle,topp,medd,1,USES_TOPPusesMEDD
+C0040739,C0182997,USES,"Transplantation, Homologous",Bone plug,topp,medd,1,USES_TOPPusesMEDD
+C0040808,C0009653,USES,Treatment Protocols,"Condoms, Male",topp,medd,41,USES_TOPPusesMEDD
+C0040808,C0810635,USES,Treatment Protocols,spinal cord stimulators,topp,medd,1,USES_TOPPusesMEDD
+C0040808,C4744970,USES,Treatment Protocols,Microneedle Drug Delivery System,topp,medd,1,USES_TOPPusesMEDD
+C0040836,C0184114,USES,Burr hole procedure,Tube drain,topp,medd,1,USES_TOPPusesMEDD
+C0040861,C0024861,USES,Triage,Masks,topp,medd,3,USES_TOPPusesMEDD
+C0042019,C0179802,USES,Urinary Catheterization,Urinary catheter,topp,medd,2,USES_TOPPusesMEDD
+C0042196,C0005971,USES,Vaccination,Bone plates,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C0009653,USES,Vaccination,"Condoms, Male",topp,medd,96,USES_TOPPusesMEDD
+C0042196,C0026032,USES,Vaccination,Microspheres,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C0027551,USES,Vaccination,Needle device,topp,medd,5,USES_TOPPusesMEDD
+C0042196,C0039142,USES,Vaccination,Syringes,topp,medd,6,USES_TOPPusesMEDD
+C0042196,C0175720,USES,Vaccination,Caliper,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C0180694,USES,Vaccination,Bovie,topp,medd,3,USES_TOPPusesMEDD
+C0042196,C0180917,USES,Vaccination,Fluorescence immunoassay analyzer,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C0181342,USES,Vaccination,Injector,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C0181687,USES,Vaccination,loops,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C0182400,USES,Vaccination,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C0221093,USES,Vaccination,Hypodermic Needles,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C0376432,USES,Vaccination,Bioreactors,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C0777169,USES,Vaccination,Lancet,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C0972401,USES,Vaccination,Boards (medical device),topp,medd,1,USES_TOPPusesMEDD
+C0042196,C1261188,USES,Vaccination,Swab,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C1322644,USES,Vaccination,"Bifurcated needle, device",topp,medd,1,USES_TOPPusesMEDD
+C0042196,C1706912,USES,Vaccination,BARRIER,topp,medd,7,USES_TOPPusesMEDD
+C0042196,C3272294,USES,Vaccination,Needle Free Injection,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C3880144,USES,Vaccination,Micro-needle,topp,medd,2,USES_TOPPusesMEDD
+C0042196,C4699393,USES,Vaccination,Aerosolizer,topp,medd,1,USES_TOPPusesMEDD
+C0042196,C4744970,USES,Vaccination,Microneedle Drug Delivery System,topp,medd,3,USES_TOPPusesMEDD
+C0042200,C0009653,USES,Influenza vaccination,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0042200,C0039142,USES,Influenza vaccination,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0042200,C0878826,USES,Influenza vaccination,"Analyzers, Physiologic, Middle Ear, Acoustic Reflectometry",topp,medd,1,USES_TOPPusesMEDD
+C0042200,C1706912,USES,Influenza vaccination,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0042201,C0009653,USES,Measles vaccination,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0042205,C0009653,USES,Rabies vaccination,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0042225,C0016533,USES,"Vacuum Extraction, Obstetrical",Forceps,topp,medd,1,USES_TOPPusesMEDD
+C0042387,C0009653,USES,Vasectomy,"Condoms, Male",topp,medd,3,USES_TOPPusesMEDD
+C0043162,C0182380,USES,Whole-Body Irradiation,Intracranial Pressure Monitors,topp,medd,1,USES_TOPPusesMEDD
+C0050572,C0039818,USES,ACP protocol,"Thermometer, device",topp,medd,1,USES_TOPPusesMEDD
+C0052889,C0013194,USES,bleomycin/doxorubicin/lomustine/mechlorethamine/vincristine protocol,Drug Packaging,topp,medd,1,USES_TOPPusesMEDD
+C0066495,C0491921,USES,fluorouracil/leucovorin calcium/methotrexate protocol,IMPACTOR,topp,medd,1,USES_TOPPusesMEDD
+C0068899,C0221872,USES,NOAC protocol,Sizer,topp,medd,1,USES_TOPPusesMEDD
+C0071715,C0181835,USES,mercaptopurine/methotrexate/prednisone/vincristine protocol,Micromanipulator,topp,medd,1,USES_TOPPusesMEDD
+C0079613,C0024861,USES,Adoptive Immunotherapy,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0079613,C0879123,USES,Adoptive Immunotherapy,sorters,topp,medd,1,USES_TOPPusesMEDD
+C0079613,C1314650,USES,Adoptive Immunotherapy,"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,2,USES_TOPPusesMEDD
+C0079613,C3494288,USES,Adoptive Immunotherapy,Brain-Computer Interfaces,topp,medd,1,USES_TOPPusesMEDD
+C0082139,C0590323,USES,Cyclophosphamide/Dexamethasone/Doxorubicin/Vincristine,Gauzes,topp,medd,1,USES_TOPPusesMEDD
+C0082139,C0770788,USES,Cyclophosphamide/Dexamethasone/Doxorubicin/Vincristine,Transparent dressing,topp,medd,1,USES_TOPPusesMEDD
+C0085076,C0021102,USES,Mammaplasty,Implants,topp,medd,6,USES_TOPPusesMEDD
+C0085203,C0182639,USES,Radiosurgery,Gamma Knife,topp,medd,1,USES_TOPPusesMEDD
+C0085671,C0179740,USES,Dressing change,Peripherally inserted central catheter (physical object),topp,medd,1,USES_TOPPusesMEDD
+C0086225,C0039142,USES,Enteral Feeding,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0086225,C0184154,USES,Enteral Feeding,stomach evacuator tubes,topp,medd,1,USES_TOPPusesMEDD
+C0086818,C0009653,USES,Platelet Transfusion,"Condoms, Male",topp,medd,35,USES_TOPPusesMEDD
+C0108844,C0183919,USES,CDE protocol-cyclophosphamide/doxorubicin/etoposide,infrared thermometers,topp,medd,1,USES_TOPPusesMEDD
+C0149533,C0016533,USES,Control of hemorrhage,Forceps,topp,medd,1,USES_TOPPusesMEDD
+C0149533,C0042497,USES,Control of hemorrhage,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0149533,C0179935,USES,Control of hemorrhage,Bulldog clamp,topp,medd,1,USES_TOPPusesMEDD
+C0150126,C0024861,USES,Airway Management,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0150126,C0178987,USES,Airway Management,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0150126,C0179788,USES,Airway Management,Suction catheter,topp,medd,1,USES_TOPPusesMEDD
+C0150126,C3164607,USES,Airway Management,Videolaryngoscope,topp,medd,2,USES_TOPPusesMEDD
+C0150141,C0179245,USES,Bathing,Water Bath,topp,medd,1,USES_TOPPusesMEDD
+C0150141,C0879140,USES,Bathing,Towelettes,topp,medd,1,USES_TOPPusesMEDD
+C0150154,C0039142,USES,Irrigation of bowel,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0150234,C0728475,USES,Treatment of fever,ultra,topp,medd,4,USES_TOPPusesMEDD
+C0150259,C0042497,USES,Infection protection,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0150260,C0182400,USES,Intracranial pressure monitoring regime,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0150269,C0024861,USES,Limit setting,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0150269,C0085104,USES,Limit setting,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0150269,C1273532,USES,Limit setting,Diagnostic device,topp,medd,1,USES_TOPPusesMEDD
+C0150269,C1706912,USES,Limit setting,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0150315,C0013119,USES,Pressure Ulcer Prevention,Medical dressing,topp,medd,1,USES_TOPPusesMEDD
+C0150315,C0180249,USES,Pressure Ulcer Prevention,Cushion,topp,medd,1,USES_TOPPusesMEDD
+C0150413,C0009653,USES,HIV prevention,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0150413,C1706912,USES,HIV prevention,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0150457,C0009653,USES,Anticoagulant therapy,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0150685,C0590323,USES,nasal packing,Gauzes,topp,medd,1,USES_TOPPusesMEDD
+C0150773,C0013119,USES,Skin Care,Medical dressing,topp,medd,3,USES_TOPPusesMEDD
+C0152054,C0175723,USES,Therapeutic tactile stimulation,Bands,topp,medd,1,USES_TOPPusesMEDD
+C0152054,C0182400,USES,Therapeutic tactile stimulation,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0152054,C1261188,USES,Therapeutic tactile stimulation,Swab,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0005971,USES,Transection (procedure),Bone plates,topp,medd,3,USES_TOPPusesMEDD
+C0152060,C0005978,USES,Transection (procedure),Bone Wires,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0006086,USES,Transection (procedure),Braces-Orthopedic appliances,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0010384,USES,Transection (procedure),"Prostheses, Dental, Fixed, Crown, Total, Temporary",topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0013194,USES,Transection (procedure),Drug Packaging,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0017004,USES,Transection (procedure),Gamma Cameras,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0024861,USES,Transection (procedure),Masks,topp,medd,5,USES_TOPPusesMEDD
+C0152060,C0042497,USES,Transection (procedure),Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0085104,USES,Transection (procedure),Drug Delivery Systems,topp,medd,2,USES_TOPPusesMEDD
+C0152060,C0175722,USES,Transection (procedure),Clip,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0178987,USES,Transection (procedure),Artificial Airways,topp,medd,3,USES_TOPPusesMEDD
+C0152060,C0179177,USES,Transection (procedure),Autoclave,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0179323,USES,Transection (procedure),Blades (device),topp,medd,3,USES_TOPPusesMEDD
+C0152060,C0180063,USES,Transection (procedure),compressor,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0180202,USES,Transection (procedure),Cryostat,topp,medd,128,USES_TOPPusesMEDD
+C0152060,C0181200,USES,Transection (procedure),homogenizers,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0181467,USES,Transection (procedure),knife,topp,medd,5,USES_TOPPusesMEDD
+C0152060,C0181839,USES,Transection (procedure),Microscopes,topp,medd,18,USES_TOPPusesMEDD
+C0152060,C0181845,USES,Transection (procedure),Electron microscope,topp,medd,6,USES_TOPPusesMEDD
+C0152060,C0181857,USES,Transection (procedure),Cryostat microtome,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0181858,USES,Transection (procedure),Rotary microtome,topp,medd,2,USES_TOPPusesMEDD
+C0152060,C0181860,USES,Transection (procedure),Ultramicrotome,topp,medd,10,USES_TOPPusesMEDD
+C0152060,C0182158,USES,Transection (procedure),Pads,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0182318,USES,Transection (procedure),Pledgets,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0182400,USES,Transection (procedure),Probes,topp,medd,7,USES_TOPPusesMEDD
+C0152060,C0183115,USES,Transection (procedure),Scanning Systems,topp,medd,6,USES_TOPPusesMEDD
+C0152060,C0183210,USES,Transection (procedure),sensor (device),topp,medd,6,USES_TOPPusesMEDD
+C0152060,C0221839,USES,Transection (procedure),elastics (orthodontic bands),topp,medd,2,USES_TOPPusesMEDD
+C0152060,C0262880,USES,Transection (procedure),Transmission Electron Microscopes,topp,medd,15,USES_TOPPusesMEDD
+C0152060,C0336648,USES,Transection (procedure),Alarm device,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0454169,USES,Transection (procedure),Collimator devices,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0491970,USES,Transection (procedure),Light microscope,topp,medd,9,USES_TOPPusesMEDD
+C0152060,C0785697,USES,Transection (procedure),Razor blade,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C0972401,USES,Transection (procedure),Boards (medical device),topp,medd,1,USES_TOPPusesMEDD
+C0152060,C1138737,USES,Transection (procedure),"PROTECTANT, SKIN",topp,medd,1,USES_TOPPusesMEDD
+C0152060,C1314650,USES,Transection (procedure),"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,2,USES_TOPPusesMEDD
+C0152060,C1553551,USES,Transection (procedure),Maxillary right first premolar mesial prosthesis,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C1626420,USES,Transection (procedure),Confocal microscope,topp,medd,12,USES_TOPPusesMEDD
+C0152060,C1706912,USES,Transection (procedure),BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C3878867,USES,Transection (procedure),Microscope objective,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C4744970,USES,Transection (procedure),Microneedle Drug Delivery System,topp,medd,1,USES_TOPPusesMEDD
+C0152060,C5203172,USES,Transection (procedure),FACE SHIELD,topp,medd,2,USES_TOPPusesMEDD
+C0152277,C0005971,USES,Incision and drainage,Bone plates,topp,medd,1,USES_TOPPusesMEDD
+C0162563,C0009653,USES,Cardiac ablation,"Condoms, Male",topp,medd,5,USES_TOPPusesMEDD
+C0162577,C0038257,USES,Angioplasty,"Stent, device",topp,medd,2,USES_TOPPusesMEDD
+C0162577,C0085590,USES,Angioplasty,catheter device,topp,medd,1,USES_TOPPusesMEDD
+C0167486,C0728990,USES,Cyclophosphamide-Etoposide-Vincristine Regimen,Clinical Use Template,topp,medd,1,USES_TOPPusesMEDD
+C0175795,C0085678,USES,Oral Medication,Nasogastric tube,topp,medd,2,USES_TOPPusesMEDD
+C0184633,C0024861,USES,Oxygen Therapy Care,Masks,topp,medd,2,USES_TOPPusesMEDD
+C0184633,C0179574,USES,Oxygen Therapy Care,Nasal Cannula,topp,medd,3,USES_TOPPusesMEDD
+C0184633,C0445087,USES,Oxygen Therapy Care,Nasal prongs,topp,medd,1,USES_TOPPusesMEDD
+C0184633,C1998195,USES,Oxygen Therapy Care,Venturi mask,topp,medd,1,USES_TOPPusesMEDD
+C0184713,C0008034,USES,Discharge to home,Chest Tubes,topp,medd,1,USES_TOPPusesMEDD
+C0184713,C0180915,USES,Discharge to home,Peak flow meter (device),topp,medd,1,USES_TOPPusesMEDD
+C0184713,C0182109,USES,Discharge to home,Pulse oximeter,topp,medd,1,USES_TOPPusesMEDD
+C0184898,C0016533,USES,Surgical incisions,Forceps,topp,medd,1,USES_TOPPusesMEDD
+C0184898,C0041158,USES,Surgical incisions,Trocar,topp,medd,1,USES_TOPPusesMEDD
+C0184898,C0179323,USES,Surgical incisions,Blades (device),topp,medd,2,USES_TOPPusesMEDD
+C0184898,C0180950,USES,Surgical incisions,Hemostat,topp,medd,1,USES_TOPPusesMEDD
+C0184898,C0181467,USES,Surgical incisions,knife,topp,medd,1,USES_TOPPusesMEDD
+C0184898,C0183014,USES,Surgical incisions,"Retractor, device",topp,medd,1,USES_TOPPusesMEDD
+C0184898,C0392220,USES,Surgical incisions,scalpel,topp,medd,4,USES_TOPPusesMEDD
+C0184898,C0461628,USES,Surgical incisions,Non-absorbable suture,topp,medd,2,USES_TOPPusesMEDD
+C0184898,C0461643,USES,Surgical incisions,Absorbable suture,topp,medd,2,USES_TOPPusesMEDD
+C0184898,C1961536,USES,Surgical incisions,Synthetic Surgical sutures,topp,medd,1,USES_TOPPusesMEDD
+C0184904,C0785697,USES,Slitting,Razor blade,topp,medd,1,USES_TOPPusesMEDD
+C0184906,C0178987,USES,Bifurcation (procedure),Artificial Airways,topp,medd,8,USES_TOPPusesMEDD
+C0184933,C0005971,USES,Scraping,Bone plates,topp,medd,1,USES_TOPPusesMEDD
+C0184933,C0181687,USES,Scraping,loops,topp,medd,2,USES_TOPPusesMEDD
+C0184933,C0182400,USES,Scraping,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0184933,C0183967,USES,Scraping,Tongue blade,topp,medd,1,USES_TOPPusesMEDD
+C0184933,C0392220,USES,Scraping,scalpel,topp,medd,1,USES_TOPPusesMEDD
+C0184958,C0179407,USES,Toilet procedure,brackets,topp,medd,1,USES_TOPPusesMEDD
+C0184958,C0182400,USES,Toilet procedure,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0184958,C1140607,USES,Toilet procedure,Commodes,topp,medd,1,USES_TOPPusesMEDD
+C0184967,C0181839,USES,Insertion of pack (procedure),Microscopes,topp,medd,1,USES_TOPPusesMEDD
+C0184967,C0590323,USES,Insertion of pack (procedure),Gauzes,topp,medd,8,USES_TOPPusesMEDD
+C0184967,C3495449,USES,Insertion of pack (procedure),Mobility aid,topp,medd,1,USES_TOPPusesMEDD
+C0185003,C0013194,USES,Reparative closure,Drug Packaging,topp,medd,1,USES_TOPPusesMEDD
+C0185003,C0038969,USES,Reparative closure,Surgical sutures,topp,medd,1,USES_TOPPusesMEDD
+C0185003,C0181342,USES,Reparative closure,Injector,topp,medd,1,USES_TOPPusesMEDD
+C0185010,C0178959,USES,Closure by clip procedure,ADAPTER,topp,medd,3,USES_TOPPusesMEDD
+C0185010,C0879140,USES,Closure by clip procedure,Towelettes,topp,medd,1,USES_TOPPusesMEDD
+C0185023,C0013119,USES,Fixation - action,Medical dressing,topp,medd,1,USES_TOPPusesMEDD
+C0185026,C0085104,USES,Plication,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0185026,C0181687,USES,Plication,loops,topp,medd,1,USES_TOPPusesMEDD
+C0185026,C0182400,USES,Plication,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0185027,C0013194,USES,Imbrication (procedure),Drug Packaging,topp,medd,2,USES_TOPPusesMEDD
+C0185027,C0175723,USES,Imbrication (procedure),Bands,topp,medd,2,USES_TOPPusesMEDD
+C0185027,C0180979,USES,Imbrication (procedure),Frame (physical object),topp,medd,1,USES_TOPPusesMEDD
+C0185027,C0181687,USES,Imbrication (procedure),loops,topp,medd,1,USES_TOPPusesMEDD
+C0185027,C0182400,USES,Imbrication (procedure),Probes,topp,medd,1,USES_TOPPusesMEDD
+C0185042,C0175649,USES,Reattachment - action,Prosthesis,topp,medd,1,USES_TOPPusesMEDD
+C0185044,C0183336,USES,Surgical avulsion,Sleeve,topp,medd,1,USES_TOPPusesMEDD
+C0185058,C0085104,USES,Electrodesiccation with curettage,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0185058,C1139730,USES,Electrodesiccation with curettage,monitoring systems,topp,medd,1,USES_TOPPusesMEDD
+C0185060,C0006856,USES,Crushing procedure,"CANE, INCLUDES CANES OF ALL MATERIALS, ADJUSTABLE OR FIXED, WITH TIP",topp,medd,1,USES_TOPPusesMEDD
+C0185060,C0181467,USES,Crushing procedure,knife,topp,medd,1,USES_TOPPusesMEDD
+C0185060,C0183884,USES,Crushing procedure,Test tube,topp,medd,1,USES_TOPPusesMEDD
+C0185111,C0024861,USES,Surgical Manipulation,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0185111,C0040661,USES,Surgical Manipulation,Transducers,topp,medd,1,USES_TOPPusesMEDD
+C0185111,C0178987,USES,Surgical Manipulation,Artificial Airways,topp,medd,2,USES_TOPPusesMEDD
+C0185111,C0181849,USES,Surgical Manipulation,Operating microscope,topp,medd,1,USES_TOPPusesMEDD
+C0185111,C2720748,USES,Surgical Manipulation,Hoods,topp,medd,1,USES_TOPPusesMEDD
+C0185112,C0021102,USES,Therapeutic Mobilization,Implants,topp,medd,1,USES_TOPPusesMEDD
+C0185112,C0085590,USES,Therapeutic Mobilization,catheter device,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0005971,USES,Extraction,Bone plates,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0007963,USES,Extraction,Charts (device),topp,medd,2,USES_TOPPusesMEDD
+C0185115,C0008034,USES,Extraction,Chest Tubes,topp,medd,11,USES_TOPPusesMEDD
+C0185115,C0009886,USES,Extraction,Contraceptive Devices,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0021102,USES,Extraction,Implants,topp,medd,10,USES_TOPPusesMEDD
+C0185115,C0024861,USES,Extraction,Masks,topp,medd,21,USES_TOPPusesMEDD
+C0185115,C0026032,USES,Extraction,Microspheres,topp,medd,3,USES_TOPPusesMEDD
+C0185115,C0031246,USES,Extraction,Pessaries,topp,medd,2,USES_TOPPusesMEDD
+C0185115,C0038257,USES,Extraction,"Stent, device",topp,medd,7,USES_TOPPusesMEDD
+C0185115,C0040661,USES,Extraction,Transducers,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0041158,USES,Extraction,Trocar,topp,medd,9,USES_TOPPusesMEDD
+C0185115,C0042497,USES,Extraction,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0085104,USES,Extraction,Drug Delivery Systems,topp,medd,6,USES_TOPPusesMEDD
+C0185115,C0085275,USES,Extraction,Rubber Dams,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0175718,USES,Extraction,Medical pins,topp,medd,2,USES_TOPPusesMEDD
+C0185115,C0175722,USES,Extraction,Clip,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0175723,USES,Extraction,Bands,topp,medd,2,USES_TOPPusesMEDD
+C0185115,C0175730,USES,Extraction,biomedical tube device,topp,medd,3,USES_TOPPusesMEDD
+C0185115,C0178959,USES,Extraction,ADAPTER,topp,medd,9,USES_TOPPusesMEDD
+C0185115,C0178987,USES,Extraction,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0179432,USES,Extraction,Bronchoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0179630,USES,Extraction,Cartridge device,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0179834,USES,Extraction,Centrifuges (device),topp,medd,2,USES_TOPPusesMEDD
+C0185115,C0180011,USES,Extraction,Collector device,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0180022,USES,Extraction,Colonoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0180476,USES,Extraction,Cell disrupter,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0180482,USES,Extraction,distractors,topp,medd,2,USES_TOPPusesMEDD
+C0185115,C0180504,USES,Extraction,Drapes (device),topp,medd,6,USES_TOPPusesMEDD
+C0185115,C0180765,USES,Extraction,Evaporators,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0180806,USES,Extraction,Extractors,topp,medd,3,USES_TOPPusesMEDD
+C0185115,C0180859,USES,Extraction,filter papers,topp,medd,3,USES_TOPPusesMEDD
+C0185115,C0181064,USES,Extraction,Gown,topp,medd,14,USES_TOPPusesMEDD
+C0185115,C0181153,USES,Extraction,"BLOCK, HEATING",topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0181200,USES,Extraction,homogenizers,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0181598,USES,Extraction,Left ventricular assist device,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0182362,USES,Extraction,Skin Prep Kits,topp,medd,2,USES_TOPPusesMEDD
+C0185115,C0182400,USES,Extraction,Probes,topp,medd,4,USES_TOPPusesMEDD
+C0185115,C0183086,USES,Extraction,sanitizers,topp,medd,2,USES_TOPPusesMEDD
+C0185115,C0183089,USES,Extraction,saw (device),topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0183103,USES,Extraction,Dental ultrasonic scaler,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0183400,USES,Extraction,Spectrophotometer,topp,medd,7,USES_TOPPusesMEDD
+C0185115,C0183518,USES,Extraction,Ureteric stent,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0183631,USES,Extraction,Strap device,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0183652,USES,Extraction,String (device),topp,medd,2,USES_TOPPusesMEDD
+C0185115,C0184108,USES,Extraction,"TUBE, COLLECTION, CAPILLARY BLOOD",topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0184159,USES,Extraction,Tracheostomy tube,topp,medd,5,USES_TOPPusesMEDD
+C0185115,C0336630,USES,Extraction,Endotracheal tube,topp,medd,4,USES_TOPPusesMEDD
+C0185115,C0441421,USES,Extraction,Fixed orthodontic appliance,topp,medd,2,USES_TOPPusesMEDD
+C0185115,C0445225,USES,Extraction,Resorbable suture,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0489869,USES,Extraction,Peritoneal drain,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0493886,USES,Extraction,Sharps container,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0702122,USES,Extraction,Intra-aortic balloon pump device,topp,medd,3,USES_TOPPusesMEDD
+C0185115,C0725865,USES,Extraction,disposable,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C0728990,USES,Extraction,Clinical Use Template,topp,medd,5,USES_TOPPusesMEDD
+C0185115,C0879140,USES,Extraction,Towelettes,topp,medd,3,USES_TOPPusesMEDD
+C0185115,C1140606,USES,Extraction,"SORTER, CELL",topp,medd,1,USES_TOPPusesMEDD
+C0185115,C1145640,USES,Extraction,"Central venous catheter, device",topp,medd,1,USES_TOPPusesMEDD
+C0185115,C1261188,USES,Extraction,Swab,topp,medd,4,USES_TOPPusesMEDD
+C0185115,C1328924,USES,Extraction,magnetic beads,topp,medd,13,USES_TOPPusesMEDD
+C0185115,C1706912,USES,Extraction,BARRIER,topp,medd,2,USES_TOPPusesMEDD
+C0185115,C1968515,USES,Extraction,Pack (physical object),topp,medd,1,USES_TOPPusesMEDD
+C0185115,C3164441,USES,Extraction,Airway exchange catheter,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C3873867,USES,Extraction,Suction system,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C3876322,USES,Extraction,Viral filter,topp,medd,1,USES_TOPPusesMEDD
+C0185115,C5203172,USES,Extraction,FACE SHIELD,topp,medd,1,USES_TOPPusesMEDD
+C0185188,C0009653,USES,Fasciotomy,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0185317,C0183210,USES,"Arthroplasty, Replacement",sensor (device),topp,medd,1,USES_TOPPusesMEDD
+C0185373,C0005971,USES,Open reduction of fracture,Bone plates,topp,medd,2,USES_TOPPusesMEDD
+C0187067,C0183086,USES,Operative procedure on hand,sanitizers,topp,medd,2,USES_TOPPusesMEDD
+C0188664,C0021102,USES,Total ankle replacement,Implants,topp,medd,1,USES_TOPPusesMEDD
+C0189476,C0008034,USES,Insertion of pleural tube drain,Chest Tubes,topp,medd,1,USES_TOPPusesMEDD
+C0189476,C0042497,USES,Insertion of pleural tube drain,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0189477,C0039142,USES,Thoracentesis,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0189557,C0182158,USES,Pleurodesis,Pads,topp,medd,1,USES_TOPPusesMEDD
+C0189745,C0030067,USES,Open heart surgery,Oxygenators,topp,medd,1,USES_TOPPusesMEDD
+C0190085,C0184252,USES,Aortic valvotomy,Medical Valves,topp,medd,1,USES_TOPPusesMEDD
+C0190267,C0182555,USES,Incision of aorta,Punch,topp,medd,1,USES_TOPPusesMEDD
+C0191115,C0750164,USES,Insertion of implantable venous access port,venous access,topp,medd,1,USES_TOPPusesMEDD
+C0191848,C0021102,USES,breast: excisions,Implants,topp,medd,1,USES_TOPPusesMEDD
+C0191877,C0040289,USES,Bilateral mastectomy,Tissue Expansion Devices,topp,medd,1,USES_TOPPusesMEDD
+C0191922,C0039142,USES,Reduction mammaplasty,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0192301,C0014243,USES,"Insertion of catheter into esophagus, permanent tube type (procedure)",Endoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0192456,C0085678,USES,Nasogastric feeding,Nasogastric tube,topp,medd,1,USES_TOPPusesMEDD
+C0192499,C0009653,USES,Esophagogastric fundoplasty,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0193144,C0463060,USES,Rectal irrigation,Incontinence sheath,topp,medd,1,USES_TOPPusesMEDD
+C0194133,C1314650,USES,Local perfusion of kidney,"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,1,USES_TOPPusesMEDD
+C0194825,C0178987,USES,Radical retropubic prostatectomy,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0196775,C0441247,USES,Neuroplasty,Conduit implant,topp,medd,1,USES_TOPPusesMEDD
+C0196775,C0441278,USES,Neuroplasty,Artificial conduit,topp,medd,1,USES_TOPPusesMEDD
+C0196913,C0021102,USES,Peripheral nerve graft,Implants,topp,medd,1,USES_TOPPusesMEDD
+C0196913,C0183734,USES,Peripheral nerve graft,Nylon suture,topp,medd,1,USES_TOPPusesMEDD
+C0198154,C0181849,USES,Mastoidectomy,Operating microscope,topp,medd,1,USES_TOPPusesMEDD
+C0199176,C0009653,USES,Prophylactic treatment,"Condoms, Male",topp,medd,3,USES_TOPPusesMEDD
+C0199176,C0013119,USES,Prophylactic treatment,Medical dressing,topp,medd,3,USES_TOPPusesMEDD
+C0199176,C0024861,USES,Prophylactic treatment,Masks,topp,medd,9,USES_TOPPusesMEDD
+C0199176,C0042497,USES,Prophylactic treatment,Mechanical Ventilator,topp,medd,2,USES_TOPPusesMEDD
+C0199176,C0085104,USES,Prophylactic treatment,Drug Delivery Systems,topp,medd,2,USES_TOPPusesMEDD
+C0199176,C0085590,USES,Prophylactic treatment,catheter device,topp,medd,1,USES_TOPPusesMEDD
+C0199176,C0180453,USES,Prophylactic treatment,Laryngoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0199176,C0181064,USES,Prophylactic treatment,Gown,topp,medd,1,USES_TOPPusesMEDD
+C0199176,C0181758,USES,Prophylactic treatment,Surgical face mask,topp,medd,2,USES_TOPPusesMEDD
+C0199176,C0183103,USES,Prophylactic treatment,Dental ultrasonic scaler,topp,medd,1,USES_TOPPusesMEDD
+C0199176,C0725865,USES,Prophylactic treatment,disposable,topp,medd,1,USES_TOPPusesMEDD
+C0199176,C0740043,USES,Prophylactic treatment,medical supplies,topp,medd,2,USES_TOPPusesMEDD
+C0199176,C0810633,USES,Prophylactic treatment,Pacemakers,topp,medd,1,USES_TOPPusesMEDD
+C0199176,C1706912,USES,Prophylactic treatment,BARRIER,topp,medd,4,USES_TOPPusesMEDD
+C0199451,C0024861,USES,Continuous Positive Airway Pressure,Masks,topp,medd,11,USES_TOPPusesMEDD
+C0199451,C0042497,USES,Continuous Positive Airway Pressure,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0199451,C0085104,USES,Continuous Positive Airway Pressure,Drug Delivery Systems,topp,medd,2,USES_TOPPusesMEDD
+C0199451,C0087153,USES,Continuous Positive Airway Pressure,Ventilator - respiratory equipment,topp,medd,1,USES_TOPPusesMEDD
+C0199451,C0179574,USES,Continuous Positive Airway Pressure,Nasal Cannula,topp,medd,1,USES_TOPPusesMEDD
+C0199451,C0180249,USES,Continuous Positive Airway Pressure,Cushion,topp,medd,1,USES_TOPPusesMEDD
+C0199451,C2720748,USES,Continuous Positive Airway Pressure,Hoods,topp,medd,1,USES_TOPPusesMEDD
+C0199451,C3876322,USES,Continuous Positive Airway Pressure,Viral filter,topp,medd,1,USES_TOPPusesMEDD
+C0199467,C0178987,USES,Physiotherapy of chest,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0199470,C0024861,USES,Mechanical ventilation,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0199470,C0087153,USES,Mechanical ventilation,Ventilator - respiratory equipment,topp,medd,1,USES_TOPPusesMEDD
+C0199470,C0178987,USES,Mechanical ventilation,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0199470,C0184159,USES,Mechanical ventilation,Tracheostomy tube,topp,medd,1,USES_TOPPusesMEDD
+C0199470,C0336630,USES,Mechanical ventilation,Endotracheal tube,topp,medd,1,USES_TOPPusesMEDD
+C0199470,C1314650,USES,Mechanical ventilation,"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,1,USES_TOPPusesMEDD
+C0199779,C0039142,USES,Administration of antibiotic,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0199782,C2700619,USES,Administration of insulin,Test Strip (device),topp,medd,1,USES_TOPPusesMEDD
+C0199798,C0009653,USES,human vaccination,"Condoms, Male",topp,medd,3,USES_TOPPusesMEDD
+C0199804,C0180694,USES,Vaccination against tuberculosis,Bovie,topp,medd,1,USES_TOPPusesMEDD
+C0199848,C4744970,USES,Coronavirus vaccination,Microneedle Drug Delivery System,topp,medd,1,USES_TOPPusesMEDD
+C0199859,C0009653,USES,Deworming,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0200149,C0037816,USES,Ophthalmic examination and evaluation,Speculum,topp,medd,1,USES_TOPPusesMEDD
+C0200149,C0183969,USES,Ophthalmic examination and evaluation,Tonometer,topp,medd,1,USES_TOPPusesMEDD
+C0200149,C1271537,USES,Ophthalmic examination and evaluation,Non-contact tonometer,topp,medd,1,USES_TOPPusesMEDD
+C0200244,C0015421,USES,Visual training,Eyeglasses,topp,medd,1,USES_TOPPusesMEDD
+C0203597,C0039818,USES,hyperthermia treatment,"Thermometer, device",topp,medd,1,USES_TOPPusesMEDD
+C0203597,C0179177,USES,hyperthermia treatment,Autoclave,topp,medd,2,USES_TOPPusesMEDD
+C0203597,C0181153,USES,hyperthermia treatment,"BLOCK, HEATING",topp,medd,1,USES_TOPPusesMEDD
+C0203597,C0181206,USES,hyperthermia treatment,Class II biological safety cabinet,topp,medd,1,USES_TOPPusesMEDD
+C0203939,C0180572,USES,Indirect Treatment,Dynamometer,topp,medd,4,USES_TOPPusesMEDD
+C0203939,C0182400,USES,Indirect Treatment,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0203939,C0456378,USES,Indirect Treatment,Type of bridge device,topp,medd,1,USES_TOPPusesMEDD
+C0203939,C1328924,USES,Indirect Treatment,magnetic beads,topp,medd,1,USES_TOPPusesMEDD
+C0204514,C0181845,USES,Structural analysis,Electron microscope,topp,medd,1,USES_TOPPusesMEDD
+C0204514,C0183335,USES,Structural analysis,slabs,topp,medd,1,USES_TOPPusesMEDD
+C0204514,C0728475,USES,Structural analysis,ultra,topp,medd,4,USES_TOPPusesMEDD
+C0204514,C0728990,USES,Structural analysis,Clinical Use Template,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0002422,USES,Isolation procedure,Ambulances,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0005971,USES,Isolation procedure,Bone plates,topp,medd,3,USES_TOPPusesMEDD
+C0204727,C0009653,USES,Isolation procedure,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C0204727,C0013194,USES,Isolation procedure,Drug Packaging,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0024861,USES,Isolation procedure,Masks,topp,medd,8,USES_TOPPusesMEDD
+C0204727,C0026032,USES,Isolation procedure,Microspheres,topp,medd,2,USES_TOPPusesMEDD
+C0204727,C0027551,USES,Isolation procedure,Needle device,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0085104,USES,Isolation procedure,Drug Delivery Systems,topp,medd,3,USES_TOPPusesMEDD
+C0204727,C0085275,USES,Isolation procedure,Rubber Dams,topp,medd,24,USES_TOPPusesMEDD
+C0204727,C0150789,USES,Isolation procedure,Patient Holding Stretchers,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0175730,USES,Isolation procedure,biomedical tube device,topp,medd,7,USES_TOPPusesMEDD
+C0204727,C0178987,USES,Isolation procedure,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0180249,USES,Isolation procedure,Cushion,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0180806,USES,Isolation procedure,Extractors,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0181064,USES,Isolation procedure,Gown,topp,medd,2,USES_TOPPusesMEDD
+C0204727,C0181168,USES,Isolation procedure,HEMOCYTOMETER,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0181200,USES,Isolation procedure,homogenizers,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0181264,USES,Isolation procedure,Ice Bags,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0181620,USES,Isolation procedure,Hoist device,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0181839,USES,Isolation procedure,Microscopes,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0182109,USES,Isolation procedure,Pulse oximeter,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0182301,USES,Isolation procedure,Pipette (physical object),topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0182362,USES,Isolation procedure,Skin Prep Kits,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0182400,USES,Isolation procedure,Probes,topp,medd,4,USES_TOPPusesMEDD
+C0204727,C0183115,USES,Isolation procedure,Scanning Systems,topp,medd,2,USES_TOPPusesMEDD
+C0204727,C0183212,USES,Isolation procedure,Separators,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0441299,USES,Isolation procedure,Double lumen tube,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0491970,USES,Isolation procedure,Light microscope,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0677048,USES,Isolation procedure,Manual Cytometers,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0725865,USES,Isolation procedure,disposable,topp,medd,4,USES_TOPPusesMEDD
+C0204727,C0777326,USES,Isolation procedure,nasal syringe,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C0879240,USES,Isolation procedure,Nasal Swabs,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C1261188,USES,Isolation procedure,Swab,topp,medd,2,USES_TOPPusesMEDD
+C0204727,C1314650,USES,Isolation procedure,"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,1,USES_TOPPusesMEDD
+C0204727,C1328924,USES,Isolation procedure,magnetic beads,topp,medd,77,USES_TOPPusesMEDD
+C0204727,C1706912,USES,Isolation procedure,BARRIER,topp,medd,7,USES_TOPPusesMEDD
+C0204727,C1883522,USES,Isolation procedure,Vacutainer,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C2720748,USES,Isolation procedure,Hoods,topp,medd,1,USES_TOPPusesMEDD
+C0204727,C3495449,USES,Isolation procedure,Mobility aid,topp,medd,6,USES_TOPPusesMEDD
+C0204730,C0024861,USES,Preventing infection of immunocompromised patient,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0204774,C1520064,USES,Soaking Procedure,Vortex Mixer,topp,medd,1,USES_TOPPusesMEDD
+C0204808,C0178987,USES,Suction of patient,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0204854,C0039142,USES,Arthrocentesis,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0205991,C0009653,USES,Administration of vaccine to produce active immunity,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0206058,C0021639,USES,Elective Surgical Procedures,Insufflator,topp,medd,2,USES_TOPPusesMEDD
+C0206058,C0181598,USES,Elective Surgical Procedures,Left ventricular assist device,topp,medd,1,USES_TOPPusesMEDD
+C0206058,C2825200,USES,Elective Surgical Procedures,Bare metal stent,topp,medd,1,USES_TOPPusesMEDD
+C0206074,C0750164,USES,Renal Replacement Therapy,venous access,topp,medd,2,USES_TOPPusesMEDD
+C0206074,C0878969,USES,Renal Replacement Therapy,tunneled catheters,topp,medd,1,USES_TOPPusesMEDD
+C0206156,C0178987,USES,Rewarming,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0237125,C0009653,USES,Drugs regimen,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0241076,C0027551,USES,Skin infiltration,Needle device,topp,medd,1,USES_TOPPusesMEDD
+C0242739,C0013119,USES,Nutritional Support,Medical dressing,topp,medd,1,USES_TOPPusesMEDD
+C0242839,C0444755,USES,"Heart Bypass, Left",Centrifugal pump,topp,medd,2,USES_TOPPusesMEDD
+C0242970,C0728475,USES,Fat-Restricted Diet,ultra,topp,medd,3,USES_TOPPusesMEDD
+C0262756,C0178987,USES,respiratory management,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0262762,C0085104,USES,crisis management,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0269694,C0182400,USES,Normal delivery procedure,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0278347,C0009653,USES,Transfusion of plasma,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C0279260,C0182576,USES,Bleomycin/Methotrexate/Vinblastine,Rack,topp,medd,1,USES_TOPPusesMEDD
+C0279939,C0085104,USES,Doxorubicin/Melphalan/Teniposide regimen (MAV),Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0280274,C0009653,USES,Antiviral Therapy,"Condoms, Male",topp,medd,7,USES_TOPPusesMEDD
+C0280274,C0085104,USES,Antiviral Therapy,Drug Delivery Systems,topp,medd,2,USES_TOPPusesMEDD
+C0280274,C0182400,USES,Antiviral Therapy,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0280274,C2945625,USES,Antiviral Therapy,Feeding tube,topp,medd,1,USES_TOPPusesMEDD
+C0280592,C0183086,USES,doxorubicin/fluorouracil/mitomycin/vincristine protocol,sanitizers,topp,medd,2,USES_TOPPusesMEDD
+C0280592,C5203172,USES,doxorubicin/fluorouracil/mitomycin/vincristine protocol,FACE SHIELD,topp,medd,1,USES_TOPPusesMEDD
+C0280603,C0182400,USES,fluorouracil/methotrexate protocol,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0282624,C0021102,USES,Minimally Invasive Surgical Procedures,Implants,topp,medd,1,USES_TOPPusesMEDD
+C0282624,C0184252,USES,Minimally Invasive Surgical Procedures,Medical Valves,topp,medd,3,USES_TOPPusesMEDD
+C0332855,C0183745,USES,"Anastomosis, end to end",Silk suture,topp,medd,1,USES_TOPPusesMEDD
+C0332857,C0491217,USES,"Anastomosis, end to side","Sutures, Synthetic, Nonabsorbable, Polypropylene (device)",topp,medd,1,USES_TOPPusesMEDD
+C0337280,C0184252,USES,Fenestration procedure,Medical Valves,topp,medd,1,USES_TOPPusesMEDD
+C0337280,C2584606,USES,Fenestration procedure,"Catheters, Spinal, Intrathecal",topp,medd,1,USES_TOPPusesMEDD
+C0338248,C0175735,USES,carmustine/cytarabine/etoposide/melphalan regimen,Scissors (device),topp,medd,1,USES_TOPPusesMEDD
+C0338248,C0182400,USES,carmustine/cytarabine/etoposide/melphalan regimen,Probes,topp,medd,10,USES_TOPPusesMEDD
+C0338248,C0183115,USES,carmustine/cytarabine/etoposide/melphalan regimen,Scanning Systems,topp,medd,1,USES_TOPPusesMEDD
+C0338248,C0491931,USES,carmustine/cytarabine/etoposide/melphalan regimen,Orthopedic Fork,topp,medd,1,USES_TOPPusesMEDD
+C0338248,C1289846,USES,carmustine/cytarabine/etoposide/melphalan regimen,Helium Neon Gas Lasers,topp,medd,2,USES_TOPPusesMEDD
+C0339891,C0441249,USES,Repair of double outlet right ventricle with anastomosis of left ventricle to aorta via ventricular septal defect and right ventricle to pulmonary trunk conduit,Valved cardiac conduit,topp,medd,1,USES_TOPPusesMEDD
+C0339897,C0038257,USES,Transjugular intrahepatic portosystemic shunt procedure,"Stent, device",topp,medd,3,USES_TOPPusesMEDD
+C0339897,C0039142,USES,Transjugular intrahepatic portosystemic shunt procedure,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0339897,C0040661,USES,Transjugular intrahepatic portosystemic shunt procedure,Transducers,topp,medd,1,USES_TOPPusesMEDD
+C0339897,C0175718,USES,Transjugular intrahepatic portosystemic shunt procedure,Medical pins,topp,medd,1,USES_TOPPusesMEDD
+C0339897,C0179834,USES,Transjugular intrahepatic portosystemic shunt procedure,Centrifuges (device),topp,medd,1,USES_TOPPusesMEDD
+C0339897,C0181200,USES,Transjugular intrahepatic portosystemic shunt procedure,homogenizers,topp,medd,1,USES_TOPPusesMEDD
+C0339897,C0182301,USES,Transjugular intrahepatic portosystemic shunt procedure,Pipette (physical object),topp,medd,5,USES_TOPPusesMEDD
+C0339897,C0182400,USES,Transjugular intrahepatic portosystemic shunt procedure,Probes,topp,medd,7,USES_TOPPusesMEDD
+C0339897,C0183115,USES,Transjugular intrahepatic portosystemic shunt procedure,Scanning Systems,topp,medd,2,USES_TOPPusesMEDD
+C0339897,C0183969,USES,Transjugular intrahepatic portosystemic shunt procedure,Tonometer,topp,medd,2,USES_TOPPusesMEDD
+C0339897,C0725865,USES,Transjugular intrahepatic portosystemic shunt procedure,disposable,topp,medd,10,USES_TOPPusesMEDD
+C0339897,C1261188,USES,Transjugular intrahepatic portosystemic shunt procedure,Swab,topp,medd,7,USES_TOPPusesMEDD
+C0339897,C1322797,USES,Transjugular intrahepatic portosystemic shunt procedure,Covered Stent,topp,medd,1,USES_TOPPusesMEDD
+C0339897,C1706912,USES,Transjugular intrahepatic portosystemic shunt procedure,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0339897,C2584423,USES,Transjugular intrahepatic portosystemic shunt procedure,Double lumen tracheobronchial tube,topp,medd,1,USES_TOPPusesMEDD
+C0339897,C3880144,USES,Transjugular intrahepatic portosystemic shunt procedure,Micro-needle,topp,medd,3,USES_TOPPusesMEDD
+C0339897,C4759784,USES,Transjugular intrahepatic portosystemic shunt procedure,Atomic Force Microscope,topp,medd,1,USES_TOPPusesMEDD
+C0341000,C0181115,USES,Occlusal Adjustment,Handpiece,topp,medd,1,USES_TOPPusesMEDD
+C0348007,C0392251,USES,Laser ablation,Carbon Dioxide Lasers,topp,medd,1,USES_TOPPusesMEDD
+C0349707,C0038923,USES,Aspiration-action,Surgical Equipment,topp,medd,1,USES_TOPPusesMEDD
+C0349707,C0039142,USES,Aspiration-action,Syringes,topp,medd,10,USES_TOPPusesMEDD
+C0349707,C0085275,USES,Aspiration-action,Rubber Dams,topp,medd,1,USES_TOPPusesMEDD
+C0349707,C0085678,USES,Aspiration-action,Nasogastric tube,topp,medd,1,USES_TOPPusesMEDD
+C0349707,C0178987,USES,Aspiration-action,Artificial Airways,topp,medd,6,USES_TOPPusesMEDD
+C0349707,C0181332,USES,Aspiration-action,Syringe pump,topp,medd,1,USES_TOPPusesMEDD
+C0349707,C0182301,USES,Aspiration-action,Pipette (physical object),topp,medd,2,USES_TOPPusesMEDD
+C0349707,C0520453,USES,Aspiration-action,Cannula device,topp,medd,2,USES_TOPPusesMEDD
+C0349707,C1261188,USES,Aspiration-action,Swab,topp,medd,1,USES_TOPPusesMEDD
+C0349707,C3495388,USES,Aspiration-action,Vacuum Pumps,topp,medd,1,USES_TOPPusesMEDD
+C0349707,C3831121,USES,Aspiration-action,Chest Tube Flutter Valve,topp,medd,1,USES_TOPPusesMEDD
+C0376495,C0021102,USES,Retreatments,Implants,topp,medd,1,USES_TOPPusesMEDD
+C0376508,C0181115,USES,Tooth Preparation,Handpiece,topp,medd,1,USES_TOPPusesMEDD
+C0391874,C0180806,USES,Manual extraction,Extractors,topp,medd,1,USES_TOPPusesMEDD
+C0391874,C1706912,USES,Manual extraction,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0392877,C0027551,USES,infusion of drug,Needle device,topp,medd,2,USES_TOPPusesMEDD
+C0392877,C0039142,USES,infusion of drug,Syringes,topp,medd,2,USES_TOPPusesMEDD
+C0394477,C0021102,USES,Neurostimulation procedures of spinal cord tissue,Implants,topp,medd,1,USES_TOPPusesMEDD
+C0394674,C0085104,USES,Neurostimulation/modulation,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0396429,C0392220,USES,Cricothyroidotomy,scalpel,topp,medd,1,USES_TOPPusesMEDD
+C0396608,C0024861,USES,Airway procedure,Masks,topp,medd,3,USES_TOPPusesMEDD
+C0396608,C0183559,USES,Airway procedure,Stethoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0396608,C0725865,USES,Airway procedure,disposable,topp,medd,1,USES_TOPPusesMEDD
+C0396608,C5203172,USES,Airway procedure,FACE SHIELD,topp,medd,1,USES_TOPPusesMEDD
+C0396617,C0038257,USES,Airway insertion,"Stent, device",topp,medd,1,USES_TOPPusesMEDD
+C0396621,C3164607,USES,Orotracheal intubation,Videolaryngoscope,topp,medd,1,USES_TOPPusesMEDD
+C0396625,C0024861,USES,Nasotracheal intubation,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0396632,C0182117,USES,Endobronchial intubation,"Oxygen analyzer, device",topp,medd,1,USES_TOPPusesMEDD
+C0396644,C3873867,USES,Airway toilet,Suction system,topp,medd,1,USES_TOPPusesMEDD
+C0396652,C3873867,USES,Bronchial suction,Suction system,topp,medd,1,USES_TOPPusesMEDD
+C0396670,C0013194,USES,Isolated limb perfusion,Drug Packaging,topp,medd,1,USES_TOPPusesMEDD
+C0396670,C0024861,USES,Isolated limb perfusion,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0396670,C0181904,USES,Isolated limb perfusion,Monitor Device,topp,medd,1,USES_TOPPusesMEDD
+C0396670,C1139730,USES,Isolated limb perfusion,monitoring systems,topp,medd,1,USES_TOPPusesMEDD
+C0398266,C0085590,USES,Venous cannula insertion,catheter device,topp,medd,1,USES_TOPPusesMEDD
+C0398266,C0179768,USES,Venous cannula insertion,Peripheral intravenous catheter,topp,medd,1,USES_TOPPusesMEDD
+C0398480,C0441247,USES,Drainage of lymphatics,Conduit implant,topp,medd,1,USES_TOPPusesMEDD
+C0405765,C0009653,USES,Peritoneal drainage procedure,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0407295,C0039142,USES,Fixation of fracture using plate,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0407295,C1139930,USES,Fixation of fracture using plate,Device Plate,topp,medd,1,USES_TOPPusesMEDD
+C0407295,C1548723,USES,Fixation of fracture using plate,Aerobic blood culture bottle,topp,medd,2,USES_TOPPusesMEDD
+C0411282,C0038257,USES,Endovascular radiological intervention,"Stent, device",topp,medd,1,USES_TOPPusesMEDD
+C0412767,C0180453,USES,Rapid Sequence Induction,Laryngoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0412767,C3164607,USES,Rapid Sequence Induction,Videolaryngoscope,topp,medd,5,USES_TOPPusesMEDD
+C0412767,C4698390,USES,Rapid Sequence Induction,Cuffed endotracheal tube,topp,medd,1,USES_TOPPusesMEDD
+C0412792,C0179574,USES,Preoxygenation,Nasal Cannula,topp,medd,1,USES_TOPPusesMEDD
+C0412792,C0184252,USES,Preoxygenation,Medical Valves,topp,medd,1,USES_TOPPusesMEDD
+C0412792,C0445087,USES,Preoxygenation,Nasal prongs,topp,medd,1,USES_TOPPusesMEDD
+C0412792,C1960093,USES,Preoxygenation,Nonrebreather oxygen mask,topp,medd,1,USES_TOPPusesMEDD
+C0419000,C0024861,USES,"Respiratory assist, manual",Masks,topp,medd,3,USES_TOPPusesMEDD
+C0419000,C0182998,USES,"Respiratory assist, manual",Resuscitator,topp,medd,4,USES_TOPPusesMEDD
+C0419000,C0184252,USES,"Respiratory assist, manual",Medical Valves,topp,medd,3,USES_TOPPusesMEDD
+C0419786,C0085104,USES,Infection surveillance,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0419994,C0183210,USES,Infection screening,sensor (device),topp,medd,1,USES_TOPPusesMEDD
+C0419997,C0085104,USES,Viral screening,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0419997,C0183210,USES,Viral screening,sensor (device),topp,medd,1,USES_TOPPusesMEDD
+C0420045,C0728475,USES,Respiratory disease screening,ultra,topp,medd,1,USES_TOPPusesMEDD
+C0439775,C0013194,USES,Elevation procedure,Drug Packaging,topp,medd,1,USES_TOPPusesMEDD
+C0439775,C3875892,USES,Elevation procedure,Anemometer,topp,medd,1,USES_TOPPusesMEDD
+C0441509,C0030067,USES,Coagulation procedure,Oxygenators,topp,medd,2,USES_TOPPusesMEDD
+C0441509,C0181904,USES,Coagulation procedure,Monitor Device,topp,medd,1,USES_TOPPusesMEDD
+C0441509,C1328924,USES,Coagulation procedure,magnetic beads,topp,medd,1,USES_TOPPusesMEDD
+C0441516,C0085104,USES,Demand (clinical),Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0441516,C0497652,USES,Demand (clinical),New equipment,topp,medd,1,USES_TOPPusesMEDD
+C0441590,C0183086,USES,Manual insertion,sanitizers,topp,medd,1,USES_TOPPusesMEDD
+C0441701,C0179390,USES,Seldinger technique,Bougie,topp,medd,1,USES_TOPPusesMEDD
+C0442944,C0336630,USES,Incision of neck,Endotracheal tube,topp,medd,1,USES_TOPPusesMEDD
+C0442967,C0181467,USES,Salvage procedure,knife,topp,medd,1,USES_TOPPusesMEDD
+C0442968,C0179167,USES,Functional endoscopic sinus surgery,"ASPIRATOR, ULTRASONIC",topp,medd,1,USES_TOPPusesMEDD
+C0444678,C0037816,USES,Pneumatic otoscopy,Speculum,topp,medd,1,USES_TOPPusesMEDD
+C0444889,C1706912,USES,Continuous infusion,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0444889,C2945625,USES,Continuous infusion,Feeding tube,topp,medd,1,USES_TOPPusesMEDD
+C0445054,C0085104,USES,Multiplanar reconstruction,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0445054,C0182281,USES,Multiplanar reconstruction,Picture Archiving and Communication Systems,topp,medd,2,USES_TOPPusesMEDD
+C0448964,C0183744,USES,Distal anastomosis,Polytetrafluoroethylene suture,topp,medd,1,USES_TOPPusesMEDD
+C0450076,C0005971,USES,Gradient method,Bone plates,topp,medd,1,USES_TOPPusesMEDD
+C0451610,C0007963,USES,Patient review,Charts (device),topp,medd,6,USES_TOPPusesMEDD
+C0452240,C0183346,USES,Physical therapy exercises,"Sling, device",topp,medd,1,USES_TOPPusesMEDD
+C0452260,C0221839,USES,Muscular strength development exercise,elastics (orthodontic bands),topp,medd,1,USES_TOPPusesMEDD
+C0454044,C0007963,USES,Simonton technique,Charts (device),topp,medd,1,USES_TOPPusesMEDD
+C0454508,C0181758,USES,Breathing control (regime/therapy),Surgical face mask,topp,medd,1,USES_TOPPusesMEDD
+C0454512,C0009653,USES,Incentive spirometry,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0454517,C0178987,USES,Positive pressure therapy,Artificial Airways,topp,medd,4,USES_TOPPusesMEDD
+C0454527,C0014243,USES,Thermal techniques,Endoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0454530,C0009653,USES,Ultraviolet B therapy,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0454530,C0175723,USES,Ultraviolet B therapy,Bands,topp,medd,2,USES_TOPPusesMEDD
+C0456979,C0179891,USES,Automated endodontic technique,"Analyzers, Laboratory, Immunoassay, Chemiluminescent",topp,medd,2,USES_TOPPusesMEDD
+C0456979,C0181839,USES,Automated endodontic technique,Microscopes,topp,medd,3,USES_TOPPusesMEDD
+C0456979,C1328924,USES,Automated endodontic technique,magnetic beads,topp,medd,2,USES_TOPPusesMEDD
+C0456979,C1706912,USES,Automated endodontic technique,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0456980,C0183086,USES,Hand endodontic technique,sanitizers,topp,medd,2,USES_TOPPusesMEDD
+C0457431,C0183703,USES,Percutaneous techniques,Surgical cap,topp,medd,1,USES_TOPPusesMEDD
+C0459504,C0179788,USES,Airway suction technique,Suction catheter,topp,medd,1,USES_TOPPusesMEDD
+C0459504,C3873867,USES,Airway suction technique,Suction system,topp,medd,2,USES_TOPPusesMEDD
+C0459914,C0180770,USES,Conservative Treatment,Excavator,topp,medd,1,USES_TOPPusesMEDD
+C0472473,C0178987,USES,Topical local anesthetic,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0472567,C0038969,USES,Exteriorization of trachea,Surgical sutures,topp,medd,1,USES_TOPPusesMEDD
+C0472569,C0087165,USES,Tracheo-esophageal puncture procedure,Voice Prosthesis,topp,medd,1,USES_TOPPusesMEDD
+C0473705,C0182400,USES,Procedures relating to splintage and immobilization,Probes,topp,medd,1,USES_TOPPusesMEDD
+C0475411,C0179245,USES,Standardized technique,Water Bath,topp,medd,1,USES_TOPPusesMEDD
+C0475745,C0179574,USES,Apneic oxygenation,Nasal Cannula,topp,medd,2,USES_TOPPusesMEDD
+C0475745,C0445087,USES,Apneic oxygenation,Nasal prongs,topp,medd,1,USES_TOPPusesMEDD
+C0519382,C0179931,USES,Mitral valve operation,Aorta clamp,topp,medd,1,USES_TOPPusesMEDD
+C0520251,C0013194,USES,Multiple interventional procedures,Drug Packaging,topp,medd,1,USES_TOPPusesMEDD
+C0520251,C0024861,USES,Multiple interventional procedures,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0521213,C0179935,USES,Closure by clamp,Bulldog clamp,topp,medd,1,USES_TOPPusesMEDD
+C0521213,C0183210,USES,Closure by clamp,sensor (device),topp,medd,1,USES_TOPPusesMEDD
+C0521213,C0336630,USES,Closure by clamp,Endotracheal tube,topp,medd,1,USES_TOPPusesMEDD
+C0521213,C1260970,USES,Closure by clamp,Tracheal tube,topp,medd,2,USES_TOPPusesMEDD
+C0521300,C0740043,USES,Life support procedure,medical supplies,topp,medd,1,USES_TOPPusesMEDD
+C0521302,C0745442,USES,Fluid replacement,Intravenous Catheters,topp,medd,1,USES_TOPPusesMEDD
+C0522775,C0457177,USES,Occlusion of catheter (procedure),Telescopes,topp,medd,1,USES_TOPPusesMEDD
+C0524852,C0183089,USES,Orthopedic Procedures,saw (device),topp,medd,2,USES_TOPPusesMEDD
+C0524865,C0013194,USES,Reconstructive Surgical Procedures,Drug Packaging,topp,medd,1,USES_TOPPusesMEDD
+C0524865,C0021102,USES,Reconstructive Surgical Procedures,Implants,topp,medd,4,USES_TOPPusesMEDD
+C0524865,C0040289,USES,Reconstructive Surgical Procedures,Tissue Expansion Devices,topp,medd,2,USES_TOPPusesMEDD
+C0524865,C0085104,USES,Reconstructive Surgical Procedures,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0524865,C0175649,USES,Reconstructive Surgical Procedures,Prosthesis,topp,medd,1,USES_TOPPusesMEDD
+C0524865,C0178987,USES,Reconstructive Surgical Procedures,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0524865,C0596206,USES,Reconstructive Surgical Procedures,Bone prosthesis,topp,medd,1,USES_TOPPusesMEDD
+C0524865,C0728990,USES,Reconstructive Surgical Procedures,Clinical Use Template,topp,medd,2,USES_TOPPusesMEDD
+C0524865,C1553430,USES,Reconstructive Surgical Procedures,Serum Separator Tube,topp,medd,1,USES_TOPPusesMEDD
+C0524865,C1626420,USES,Reconstructive Surgical Procedures,Confocal microscope,topp,medd,1,USES_TOPPusesMEDD
+C0524865,C2700202,USES,Reconstructive Surgical Procedures,Focused Ion Beam-Scanning Electron Microscope,topp,medd,1,USES_TOPPusesMEDD
+C0542379,C0179433,USES,Awake intubation,Flexible bronchoscope,topp,medd,1,USES_TOPPusesMEDD
+C0542379,C0441298,USES,Awake intubation,Single lumen tube,topp,medd,1,USES_TOPPusesMEDD
+C0542379,C0491243,USES,Awake intubation,Flexible endoscope,topp,medd,2,USES_TOPPusesMEDD
+C0542379,C0587273,USES,Awake intubation,Armored endotracheal tube,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0005971,USES,Operative Surgical Procedures,Bone plates,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0015421,USES,Operative Surgical Procedures,Eyeglasses,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0016533,USES,Operative Surgical Procedures,Forceps,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0019560,USES,Operative Surgical Procedures,Hip Joint Implantable Prostheses (device),topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0038928,USES,Operative Surgical Procedures,Surgical Instruments,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0042497,USES,Operative Surgical Procedures,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0085104,USES,Operative Surgical Procedures,Drug Delivery Systems,topp,medd,2,USES_TOPPusesMEDD
+C0543467,C0175649,USES,Operative Surgical Procedures,Prosthesis,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0178987,USES,Operative Surgical Procedures,Artificial Airways,topp,medd,5,USES_TOPPusesMEDD
+C0543467,C0181293,USES,Operative Surgical Procedures,Incinerator,topp,medd,2,USES_TOPPusesMEDD
+C0543467,C0181332,USES,Operative Surgical Procedures,Syringe pump,topp,medd,2,USES_TOPPusesMEDD
+C0543467,C0181620,USES,Operative Surgical Procedures,Hoist device,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0181839,USES,Operative Surgical Procedures,Microscopes,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0183210,USES,Operative Surgical Procedures,sensor (device),topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0183255,USES,Operative Surgical Procedures,Face shield (physical object),topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0183309,USES,Operative Surgical Procedures,Simulators,topp,medd,3,USES_TOPPusesMEDD
+C0543467,C0183400,USES,Operative Surgical Procedures,Spectrophotometer,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0183932,USES,Operative Surgical Procedures,Thoracoscopes,topp,medd,3,USES_TOPPusesMEDD
+C0543467,C0376432,USES,Operative Surgical Procedures,Bioreactors,topp,medd,3,USES_TOPPusesMEDD
+C0543467,C0392220,USES,Operative Surgical Procedures,scalpel,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0490810,USES,Operative Surgical Procedures,"HEMOSTAT, SURGICAL",topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0725865,USES,Operative Surgical Procedures,disposable,topp,medd,3,USES_TOPPusesMEDD
+C0543467,C0810473,USES,Operative Surgical Procedures,Scanning Probe Microscopes (device),topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0850121,USES,Operative Surgical Procedures,Tympanic ventilation tube,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C0879140,USES,Operative Surgical Procedures,Towelettes,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C1139930,USES,Operative Surgical Procedures,Device Plate,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C1140607,USES,Operative Surgical Procedures,Commodes,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C1706352,USES,Operative Surgical Procedures,Core Device,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C1706912,USES,Operative Surgical Procedures,BARRIER,topp,medd,2,USES_TOPPusesMEDD
+C0543467,C1875815,USES,Operative Surgical Procedures,SYRINGES/NEEDLES,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C2720748,USES,Operative Surgical Procedures,Hoods,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C2986783,USES,Operative Surgical Procedures,MicroPET,topp,medd,1,USES_TOPPusesMEDD
+C0543467,C3879197,USES,Operative Surgical Procedures,Rigid otoscope,topp,medd,1,USES_TOPPusesMEDD
+C0545447,C0039818,USES,monitoring temperature,"Thermometer, device",topp,medd,1,USES_TOPPusesMEDD
+C0545447,C0182400,USES,monitoring temperature,Probes,topp,medd,2,USES_TOPPusesMEDD
+C0545447,C0183210,USES,monitoring temperature,sensor (device),topp,medd,2,USES_TOPPusesMEDD
+C0547070,C0009653,USES,Ablation,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C0547070,C0180307,USES,Ablation,Defibrillators,topp,medd,1,USES_TOPPusesMEDD
+C0547070,C0184252,USES,Ablation,Medical Valves,topp,medd,2,USES_TOPPusesMEDD
+C0547070,C0392251,USES,Ablation,Carbon Dioxide Lasers,topp,medd,9,USES_TOPPusesMEDD
+C0547070,C0392265,USES,Ablation,"Lasers, Excimer",topp,medd,1,USES_TOPPusesMEDD
+C0547070,C0457903,USES,Ablation,Erbium-Doped Yttrium Aluminum Garnet Lasers,topp,medd,1,USES_TOPPusesMEDD
+C0553741,C0085590,USES,Fluid Management,catheter device,topp,medd,1,USES_TOPPusesMEDD
+C0553891,C0042497,USES,Tracheal Extubation,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0554804,C0024861,USES,Assisted breathing,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0554804,C0042497,USES,Assisted breathing,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C0556030,C0336630,USES,Repositioning (procedure),Endotracheal tube,topp,medd,1,USES_TOPPusesMEDD
+C0556567,C0085104,USES,Work placement,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0556796,C0879140,USES,Hand manipulation,Towelettes,topp,medd,1,USES_TOPPusesMEDD
+C0557061,C0182913,USES,Discussion (procedure),Physiologic monitoring recorder,topp,medd,1,USES_TOPPusesMEDD
+C0557061,C0972401,USES,Discussion (procedure),Boards (medical device),topp,medd,1,USES_TOPPusesMEDD
+C0557061,C2363670,USES,Discussion (procedure),developers,topp,medd,1,USES_TOPPusesMEDD
+C0557061,C2609570,USES,Discussion (procedure),ORGANIZER,topp,medd,1,USES_TOPPusesMEDD
+C0557984,C0178987,USES,Special observation,Artificial Airways,topp,medd,2,USES_TOPPusesMEDD
+C0558010,C0180212,USES,Pressure area care,Endotracheal tube cuff,topp,medd,1,USES_TOPPusesMEDD
+C0561877,C0182109,USES,Anesthetic agent monitoring,Pulse oximeter,topp,medd,1,USES_TOPPusesMEDD
+C0565867,C3880144,USES,delivery method,Micro-needle,topp,medd,1,USES_TOPPusesMEDD
+C0574032,C0039142,USES,Infusion procedures,Syringes,topp,medd,2,USES_TOPPusesMEDD
+C0574032,C3873698,USES,Infusion procedures,Tubing set,topp,medd,2,USES_TOPPusesMEDD
+C0576773,C0182537,USES,Subcutaneous Infusions,pump (device),topp,medd,1,USES_TOPPusesMEDD
+C0580646,C1706912,USES,Integumentary system repair,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C0581602,C0178987,USES,Structural modification,Artificial Airways,topp,medd,9,USES_TOPPusesMEDD
+C0581602,C0728475,USES,Structural modification,ultra,topp,medd,2,USES_TOPPusesMEDD
+C0582480,C0179574,USES,Humidified oxygen therapy,Nasal Cannula,topp,medd,1,USES_TOPPusesMEDD
+C0585418,C0085678,USES,Decompression of intestine,Nasogastric tube,topp,medd,1,USES_TOPPusesMEDD
+C0589114,C1260969,USES,Bilateral tubal ligation,Ring device,topp,medd,1,USES_TOPPusesMEDD
+C0589567,C0182485,USES,Placement procedure,Prosthetic ligament,topp,medd,1,USES_TOPPusesMEDD
+C0596171,C0021102,USES,Tissue Engineering,Implants,topp,medd,1,USES_TOPPusesMEDD
+C0596706,C0175649,USES,hip surgery,Prosthesis,topp,medd,1,USES_TOPPusesMEDD
+C0597750,C0178987,USES,antigen challenge,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0597815,C0039142,USES,crystal healing,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C0599291,C0392265,USES,corneal sculpting,"Lasers, Excimer",topp,medd,1,USES_TOPPusesMEDD
+C0599916,C0392265,USES,corneal ablation,"Lasers, Excimer",topp,medd,1,USES_TOPPusesMEDD
+C0600080,C0024861,USES,Stretching exercises,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0600080,C1553643,USES,Stretching exercises,Maxillary left canine abutment,topp,medd,2,USES_TOPPusesMEDD
+C0600406,C0175730,USES,venipuncture,biomedical tube device,topp,medd,1,USES_TOPPusesMEDD
+C0600406,C0336635,USES,venipuncture,Glass tube,topp,medd,1,USES_TOPPusesMEDD
+C0618956,C0178959,USES,UFD-1,ADAPTER,topp,medd,1,USES_TOPPusesMEDD
+C0677850,C0994894,USES,Adjuvant Therapy,Patch Dosage Form,topp,medd,1,USES_TOPPusesMEDD
+C0678026,C0009653,USES,Antifungal therapy,"Condoms, Male",topp,medd,4,USES_TOPPusesMEDD
+C0678812,C0026032,USES,systemic administration,Microspheres,topp,medd,1,USES_TOPPusesMEDD
+C0678823,C0085104,USES,parenteral administration,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0679637,C0178987,USES,major surgery,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0679698,C0009653,USES,disease prevention,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C0679698,C0042497,USES,disease prevention,Mechanical Ventilator,topp,medd,4,USES_TOPPusesMEDD
+C0679740,C0183716,USES,peer support,bolsters,topp,medd,1,USES_TOPPusesMEDD
+C0679750,C0024861,USES,prevention through information dissemination,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0679750,C0441247,USES,prevention through information dissemination,Conduit implant,topp,medd,1,USES_TOPPusesMEDD
+C0683465,C0182158,USES,novel AODU treatment method,Pads,topp,medd,1,USES_TOPPusesMEDD
+C0683517,C0027524,USES,Involuntary Treatment,Nebulizers,topp,medd,1,USES_TOPPusesMEDD
+C0684251,C0085104,USES,reproductive system surgery,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0695341,C0178987,USES,common procedures,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C0695341,C0182400,USES,common procedures,Probes,topp,medd,2,USES_TOPPusesMEDD
+C0695341,C0728990,USES,common procedures,Clinical Use Template,topp,medd,1,USES_TOPPusesMEDD
+C0695341,C0750164,USES,common procedures,venous access,topp,medd,1,USES_TOPPusesMEDD
+C0700586,C0009653,USES,Blalock Hanlon operation,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0700589,C0009653,USES,Contraceptive methods,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C0700589,C0021900,USES,Contraceptive methods,Intrauterine Devices,topp,medd,1,USES_TOPPusesMEDD
+C0740857,C0027524,USES,albuterol treatment,Nebulizers,topp,medd,1,USES_TOPPusesMEDD
+C0741847,C0002422,USES,Bypass,Ambulances,topp,medd,4,USES_TOPPusesMEDD
+C0741847,C0021102,USES,Bypass,Implants,topp,medd,1,USES_TOPPusesMEDD
+C0743795,C0183115,USES,face surgery reconstructive,Scanning Systems,topp,medd,1,USES_TOPPusesMEDD
+C0744345,C0009653,USES,Placement of gastrostomy tube,"Condoms, Male",topp,medd,3,USES_TOPPusesMEDD
+C0747973,C0021102,USES,Elective procedure,Implants,topp,medd,1,USES_TOPPusesMEDD
+C0748359,C0024861,USES,Respiratory isolation,Masks,topp,medd,2,USES_TOPPusesMEDD
+C0748359,C0181758,USES,Respiratory isolation,Surgical face mask,topp,medd,1,USES_TOPPusesMEDD
+C0748895,C0181464,USES,Sphincterotomy,Needle knife,topp,medd,1,USES_TOPPusesMEDD
+C0751363,C0018768,USES,natural remedies,Hearing Aids,topp,medd,1,USES_TOPPusesMEDD
+C0751429,C0021639,USES,"Surgical Procedures, Laparoscopic",Insufflator,topp,medd,2,USES_TOPPusesMEDD
+C0751429,C0183336,USES,"Surgical Procedures, Laparoscopic",Sleeve,topp,medd,1,USES_TOPPusesMEDD
+C0752151,C0181598,USES,"Thoracic Surgery, Video-Assisted",Left ventricular assist device,topp,medd,1,USES_TOPPusesMEDD
+C0796679,C0026032,USES,Chemoembolization,Microspheres,topp,medd,1,USES_TOPPusesMEDD
+C0808232,C0490617,USES,Therapeutic Intervention,"CATHETER, PERCUTANEOUS",topp,medd,1,USES_TOPPusesMEDD
+C0813207,C0679328,USES,Creation of shunt,surgical shunt,topp,medd,1,USES_TOPPusesMEDD
+C0813221,C0181620,USES,Operation on labia,Hoist device,topp,medd,1,USES_TOPPusesMEDD
+C0815154,C0042497,USES,selective intervention,Mechanical Ventilator,topp,medd,2,USES_TOPPusesMEDD
+C0815154,C0182400,USES,selective intervention,Probes,topp,medd,2,USES_TOPPusesMEDD
+C0853389,C0179751,USES,postoperative analgesia,Epidural catheter,topp,medd,1,USES_TOPPusesMEDD
+C0854628,C0178959,USES,ex vivo gene therapy,ADAPTER,topp,medd,1,USES_TOPPusesMEDD
+C0854654,C0009653,USES,cancer vaccine therapies,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0857208,C0009653,USES,routine immunization,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C0870527,C0009653,USES,Exposure Therapy,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C0870810,C1314650,USES,lifesaving,"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,1,USES_TOPPusesMEDD
+C0877341,C0702122,USES,Coronary Revascularization Procedure,Intra-aortic balloon pump device,topp,medd,2,USES_TOPPusesMEDD
+C0877629,C0024861,USES,infection prophylaxis,Masks,topp,medd,2,USES_TOPPusesMEDD
+C0886052,C1319597,USES,wound care,Silver dressing,topp,medd,1,USES_TOPPusesMEDD
+C0887842,C0441134,USES,Balloon Occlusion,Vascular Catheters,topp,medd,1,USES_TOPPusesMEDD
+C0917707,C0181089,USES,Cannulation,"Catheter guide wire, device",topp,medd,1,USES_TOPPusesMEDD
+C0917927,C0178987,USES,Breast-Conserving Surgery,Artificial Airways,topp,medd,4,USES_TOPPusesMEDD
+C0920086,C0175649,USES,Limb operation,Prosthesis,topp,medd,1,USES_TOPPusesMEDD
+C0920425,C0085104,USES,Cancer Therapeutic Procedure,Drug Delivery Systems,topp,medd,2,USES_TOPPusesMEDD
+C0920467,C0042497,USES,disorder control (procedure),Mechanical Ventilator,topp,medd,2,USES_TOPPusesMEDD
+C0920467,C0085104,USES,disorder control (procedure),Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C0920467,C0181758,USES,disorder control (procedure),Surgical face mask,topp,medd,1,USES_TOPPusesMEDD
+C0920467,C1261188,USES,disorder control (procedure),Swab,topp,medd,1,USES_TOPPusesMEDD
+C0935563,C0038969,USES,Piercing procedure,Surgical sutures,topp,medd,1,USES_TOPPusesMEDD
+C0935563,C0221093,USES,Piercing procedure,Hypodermic Needles,topp,medd,1,USES_TOPPusesMEDD
+C0935563,C0336668,USES,Piercing procedure,Sharp instrument,topp,medd,1,USES_TOPPusesMEDD
+C0947647,C0013194,USES,Manipulation procedure,Drug Packaging,topp,medd,1,USES_TOPPusesMEDD
+C0947647,C0016533,USES,Manipulation procedure,Forceps,topp,medd,2,USES_TOPPusesMEDD
+C0947647,C0024861,USES,Manipulation procedure,Masks,topp,medd,1,USES_TOPPusesMEDD
+C0947647,C0040661,USES,Manipulation procedure,Transducers,topp,medd,1,USES_TOPPusesMEDD
+C0947647,C0085104,USES,Manipulation procedure,Drug Delivery Systems,topp,medd,2,USES_TOPPusesMEDD
+C0947647,C0178987,USES,Manipulation procedure,Artificial Airways,topp,medd,59,USES_TOPPusesMEDD
+C0947647,C0179323,USES,Manipulation procedure,Blades (device),topp,medd,1,USES_TOPPusesMEDD
+C0947647,C0179630,USES,Manipulation procedure,Cartridge device,topp,medd,1,USES_TOPPusesMEDD
+C0947647,C0180453,USES,Manipulation procedure,Laryngoscopes,topp,medd,1,USES_TOPPusesMEDD
+C0947647,C0182400,USES,Manipulation procedure,Probes,topp,medd,2,USES_TOPPusesMEDD
+C0947647,C0183336,USES,Manipulation procedure,Sleeve,topp,medd,1,USES_TOPPusesMEDD
+C0947647,C0184252,USES,Manipulation procedure,Medical Valves,topp,medd,1,USES_TOPPusesMEDD
+C0947647,C0740043,USES,Manipulation procedure,medical supplies,topp,medd,1,USES_TOPPusesMEDD
+C0947647,C1328924,USES,Manipulation procedure,magnetic beads,topp,medd,1,USES_TOPPusesMEDD
+C0947851,C0184252,USES,Aortic Therapies,Medical Valves,topp,medd,1,USES_TOPPusesMEDD
+C0949766,C0043016,USES,Physical therapy,Walkers,topp,medd,1,USES_TOPPusesMEDD
+C1112446,C0461643,USES,Wound closure,Absorbable suture,topp,medd,2,USES_TOPPusesMEDD
+C1112785,C0021102,USES,cartilage repair,Implants,topp,medd,1,USES_TOPPusesMEDD
+C1116142,C0009653,USES,Transfusion of granulocytes,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C1135929,C0009653,USES,Mass Vaccination,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C1135929,C0021455,USES,Mass Vaccination,Inhalation Devices,topp,medd,1,USES_TOPPusesMEDD
+C1261381,C0178987,USES,Destructive procedure (surgical),Artificial Airways,topp,medd,7,USES_TOPPusesMEDD
+C1261381,C0179177,USES,Destructive procedure (surgical),Autoclave,topp,medd,1,USES_TOPPusesMEDD
+C1261381,C0184252,USES,Destructive procedure (surgical),Medical Valves,topp,medd,3,USES_TOPPusesMEDD
+C1261381,C1139930,USES,Destructive procedure (surgical),Device Plate,topp,medd,1,USES_TOPPusesMEDD
+C1261381,C1258018,USES,Destructive procedure (surgical),Microbubbles,topp,medd,1,USES_TOPPusesMEDD
+C1261381,C1706912,USES,Destructive procedure (surgical),BARRIER,topp,medd,6,USES_TOPPusesMEDD
+C1274136,C0178987,USES,Symptom control (regime/therapy),Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C1278419,C1261188,USES,Procedure on pharynx,Swab,topp,medd,2,USES_TOPPusesMEDD
+C1280903,C0013194,USES,Exploration procedure,Drug Packaging,topp,medd,2,USES_TOPPusesMEDD
+C1280903,C0085104,USES,Exploration procedure,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C1280903,C0179025,USES,Exploration procedure,aminoacid analyzer,topp,medd,1,USES_TOPPusesMEDD
+C1280903,C0180022,USES,Exploration procedure,Colonoscopes,topp,medd,1,USES_TOPPusesMEDD
+C1280903,C0180799,USES,Exploration procedure,explorers,topp,medd,1,USES_TOPPusesMEDD
+C1282573,C0002422,USES,Evacuation procedure,Ambulances,topp,medd,1,USES_TOPPusesMEDD
+C1282573,C0024861,USES,Evacuation procedure,Masks,topp,medd,1,USES_TOPPusesMEDD
+C1282573,C0041158,USES,Evacuation procedure,Trocar,topp,medd,1,USES_TOPPusesMEDD
+C1282573,C0042497,USES,Evacuation procedure,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C1282573,C0179788,USES,Evacuation procedure,Suction catheter,topp,medd,1,USES_TOPPusesMEDD
+C1282573,C0180590,USES,Evacuation procedure,SALIVA EJECTOR,topp,medd,1,USES_TOPPusesMEDD
+C1282573,C0336587,USES,Evacuation procedure,"Surgical drill, device (physical object)",topp,medd,3,USES_TOPPusesMEDD
+C1282573,C0520453,USES,Evacuation procedure,Cannula device,topp,medd,1,USES_TOPPusesMEDD
+C1282573,C1322293,USES,Evacuation procedure,Pleural catheter,topp,medd,1,USES_TOPPusesMEDD
+C1293130,C0013194,USES,Stabilization,Drug Packaging,topp,medd,1,USES_TOPPusesMEDD
+C1293130,C0042497,USES,Stabilization,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C1293130,C0079321,USES,Stabilization,External Fixation Devices,topp,medd,1,USES_TOPPusesMEDD
+C1293130,C0087153,USES,Stabilization,Ventilator - respiratory equipment,topp,medd,1,USES_TOPPusesMEDD
+C1293130,C0178951,USES,Stabilization,Accelerometer,topp,medd,1,USES_TOPPusesMEDD
+C1293130,C0178987,USES,Stabilization,Artificial Airways,topp,medd,2,USES_TOPPusesMEDD
+C1293130,C0179574,USES,Stabilization,Nasal Cannula,topp,medd,1,USES_TOPPusesMEDD
+C1293130,C0972395,USES,Stabilization,Automatic Implantable Cardioverter-Defibrillators,topp,medd,1,USES_TOPPusesMEDD
+C1293130,C1314650,USES,Stabilization,"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,1,USES_TOPPusesMEDD
+C1293130,C1706912,USES,Stabilization,BARRIER,topp,medd,6,USES_TOPPusesMEDD
+C1293132,C0181687,USES,Anchoring procedure,loops,topp,medd,1,USES_TOPPusesMEDD
+C1293132,C0181691,USES,Anchoring procedure,vascular loops,topp,medd,1,USES_TOPPusesMEDD
+C1293132,C0182400,USES,Anchoring procedure,Probes,topp,medd,1,USES_TOPPusesMEDD
+C1293132,C0301559,USES,Anchoring procedure,Screw,topp,medd,2,USES_TOPPusesMEDD
+C1293397,C0184252,USES,Aorta closure,Medical Valves,topp,medd,2,USES_TOPPusesMEDD
+C1293441,C3504161,USES,Vein closure,Vascular Closure Devices,topp,medd,1,USES_TOPPusesMEDD
+C1298802,C0178987,USES,Emergency procedure,Artificial Airways,topp,medd,5,USES_TOPPusesMEDD
+C1301699,C0005978,USES,Retrograde intubation,Bone Wires,topp,medd,1,USES_TOPPusesMEDD
+C1301699,C0181089,USES,Retrograde intubation,"Catheter guide wire, device",topp,medd,1,USES_TOPPusesMEDD
+C1301740,C1301881,USES,Analgesia in labor,Anesthesia equipment,topp,medd,1,USES_TOPPusesMEDD
+C1443861,C0009653,USES,Post-Exposure Prophylaxis,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C1443867,C0024861,USES,Standard precautions,Masks,topp,medd,1,USES_TOPPusesMEDD
+C1443867,C0042497,USES,Standard precautions,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C1443867,C1706912,USES,Standard precautions,BARRIER,topp,medd,4,USES_TOPPusesMEDD
+C1443869,C0024861,USES,Airborne precautions,Masks,topp,medd,3,USES_TOPPusesMEDD
+C1443869,C0042497,USES,Airborne precautions,Mechanical Ventilator,topp,medd,4,USES_TOPPusesMEDD
+C1443869,C0181758,USES,Airborne precautions,Surgical face mask,topp,medd,1,USES_TOPPusesMEDD
+C1443870,C0024861,USES,Respiratory secretion precautions,Masks,topp,medd,2,USES_TOPPusesMEDD
+C1443870,C0042497,USES,Respiratory secretion precautions,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C1443870,C0087153,USES,Respiratory secretion precautions,Ventilator - respiratory equipment,topp,medd,1,USES_TOPPusesMEDD
+C1443870,C0181758,USES,Respiratory secretion precautions,Surgical face mask,topp,medd,2,USES_TOPPusesMEDD
+C1443870,C3495449,USES,Respiratory secretion precautions,Mobility aid,topp,medd,1,USES_TOPPusesMEDD
+C1455871,C0024861,USES,Non-invasive positive pressure (NIPPV),Masks,topp,medd,2,USES_TOPPusesMEDD
+C1455871,C3481456,USES,Non-invasive positive pressure (NIPPV),Positive airway pressure device,topp,medd,1,USES_TOPPusesMEDD
+C1456647,C0039142,USES,Childhood Immunization,Syringes,topp,medd,1,USES_TOPPusesMEDD
+C1456647,C0180799,USES,Childhood Immunization,explorers,topp,medd,1,USES_TOPPusesMEDD
+C1510425,C0009653,USES,Anti-HIV Therapy,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C1510425,C0085104,USES,Anti-HIV Therapy,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C1511496,C0009653,USES,Continuous Chemotherapeutic Hyperthermic Peritoneal Perfusion,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0005971,USES,Detection,Bone plates,topp,medd,6,USES_TOPPusesMEDD
+C1511790,C0005978,USES,Detection,Bone Wires,topp,medd,2,USES_TOPPusesMEDD
+C1511790,C0013194,USES,Detection,Drug Packaging,topp,medd,3,USES_TOPPusesMEDD
+C1511790,C0015421,USES,Detection,Eyeglasses,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0017004,USES,Detection,Gamma Cameras,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0021102,USES,Detection,Implants,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0024861,USES,Detection,Masks,topp,medd,21,USES_TOPPusesMEDD
+C1511790,C0026032,USES,Detection,Microspheres,topp,medd,15,USES_TOPPusesMEDD
+C1511790,C0040661,USES,Detection,Transducers,topp,medd,11,USES_TOPPusesMEDD
+C1511790,C0042497,USES,Detection,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0043016,USES,Detection,Walkers,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0085104,USES,Detection,Drug Delivery Systems,topp,medd,48,USES_TOPPusesMEDD
+C1511790,C0162589,USES,Detection,Implantable defibrillator,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0175648,USES,Detection,Mats,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0175722,USES,Detection,Clip,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0175723,USES,Detection,Bands,topp,medd,6,USES_TOPPusesMEDD
+C1511790,C0175730,USES,Detection,biomedical tube device,topp,medd,2,USES_TOPPusesMEDD
+C1511790,C0178951,USES,Detection,Accelerometer,topp,medd,3,USES_TOPPusesMEDD
+C1511790,C0178987,USES,Detection,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0179245,USES,Detection,Water Bath,topp,medd,3,USES_TOPPusesMEDD
+C1511790,C0179302,USES,Detection,"Binder, device",topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0179630,USES,Detection,Cartridge device,topp,medd,4,USES_TOPPusesMEDD
+C1511790,C0179834,USES,Detection,Centrifuges (device),topp,medd,2,USES_TOPPusesMEDD
+C1511790,C0179891,USES,Detection,"Analyzers, Laboratory, Immunoassay, Chemiluminescent",topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0180279,USES,Detection,Flow Cytometer,topp,medd,5,USES_TOPPusesMEDD
+C1511790,C0180694,USES,Detection,Bovie,topp,medd,5,USES_TOPPusesMEDD
+C1511790,C0180917,USES,Detection,Fluorescence immunoassay analyzer,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0180979,USES,Detection,Frame (physical object),topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0181200,USES,Detection,homogenizers,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0181839,USES,Detection,Microscopes,topp,medd,7,USES_TOPPusesMEDD
+C1511790,C0181845,USES,Detection,Electron microscope,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0181904,USES,Detection,Monitor Device,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0182158,USES,Detection,Pads,topp,medd,12,USES_TOPPusesMEDD
+C1511790,C0182256,USES,Detection,Light meter,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0182258,USES,Detection,Microplate Reader,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0182362,USES,Detection,Skin Prep Kits,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0182400,USES,Detection,Probes,topp,medd,261,USES_TOPPusesMEDD
+C1511790,C0182555,USES,Detection,Punch,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0183115,USES,Detection,Scanning Systems,topp,medd,6,USES_TOPPusesMEDD
+C1511790,C0183210,USES,Detection,sensor (device),topp,medd,66,USES_TOPPusesMEDD
+C1511790,C0183309,USES,Detection,Simulators,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0183396,USES,Detection,Mass Spectrometers (device),topp,medd,8,USES_TOPPusesMEDD
+C1511790,C0183400,USES,Detection,Spectrophotometer,topp,medd,2,USES_TOPPusesMEDD
+C1511790,C0183479,USES,Detection,Spreader,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0183884,USES,Detection,Test tube,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0184047,USES,Detection,Trap medical device,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0184066,USES,Detection,Microplate,topp,medd,6,USES_TOPPusesMEDD
+C1511790,C0184301,USES,Detection,Vial device,topp,medd,3,USES_TOPPusesMEDD
+C1511790,C0392254,USES,Detection,"Lasers, Semiconductor",topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0441086,USES,Detection,Doppler probe,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0441087,USES,Detection,Double probe,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0450152,USES,Detection,Metal framework,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0472226,USES,Detection,Blood glucose meters (medical device),topp,medd,3,USES_TOPPusesMEDD
+C1511790,C0492226,USES,Detection,"SCANNER, FLUORESCENT",topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0581406,USES,Detection,Optical filter,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0728475,USES,Detection,ultra,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0728990,USES,Detection,Clinical Use Template,topp,medd,8,USES_TOPPusesMEDD
+C1511790,C0788300,USES,Detection,Protein Test device,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0810635,USES,Detection,spinal cord stimulators,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C0872077,USES,Detection,portable biomedical equipment,topp,medd,5,USES_TOPPusesMEDD
+C1511790,C0879017,USES,Detection,examination stools,topp,medd,2,USES_TOPPusesMEDD
+C1511790,C0879240,USES,Detection,Nasal Swabs,topp,medd,15,USES_TOPPusesMEDD
+C1511790,C1139930,USES,Detection,Device Plate,topp,medd,6,USES_TOPPusesMEDD
+C1511790,C1261188,USES,Detection,Swab,topp,medd,5,USES_TOPPusesMEDD
+C1511790,C1272835,USES,Detection,Test kit,topp,medd,4,USES_TOPPusesMEDD
+C1511790,C1273532,USES,Detection,Diagnostic device,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C1321564,USES,Detection,strip medical device,topp,medd,2,USES_TOPPusesMEDD
+C1511790,C1328924,USES,Detection,magnetic beads,topp,medd,11,USES_TOPPusesMEDD
+C1511790,C1548723,USES,Detection,Aerobic blood culture bottle,topp,medd,2,USES_TOPPusesMEDD
+C1511790,C1553637,USES,Detection,Maxillary right first premolar abutment,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C1611676,USES,Detection,Thermal Cycler,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C1626420,USES,Detection,Confocal microscope,topp,medd,4,USES_TOPPusesMEDD
+C1511790,C1654608,USES,Detection,biosensor device,topp,medd,3,USES_TOPPusesMEDD
+C1511790,C1706912,USES,Detection,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C1875499,USES,Detection,MICROCHAMBER,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C1995447,USES,Detection,"ORAL,SWAB",topp,medd,3,USES_TOPPusesMEDD
+C1511790,C2700619,USES,Detection,Test Strip (device),topp,medd,3,USES_TOPPusesMEDD
+C1511790,C3495449,USES,Detection,Mobility aid,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C3540005,USES,Detection,URINE TEST DRUGS,topp,medd,1,USES_TOPPusesMEDD
+C1511790,C4744970,USES,Detection,Microneedle Drug Delivery System,topp,medd,1,USES_TOPPusesMEDD
+C1512034,C0009653,USES,Donor Lymphocyte Infusion,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C1512335,C0376432,USES,Harvest Procedure,Bioreactors,topp,medd,4,USES_TOPPusesMEDD
+C1512335,C3879234,USES,Harvest Procedure,Liquid scintillation counter,topp,medd,1,USES_TOPPusesMEDD
+C1521745,C0179931,USES,Conventional Surgery,Aorta clamp,topp,medd,1,USES_TOPPusesMEDD
+C1522449,C0023730,USES,Therapeutic radiology procedure,"Radiotherapy Systems, Linear Accelerator",topp,medd,1,USES_TOPPusesMEDD
+C1522449,C0181645,USES,Therapeutic radiology procedure,"LAMP, INFRARED",topp,medd,2,USES_TOPPusesMEDD
+C1522449,C0392251,USES,Therapeutic radiology procedure,Carbon Dioxide Lasers,topp,medd,1,USES_TOPPusesMEDD
+C1527075,C0085104,USES,Revision procedure,Drug Delivery Systems,topp,medd,2,USES_TOPPusesMEDD
+C1527077,C0725865,USES,Peripheral Electronic Nerve Stimulation,disposable,topp,medd,3,USES_TOPPusesMEDD
+C1527077,C1272835,USES,Peripheral Electronic Nerve Stimulation,Test kit,topp,medd,1,USES_TOPPusesMEDD
+C1527077,C1706912,USES,Peripheral Electronic Nerve Stimulation,BARRIER,topp,medd,1,USES_TOPPusesMEDD
+C1531698,C0085104,USES,Active monitoring,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C1532338,C1322815,USES,Percutaneous Coronary Intervention,Drug-Eluting Stents,topp,medd,1,USES_TOPPusesMEDD
+C1532786,C0009653,USES,Rotavirus vaccination,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C1562720,C0009836,USES,Laser procedure,Contact Lenses,topp,medd,1,USES_TOPPusesMEDD
+C1562720,C0024861,USES,Laser procedure,Masks,topp,medd,1,USES_TOPPusesMEDD
+C1562720,C0182400,USES,Laser procedure,Probes,topp,medd,1,USES_TOPPusesMEDD
+C1563738,C0085104,USES,Oncolytic Virotherapy,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C1563738,C0178959,USES,Oncolytic Virotherapy,ADAPTER,topp,medd,1,USES_TOPPusesMEDD
+C1571809,C0085104,USES,Visceral manipulation,Drug Delivery Systems,topp,medd,2,USES_TOPPusesMEDD
+C1611149,C0024861,USES,Biphasic Positive Airway Pressure,Masks,topp,medd,1,USES_TOPPusesMEDD
+C1611149,C0180249,USES,Biphasic Positive Airway Pressure,Cushion,topp,medd,1,USES_TOPPusesMEDD
+C1611149,C2711254,USES,Biphasic Positive Airway Pressure,Nasal mask,topp,medd,1,USES_TOPPusesMEDD
+C1659427,C0024861,USES,nebulization-mediated drug administration,Masks,topp,medd,1,USES_TOPPusesMEDD
+C1659427,C0027524,USES,nebulization-mediated drug administration,Nebulizers,topp,medd,4,USES_TOPPusesMEDD
+C1659427,C0181946,USES,nebulization-mediated drug administration,"Nebulizer, ultrasonic, large volume",topp,medd,1,USES_TOPPusesMEDD
+C1659427,C0221872,USES,nebulization-mediated drug administration,Sizer,topp,medd,1,USES_TOPPusesMEDD
+C1659427,C4699394,USES,nebulization-mediated drug administration,Pneumatic,topp,medd,1,USES_TOPPusesMEDD
+C1704535,C0009653,USES,Passive Method,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C1704536,C0031246,USES,Direct Method,Pessaries,topp,medd,1,USES_TOPPusesMEDD
+C1704536,C0178987,USES,Direct Method,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C1704536,C0182400,USES,Direct Method,Probes,topp,medd,2,USES_TOPPusesMEDD
+C1707304,C0181115,USES,Caries Removal,Handpiece,topp,medd,1,USES_TOPPusesMEDD
+C1827140,C0042497,USES,Bronchoscopic procedure,Mechanical Ventilator,topp,medd,1,USES_TOPPusesMEDD
+C1868801,C0009653,USES,Hyperthermic Intraperitoneal Chemotherapy,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C1868981,C0336630,USES,Invasive mechanical ventilation NOS,Endotracheal tube,topp,medd,2,USES_TOPPusesMEDD
+C1955637,C0181278,USES,Intra-operative neurophysiologic monitoring,Halo brace,topp,medd,1,USES_TOPPusesMEDD
+C1956064,C0162645,USES,Deep Sedation,Laryngeal Masks,topp,medd,1,USES_TOPPusesMEDD
+C1956078,C0009653,USES,Negative-Pressure Wound Therapy,"Condoms, Male",topp,medd,9,USES_TOPPusesMEDD
+C1960499,C0178987,USES,Clearance of secretions of respiratory tract,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C1963578,C0184252,USES,Release (procedure),Medical Valves,topp,medd,1,USES_TOPPusesMEDD
+C1963758,C0178987,USES,Immunomodulation,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C1964018,C0038257,USES,Vascular Grafting (surgical procedure),"Stent, device",topp,medd,8,USES_TOPPusesMEDD
+C1997883,C0024861,USES,Noninvasive Ventilation,Masks,topp,medd,12,USES_TOPPusesMEDD
+C1997883,C0178987,USES,Noninvasive Ventilation,Artificial Airways,topp,medd,3,USES_TOPPusesMEDD
+C1997883,C0179574,USES,Noninvasive Ventilation,Nasal Cannula,topp,medd,2,USES_TOPPusesMEDD
+C1997883,C0183309,USES,Noninvasive Ventilation,Simulators,topp,medd,1,USES_TOPPusesMEDD
+C1997883,C0221812,USES,Noninvasive Ventilation,Ambu bag,topp,medd,1,USES_TOPPusesMEDD
+C1997883,C1998195,USES,Noninvasive Ventilation,Venturi mask,topp,medd,2,USES_TOPPusesMEDD
+C1997883,C2711254,USES,Noninvasive Ventilation,Nasal mask,topp,medd,1,USES_TOPPusesMEDD
+C1997883,C4076036,USES,Noninvasive Ventilation,Supraglottic airway,topp,medd,1,USES_TOPPusesMEDD
+C2242628,C0181020,USES,Fecal Microbiota Transplantation,Gastroscopes,topp,medd,1,USES_TOPPusesMEDD
+C2314985,C0181264,USES,Active external cooling of subject,Ice Bags,topp,medd,1,USES_TOPPusesMEDD
+C2348331,C0009653,USES,Dose Regimen,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C2349751,C0024861,USES,Invasive positive pressure ventilation,Masks,topp,medd,1,USES_TOPPusesMEDD
+C2350432,C1140627,USES,Vagus Nerve Stimulation,pulse generators,topp,medd,2,USES_TOPPusesMEDD
+C2368628,C0441247,USES,Vaccine Administration,Conduit implant,topp,medd,1,USES_TOPPusesMEDD
+C2711836,C0184252,USES,Percutaneous replacement of aortic valve using fluoroscopic guidance,Medical Valves,topp,medd,1,USES_TOPPusesMEDD
+C2827774,C0009653,USES,Current Therapy,"Condoms, Male",topp,medd,2,USES_TOPPusesMEDD
+C2827950,C0009653,USES,Previous and Current Therapy,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C2930473,C1283123,USES,Balloon Tamponade,Sengstaken-Blakemore tube,topp,medd,1,USES_TOPPusesMEDD
+C2936302,C0182537,USES,"Infusions, Intracerebroventricular",pump (device),topp,medd,1,USES_TOPPusesMEDD
+C2984589,C0181839,USES,Transoral Laser Microsurgery,Microscopes,topp,medd,2,USES_TOPPusesMEDD
+C2984589,C0549181,USES,Transoral Laser Microsurgery,Loupes,topp,medd,2,USES_TOPPusesMEDD
+C2987620,C0182557,USES,Inoculation,"Punches, Biopsy (device)",topp,medd,1,USES_TOPPusesMEDD
+C2987620,C0392220,USES,Inoculation,scalpel,topp,medd,1,USES_TOPPusesMEDD
+C2987620,C1261188,USES,Inoculation,Swab,topp,medd,1,USES_TOPPusesMEDD
+C3164216,C3164607,USES,Modified rapid sequence induction,Videolaryngoscope,topp,medd,1,USES_TOPPusesMEDD
+C3164735,C0024861,USES,Noninvasive positive pressure ventilation,Masks,topp,medd,3,USES_TOPPusesMEDD
+C3164735,C0178987,USES,Noninvasive positive pressure ventilation,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C3177188,C0009653,USES,Early Therapy,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C3266910,C0183309,USES,Dermatologic Surgical Procedures,Simulators,topp,medd,1,USES_TOPPusesMEDD
+C3272255,C0030067,USES,Right Cardiac Ventricle Assist Device Procedure,Oxygenators,topp,medd,1,USES_TOPPusesMEDD
+C3272275,C0178987,USES,Urgent Procedure,Artificial Airways,topp,medd,3,USES_TOPPusesMEDD
+C3469597,C0027524,USES,Administration of medication,Nebulizers,topp,medd,1,USES_TOPPusesMEDD
+C3483167,C0005971,USES,Dialysis method,Bone plates,topp,medd,1,USES_TOPPusesMEDD
+C3483167,C0184165,USES,Dialysis method,Tubing,topp,medd,2,USES_TOPPusesMEDD
+C3494225,C0582124,USES,Neuromuscular Monitoring,"Neurostimulator, device (physical object)",topp,medd,1,USES_TOPPusesMEDD
+C3540512,C0181839,USES,Circumferential Supracrestal Fiberotomy,Microscopes,topp,medd,2,USES_TOPPusesMEDD
+C3540512,C0182301,USES,Circumferential Supracrestal Fiberotomy,Pipette (physical object),topp,medd,1,USES_TOPPusesMEDD
+C3540512,C0182400,USES,Circumferential Supracrestal Fiberotomy,Probes,topp,medd,1,USES_TOPPusesMEDD
+C3540512,C0184108,USES,Circumferential Supracrestal Fiberotomy,"TUBE, COLLECTION, CAPILLARY BLOOD",topp,medd,1,USES_TOPPusesMEDD
+C3540512,C0184348,USES,Circumferential Supracrestal Fiberotomy,"Warmer, device",topp,medd,1,USES_TOPPusesMEDD
+C3640033,C0179407,USES,Debond Procedure,brackets,topp,medd,2,USES_TOPPusesMEDD
+C3640033,C0441421,USES,Debond Procedure,Fixed orthodontic appliance,topp,medd,1,USES_TOPPusesMEDD
+C3640033,C0700351,USES,Debond Procedure,Burs - medical device,topp,medd,1,USES_TOPPusesMEDD
+C3658308,C1145640,USES,Patient Care Bundles,"Central venous catheter, device",topp,medd,1,USES_TOPPusesMEDD
+C3662357,C0183336,USES,Revision gastrectomy,Sleeve,topp,medd,1,USES_TOPPusesMEDD
+C3665674,C0024861,USES,Warburg Therapy,Masks,topp,medd,13,USES_TOPPusesMEDD
+C3665674,C0175730,USES,Warburg Therapy,biomedical tube device,topp,medd,1,USES_TOPPusesMEDD
+C3665674,C0179574,USES,Warburg Therapy,Nasal Cannula,topp,medd,74,USES_TOPPusesMEDD
+C3665674,C0181744,USES,Warburg Therapy,Oxygen mask,topp,medd,1,USES_TOPPusesMEDD
+C3665674,C0445087,USES,Warburg Therapy,Nasal prongs,topp,medd,3,USES_TOPPusesMEDD
+C3665674,C0879179,USES,Warburg Therapy,Nasal catheter,topp,medd,4,USES_TOPPusesMEDD
+C3665674,C1314650,USES,Warburg Therapy,"SUPPLY, NOT OTHERWISE SPECIFIED",topp,medd,3,USES_TOPPusesMEDD
+C3665674,C1998195,USES,Warburg Therapy,Venturi mask,topp,medd,2,USES_TOPPusesMEDD
+C3714568,C0024861,USES,Aerosol therapy,Masks,topp,medd,1,USES_TOPPusesMEDD
+C3714568,C0993596,USES,Aerosol therapy,Metered Dose Inhaler,topp,medd,1,USES_TOPPusesMEDD
+C3825792,C0178987,USES,Pressure breathing,Artificial Airways,topp,medd,1,USES_TOPPusesMEDD
+C3825792,C0183683,USES,Pressure breathing,"Support, device",topp,medd,1,USES_TOPPusesMEDD
+C3828439,C0024861,USES,Pulmonary Hygiene,Masks,topp,medd,1,USES_TOPPusesMEDD
+C3843422,C0009653,USES,Abstinence,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C3850098,C0009653,USES,Pre-Exposure Prophylaxis,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C4054111,C3879882,USES,Red Blood Cell Exchange and Depletion Procedure,Apheresis system,topp,medd,1,USES_TOPPusesMEDD
+C4087167,C4086635,USES,Tumour treating fields therapy,NovoTTF-100A Device,topp,medd,1,USES_TOPPusesMEDD
+C4520447,C0879140,USES,Decolonization,Towelettes,topp,medd,1,USES_TOPPusesMEDD
+C4554488,C0021102,USES,Retrieval - procedure,Implants,topp,medd,1,USES_TOPPusesMEDD
+C4554488,C0038257,USES,Retrieval - procedure,"Stent, device",topp,medd,1,USES_TOPPusesMEDD
+C4554488,C0038928,USES,Retrieval - procedure,Surgical Instruments,topp,medd,1,USES_TOPPusesMEDD
+C4554488,C0085104,USES,Retrieval - procedure,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C4554488,C0180806,USES,Retrieval - procedure,Extractors,topp,medd,1,USES_TOPPusesMEDD
+C4554488,C0492253,USES,Retrieval - procedure,PH BUFFER,topp,medd,1,USES_TOPPusesMEDD
+C4554488,C0728475,USES,Retrieval - procedure,ultra,topp,medd,1,USES_TOPPusesMEDD
+C4554488,C1261188,USES,Retrieval - procedure,Swab,topp,medd,1,USES_TOPPusesMEDD
+C4554488,C2609570,USES,Retrieval - procedure,ORGANIZER,topp,medd,1,USES_TOPPusesMEDD
+C4554488,C3495449,USES,Retrieval - procedure,Mobility aid,topp,medd,1,USES_TOPPusesMEDD
+C4699741,C0181620,USES,Balance training,Hoist device,topp,medd,1,USES_TOPPusesMEDD
+C4704697,C0180748,USES,Endurance Training,ergometers,topp,medd,1,USES_TOPPusesMEDD
+C4704836,C0009653,USES,Medical Countermeasures,"Condoms, Male",topp,medd,1,USES_TOPPusesMEDD
+C4723833,C0336630,USES,vertebral augmentation procedure,Endotracheal tube,topp,medd,1,USES_TOPPusesMEDD
+C5197696,C0878969,USES,Intermittent Renal Replacement Therapy,tunneled catheters,topp,medd,1,USES_TOPPusesMEDD
+C5200706,C0179574,USES,Rapid Sequence Intubation,Nasal Cannula,topp,medd,1,USES_TOPPusesMEDD
+C5200706,C3164607,USES,Rapid Sequence Intubation,Videolaryngoscope,topp,medd,1,USES_TOPPusesMEDD
+C5202572,C0013194,USES,Interval Debulking Surgery,Drug Packaging,topp,medd,1,USES_TOPPusesMEDD
+C5202572,C0085104,USES,Interval Debulking Surgery,Drug Delivery Systems,topp,medd,1,USES_TOPPusesMEDD
+C5202572,C0182400,USES,Interval Debulking Surgery,Probes,topp,medd,2,USES_TOPPusesMEDD
+C5202572,C0183309,USES,Interval Debulking Surgery,Simulators,topp,medd,1,USES_TOPPusesMEDD

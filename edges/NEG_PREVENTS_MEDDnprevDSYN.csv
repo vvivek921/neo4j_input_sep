@@ -1,0 +1,17 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0024861,C0009443,NEG_PREVENTS,Masks,Common Cold,medd,dsyn,1,NEG_PREVENTS_MEDDnprevDSYN
+C0024861,C0009450,NEG_PREVENTS,Masks,Communicable Diseases,medd,dsyn,1,NEG_PREVENTS_MEDDnprevDSYN
+C0024861,C0021400,NEG_PREVENTS,Masks,Influenza,medd,dsyn,2,NEG_PREVENTS_MEDDnprevDSYN
+C0024861,C0035243,NEG_PREVENTS,Masks,Respiratory Tract Infections,medd,dsyn,1,NEG_PREVENTS_MEDDnprevDSYN
+C0024861,C0042769,NEG_PREVENTS,Masks,Virus Diseases,medd,dsyn,3,NEG_PREVENTS_MEDDnprevDSYN
+C0024861,C5203670,NEG_PREVENTS,Masks,COVID-19,medd,dsyn,3,NEG_PREVENTS_MEDDnprevDSYN
+C0042497,C0032064,NEG_PREVENTS,Mechanical Ventilator,Plague,medd,dsyn,1,NEG_PREVENTS_MEDDnprevDSYN
+C0042497,C0042769,NEG_PREVENTS,Mechanical Ventilator,Virus Diseases,medd,dsyn,2,NEG_PREVENTS_MEDDnprevDSYN
+C0085104,C0205721,NEG_PREVENTS,Drug Delivery Systems,"Infections, Hospital",medd,dsyn,1,NEG_PREVENTS_MEDDnprevDSYN
+C0180883,C0021400,NEG_PREVENTS,Fittings/Adapters (device),Influenza,medd,dsyn,1,NEG_PREVENTS_MEDDnprevDSYN
+C0181064,C0010356,NEG_PREVENTS,Gown,Cross Infection,medd,dsyn,1,NEG_PREVENTS_MEDDnprevDSYN
+C0181064,C1175175,NEG_PREVENTS,Gown,Severe Acute Respiratory Syndrome,medd,dsyn,1,NEG_PREVENTS_MEDDnprevDSYN
+C0181758,C0010356,NEG_PREVENTS,Surgical face mask,Cross Infection,medd,dsyn,1,NEG_PREVENTS_MEDDnprevDSYN
+C0181758,C0021400,NEG_PREVENTS,Surgical face mask,Influenza,medd,dsyn,1,NEG_PREVENTS_MEDDnprevDSYN
+C0181758,C5203670,NEG_PREVENTS,Surgical face mask,COVID-19,medd,dsyn,1,NEG_PREVENTS_MEDDnprevDSYN
+C1706912,C1096155,NEG_PREVENTS,BARRIER,Macrophage Activation Syndrome,medd,dsyn,1,NEG_PREVENTS_MEDDnprevDSYN

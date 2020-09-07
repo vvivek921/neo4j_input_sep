@@ -1,0 +1,971 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001560,C0004623,AFFECTS,"Administration, Intranasal",Bacterial Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0001560,C0032269,AFFECTS,"Administration, Intranasal",Pneumococcal Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0001560,C0442886,AFFECTS,"Administration, Intranasal",Secondary Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0001560,C0851901,AFFECTS,"Administration, Intranasal",Rhinovirus infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0001563,C0026636,AFFECTS,"Administration, Oral",Mouth Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0001563,C0036310,AFFECTS,"Administration, Oral",Scheuermann's Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0001563,C2076600,AFFECTS,"Administration, Oral",Influenza due to Influenza A virus subtype H1N1,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0001566,C0021400,AFFECTS,"Administration, Topical",Influenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0001701,C0524851,AFFECTS,"Exercise, Aerobic",Neurodegenerative Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0002766,C0011847,AFFECTS,Pain management,Diabetes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0002903,C0042769,AFFECTS,Anesthesia procedures,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0002903,C5203670,AFFECTS,Anesthesia procedures,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0003281,C0005779,AFFECTS,Anticoagulation Therapy,Blood Coagulation Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0003393,C0746883,AFFECTS,Antineoplastic Combined Chemotherapy Protocols,Febrile Neutropenia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0003611,C0243001,AFFECTS,Appendectomy,Abdominal Abscess,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0004933,C0023530,AFFECTS,Behavior Therapy,Leukopenia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0004933,C0270724,AFFECTS,Behavior Therapy,Infantile Neuroaxonal Dystrophy,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005794,C0019196,AFFECTS,Blood Donation,Hepatitis C,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005841,C0001175,AFFECTS,Blood Transfusion,Acquired Immunodeficiency Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005841,C0002871,AFFECTS,Blood Transfusion,Anemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005841,C0004610,AFFECTS,Blood Transfusion,Bacteremia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005841,C0009450,AFFECTS,Blood Transfusion,Communicable Diseases,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0005841,C0019196,AFFECTS,Blood Transfusion,Hepatitis C,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005841,C0042769,AFFECTS,Blood Transfusion,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005841,C0267797,AFFECTS,Blood Transfusion,Acute hepatitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005841,C0282193,AFFECTS,Blood Transfusion,Iron Overload,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005841,C0376329,AFFECTS,Blood Transfusion,New Variant Creutzfeldt-Jakob Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005841,C0948201,AFFECTS,Blood Transfusion,Alloimmunization,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005961,C0004030,AFFECTS,Bone Marrow Transplantation,Aspergillosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005961,C0004610,AFFECTS,Bone Marrow Transplantation,Bacteremia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005961,C0006272,AFFECTS,Bone Marrow Transplantation,Bronchiolitis Obliterans,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005961,C0035222,AFFECTS,Bone Marrow Transplantation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005961,C0276500,AFFECTS,Bone Marrow Transplantation,Human immunodeficiency virus I infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005961,C0940933,AFFECTS,Bone Marrow Transplantation,infection as a complication,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0005961,C4476767,AFFECTS,Bone Marrow Transplantation,Diffuse alveolar hemorrhage,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0007202,C5203670,AFFECTS,Cardiopulmonary Bypass,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0007344,C0001621,AFFECTS,Castration,Adrenal Gland Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0007430,C0205721,AFFECTS,Catheterization,"Infections, Hospital",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0007435,C0004610,AFFECTS,"Catheterization, Central Venous",Bacteremia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0007876,C0013927,AFFECTS,Cesarean section,"Embolism, Amniotic Fluid",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0008819,C0019693,AFFECTS,Male Circumcision,HIV Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0009429,C0004096,AFFECTS,Combined Modality Therapy,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0009429,C0948268,AFFECTS,Combined Modality Therapy,Hemodynamic instability,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0009429,C5139167,AFFECTS,Combined Modality Therapy,Severe infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0009813,C0004096,AFFECTS,Constriction procedure,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0009813,C0010054,AFFECTS,Constriction procedure,Coronary Arteriosclerosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0009813,C1175175,AFFECTS,Constriction procedure,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0009813,C3694279,AFFECTS,Constriction procedure,Middle East Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0010280,C5203670,AFFECTS,Craniotomy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0011079,C0019348,AFFECTS,Debridement,Herpes Simplex Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0011331,C0004610,AFFECTS,Dental Procedures,Bacteremia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0011331,C0029118,AFFECTS,Dental Procedures,Opportunistic Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0011331,C0151317,AFFECTS,Dental Procedures,Chronic infectious disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0011331,C5203670,AFFECTS,Dental Procedures,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0011946,C0267797,AFFECTS,Dialysis procedure,Acute hepatitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0011946,C5203670,AFFECTS,Dialysis procedure,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0012683,C0205721,AFFECTS,Disinfection,"Infections, Hospital",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0012683,C5203670,AFFECTS,Disinfection,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0013216,C0004096,AFFECTS,Pharmacotherapy,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013216,C0009450,AFFECTS,Pharmacotherapy,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013216,C0018802,AFFECTS,Pharmacotherapy,Congestive heart failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013216,C0024117,AFFECTS,Pharmacotherapy,Chronic Obstructive Airway Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013216,C0029342,AFFECTS,Pharmacotherapy,Orthomyxoviridae Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013216,C0042373,AFFECTS,Pharmacotherapy,Vascular Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013216,C0275518,AFFECTS,Pharmacotherapy,Acute infectious disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013216,C0442874,AFFECTS,Pharmacotherapy,Neuropathy,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013216,C0524910,AFFECTS,Pharmacotherapy,"Hepatitis C, Chronic",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013216,C0948168,AFFECTS,Pharmacotherapy,bone marrow toxicity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013216,C1175175,AFFECTS,Pharmacotherapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013216,C1301700,AFFECTS,Pharmacotherapy,Cardiovascular morbidity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013216,C5203670,AFFECTS,Pharmacotherapy,COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0013806,C0035222,AFFECTS,Electroconvulsive Therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0013806,C0041296,AFFECTS,Electroconvulsive Therapy,Tuberculosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013806,C0042769,AFFECTS,Electroconvulsive Therapy,Virus Diseases,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0013870,C0014038,AFFECTS,Electroconvulsive Shock,Encephalitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0013931,C0035222,AFFECTS,"Embolization, Therapeutic","Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0015252,C0015695,AFFECTS,removal technique,Fatty Liver,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0015252,C0520539,AFFECTS,removal technique,Hypertensive Episode,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0015252,C5203670,AFFECTS,removal technique,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0015357,C0010356,AFFECTS,Extracorporeal Membrane Oxygenation,Cross Infection,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0015357,C0018801,AFFECTS,Extracorporeal Membrane Oxygenation,Heart failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0015357,C0022660,AFFECTS,Extracorporeal Membrane Oxygenation,"Kidney Failure, Acute",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0015357,C0032285,AFFECTS,Extracorporeal Membrane Oxygenation,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0015357,C0035222,AFFECTS,Extracorporeal Membrane Oxygenation,"Respiratory Distress Syndrome, Adult",topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C0015357,C1145670,AFFECTS,Extracorporeal Membrane Oxygenation,Respiratory Failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0015357,C5203670,AFFECTS,Extracorporeal Membrane Oxygenation,COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0016143,C5203670,AFFECTS,First Aid,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0016286,C0003123,AFFECTS,Fluid Therapy,Anorexia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0016286,C0036310,AFFECTS,Fluid Therapy,Scheuermann's Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0016286,C1299888,AFFECTS,Fluid Therapy,Laminitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0004096,AFFECTS,gene therapy,Asthma,topp,dsyn,7,AFFECTS_TOPPafctDSYN
+C0017296,C0009319,AFFECTS,gene therapy,Colitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0009450,AFFECTS,gene therapy,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0010340,AFFECTS,gene therapy,Critical Illness,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0011615,AFFECTS,gene therapy,"Dermatitis, Atopic",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0015934,AFFECTS,gene therapy,Fetal Growth Retardation,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0019247,AFFECTS,gene therapy,Hereditary Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0021400,AFFECTS,gene therapy,Influenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0024117,AFFECTS,gene therapy,Chronic Obstructive Airway Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0028754,AFFECTS,gene therapy,Obesity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0036690,AFFECTS,gene therapy,Septicemia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0017296,C0085580,AFFECTS,gene therapy,Essential Hypertension,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0017296,C0242723,AFFECTS,gene therapy,Parasitemia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0017296,C0263541,AFFECTS,gene therapy,Equine laminitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0277556,AFFECTS,gene therapy,Recurrent disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0341306,AFFECTS,gene therapy,Microvillus inclusion disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0729531,AFFECTS,gene therapy,Viral respiratory infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0854416,AFFECTS,gene therapy,Pulmonary Vascular Disorder,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C0856238,AFFECTS,gene therapy,influenza (epidemic),topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C1175175,AFFECTS,gene therapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C1264606,AFFECTS,gene therapy,Persistent infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0017296,C4505072,AFFECTS,gene therapy,Epileptic Syndromes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0018821,C5203670,AFFECTS,Cardiac Surgery procedures,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0019004,C0023895,AFFECTS,Hemodialysis,Liver diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0019009,C0004135,AFFECTS,therapeutic hemodilution,Ataxia Telangiectasia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0019009,C0005779,AFFECTS,therapeutic hemodilution,Blood Coagulation Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0019328,C0275521,AFFECTS,Herniorrhaphy,Clinical infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0020944,C5203670,AFFECTS,Immobilization,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0020971,C0001314,AFFECTS,Immunization,Acute Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0020971,C0007682,AFFECTS,Immunization,CNS disorder,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0020971,C0014059,AFFECTS,Immunization,"Encephalomyelitis, Acute Disseminated",topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0020971,C0019194,AFFECTS,Immunization,"Hepatitis, Viral, Animal",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0020971,C0026769,AFFECTS,Immunization,Multiple Sclerosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0020971,C0275524,AFFECTS,Immunization,Coinfection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0020971,C0856238,AFFECTS,Immunization,influenza (epidemic),topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0020972,C3694279,AFFECTS,Immunization Schedule,Middle East Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0020974,C0010823,AFFECTS,passive immunization procedure,Cytomegalovirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0020975,C0205721,AFFECTS,Secondary Immunization,"Infections, Hospital",topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0021079,C0004364,AFFECTS,Therapeutic immunosuppression,Autoimmune Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021079,C0009450,AFFECTS,Therapeutic immunosuppression,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021079,C0024312,AFFECTS,Therapeutic immunosuppression,Lymphopenia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021079,C0032285,AFFECTS,Therapeutic immunosuppression,Pneumonia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0021079,C0036690,AFFECTS,Therapeutic immunosuppression,Septicemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021079,C0042769,AFFECTS,Therapeutic immunosuppression,Virus Diseases,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0021079,C0162429,AFFECTS,Therapeutic immunosuppression,Malnutrition,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021079,C0553576,AFFECTS,Therapeutic immunosuppression,Systemic mycosis,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0021079,C0694549,AFFECTS,Therapeutic immunosuppression,Community acquired pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021079,C0948245,AFFECTS,Therapeutic immunosuppression,Cytokine Release Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021079,C1264606,AFFECTS,Therapeutic immunosuppression,Persistent infection,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0021079,C5139167,AFFECTS,Therapeutic immunosuppression,Severe infection,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0021107,C0013570,AFFECTS,Implantation procedure,"Ecthyma, Contagious",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021107,C0020541,AFFECTS,Implantation procedure,Portal Hypertension,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021107,C0042769,AFFECTS,Implantation procedure,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021459,C0003811,AFFECTS,Inhalation Therapy,Cardiac Arrhythmia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021459,C0004096,AFFECTS,Inhalation Therapy,Asthma,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0021485,C0002792,AFFECTS,Injection of therapeutic agent,anaphylaxis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021485,C0009450,AFFECTS,Injection of therapeutic agent,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021485,C0033036,AFFECTS,Injection of therapeutic agent,Atrial Premature Complexes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021485,C5203670,AFFECTS,Injection of therapeutic agent,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0021493,C0376618,AFFECTS,"Injections, Intraperitoneal",Endotoxemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021589,C0008312,AFFECTS,"Insemination, Artificial, Homologous",Primary Biliary Cholangitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021925,C0004096,AFFECTS,Intubation,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021925,C0010356,AFFECTS,Intubation,Cross Infection,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0021925,C0011168,AFFECTS,Intubation,Deglutition Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021925,C0011847,AFFECTS,Intubation,Diabetes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021925,C0028754,AFFECTS,Intubation,Obesity,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0021925,C0028756,AFFECTS,Intubation,Morbid obesity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021925,C0032285,AFFECTS,Intubation,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021925,C1145670,AFFECTS,Intubation,Respiratory Failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021925,C5203670,AFFECTS,Intubation,COVID-19,topp,dsyn,5,AFFECTS_TOPPafctDSYN
+C0021932,C0011168,AFFECTS,"Intubation, Intratracheal",Deglutition Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021932,C0264490,AFFECTS,"Intubation, Intratracheal",Acute respiratory failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0021932,C5203670,AFFECTS,"Intubation, Intratracheal",COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0022100,C0029076,AFFECTS,Irrigation,Ophthalmia Neonatorum,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0022671,C1175175,AFFECTS,Kidney Transplantation,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0022671,C5203670,AFFECTS,Kidney Transplantation,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0023038,C0028754,AFFECTS,Laparotomy,Obesity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0023690,C0035222,AFFECTS,Ligation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0023690,C0276477,AFFECTS,Ligation,Sialodacryoadenitis of rat,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0023911,C0023891,AFFECTS,Transplantation of liver,"Liver Cirrhosis, Alcoholic",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0024128,C0010674,AFFECTS,Lung Transplantation,Cystic Fibrosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0024128,C0035222,AFFECTS,Lung Transplantation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0024128,C0042749,AFFECTS,Lung Transplantation,Viremia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0024128,C4476767,AFFECTS,Lung Transplantation,Diffuse alveolar hemorrhage,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0024203,C5203670,AFFECTS,Lymph node excision,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0026868,C5203670,AFFECTS,Music Therapy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0029216,C0005779,AFFECTS,Organ Transplantation,Blood Coagulation Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0029216,C5203670,AFFECTS,Organ Transplantation,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0030231,C5203670,AFFECTS,Palliative Care,COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0030547,C0020456,AFFECTS,Parenteral Nutrition,Hyperglycemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0030548,C0877445,AFFECTS,"Parenteral Nutrition, Total",Candidemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0032042,C0004096,AFFECTS,Placebos,Asthma,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0032042,C0006267,AFFECTS,Placebos,Bronchiectasis,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0032042,C0009766,AFFECTS,Placebos,Allergic Conjunctivitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0032042,C0031350,AFFECTS,Placebos,Pharyngitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0032042,C0036310,AFFECTS,Placebos,Scheuermann's Disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0032042,C0042029,AFFECTS,Placebos,Urinary tract infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0032042,C0749591,AFFECTS,Placebos,Tonsillopharyngitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0032134,C0022658,AFFECTS,Plasmapheresis,Kidney Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0032740,C0206062,AFFECTS,Positive End-Expiratory Pressure,"Lung Diseases, Interstitial",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0032740,C0235527,AFFECTS,Positive End-Expiratory Pressure,"Heart Failure, Right-Sided",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0033144,C5203670,AFFECTS,Primary Prevention,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0033972,C0004626,AFFECTS,"Psychotherapy, Multiple","Pneumonia, Bacterial",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0033972,C0010278,AFFECTS,"Psychotherapy, Multiple",Craniosynostosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0033972,C0032285,AFFECTS,"Psychotherapy, Multiple",Pneumonia,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0033972,C0032300,AFFECTS,"Psychotherapy, Multiple",Lobar Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0033972,C5203670,AFFECTS,"Psychotherapy, Multiple",COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0034386,C0003850,AFFECTS,Quarantine,Arteriosclerosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0034386,C0009450,AFFECTS,Quarantine,Communicable Diseases,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0034386,C0019159,AFFECTS,Quarantine,Hepatitis A,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0034386,C0019196,AFFECTS,Quarantine,Hepatitis C,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0034386,C0028754,AFFECTS,Quarantine,Obesity,topp,dsyn,5,AFFECTS_TOPPafctDSYN
+C0034386,C0042769,AFFECTS,Quarantine,Virus Diseases,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0034386,C0206750,AFFECTS,Quarantine,Coronavirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0034386,C0231341,AFFECTS,Quarantine,Premature aging syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0034386,C1175175,AFFECTS,Quarantine,Severe Acute Respiratory Syndrome,topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C0034386,C1290009,AFFECTS,Quarantine,Chronic disease of skin,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0034386,C3694279,AFFECTS,Quarantine,Middle East Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0034386,C5203670,AFFECTS,Quarantine,COVID-19,topp,dsyn,11,AFFECTS_TOPPafctDSYN
+C0034533,C3828416,AFFECTS,Radiation Protection,Radiation Damage,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0034997,C0036310,AFFECTS,Rehydration,Scheuermann's Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0035139,C0036690,AFFECTS,Surgical Replantation,Septicemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0035139,C0040034,AFFECTS,Surgical Replantation,Thrombocytopenia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0035139,C3694279,AFFECTS,Surgical Replantation,Middle East Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0035239,C0151317,AFFECTS,Respiratory Therapy,Chronic infectious disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0037995,C0239946,AFFECTS,Splenectomy,"Fibrosis, Liver",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0038288,C5203670,AFFECTS,Sexual sterilization,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040044,C1536220,AFFECTS,Thrombolytic Therapy,ST segment elevation myocardial infarction,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040044,C5203670,AFFECTS,Thrombolytic Therapy,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0040440,C0031099,AFFECTS,Tooth Extraction,Periodontitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040590,C0010340,AFFECTS,Tracheostomy procedure,Critical Illness,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040590,C0010356,AFFECTS,Tracheostomy procedure,Cross Infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040590,C0012557,AFFECTS,Tracheostomy procedure,Laryngeal diphtheria,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040590,C0035222,AFFECTS,Tracheostomy procedure,"Respiratory Distress Syndrome, Adult",topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0040590,C0040583,AFFECTS,Tracheostomy procedure,Tracheal Stenosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040590,C0042769,AFFECTS,Tracheostomy procedure,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040590,C1145670,AFFECTS,Tracheostomy procedure,Respiratory Failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040590,C5203670,AFFECTS,Tracheostomy procedure,COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0040732,C0002871,AFFECTS,Transplantation,Anemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C0009450,AFFECTS,Transplantation,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C0010823,AFFECTS,Transplantation,Cytomegalovirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C0014038,AFFECTS,Transplantation,Encephalitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C0020541,AFFECTS,Transplantation,Portal Hypertension,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C0023895,AFFECTS,Transplantation,Liver diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C0027765,AFFECTS,Transplantation,nervous system disorder,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C0032285,AFFECTS,Transplantation,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C0042029,AFFECTS,Transplantation,Urinary tract infection,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0040732,C0042769,AFFECTS,Transplantation,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C0151317,AFFECTS,Transplantation,Chronic infectious disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C0162557,AFFECTS,Transplantation,"Liver Failure, Acute",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C0867389,AFFECTS,Transplantation,Chronic graft-versus-host disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C0940933,AFFECTS,Transplantation,infection as a complication,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C1394891,AFFECTS,Transplantation,Intrinsic Factor Deficiency,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C1623038,AFFECTS,Transplantation,Cirrhosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C2936328,AFFECTS,Transplantation,Neglected Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040732,C5203670,AFFECTS,Transplantation,COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0040739,C0004623,AFFECTS,"Transplantation, Homologous",Bacterial Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040808,C0004096,AFFECTS,Treatment Protocols,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040808,C0021400,AFFECTS,Treatment Protocols,Influenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040861,C0010340,AFFECTS,Triage,Critical Illness,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040861,C0205721,AFFECTS,Triage,"Infections, Hospital",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0040861,C5203670,AFFECTS,Triage,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0042196,C0001175,AFFECTS,Vaccination,Acquired Immunodeficiency Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0002016,AFFECTS,Vaccination,Aleutian Mink Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0004096,AFFECTS,Vaccination,Asthma,topp,dsyn,5,AFFECTS_TOPPafctDSYN
+C0042196,C0004364,AFFECTS,Vaccination,Autoimmune Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0008679,AFFECTS,Vaccination,Chronic disease,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0042196,C0009450,AFFECTS,Vaccination,Communicable Diseases,topp,dsyn,6,AFFECTS_TOPPafctDSYN
+C0042196,C0011303,AFFECTS,Vaccination,Demyelinating Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0014038,AFFECTS,Vaccination,Encephalitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0014059,AFFECTS,Vaccination,"Encephalomyelitis, Acute Disseminated",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0016627,AFFECTS,Vaccination,Influenza in Birds,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0017160,AFFECTS,Vaccination,Gastroenteritis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0021400,AFFECTS,Vaccination,Influenza,topp,dsyn,9,AFFECTS_TOPPafctDSYN
+C0042196,C0023364,AFFECTS,Vaccination,Leptospirosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0025007,AFFECTS,Vaccination,Measles,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0042196,C0027059,AFFECTS,Vaccination,Myocarditis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0028754,AFFECTS,Vaccination,Obesity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0029882,AFFECTS,Vaccination,Otitis Media,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0042196,C0032300,AFFECTS,Vaccination,Lobar Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0035204,AFFECTS,Vaccination,Respiration Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0035243,AFFECTS,Vaccination,Respiratory Tract Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0035869,AFFECTS,Vaccination,Rotavirus Infections,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0042196,C0036310,AFFECTS,Vaccination,Scheuermann's Disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0042196,C0042749,AFFECTS,Vaccination,Viremia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0042769,AFFECTS,Vaccination,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0043124,AFFECTS,Vaccination,West Nile Fever,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0043395,AFFECTS,Vaccination,Yellow Fever,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0152026,AFFECTS,Vaccination,Retinal Vasculitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0206750,AFFECTS,Vaccination,Coronavirus Infections,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0042196,C0221444,AFFECTS,Vaccination,clinical syndromes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0263940,AFFECTS,Vaccination,Curb,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0042196,C0270724,AFFECTS,Vaccination,Infantile Neuroaxonal Dystrophy,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0275524,AFFECTS,Vaccination,Coinfection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0276289,AFFECTS,Vaccination,Zika Virus Infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0276483,AFFECTS,Vaccination,Infectious bursal disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0277554,AFFECTS,Vaccination,primary disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0277556,AFFECTS,Vaccination,Recurrent disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0854532,AFFECTS,Vaccination,Myopericarditis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C0856238,AFFECTS,Vaccination,influenza (epidemic),topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0042196,C1175175,AFFECTS,Vaccination,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C5197682,AFFECTS,Vaccination,Vaccine-Preventable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042196,C5203670,AFFECTS,Vaccination,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0042200,C0004096,AFFECTS,Influenza vaccination,Asthma,topp,dsyn,5,AFFECTS_TOPPafctDSYN
+C0042200,C0008679,AFFECTS,Influenza vaccination,Chronic disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042200,C0011847,AFFECTS,Influenza vaccination,Diabetes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042200,C0021400,AFFECTS,Influenza vaccination,Influenza,topp,dsyn,6,AFFECTS_TOPPafctDSYN
+C0042200,C0024117,AFFECTS,Influenza vaccination,Chronic Obstructive Airway Disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0042200,C0029883,AFFECTS,Influenza vaccination,Otitis Media with Effusion,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042200,C0030389,AFFECTS,Influenza vaccination,Parainfluenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042200,C0032285,AFFECTS,Influenza vaccination,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042200,C0039483,AFFECTS,Influenza vaccination,Giant Cell Arteritis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042200,C0042769,AFFECTS,Influenza vaccination,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042200,C0741923,AFFECTS,Influenza vaccination,cardiac event,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042200,C1145670,AFFECTS,Influenza vaccination,Respiratory Failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042200,C5203670,AFFECTS,Influenza vaccination,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042201,C0025007,AFFECTS,Measles vaccination,Measles,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0042206,C0031117,AFFECTS,Rubella vaccination,Peripheral Neuropathy,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0043162,C0007785,AFFECTS,Whole-Body Irradiation,Cerebral Infarction,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0043162,C0035436,AFFECTS,Whole-Body Irradiation,Rheumatic Fever,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0056633,C0043124,AFFECTS,cyclophosphamide/prednisone/vincristine protocol,West Nile Fever,topp,dsyn,5,AFFECTS_TOPPafctDSYN
+C0057163,C0010340,AFFECTS,DAV regimen,Critical Illness,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0057163,C0206608,AFFECTS,DAV regimen,Flavivirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0057163,C0206750,AFFECTS,DAV regimen,Coronavirus Infections,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0057163,C1175175,AFFECTS,DAV regimen,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0057163,C5203670,AFFECTS,DAV regimen,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0063264,C0003864,AFFECTS,Cisplatin/Doxorubicin/Ifosfamide protocol,Arthritis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0063264,C0266313,AFFECTS,Cisplatin/Doxorubicin/Ifosfamide protocol,Allanson Pantzar McLeod syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0065764,C0002871,AFFECTS,bleomycin/cisplatin/methotrexate protocol,Anemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0071973,C3694279,AFFECTS,Ifosfamide/Methotrexate/Procarbazine protocol,Middle East Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0072634,C0027059,AFFECTS,bleomycin/cisplatin/vinblastine protocol,Myocarditis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0078140,C0796099,AFFECTS,bleomycin/methotrexate/vincristine protocol,CLEFT LIP/PALATE WITH ABNORMAL THUMBS AND MICROCEPHALY,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0078140,C5203670,AFFECTS,bleomycin/methotrexate/vincristine protocol,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0079613,C0013570,AFFECTS,Adoptive Immunotherapy,"Ecthyma, Contagious",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0079613,C0858318,AFFECTS,Adoptive Immunotherapy,Plasmodium falciparum infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0079613,C5203670,AFFECTS,Adoptive Immunotherapy,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0085430,C0741008,AFFECTS,Blood Component Transfusion,"Anemia, persistent",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0085430,C0948343,AFFECTS,Blood Component Transfusion,Transfusion-Related Acute Lung Injury,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0085533,C0002871,AFFECTS,"Chemotherapy, Adjuvant",Anemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0086153,C0003850,AFFECTS,Dietary Modification,Arteriosclerosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0086153,C1175175,AFFECTS,Dietary Modification,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0086153,C5203670,AFFECTS,Dietary Modification,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0149615,C0018133,AFFECTS,Allogeneic bone marrow transplantation,Graft-vs-Host Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0149783,C0001314,AFFECTS,Steroid therapy,Acute Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0149783,C0002390,AFFECTS,Steroid therapy,Extrinsic allergic alveolitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0149783,C0004096,AFFECTS,Steroid therapy,Asthma,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0149783,C0025309,AFFECTS,Steroid therapy,Meningoencephalitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0149783,C0032310,AFFECTS,Steroid therapy,"Pneumonia, Viral",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0149783,C0035222,AFFECTS,Steroid therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0149783,C0036690,AFFECTS,Steroid therapy,Septicemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0149783,C0242770,AFFECTS,Steroid therapy,Bronchiolitis Obliterans Organizing Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0149783,C0740304,AFFECTS,Steroid therapy,copd exacerbation,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0149783,C0877203,AFFECTS,Steroid therapy,Viral Respiratory Tract Infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0149783,C1175175,AFFECTS,Steroid therapy,Severe Acute Respiratory Syndrome,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0149783,C1290344,AFFECTS,Steroid therapy,Nonspecific interstitial pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0149783,C5203670,AFFECTS,Steroid therapy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0150126,C0270724,AFFECTS,Airway Management,Infantile Neuroaxonal Dystrophy,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0150141,C0010246,AFFECTS,Bathing,Coxsackievirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0150141,C0205721,AFFECTS,Bathing,"Infections, Hospital",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0150172,C5203670,AFFECTS,Cardiopulmonary resuscitation management,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0150232,C1175175,AFFECTS,Family support,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0150413,C0001175,AFFECTS,HIV prevention,Acquired Immunodeficiency Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0150413,C0036916,AFFECTS,HIV prevention,Sexually Transmitted Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0150413,C5203670,AFFECTS,HIV prevention,COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0150638,C0264490,AFFECTS,Preventing injury,Acute respiratory failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0002792,AFFECTS,Transection (procedure),anaphylaxis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0002871,AFFECTS,Transection (procedure),Anemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0004096,AFFECTS,Transection (procedure),Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0005779,AFFECTS,Transection (procedure),Blood Coagulation Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0007222,AFFECTS,Transection (procedure),Cardiovascular Diseases,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0152060,C0011847,AFFECTS,Transection (procedure),Diabetes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0016627,AFFECTS,Transection (procedure),Influenza in Birds,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0152060,C0018794,AFFECTS,Transection (procedure),Heart Block,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0019348,AFFECTS,Transection (procedure),Herpes Simplex Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0021400,AFFECTS,Transection (procedure),Influenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0024115,AFFECTS,Transection (procedure),Lung diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0027765,AFFECTS,Transection (procedure),nervous system disorder,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0028754,AFFECTS,Transection (procedure),Obesity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0033770,AFFECTS,Transection (procedure),Prune Belly Syndrome,topp,dsyn,5,AFFECTS_TOPPafctDSYN
+C0152060,C0035222,AFFECTS,Transection (procedure),"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0042769,AFFECTS,Transection (procedure),Virus Diseases,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0152060,C0264220,AFFECTS,Transection (procedure),Chronic disease of respiratory system,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C0270724,AFFECTS,Transection (procedure),Infantile Neuroaxonal Dystrophy,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0152060,C1096155,AFFECTS,Transection (procedure),Macrophage Activation Syndrome,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0152060,C1175175,AFFECTS,Transection (procedure),Severe Acute Respiratory Syndrome,topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C0152060,C1854664,AFFECTS,Transection (procedure),LETHAL CONGENITAL CONTRACTURE SYNDROME 1,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C2745948,AFFECTS,Transection (procedure),"Hyalinosis, Systemic",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C4082764,AFFECTS,Transection (procedure),Gastrointestinal infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0152060,C5203670,AFFECTS,Transection (procedure),COVID-19,topp,dsyn,20,AFFECTS_TOPPafctDSYN
+C0162563,C0004245,AFFECTS,Cardiac ablation,Atrioventricular Block,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0162563,C0023211,AFFECTS,Cardiac ablation,Left Bundle-Branch Block,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0162577,C0020538,AFFECTS,Angioplasty,Hypertensive disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0184713,C0021400,AFFECTS,Discharge to home,Influenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0184893,C2062441,AFFECTS,Emergency operation,Influenza A,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0184893,C5203670,AFFECTS,Emergency operation,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0184904,C0011603,AFFECTS,Slitting,Dermatitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185003,C0009450,AFFECTS,Reparative closure,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185003,C0282687,AFFECTS,Reparative closure,"Hemorrhagic Fever, Ebola",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185003,C5203670,AFFECTS,Reparative closure,COVID-19,topp,dsyn,6,AFFECTS_TOPPafctDSYN
+C0185026,C0949272,AFFECTS,Plication,IIeocolitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185027,C0001175,AFFECTS,Imbrication (procedure),Acquired Immunodeficiency Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185027,C0004096,AFFECTS,Imbrication (procedure),Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185027,C0007222,AFFECTS,Imbrication (procedure),Cardiovascular Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185027,C0007570,AFFECTS,Imbrication (procedure),Celiac Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185027,C0020459,AFFECTS,Imbrication (procedure),Hyperinsulinism,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185027,C0031117,AFFECTS,Imbrication (procedure),Peripheral Neuropathy,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185027,C0264413,AFFECTS,Imbrication (procedure),Late onset asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185027,C0406525,AFFECTS,Imbrication (procedure),Perforating ulcer of the foot,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185027,C5203670,AFFECTS,Imbrication (procedure),COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185033,C5203670,AFFECTS,Diversion procedure,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185058,C0009450,AFFECTS,Electrodesiccation with curettage,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185071,C0730328,AFFECTS,Argon laser photocoagulation,Central Serous Chorioretinopathy,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185112,C0023530,AFFECTS,Therapeutic Mobilization,Leukopenia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C0003123,AFFECTS,Extraction,Anorexia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C0009187,AFFECTS,Extraction,Coccidiosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C0019693,AFFECTS,Extraction,HIV Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C0033770,AFFECTS,Extraction,Prune Belly Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C0036310,AFFECTS,Extraction,Scheuermann's Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C0036690,AFFECTS,Extraction,Septicemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C0042769,AFFECTS,Extraction,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C0151718,AFFECTS,Extraction,Hypocholesterolemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C0162566,AFFECTS,Extraction,Porphyria Cutanea Tarda,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C0238644,AFFECTS,Extraction,"Anemia, severe",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C0266789,AFFECTS,Extraction,Velamentous insertion of umbilical cord (disorder),topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C2675080,AFFECTS,Extraction,Li-Fraumeni-Like Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0185115,C5203670,AFFECTS,Extraction,COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0186010,C0011168,AFFECTS,Cervical arthrodesis,Deglutition Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0196950,C0872315,AFFECTS,Procedure on eye,"Communicable Diseases, Emerging",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0001175,AFFECTS,Prophylactic treatment,Acquired Immunodeficiency Syndrome,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199176,C0004623,AFFECTS,Prophylactic treatment,Bacterial Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0008679,AFFECTS,Prophylactic treatment,Chronic disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199176,C0009450,AFFECTS,Prophylactic treatment,Communicable Diseases,topp,dsyn,5,AFFECTS_TOPPafctDSYN
+C0199176,C0010278,AFFECTS,Prophylactic treatment,Craniosynostosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0010356,AFFECTS,Prophylactic treatment,Cross Infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0010418,AFFECTS,Prophylactic treatment,Cryptosporidiosis,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199176,C0011156,AFFECTS,Prophylactic treatment,Deficiency Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0011175,AFFECTS,Prophylactic treatment,Dehydration,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0011847,AFFECTS,Prophylactic treatment,Diabetes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0018799,AFFECTS,Prophylactic treatment,Heart Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0021400,AFFECTS,Prophylactic treatment,Influenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0022408,AFFECTS,Prophylactic treatment,Arthropathy,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199176,C0024117,AFFECTS,Prophylactic treatment,Chronic Obstructive Airway Disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199176,C0028754,AFFECTS,Prophylactic treatment,Obesity,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199176,C0032285,AFFECTS,Prophylactic treatment,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0035204,AFFECTS,Prophylactic treatment,Respiration Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0035243,AFFECTS,Prophylactic treatment,Respiratory Tract Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0035869,AFFECTS,Prophylactic treatment,Rotavirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0037278,AFFECTS,Prophylactic treatment,"Skin Diseases, Infectious",topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199176,C0042029,AFFECTS,Prophylactic treatment,Urinary tract infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0042769,AFFECTS,Prophylactic treatment,Virus Diseases,topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C0199176,C0264408,AFFECTS,Prophylactic treatment,Childhood asthma,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199176,C0276467,AFFECTS,Prophylactic treatment,Neonatal calf diarrhea,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0442893,AFFECTS,Prophylactic treatment,Systemic disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C0948008,AFFECTS,Prophylactic treatment,Ischemic stroke,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C1175175,AFFECTS,Prophylactic treatment,Severe Acute Respiratory Syndrome,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199176,C1561643,AFFECTS,Prophylactic treatment,Chronic Kidney Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C4085595,AFFECTS,Prophylactic treatment,AL-RAQAD SYNDROME,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199176,C5203670,AFFECTS,Prophylactic treatment,COVID-19,topp,dsyn,14,AFFECTS_TOPPafctDSYN
+C0199451,C0004096,AFFECTS,Continuous Positive Airway Pressure,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199451,C0032285,AFFECTS,Continuous Positive Airway Pressure,Pneumonia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199470,C0004610,AFFECTS,Mechanical ventilation,Bacteremia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0010356,AFFECTS,Mechanical ventilation,Cross Infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0011847,AFFECTS,Mechanical ventilation,Diabetes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0017168,AFFECTS,Mechanical ventilation,Gastroesophageal reflux disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0024115,AFFECTS,Mechanical ventilation,Lung diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0024117,AFFECTS,Mechanical ventilation,Chronic Obstructive Airway Disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199470,C0028754,AFFECTS,Mechanical ventilation,Obesity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0028756,AFFECTS,Mechanical ventilation,Morbid obesity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0032290,AFFECTS,Mechanical ventilation,Aspiration Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0034069,AFFECTS,Mechanical ventilation,Pulmonary Fibrosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0035204,AFFECTS,Mechanical ventilation,Respiration Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0035222,AFFECTS,Mechanical ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0206062,AFFECTS,Mechanical ventilation,"Lung Diseases, Interstitial",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0582415,AFFECTS,Mechanical ventilation,Acute asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199470,C0949083,AFFECTS,Mechanical ventilation,Hospital acquired pneumonia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199470,C1145670,AFFECTS,Mechanical ventilation,Respiratory Failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199779,C0004096,AFFECTS,Administration of antibiotic,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199779,C0014009,AFFECTS,Administration of antibiotic,Empyema,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199779,C0024117,AFFECTS,Administration of antibiotic,Chronic Obstructive Airway Disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199779,C0029883,AFFECTS,Administration of antibiotic,Otitis Media with Effusion,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199779,C0035220,AFFECTS,Administration of antibiotic,"Respiratory Distress Syndrome, Newborn",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199779,C0036310,AFFECTS,Administration of antibiotic,Scheuermann's Disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0199779,C0205721,AFFECTS,Administration of antibiotic,"Infections, Hospital",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199779,C0746102,AFFECTS,Administration of antibiotic,Chronic lung disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199804,C0035204,AFFECTS,Vaccination against tuberculosis,Respiration Disorders,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0199804,C0035243,AFFECTS,Vaccination against tuberculosis,Respiratory Tract Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199804,C5203670,AFFECTS,Vaccination against tuberculosis,COVID-19,topp,dsyn,7,AFFECTS_TOPPafctDSYN
+C0199848,C0206750,AFFECTS,Coronavirus vaccination,Coronavirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0199848,C0275524,AFFECTS,Coronavirus vaccination,Coinfection,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0199859,C0018889,AFFECTS,Deworming,Helminthiasis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0203597,C4551825,AFFECTS,hyperthermia treatment,Megaloblastic Anemia 1,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204514,C0600327,AFFECTS,Structural analysis,Toxic Shock Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204514,C1175175,AFFECTS,Structural analysis,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204700,C0036690,AFFECTS,Fluid restriction,Septicemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204700,C0679407,AFFECTS,Fluid restriction,Gastrointestinal dysfunction,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0004096,AFFECTS,Isolation procedure,Asthma,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0204727,C0007682,AFFECTS,Isolation procedure,CNS disorder,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0008677,AFFECTS,Isolation procedure,"Bronchitis, Chronic",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0009450,AFFECTS,Isolation procedure,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0018572,AFFECTS,Isolation procedure,"Hand, Foot and Mouth Disease",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0021051,AFFECTS,Isolation procedure,Immunologic Deficiency Syndromes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0021400,AFFECTS,Isolation procedure,Influenza,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0204727,C0024117,AFFECTS,Isolation procedure,Chronic Obstructive Airway Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0032227,AFFECTS,Isolation procedure,Pleural effusion disorder,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0032285,AFFECTS,Isolation procedure,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0036310,AFFECTS,Isolation procedure,Scheuermann's Disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0204727,C0042769,AFFECTS,Isolation procedure,Virus Diseases,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0204727,C0085106,AFFECTS,Isolation procedure,Familial benign pemphigus,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0085129,AFFECTS,Isolation procedure,Bronchial Hyperreactivity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0149725,AFFECTS,Isolation procedure,Lower respiratory tract infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0205721,AFFECTS,Isolation procedure,"Infections, Hospital",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0206750,AFFECTS,Isolation procedure,Coronavirus Infections,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0204727,C0343537,AFFECTS,Isolation procedure,Specific viral infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0740304,AFFECTS,Isolation procedure,copd exacerbation,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0748168,AFFECTS,Isolation procedure,Pulmonary Pathology,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0851901,AFFECTS,Isolation procedure,Rhinovirus infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C0872315,AFFECTS,Isolation procedure,"Communicable Diseases, Emerging",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C1175175,AFFECTS,Isolation procedure,Severe Acute Respiratory Syndrome,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0204727,C1290009,AFFECTS,Isolation procedure,Chronic disease of skin,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C3669463,AFFECTS,Isolation procedure,Feline immunodeficiency virus infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0204727,C5203670,AFFECTS,Isolation procedure,COVID-19,topp,dsyn,16,AFFECTS_TOPPafctDSYN
+C0206058,C0001175,AFFECTS,Elective Surgical Procedures,Acquired Immunodeficiency Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0206058,C0206750,AFFECTS,Elective Surgical Procedures,Coronavirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0206058,C5203670,AFFECTS,Elective Surgical Procedures,COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0206074,C0022660,AFFECTS,Renal Replacement Therapy,"Kidney Failure, Acute",topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0242297,C0042769,AFFECTS,Dietary Supplementation,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0242297,C0376618,AFFECTS,Dietary Supplementation,Endotoxemia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0242348,C0024312,AFFECTS,Serotherapy,Lymphopenia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0242348,C0032300,AFFECTS,Serotherapy,Lobar Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0242348,C0042769,AFFECTS,Serotherapy,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0242739,C0008679,AFFECTS,Nutritional Support,Chronic disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0242739,C0010340,AFFECTS,Nutritional Support,Critical Illness,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0242739,C5203670,AFFECTS,Nutritional Support,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0242972,C0015695,AFFECTS,"Diet, Protein-Restricted",Fatty Liver,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0259836,C0022638,AFFECTS,"Diet, Carbohydrate-Restricted",Ketosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0279025,C5203670,AFFECTS,Hormone Therapy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0279030,C0019196,AFFECTS,Interferon Therapy,Hepatitis C,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0279030,C0042900,AFFECTS,Interferon Therapy,Vitiligo,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0280274,C0004623,AFFECTS,Antiviral Therapy,Bacterial Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0280274,C0018572,AFFECTS,Antiviral Therapy,"Hand, Foot and Mouth Disease",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0280274,C0042769,AFFECTS,Antiviral Therapy,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0280274,C1145670,AFFECTS,Antiviral Therapy,Respiratory Failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0280274,C1321098,AFFECTS,Antiviral Therapy,Human rabies,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0280274,C3826786,AFFECTS,Antiviral Therapy,Adenovirus diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0280274,C5203670,AFFECTS,Antiviral Therapy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0280603,C0018378,AFFECTS,fluorouracil/methotrexate protocol,Guillain-Barre Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0280604,C0011847,AFFECTS,altretamine/cisplatin/cyclophosphamide protocol,Diabetes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0280604,C0033036,AFFECTS,altretamine/cisplatin/cyclophosphamide protocol,Atrial Premature Complexes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0280604,C0035235,AFFECTS,altretamine/cisplatin/cyclophosphamide protocol,Respiratory Syncytial Virus Infections,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0280604,C5203670,AFFECTS,altretamine/cisplatin/cyclophosphamide protocol,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0281163,C3714753,AFFECTS,Educational Intervention,"RETINOSCHISIS 1, X-LINKED, JUVENILE",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0281176,C0009450,AFFECTS,Antibody Therapy,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0281177,C0004096,AFFECTS,Interleukin Therapy,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0281178,C5203670,AFFECTS,Anti-Cytokine Therapy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0281481,C0041296,AFFECTS,Anti-Tumor Necrosis Factor Therapy,Tuberculosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0281548,C5203670,AFFECTS,Intraperitoneal chemotherapy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0282402,C0007222,AFFECTS,Hormone replacement therapy,Cardiovascular Diseases,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0282638,C0747085,AFFECTS,Antibiotic Prophylaxis,Recurrent otitis media,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0286540,C0403447,AFFECTS,MAV protocol,Chronic Kidney Insufficiency,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0302189,C0010340,AFFECTS,Cell Therapy,Critical Illness,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0302189,C1290884,AFFECTS,Cell Therapy,Inflammatory disorder,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0338248,C1096155,AFFECTS,carmustine/cytarabine/etoposide/melphalan regimen,Macrophage Activation Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0339897,C5203670,AFFECTS,Transjugular intrahepatic portosystemic shunt procedure,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0348007,C0206750,AFFECTS,Laser ablation,Coronavirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0349707,C0004096,AFFECTS,Aspiration-action,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0349707,C0004623,AFFECTS,Aspiration-action,Bacterial Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0349707,C0006285,AFFECTS,Aspiration-action,Bronchopneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0349707,C0011168,AFFECTS,Aspiration-action,Deglutition Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0349707,C0032285,AFFECTS,Aspiration-action,Pneumonia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0349707,C0035243,AFFECTS,Aspiration-action,Respiratory Tract Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0349707,C0149725,AFFECTS,Aspiration-action,Lower respiratory tract infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0349707,C0854706,AFFECTS,Aspiration-action,neonatal infection,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0376530,C0039144,AFFECTS,"Decompression, Surgical",Syringomyelia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0392920,C0023530,AFFECTS,Chemotherapy Regimen,Leukopenia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0394664,C0009443,AFFECTS,Acupuncture procedure,Common Cold,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0394664,C0028754,AFFECTS,Acupuncture procedure,Obesity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0396608,C0032285,AFFECTS,Airway procedure,Pneumonia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0396625,C0037199,AFFECTS,Nasotracheal intubation,Sinusitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0396670,C0004096,AFFECTS,Isolated limb perfusion,Asthma,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0396670,C0006271,AFFECTS,Isolated limb perfusion,Bronchiolitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0396670,C0008677,AFFECTS,Isolated limb perfusion,"Bronchitis, Chronic",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0396670,C0008679,AFFECTS,Isolated limb perfusion,Chronic disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0396670,C0010380,AFFECTS,Isolated limb perfusion,Croup,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0396670,C0018802,AFFECTS,Isolated limb perfusion,Congestive heart failure,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0396670,C0021400,AFFECTS,Isolated limb perfusion,Influenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0396670,C0024117,AFFECTS,Isolated limb perfusion,Chronic Obstructive Airway Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0396670,C0032285,AFFECTS,Isolated limb perfusion,Pneumonia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0396670,C0035243,AFFECTS,Isolated limb perfusion,Respiratory Tract Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0396670,C0042769,AFFECTS,Isolated limb perfusion,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0396670,C2062441,AFFECTS,Isolated limb perfusion,Influenza A,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0396670,C5203670,AFFECTS,Isolated limb perfusion,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0412795,C0020538,AFFECTS,Induced vasodilatation,Hypertensive disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0418981,C0010380,AFFECTS,Medical therapy,Croup,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0418981,C0024117,AFFECTS,Medical therapy,Chronic Obstructive Airway Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0418981,C0032285,AFFECTS,Medical therapy,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0418981,C0206750,AFFECTS,Medical therapy,Coronavirus Infections,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0419011,C0035222,AFFECTS,Controlled ventilation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0419707,C0277562,AFFECTS,Pneumococcal vaccination,Adult disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0419997,C0206750,AFFECTS,Viral screening,Coronavirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0425403,C0221106,AFFECTS,"Diet, High-Protein",Alkalemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0001623,AFFECTS,Elevation procedure,Adrenal gland hypofunction,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0003811,AFFECTS,Elevation procedure,Cardiac Arrhythmia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0439775,C0004096,AFFECTS,Elevation procedure,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0007570,AFFECTS,Elevation procedure,Celiac Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0008679,AFFECTS,Elevation procedure,Chronic disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0010278,AFFECTS,Elevation procedure,Craniosynostosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0011847,AFFECTS,Elevation procedure,Diabetes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0018801,AFFECTS,Elevation procedure,Heart failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0020550,AFFECTS,Elevation procedure,Hyperthyroidism,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0020676,AFFECTS,Elevation procedure,Hypothyroidism,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0022660,AFFECTS,Elevation procedure,"Kidney Failure, Acute",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0023364,AFFECTS,Elevation procedure,Leptospirosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0024117,AFFECTS,Elevation procedure,Chronic Obstructive Airway Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0036690,AFFECTS,Elevation procedure,Septicemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0042769,AFFECTS,Elevation procedure,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0741922,AFFECTS,Elevation procedure,CARDIAC causes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C0948089,AFFECTS,Elevation procedure,Acute Coronary Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C1397961,AFFECTS,Elevation procedure,'Pure' cholestasis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C1845609,AFFECTS,Elevation procedure,Lymphoid depletion,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0439775,C5203670,AFFECTS,Elevation procedure,COVID-19,topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C0441509,C0011847,AFFECTS,Coagulation procedure,Diabetes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0441509,C0012739,AFFECTS,Coagulation procedure,Disseminated Intravascular Coagulation,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0441509,C0032285,AFFECTS,Coagulation procedure,Pneumonia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0441509,C0035222,AFFECTS,Coagulation procedure,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0441509,C0038454,AFFECTS,Coagulation procedure,Cerebrovascular accident,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0441509,C0040034,AFFECTS,Coagulation procedure,Thrombocytopenia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0441509,C0042769,AFFECTS,Coagulation procedure,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0441509,C0398623,AFFECTS,Coagulation procedure,Thrombophilia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0441509,C1175175,AFFECTS,Coagulation procedure,Severe Acute Respiratory Syndrome,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0441509,C5203670,AFFECTS,Coagulation procedure,COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0441516,C0008679,AFFECTS,Demand (clinical),Chronic disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0441516,C0796085,AFFECTS,Demand (clinical),Nance-Horan syndrome,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0441516,C5203670,AFFECTS,Demand (clinical),COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0444735,C0004096,AFFECTS,Intermittent administration,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0451615,C0031350,AFFECTS,Pain relief,Pharyngitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0454506,C0024117,AFFECTS,Expectoration technique,Chronic Obstructive Airway Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0455052,C0940933,AFFECTS,Bowel preparation,infection as a complication,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0456223,C0001883,AFFECTS,Thoracic impedance,Airway Obstruction,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0456675,C0005779,AFFECTS,Massive blood transfusion,Blood Coagulation Disorders,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0456675,C0040034,AFFECTS,Massive blood transfusion,Thrombocytopenia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0472699,C0001175,AFFECTS,Hemopoietic stem cell transplant,Acquired Immunodeficiency Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0472699,C0002874,AFFECTS,Hemopoietic stem cell transplant,Aplastic Anemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0472699,C0009450,AFFECTS,Hemopoietic stem cell transplant,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0472699,C0023530,AFFECTS,Hemopoietic stem cell transplant,Leukopenia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0472699,C0035078,AFFECTS,Hemopoietic stem cell transplant,Kidney Failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0472699,C0277554,AFFECTS,Hemopoietic stem cell transplant,primary disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0472699,C0856825,AFFECTS,Hemopoietic stem cell transplant,Acute GVH disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0472699,C0948441,AFFECTS,Hemopoietic stem cell transplant,Venoocclusive disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0472699,C4225412,AFFECTS,Hemopoietic stem cell transplant,Spondylo-ocular syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0472699,C5203670,AFFECTS,Hemopoietic stem cell transplant,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0474178,C5203670,AFFECTS,Psychological counseling,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0508431,C5203670,AFFECTS,answer questions,COVID-19,topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C0520484,C0009450,AFFECTS,Xenograft procedure,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0521974,C0028754,AFFECTS,"Diet, High-Fat",Obesity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0524850,C0006105,AFFECTS,Neurosurgical Procedures,Brain Abscess,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0524850,C5203670,AFFECTS,Neurosurgical Procedures,COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0524861,C0019163,AFFECTS,Oral Surgical Procedures,Hepatitis B,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0524861,C0019196,AFFECTS,Oral Surgical Procedures,Hepatitis C,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0524865,C0206750,AFFECTS,Reconstructive Surgical Procedures,Coronavirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0543467,C0004096,AFFECTS,Operative Surgical Procedures,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0543467,C0010356,AFFECTS,Operative Surgical Procedures,Cross Infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0543467,C0032285,AFFECTS,Operative Surgical Procedures,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0543467,C0039984,AFFECTS,Operative Surgical Procedures,Thoracic Outlet Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0543467,C0235840,AFFECTS,Operative Surgical Procedures,Neonatal diarrhea,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0543467,C5203670,AFFECTS,Operative Surgical Procedures,COVID-19,topp,dsyn,8,AFFECTS_TOPPafctDSYN
+C0545321,C5203670,AFFECTS,B cell therapy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0553741,C0027765,AFFECTS,Fluid Management,nervous system disorder,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0554804,C0032285,AFFECTS,Assisted breathing,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0557061,C0009450,AFFECTS,Discussion (procedure),Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0557061,C0035243,AFFECTS,Discussion (procedure),Respiratory Tract Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0557061,C5203670,AFFECTS,Discussion (procedure),COVID-19,topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C0563322,C0582415,AFFECTS,Intravenous steroid injection,Acute asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0574032,C0003811,AFFECTS,Infusion procedures,Cardiac Arrhythmia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0574032,C0042769,AFFECTS,Infusion procedures,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0574135,C0024117,AFFECTS,Oral steroid therapy,Chronic Obstructive Airway Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0581602,C0004096,AFFECTS,Structural modification,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0581602,C0011847,AFFECTS,Structural modification,Diabetes,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C0581602,C0022658,AFFECTS,Structural modification,Kidney Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0581602,C1096155,AFFECTS,Structural modification,Macrophage Activation Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0581602,C1175175,AFFECTS,Structural modification,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0587279,C0032302,AFFECTS,Methylprednisolone pulse therapy,Mycoplasma pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0596052,C5203670,AFFECTS,AIDS therapy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0596171,C5203670,AFFECTS,Tissue Engineering,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0597092,C0010356,AFFECTS,nosocomial infection control,Cross Infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0597750,C0014059,AFFECTS,antigen challenge,"Encephalomyelitis, Acute Disseminated",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0597750,C0413234,AFFECTS,antigen challenge,Acute allergic reaction,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0597815,C0006271,AFFECTS,crystal healing,Bronchiolitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0600080,C0024115,AFFECTS,Stretching exercises,Lung diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0600406,C0004610,AFFECTS,venipuncture,Bacteremia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0618956,C0042769,AFFECTS,UFD-1,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0677881,C1167779,AFFECTS,Cytotoxic Chemotherapy,neutropenic infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0677908,C0004096,AFFECTS,Maintenance therapy,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0678026,C0006267,AFFECTS,Antifungal therapy,Bronchiectasis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0678026,C0010414,AFFECTS,Antifungal therapy,Infection by Cryptococcus neoformans,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0678812,C0032285,AFFECTS,systemic administration,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0678812,C0033860,AFFECTS,systemic administration,Psoriasis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0678812,C5203670,AFFECTS,systemic administration,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0679624,C0001175,AFFECTS,medical treatment method,Acquired Immunodeficiency Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0679624,C5203670,AFFECTS,medical treatment method,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0679698,C0021400,AFFECTS,disease prevention,Influenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0679699,C2242682,AFFECTS,Secondary Prevention,Recurrent Cerebral Ischemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0679750,C0005591,AFFECTS,prevention through information dissemination,Bird Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0679750,C0008679,AFFECTS,prevention through information dissemination,Chronic disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0679750,C0009450,AFFECTS,prevention through information dissemination,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0683174,C1167791,AFFECTS,topical application,skin toxicity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0683472,C0004096,AFFECTS,Self analysis,Asthma,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0684199,C0276467,AFFECTS,Homeopathy,Neonatal calf diarrhea,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0695341,C0239946,AFFECTS,common procedures,"Fibrosis, Liver",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0730400,C0003850,AFFECTS,Solid organ transplant,Arteriosclerosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0740857,C0004096,AFFECTS,albuterol treatment,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0744425,C0004096,AFFECTS,glucocorticoid therapy,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0744425,C0032533,AFFECTS,glucocorticoid therapy,Polymyalgia Rheumatica,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0744425,C5203670,AFFECTS,glucocorticoid therapy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0747973,C5203670,AFFECTS,Elective procedure,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0813207,C0162770,AFFECTS,Creation of shunt,Right Ventricular Hypertrophy,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0814435,C1145670,AFFECTS,early identification,Respiratory Failure,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0814435,C5203670,AFFECTS,early identification,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0841584,C5203670,AFFECTS,Psychological therapies,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0857208,C0032285,AFFECTS,routine immunization,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0860380,C5139167,AFFECTS,g-csf therapy,Severe infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0871821,C1864389,AFFECTS,combination therapy Approach,PREMATURE CHROMATID SEPARATION TRAIT,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0872104,C0747918,AFFECTS,Assisted Reproductive Technologies,pregnancy preterm,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0885890,C0009450,AFFECTS,Common interventions,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0887947,C0001175,AFFECTS,"Antiretroviral Therapy, Highly Active",Acquired Immunodeficiency Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0887947,C0010823,AFFECTS,"Antiretroviral Therapy, Highly Active",Cytomegalovirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0887947,C0029118,AFFECTS,"Antiretroviral Therapy, Highly Active",Opportunistic Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0887947,C0151317,AFFECTS,"Antiretroviral Therapy, Highly Active",Chronic infectious disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0917707,C0940931,AFFECTS,Cannulation,hemorrhage as a complication,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0917927,C0162429,AFFECTS,Breast-Conserving Surgery,Malnutrition,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0917927,C0275524,AFFECTS,Breast-Conserving Surgery,Coinfection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0920298,C0011860,AFFECTS,Weight maintenance regimen,"Diabetes Mellitus, Non-Insulin-Dependent",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0920425,C0021051,AFFECTS,Cancer Therapeutic Procedure,Immunologic Deficiency Syndromes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0920425,C0038362,AFFECTS,Cancer Therapeutic Procedure,Stomatitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0920425,C0596032,AFFECTS,Cancer Therapeutic Procedure,acquired immunodeficiency,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0920425,C1519680,AFFECTS,Cancer Therapeutic Procedure,Tumor Immunity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0920425,C5203670,AFFECTS,Cancer Therapeutic Procedure,COVID-19,topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C0920467,C0009450,AFFECTS,disorder control (procedure),Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0920467,C0010356,AFFECTS,disorder control (procedure),Cross Infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0920467,C0021400,AFFECTS,disorder control (procedure),Influenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0920467,C0028754,AFFECTS,disorder control (procedure),Obesity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0920467,C0043528,AFFECTS,disorder control (procedure),Zoonoses,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0920467,C1175175,AFFECTS,disorder control (procedure),Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0920467,C5203670,AFFECTS,disorder control (procedure),COVID-19,topp,dsyn,5,AFFECTS_TOPPafctDSYN
+C0920687,C0221444,AFFECTS,cancer care,clinical syndromes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0947647,C0004096,AFFECTS,Manipulation procedure,Asthma,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C0947647,C0009319,AFFECTS,Manipulation procedure,Colitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0947647,C0019196,AFFECTS,Manipulation procedure,Hepatitis C,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0947647,C0019693,AFFECTS,Manipulation procedure,HIV Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0947647,C0042769,AFFECTS,Manipulation procedure,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0947647,C2316159,AFFECTS,Manipulation procedure,Oral allergy syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0948092,C0020456,AFFECTS,diabetes mellitus management,Hyperglycemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0948092,C5203670,AFFECTS,diabetes mellitus management,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0948173,C5203670,AFFECTS,intestinal transplant,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0949266,C0004623,AFFECTS,"Therapies, Investigational",Bacterial Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C0950776,C5203670,AFFECTS,CODE protocol,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1096021,C0026691,AFFECTS,antiplatelet therapy,Mucocutaneous Lymph Node Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1096021,C0035222,AFFECTS,antiplatelet therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1135809,C0035243,AFFECTS,Caloric Restriction,Respiratory Tract Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1136080,C0003873,AFFECTS,Innovative Therapies,Rheumatoid Arthritis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1136080,C0004364,AFFECTS,Innovative Therapies,Autoimmune Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1136080,C0024141,AFFECTS,Innovative Therapies,"Lupus Erythematosus, Systemic",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1141958,C0009450,AFFECTS,anti-infective therapy,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1171257,C5203670,AFFECTS,Delivery care,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1261381,C0001621,AFFECTS,Destructive procedure (surgical),Adrenal Gland Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1261381,C0004364,AFFECTS,Destructive procedure (surgical),Autoimmune Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1261381,C0007682,AFFECTS,Destructive procedure (surgical),CNS disorder,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1261381,C0007684,AFFECTS,Destructive procedure (surgical),Central Nervous System Infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1261381,C0008312,AFFECTS,Destructive procedure (surgical),Primary Biliary Cholangitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1261381,C0040034,AFFECTS,Destructive procedure (surgical),Thrombocytopenia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1261381,C0152517,AFFECTS,Destructive procedure (surgical),Viral gastroenteritis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1261381,C0348890,AFFECTS,Destructive procedure (surgical),"Aplastic anemia, idiopathic",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1261381,C1264606,AFFECTS,Destructive procedure (surgical),Persistent infection,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C1261381,C1707758,AFFECTS,Destructive procedure (surgical),Direct Contact Transmission Infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1273412,C0032285,AFFECTS,Chinese herbal medicine,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1280903,C0007222,AFFECTS,Exploration procedure,Cardiovascular Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1280903,C0021400,AFFECTS,Exploration procedure,Influenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1280903,C0032285,AFFECTS,Exploration procedure,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1280903,C0033036,AFFECTS,Exploration procedure,Atrial Premature Complexes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1280903,C0035204,AFFECTS,Exploration procedure,Respiration Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1280903,C3850141,AFFECTS,Exploration procedure,Acute-On-Chronic Liver Failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1280903,C5203670,AFFECTS,Exploration procedure,COVID-19,topp,dsyn,6,AFFECTS_TOPPafctDSYN
+C1282573,C0263314,AFFECTS,Evacuation procedure,Pemphigus and fogo selvagem,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1292856,C0004096,AFFECTS,Stimulation procedure,Asthma,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1292856,C0019348,AFFECTS,Stimulation procedure,Herpes Simplex Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1292856,C0032002,AFFECTS,Stimulation procedure,Pituitary Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1292856,C0033036,AFFECTS,Stimulation procedure,Atrial Premature Complexes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1292856,C0206750,AFFECTS,Stimulation procedure,Coronavirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1292856,C0276500,AFFECTS,Stimulation procedure,Human immunodeficiency virus I infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1293130,C0017168,AFFECTS,Stabilization,Gastroesophageal reflux disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1293130,C0019693,AFFECTS,Stabilization,HIV Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1293130,C0206062,AFFECTS,Stabilization,"Lung Diseases, Interstitial",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1293130,C5203670,AFFECTS,Stabilization,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1293883,C0948343,AFFECTS,Transfusion of fresh frozen plasma,Transfusion-Related Acute Lung Injury,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1298802,C0004096,AFFECTS,Emergency procedure,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1298802,C0009450,AFFECTS,Emergency procedure,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1298802,C0024117,AFFECTS,Emergency procedure,Chronic Obstructive Airway Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1298802,C5203670,AFFECTS,Emergency procedure,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1319421,C0021141,AFFECTS,Antipsychotic drug therapy,Inappropriate ADH Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1443861,C0036916,AFFECTS,Post-Exposure Prophylaxis,Sexually Transmitted Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1443870,C1175175,AFFECTS,Respiratory secretion precautions,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1455870,C0004096,AFFECTS,Bi-level airway pressure,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1455871,C0024117,AFFECTS,Non-invasive positive pressure (NIPPV),Chronic Obstructive Airway Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1456587,C5203670,AFFECTS,Bariatric Surgery,COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C1456647,C0025007,AFFECTS,Childhood Immunization,Measles,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0004096,AFFECTS,Detection,Asthma,topp,dsyn,17,AFFECTS_TOPPafctDSYN
+C1511790,C0004364,AFFECTS,Detection,Autoimmune Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0004610,AFFECTS,Detection,Bacteremia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0006271,AFFECTS,Detection,Bronchiolitis,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C1511790,C0006287,AFFECTS,Detection,Bronchopulmonary Dysplasia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0008679,AFFECTS,Detection,Chronic disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1511790,C0009443,AFFECTS,Detection,Common Cold,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1511790,C0009450,AFFECTS,Detection,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0009763,AFFECTS,Detection,Conjunctivitis,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1511790,C0010823,AFFECTS,Detection,Cytomegalovirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0011847,AFFECTS,Detection,Diabetes,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1511790,C0011849,AFFECTS,Detection,Diabetes Mellitus,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1511790,C0014335,AFFECTS,Detection,Enteritis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0017160,AFFECTS,Detection,Gastroenteritis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0017178,AFFECTS,Detection,Gastrointestinal Diseases,topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C1511790,C0020192,AFFECTS,Detection,Hyaline Membrane Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0020456,AFFECTS,Detection,Hyperglycemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0020488,AFFECTS,Detection,Hypernatremia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0021400,AFFECTS,Detection,Influenza,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1511790,C0024117,AFFECTS,Detection,Chronic Obstructive Airway Disease,topp,dsyn,9,AFFECTS_TOPPafctDSYN
+C1511790,C0024312,AFFECTS,Detection,Lymphopenia,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1511790,C0024530,AFFECTS,Detection,Malaria,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0026636,AFFECTS,Detection,Mouth Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0027341,AFFECTS,Detection,Nail-Patella Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0027765,AFFECTS,Detection,nervous system disorder,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0032027,AFFECTS,Detection,Pityriasis Rubra Pilaris,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0032227,AFFECTS,Detection,Pleural effusion disorder,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0032285,AFFECTS,Detection,Pneumonia,topp,dsyn,5,AFFECTS_TOPPafctDSYN
+C1511790,C0035204,AFFECTS,Detection,Respiration Disorders,topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C1511790,C0035243,AFFECTS,Detection,Respiratory Tract Infections,topp,dsyn,6,AFFECTS_TOPPafctDSYN
+C1511790,C0038826,AFFECTS,Detection,Superinfection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0042769,AFFECTS,Detection,Virus Diseases,topp,dsyn,6,AFFECTS_TOPPafctDSYN
+C1511790,C0149725,AFFECTS,Detection,Lower respiratory tract infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0206062,AFFECTS,Detection,"Lung Diseases, Interstitial",topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1511790,C0206611,AFFECTS,Detection,Pestivirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0264490,AFFECTS,Detection,Acute respiratory failure,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0265514,AFFECTS,Detection,Dermatofibrosis lenticularis disseminata,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1511790,C0267446,AFFECTS,Detection,Acute gastroenteritis,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1511790,C0272380,AFFECTS,Detection,Disorder of tonsil (palatine tonsil),topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0275524,AFFECTS,Detection,Coinfection,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C1511790,C0395866,AFFECTS,Detection,Recurrent acute otitis media,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0679225,AFFECTS,Detection,multiple pathologies,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0729518,AFFECTS,Detection,Bacterial respiratory infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C0746102,AFFECTS,Detection,Chronic lung disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C1175175,AFFECTS,Detection,Severe Acute Respiratory Syndrome,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1511790,C2062441,AFFECTS,Detection,Influenza A,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C3687182,AFFECTS,Detection,Proventriculitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C3873497,AFFECTS,Detection,Severe acute respiratory infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1511790,C5203670,AFFECTS,Detection,COVID-19,topp,dsyn,5,AFFECTS_TOPPafctDSYN
+C1512034,C0006272,AFFECTS,Donor Lymphocyte Infusion,Bronchiolitis Obliterans,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1512034,C0018133,AFFECTS,Donor Lymphocyte Infusion,Graft-vs-Host Disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1512034,C2973725,AFFECTS,Donor Lymphocyte Infusion,Pulmonary arterial hypertension,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1512335,C0263940,AFFECTS,Harvest Procedure,Curb,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1512721,C0043395,AFFECTS,Inferential Current Treatment,Yellow Fever,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1512721,C1175175,AFFECTS,Inferential Current Treatment,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1515119,C0035455,AFFECTS,Systemic Therapy,Rhinitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1515884,C0001175,AFFECTS,Acupuncture and Oriental Medicine,Acquired Immunodeficiency Syndrome,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C1515884,C0023895,AFFECTS,Acupuncture and Oriental Medicine,Liver diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1515884,C0032285,AFFECTS,Acupuncture and Oriental Medicine,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1515884,C0042769,AFFECTS,Acupuncture and Oriental Medicine,Virus Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1515884,C1175175,AFFECTS,Acupuncture and Oriental Medicine,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1515884,C5203670,AFFECTS,Acupuncture and Oriental Medicine,COVID-19,topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C1516003,C0016514,AFFECTS,Antibody-Directed Enzyme Prodrug Therapy,Foot-and-Mouth Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1518010,C0032285,AFFECTS,Low Dose Radiation Therapy,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1522449,C0024312,AFFECTS,Therapeutic radiology procedure,Lymphopenia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1522449,C0442867,AFFECTS,Therapeutic radiology procedure,malignant disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1527075,C0009450,AFFECTS,Revision procedure,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1531518,C5203670,AFFECTS,Biological treatment,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1531698,C0019159,AFFECTS,Active monitoring,Hepatitis A,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1532338,C1536220,AFFECTS,Percutaneous Coronary Intervention,ST segment elevation myocardial infarction,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1533734,C5203670,AFFECTS,Administration procedure,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1571809,C0035112,AFFECTS,Visceral manipulation,Reoviridae Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1571809,C5203670,AFFECTS,Visceral manipulation,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1638311,C0011847,AFFECTS,Blood glucose management,Diabetes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1659427,C0004096,AFFECTS,nebulization-mediated drug administration,Asthma,topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C1704532,C5203670,AFFECTS,Active Method,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1707479,C0276653,AFFECTS,Concomitant Therapy,Invasive Pulmonary Aspergillosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1707479,C1175175,AFFECTS,Concomitant Therapy,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1708063,C0006267,AFFECTS,First line treatment,Bronchiectasis,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1708063,C0024117,AFFECTS,First line treatment,Chronic Obstructive Airway Disease,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1708063,C0025289,AFFECTS,First line treatment,Meningitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1708063,C0034069,AFFECTS,First line treatment,Pulmonary Fibrosis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1827140,C0010356,AFFECTS,Bronchoscopic procedure,Cross Infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1827515,C0028754,AFFECTS,Trendelenburg positioning (procedure),Obesity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1831786,C5203670,AFFECTS,Hypofractionated Radiation Therapy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1868981,C0007222,AFFECTS,Invasive mechanical ventilation NOS,Cardiovascular Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1868981,C0011847,AFFECTS,Invasive mechanical ventilation NOS,Diabetes,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1868981,C0020538,AFFECTS,Invasive mechanical ventilation NOS,Hypertensive disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1868981,C0028754,AFFECTS,Invasive mechanical ventilation NOS,Obesity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1868981,C5203670,AFFECTS,Invasive mechanical ventilation NOS,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1883520,C0011849,AFFECTS,VePesid-Ifosfamide-Platinol Regimen,Diabetes Mellitus,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1997883,C0024117,AFFECTS,Noninvasive Ventilation,Chronic Obstructive Airway Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C1997883,C0264220,AFFECTS,Noninvasive Ventilation,Chronic disease of respiratory system,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1997883,C0264490,AFFECTS,Noninvasive Ventilation,Acute respiratory failure,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C1997883,C0398350,AFFECTS,Noninvasive Ventilation,Acute cardiac pulmonary edema,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2169144,C0032285,AFFECTS,Radiation dose,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2188405,C5203670,AFFECTS,urgent Operation,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C2242529,C0856825,AFFECTS,Allogeneic Stem Cell Transplantation,Acute GVH disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2242626,C0004610,AFFECTS,Probiotic therapy,Bacteremia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2242628,C0004610,AFFECTS,Fecal Microbiota Transplantation,Bacteremia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2242628,C0009450,AFFECTS,Fecal Microbiota Transplantation,Communicable Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2242628,C0017178,AFFECTS,Fecal Microbiota Transplantation,Gastrointestinal Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2242628,C0035222,AFFECTS,Fecal Microbiota Transplantation,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2347900,C1167791,AFFECTS,Rechallenge,skin toxicity,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2348331,C1175175,AFFECTS,Dose Regimen,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2348331,C1565489,AFFECTS,Dose Regimen,Renal Insufficiency,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2363964,C5203670,AFFECTS,Antiviral Administration,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2608114,C0940931,AFFECTS,Colon and Rectal Surgery (procedure),hemorrhage as a complication,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2718059,C0036690,AFFECTS,Precision Medicine,Septicemia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2747841,C0021400,AFFECTS,H1N1 Flu vaccination,Influenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2827774,C0004096,AFFECTS,Current Therapy,Asthma,topp,dsyn,5,AFFECTS_TOPPafctDSYN
+C2827774,C0024117,AFFECTS,Current Therapy,Chronic Obstructive Airway Disease,topp,dsyn,4,AFFECTS_TOPPafctDSYN
+C2945704,C0264408,AFFECTS,Conventional Treatment,Childhood asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2945704,C0276144,AFFECTS,Conventional Treatment,Viral tonsillitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2945704,C0863093,AFFECTS,Conventional Treatment,cold symptoms,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C2985391,C0027726,AFFECTS,Gold Therapy,Nephrotic Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2985393,C0011168,AFFECTS,Neuromuscular Electrical Stimulation,Deglutition Disorders,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2985393,C0264122,AFFECTS,Neuromuscular Electrical Stimulation,"Atrophy, Disuse",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C2985566,C0014457,AFFECTS,Targeted Therapy,Eosinophilia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3177188,C0035222,AFFECTS,Early Therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3177188,C0521530,AFFECTS,Early Therapy,Lung consolidation,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3272275,C5203670,AFFECTS,Urgent Procedure,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3274791,C0004364,AFFECTS,Mechanical Circulatory Support,Autoimmune Diseases,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C3274791,C0032285,AFFECTS,Mechanical Circulatory Support,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3274791,C0042373,AFFECTS,Mechanical Circulatory Support,Vascular Diseases,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3540512,C0000833,AFFECTS,Circumferential Supracrestal Fiberotomy,Abscess,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C3540512,C0014038,AFFECTS,Circumferential Supracrestal Fiberotomy,Encephalitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3540512,C0032285,AFFECTS,Circumferential Supracrestal Fiberotomy,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3540512,C0085436,AFFECTS,Circumferential Supracrestal Fiberotomy,"Meningitis, Cryptococcal",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3540512,C0085584,AFFECTS,Circumferential Supracrestal Fiberotomy,Encephalopathies,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C3540512,C0206750,AFFECTS,Circumferential Supracrestal Fiberotomy,Coronavirus Infections,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C3540512,C0242994,AFFECTS,Circumferential Supracrestal Fiberotomy,Hantavirus Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3540512,C0810006,AFFECTS,Circumferential Supracrestal Fiberotomy,Acute cerebrovascular disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3540512,C1175175,AFFECTS,Circumferential Supracrestal Fiberotomy,Severe Acute Respiratory Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3540512,C5203670,AFFECTS,Circumferential Supracrestal Fiberotomy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3645730,C0006266,AFFECTS,warm Humid air,Bronchospasm,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3650840,C0243010,AFFECTS,Traditional therapy,Viral Encephalitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3658308,C0006287,AFFECTS,Patient Care Bundles,Bronchopulmonary Dysplasia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3658366,C0004096,AFFECTS,Sublingual Immunotherapy,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3661918,C0032285,AFFECTS,Pneumococcal conjugate vaccination,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3661922,C0035222,AFFECTS,Surfactant replacement therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3665674,C5203670,AFFECTS,Warburg Therapy,COVID-19,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C3714726,C5203670,AFFECTS,Operation on breast,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3810531,C5203670,AFFECTS,Bortezomib/Dexamethasone/Pegylated Liposomal Doxorubicin Regimen,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3825792,C1145670,AFFECTS,Pressure breathing,Respiratory Failure,topp,dsyn,2,AFFECTS_TOPPafctDSYN
+C3845187,C0004096,AFFECTS,Insulin Drip,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3849996,C0004096,AFFECTS,"Diet, Western",Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C3858690,C0014356,AFFECTS,adjunctive treatment,Enterocolitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4076001,C0002390,AFFECTS,Azathioprine therapy,Extrinsic allergic alveolitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4289797,C0003873,AFFECTS,Chimeric Antigen Receptor T-Cell Therapy,Rheumatoid Arthritis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4289797,C0010278,AFFECTS,Chimeric Antigen Receptor T-Cell Therapy,Craniosynostosis,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C4289797,C0035222,AFFECTS,Chimeric Antigen Receptor T-Cell Therapy,"Respiratory Distress Syndrome, Adult",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4289797,C0948245,AFFECTS,Chimeric Antigen Receptor T-Cell Therapy,Cytokine Release Syndrome,topp,dsyn,10,AFFECTS_TOPPafctDSYN
+C4289797,C1861452,AFFECTS,Chimeric Antigen Receptor T-Cell Therapy,Storm Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4289797,C5203670,AFFECTS,Chimeric Antigen Receptor T-Cell Therapy,COVID-19,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4319756,C0028242,AFFECTS,Myeloablative Conditioning,Nocardia Infections,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4330729,C0023530,AFFECTS,Myelosuppressive Chemotherapy,Leukopenia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4505223,C0040592,AFFECTS,Mass Drug Administration,Trachoma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4526535,C0035455,AFFECTS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Rhinitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4526535,C0036310,AFFECTS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Scheuermann's Disease,topp,dsyn,7,AFFECTS_TOPPafctDSYN
+C4554488,C0242301,AFFECTS,Retrieval - procedure,furuncle,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4554488,C5203670,AFFECTS,Retrieval - procedure,COVID-19,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C4704836,C0007684,AFFECTS,Medical Countermeasures,Central Nervous System Infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4722104,C0004096,AFFECTS,Desensitization,Asthma,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4722104,C0021400,AFFECTS,Desensitization,Influenza,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4722104,C0276500,AFFECTS,Desensitization,Human immunodeficiency virus I infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4723833,C0010340,AFFECTS,vertebral augmentation procedure,Critical Illness,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4723833,C0032285,AFFECTS,vertebral augmentation procedure,Pneumonia,topp,dsyn,3,AFFECTS_TOPPafctDSYN
+C4723833,C0343401,AFFECTS,vertebral augmentation procedure,MRSA - Methicillin resistant Staphylococcus aureus infection,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4723833,C0748168,AFFECTS,vertebral augmentation procedure,Pulmonary Pathology,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4733157,C0149521,AFFECTS,intravenous iron therapy,"Pancreatitis, Chronic",topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4763675,C0024117,AFFECTS,Single Agent Therapy,Chronic Obstructive Airway Disease,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C4763675,C0376620,AFFECTS,Single Agent Therapy,Pouchitis,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C5190548,C0032285,AFFECTS,Everolimus therapy,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C5202843,C0032285,AFFECTS,Right and Left Lung Irradiation,Pneumonia,topp,dsyn,1,AFFECTS_TOPPafctDSYN
+C5206220,C0001175,AFFECTS,Fluorouracil/Ifosfamide/Mesna/Methotrexate Regimen,Acquired Immunodeficiency Syndrome,topp,dsyn,1,AFFECTS_TOPPafctDSYN

@@ -1,0 +1,12 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0021586,C0029965,PRECEDES,Insemination,Ovulation,ortf,ortf,1,PRECEDES_ORTFprcdORTF
+C0029965,C0013936,PRECEDES,Ovulation,Embryonic Development,ortf,ortf,1,PRECEDES_ORTFprcdORTF
+C0029965,C0021586,PRECEDES,Ovulation,Insemination,ortf,ortf,1,PRECEDES_ORTFprcdORTF
+C0029965,C0024153,PRECEDES,Ovulation,Luteal Phase,ortf,ortf,1,PRECEDES_ORTFprcdORTF
+C0032058,C0013936,PRECEDES,Placentation,Embryonic Development,ortf,ortf,1,PRECEDES_ORTFprcdORTF
+C0036658,C0301872,PRECEDES,Esthesia,Immune response,ortf,ortf,1,PRECEDES_ORTFprcdORTF
+C0036658,C0683201,PRECEDES,Esthesia,specific immunity,ortf,ortf,1,PRECEDES_ORTFprcdORTF
+C0042396,C0042401,PRECEDES,Vascular constriction (function),Vasodilation,ortf,ortf,1,PRECEDES_ORTFprcdORTF
+C0042401,C0042396,PRECEDES,Vasodilation,Vascular constriction (function),ortf,ortf,1,PRECEDES_ORTFprcdORTF
+C0302600,C3850148,PRECEDES,Angiogenic Process,Vascular Remodeling,ortf,ortf,1,PRECEDES_ORTFprcdORTF
+C0598959,C0079043,PRECEDES,neural control,Bronchoconstriction,ortf,ortf,1,PRECEDES_ORTFprcdORTF

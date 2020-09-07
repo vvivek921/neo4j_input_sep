@@ -1,0 +1,659 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000833,C0043240,AFFECTS,Abscess,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0001127,C0014653,AFFECTS,"Acidosis, Respiratory",Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0001175,C0011065,AFFECTS,Acquired Immunodeficiency Syndrome,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0001175,C0015895,AFFECTS,Acquired Immunodeficiency Syndrome,Fertility,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0001175,C0018270,AFFECTS,Acquired Immunodeficiency Syndrome,Growth,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0001175,C1148523,AFFECTS,Acquired Immunodeficiency Syndrome,Childbirth,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0001175,C2584321,AFFECTS,Acquired Immunodeficiency Syndrome,Reaching,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0001314,C1819461,AFFECTS,Acute Disease,interleukin-8 production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0001486,C0035150,AFFECTS,Adenovirus Infections,Reproduction,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0001787,C0009253,AFFECTS,"Osteoporosis, Age-Related",Coitus,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0001883,C0011065,AFFECTS,Airway Obstruction,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0001883,C0678723,AFFECTS,Airway Obstruction,Biologic Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0001883,C1148523,AFFECTS,Airway Obstruction,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0002351,C0037313,AFFECTS,Altitude Sickness,Sleep,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0002871,C0005823,AFFECTS,Anemia,Blood Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0002871,C0011135,AFFECTS,Anemia,Defecation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0002871,C0015895,AFFECTS,Anemia,Fertility,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0002876,C0035150,AFFECTS,Congenital dyserythropoietic anemia,Reproduction,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0002895,C0032961,AFFECTS,"Anemia, Sickle Cell",Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0003123,C0025519,AFFECTS,Anorexia,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0003123,C0037313,AFFECTS,Anorexia,Sleep,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0003496,C0005823,AFFECTS,Aortic Rupture,Blood Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0003811,C0018270,AFFECTS,Cardiac Arrhythmia,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0003850,C0006159,AFFECTS,Arteriosclerosis,Breeding,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0003850,C0014653,AFFECTS,Arteriosclerosis,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0003873,C0032961,AFFECTS,Rheumatoid Arthritis,Pregnancy,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0003962,C0016284,AFFECTS,Ascites,Fluid Balance,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004030,C0011065,AFFECTS,Aspergillosis,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0004030,C0020966,AFFECTS,Aspergillosis,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004045,C0004048,AFFECTS,Asphyxia Neonatorum,Inspiration function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004096,C0006147,AFFECTS,Asthma,Breast Feeding,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004096,C0018270,AFFECTS,Asthma,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004096,C0032961,AFFECTS,Asthma,Pregnancy,dsyn,orgf,6,AFFECTS_DSYNafctORGF
+C0004096,C0678889,AFFECTS,Asthma,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004096,C1155328,AFFECTS,Asthma,Antiviral Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004096,C1819440,AFFECTS,Asthma,interleukin-13 production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004096,C2936375,AFFECTS,Asthma,Th1-Th2 Balance,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004364,C0021059,AFFECTS,Autoimmune Diseases,Immunologic Surveillance,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004364,C0032961,AFFECTS,Autoimmune Diseases,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004364,C0043240,AFFECTS,Autoimmune Diseases,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004364,C0678889,AFFECTS,Autoimmune Diseases,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004364,C1327413,AFFECTS,Autoimmune Diseases,cytokine production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004364,C1749719,AFFECTS,Autoimmune Diseases,Adaptive Immune Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004623,C0004614,AFFECTS,Bacterial Infections,Bacterial Adhesion,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004623,C0005615,AFFECTS,Bacterial Infections,Birth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004623,C0011065,AFFECTS,Bacterial Infections,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0004623,C0032961,AFFECTS,Bacterial Infections,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0004626,C0011065,AFFECTS,"Pneumonia, Bacterial",Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0005591,C0006159,AFFECTS,Bird Diseases,Breeding,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0005591,C1749719,AFFECTS,Bird Diseases,Adaptive Immune Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0005779,C0011065,AFFECTS,Blood Coagulation Disorders,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0006266,C0011065,AFFECTS,Bronchospasm,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0006271,C0011065,AFFECTS,Bronchiolitis,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0006277,C0009253,AFFECTS,Bronchitis,Coitus,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0006277,C0011065,AFFECTS,Bronchitis,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0006285,C0011065,AFFECTS,Bronchopneumonia,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0006287,C0018270,AFFECTS,Bronchopulmonary Dysplasia,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0007078,C0001811,AFFECTS,carbuncle,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0007222,C0001811,AFFECTS,Cardiovascular Diseases,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0007222,C0005823,AFFECTS,Cardiovascular Diseases,Blood Pressure,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0007222,C0011065,AFFECTS,Cardiovascular Diseases,Cessation of life,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C0007222,C0014653,AFFECTS,Cardiovascular Diseases,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0007222,C0678863,AFFECTS,Cardiovascular Diseases,blood pressure regulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0007222,C0678889,AFFECTS,Cardiovascular Diseases,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0007682,C0014653,AFFECTS,CNS disorder,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0007682,C0018270,AFFECTS,CNS disorder,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0007789,C0026649,AFFECTS,Cerebral Palsy,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0007894,C0003618,AFFECTS,Cestode Infections,Desire for food,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0008354,C0018270,AFFECTS,Cholera,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0008354,C0026649,AFFECTS,Cholera,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0008533,C0042789,AFFECTS,Hemophilia B,Vision,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0008679,C0011065,AFFECTS,Chronic disease,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0008679,C1327413,AFFECTS,Chronic disease,cytokine production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0009319,C0043240,AFFECTS,Colitis,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0009443,C0018270,AFFECTS,Common Cold,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0009443,C0037313,AFFECTS,Common Cold,Sleep,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0009443,C0678889,AFFECTS,Common Cold,Immunoregulation,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0009450,C0009253,AFFECTS,Communicable Diseases,Coitus,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0009450,C0011065,AFFECTS,Communicable Diseases,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0009450,C0015895,AFFECTS,Communicable Diseases,Fertility,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0009450,C0018270,AFFECTS,Communicable Diseases,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0009450,C0025519,AFFECTS,Communicable Diseases,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0009450,C0026649,AFFECTS,Communicable Diseases,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0009450,C0032961,AFFECTS,Communicable Diseases,Pregnancy,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0009450,C0035150,AFFECTS,Communicable Diseases,Reproduction,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0009450,C1148523,AFFECTS,Communicable Diseases,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0009450,C1510835,AFFECTS,Communicable Diseases,Aging-Related Process,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0009450,C1752856,AFFECTS,Communicable Diseases,Host-Pathogen Interactions,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0009450,C2584321,AFFECTS,Communicable Diseases,Reaching,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0009763,C0042789,AFFECTS,Conjunctivitis,Vision,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010054,C0018270,AFFECTS,Coronary Arteriosclerosis,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010054,C0025519,AFFECTS,Coronary Arteriosclerosis,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010246,C0014653,AFFECTS,Coxsackievirus Infections,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010278,C0037361,AFFECTS,Craniosynostosis,Smell Perception,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010340,C0003618,AFFECTS,Critical Illness,Desire for food,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010340,C0004048,AFFECTS,Critical Illness,Inspiration function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010340,C0014653,AFFECTS,Critical Illness,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010340,C0015745,AFFECTS,Critical Illness,Feeding behaviors,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010346,C1148523,AFFECTS,Crohn Disease,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010356,C0011065,AFFECTS,Cross Infection,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010418,C0008071,AFFECTS,Cryptosporidiosis,Child Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010418,C0011135,AFFECTS,Cryptosporidiosis,Defecation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010418,C0018270,AFFECTS,Cryptosporidiosis,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010674,C0032961,AFFECTS,Cystic Fibrosis,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010823,C0014653,AFFECTS,Cytomegalovirus Infections,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010823,C0678889,AFFECTS,Cytomegalovirus Infections,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0010823,C1749719,AFFECTS,Cytomegalovirus Infections,Adaptive Immune Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0011127,C0278092,AFFECTS,Pressure Ulcer,Sexual function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0011168,C0011167,AFFECTS,Deglutition Disorders,Deglutition,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0011168,C0042939,AFFECTS,Deglutition Disorders,Voice,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0011847,C0000934,AFFECTS,Diabetes,Acclimatization,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0011847,C0005823,AFFECTS,Diabetes,Blood Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0011847,C0011065,AFFECTS,Diabetes,Cessation of life,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0011847,C0025519,AFFECTS,Diabetes,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0011847,C0032961,AFFECTS,Diabetes,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0011847,C0678889,AFFECTS,Diabetes,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0011847,C1148523,AFFECTS,Diabetes,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0011849,C0011065,AFFECTS,Diabetes Mellitus,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0011849,C0871379,AFFECTS,Diabetes Mellitus,sleep wake cycle,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0011854,C1148523,AFFECTS,"Diabetes Mellitus, Insulin-Dependent",Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0011860,C0678854,AFFECTS,"Diabetes Mellitus, Non-Insulin-Dependent",body balance,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0011884,C0032961,AFFECTS,Diabetic Retinopathy,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0012739,C0011065,AFFECTS,Disseminated Intravascular Coagulation,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0013570,C0026649,AFFECTS,"Ecthyma, Contagious",Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0013903,C0005823,AFFECTS,Ellis-Van Creveld Syndrome,Blood Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0014070,C0026649,AFFECTS,Encephalomyelitis,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0014179,C0015895,AFFECTS,Endometritis,Fertility,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0014518,C3820826,AFFECTS,Toxic Epidermal Necrolysis,iron acquisition,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0015923,C0018270,AFFECTS,Fetal Alcohol Syndrome,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0015974,C0231199,AFFECTS,Periodic fever,intolerance function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0016052,C0026649,AFFECTS,Fibromuscular Dysplasia,Movement,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0016627,C0000934,AFFECTS,Influenza in Birds,Acclimatization,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0016627,C0011065,AFFECTS,Influenza in Birds,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0016627,C0018270,AFFECTS,Influenza in Birds,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0016627,C1749719,AFFECTS,Influenza in Birds,Adaptive Immune Response,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0017168,C0018270,AFFECTS,Gastroesophageal reflux disease,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0017178,C1148523,AFFECTS,Gastrointestinal Diseases,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0017601,C0042789,AFFECTS,Glaucoma,Vision,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0018133,C0020966,AFFECTS,Graft-vs-Host Disease,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0018799,C1148523,AFFECTS,Heart Diseases,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0018801,C0014653,AFFECTS,Heart failure,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0018824,C0018270,AFFECTS,Heart valve disease,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0018889,C0003618,AFFECTS,Helminthiasis,Desire for food,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0018889,C0025516,AFFECTS,Helminthiasis,"Metabolic Detoxication, Drug",dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019104,C0014653,AFFECTS,"Hemorrhagic Fevers, Viral",Equilibrium,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0019104,C1516559,AFFECTS,"Hemorrhagic Fevers, Viral",Circulatory Process,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019196,C0000934,AFFECTS,Hepatitis C,Acclimatization,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0019196,C0012238,AFFECTS,Hepatitis C,Digestion,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019196,C0596570,AFFECTS,Hepatitis C,fibrogenesis,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019196,C0678723,AFFECTS,Hepatitis C,Biologic Development,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0019196,C0678889,AFFECTS,Hepatitis C,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019196,C0699900,AFFECTS,Hepatitis C,Catabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019196,C1148523,AFFECTS,Hepatitis C,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019196,C1155328,AFFECTS,Hepatitis C,Antiviral Response,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0019196,C1749719,AFFECTS,Hepatitis C,Adaptive Immune Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019247,C0026649,AFFECTS,Hereditary Diseases,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019247,C1819194,AFFECTS,Hereditary Diseases,myelin formation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019322,C0018270,AFFECTS,Umbilical hernia,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019348,C0032961,AFFECTS,Herpes Simplex Infections,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019348,C1819464,AFFECTS,Herpes Simplex Infections,tumor necrosis factor production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019360,C0020966,AFFECTS,Herpes zoster disease,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0019693,C0020966,AFFECTS,HIV Infections,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0020255,C0006159,AFFECTS,Hydrocephalus,Breeding,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0020456,C0032961,AFFECTS,Hyperglycemia,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0020473,C0001811,AFFECTS,Hyperlipidemia,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0020488,C0005823,AFFECTS,Hypernatremia,Blood Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0020538,C0000934,AFFECTS,Hypertensive disease,Acclimatization,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0020538,C0005823,AFFECTS,Hypertensive disease,Blood Pressure,dsyn,orgf,7,AFFECTS_DSYNafctORGF
+C0020538,C0011065,AFFECTS,Hypertensive disease,Cessation of life,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C0020538,C0014653,AFFECTS,Hypertensive disease,Equilibrium,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0020538,C0018270,AFFECTS,Hypertensive disease,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0020538,C0032961,AFFECTS,Hypertensive disease,Pregnancy,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0020615,C0678889,AFFECTS,Hypoglycemia,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0020624,C0025519,AFFECTS,Hypomenorrhea,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0020676,C0006159,AFFECTS,Hypothyroidism,Breeding,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0021051,C0814002,AFFECTS,Immunologic Deficiency Syndromes,Neurogenesis,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0021053,C0035150,AFFECTS,Immune System Diseases,Reproduction,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0021053,C0678889,AFFECTS,Immune System Diseases,Immunoregulation,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0021053,C1327413,AFFECTS,Immune System Diseases,cytokine production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0021390,C1819444,AFFECTS,Inflammatory Bowel Diseases,interleukin-17 production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0021400,C0001811,AFFECTS,Influenza,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0021400,C0005615,AFFECTS,Influenza,Birth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0021400,C0011065,AFFECTS,Influenza,Cessation of life,dsyn,orgf,6,AFFECTS_DSYNafctORGF
+C0021400,C0018270,AFFECTS,Influenza,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0021400,C0032961,AFFECTS,Influenza,Pregnancy,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0021400,C0278054,AFFECTS,Influenza,Male reproductive function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0021400,C0678889,AFFECTS,Influenza,Immunoregulation,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C0021400,C0870921,AFFECTS,Influenza,motor performance,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0021400,C1155328,AFFECTS,Influenza,Antiviral Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0021400,C2584321,AFFECTS,Influenza,Reaching,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0021933,C0011065,AFFECTS,Intussusception,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0022658,C0005823,AFFECTS,Kidney Diseases,Blood Pressure,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0022660,C0011065,AFFECTS,"Kidney Failure, Acute",Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0022660,C0025519,AFFECTS,"Kidney Failure, Acute",Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0022660,C0597987,AFFECTS,"Kidney Failure, Acute",Energy Balance,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0022660,C1148523,AFFECTS,"Kidney Failure, Acute",Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0022806,C0020966,AFFECTS,Kwashiorkor,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0023374,C0026649,AFFECTS,Lesch-Nyhan Syndrome,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0023530,C0011065,AFFECTS,Leukopenia,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0023530,C0043240,AFFECTS,Leukopenia,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0023530,C1749719,AFFECTS,Leukopenia,Adaptive Immune Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0023860,C1516002,AFFECTS,Listeriosis,Antibacterial Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0023882,C0260026,AFFECTS,Little's Disease,motor ability,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0023895,C0011065,AFFECTS,Liver diseases,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0023895,C1148523,AFFECTS,Liver diseases,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0024115,C0678889,AFFECTS,Lung diseases,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0024117,C0001811,AFFECTS,Chronic Obstructive Airway Disease,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0024117,C0011065,AFFECTS,Chronic Obstructive Airway Disease,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0024117,C0678889,AFFECTS,Chronic Obstructive Airway Disease,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0024138,C0678889,AFFECTS,"Lupus Erythematosus, Discoid",Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0024141,C0032961,AFFECTS,"Lupus Erythematosus, Systemic",Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0024141,C0678889,AFFECTS,"Lupus Erythematosus, Systemic",Immunoregulation,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0024312,C0020966,AFFECTS,Lymphopenia,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0024312,C0020967,AFFECTS,Lymphopenia,Humoral Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0024312,C1749719,AFFECTS,Lymphopenia,Adaptive Immune Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0024530,C0011065,AFFECTS,Malaria,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0024530,C0032961,AFFECTS,Malaria,Pregnancy,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0024534,C0008071,AFFECTS,"Malaria, Cerebral",Child Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0024709,C0011065,AFFECTS,Mange,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0025007,C0011065,AFFECTS,Measles,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0025237,C1148523,AFFECTS,Melnick-Needles Syndrome,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0025289,C0011065,AFFECTS,Meningitis,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0025290,C0018270,AFFECTS,Aseptic Meningitis,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0026691,C0678723,AFFECTS,Mucocutaneous Lymph Node Syndrome,Biologic Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0026769,C0678889,AFFECTS,Multiple Sclerosis,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0026769,C1148523,AFFECTS,Multiple Sclerosis,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0026780,C0015895,AFFECTS,Mumps,Fertility,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027051,C0005823,AFFECTS,Myocardial Infarction,Blood Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027059,C0678889,AFFECTS,Myocarditis,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027341,C0001811,AFFECTS,Nail-Patella Syndrome,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027341,C0004614,AFFECTS,Nail-Patella Syndrome,Bacterial Adhesion,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027341,C0005823,AFFECTS,Nail-Patella Syndrome,Blood Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027341,C0018270,AFFECTS,Nail-Patella Syndrome,Growth,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0027341,C0025519,AFFECTS,Nail-Patella Syndrome,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027341,C0035150,AFFECTS,Nail-Patella Syndrome,Reproduction,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0027341,C0042789,AFFECTS,Nail-Patella Syndrome,Vision,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027341,C0597252,AFFECTS,Nail-Patella Syndrome,Plant Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027341,C0678889,AFFECTS,Nail-Patella Syndrome,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027341,C0699900,AFFECTS,Nail-Patella Syndrome,Catabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027765,C0011065,AFFECTS,nervous system disorder,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027765,C0014653,AFFECTS,nervous system disorder,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027765,C0814002,AFFECTS,nervous system disorder,Neurogenesis,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0027868,C0032961,AFFECTS,Neuromuscular Diseases,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0028754,C0011065,AFFECTS,Obesity,Cessation of life,dsyn,orgf,7,AFFECTS_DSYNafctORGF
+C0028754,C1327413,AFFECTS,Obesity,cytokine production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0029118,C0018270,AFFECTS,Opportunistic Infections,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0029118,C0020966,AFFECTS,Opportunistic Infections,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0030353,C0042789,AFFECTS,Papilledema,Vision,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0030360,C0678889,AFFECTS,Papillon-Lefevre Disease,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0030469,C0037361,AFFECTS,Paranasal Sinus Disorder,Smell Perception,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0030499,C0025519,AFFECTS,Parasitic Diseases,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0030552,C0042939,AFFECTS,Paresis,Voice,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0030567,C0001811,AFFECTS,Parkinson Disease,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0031106,C0014653,AFFECTS,Aggressive Periodontitis,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0031350,C0011065,AFFECTS,Pharyngitis,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0031350,C0231199,AFFECTS,Pharyngitis,intolerance function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032002,C0005615,AFFECTS,Pituitary Diseases,Birth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032027,C0012238,AFFECTS,Pityriasis Rubra Pilaris,Digestion,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032064,C0014653,AFFECTS,Plague,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032064,C1516559,AFFECTS,Plague,Circulatory Process,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032269,C0011065,AFFECTS,Pneumococcal Infections,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032285,C0000934,AFFECTS,Pneumonia,Acclimatization,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032285,C0004048,AFFECTS,Pneumonia,Inspiration function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032285,C0011065,AFFECTS,Pneumonia,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0032285,C0018270,AFFECTS,Pneumonia,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032285,C0020966,AFFECTS,Pneumonia,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032285,C0032961,AFFECTS,Pneumonia,Pregnancy,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0032285,C0035150,AFFECTS,Pneumonia,Reproduction,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0032285,C0043240,AFFECTS,Pneumonia,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032285,C0678889,AFFECTS,Pneumonia,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032285,C1327413,AFFECTS,Pneumonia,cytokine production,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0032300,C0018270,AFFECTS,Lobar Pneumonia,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0032320,C1516559,AFFECTS,Pneumoperitoneum,Circulatory Process,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0032326,C0003618,AFFECTS,Pneumothorax,Desire for food,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0033036,C1749719,AFFECTS,Atrial Premature Complexes,Adaptive Immune Response,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0033036,C1817907,AFFECTS,Atrial Premature Complexes,T cell mediated immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0033046,C0699900,AFFECTS,Premenstrual syndrome,Catabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0033817,C0026649,AFFECTS,Pseudomonas Infections,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0033860,C0043240,AFFECTS,Psoriasis,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0033860,C1819444,AFFECTS,Psoriasis,interleukin-17 production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0034069,C0043240,AFFECTS,Pulmonary Fibrosis,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0034069,C1155328,AFFECTS,Pulmonary Fibrosis,Antiviral Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035078,C0011065,AFFECTS,Kidney Failure,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035204,C0005615,AFFECTS,Respiration Disorders,Birth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035204,C0006147,AFFECTS,Respiration Disorders,Breast Feeding,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035204,C0032961,AFFECTS,Respiration Disorders,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035204,C0678889,AFFECTS,Respiration Disorders,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035220,C0032961,AFFECTS,"Respiratory Distress Syndrome, Newborn",Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035222,C0004048,AFFECTS,"Respiratory Distress Syndrome, Adult",Inspiration function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035222,C0011065,AFFECTS,"Respiratory Distress Syndrome, Adult",Cessation of life,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C0035222,C0014653,AFFECTS,"Respiratory Distress Syndrome, Adult",Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035222,C0025519,AFFECTS,"Respiratory Distress Syndrome, Adult",Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035222,C0032961,AFFECTS,"Respiratory Distress Syndrome, Adult",Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035222,C1148523,AFFECTS,"Respiratory Distress Syndrome, Adult",Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035222,C1327413,AFFECTS,"Respiratory Distress Syndrome, Adult",cytokine production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035235,C0032961,AFFECTS,Respiratory Syncytial Virus Infections,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035235,C0678723,AFFECTS,Respiratory Syncytial Virus Infections,Biologic Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035235,C1327413,AFFECTS,Respiratory Syncytial Virus Infections,cytokine production,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0035243,C0037313,AFFECTS,Respiratory Tract Infections,Sleep,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0035243,C0678723,AFFECTS,Respiratory Tract Infections,Biologic Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035243,C1148523,AFFECTS,Respiratory Tract Infections,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035243,C1819457,AFFECTS,Respiratory Tract Infections,interleukin-4 production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035258,C0009637,AFFECTS,Restless Legs Syndrome,Conception,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035436,C0004048,AFFECTS,Rheumatic Fever,Inspiration function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035455,C0025329,AFFECTS,Rhinitis,Menstrual cycle,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035455,C0032961,AFFECTS,Rhinitis,Pregnancy,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0035585,C0011065,AFFECTS,Rickettsia Infections,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035869,C0008071,AFFECTS,Rotavirus Infections,Child Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0035869,C0011135,AFFECTS,Rotavirus Infections,Defecation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0036202,C0032961,AFFECTS,Sarcoidosis,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0036310,C0000934,AFFECTS,Scheuermann's Disease,Acclimatization,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0036310,C0003618,AFFECTS,Scheuermann's Disease,Desire for food,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0036310,C0005615,AFFECTS,Scheuermann's Disease,Birth,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0036310,C0006159,AFFECTS,Scheuermann's Disease,Breeding,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0036310,C0011065,AFFECTS,Scheuermann's Disease,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0036310,C0016284,AFFECTS,Scheuermann's Disease,Fluid Balance,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0036310,C0018270,AFFECTS,Scheuermann's Disease,Growth,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0036310,C0018841,AFFECTS,Scheuermann's Disease,Thermogenesis,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0036310,C0678889,AFFECTS,Scheuermann's Disease,Immunoregulation,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0036310,C1148523,AFFECTS,Scheuermann's Disease,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0036310,C1516559,AFFECTS,Scheuermann's Disease,Circulatory Process,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0036472,C0025519,AFFECTS,Scrub Typhus,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0036690,C0005486,AFFECTS,Septicemia,Bioenergetics,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C0036690,C0011065,AFFECTS,Septicemia,Cessation of life,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0036690,C0014653,AFFECTS,Septicemia,Equilibrium,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0036690,C0025519,AFFECTS,Septicemia,Metabolism,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0036690,C0032961,AFFECTS,Septicemia,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0036690,C0043240,AFFECTS,Septicemia,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0036690,C0699900,AFFECTS,Septicemia,Catabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0036916,C0015895,AFFECTS,Sexually Transmitted Diseases,Fertility,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0037284,C0011065,AFFECTS,Skin lesion,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0037354,C2584321,AFFECTS,Smallpox,Reaching,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0038363,C0231199,AFFECTS,Aphthous Stomatitis,intolerance function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0038454,C0005823,AFFECTS,Cerebrovascular accident,Blood Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0038454,C0278092,AFFECTS,Cerebrovascular accident,Sexual function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0039128,C2584321,AFFECTS,Syphilis,Reaching,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0040034,C1516559,AFFECTS,Thrombocytopenia,Circulatory Process,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0040034,C3159140,AFFECTS,Thrombocytopenia,interferon production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0040147,C0032961,AFFECTS,Thyroiditis,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0040584,C0677482,AFFECTS,Tracheitis,Parasitism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0041234,C0014653,AFFECTS,Chagas Disease,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0041234,C1327413,AFFECTS,Chagas Disease,cytokine production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0041296,C0018270,AFFECTS,Tuberculosis,Growth,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0041912,C0037313,AFFECTS,Upper Respiratory Infections,Sleep,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0041912,C0037361,AFFECTS,Upper Respiratory Infections,Smell Perception,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0041912,C0678889,AFFECTS,Upper Respiratory Infections,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0041912,C1148523,AFFECTS,Upper Respiratory Infections,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042029,C0009637,AFFECTS,Urinary tract infection,Conception,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0042164,C0006159,AFFECTS,Uveitis,Breeding,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042420,C0000934,AFFECTS,Vasovagal syncope,Acclimatization,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042749,C0011065,AFFECTS,Viremia,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042749,C0020966,AFFECTS,Viremia,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C0001811,AFFECTS,Virus Diseases,Aging,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0042769,C0011065,AFFECTS,Virus Diseases,Cessation of life,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C0042769,C0012238,AFFECTS,Virus Diseases,Digestion,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C0014653,AFFECTS,Virus Diseases,Equilibrium,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C0042769,C0015895,AFFECTS,Virus Diseases,Fertility,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0042769,C0018270,AFFECTS,Virus Diseases,Growth,dsyn,orgf,6,AFFECTS_DSYNafctORGF
+C0042769,C0020967,AFFECTS,Virus Diseases,Humoral Immunity,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0042769,C0025519,AFFECTS,Virus Diseases,Metabolism,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0042769,C0026649,AFFECTS,Virus Diseases,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C0032961,AFFECTS,Virus Diseases,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C0037313,AFFECTS,Virus Diseases,Sleep,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C0043240,AFFECTS,Virus Diseases,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C0678723,AFFECTS,Virus Diseases,Biologic Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C0678889,AFFECTS,Virus Diseases,Immunoregulation,dsyn,orgf,8,AFFECTS_DSYNafctORGF
+C0042769,C1155328,AFFECTS,Virus Diseases,Antiviral Response,dsyn,orgf,5,AFFECTS_DSYNafctORGF
+C0042769,C1327413,AFFECTS,Virus Diseases,cytokine production,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0042769,C1327441,AFFECTS,Virus Diseases,negative regulation of inflammatory response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C1516559,AFFECTS,Virus Diseases,Circulatory Process,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C1749719,AFFECTS,Virus Diseases,Adaptive Immune Response,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0042769,C1817201,AFFECTS,Virus Diseases,tissue maintenance,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C1817907,AFFECTS,Virus Diseases,T cell mediated immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C1819431,AFFECTS,Virus Diseases,interferon-alpha production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C2752534,AFFECTS,Virus Diseases,small molecule metabolic process,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C2936375,AFFECTS,Virus Diseases,Th1-Th2 Balance,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0042769,C3159140,AFFECTS,Virus Diseases,interferon production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0042769,C3825510,AFFECTS,Virus Diseases,Viruses--Reproduction,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0043528,C0014653,AFFECTS,Zoonoses,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0043528,C0677482,AFFECTS,Zoonoses,Parasitism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0079293,C0678889,AFFECTS,Epidermolysis Bullosa Acquisita,Immunoregulation,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0085077,C0678889,AFFECTS,Sweet Syndrome,Immunoregulation,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0085078,C0699900,AFFECTS,Lysosomal Storage Diseases,Catabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0085635,C0042789,AFFECTS,Photopsia,Vision,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0085692,C4505207,AFFECTS,Hemorrhagic cystitis,Immune Reconstitution,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0086789,C0678889,AFFECTS,Periadenitis Mucosa Necrotica Recurrens,Immunoregulation,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0149521,C0026649,AFFECTS,"Pancreatitis, Chronic",Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0149725,C0678889,AFFECTS,Lower respiratory tract infection,Immunoregulation,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0151317,C0001811,AFFECTS,Chronic infectious disease,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0151317,C0011065,AFFECTS,Chronic infectious disease,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0151317,C0018270,AFFECTS,Chronic infectious disease,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0151317,C1327413,AFFECTS,Chronic infectious disease,cytokine production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0151559,C0678889,AFFECTS,Central nervous system depression (disorder),Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0151744,C0000934,AFFECTS,Myocardial Ischemia,Acclimatization,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0153252,C0020967,AFFECTS,Systemic candidiasis,Humoral Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0155765,C0011065,AFFECTS,Disease of capillaries,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0158944,C0015745,AFFECTS,Infections specific to perinatal period,Feeding behaviors,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0158947,C0009253,AFFECTS,Omphalitis of the newborn,Coitus,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0162429,C0011065,AFFECTS,Malnutrition,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0162429,C0018270,AFFECTS,Malnutrition,Growth,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0162429,C0037361,AFFECTS,Malnutrition,Smell Perception,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0162429,C2584321,AFFECTS,Malnutrition,Reaching,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0162770,C0243109,AFFECTS,Right Ventricular Hypertrophy,postnatal growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0162809,C1819426,AFFECTS,Kallmann Syndrome,chemokine production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0175713,C0026649,AFFECTS,Aicardi's syndrome,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0205721,C0011065,AFFECTS,"Infections, Hospital",Cessation of life,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0205721,C0043240,AFFECTS,"Infections, Hospital",Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0205740,C0678889,AFFECTS,Canine Distemper,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0206061,C0043240,AFFECTS,"Pneumonia, Interstitial",Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0206608,C0023796,AFFECTS,Flavivirus Infections,Lipolysis,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0206750,C0013123,AFFECTS,Coronavirus Infections,Water consumption,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0206750,C0018270,AFFECTS,Coronavirus Infections,Growth,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0206750,C0022864,AFFECTS,Coronavirus Infections,Labor (Childbirth),dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0206750,C0026649,AFFECTS,Coronavirus Infections,Movement,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0206750,C0032961,AFFECTS,Coronavirus Infections,Pregnancy,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C0206750,C0678889,AFFECTS,Coronavirus Infections,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0206750,C1148523,AFFECTS,Coronavirus Infections,Childbirth,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C0206750,C1155328,AFFECTS,Coronavirus Infections,Antiviral Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0206750,C1654934,AFFECTS,Coronavirus Infections,Immune Evasion,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0220994,C0011065,AFFECTS,Hyperammonemia,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0221106,C0012238,AFFECTS,Alkalemia,Digestion,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0221106,C0678889,AFFECTS,Alkalemia,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0221444,C0597987,AFFECTS,clinical syndromes,Energy Balance,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0231341,C0001811,AFFECTS,Premature aging syndrome,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0235950,C0018270,AFFECTS,Zinc deficiency,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0238176,C1819447,AFFECTS,Hypervitaminosis B6,interleukin-2 production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0238421,C0020966,AFFECTS,Selenium deficiency,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0238990,C0011065,AFFECTS,Acute lower respiratory tract infection,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0239981,C0043240,AFFECTS,Hypoalbuminemia,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0242422,C0001811,AFFECTS,Parkinsonian Disorders,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0242770,C0043240,AFFECTS,Bronchiolitis Obliterans Organizing Pneumonia,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0262405,C0037817,AFFECTS,Cerebral dysfunction,Speech,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0262988,C0678889,AFFECTS,Vasculitis of the skin,Immunoregulation,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0263338,C0678889,AFFECTS,Chronic Urticaria,Immunoregulation,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0264220,C1327413,AFFECTS,Chronic disease of respiratory system,cytokine production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0264408,C0043240,AFFECTS,Childhood asthma,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0264490,C0011065,AFFECTS,Acute respiratory failure,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0264523,C0004048,AFFECTS,Pulmonary ossification,Inspiration function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0264886,C1516559,AFFECTS,Conduction disorder of the heart,Circulatory Process,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0265514,C0678889,AFFECTS,Dermatofibrosis lenticularis disseminata,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0266427,C0000934,AFFECTS,Testicular regression syndrome,Acclimatization,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0266865,C0024888,AFFECTS,Step mouth,Chewing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0270724,C0026649,AFFECTS,Infantile Neuroaxonal Dystrophy,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0270724,C1148523,AFFECTS,Infantile Neuroaxonal Dystrophy,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0271708,C3824609,AFFECTS,Fasting Hypoglycemia,cellular response to virus,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0275522,C0018270,AFFECTS,Asymptomatic Infections,Growth,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0275522,C0678723,AFFECTS,Asymptomatic Infections,Biologic Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0275522,C1819464,AFFECTS,Asymptomatic Infections,tumor necrosis factor production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0275524,C0014653,AFFECTS,Coinfection,Equilibrium,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0275524,C0018270,AFFECTS,Coinfection,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0275524,C0020966,AFFECTS,Coinfection,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0275524,C0035150,AFFECTS,Coinfection,Reproduction,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0275524,C0678889,AFFECTS,Coinfection,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0275524,C1327413,AFFECTS,Coinfection,cytokine production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0275731,C0006159,AFFECTS,Fowl cholera,Breeding,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0276357,C0026649,AFFECTS,Swine influenza,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0276447,C0043240,AFFECTS,Rhinovirus infection,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0276467,C0678210,AFFECTS,Neonatal calf diarrhea,"Passive immunity, function",dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0276500,C1749719,AFFECTS,Human immunodeficiency virus I infection,Adaptive Immune Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0277527,C0035150,AFFECTS,Epidemic diarrhea,Reproduction,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0277556,C0018270,AFFECTS,Recurrent disease,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0280962,C0035150,AFFECTS,Bone Marrow Suppression,Reproduction,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0302809,C0011065,AFFECTS,Fulminant Hepatitis,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0311276,C0596236,AFFECTS,Severe malnutrition,calcium metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0333027,C0004048,AFFECTS,Microlithiasis,Inspiration function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0339901,C0037313,AFFECTS,Acute respiratory infections,Sleep,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0339952,C0011065,AFFECTS,Secondary bacterial pneumonia,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0340427,C0020967,AFFECTS,Familial dilated cardiomyopathy,Humoral Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0344191,C2584321,AFFECTS,Cerebellar decompression injury,Reaching,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0348754,C1516559,AFFECTS,Toxic liver disease,Circulatory Process,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0376356,C0018270,AFFECTS,Premenstrual Tension,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0376538,C0678889,AFFECTS,Porcine Reproductive and Respiratory Syndrome,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0376538,C1155328,AFFECTS,Porcine Reproductive and Respiratory Syndrome,Antiviral Response,dsyn,orgf,5,AFFECTS_DSYNafctORGF
+C0376538,C1752856,AFFECTS,Porcine Reproductive and Respiratory Syndrome,Host-Pathogen Interactions,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0393591,C0018270,AFFECTS,AICARDI-GOUTIERES SYNDROME,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0398686,C0020966,AFFECTS,Primary immune deficiency disorder,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0400966,C0023796,AFFECTS,Non-alcoholic Fatty Liver Disease,Lipolysis,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0401151,C0018270,AFFECTS,Chronic diarrhea,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0442886,C0003618,AFFECTS,Secondary Infections,Desire for food,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0442886,C0011065,AFFECTS,Secondary Infections,Cessation of life,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0442886,C0018270,AFFECTS,Secondary Infections,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0442886,C0025519,AFFECTS,Secondary Infections,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0442886,C1155328,AFFECTS,Secondary Infections,Antiviral Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0442893,C0000934,AFFECTS,Systemic disease,Acclimatization,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0442893,C2584321,AFFECTS,Systemic disease,Reaching,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0452221,C0018270,AFFECTS,Osteomyelitis of vertebra,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0456909,C0599607,AFFECTS,Blindness,vestibular reflex,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0472369,C0005823,AFFECTS,Hemorrhagic cerebral infarction,Blood Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0520679,C0011065,AFFECTS,"Sleep Apnea, Obstructive",Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0520679,C0018270,AFFECTS,"Sleep Apnea, Obstructive",Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0520679,C0032961,AFFECTS,"Sleep Apnea, Obstructive",Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0520679,C2825534,AFFECTS,"Sleep Apnea, Obstructive",Behavioral Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0520680,C0011065,AFFECTS,"Sleep Apnea, Central",Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0520680,C1819447,AFFECTS,"Sleep Apnea, Central",interleukin-2 production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0524851,C0026649,AFFECTS,Neurodegenerative Disorders,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0600260,C0231800,AFFECTS,"Lung Diseases, Obstructive","Expiration, function",dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0600327,C2584321,AFFECTS,Toxic Shock Syndrome,Reaching,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0678356,C0023946,AFFECTS,alcohol effect,Locomotion,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C0679225,C0011065,AFFECTS,multiple pathologies,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0679225,C0025519,AFFECTS,multiple pathologies,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0694549,C0032961,AFFECTS,Community acquired pneumonia,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0729531,C0004614,AFFECTS,Viral respiratory infection,Bacterial Adhesion,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0729531,C0014653,AFFECTS,Viral respiratory infection,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0729531,C0043240,AFFECTS,Viral respiratory infection,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0729531,C1155328,AFFECTS,Viral respiratory infection,Antiviral Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0730328,C0018270,AFFECTS,Central Serous Chorioretinopathy,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0730328,C0025519,AFFECTS,Central Serous Chorioretinopathy,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0743841,C0005905,AFFECTS,Disorder characterized by fever,Physiologic Thermoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0743841,C0014653,AFFECTS,Disorder characterized by fever,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0743841,C0278054,AFFECTS,Disorder characterized by fever,Male reproductive function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0748042,C0011065,AFFECTS,pseudomonas bacteremia,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0748168,C0014653,AFFECTS,Pulmonary Pathology,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0750103,C0018270,AFFECTS,vaginalis,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0751651,C0025519,AFFECTS,Mitochondrial Diseases,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0796085,C1148523,AFFECTS,Nance-Horan syndrome,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0851341,C0018270,AFFECTS,Infestation,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0851886,C1749719,AFFECTS,Pneumocystis Infections,Adaptive Immune Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0855227,C0013470,AFFECTS,purging,Eating,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0856169,C0001811,AFFECTS,Endothelial dysfunction,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0856169,C0014653,AFFECTS,Endothelial dysfunction,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0856238,C0011065,AFFECTS,influenza (epidemic),Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C0858318,C0011065,AFFECTS,Plasmodium falciparum infection,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0858744,C0037313,AFFECTS,infection induced,Sleep,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0858744,C1148523,AFFECTS,infection induced,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0867389,C0020967,AFFECTS,Chronic graft-versus-host disease,Humoral Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0872054,C1510835,AFFECTS,Latent Infection,Aging-Related Process,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0872054,C1516002,AFFECTS,Latent Infection,Antibacterial Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0876973,C0678889,AFFECTS,Infectious Lung Disorder,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0877203,C0018270,AFFECTS,Viral Respiratory Tract Infection,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0948268,C0016284,AFFECTS,Hemodynamic instability,Fluid Balance,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C0948780,C0032961,AFFECTS,Rhinosinusitis,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1096155,C0005823,AFFECTS,Macrophage Activation Syndrome,Blood Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1096155,C0014653,AFFECTS,Macrophage Activation Syndrome,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1096155,C0015264,AFFECTS,Macrophage Activation Syndrome,Exertion,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1096155,C0015895,AFFECTS,Macrophage Activation Syndrome,Fertility,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1096155,C0018270,AFFECTS,Macrophage Activation Syndrome,Growth,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C1096155,C0025519,AFFECTS,Macrophage Activation Syndrome,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1096155,C0678723,AFFECTS,Macrophage Activation Syndrome,Biologic Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1096155,C1148523,AFFECTS,Macrophage Activation Syndrome,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1096584,C1819440,AFFECTS,Chlamydia pneumoniae Infections,interleukin-13 production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1112412,C0231800,AFFECTS,peripheral occlusion,"Expiration, function",dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0001811,AFFECTS,Severe Acute Respiratory Syndrome,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0005615,AFFECTS,Severe Acute Respiratory Syndrome,Birth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0005823,AFFECTS,Severe Acute Respiratory Syndrome,Blood Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0006147,AFFECTS,Severe Acute Respiratory Syndrome,Breast Feeding,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0009253,AFFECTS,Severe Acute Respiratory Syndrome,Coitus,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C1175175,C0011065,AFFECTS,Severe Acute Respiratory Syndrome,Cessation of life,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C1175175,C0012238,AFFECTS,Severe Acute Respiratory Syndrome,Digestion,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C1175175,C0014653,AFFECTS,Severe Acute Respiratory Syndrome,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0015895,AFFECTS,Severe Acute Respiratory Syndrome,Fertility,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0016284,AFFECTS,Severe Acute Respiratory Syndrome,Fluid Balance,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0018270,AFFECTS,Severe Acute Respiratory Syndrome,Growth,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C1175175,C0020966,AFFECTS,Severe Acute Respiratory Syndrome,Cellular Immunity,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0025329,AFFECTS,Severe Acute Respiratory Syndrome,Menstrual cycle,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0025519,AFFECTS,Severe Acute Respiratory Syndrome,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0026649,AFFECTS,Severe Acute Respiratory Syndrome,Movement,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C1175175,C0032961,AFFECTS,Severe Acute Respiratory Syndrome,Pregnancy,dsyn,orgf,5,AFFECTS_DSYNafctORGF
+C1175175,C0233896,AFFECTS,Severe Acute Respiratory Syndrome,Sexual Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0278054,AFFECTS,Severe Acute Respiratory Syndrome,Male reproductive function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C0678723,AFFECTS,Severe Acute Respiratory Syndrome,Biologic Development,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C1175175,C0678889,AFFECTS,Severe Acute Respiratory Syndrome,Immunoregulation,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C1175175,C1148523,AFFECTS,Severe Acute Respiratory Syndrome,Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C1155328,AFFECTS,Severe Acute Respiratory Syndrome,Antiviral Response,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C1175175,C1327441,AFFECTS,Severe Acute Respiratory Syndrome,negative regulation of inflammatory response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1175175,C2584321,AFFECTS,Severe Acute Respiratory Syndrome,Reaching,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1258039,C3159140,AFFECTS,Henipavirus Infections,interferon production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1262020,C0011065,AFFECTS,diffuse alveolar damage,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1263835,C0678723,AFFECTS,Infectious disorder of the fetus,Biologic Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1270169,C1155328,AFFECTS,Villitis,Antiviral Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1275126,C1148523,AFFECTS,TNF receptor-associated periodic fever syndrome (TRAPS),Childbirth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1290807,C0011065,AFFECTS,Diarrheal disorder,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1290884,C0032961,AFFECTS,Inflammatory disorder,Pregnancy,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C1290884,C0035150,AFFECTS,Inflammatory disorder,Reproduction,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1290884,C0678889,AFFECTS,Inflammatory disorder,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1290884,C1155328,AFFECTS,Inflammatory disorder,Antiviral Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1290886,C0678889,AFFECTS,Chronic inflammatory disorder,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1299624,C0000934,AFFECTS,Postural Orthostatic Tachycardia Syndrome,Acclimatization,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1299624,C0032961,AFFECTS,Postural Orthostatic Tachycardia Syndrome,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1319860,C0032961,AFFECTS,Sendai virus infection,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1384666,C0042939,AFFECTS,hearing impairment,Voice,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1561643,C0011065,AFFECTS,Chronic Kidney Diseases,Cessation of life,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C1562113,C0026649,AFFECTS,Fleck corneal dystrophy,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1565489,C0162523,AFFECTS,Renal Insufficiency,Portal Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1707758,C0011065,AFFECTS,Direct Contact Transmission Infection,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1839615,C0043240,AFFECTS,X-linked myopathy with excessive autophagy,Wound Healing,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1853120,C0026559,AFFECTS,Noonan Syndrome 4,Morphogenesis,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1854469,C0026649,AFFECTS,Noonan Syndrome 2,Movement,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1854469,C0699900,AFFECTS,Noonan Syndrome 2,Catabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1854664,C0018270,AFFECTS,LETHAL CONGENITAL CONTRACTURE SYNDROME 1,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1855663,C0025519,AFFECTS,Kaufman oculocerebrofacial syndrome,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1856053,C0026649,AFFECTS,Hydranencephaly with Renal Aplasia-Dysplasia,Movement,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C1862172,C1155328,AFFECTS,Weismann Netter syndrome,Antiviral Response,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C1862382,C0014653,AFFECTS,SVEINSSON CHORIORETINAL ATROPHY,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1864389,C0699900,AFFECTS,PREMATURE CHROMATID SEPARATION TRAIT,Catabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C1868677,C0000934,AFFECTS,PHOTOPAROXYSMAL RESPONSE 1,Acclimatization,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C2062441,C1327413,AFFECTS,Influenza A,cytokine production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C2062441,C1516559,AFFECTS,Influenza A,Circulatory Process,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C2062441,C1819430,AFFECTS,Influenza A,type I interferon production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C2674218,C0014653,AFFECTS,"SPHEROCYTOSIS, TYPE 1 (disorder)",Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C2931258,C0014653,AFFECTS,"Amaurosis congenita of Leber, type 1",Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C2931826,C0018270,AFFECTS,Potassium aggravated myotonia,Growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C2931826,C1155328,AFFECTS,Potassium aggravated myotonia,Antiviral Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C3160858,C0005823,AFFECTS,Posterior reversible encephalopathy syndrome,Blood Pressure,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C3642304,C2610587,AFFECTS,Placental Malformation,lung growth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C3665365,C0678889,AFFECTS,"Arteriosclerotic cardiovascular disease, NOS",Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C3669463,C0032961,AFFECTS,Feline immunodeficiency virus infection,Pregnancy,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C3687015,C0003618,AFFECTS,Ulcerative dermatitis,Desire for food,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C3694279,C0015745,AFFECTS,Middle East Respiratory Syndrome,Feeding behaviors,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C3694279,C0678889,AFFECTS,Middle East Respiratory Syndrome,Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C3694279,C2584321,AFFECTS,Middle East Respiratory Syndrome,Reaching,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C3809991,C1154988,AFFECTS,"IMMUNODEFICIENCY, COMMON VARIABLE, 10",defense response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C3887658,C0037361,AFFECTS,"PULMONARY VENOOCCLUSIVE DISEASE 1, AUTOSOMAL DOMINANT",Smell Perception,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C3888198,C0005823,AFFECTS,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",Blood Pressure,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C3888198,C0678889,AFFECTS,"BESTROPHINOPATHY, AUTOSOMAL RECESSIVE",Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C3888570,C0006159,AFFECTS,Degenerative mitral valve disease,Breeding,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C4022604,C0008071,AFFECTS,Glomerulomegaly,Child Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C4085595,C0678723,AFFECTS,AL-RAQAD SYNDROME,Biologic Development,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C4085595,C1154988,AFFECTS,AL-RAQAD SYNDROME,defense response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C4479344,C0678889,AFFECTS,"SCLEROSING CHOLANGITIS, NEONATAL",Immunoregulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C4703473,C0005823,AFFECTS,Atherosclerotic lesion,Blood Pressure,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C4703473,C0011065,AFFECTS,Atherosclerotic lesion,Cessation of life,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5139167,C0011065,AFFECTS,Severe infection,Cessation of life,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C5139167,C1327413,AFFECTS,Severe infection,cytokine production,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5197682,C0014653,AFFECTS,Vaccine-Preventable Diseases,Equilibrium,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C0000934,AFFECTS,COVID-19,Acclimatization,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C5203670,C0001811,AFFECTS,COVID-19,Aging,dsyn,orgf,6,AFFECTS_DSYNafctORGF
+C5203670,C0004048,AFFECTS,COVID-19,Inspiration function,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C0005615,AFFECTS,COVID-19,Birth,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C0005823,AFFECTS,COVID-19,Blood Pressure,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C5203670,C0007179,AFFECTS,COVID-19,Cardiac Volume,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C5203670,C0009253,AFFECTS,COVID-19,Coitus,dsyn,orgf,5,AFFECTS_DSYNafctORGF
+C5203670,C0011065,AFFECTS,COVID-19,Cessation of life,dsyn,orgf,25,AFFECTS_DSYNafctORGF
+C5203670,C0011135,AFFECTS,COVID-19,Defecation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C0013123,AFFECTS,COVID-19,Water consumption,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C0013470,AFFECTS,COVID-19,Eating,dsyn,orgf,3,AFFECTS_DSYNafctORGF
+C5203670,C0014653,AFFECTS,COVID-19,Equilibrium,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C5203670,C0015745,AFFECTS,COVID-19,Feeding behaviors,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C5203670,C0015895,AFFECTS,COVID-19,Fertility,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C5203670,C0018270,AFFECTS,COVID-19,Growth,dsyn,orgf,7,AFFECTS_DSYNafctORGF
+C5203670,C0025519,AFFECTS,COVID-19,Metabolism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C0026649,AFFECTS,COVID-19,Movement,dsyn,orgf,12,AFFECTS_DSYNafctORGF
+C5203670,C0032961,AFFECTS,COVID-19,Pregnancy,dsyn,orgf,34,AFFECTS_DSYNafctORGF
+C5203670,C0035150,AFFECTS,COVID-19,Reproduction,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C0037313,AFFECTS,COVID-19,Sleep,dsyn,orgf,4,AFFECTS_DSYNafctORGF
+C5203670,C0037361,AFFECTS,COVID-19,Smell Perception,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C0042789,AFFECTS,COVID-19,Vision,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C0231800,AFFECTS,COVID-19,"Expiration, function",dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C0278054,AFFECTS,COVID-19,Male reproductive function,dsyn,orgf,5,AFFECTS_DSYNafctORGF
+C5203670,C0560560,AFFECTS,COVID-19,Moving,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C5203670,C0677482,AFFECTS,COVID-19,Parasitism,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C0678863,AFFECTS,COVID-19,blood pressure regulation,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C0678889,AFFECTS,COVID-19,Immunoregulation,dsyn,orgf,8,AFFECTS_DSYNafctORGF
+C5203670,C0814002,AFFECTS,COVID-19,Neurogenesis,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C1148523,AFFECTS,COVID-19,Childbirth,dsyn,orgf,37,AFFECTS_DSYNafctORGF
+C5203670,C1155328,AFFECTS,COVID-19,Antiviral Response,dsyn,orgf,1,AFFECTS_DSYNafctORGF
+C5203670,C1516559,AFFECTS,COVID-19,Circulatory Process,dsyn,orgf,2,AFFECTS_DSYNafctORGF
+C5203670,C2584321,AFFECTS,COVID-19,Reaching,dsyn,orgf,13,AFFECTS_DSYNafctORGF
+C5206406,C0001811,AFFECTS,Clonal Hematopoiesis,Aging,dsyn,orgf,1,AFFECTS_DSYNafctORGF

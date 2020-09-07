@@ -1,0 +1,269 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001347,C0010957,AFFECTS,Acute-Phase Proteins,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0001473,C0273115,AFFECTS,Adenosine Triphosphatases,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0001924,C0273115,AFFECTS,Albumins,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0002791,C0010957,AFFECTS,Anaphylatoxins,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0003009,C0010957,AFFECTS,angiotensin II,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0003009,C0242488,AFFECTS,angiotensin II,Acute Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0003009,C0273115,AFFECTS,angiotensin II,Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0003018,C0273115,AFFECTS,Angiotensins,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0003241,C2905612,AFFECTS,Antibodies,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0003242,C0242488,AFFECTS,"Antibodies, Anti-Idiotypic",Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0003242,C0273115,AFFECTS,"Antibodies, Anti-Idiotypic",Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0003250,C0235032,AFFECTS,Monoclonal Antibodies,Neurotoxicity Syndromes,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0007367,C0273115,AFFECTS,catalase,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0007578,C0035126,AFFECTS,Cell Adhesion Molecules,Reperfusion Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0008145,C0242488,AFFECTS,Chitinases,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0009498,C0010957,AFFECTS,Complement System Proteins,Tissue damage,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0009498,C0160420,AFFECTS,Complement System Proteins,Injury of kidney,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0009498,C0178324,AFFECTS,Complement System Proteins,Vascular System Injuries,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0009498,C0242488,AFFECTS,Complement System Proteins,Acute Lung Injury,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C0009498,C4552279,AFFECTS,Complement System Proteins,Tissue injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0010762,C0273115,AFFECTS,Cytochrome P450,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0017626,C0043251,AFFECTS,Glial Fibrillary Acidic Protein,Wounds and Injuries,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0017789,C0600688,AFFECTS,Glutamates,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0018284,C0016658,AFFECTS,Growth Factor,Fracture,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0018284,C0035126,AFFECTS,Growth Factor,Reperfusion Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0018969,C0273115,AFFECTS,Heme Oxygenase (Decyclizing),Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0019046,C0600688,AFFECTS,Hemoglobin,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0019652,C0600688,AFFECTS,Histones,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0019796,C0242488,AFFECTS,HMGB1 Protein,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0021665,C0273115,AFFECTS,Insulin-Like Growth Factor I,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0021743,C2905612,AFFECTS,Interferon Type I,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0021747,C0010957,AFFECTS,Interferons,Tissue damage,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0021747,C0035126,AFFECTS,Interferons,Reperfusion Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0021753,C0242488,AFFECTS,"interleukin-1, beta",Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0021755,C0010957,AFFECTS,Interleukin-1,Tissue damage,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0021755,C0242488,AFFECTS,Interleukin-1,Acute Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0021755,C0273115,AFFECTS,Interleukin-1,Lung Injury,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C0021755,C2905612,AFFECTS,Interleukin-1,Storm NOS,aapp,inpo,4,AFFECTS_AAPPafctINPO
+C0021756,C2905612,AFFECTS,Interleukin-2,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0021758,C2905612,AFFECTS,interleukin-4,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0021759,C2905612,AFFECTS,interleukin-5,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0021760,C0010957,AFFECTS,interleukin-6,Tissue damage,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C0021760,C0018805,AFFECTS,interleukin-6,Heart Injuries,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0021760,C0242488,AFFECTS,interleukin-6,Acute Lung Injury,aapp,inpo,4,AFFECTS_AAPPafctINPO
+C0021760,C0273115,AFFECTS,interleukin-6,Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0021760,C0600688,AFFECTS,interleukin-6,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0021760,C2905612,AFFECTS,interleukin-6,Storm NOS,aapp,inpo,24,AFFECTS_AAPPafctINPO
+C0022714,C4552279,AFFECTS,Kinins,Tissue injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0022917,C0010957,AFFECTS,Lactate Dehydrogenase,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0023206,C0600688,AFFECTS,Lectin,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0025543,C3203359,AFFECTS,Metalloproteases,Rupture,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0030940,C0010957,AFFECTS,Peptide Hydrolases,Tissue damage,aapp,inpo,4,AFFECTS_AAPPafctINPO
+C0030940,C0273115,AFFECTS,Peptide Hydrolases,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0030940,C0600688,AFFECTS,Peptide Hydrolases,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0030940,C4552279,AFFECTS,Peptide Hydrolases,Tissue injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0032200,C0600688,AFFECTS,Platelet-Derived Growth Factor,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0033164,C0270611,AFFECTS,Prions,Brain Injuries,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0033382,C0273115,AFFECTS,proline,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0034805,C0010957,AFFECTS,Fc Receptor,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0034861,C0242488,AFFECTS,Recombinant Proteins,Acute Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0034861,C0273115,AFFECTS,Recombinant Proteins,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0036734,C0035126,AFFECTS,Serine Endopeptidases,Reperfusion Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0036734,C0242488,AFFECTS,Serine Endopeptidases,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0037903,C0010957,AFFECTS,SPHINGOMYELINASE,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0038585,C0600467,AFFECTS,Substance P,Neurogenic Inflammation,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0040018,C0560617,AFFECTS,thrombin,knocked out,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0041368,C2905612,AFFECTS,Tumor Necrosis Factors,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0042210,C0014412,AFFECTS,Vaccines,Environmental Exposure,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0042313,C0080194,AFFECTS,vancomycin,Muscle strain,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0057256,C0242488,AFFECTS,Defensins,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0059249,C2905612,AFFECTS,annexin A5,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0059386,C0600688,AFFECTS,"enterotoxin B, staphylococcal",Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0061878,C0273115,AFFECTS,granzyme B,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0068355,C0242488,AFFECTS,NADPH Oxidase,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0069856,C0273115,AFFECTS,"oxytocin, 1-penicillamyl-Leu(2)-",Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0071313,C0242488,AFFECTS,"plY protein, Streptococcus pneumoniae",Acute Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0076560,C0242488,AFFECTS,Thrombospondins,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079189,C0010957,AFFECTS,cytokine,Tissue damage,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C0079189,C0273115,AFFECTS,cytokine,Lung Injury,aapp,inpo,8,AFFECTS_AAPPafctINPO
+C0079189,C0282208,AFFECTS,cytokine,"Injuries, Surgical",aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079189,C0600688,AFFECTS,cytokine,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079189,C0746730,AFFECTS,cytokine,myocardial injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079189,C0876994,AFFECTS,cytokine,Cardiotoxicity,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079189,C2905612,AFFECTS,cytokine,Storm NOS,aapp,inpo,13,AFFECTS_AAPPafctINPO
+C0079189,C2945681,AFFECTS,cytokine,ischemic brain injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079189,C4552279,AFFECTS,cytokine,Tissue injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079459,C0242488,AFFECTS,Granulocyte Colony-Stimulating Factor,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079459,C0273115,AFFECTS,Granulocyte Colony-Stimulating Factor,Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0079633,C0010957,AFFECTS,interleukin-8,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079633,C0035126,AFFECTS,interleukin-8,Reperfusion Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079633,C0242488,AFFECTS,interleukin-8,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079633,C0270611,AFFECTS,interleukin-8,Brain Injuries,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079633,C0273115,AFFECTS,interleukin-8,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0079633,C0600688,AFFECTS,interleukin-8,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0083536,C0242488,AFFECTS,NG-Nitroarginine Methyl Ester,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0084692,C0242488,AFFECTS,Pulmonary Surfactant-Associated Protein D,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0085139,C3203359,AFFECTS,Kinesin,Rupture,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0085295,C0010957,AFFECTS,interleukin-10,Tissue damage,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0085431,C0600688,AFFECTS,Ribonuclease H,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0103306,C4552279,AFFECTS,angiotensin I (1-7),Tissue injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0118522,C0010957,AFFECTS,GA-Binding Protein Transcription Factor,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0118522,C0273115,AFFECTS,GA-Binding Protein Transcription Factor,Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0118522,C0600688,AFFECTS,GA-Binding Protein Transcription Factor,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0120285,C0600688,AFFECTS,Green Fluorescent Proteins,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0123759,C2905612,AFFECTS,interleukin-12,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0134835,C0160420,AFFECTS,P-Selectin,Injury of kidney,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0165519,C0273115,AFFECTS,Matrix Metalloproteinase 9,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0166418,C0273115,AFFECTS,Peroxisome Proliferator-Activated Receptors,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0166418,C2905612,AFFECTS,Peroxisome Proliferator-Activated Receptors,Storm NOS,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0174234,C0273115,AFFECTS,PTX3 protein,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0208355,C3203359,AFFECTS,multicatalytic endopeptidase complex,Rupture,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0243043,C0231275,AFFECTS,Heat-Shock Proteins 70,Cold exposure,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0245109,C2905612,AFFECTS,anakinra,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0282554,C0035126,AFFECTS,chemokine,Reperfusion Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0282554,C0273115,AFFECTS,chemokine,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0282554,C0282208,AFFECTS,chemokine,"Injuries, Surgical",aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0282682,C0080194,AFFECTS,"Antibodies, Blocking",Muscle strain,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0291188,C2905612,AFFECTS,S1P1 Receptor,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0305052,C0560617,AFFECTS,Gamma globulin serum,knocked out,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0305052,C0600688,AFFECTS,Gamma globulin serum,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0384648,C2905612,AFFECTS,Interleukin-17,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0384782,C0600688,AFFECTS,polyglutamine,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0443640,C0035126,AFFECTS,Specific antibody,Reperfusion Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0475463,C0273115,AFFECTS,"Antibodies, Neutralizing",Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0524914,C2905612,AFFECTS,chemokine receptor,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0528480,C0600688,AFFECTS,Presenilin-2,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0528649,C0273115,AFFECTS,"CHI3L1 protein, human",Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0537111,C0242488,AFFECTS,"LGALS9 protein, human",Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0597357,C0242488,AFFECTS,receptor,Acute Lung Injury,aapp,inpo,5,AFFECTS_AAPPafctINPO
+C0599947,C2905612,AFFECTS,release factor,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0623362,C0263415,AFFECTS,Matrix Metalloproteinases,Solar elastosis,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0667830,C0242488,AFFECTS,caspase-8,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0669372,C0242488,AFFECTS,"NOS2A protein, human",Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0670896,C0273115,AFFECTS,Toll-like receptors,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0687670,C2905612,AFFECTS,Mullerian duct inhibiting substance,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0700271,C0242488,AFFECTS,"M Protein, multiple myeloma",Acute Lung Injury,aapp,inpo,6,AFFECTS_AAPPafctINPO
+C0700271,C0273115,AFFECTS,"M Protein, multiple myeloma",Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C0753253,C0273115,AFFECTS,"SDC1 protein, human",Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0796392,C2905612,AFFECTS,bevacizumab,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0920330,C0273115,AFFECTS,Pancreatic enzyme,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0960880,C0010957,AFFECTS,angiotensin converting enzyme 2,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0960880,C0018805,AFFECTS,angiotensin converting enzyme 2,Heart Injuries,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0960880,C0273115,AFFECTS,angiotensin converting enzyme 2,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0960880,C0746730,AFFECTS,angiotensin converting enzyme 2,myocardial injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0965245,C0010957,AFFECTS,"CD274 protein, human",Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C0972232,C1709216,AFFECTS,fibroblast growth factor 21,Neural Tissue Damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1099812,C0242488,AFFECTS,"SOD3 protein, human",Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1099812,C0273115,AFFECTS,"SOD3 protein, human",Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1256770,C0242488,AFFECTS,Vascular Endothelial Growth Factors,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1332824,C0242488,AFFECTS,CXCR6 gene,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1332838,C0242488,AFFECTS,Candidate Disease Gene,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1333257,C0010957,AFFECTS,DUSP1 gene,Tissue damage,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C1333355,C0600688,AFFECTS,ERCC1 gene,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1333908,C0242488,AFFECTS,HMGB1 gene,Acute Lung Injury,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C1333908,C0273115,AFFECTS,HMGB1 gene,Lung Injury,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C1333908,C0746730,AFFECTS,HMGB1 gene,myocardial injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1334043,C0600688,AFFECTS,Homologous Gene,Toxic effect,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1334294,C0242488,AFFECTS,JTB gene,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1335081,C0600688,AFFECTS,OGG1 gene,Toxic effect,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1335191,C0242488,AFFECTS,PAWR gene,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1335439,C0600688,AFFECTS,Polymerase,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1336636,C0242488,AFFECTS,TLR4 gene,Acute Lung Injury,aapp,inpo,9,AFFECTS_AAPPafctINPO
+C1336636,C0273115,AFFECTS,TLR4 gene,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1336763,C0010957,AFFECTS,Toll-Like Receptor Family Gene,Tissue damage,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1336763,C0273115,AFFECTS,Toll-Like Receptor Family Gene,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1366449,C0340257,AFFECTS,F2R gene,Ventilator-associated lung injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1367710,C0242488,AFFECTS,C5 gene,Acute Lung Injury,aapp,inpo,4,AFFECTS_AAPPafctINPO
+C1412113,C0242488,AFFECTS,SLC33A1 gene,Acute Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1412113,C0273115,AFFECTS,SLC33A1 gene,Lung Injury,aapp,inpo,5,AFFECTS_AAPPafctINPO
+C1412113,C0600688,AFFECTS,SLC33A1 gene,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1412417,C0273115,AFFECTS,ANXA1 gene,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1412533,C0014412,AFFECTS,ARIH1 gene,Environmental Exposure,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1412554,C2905612,AFFECTS,ARSB gene,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1412922,C0035126,AFFECTS,SERPING1 gene,Reperfusion Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1413931,C0273115,AFFECTS,ACE gene,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1414141,C0600688,AFFECTS,DPP4 gene,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1414253,C2905612,AFFECTS,S1PR1 gene,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1415068,C0274281,AFFECTS,GJA1 gene,Injury due to exposure to external cause,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1416546,C0012691,AFFECTS,KCNA3 gene,Dislocations,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1416886,C0600688,AFFECTS,LMOD1 gene,Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1417608,C0242488,AFFECTS,NCF1 gene,Acute Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1417719,C0600467,AFFECTS,NGF gene,Neurogenic Inflammation,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1418215,C0242488,AFFECTS,P2RX7 gene,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1418482,C0273115,AFFECTS,CFP gene,Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1418597,C0010957,AFFECTS,PITX3 gene,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1418597,C0035126,AFFECTS,PITX3 gene,Reperfusion Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1418858,C0270611,AFFECTS,NPY4R gene,Brain Injuries,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1421381,C0012691,AFFECTS,USH2A gene,Dislocations,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C1421479,C0441718,AFFECTS,WASF1 gene,Direct trauma,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1422064,C0018805,AFFECTS,ACE2 gene,Heart Injuries,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1422064,C0160420,AFFECTS,ACE2 gene,Injury of kidney,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1422064,C0242488,AFFECTS,ACE2 gene,Acute Lung Injury,aapp,inpo,25,AFFECTS_AAPPafctINPO
+C1422064,C0273115,AFFECTS,ACE2 gene,Lung Injury,aapp,inpo,24,AFFECTS_AAPPafctINPO
+C1422064,C0746730,AFFECTS,ACE2 gene,myocardial injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1422064,C4552279,AFFECTS,ACE2 gene,Tissue injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1422771,C0242488,AFFECTS,PINK1 gene,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1423052,C2905612,AFFECTS,TAS2R10 gene,Storm NOS,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1423063,C0270611,AFFECTS,SIRT3 gene,Brain Injuries,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1423506,C0242488,AFFECTS,SPINK5 gene,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1423842,C0010957,AFFECTS,NELFCD gene,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1425291,C0273115,AFFECTS,TRPV4 gene,Lung Injury,aapp,inpo,4,AFFECTS_AAPPafctINPO
+C1426208,C0242488,AFFECTS,SOCS1 gene,Acute Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1426208,C0273115,AFFECTS,SOCS1 gene,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1439284,C0242488,AFFECTS,AGTR1 gene,Acute Lung Injury,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C1439284,C0273115,AFFECTS,AGTR1 gene,Lung Injury,aapp,inpo,4,AFFECTS_AAPPafctINPO
+C1439290,C0273115,AFFECTS,BDKRB1 gene,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1449159,C0270611,AFFECTS,"CCL2 protein, human",Brain Injuries,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1522002,C0242488,AFFECTS,RNA Recognition Motif,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1537719,C0161479,AFFECTS,MIR21 gene,Nerve injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1537719,C4552279,AFFECTS,MIR21 gene,Tissue injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1538915,C0560570,AFFECTS,APLN gene,Cardiovascular injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1539137,C0026771,AFFECTS,CREG1 gene,Multiple Trauma,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1539907,C0012691,AFFECTS,SYVN1 gene,Dislocations,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1539940,C0273115,AFFECTS,TBL1XR1 gene,Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1564892,C0010957,AFFECTS,Complement Inactivating Agents,Tissue damage,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1565427,C0273115,AFFECTS,"PTK2 protein, human",Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1565860,C0010957,AFFECTS,"PTGS2 protein, human",Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1565860,C0242488,AFFECTS,"PTGS2 protein, human",Acute Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1568891,C0013221,AFFECTS,"HGS protein, human",Drug toxicity,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1568891,C0018805,AFFECTS,"HGS protein, human",Heart Injuries,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1609165,C2905612,AFFECTS,tocilizumab,Storm NOS,aapp,inpo,5,AFFECTS_AAPPafctINPO
+C1701790,C0010957,AFFECTS,"IL17A protein, human",Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1701790,C0035126,AFFECTS,"IL17A protein, human",Reperfusion Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1701790,C0242488,AFFECTS,"IL17A protein, human",Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1705791,C0273115,AFFECTS,MAPK1 wt Allele,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1705947,C0273115,AFFECTS,Interleukin-17A,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1709820,C0010957,AFFECTS,ROS1 wt Allele,Tissue damage,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C1709820,C0242488,AFFECTS,ROS1 wt Allele,Acute Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1709820,C0273115,AFFECTS,ROS1 wt Allele,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1709820,C0349419,AFFECTS,ROS1 wt Allele,Ischemic reperfusion injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1709820,C0600688,AFFECTS,ROS1 wt Allele,Toxic effect,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C1709820,C4552279,AFFECTS,ROS1 wt Allele,Tissue injury,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C1710602,C0273115,AFFECTS,VIPR1 wt Allele,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1823458,C0242488,AFFECTS,TNFAIP8L2 gene,Acute Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1823458,C0273115,AFFECTS,TNFAIP8L2 gene,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1823491,C0242488,AFFECTS,TRIM69 gene,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1823520,C0009938,AFFECTS,TSPAN33 gene,Contusions,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1823649,C0010957,AFFECTS,TIGIT gene,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1824356,C0679360,AFFECTS,RESF1 gene,Foodborne Disease,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1825598,C0043251,AFFECTS,IMPACT gene,Wounds and Injuries,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C1825598,C0161479,AFFECTS,IMPACT gene,Nerve injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1825598,C2905612,AFFECTS,IMPACT gene,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1826950,C0273115,AFFECTS,RTL1 gene,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C1955907,C2905612,AFFECTS,Adipokines,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C2334430,C0035126,AFFECTS,Major histocompatibility complex protein,Reperfusion Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C2717970,C0010957,AFFECTS,Cysteine Proteases,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C2744535,C0018805,AFFECTS,"CD69 protein, human",Heart Injuries,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C2744535,C0039980,AFFECTS,"CD69 protein, human",Thoracic Injuries,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C2744535,C0160390,AFFECTS,"CD69 protein, human",Injury of liver,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C2744535,C0282507,AFFECTS,"CD69 protein, human",Heat Stress Disorders,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C2744535,C0337196,AFFECTS,"CD69 protein, human",Collision,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C2744535,C0600688,AFFECTS,"CD69 protein, human",Toxic effect,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C2744579,C0010957,AFFECTS,"ATP8A2 protein, human",Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C2829991,C0242488,AFFECTS,PALM3 gene,Acute Lung Injury,aapp,inpo,3,AFFECTS_AAPPafctINPO
+C2936529,C0273115,AFFECTS,Inflammasomes,Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C2936529,C2905612,AFFECTS,Inflammasomes,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C2936529,C2945681,AFFECTS,Inflammasomes,ischemic brain injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C3484390,C0560617,AFFECTS,Amyloid beta,knocked out,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C3538756,C0242488,AFFECTS,NLRP1 wt Allele,Acute Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C3540595,C0010957,AFFECTS,CD8A wt Allele,Tissue damage,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C3825076,C0242488,AFFECTS,Complement inhibition,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C3849574,C0273115,AFFECTS,"EPHB2 protein, human",Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C3849701,C0242488,AFFECTS,"interleukin 18 protein, human",Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C3885145,C2905612,AFFECTS,sarilumab,Storm NOS,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C4281807,C0242488,AFFECTS,"Vitronectin, human",Acute Lung Injury,aapp,inpo,2,AFFECTS_AAPPafctINPO
+C4284302,C0274281,AFFECTS,EHD1 wt Allele,Injury due to exposure to external cause,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C4320607,C0242488,AFFECTS,PGR-AS1 gene,Acute Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO
+C4320607,C0273115,AFFECTS,PGR-AS1 gene,Lung Injury,aapp,inpo,1,AFFECTS_AAPPafctINPO

@@ -1,0 +1,160 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0005516,AFFECTS,acetaminophen,Biological Markers,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0000981,C0007809,AFFECTS,acetazolamide,Cerebrospinal Fluid Pressure,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0001275,C1268822,AFFECTS,activated charcoal,Optical density function,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0002026,C0232117,AFFECTS,alfentanil,Pulse Rate,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0002144,C0221743,AFFECTS,allopurinol,Skin reaction,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0002598,C0488414,AFFECTS,amiodarone,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0002772,C0231832,AFFECTS,"Analgesics, Opioid",Respiratory rate,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0002772,C0489601,AFFECTS,"Analgesics, Opioid",output.stool,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0003392,C0521982,AFFECTS,Antineoplastic Agents,Response to treatment,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0003968,C0005516,AFFECTS,ascorbic acid,Biological Markers,orch,clna,5,AFFECTS_ORCHafctCLNA
+C0004745,C3173575,AFFECTS,Barbiturates,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0007004,C2713234,AFFECTS,Carbohydrates,Mood:-:Point in time:^Patient:-,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0008269,C0018810,AFFECTS,chloroquine,heart rate,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0008269,C0364896,AFFECTS,chloroquine,pH:LsCnc:Pt:Ser/Plas:Qn,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0008269,C0488414,AFFECTS,chloroquine,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,9,AFFECTS_ORCHafctCLNA
+C0008269,C0489625,AFFECTS,chloroquine,QTC interval,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0008269,C0521982,AFFECTS,chloroquine,Response to treatment,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0008269,C2713234,AFFECTS,chloroquine,Mood:-:Point in time:^Patient:-,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0008269,C2926606,AFFECTS,chloroquine,Procedure findings:Finding:Point in time:^Patient:Narrative,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0008286,C2713234,AFFECTS,chlorpromazine,Mood:-:Point in time:^Patient:-,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0008318,C0005938,AFFECTS,cholecalciferol,Bone Density,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0009262,C0005516,AFFECTS,colchicine,Biological Markers,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0009262,C0521982,AFFECTS,colchicine,Response to treatment,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0009262,C1955260,AFFECTS,colchicine,Female fertility,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0012265,C0018810,AFFECTS,digoxin,heart rate,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0012315,C0018810,AFFECTS,Dihydropyridines,heart rate,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0012373,C0007165,AFFECTS,diltiazem,Cardiac Output,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0012373,C0018810,AFFECTS,diltiazem,heart rate,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0012789,C1316572,AFFECTS,Dithiothreitol,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},orch,clna,1,AFFECTS_ORCHafctCLNA
+C0012963,C0007165,AFFECTS,dobutamine,Cardiac Output,orch,clna,5,AFFECTS_ORCHafctCLNA
+C0012963,C0018810,AFFECTS,dobutamine,heart rate,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0012963,C0429622,AFFECTS,dobutamine,Oxygen delivery,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0014695,C0005938,AFFECTS,ergocalciferol,Bone Density,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0016157,C0550855,AFFECTS,fish oils,human histocompatibility complex derived antigens-DP:Type:Point in time:Whole blood:Nominal,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0016229,C0488414,AFFECTS,flecainide,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0016410,C0005516,AFFECTS,folic acid,Biological Markers,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0016860,C0005516,AFFECTS,furosemide,Biological Markers,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0016860,C0232856,AFFECTS,furosemide,Urine volume function,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0017887,C0034094,AFFECTS,nitroglycerin,Pulmonary Wedge Pressure,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0017887,C0428640,AFFECTS,nitroglycerin,Central venous pressure,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0017906,C1521816,AFFECTS,Glycoconjugates,Cellular Morphology,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0020316,C0488055,AFFECTS,hydroxocobalamin,Intravascular systolic:Pressure:Point in time:Arterial system:Quantitative,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0020336,C0488414,AFFECTS,hydroxychloroquine,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,21,AFFECTS_ORCHafctCLNA
+C0020336,C0489625,AFFECTS,hydroxychloroquine,QTC interval,orch,clna,3,AFFECTS_ORCHafctCLNA
+C0020336,C2713234,AFFECTS,hydroxychloroquine,Mood:-:Point in time:^Patient:-,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0020336,C2919552,AFFECTS,hydroxychloroquine,Survival time,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0020336,C2926606,AFFECTS,hydroxychloroquine,Procedure findings:Finding:Point in time:^Patient:Narrative,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0020336,C3173575,AFFECTS,hydroxychloroquine,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0020336,C3830527,AFFECTS,hydroxychloroquine,Detectable,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0022860,C0488645,AFFECTS,labetalol,Hemodynamic resistance:Resistance:Point in time:Systemic vasculature:Quantitative,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0022924,C0007165,AFFECTS,Lactates,Cardiac Output,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0023779,C0026687,AFFECTS,Lipids,Mucociliary Clearance,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0023779,C0232337,AFFECTS,Lipids,Vascular function,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0023779,C0946292,AFFECTS,Lipids,polarization,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0023779,C4738112,AFFECTS,Lipids,Fatalities:Number:Point in time:^Event:Quantitative,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0023810,C0005516,AFFECTS,Lipopolysaccharides,Biological Markers,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0023810,C0798503,AFFECTS,Lipopolysaccharides,Challenge:Type:Point in time:^Patient:Nominal,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0023810,C3830527,AFFECTS,Lipopolysaccharides,Detectable,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0024742,C0364896,AFFECTS,mannose,pH:LsCnc:Pt:Ser/Plas:Qn,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0025598,C0030055,AFFECTS,metformin,Oxygen Consumption,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0025598,C0798503,AFFECTS,metformin,Challenge:Type:Point in time:^Patient:Nominal,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0027358,C0035190,AFFECTS,naloxone,Residual volume,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0028017,C0946292,AFFECTS,niclosamide,polarization,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0028066,C0007165,AFFECTS,nifedipine,Cardiac Output,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0028128,C0007165,AFFECTS,nitric oxide,Cardiac Output,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0028247,C0080078,AFFECTS,Nocodazole,"Range of Motion, Articular",orch,clna,1,AFFECTS_ORCHafctCLNA
+C0031469,C0007165,AFFECTS,phenylephrine,Cardiac Output,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0032594,C0012655,AFFECTS,Polysaccharides,Disease susceptibility,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0032594,C1115729,AFFECTS,Polysaccharides,Neutrophil oxidative burst,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0032950,C2919552,AFFECTS,prednisolone,Survival time,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0033487,C0488414,AFFECTS,propofol,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0033497,C0007165,AFFECTS,propranolol,Cardiac Output,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0033497,C0018810,AFFECTS,propranolol,heart rate,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0034414,C0488414,AFFECTS,quinidine,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0035339,C1521816,AFFECTS,Retinoids,Cellular Morphology,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0036078,C1955321,AFFECTS,sulfasalazine,Male fertility,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0036681,C0080078,AFFECTS,Sepharose,"Range of Motion, Articular",orch,clna,2,AFFECTS_ORCHafctCLNA
+C0038317,C0005516,AFFECTS,Steroids,Biological Markers,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0038317,C0042812,AFFECTS,Steroids,Visual Acuity,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0038317,C2713234,AFFECTS,Steroids,Mood:-:Point in time:^Patient:-,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0038317,C2919552,AFFECTS,Steroids,Survival time,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0040610,C0488414,AFFECTS,tramadol,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0042523,C0018810,AFFECTS,verapamil,heart rate,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0042845,C1514474,AFFECTS,vitamin B12,Prognostic Factors,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0042874,C0005516,AFFECTS,vitamin E,Biological Markers,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0042878,C0005938,AFFECTS,vitamin K,Bone Density,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0044369,C0032930,AFFECTS,1-dodecylpyridoxal,Precipitating Factors,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0052080,C0231832,AFFECTS,antineoplaston A10,Respiratory rate,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0055447,C0489625,AFFECTS,chloroquine phosphate,QTC interval,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0055540,C1955321,AFFECTS,cholesterol hydroperoxide,Male fertility,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0059565,C0232337,AFFECTS,erythromycin propionate-N-acetylcysteinate,Vascular function,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0061751,C0798503,AFFECTS,glycyrrhizic acid,Challenge:Type:Point in time:^Patient:Nominal,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0062637,C0032930,AFFECTS,Hexamethonium,Precipitating Factors,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0064771,C1316572,AFFECTS,leptomycin B,Evaluation and management note:Finding:Point in time:{Setting}:Document:{Provider},orch,clna,1,AFFECTS_ORCHafctCLNA
+C0067376,C2926606,AFFECTS,"N,N-dimethyl-4-anisidine",Procedure findings:Finding:Point in time:^Patient:Narrative,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0068450,C0005516,AFFECTS,naringenin,Biological Markers,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0071208,C1531610,AFFECTS,Plasma-lyte 148,Blood velocity,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0071286,C2919552,AFFECTS,plumbagin,Survival time,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0071513,C0080078,AFFECTS,polyanion,"Range of Motion, Articular",orch,clna,1,AFFECTS_ORCHafctCLNA
+C0074037,C0798503,AFFECTS,saperconazole,Challenge:Type:Point in time:^Patient:Nominal,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0074393,C0007809,AFFECTS,sertraline,Cerebrospinal Fluid Pressure,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0074414,C0488414,AFFECTS,sevoflurane,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0074992,C0232337,AFFECTS,sphingosine 1-phosphate,Vascular function,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0076316,C0080078,AFFECTS,tetrandrine,"Range of Motion, Articular",orch,clna,2,AFFECTS_ORCHafctCLNA
+C0076316,C1442158,AFFECTS,tetrandrine,band pattern,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0077229,C0080078,AFFECTS,trioctyl phosphine oxide,"Range of Motion, Articular",orch,clna,1,AFFECTS_ORCHafctCLNA
+C0077301,C3827727,AFFECTS,trisialosyllactosylceramide,Undetectable,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0105185,C0080078,AFFECTS,BANS,"Range of Motion, Articular",orch,clna,1,AFFECTS_ORCHafctCLNA
+C0120726,C0488414,AFFECTS,halofantrine,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0165324,C0080078,AFFECTS,mycalamide A,"Range of Motion, Articular",orch,clna,1,AFFECTS_ORCHafctCLNA
+C0178487,C0086741,AFFECTS,ascorbate,Osmolality,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0246631,C0231832,AFFECTS,remifentanil,Respiratory rate,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0246631,C0232117,AFFECTS,remifentanil,Pulse Rate,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0248719,C0005516,AFFECTS,telmisartan,Biological Markers,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0257190,C0162521,AFFECTS,ivabradine,Exercise Tolerance,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0258259,C0005516,AFFECTS,GTS-21,Biological Markers,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0301363,C2926606,AFFECTS,5-Trimethoxyamphetamine,Procedure findings:Finding:Point in time:^Patient:Narrative,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0359916,C4284173,AFFECTS,Substance with phenol structure,Transferring:Find:Pt:^Patient:Nom,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0360714,C0005516,AFFECTS,Hydroxymethylglutaryl-CoA Reductase Inhibitors,Biological Markers,orch,clna,4,AFFECTS_ORCHafctCLNA
+C0376637,C0550862,AFFECTS,indinavir,human histocompatibility complex derived antigens-DR:Type:Point in time:Whole blood:Nomina,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0376637,C0798503,AFFECTS,indinavir,Challenge:Type:Point in time:^Patient:Nominal,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0525678,C0005516,AFFECTS,rasagiline,Biological Markers,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0525678,C0005850,AFFECTS,rasagiline,Blood Volume,orch,clna,2,AFFECTS_ORCHafctCLNA
+C0525678,C0007165,AFFECTS,rasagiline,Cardiac Output,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0525678,C0232337,AFFECTS,rasagiline,Vascular function,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0525678,C0488645,AFFECTS,rasagiline,Hemodynamic resistance:Resistance:Point in time:Systemic vasculature:Quantitative,orch,clna,3,AFFECTS_ORCHafctCLNA
+C0529793,C0034094,AFFECTS,sildenafil,Pulmonary Wedge Pressure,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0556150,C0488414,AFFECTS,docosahexaenoic acid,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0591516,C4265176,AFFECTS,Fleet,IV number:ID:Pt:^Patient:Nom,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0599682,C2713234,AFFECTS,monoamine,Mood:-:Point in time:^Patient:-,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0674432,C3830527,AFFECTS,lopinavir,Detectable,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0700580,C4071721,AFFECTS,ipratropium bromide,Compliance.dynamic:Compli:Pt:Lung:Qn,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0719519,C0005516,AFFECTS,corrective,Biological Markers,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0723177,C0018810,AFFECTS,SLT,heart rate,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0724139,C2926606,AFFECTS,Urised,Procedure findings:Finding:Point in time:^Patient:Narrative,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0754504,C0080078,AFFECTS,yersiniabactin,"Range of Motion, Articular",orch,clna,1,AFFECTS_ORCHafctCLNA
+C0949665,C0032930,AFFECTS,Fluoroquinolones,Precipitating Factors,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0949665,C1456627,AFFECTS,Fluoroquinolones,Antimicrobial Resistance,orch,clna,1,AFFECTS_ORCHafctCLNA
+C1138226,C0488414,AFFECTS,favipiravir,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
+C1328819,C0032930,AFFECTS,Small Molecule,Precipitating Factors,orch,clna,1,AFFECTS_ORCHafctCLNA
+C1566067,C0798503,AFFECTS,bimosiamose,Challenge:Type:Point in time:^Patient:Nominal,orch,clna,1,AFFECTS_ORCHafctCLNA
+C1570638,C2919552,AFFECTS,NPI 0052,Survival time,orch,clna,1,AFFECTS_ORCHafctCLNA
+C1721377,C0488414,AFFECTS,nilotinib,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
+C1743645,C0798503,AFFECTS,eritoran,Challenge:Type:Point in time:^Patient:Nominal,orch,clna,1,AFFECTS_ORCHafctCLNA
+C2926735,C0488377,AFFECTS,Duration,QRS duration:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
+C2926735,C0488414,AFFECTS,Duration,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
+C2926735,C0488478,AFFECTS,Duration,Apache II score:Function:Point in time:^Patient:Ordinal,orch,clna,1,AFFECTS_ORCHafctCLNA
+C2926735,C0683325,AFFECTS,Duration,clinical aspects,orch,clna,1,AFFECTS_ORCHafctCLNA
+C2926735,C0798503,AFFECTS,Duration,Challenge:Type:Point in time:^Patient:Nominal,orch,clna,1,AFFECTS_ORCHafctCLNA
+C2926735,C2713234,AFFECTS,Duration,Mood:-:Point in time:^Patient:-,orch,clna,1,AFFECTS_ORCHafctCLNA
+C2926735,C2926606,AFFECTS,Duration,Procedure findings:Finding:Point in time:^Patient:Narrative,orch,clna,1,AFFECTS_ORCHafctCLNA
+C2926735,C3173575,AFFECTS,Duration,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,orch,clna,2,AFFECTS_ORCHafctCLNA
+C2926735,C3274800,AFFECTS,Duration,Disease Presentation,orch,clna,1,AFFECTS_ORCHafctCLNA
+C3273246,C0007165,AFFECTS,RRx-001,Cardiac Output,orch,clna,2,AFFECTS_ORCHafctCLNA
+C4050026,C0032930,AFFECTS,Matrix,Precipitating Factors,orch,clna,1,AFFECTS_ORCHafctCLNA
+C4050026,C2603360,AFFECTS,Matrix,T prime,orch,clna,1,AFFECTS_ORCHafctCLNA
+C4050026,C3830527,AFFECTS,Matrix,Detectable,orch,clna,1,AFFECTS_ORCHafctCLNA
+C4482908,C0489625,AFFECTS,lefamulin,QTC interval,orch,clna,1,AFFECTS_ORCHafctCLNA
+C4727084,C3173575,AFFECTS,Lipidome,Interpretation:Impression/interpretation of study:Point in time:^Patient:Nominal,orch,clna,1,AFFECTS_ORCHafctCLNA

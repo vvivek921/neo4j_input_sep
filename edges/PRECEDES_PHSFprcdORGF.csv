@@ -1,0 +1,19 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0025320,C0025329,PRECEDES,Menopause,Menstrual cycle,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0026820,C0231800,PRECEDES,Muscle Contraction,"Expiration, function",phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0034011,C0005615,PRECEDES,Puberty,Birth,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0034011,C0015895,PRECEDES,Puberty,Fertility,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0034011,C0333953,PRECEDES,Puberty,Involution,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0034011,C0678723,PRECEDES,Puberty,Biologic Development,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0035203,C0005615,PRECEDES,Respiration,Birth,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0035203,C0011065,PRECEDES,Respiration,Cessation of life,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0035203,C0231800,PRECEDES,Respiration,"Expiration, function",phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0232896,C0021144,PRECEDES,Reproductive function,Inbreeding,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0243144,C0011065,PRECEDES,Uptake,Cessation of life,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0243144,C0699900,PRECEDES,Uptake,Catabolism,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0243144,C1148523,PRECEDES,Uptake,Childbirth,phsf,orgf,2,PRECEDES_PHSFprcdORGF
+C0442696,C0011065,PRECEDES,Waking,Cessation of life,phsf,orgf,2,PRECEDES_PHSFprcdORGF
+C0442696,C0018270,PRECEDES,Waking,Growth,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0743925,C0032961,PRECEDES,Fetal Growth,Pregnancy,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C0870935,C0037817,PRECEDES,Napping,Speech,phsf,orgf,1,PRECEDES_PHSFprcdORGF
+C2267003,C0678889,PRECEDES,Increased Immunologic Activity [PE],Immunoregulation,phsf,orgf,1,PRECEDES_PHSFprcdORGF

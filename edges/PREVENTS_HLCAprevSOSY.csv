@@ -1,0 +1,31 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0019993,C0043144,PREVENTS,Hospitalization,Wheezing,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0019993,C2926602,PREVENTS,Hospitalization,"Discharge, body substance",hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0030685,C0015672,PREVENTS,Patient Discharge,Fatigue,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0030685,C0349410,PREVENTS,Patient Discharge,Single organ dysfunction,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0031809,C0231857,PREVENTS,Physical Examination,Vesicular breathing,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0034117,C0030193,PREVENTS,Puncture procedure,Pain,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0034117,C2364135,PREVENTS,Puncture procedure,Discomfort,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0150155,C0009806,PREVENTS,Bowel care procedure,Constipation,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0150155,C0027497,PREVENTS,Bowel care procedure,Nausea,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0150788,C0233401,PREVENTS,Stress management,Psychiatric symptom,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0184643,C0860603,PREVENTS,Mental health care,Anxiety symptoms,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0199171,C0015672,PREVENTS,medical procedure,Fatigue,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0204695,C0011991,PREVENTS,Feeding patient,Diarrhea,hlca,sosy,2,PREVENTS_HLCAprevSOSY
+C0204695,C0851121,PREVENTS,Feeding patient,digestive problem,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0205903,C0030193,PREVENTS,Postoperative Procedures,Pain,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0220825,C0011991,PREVENTS,Evaluation,Diarrhea,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0220825,C0349410,PREVENTS,Evaluation,Single organ dysfunction,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0344211,C0036572,PREVENTS,Supportive care,Seizures,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0344211,C0349410,PREVENTS,Supportive care,Single organ dysfunction,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0441549,C2364135,PREVENTS,Custom fitting,Discomfort,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0444793,C0849640,PREVENTS,Position change,skin damage,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0600015,C0086132,PREVENTS,Emotional support,Depressive Symptoms,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0805586,C0015967,PREVENTS,Challenge,Fever,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C0805586,C0152032,PREVENTS,Challenge,Urinary hesitation,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C2826232,C0015230,PREVENTS,Dose Adjustment,Exanthema,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C4042889,C2926602,PREVENTS,Children's Health Insurance Program,"Discharge, body substance",hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C4277528,C0011991,PREVENTS,Preventive Health Programs,Diarrhea,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C4505148,C0152032,PREVENTS,Vaccination Coverage,Urinary hesitation,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C4542584,C0233401,PREVENTS,Psychological Services,Psychiatric symptom,hlca,sosy,1,PREVENTS_HLCAprevSOSY
+C4684780,C0013404,PREVENTS,Standard Treatment,Dyspnea,hlca,sosy,1,PREVENTS_HLCAprevSOSY

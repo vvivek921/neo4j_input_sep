@@ -1,0 +1,26 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005775,C0040549,PRODUCES,Blood Circulation,Toxin,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0014272,C0017725,PRODUCES,Energy Metabolism,glucose,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0014272,C0162772,PRODUCES,Energy Metabolism,Reactive Oxygen Species,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0020964,C0032615,PRODUCES,Immunity,Polyunsaturated Fatty Acids,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0020964,C0035696,PRODUCES,Immunity,"RNA, Messenger",phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0035203,C0001480,PRODUCES,Respiration,adenosine triphosphate,phsf,bacs,2,PRODUCES_PHSFprodBACS
+C0035203,C0016693,PRODUCES,Respiration,Free Radicals,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0035203,C0162772,PRODUCES,Respiration,Reactive Oxygen Species,phsf,bacs,2,PRODUCES_PHSFprodBACS
+C0035203,C0178645,PRODUCES,Respiration,oxygen free radical,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0035245,C0007012,PRODUCES,Respiratory physiology,carbon dioxide,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0149784,C0162772,PRODUCES,biological adaptation to stress,Reactive Oxygen Species,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0221102,C0010294,PRODUCES,Excretory function,creatinine,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0243144,C0017725,PRODUCES,Uptake,glucose,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0243144,C0162772,PRODUCES,Uptake,Reactive Oxygen Species,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0243144,C1099354,PRODUCES,Uptake,"RNA, Small Interfering",phsf,bacs,2,PRODUCES_PHSFprodBACS
+C0243144,C3254637,PRODUCES,Uptake,SAT05f,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0544570,C0028158,PRODUCES,Bactericidal activity,nitrogen,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0544570,C0030054,PRODUCES,Bactericidal activity,oxygen,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C0870882,C0162772,PRODUCES,metabolic rates,Reactive Oxygen Species,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C1514892,C0034085,PRODUCES,Resistance Process,Pulmonary Surfactants,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C1514892,C0086860,PRODUCES,Resistance Process,Promoter,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C1514892,C1999216,PRODUCES,Resistance Process,Inhibitor,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C3714584,C0017973,PRODUCES,"Transformation, function",Glycosaminoglycans,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C3714584,C0032136,PRODUCES,"Transformation, function",Plasmids,phsf,bacs,1,PRODUCES_PHSFprodBACS
+C3714584,C0035693,PRODUCES,"Transformation, function","RNA, Double-Stranded",phsf,bacs,1,PRODUCES_PHSFprodBACS

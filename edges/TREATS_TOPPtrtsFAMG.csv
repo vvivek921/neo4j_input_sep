@@ -1,0 +1,123 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0002911,C0030551,TREATS,"Anesthesia, Conduction",parent,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0002921,C0015576,TREATS,Local anesthesia,Family,topp,famg,2,TREATS_TOPPtrtsFAMG
+C0003611,C0037047,TREATS,Appendectomy,Sibling,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0005841,C0010222,TREATS,Blood Transfusion,Couples (persons),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0007876,C0026591,TREATS,Cesarean section,Mother (person),topp,famg,4,TREATS_TOPPtrtsFAMG
+C0007876,C0041427,TREATS,Cesarean section,Twin sibling (person),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0011946,C0020052,TREATS,Dialysis procedure,Households,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0012683,C0020052,TREATS,Disinfection,Households,topp,famg,5,TREATS_TOPPtrtsFAMG
+C0013938,C0010222,TREATS,Embryo transfer (procedure),Couples (persons),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0015618,C0015576,TREATS,Family psychotherapy,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0016143,C0086279,TREATS,First Aid,Family Caregivers,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0017296,C0080103,TREATS,gene therapy,Relative (related person),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0017296,C0680063,TREATS,gene therapy,Offspring,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0017382,C0015576,TREATS,Genetic Counseling,Family,topp,famg,5,TREATS_TOPPtrtsFAMG
+C0020944,C0682323,TREATS,Immobilization,Partner in relationship,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0020971,C0026591,TREATS,Immunization,Mother (person),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0020971,C0030551,TREATS,Immunization,parent,topp,famg,2,TREATS_TOPPtrtsFAMG
+C0020971,C0680063,TREATS,Immunization,Offspring,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0020972,C0680063,TREATS,Immunization Schedule,Offspring,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0020974,C0680063,TREATS,passive immunization procedure,Offspring,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0021107,C0015576,TREATS,Implantation procedure,Family,topp,famg,2,TREATS_TOPPtrtsFAMG
+C0021107,C0870134,TREATS,Implantation procedure,Ancestor,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0021485,C0015576,TREATS,Injection of therapeutic agent,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0024875,C0020052,TREATS,Massage,Households,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0028678,C0026591,TREATS,nursing therapy,Mother (person),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0029216,C0015576,TREATS,Organ Transplantation,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0029216,C0041432,TREATS,Organ Transplantation,Monozygotic twins,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0034386,C0015576,TREATS,Quarantine,Family,topp,famg,4,TREATS_TOPPtrtsFAMG
+C0034386,C0020052,TREATS,Quarantine,Households,topp,famg,11,TREATS_TOPPtrtsFAMG
+C0034386,C0030551,TREATS,Quarantine,parent,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0034386,C0086282,TREATS,Quarantine,Family member,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0035273,C3274946,TREATS,Resuscitation procedure,Decedent,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0040808,C0080103,TREATS,Treatment Protocols,Relative (related person),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0040808,C3844032,TREATS,Treatment Protocols,Child 2,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0042196,C0015576,TREATS,Vaccination,Family,topp,famg,3,TREATS_TOPPtrtsFAMG
+C0042196,C0020052,TREATS,Vaccination,Households,topp,famg,3,TREATS_TOPPtrtsFAMG
+C0042196,C0026591,TREATS,Vaccination,Mother (person),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0042196,C0680063,TREATS,Vaccination,Offspring,topp,famg,2,TREATS_TOPPtrtsFAMG
+C0042196,C3844032,TREATS,Vaccination,Child 2,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0042201,C0015576,TREATS,Measles vaccination,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0052889,C1517194,TREATS,bleomycin/doxorubicin/lomustine/mechlorethamine/vincristine protocol,First Degree Relative,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0065764,C0015576,TREATS,bleomycin/cisplatin/methotrexate protocol,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0080038,C0015576,TREATS,Post Technique,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0150134,C0030551,TREATS,Anticipatory guidance,parent,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0150141,C0020052,TREATS,Bathing,Households,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0150174,C0015576,TREATS,Cognitive stimulation,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0150232,C0015576,TREATS,Family support,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0152060,C0015576,TREATS,Transection (procedure),Family,topp,famg,3,TREATS_TOPPtrtsFAMG
+C0152060,C0020052,TREATS,Transection (procedure),Households,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0152060,C0030551,TREATS,Transection (procedure),parent,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0152060,C0337547,TREATS,Transection (procedure),Younger child,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0152060,C0680063,TREATS,Transection (procedure),Offspring,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0184586,C0030551,TREATS,Bereavement support,parent,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0184586,C0037047,TREATS,Bereavement support,Sibling,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0184904,C0010222,TREATS,Slitting,Couples (persons),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0185003,C0015576,TREATS,Reparative closure,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0185003,C0030551,TREATS,Reparative closure,parent,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0185027,C0015576,TREATS,Imbrication (procedure),Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0185027,C0030551,TREATS,Imbrication (procedure),parent,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0185033,C0870134,TREATS,Diversion procedure,Ancestor,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0185115,C0015576,TREATS,Extraction,Family,topp,famg,2,TREATS_TOPPtrtsFAMG
+C0185115,C0020052,TREATS,Extraction,Households,topp,famg,2,TREATS_TOPPtrtsFAMG
+C0193398,C0011011,TREATS,Partial hepatectomy,Daughter,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0199176,C0015576,TREATS,Prophylactic treatment,Family,topp,famg,2,TREATS_TOPPtrtsFAMG
+C0199176,C0020052,TREATS,Prophylactic treatment,Households,topp,famg,2,TREATS_TOPPtrtsFAMG
+C0199176,C0026591,TREATS,Prophylactic treatment,Mother (person),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0199176,C0086282,TREATS,Prophylactic treatment,Family member,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0199176,C0680063,TREATS,Prophylactic treatment,Offspring,topp,famg,3,TREATS_TOPPtrtsFAMG
+C0199470,C0029039,TREATS,Mechanical ventilation,Is an only child,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0199848,C0015576,TREATS,Coronavirus vaccination,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0204727,C0015576,TREATS,Isolation procedure,Family,topp,famg,3,TREATS_TOPPtrtsFAMG
+C0204727,C0020052,TREATS,Isolation procedure,Households,topp,famg,6,TREATS_TOPPtrtsFAMG
+C0204727,C0080103,TREATS,Isolation procedure,Relative (related person),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0204727,C0086282,TREATS,Isolation procedure,Family member,topp,famg,2,TREATS_TOPPtrtsFAMG
+C0280603,C0682323,TREATS,fluorouracil/methotrexate protocol,Partner in relationship,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0281163,C0015576,TREATS,Educational Intervention,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0282515,C0020052,TREATS,Chemoprevention,Households,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0282638,C0026591,TREATS,Antibiotic Prophylaxis,Mother (person),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0338248,C0020052,TREATS,carmustine/cytarabine/etoposide/melphalan regimen,Households,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0339897,C0015576,TREATS,Transjugular intrahepatic portosystemic shunt procedure,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0339897,C0030551,TREATS,Transjugular intrahepatic portosystemic shunt procedure,parent,topp,famg,3,TREATS_TOPPtrtsFAMG
+C0349707,C0010222,TREATS,Aspiration-action,Couples (persons),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0349707,C3274946,TREATS,Aspiration-action,Decedent,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0396670,C0015576,TREATS,Isolated limb perfusion,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0396670,C0020052,TREATS,Isolated limb perfusion,Households,topp,famg,6,TREATS_TOPPtrtsFAMG
+C0396670,C0030551,TREATS,Isolated limb perfusion,parent,topp,famg,2,TREATS_TOPPtrtsFAMG
+C0419997,C0015576,TREATS,Viral screening,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0441516,C0337547,TREATS,Demand (clinical),Younger child,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0472699,C0015576,TREATS,Hemopoietic stem cell transplant,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0472699,C0030551,TREATS,Hemopoietic stem cell transplant,parent,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0474166,C0337547,TREATS,Medical counseling,Younger child,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0474178,C0015576,TREATS,Psychological counseling,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0521974,C0680063,TREATS,"Diet, High-Fat",Offspring,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0524865,C0015576,TREATS,Reconstructive Surgical Procedures,Family,topp,famg,3,TREATS_TOPPtrtsFAMG
+C0524865,C0080103,TREATS,Reconstructive Surgical Procedures,Relative (related person),topp,famg,1,TREATS_TOPPtrtsFAMG
+C0543467,C0680063,TREATS,Operative Surgical Procedures,Offspring,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0543467,C0870134,TREATS,Operative Surgical Procedures,Ancestor,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0547070,C4053457,TREATS,Ablation,Surrogate,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0600249,C0015576,TREATS,"Immunotherapy, Passive",Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0679740,C0015576,TREATS,peer support,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C0947647,C0015576,TREATS,Manipulation procedure,Family,topp,famg,1,TREATS_TOPPtrtsFAMG
+C1171257,C0015576,TREATS,Delivery care,Family,topp,famg,3,TREATS_TOPPtrtsFAMG
+C1280903,C0337544,TREATS,Exploration procedure,foster child,topp,famg,1,TREATS_TOPPtrtsFAMG
+C1443861,C0020052,TREATS,Post-Exposure Prophylaxis,Households,topp,famg,2,TREATS_TOPPtrtsFAMG
+C1443861,C0086282,TREATS,Post-Exposure Prophylaxis,Family member,topp,famg,1,TREATS_TOPPtrtsFAMG
+C1511790,C0015576,TREATS,Detection,Family,topp,famg,4,TREATS_TOPPtrtsFAMG
+C1511790,C0020052,TREATS,Detection,Households,topp,famg,4,TREATS_TOPPtrtsFAMG
+C1511790,C0026591,TREATS,Detection,Mother (person),topp,famg,3,TREATS_TOPPtrtsFAMG
+C1511790,C0030551,TREATS,Detection,parent,topp,famg,1,TREATS_TOPPtrtsFAMG
+C1511790,C0337541,TREATS,Detection,adopted child,topp,famg,1,TREATS_TOPPtrtsFAMG
+C1511790,C0337547,TREATS,Detection,Younger child,topp,famg,2,TREATS_TOPPtrtsFAMG
+C1511790,C0680063,TREATS,Detection,Offspring,topp,famg,1,TREATS_TOPPtrtsFAMG
+C1511790,C3844032,TREATS,Detection,Child 2,topp,famg,1,TREATS_TOPPtrtsFAMG
+C1708063,C3844027,TREATS,First line treatment,Child 7,topp,famg,1,TREATS_TOPPtrtsFAMG
+C2188405,C0337547,TREATS,urgent Operation,Younger child,topp,famg,1,TREATS_TOPPtrtsFAMG
+C2936405,C0682323,TREATS,Drug Repositioning,Partner in relationship,topp,famg,1,TREATS_TOPPtrtsFAMG
+C3469597,C0871736,TREATS,Administration of medication,expectant mothers,topp,famg,1,TREATS_TOPPtrtsFAMG
+C3540512,C0026591,TREATS,Circumferential Supracrestal Fiberotomy,Mother (person),topp,famg,1,TREATS_TOPPtrtsFAMG
+C3850098,C0682323,TREATS,Pre-Exposure Prophylaxis,Partner in relationship,topp,famg,1,TREATS_TOPPtrtsFAMG
+C4042855,C0026753,TREATS,RNAi Therapeutics,Multiple Birth Offspring,topp,famg,1,TREATS_TOPPtrtsFAMG
+C4688317,C0026591,TREATS,Verbal Support,Mother (person),topp,famg,1,TREATS_TOPPtrtsFAMG
+C5192097,C0030551,TREATS,Venoarterial extracorporeal membrane oxygenation,parent,topp,famg,1,TREATS_TOPPtrtsFAMG

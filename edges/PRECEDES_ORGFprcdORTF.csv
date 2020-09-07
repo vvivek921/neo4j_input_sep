@@ -1,0 +1,37 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001811,C0301872,PRECEDES,Aging,Immune response,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0004048,C0079043,PRECEDES,Inspiration function,Bronchoconstriction,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0004048,C0231921,PRECEDES,Inspiration function,Pulmonary function,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0004048,C0231953,PRECEDES,Inspiration function,Lung volume,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0004048,C0282558,PRECEDES,Inspiration function,"Immunity, Mucosal",orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0004048,C3850076,PRECEDES,Inspiration function,Systemic Absorption,orgf,ortf,2,PRECEDES_ORGFprcdORTF
+C0005615,C0301872,PRECEDES,Birth,Immune response,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0005615,C0920516,PRECEDES,Birth,fetus circulation,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0005615,C1326653,PRECEDES,Birth,lung alveolus development,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0011065,C0027540,PRECEDES,Cessation of life,Necrosis,orgf,ortf,2,PRECEDES_ORGFprcdORTF
+C0013470,C0017127,PRECEDES,Eating,Gastric Emptying,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0014948,C0021586,PRECEDES,Estrus,Insemination,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0014948,C0024153,PRECEDES,Estrus,Luteal Phase,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0014948,C0029965,PRECEDES,Estrus,Ovulation,orgf,ortf,2,PRECEDES_ORGFprcdORTF
+C0015914,C0013936,PRECEDES,Fertilization,Embryonic Development,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0015914,C0032058,PRECEDES,Fertilization,Placentation,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0018270,C0971859,PRECEDES,Growth,Bone Growth,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0025274,C1160389,PRECEDES,Menarche,Lung Development,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0029260,C0026841,PRECEDES,Orgasm,Muscle Tonus,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0032961,C0301872,PRECEDES,Pregnancy,Immune response,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0042034,C0036658,PRECEDES,Urination,Esthesia,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0043240,C0231484,PRECEDES,Wound Healing,Muscle function,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0231800,C0231953,PRECEDES,"Expiration, function",Lung volume,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0598016,C1656559,PRECEDES,hatching,digestive tract development,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0678699,C0678860,PRECEDES,phase II biotransformation,systemic blood circulation,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0678723,C0301872,PRECEDES,Biologic Development,Immune response,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C0699900,C0006660,PRECEDES,Catabolism,Physiologic calcification,orgf,ortf,2,PRECEDES_ORGFprcdORTF
+C1148523,C0019010,PRECEDES,Childbirth,Hemodynamics,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C1148523,C0231940,PRECEDES,Childbirth,Alveolar ventilation function,orgf,ortf,2,PRECEDES_ORGFprcdORTF
+C1148523,C0282558,PRECEDES,Childbirth,"Immunity, Mucosal",orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C1148523,C0301872,PRECEDES,Childbirth,Immune response,orgf,ortf,7,PRECEDES_ORGFprcdORTF
+C1160185,C1817756,PRECEDES,Viral Transduction,Immune System Processes,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C1260875,C0029965,PRECEDES,mating,Ovulation,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C1314680,C0301872,PRECEDES,"Non-human parturition, function",Immune response,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C1749719,C0301872,PRECEDES,Adaptive Immune Response,Immune response,orgf,ortf,1,PRECEDES_ORGFprcdORTF
+C4505207,C0301872,PRECEDES,Immune Reconstitution,Immune response,orgf,ortf,1,PRECEDES_ORGFprcdORTF

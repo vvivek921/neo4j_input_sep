@@ -1,0 +1,156 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005841,C0242488,PREVENTS,Blood Transfusion,Acute Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0005841,C0273115,PREVENTS,Blood Transfusion,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0006155,C0016664,PREVENTS,Breathing Exercises,Stress Fractures,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0007202,C0273115,PREVENTS,Cardiopulmonary Bypass,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0007430,C3203359,PREVENTS,Catheterization,Rupture,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0009429,C0013221,PREVENTS,Combined Modality Therapy,Drug toxicity,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0009429,C0600688,PREVENTS,Combined Modality Therapy,Toxic effect,topp,inpo,4,PREVENTS_TOPPprevINPO
+C0012683,C0340257,PREVENTS,Disinfection,Ventilator-associated lung injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0013216,C0013221,PREVENTS,Pharmacotherapy,Drug toxicity,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0013216,C0016658,PREVENTS,Pharmacotherapy,Fracture,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0013216,C0600688,PREVENTS,Pharmacotherapy,Toxic effect,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0013778,C0010957,PREVENTS,Electric Countershock,Tissue damage,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0015252,C0274281,PREVENTS,removal technique,Injury due to exposure to external cause,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0015357,C0004760,PREVENTS,Extracorporeal Membrane Oxygenation,Dysbarism,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0015357,C0238327,PREVENTS,Extracorporeal Membrane Oxygenation,Oxygen toxicity,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0015357,C0273115,PREVENTS,Extracorporeal Membrane Oxygenation,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0015357,C2350350,PREVENTS,Extracorporeal Membrane Oxygenation,Ventilator-Induced Lung Injury,topp,inpo,3,PREVENTS_TOPPprevINPO
+C0019541,C0273115,PREVENTS,High-Frequency Ventilation,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0020674,C0751792,PREVENTS,"Hypothermia, Induced","Trauma, Nervous System",topp,inpo,1,PREVENTS_TOPPprevINPO
+C0020971,C0016479,PREVENTS,Immunization,Food Poisoning,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0020971,C0023176,PREVENTS,Immunization,Lead Poisoning,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0021079,C0273115,PREVENTS,Therapeutic immunosuppression,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0021083,C2905612,PREVENTS,Immunotherapy,Storm NOS,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0021107,C0600688,PREVENTS,Implantation procedure,Toxic effect,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0021485,C0521819,PREVENTS,Injection of therapeutic agent,Vaccination failure,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0021925,C0273115,PREVENTS,Intubation,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0022100,C0010957,PREVENTS,Irrigation,Tissue damage,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0023690,C0273115,PREVENTS,Ligation,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0032042,C0080179,PREVENTS,Placebos,Spinal Fractures,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0032113,C2905612,PREVENTS,Plasma Exchange,Storm NOS,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0032740,C0004760,PREVENTS,Positive End-Expiratory Pressure,Dysbarism,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0032740,C0273115,PREVENTS,Positive End-Expiratory Pressure,Lung Injury,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0032740,C2350350,PREVENTS,Positive End-Expiratory Pressure,Ventilator-Induced Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0033972,C0273115,PREVENTS,"Psychotherapy, Multiple",Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0034386,C0005658,PREVENTS,Quarantine,bite injury,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0034386,C0332673,PREVENTS,Quarantine,Minor injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0034386,C0561596,PREVENTS,Quarantine,Dog bite - wound,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0035139,C0600688,PREVENTS,Surgical Replantation,Toxic effect,topp,inpo,3,PREVENTS_TOPPprevINPO
+C0035467,C0339848,PREVENTS,rhinoplasty,Fractured nasal bones,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0038638,C0028798,PREVENTS,Suction drainage,Occupational Exposure,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0039043,C0876994,PREVENTS,Sympathetic Nerve Block,Cardiotoxicity,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0040732,C0600688,PREVENTS,Transplantation,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0040808,C0274281,PREVENTS,Treatment Protocols,Injury due to exposure to external cause,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0040808,C0600688,PREVENTS,Treatment Protocols,Toxic effect,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0042196,C0043250,PREVENTS,Vaccination,Injury wounds,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0042196,C0521819,PREVENTS,Vaccination,Vaccination failure,topp,inpo,3,PREVENTS_TOPPprevINPO
+C0065764,C0016658,PREVENTS,bleomycin/cisplatin/methotrexate protocol,Fracture,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0079613,C0010957,PREVENTS,Adoptive Immunotherapy,Tissue damage,topp,inpo,3,PREVENTS_TOPPprevINPO
+C0079613,C0282350,PREVENTS,Adoptive Immunotherapy,Sexual abuse,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0085079,C0600688,PREVENTS,Bone Marrow Purging,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0149783,C0010957,PREVENTS,Steroid therapy,Tissue damage,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0149783,C2905612,PREVENTS,Steroid therapy,Storm NOS,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0150211,C0582072,PREVENTS,Environmental care procedure,Sharps Injuries,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0150211,C0679360,PREVENTS,Environmental care procedure,Foodborne Disease,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0150260,C0751792,PREVENTS,Intracranial pressure monitoring regime,"Trauma, Nervous System",topp,inpo,1,PREVENTS_TOPPprevINPO
+C0150457,C0273115,PREVENTS,Anticoagulant therapy,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0150638,C0085178,PREVENTS,Preventing injury,Needlestick Injuries,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0162563,C2905612,PREVENTS,Cardiac ablation,Storm NOS,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0184633,C0238327,PREVENTS,Oxygen Therapy Care,Oxygen toxicity,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0185115,C0024692,PREVENTS,Extraction,Mandibular Fractures,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0185115,C0036114,PREVENTS,Extraction,Salmonella food poisoning,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0185115,C0600688,PREVENTS,Extraction,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0194133,C0600688,PREVENTS,Local perfusion of kidney,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0198482,C0852885,PREVENTS,Operation on abdominal region,bucking,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199176,C0000773,PREVENTS,Prophylactic treatment,"Abnormalities, Radiation-Induced",topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199176,C0013221,PREVENTS,Prophylactic treatment,Drug toxicity,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199176,C0016658,PREVENTS,Prophylactic treatment,Fracture,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0199176,C0018843,PREVENTS,Prophylactic treatment,Heat Stroke,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0199176,C0028798,PREVENTS,Prophylactic treatment,Occupational Exposure,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199176,C0241407,PREVENTS,Prophylactic treatment,Tick bite (disorder),topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199176,C0273115,PREVENTS,Prophylactic treatment,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199176,C0282507,PREVENTS,Prophylactic treatment,Heat Stress Disorders,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199176,C0520759,PREVENTS,Prophylactic treatment,Carcinogen effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199176,C2350350,PREVENTS,Prophylactic treatment,Ventilator-Induced Lung Injury,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0199176,C2905612,PREVENTS,Prophylactic treatment,Storm NOS,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199176,C4520766,PREVENTS,Prophylactic treatment,Bite of mosquito,topp,inpo,4,PREVENTS_TOPPprevINPO
+C0199451,C0242488,PREVENTS,Continuous Positive Airway Pressure,Acute Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199451,C2350350,PREVENTS,Continuous Positive Airway Pressure,Ventilator-Induced Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199470,C0273115,PREVENTS,Mechanical ventilation,Lung Injury,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0199470,C0854404,PREVENTS,Mechanical ventilation,iatrogenic injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0199470,C2350350,PREVENTS,Mechanical ventilation,Ventilator-Induced Lung Injury,topp,inpo,5,PREVENTS_TOPPprevINPO
+C0200591,C0273115,PREVENTS,Intraoperative Blood Salvage,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0204727,C0274281,PREVENTS,Isolation procedure,Injury due to exposure to external cause,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0204727,C0340257,PREVENTS,Isolation procedure,Ventilator-associated lung injury,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0237403,C0270611,PREVENTS,treatments and procedures,Brain Injuries,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0259972,C0600688,PREVENTS,Ketogenic Diet,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0280274,C4520766,PREVENTS,Antiviral Therapy,Bite of mosquito,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0281176,C0600688,PREVENTS,Antibody Therapy,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0349707,C0016542,PREVENTS,Aspiration-action,Foreign Bodies,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0376450,C0600688,PREVENTS,Transplantation Conditioning,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0381056,C0600688,PREVENTS,Platinol-Fluororuracil Regimen,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0392920,C0010957,PREVENTS,Chemotherapy Regimen,Tissue damage,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0394374,C0600467,PREVENTS,Vagotomy,Neurogenic Inflammation,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0398339,C2350350,PREVENTS,Extracorporeal carbon dioxide removal,Ventilator-Induced Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0419000,C2350350,PREVENTS,"Respiratory assist, manual",Ventilator-Induced Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0454270,C0600688,PREVENTS,High dose rate brachytherapy,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0459914,C0016658,PREVENTS,Conservative Treatment,Fracture,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0459914,C0273115,PREVENTS,Conservative Treatment,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0472686,C0270611,PREVENTS,Continuous hemodiafiltration,Brain Injuries,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0543467,C0332677,PREVENTS,Operative Surgical Procedures,Major injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0543467,C0340257,PREVENTS,Operative Surgical Procedures,Ventilator-associated lung injury,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0545447,C0016479,PREVENTS,monitoring temperature,Food Poisoning,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0547070,C0340652,PREVENTS,Ablation,Arterial Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0554804,C0273115,PREVENTS,Assisted breathing,Lung Injury,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0554804,C0340257,PREVENTS,Assisted breathing,Ventilator-associated lung injury,topp,inpo,3,PREVENTS_TOPPprevINPO
+C0554804,C2350350,PREVENTS,Assisted breathing,Ventilator-Induced Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0564626,C0340257,PREVENTS,Pressure controlled ventilation,Ventilator-associated lung injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0580105,C0600688,PREVENTS,Change of medication,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0582434,C0024961,PREVENTS,Giving encouragement to exercise,Maxillofacial Injuries,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0600521,C0010957,PREVENTS,"Radiotherapy, Conformal",Tissue damage,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0678812,C0242488,PREVENTS,systemic administration,Acute Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0678812,C0600688,PREVENTS,systemic administration,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0683468,C1264238,PREVENTS,invasive treatment,Injury of central nervous system,topp,inpo,2,PREVENTS_TOPPprevINPO
+C0730404,C0043251,PREVENTS,Fit orthodontic space maintainer,Wounds and Injuries,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0814435,C0854404,PREVENTS,early identification,iatrogenic injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0814435,C2905612,PREVENTS,early identification,Storm NOS,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0844334,C0339848,PREVENTS,septoplasty,Fractured nasal bones,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0860359,C1301659,PREVENTS,Reintubation Procedure,Airway trauma,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0872278,C0273115,PREVENTS,stem cell therapy,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0877629,C0028798,PREVENTS,infection prophylaxis,Occupational Exposure,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0947647,C0012691,PREVENTS,Manipulation procedure,Dislocations,topp,inpo,1,PREVENTS_TOPPprevINPO
+C0947734,C2905612,PREVENTS,Vascular Therapies,Storm NOS,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1148475,C0600688,PREVENTS,Complementary and alternative medicine,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1273551,C0600688,PREVENTS,Postoperative chemotherapy,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1282573,C0028798,PREVENTS,Evacuation procedure,Occupational Exposure,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1282573,C0745339,PREVENTS,Evacuation procedure,work related injuries,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1293130,C0600688,PREVENTS,Stabilization,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1321145,C0038663,PREVENTS,Dialectical Behavior Therapy,Suicide attempt,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1443867,C0028798,PREVENTS,Standard precautions,Occupational Exposure,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1443867,C4520766,PREVENTS,Standard precautions,Bite of mosquito,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1443921,C0028798,PREVENTS,Transmission-based precautions,Occupational Exposure,topp,inpo,4,PREVENTS_TOPPprevINPO
+C1511790,C0016479,PREVENTS,Detection,Food Poisoning,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1511790,C0270611,PREVENTS,Detection,Brain Injuries,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1517033,C0016658,PREVENTS,External Beam Radiation Therapy,Fracture,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1517033,C0600688,PREVENTS,External Beam Radiation Therapy,Toxic effect,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1659427,C0595916,PREVENTS,nebulization-mediated drug administration,Toxic nephropathy,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1868981,C0004760,PREVENTS,Invasive mechanical ventilation NOS,Dysbarism,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1868981,C0340257,PREVENTS,Invasive mechanical ventilation NOS,Ventilator-associated lung injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1868981,C2350350,PREVENTS,Invasive mechanical ventilation NOS,Ventilator-Induced Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1956064,C0005658,PREVENTS,Deep Sedation,bite injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1956064,C0273115,PREVENTS,Deep Sedation,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1963758,C2905612,PREVENTS,Immunomodulation,Storm NOS,topp,inpo,2,PREVENTS_TOPPprevINPO
+C1964029,C0010957,PREVENTS,early/brief intervention/therapy (treatment),Tissue damage,topp,inpo,1,PREVENTS_TOPPprevINPO
+C1964029,C0751792,PREVENTS,early/brief intervention/therapy (treatment),"Trauma, Nervous System",topp,inpo,2,PREVENTS_TOPPprevINPO
+C1964029,C2905612,PREVENTS,early/brief intervention/therapy (treatment),Storm NOS,topp,inpo,1,PREVENTS_TOPPprevINPO
+C2985566,C0600688,PREVENTS,Targeted Therapy,Toxic effect,topp,inpo,2,PREVENTS_TOPPprevINPO
+C3825792,C0273115,PREVENTS,Pressure breathing,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C3828439,C0339881,PREVENTS,Pulmonary Hygiene,Injury of larynx,topp,inpo,1,PREVENTS_TOPPprevINPO
+C3828439,C0582072,PREVENTS,Pulmonary Hygiene,Sharps Injuries,topp,inpo,1,PREVENTS_TOPPprevINPO
+C3897730,C0600688,PREVENTS,Reduced-Intensity Transplant Conditioning Procedure,Toxic effect,topp,inpo,3,PREVENTS_TOPPprevINPO
+C4019433,C2905612,PREVENTS,Low-Level Light Therapy,Storm NOS,topp,inpo,1,PREVENTS_TOPPprevINPO
+C4316303,C0035126,PREVENTS,Infusion Therapy,Reperfusion Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C4510264,C0016658,PREVENTS,Bisphosphonate therapy,Fracture,topp,inpo,1,PREVENTS_TOPPprevINPO
+C4554488,C0273115,PREVENTS,Retrieval - procedure,Lung Injury,topp,inpo,1,PREVENTS_TOPPprevINPO
+C5190549,C0876994,PREVENTS,Hydroxychloroquine therapy,Cardiotoxicity,topp,inpo,1,PREVENTS_TOPPprevINPO

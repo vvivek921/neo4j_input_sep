@@ -1,0 +1,11 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0010827,C0015376,PRECEDES,"Cytopathogenic Effect, Viral",Extravasation,comd,patf,1,PRECEDES_COMDprcdPATF
+C0010827,C0021368,PRECEDES,"Cytopathogenic Effect, Viral",Inflammation,comd,patf,1,PRECEDES_COMDprcdPATF
+C0010827,C0024348,PRECEDES,"Cytopathogenic Effect, Viral",Lysis,comd,patf,2,PRECEDES_COMDprcdPATF
+C0025570,C0020507,PRECEDES,Squamous metaplasia,Hyperplasia,comd,patf,1,PRECEDES_COMDprcdPATF
+C0085400,C0036679,PRECEDES,Neurofibrillary degeneration (morphologic abnormality),Diastasis,comd,patf,1,PRECEDES_COMDprcdPATF
+C0242606,C0242184,PRECEDES,Oxidative Stress,Hypoxia,comd,patf,1,PRECEDES_COMDprcdPATF
+C0242606,C1096176,PRECEDES,Oxidative Stress,Mitochondrial Damage,comd,patf,1,PRECEDES_COMDprcdPATF
+C0599732,C0015376,PRECEDES,cell injury,Extravasation,comd,patf,1,PRECEDES_COMDprcdPATF
+C1516373,C0018273,PRECEDES,Cellular Stress,Growth Disorders,comd,patf,1,PRECEDES_COMDprcdPATF
+C1516373,C0021368,PRECEDES,Cellular Stress,Inflammation,comd,patf,1,PRECEDES_COMDprcdPATF

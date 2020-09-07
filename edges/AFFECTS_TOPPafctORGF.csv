@@ -1,0 +1,396 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001562,C0678889,AFFECTS,"Administration, Intravesical",Immunoregulation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0001563,C0011135,AFFECTS,"Administration, Oral",Defecation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0001563,C0678889,AFFECTS,"Administration, Oral",Immunoregulation,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0001563,C1155328,AFFECTS,"Administration, Oral",Antiviral Response,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0001563,C1327413,AFFECTS,"Administration, Oral",cytokine production,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0001563,C1327441,AFFECTS,"Administration, Oral",negative regulation of inflammatory response,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0002766,C0043240,AFFECTS,Pain management,Wound Healing,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0002903,C0011065,AFFECTS,Anesthesia procedures,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0002915,C1148523,AFFECTS,General Anesthesia,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0002915,C1260923,AFFECTS,General Anesthesia,Respiratory movement,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0002915,C1516559,AFFECTS,General Anesthesia,Circulatory Process,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0002928,C0018270,AFFECTS,Spinal Anesthesia,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0004933,C0011167,AFFECTS,Behavior Therapy,Deglutition,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0005491,C0013470,AFFECTS,Biofeedback,Eating,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0005527,C1148523,AFFECTS,Biological Response Modifier Therapy,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0005976,C0043240,AFFECTS,Bone Transplantation,Wound Healing,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0006155,C0004048,AFFECTS,Breathing Exercises,Inspiration function,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0008971,C1148523,AFFECTS,Clinical Protocols,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0009429,C0018270,AFFECTS,Combined Modality Therapy,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0009429,C0043240,AFFECTS,Combined Modality Therapy,Wound Healing,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0009429,C1155328,AFFECTS,Combined Modality Therapy,Antiviral Response,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0009813,C0014653,AFFECTS,Constriction procedure,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0011946,C1148523,AFFECTS,Dialysis procedure,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0012683,C0042789,AFFECTS,Disinfection,Vision,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0013216,C0011065,AFFECTS,Pharmacotherapy,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0013216,C0014653,AFFECTS,Pharmacotherapy,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0013216,C0699900,AFFECTS,Pharmacotherapy,Catabolism,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0013786,C0011167,AFFECTS,Electric stimulation technique,Deglutition,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0013804,C0032961,AFFECTS,Electrocoagulation,Pregnancy,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0013806,C0005823,AFFECTS,Electroconvulsive Therapy,Blood Pressure,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0013969,C0026649,AFFECTS,Emergency treatment,Movement,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0014327,C0020966,AFFECTS,Enteral Nutrition,Cellular Immunity,topp,orgf,4,AFFECTS_TOPPafctORGF
+C0014935,C0029260,AFFECTS,Estrogen Replacement Therapy,Orgasm,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0015250,C0043240,AFFECTS,Complete excision,Wound Healing,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0015252,C0037361,AFFECTS,removal technique,Smell Perception,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0015357,C0011065,AFFECTS,Extracorporeal Membrane Oxygenation,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0015357,C0032961,AFFECTS,Extracorporeal Membrane Oxygenation,Pregnancy,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0015357,C1516559,AFFECTS,Extracorporeal Membrane Oxygenation,Circulatory Process,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0017118,C0020966,AFFECTS,Gastrectomy,Cellular Immunity,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0017296,C0006159,AFFECTS,gene therapy,Breeding,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0017296,C0008810,AFFECTS,gene therapy,Circadian Rhythms,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0017296,C0011065,AFFECTS,gene therapy,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0017296,C0015895,AFFECTS,gene therapy,Fertility,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0017296,C0018270,AFFECTS,gene therapy,Growth,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0017296,C0678723,AFFECTS,gene therapy,Biologic Development,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0017296,C0678889,AFFECTS,gene therapy,Immunoregulation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0017296,C0699900,AFFECTS,gene therapy,Catabolism,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0017296,C1148523,AFFECTS,gene therapy,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0017296,C1561987,AFFECTS,gene therapy,Homeostatic mechanism,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0018833,C0020966,AFFECTS,Heart-Lung Transplantation,Cellular Immunity,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0020431,C0004048,AFFECTS,Hyperbaric oxygenation therapy,Inspiration function,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0020971,C0008810,AFFECTS,Immunization,Circadian Rhythms,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0020971,C0011065,AFFECTS,Immunization,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0020971,C0015895,AFFECTS,Immunization,Fertility,topp,orgf,3,AFFECTS_TOPPafctORGF
+C0020971,C0018270,AFFECTS,Immunization,Growth,topp,orgf,3,AFFECTS_TOPPafctORGF
+C0020971,C0020967,AFFECTS,Immunization,Humoral Immunity,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0020971,C0021080,AFFECTS,Immunization,Natural immunosuppression,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0020971,C0026649,AFFECTS,Immunization,Movement,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0020971,C0678889,AFFECTS,Immunization,Immunoregulation,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0020971,C1148523,AFFECTS,Immunization,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0020971,C1154978,AFFECTS,Immunization,cold acclimation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0020971,C1327413,AFFECTS,Immunization,cytokine production,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0020975,C0678889,AFFECTS,Secondary Immunization,Immunoregulation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0021083,C1155328,AFFECTS,Immunotherapy,Antiviral Response,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0021083,C2584321,AFFECTS,Immunotherapy,Reaching,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0021107,C0015914,AFFECTS,Implantation procedure,Fertilization,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0021107,C0018270,AFFECTS,Implantation procedure,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0021107,C0023946,AFFECTS,Implantation procedure,Locomotion,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0021107,C0871408,AFFECTS,Implantation procedure,speech development,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0021107,C1148523,AFFECTS,Implantation procedure,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0021485,C2936375,AFFECTS,Injection of therapeutic agent,Th1-Th2 Balance,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0021493,C0018270,AFFECTS,"Injections, Intraperitoneal",Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0021493,C0020967,AFFECTS,"Injections, Intraperitoneal",Humoral Immunity,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0021925,C1148523,AFFECTS,Intubation,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0021932,C0011065,AFFECTS,"Intubation, Intratracheal",Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0022100,C0011065,AFFECTS,Irrigation,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0022671,C0011065,AFFECTS,Kidney Transplantation,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0023690,C0678723,AFFECTS,Ligation,Biologic Development,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0024257,C0011065,AFFECTS,Lymphocyte Depletion,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0025991,C1148523,AFFECTS,Microinjections,Childbirth,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0026652,C0003618,AFFECTS,Moxibustion,Desire for food,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0030231,C0003618,AFFECTS,Palliative Care,Desire for food,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0030231,C1148523,AFFECTS,Palliative Care,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0030279,C0012238,AFFECTS,Pancreatectomy,Digestion,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0030548,C0013470,AFFECTS,"Parenteral Nutrition, Total",Eating,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0032042,C1155328,AFFECTS,Placebos,Antiviral Response,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0032134,C0020967,AFFECTS,Plasmapheresis,Humoral Immunity,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0032740,C1148523,AFFECTS,Positive End-Expiratory Pressure,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0032740,C1516559,AFFECTS,Positive End-Expiratory Pressure,Circulatory Process,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0033972,C0004048,AFFECTS,"Psychotherapy, Multiple",Inspiration function,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0034104,C2584321,AFFECTS,Pulpotomy,Reaching,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0034386,C0000934,AFFECTS,Quarantine,Acclimatization,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0034386,C0011065,AFFECTS,Quarantine,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0034386,C0018270,AFFECTS,Quarantine,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0034386,C0026649,AFFECTS,Quarantine,Movement,topp,orgf,6,AFFECTS_TOPPafctORGF
+C0034386,C1148523,AFFECTS,Quarantine,Childbirth,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0035029,C0026649,AFFECTS,Relaxation Techniques,Movement,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0035139,C0678210,AFFECTS,Surgical Replantation,"Passive immunity, function",topp,orgf,1,AFFECTS_TOPPafctORGF
+C0035151,C0035150,AFFECTS,Reproductive Techniques,Reproduction,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0035273,C0011065,AFFECTS,Resuscitation procedure,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0035273,C0016284,AFFECTS,Resuscitation procedure,Fluid Balance,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0035467,C0037361,AFFECTS,rhinoplasty,Smell Perception,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0040440,C0013470,AFFECTS,Tooth Extraction,Eating,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0040674,C0018270,AFFECTS,Transposition procedure,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0040732,C0011065,AFFECTS,Transplantation,Cessation of life,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0040732,C0014653,AFFECTS,Transplantation,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0040808,C0005823,AFFECTS,Treatment Protocols,Blood Pressure,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0040861,C0011065,AFFECTS,Triage,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0040861,C0026649,AFFECTS,Triage,Movement,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0042196,C0001811,AFFECTS,Vaccination,Aging,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0042196,C0003618,AFFECTS,Vaccination,Desire for food,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0042196,C0004048,AFFECTS,Vaccination,Inspiration function,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0042196,C0004614,AFFECTS,Vaccination,Bacterial Adhesion,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0042196,C0009253,AFFECTS,Vaccination,Coitus,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0042196,C0011065,AFFECTS,Vaccination,Cessation of life,topp,orgf,5,AFFECTS_TOPPafctORGF
+C0042196,C0014653,AFFECTS,Vaccination,Equilibrium,topp,orgf,3,AFFECTS_TOPPafctORGF
+C0042196,C0015895,AFFECTS,Vaccination,Fertility,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0042196,C0018270,AFFECTS,Vaccination,Growth,topp,orgf,3,AFFECTS_TOPPafctORGF
+C0042196,C0020967,AFFECTS,Vaccination,Humoral Immunity,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0042196,C0026649,AFFECTS,Vaccination,Movement,topp,orgf,4,AFFECTS_TOPPafctORGF
+C0042196,C0035150,AFFECTS,Vaccination,Reproduction,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0042196,C0678210,AFFECTS,Vaccination,"Passive immunity, function",topp,orgf,1,AFFECTS_TOPPafctORGF
+C0042196,C0678889,AFFECTS,Vaccination,Immunoregulation,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0042196,C1155328,AFFECTS,Vaccination,Antiviral Response,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0042196,C1516559,AFFECTS,Vaccination,Circulatory Process,topp,orgf,4,AFFECTS_TOPPafctORGF
+C0042196,C2584321,AFFECTS,Vaccination,Reaching,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0043162,C0011065,AFFECTS,Whole-Body Irradiation,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0043162,C0014653,AFFECTS,Whole-Body Irradiation,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0052712,C0018270,AFFECTS,doxorubicin/mitomycin/vinblastine protocol,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0052712,C1148523,AFFECTS,doxorubicin/mitomycin/vinblastine protocol,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0052712,C2936375,AFFECTS,doxorubicin/mitomycin/vinblastine protocol,Th1-Th2 Balance,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0055670,C0011065,AFFECTS,cyclophosphamide/doxorubicin/prednisone/teniposide protocol,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0058890,C0004048,AFFECTS,EAP protocol,Inspiration function,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0071715,C0005615,AFFECTS,mercaptopurine/methotrexate/prednisone/vincristine protocol,Birth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0079613,C0006147,AFFECTS,Adoptive Immunotherapy,Breast Feeding,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0079613,C0014653,AFFECTS,Adoptive Immunotherapy,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0079613,C0026559,AFFECTS,Adoptive Immunotherapy,Morphogenesis,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0085867,C0037313,AFFECTS,Balneotherapy,Sleep,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0086153,C0012238,AFFECTS,Dietary Modification,Digestion,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0149783,C0011065,AFFECTS,Steroid therapy,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0150141,C0037313,AFFECTS,Bathing,Sleep,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0152054,C0008071,AFFECTS,Therapeutic tactile stimulation,Child Development,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0152054,C0026649,AFFECTS,Therapeutic tactile stimulation,Movement,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0152060,C0008071,AFFECTS,Transection (procedure),Child Development,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0152060,C0011065,AFFECTS,Transection (procedure),Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0152060,C0014653,AFFECTS,Transection (procedure),Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0152060,C0015895,AFFECTS,Transection (procedure),Fertility,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0152060,C0018270,AFFECTS,Transection (procedure),Growth,topp,orgf,3,AFFECTS_TOPPafctORGF
+C0152060,C0022864,AFFECTS,Transection (procedure),Labor (Childbirth),topp,orgf,1,AFFECTS_TOPPafctORGF
+C0152060,C0597059,AFFECTS,Transection (procedure),neurotoxicology,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0152060,C0678723,AFFECTS,Transection (procedure),Biologic Development,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0152060,C1148523,AFFECTS,Transection (procedure),Childbirth,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0184893,C0011065,AFFECTS,Emergency operation,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0184893,C0018270,AFFECTS,Emergency operation,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185003,C0011065,AFFECTS,Reparative closure,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185003,C0022864,AFFECTS,Reparative closure,Labor (Childbirth),topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185003,C2584321,AFFECTS,Reparative closure,Reaching,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185026,C0678723,AFFECTS,Plication,Biologic Development,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185027,C0012238,AFFECTS,Imbrication (procedure),Digestion,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185027,C0043240,AFFECTS,Imbrication (procedure),Wound Healing,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185027,C4255265,AFFECTS,Imbrication (procedure),Neuronal Outgrowth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185058,C0035150,AFFECTS,Electrodesiccation with curettage,Reproduction,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185111,C0003618,AFFECTS,Surgical Manipulation,Desire for food,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185111,C0018270,AFFECTS,Surgical Manipulation,Growth,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0185111,C0029957,AFFECTS,Surgical Manipulation,Oviposition,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185115,C0005823,AFFECTS,Extraction,Blood Pressure,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185115,C0015745,AFFECTS,Extraction,Feeding behaviors,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185115,C0018270,AFFECTS,Extraction,Growth,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0185115,C0699900,AFFECTS,Extraction,Catabolism,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0185115,C1136180,AFFECTS,Extraction,Disease Resistance,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185115,C1148523,AFFECTS,Extraction,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0185117,C0678121,AFFECTS,Expression procedure,Basal metabolic rate,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0188970,C0037361,AFFECTS,Operation on nose,Smell Perception,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0190080,C0022864,AFFECTS,Mitral valvotomy,Labor (Childbirth),topp,orgf,1,AFFECTS_TOPPafctORGF
+C0190080,C1148523,AFFECTS,Mitral valvotomy,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0192456,C0013470,AFFECTS,Nasogastric feeding,Eating,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0194086,C0018270,AFFECTS,Partial nephrectomy,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0197447,C0043240,AFFECTS,Refractive keratoplasty,Wound Healing,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0199176,C0011065,AFFECTS,Prophylactic treatment,Cessation of life,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0199176,C0018270,AFFECTS,Prophylactic treatment,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0199176,C0678889,AFFECTS,Prophylactic treatment,Immunoregulation,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0199176,C1752856,AFFECTS,Prophylactic treatment,Host-Pathogen Interactions,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0199176,C2584321,AFFECTS,Prophylactic treatment,Reaching,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0199451,C0004048,AFFECTS,Continuous Positive Airway Pressure,Inspiration function,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0199451,C0011167,AFFECTS,Continuous Positive Airway Pressure,Deglutition,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0199451,C1516559,AFFECTS,Continuous Positive Airway Pressure,Circulatory Process,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0199451,C2610587,AFFECTS,Continuous Positive Airway Pressure,lung growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0199470,C0005823,AFFECTS,Mechanical ventilation,Blood Pressure,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0199470,C0032961,AFFECTS,Mechanical ventilation,Pregnancy,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0199470,C1148523,AFFECTS,Mechanical ventilation,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0199470,C1819439,AFFECTS,Mechanical ventilation,interleukin-12 production,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0199779,C0011065,AFFECTS,Administration of antibiotic,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0199804,C0011065,AFFECTS,Vaccination against tuberculosis,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0200324,C0014653,AFFECTS,Vestibular rehabilitation,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0204523,C0037313,AFFECTS,Psychiatric therapeutic procedure,Sleep,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0204700,C1516559,AFFECTS,Fluid restriction,Circulatory Process,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0204727,C0009253,AFFECTS,Isolation procedure,Coitus,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0204727,C0011065,AFFECTS,Isolation procedure,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0204727,C0015745,AFFECTS,Isolation procedure,Feeding behaviors,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0204727,C0015895,AFFECTS,Isolation procedure,Fertility,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0204727,C0026649,AFFECTS,Isolation procedure,Movement,topp,orgf,4,AFFECTS_TOPPafctORGF
+C0204727,C0043240,AFFECTS,Isolation procedure,Wound Healing,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0204727,C1523351,AFFECTS,Isolation procedure,tissue homeostasis,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0204727,C1752856,AFFECTS,Isolation procedure,Host-Pathogen Interactions,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0242297,C2936272,AFFECTS,Dietary Supplementation,Circadian Clocks,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0242348,C4505207,AFFECTS,Serotherapy,Immune Reconstitution,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0242602,C4505207,AFFECTS,Peripheral Stem Cell Transplantation,Immune Reconstitution,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0242739,C0016284,AFFECTS,Nutritional Support,Fluid Balance,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0242972,C0025516,AFFECTS,"Diet, Protein-Restricted","Metabolic Detoxication, Drug",topp,orgf,1,AFFECTS_TOPPafctORGF
+C0259972,C0678715,AFFECTS,Ketogenic Diet,mineral metabolism,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0262762,C0026649,AFFECTS,crisis management,Movement,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0262762,C0042789,AFFECTS,crisis management,Vision,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0279391,C0004048,AFFECTS,mercaptopurine/methotrexate/vincristine,Inspiration function,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0280274,C0678889,AFFECTS,Antiviral Therapy,Immunoregulation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0281176,C1148523,AFFECTS,Antibody Therapy,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0281318,C0678889,AFFECTS,antiangiogenesis therapy,Immunoregulation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0282614,C0003618,AFFECTS,Acupressure,Desire for food,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0282624,C2584321,AFFECTS,Minimally Invasive Surgical Procedures,Reaching,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0338248,C0014653,AFFECTS,carmustine/cytarabine/etoposide/melphalan regimen,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0376466,C0699900,AFFECTS,Ischemic Preconditioning,Catabolism,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0392535,C0005615,AFFECTS,Induced abortion (procedure),Birth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0396670,C1516559,AFFECTS,Isolated limb perfusion,Circulatory Process,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0398275,C1148523,AFFECTS,Central venous cannula insertion,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0407295,C0018270,AFFECTS,Fixation of fracture using plate,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0412806,C0035150,AFFECTS,Thermoregulation measures,Reproduction,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0418981,C1148523,AFFECTS,Medical therapy,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0419786,C0011065,AFFECTS,Infection surveillance,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0420201,C0016284,AFFECTS,Central venous pressure monitoring,Fluid Balance,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0439775,C0001811,AFFECTS,Elevation procedure,Aging,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0439775,C0005823,AFFECTS,Elevation procedure,Blood Pressure,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0439775,C0014653,AFFECTS,Elevation procedure,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0439775,C0678889,AFFECTS,Elevation procedure,Immunoregulation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0441509,C0011065,AFFECTS,Coagulation procedure,Cessation of life,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0441509,C0012238,AFFECTS,Coagulation procedure,Digestion,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0441516,C0000934,AFFECTS,Demand (clinical),Acclimatization,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0454530,C0011065,AFFECTS,Ultraviolet B therapy,Cessation of life,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0457987,C0014653,AFFECTS,Renal disease diet,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0472699,C0011065,AFFECTS,Hemopoietic stem cell transplant,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0472699,C4505207,AFFECTS,Hemopoietic stem cell transplant,Immune Reconstitution,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0498348,C0678889,AFFECTS,Adjunctive procedure (dental procedure),Immunoregulation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0520484,C0018270,AFFECTS,Xenograft procedure,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0521974,C0008810,AFFECTS,"Diet, High-Fat",Circadian Rhythms,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0521974,C0025519,AFFECTS,"Diet, High-Fat",Metabolism,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0524865,C0011065,AFFECTS,Reconstructive Surgical Procedures,Cessation of life,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0524865,C0037817,AFFECTS,Reconstructive Surgical Procedures,Speech,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0543467,C0004048,AFFECTS,Operative Surgical Procedures,Inspiration function,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0543467,C0011065,AFFECTS,Operative Surgical Procedures,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0543467,C0015895,AFFECTS,Operative Surgical Procedures,Fertility,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0543467,C0018270,AFFECTS,Operative Surgical Procedures,Growth,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0543467,C0026649,AFFECTS,Operative Surgical Procedures,Movement,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0543467,C2584321,AFFECTS,Operative Surgical Procedures,Reaching,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0547070,C0000934,AFFECTS,Ablation,Acclimatization,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0547070,C0814002,AFFECTS,Ablation,Neurogenesis,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0547070,C3548680,AFFECTS,Ablation,primary growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0553741,C0014653,AFFECTS,Fluid Management,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0554804,C0004048,AFFECTS,Assisted breathing,Inspiration function,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0554804,C0014653,AFFECTS,Assisted breathing,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0554804,C0016284,AFFECTS,Assisted breathing,Fluid Balance,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0557061,C0026649,AFFECTS,Discussion (procedure),Movement,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0574032,C0005823,AFFECTS,Infusion procedures,Blood Pressure,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0574032,C0042789,AFFECTS,Infusion procedures,Vision,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0574032,C1148523,AFFECTS,Infusion procedures,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0581601,C1148523,AFFECTS,Functional modification,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0581602,C1510835,AFFECTS,Structural modification,Aging-Related Process,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0581602,C2584321,AFFECTS,Structural modification,Reaching,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0585458,C0012238,AFFECTS,Cecectomy,Digestion,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0585941,C0005823,AFFECTS,Antihypertensive therapy,Blood Pressure,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0588464,C0037313,AFFECTS,Exercise on prescription,Sleep,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0677850,C0014653,AFFECTS,Adjuvant Therapy,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0677850,C0678889,AFFECTS,Adjuvant Therapy,Immunoregulation,topp,orgf,2,AFFECTS_TOPPafctORGF
+C0678812,C0005823,AFFECTS,systemic administration,Blood Pressure,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0678812,C1148523,AFFECTS,systemic administration,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0678815,C1148523,AFFECTS,"Administration, Mucosal",Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0679698,C1516559,AFFECTS,disease prevention,Circulatory Process,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0679750,C0026649,AFFECTS,prevention through information dissemination,Movement,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0683465,C0018270,AFFECTS,novel AODU treatment method,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0683468,C1148523,AFFECTS,invasive treatment,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0695434,C0026649,AFFECTS,oscillations,Movement,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0695434,C2584321,AFFECTS,oscillations,Reaching,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0700589,C0032961,AFFECTS,Contraceptive methods,Pregnancy,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0702123,C0018270,AFFECTS,Nerve graft,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0749736,C0013470,AFFECTS,tumor removal,Eating,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0814435,C1148523,AFFECTS,early identification,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0815154,C0018270,AFFECTS,selective intervention,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0844334,C0037361,AFFECTS,septoplasty,Smell Perception,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0870810,C0015895,AFFECTS,lifesaving,Fertility,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0872104,C0015914,AFFECTS,Assisted Reproductive Technologies,Fertilization,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0872278,C0043240,AFFECTS,stem cell therapy,Wound Healing,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0872278,C0678889,AFFECTS,stem cell therapy,Immunoregulation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0877071,C0011167,AFFECTS,postoperative rehabilitation,Deglutition,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0883304,C0026649,AFFECTS,placement of tube,Movement,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0887947,C4505207,AFFECTS,"Antiretroviral Therapy, Highly Active",Immune Reconstitution,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0917927,C0043240,AFFECTS,Breast-Conserving Surgery,Wound Healing,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0920467,C0011065,AFFECTS,disorder control (procedure),Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0920467,C0015895,AFFECTS,disorder control (procedure),Fertility,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0920467,C2584321,AFFECTS,disorder control (procedure),Reaching,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0947647,C0035150,AFFECTS,Manipulation procedure,Reproduction,topp,orgf,1,AFFECTS_TOPPafctORGF
+C0948997,C1148523,AFFECTS,Head and neck Treatments,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1135809,C0001811,AFFECTS,Caloric Restriction,Aging,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1135809,C0018841,AFFECTS,Caloric Restriction,Thermogenesis,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1135809,C1510835,AFFECTS,Caloric Restriction,Aging-Related Process,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1135929,C1516559,AFFECTS,Mass Vaccination,Circulatory Process,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1171257,C1148523,AFFECTS,Delivery care,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1261381,C0003618,AFFECTS,Destructive procedure (surgical),Desire for food,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1261381,C0011065,AFFECTS,Destructive procedure (surgical),Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1261381,C0012238,AFFECTS,Destructive procedure (surgical),Digestion,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1261381,C0014653,AFFECTS,Destructive procedure (surgical),Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1261381,C0018270,AFFECTS,Destructive procedure (surgical),Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1261381,C0025516,AFFECTS,Destructive procedure (surgical),"Metabolic Detoxication, Drug",topp,orgf,1,AFFECTS_TOPPafctORGF
+C1261381,C1516559,AFFECTS,Destructive procedure (surgical),Circulatory Process,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1276413,C1286104,AFFECTS,Therapeutic regimen,Dietary intake,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1280903,C0000934,AFFECTS,Exploration procedure,Acclimatization,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1280903,C0016284,AFFECTS,Exploration procedure,Fluid Balance,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1280903,C0678889,AFFECTS,Exploration procedure,Immunoregulation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1280903,C1327413,AFFECTS,Exploration procedure,cytokine production,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1282573,C0004048,AFFECTS,Evacuation procedure,Inspiration function,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1282573,C0026649,AFFECTS,Evacuation procedure,Movement,topp,orgf,2,AFFECTS_TOPPafctORGF
+C1285354,C0000934,AFFECTS,Mechanical stimulation,Acclimatization,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1292856,C0004048,AFFECTS,Stimulation procedure,Inspiration function,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1292856,C0005823,AFFECTS,Stimulation procedure,Blood Pressure,topp,orgf,3,AFFECTS_TOPPafctORGF
+C1292856,C0006147,AFFECTS,Stimulation procedure,Breast Feeding,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1292856,C0013470,AFFECTS,Stimulation procedure,Eating,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1292856,C0018270,AFFECTS,Stimulation procedure,Growth,topp,orgf,3,AFFECTS_TOPPafctORGF
+C1292856,C0596570,AFFECTS,Stimulation procedure,fibrogenesis,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1292856,C0678723,AFFECTS,Stimulation procedure,Biologic Development,topp,orgf,2,AFFECTS_TOPPafctORGF
+C1292856,C0678889,AFFECTS,Stimulation procedure,Immunoregulation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1292856,C1749719,AFFECTS,Stimulation procedure,Adaptive Immune Response,topp,orgf,2,AFFECTS_TOPPafctORGF
+C1292856,C1819459,AFFECTS,Stimulation procedure,interleukin-6 production,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1293130,C0014653,AFFECTS,Stabilization,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1293130,C0026649,AFFECTS,Stabilization,Movement,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1293130,C0678723,AFFECTS,Stabilization,Biologic Development,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1293132,C1148523,AFFECTS,Anchoring procedure,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1293500,C0011167,AFFECTS,Tongue closure,Deglutition,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1318464,C0006147,AFFECTS,Occupational therapy regime,Breast Feeding,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1328050,C0011065,AFFECTS,High Dose Chemotherapy,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1456587,C1148523,AFFECTS,Bariatric Surgery,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1511790,C0001811,AFFECTS,Detection,Aging,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1511790,C0005615,AFFECTS,Detection,Birth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1511790,C0006147,AFFECTS,Detection,Breast Feeding,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1511790,C0009253,AFFECTS,Detection,Coitus,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1511790,C0011065,AFFECTS,Detection,Cessation of life,topp,orgf,3,AFFECTS_TOPPafctORGF
+C1511790,C0014653,AFFECTS,Detection,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1511790,C0018270,AFFECTS,Detection,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1511790,C0020967,AFFECTS,Detection,Humoral Immunity,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1511790,C0042789,AFFECTS,Detection,Vision,topp,orgf,2,AFFECTS_TOPPafctORGF
+C1511790,C0699900,AFFECTS,Detection,Catabolism,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1512335,C0012238,AFFECTS,Harvest Procedure,Digestion,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1512721,C1148523,AFFECTS,Inferential Current Treatment,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1515119,C0011065,AFFECTS,Systemic Therapy,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1515884,C0678889,AFFECTS,Acupuncture and Oriental Medicine,Immunoregulation,topp,orgf,2,AFFECTS_TOPPafctORGF
+C1522449,C0043240,AFFECTS,Therapeutic radiology procedure,Wound Healing,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1522449,C0678723,AFFECTS,Therapeutic radiology procedure,Biologic Development,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1532786,C1516559,AFFECTS,Rotavirus vaccination,Circulatory Process,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1533734,C1148523,AFFECTS,Administration procedure,Childbirth,topp,orgf,2,AFFECTS_TOPPafctORGF
+C1563738,C0678889,AFFECTS,Oncolytic Virotherapy,Immunoregulation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1571809,C0037817,AFFECTS,Visceral manipulation,Speech,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1659427,C1148523,AFFECTS,nebulization-mediated drug administration,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1659427,C2936375,AFFECTS,nebulization-mediated drug administration,Th1-Th2 Balance,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1704532,C1148523,AFFECTS,Active Method,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1831994,C0001811,AFFECTS,selective internal radiation therapy,Aging,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1883520,C0014653,AFFECTS,VePesid-Ifosfamide-Platinol Regimen,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1883583,C0037313,AFFECTS,Yoga,Sleep,topp,orgf,1,AFFECTS_TOPPafctORGF
+C1956078,C0043240,AFFECTS,Negative-Pressure Wound Therapy,Wound Healing,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2004459,C0018270,AFFECTS,Abdominoperineal resection,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2242626,C0011135,AFFECTS,Probiotic therapy,Defecation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2242628,C0011065,AFFECTS,Fecal Microbiota Transplantation,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2316067,C0037313,AFFECTS,Journaling,Sleep,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2348331,C0011065,AFFECTS,Dose Regimen,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2350239,C0009637,AFFECTS,Ablation Techniques,Conception,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2368628,C0011065,AFFECTS,Vaccine Administration,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2827774,C0011065,AFFECTS,Current Therapy,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2936302,C0005823,AFFECTS,"Infusions, Intracerebroventricular",Blood Pressure,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2936405,C0015264,AFFECTS,Drug Repositioning,Exertion,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2936497,C0011065,AFFECTS,Hemovigilance,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2985393,C0011167,AFFECTS,Neuromuscular Electrical Stimulation,Deglutition,topp,orgf,1,AFFECTS_TOPPafctORGF
+C2985557,C0018270,AFFECTS,Gamma Irradiation,Growth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C3274791,C1148523,AFFECTS,Mechanical Circulatory Support,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C3526598,C1148523,AFFECTS,Psychiatric service,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C3540512,C0037313,AFFECTS,Circumferential Supracrestal Fiberotomy,Sleep,topp,orgf,1,AFFECTS_TOPPafctORGF
+C3540512,C0042789,AFFECTS,Circumferential Supracrestal Fiberotomy,Vision,topp,orgf,1,AFFECTS_TOPPafctORGF
+C3540512,C0814002,AFFECTS,Circumferential Supracrestal Fiberotomy,Neurogenesis,topp,orgf,2,AFFECTS_TOPPafctORGF
+C3540512,C1148523,AFFECTS,Circumferential Supracrestal Fiberotomy,Childbirth,topp,orgf,1,AFFECTS_TOPPafctORGF
+C3540512,C1327413,AFFECTS,Circumferential Supracrestal Fiberotomy,cytokine production,topp,orgf,2,AFFECTS_TOPPafctORGF
+C3658308,C0026649,AFFECTS,Patient Care Bundles,Movement,topp,orgf,1,AFFECTS_TOPPafctORGF
+C3686677,C0003618,AFFECTS,Introduction of normal fauna to digestive tract,Desire for food,topp,orgf,1,AFFECTS_TOPPafctORGF
+C3810531,C0011065,AFFECTS,Bortezomib/Dexamethasone/Pegylated Liposomal Doxorubicin Regimen,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C3850085,C0015895,AFFECTS,Prophylactic Surgical Procedures,Fertility,topp,orgf,1,AFFECTS_TOPPafctORGF
+C4086280,C0011167,AFFECTS,Expiratory Muscle Strength Training,Deglutition,topp,orgf,1,AFFECTS_TOPPafctORGF
+C4526535,C0006159,AFFECTS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Breeding,topp,orgf,2,AFFECTS_TOPPafctORGF
+C4526535,C0015895,AFFECTS,Bendamustine/Lenalidomide/Dexamethasone Regimen,Fertility,topp,orgf,1,AFFECTS_TOPPafctORGF
+C4699741,C0014653,AFFECTS,Balance training,Equilibrium,topp,orgf,1,AFFECTS_TOPPafctORGF
+C4723833,C0011065,AFFECTS,vertebral augmentation procedure,Cessation of life,topp,orgf,1,AFFECTS_TOPPafctORGF
+C4723833,C0021080,AFFECTS,vertebral augmentation procedure,Natural immunosuppression,topp,orgf,1,AFFECTS_TOPPafctORGF
+C4763675,C0678889,AFFECTS,Single Agent Therapy,Immunoregulation,topp,orgf,1,AFFECTS_TOPPafctORGF
+C4763675,C1819459,AFFECTS,Single Agent Therapy,interleukin-6 production,topp,orgf,1,AFFECTS_TOPPafctORGF

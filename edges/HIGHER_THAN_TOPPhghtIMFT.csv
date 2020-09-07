@@ -1,0 +1,9 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0020971,C0001551,HIGHER_THAN,Immunization,Immunologic Adjuvants,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0020971,C0003320,HIGHER_THAN,Immunization,Antigens,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0020975,C0003316,HIGHER_THAN,Secondary Immunization,Epitopes,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0042196,C0003320,HIGHER_THAN,Vaccination,Antigens,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0042196,C0037355,HIGHER_THAN,Vaccination,smallpox vaccine,topp,imft,2,HIGHER_THAN_TOPPhghtIMFT
+C0042196,C0042211,HIGHER_THAN,Vaccination,"Vaccines, Attenuated",topp,imft,2,HIGHER_THAN_TOPPhghtIMFT
+C0042196,C0042742,HIGHER_THAN,Vaccination,Viral Vaccines,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT
+C0042196,C1514218,HIGHER_THAN,Vaccination,Polyvalent Vaccine,topp,imft,1,HIGHER_THAN_TOPPhghtIMFT

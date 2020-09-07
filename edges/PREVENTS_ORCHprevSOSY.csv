@@ -1,0 +1,172 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000970,C0015967,PREVENTS,acetaminophen,Fever,orch,sosy,9,PREVENTS_ORCHprevSOSY
+C0000970,C0018681,PREVENTS,acetaminophen,Headache,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0000970,C0030193,PREVENTS,acetaminophen,Pain,orch,sosy,6,PREVENTS_ORCHprevSOSY
+C0000970,C0392171,PREVENTS,acetaminophen,Influenza-like symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0000970,C2364135,PREVENTS,acetaminophen,Discomfort,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0001962,C0235169,PREVENTS,ethanol,Excitability,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0002026,C0010200,PREVENTS,alfentanil,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0002026,C0085631,PREVENTS,alfentanil,Agitation,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0002403,C0015672,PREVENTS,amantadine,Fatigue,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0002403,C0015967,PREVENTS,amantadine,Fever,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0002772,C0010200,PREVENTS,"Analgesics, Opioid",Coughing,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C0002772,C0013404,PREVENTS,"Analgesics, Opioid",Dyspnea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0002772,C0087169,PREVENTS,"Analgesics, Opioid",Withdrawal Symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0003968,C0349410,PREVENTS,ascorbic acid,Single organ dysfunction,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0003968,C0439035,PREVENTS,ascorbic acid,Wheezing symptom,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0004057,C0018681,PREVENTS,aspirin,Headache,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C0004057,C0030193,PREVENTS,aspirin,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0004057,C0037383,PREVENTS,aspirin,Sneezing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0004057,C0231218,PREVENTS,aspirin,Malaise,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0004057,C0234238,PREVENTS,aspirin,Ache,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0004259,C0235568,PREVENTS,atropine,Bronchorrhea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0005064,C0036572,PREVENTS,Benzodiazepines,Seizures,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0005064,C0085631,PREVENTS,Benzodiazepines,Agitation,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0005304,C0011991,PREVENTS,betaine,Diarrhea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0006400,C0030193,PREVENTS,bupivacaine,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0006462,C0087169,PREVENTS,buspirone,Withdrawal Symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0006507,C0015967,PREVENTS,butylated hydroxytoluene,Fever,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0006644,C0003578,PREVENTS,caffeine,Apnea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0006644,C0030193,PREVENTS,caffeine,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0006949,C0036572,PREVENTS,carbamazepine,Seizures,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0007404,C0849640,PREVENTS,catechin,skin damage,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0008269,C0015230,PREVENTS,chloroquine,Exanthema,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0008281,C0037383,PREVENTS,chlorpheniramine,Sneezing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0008281,C0392171,PREVENTS,chlorpheniramine,Influenza-like symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0009074,C0011991,PREVENTS,clotrimazole,Diarrhea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0009214,C0010200,PREVENTS,codeine,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0009262,C0427008,PREVENTS,colchicine,Stiffness,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0009262,C1517205,PREVENTS,colchicine,Flare,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0011777,C0018681,PREVENTS,dexamethasone,Headache,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0011777,C0027497,PREVENTS,dexamethasone,Nausea,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0011777,C0038450,PREVENTS,dexamethasone,Stridor,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0011777,C0042963,PREVENTS,dexamethasone,Vomiting,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C0011777,C0520904,PREVENTS,dexamethasone,Postoperative Nausea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0011777,C2926602,PREVENTS,dexamethasone,"Discharge, body substance",orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0011816,C0010200,PREVENTS,dextromethorphan,Coughing,orch,sosy,4,PREVENTS_ORCHprevSOSY
+C0012522,C0392156,PREVENTS,diphenhydramine,Akathisia,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0012586,C0015967,PREVENTS,dipyrone,Fever,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0012586,C0018681,PREVENTS,dipyrone,Headache,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0013015,C0426576,PREVENTS,domperidone,Gastrointestinal symptom,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0014695,C0043144,PREVENTS,ergocalciferol,Wheezing,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0015846,C0010200,PREVENTS,fentanyl,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0015846,C0030193,PREVENTS,fentanyl,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0015846,C1708556,PREVENTS,fentanyl,Intraoperative Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0016860,C0013404,PREVENTS,furosemide,Dyspnea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0017696,C0679309,PREVENTS,Glucans,physical symptom,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0017696,C1260880,PREVENTS,Glucans,Rhinorrhea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0017970,C0235568,PREVENTS,glycopyrrolate,Bronchorrhea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0018546,C0085631,PREVENTS,haloperidol,Agitation,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0019443,C0349410,PREVENTS,Hexadimethrine Bromide,Single organ dysfunction,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0019590,C0037383,PREVENTS,Histamine Antagonists,Sneezing,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C0019590,C0850060,PREVENTS,Histamine Antagonists,nasal itching,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0019590,C1260880,PREVENTS,Histamine Antagonists,Rhinorrhea,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C0020336,C0015230,PREVENTS,hydroxychloroquine,Exanthema,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0020336,C0037090,PREVENTS,hydroxychloroquine,"Signs and Symptoms, Respiratory",orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0020336,C1517205,PREVENTS,hydroxychloroquine,Flare,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0020740,C0015967,PREVENTS,ibuprofen,Fever,orch,sosy,5,PREVENTS_ORCHprevSOSY
+C0020740,C0018681,PREVENTS,ibuprofen,Headache,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0020740,C0030193,PREVENTS,ibuprofen,Pain,orch,sosy,4,PREVENTS_ORCHprevSOSY
+C0020740,C0037383,PREVENTS,ibuprofen,Sneezing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0020740,C0234238,PREVENTS,ibuprofen,Ache,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0023660,C0010200,PREVENTS,lidocaine,Coughing,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C0023660,C0030201,PREVENTS,lidocaine,"Pain, Postoperative",orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0024002,C0085631,PREVENTS,lorazepam,Agitation,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0025368,C0010200,PREVENTS,menthol,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0025605,C0020429,PREVENTS,methadone,Hyperalgesia,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0025853,C0027497,PREVENTS,metoclopramide,Nausea,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C0025853,C0042963,PREVENTS,metoclopramide,Vomiting,orch,sosy,7,PREVENTS_ORCHprevSOSY
+C0025853,C0426576,PREVENTS,metoclopramide,Gastrointestinal symptom,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0026549,C0013404,PREVENTS,morphine,Dyspnea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0026549,C0030193,PREVENTS,morphine,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0026549,C0476273,PREVENTS,morphine,Respiratory distress,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0026549,C2364135,PREVENTS,morphine,Discomfort,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0027235,C0037383,PREVENTS,ipratropium,Sneezing,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0027235,C1260880,PREVENTS,ipratropium,Rhinorrhea,orch,sosy,5,PREVENTS_ORCHprevSOSY
+C0027396,C0010200,PREVENTS,naproxen,Coughing,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0027396,C0018681,PREVENTS,naproxen,Headache,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0027396,C0234238,PREVENTS,naproxen,Ache,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0027396,C0521989,PREVENTS,naproxen,Associated symptom,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0031412,C0036572,PREVENTS,phenobarbital,Seizures,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0031469,C0392171,PREVENTS,phenylephrine,Influenza-like symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0031507,C0036572,PREVENTS,phenytoin,Seizures,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0032857,C0392171,PREVENTS,povidone-iodine,Influenza-like symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0032950,C0037090,PREVENTS,prednisolone,"Signs and Symptoms, Respiratory",orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0032950,C0043144,PREVENTS,prednisolone,Wheezing,orch,sosy,7,PREVENTS_ORCHprevSOSY
+C0033229,C0392156,PREVENTS,prochlorperazine,Akathisia,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0033405,C0027497,PREVENTS,promethazine,Nausea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0033405,C0042963,PREVENTS,promethazine,Vomiting,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0033487,C0003578,PREVENTS,propofol,Apnea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0033487,C0010200,PREVENTS,propofol,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0034272,C0042963,PREVENTS,pyridoxine,Vomiting,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0034392,C0427008,PREVENTS,quercetin,Stiffness,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0035629,C0392171,PREVENTS,rimantadine,Influenza-like symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0038317,C0008031,PREVENTS,Steroids,Chest Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0038317,C0015967,PREVENTS,Steroids,Fever,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0038317,C0037383,PREVENTS,Steroids,Sneezing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0038627,C0010200,PREVENTS,succinylcholine,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0039840,C0349410,PREVENTS,thiamine,Single organ dysfunction,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0042291,C0085631,PREVENTS,valproic acid,Agitation,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0042874,C0011991,PREVENTS,vitamin E,Diarrhea,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0053792,C0011991,PREVENTS,bismuth subsalicylate,Diarrhea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0056471,C0015967,PREVENTS,creatinol phosphate,Fever,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0060503,C0030193,PREVENTS,flunixin meglumine,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0060926,C0030193,PREVENTS,gabapentin,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0061751,C0231818,PREVENTS,glycyrrhizic acid,Airway constriction,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0061851,C0042963,PREVENTS,ondansetron,Vomiting,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C0066447,C0003578,PREVENTS,methylxanthine,Apnea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0068483,C0037383,PREVENTS,nedocromil,Sneezing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0069632,C0010200,PREVENTS,rocuronium bromide,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0071649,C0427008,PREVENTS,polyphenols,Stiffness,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0073096,C0030193,PREVENTS,resveratrol,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0073393,C0085631,PREVENTS,risperidone,Agitation,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0074554,C0427008,PREVENTS,simvastatin,Stiffness,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0085173,C0231918,PREVENTS,terfenadine,Nose symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0113293,C0085631,PREVENTS,dexmedetomidine,Agitation,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0113293,C0476273,PREVENTS,dexmedetomidine,Respiratory distress,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0113293,C2364135,PREVENTS,dexmedetomidine,Discomfort,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0123047,C1517205,PREVENTS,ibudilast,Flare,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0123091,C0085631,PREVENTS,quetiapine,Agitation,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0143993,C0010200,PREVENTS,sufentanil,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0171023,C0085631,PREVENTS,olanzapine,Agitation,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0209210,C0042963,PREVENTS,dolasetron,Vomiting,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0209337,C0010200,PREVENTS,rocuronium,Coughing,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C0225326,C1291077,PREVENTS,fiber,Abdominal bloating,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C0246631,C0010200,PREVENTS,remifentanil,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0249458,C0030193,PREVENTS,valacyclovir,Pain,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0256172,C0010200,PREVENTS,moguisteine,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0257685,C0030193,PREVENTS,zoledronic acid,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0259754,C0027497,PREVENTS,Water-soluble vitamin,Nausea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0259754,C0042963,PREVENTS,Water-soluble vitamin,Vomiting,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0298130,C0010200,PREVENTS,montelukast,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0298130,C0043144,PREVENTS,montelukast,Wheezing,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C0299792,C0085631,PREVENTS,aripiprazole,Agitation,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0359916,C0948786,PREVENTS,Substance with phenol structure,Blanching,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0380393,C0085631,PREVENTS,ziprasidone,Agitation,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0699094,C0030193,PREVENTS,Xylocaine,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0699934,C0476273,PREVENTS,Survanta,Respiratory distress,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0700580,C1260880,PREVENTS,ipratropium bromide,Rhinorrhea,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C0718566,C0036572,PREVENTS,Anti-Fungal,Seizures,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0772411,C0011991,PREVENTS,potato starch,Diarrhea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0772501,C0043144,PREVENTS,levalbuterol,Wheezing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C0949665,C0011991,PREVENTS,Fluoroquinolones,Diarrhea,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C1098320,C0427008,PREVENTS,olmesartan,Stiffness,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C1119918,C0392171,PREVENTS,ginseng preparation,Influenza-like symptoms,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C1138226,C0010200,PREVENTS,favipiravir,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C1138226,C0015967,PREVENTS,favipiravir,Fever,orch,sosy,2,PREVENTS_ORCHprevSOSY
+C1257954,C0015967,PREVENTS,Cyclooxygenase 2 Inhibitors,Fever,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C1257954,C0030193,PREVENTS,Cyclooxygenase 2 Inhibitors,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C1257954,C0234238,PREVENTS,Cyclooxygenase 2 Inhibitors,Ache,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C1569608,C0087169,PREVENTS,varenicline,Withdrawal Symptoms,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C1871004,C0042963,PREVENTS,maropitant,Vomiting,orch,sosy,3,PREVENTS_ORCHprevSOSY
+C1875789,C0010200,PREVENTS,SUGAR/WATER,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C2350740,C0037090,PREVENTS,AG 7088,"Signs and Symptoms, Respiratory",orch,sosy,1,PREVENTS_ORCHprevSOSY
+C2350740,C1260880,PREVENTS,AG 7088,Rhinorrhea,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C2729544,C0030193,PREVENTS,Legend,Pain,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C2926735,C0003862,PREVENTS,Duration,Arthralgia,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C2926735,C0010200,PREVENTS,Duration,Coughing,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C2926735,C0011991,PREVENTS,Duration,Diarrhea,orch,sosy,4,PREVENTS_ORCHprevSOSY
+C2926735,C0015967,PREVENTS,Duration,Fever,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C3179599,C0242706,PREVENTS,MitoTEMPO,Hyperoxia,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C4726677,C0015967,PREVENTS,remdesivir,Fever,orch,sosy,1,PREVENTS_ORCHprevSOSY
+C4726677,C0037090,PREVENTS,remdesivir,"Signs and Symptoms, Respiratory",orch,sosy,1,PREVENTS_ORCHprevSOSY

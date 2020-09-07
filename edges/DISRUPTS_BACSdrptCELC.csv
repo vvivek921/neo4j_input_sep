@@ -1,0 +1,89 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0005390,C0007603,DISRUPTS,Bile Acids,Plasma membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0005404,C0682529,DISRUPTS,bile salts,biological membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0008377,C0007603,DISRUPTS,cholesterol,Plasma membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0008377,C0010851,DISRUPTS,cholesterol,Cytoskeletal Filaments,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0008377,C0023768,DISRUPTS,cholesterol,Lipid Bilayers,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0008377,C0230653,DISRUPTS,cholesterol,Caveolae,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0008377,C0596901,DISRUPTS,cholesterol,Membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0008377,C1167250,DISRUPTS,cholesterol,lipid raft,bacs,celc,7,DISRUPTS_BACSdrptCELC
+C0008377,C1167398,DISRUPTS,cholesterol,Viral envelope,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0008377,C3549194,DISRUPTS,cholesterol,viral membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0010738,C0025979,DISRUPTS,Cytochalasin D,Microfilaments,bacs,celc,3,DISRUPTS_BACSdrptCELC
+C0010868,C1166848,DISRUPTS,Cytotoxin,late endosome,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0010868,C1167331,DISRUPTS,Cytotoxin,outer membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0012854,C0026237,DISRUPTS,DNA,Mitochondria,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0012854,C0085187,DISRUPTS,DNA,telomere,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0012854,C0175996,DISRUPTS,DNA,Protoplasm,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0012929,C0026237,DISRUPTS,"DNA, Mitochondrial",Mitochondria,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0013982,C0023768,DISRUPTS,Emodin,Lipid Bilayers,bacs,celc,3,DISRUPTS_BACSdrptCELC
+C0013982,C0042760,DISRUPTS,Emodin,Virion,bacs,celc,3,DISRUPTS_BACSdrptCELC
+C0016072,C2754978,DISRUPTS,ficusin,"IgA immunoglobulin complex, circulating",bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0016693,C0230812,DISRUPTS,Free Radicals,Membrane of lysosome,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0017950,C0007603,DISRUPTS,Glycolipids,Plasma membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0017973,C0007603,DISRUPTS,Glycosaminoglycans,Plasma membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0019588,C1325690,DISRUPTS,histamine,mast cell granule,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0023545,C1325690,DISRUPTS,Leukotrienes,mast cell granule,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0026661,C1819995,DISRUPTS,mRNA Precursor,Host Cell,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0027270,C0026237,DISRUPTS,nicotinamide adenine dinucleotide (NAD),Mitochondria,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0028606,C0024369,DISRUPTS,Nucleic Acids,Lysosomes,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0028606,C0034850,DISRUPTS,Nucleic Acids,Endosomes,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0028606,C0035553,DISRUPTS,Nucleic Acids,Ribosomes,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0028606,C0521119,DISRUPTS,Nucleic Acids,Extracellular,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0028606,C0596901,DISRUPTS,Nucleic Acids,Membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0030054,C0042760,DISRUPTS,oxygen,Virion,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0030054,C0175996,DISRUPTS,oxygen,Protoplasm,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0031676,C0024369,DISRUPTS,phospholipids,Lysosomes,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0031676,C0596901,DISRUPTS,phospholipids,Membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0031676,C1167398,DISRUPTS,phospholipids,Viral envelope,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0034085,C0596901,DISRUPTS,Pulmonary Surfactants,Membrane,bacs,celc,2,DISRUPTS_BACSdrptCELC
+C0035693,C1325596,DISRUPTS,"RNA, Double-Stranded",P-body,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0035696,C0004461,DISRUPTS,"RNA, Messenger",Axon,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0035696,C0035553,DISRUPTS,"RNA, Messenger",Ribosomes,bacs,celc,2,DISRUPTS_BACSdrptCELC
+C0035696,C2350332,DISRUPTS,"RNA, Messenger",Exosomes,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0035701,C0035553,DISRUPTS,Ribosomal RNA,Ribosomes,bacs,celc,3,DISRUPTS_BACSdrptCELC
+C0035701,C2350332,DISRUPTS,Ribosomal RNA,Exosomes,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0035705,C0035553,DISRUPTS,"RNA, Ribosomal, 28S",Ribosomes,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0035711,C0026237,DISRUPTS,Transfer RNA,Mitochondria,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0036751,C1325690,DISRUPTS,serotonin,mast cell granule,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0037380,C1820036,DISRUPTS,Snake Venoms,nuclear part,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0040549,C0010853,DISRUPTS,Toxin,Cytoskeleton,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0040549,C0025979,DISRUPTS,Toxin,Microfilaments,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0040549,C0026237,DISRUPTS,Toxin,Mitochondria,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0040549,C0035553,DISRUPTS,Toxin,Ribosomes,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0040549,C0175996,DISRUPTS,Toxin,Protoplasm,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0040549,C0596901,DISRUPTS,Toxin,Membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0040549,C1819995,DISRUPTS,Toxin,Host Cell,bacs,celc,2,DISRUPTS_BACSdrptCELC
+C0040549,C2247081,DISRUPTS,Toxin,host cell membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0040549,C2752457,DISRUPTS,Toxin,host cell cytosol,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0041536,C1166911,DISRUPTS,ubidecarenone,respiratory chain complex III location sensu Eukarya,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0043481,C0042760,DISRUPTS,zinc,Virion,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0067762,C1819995,DISRUPTS,N-Acetylneuraminic Acid,Host Cell,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0078517,C0042760,DISRUPTS,Wortmannin,Virion,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0136157,C4235129,DISRUPTS,Peroxynitrite,respiratory chain complex,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0162772,C0026237,DISRUPTS,Reactive Oxygen Species,Mitochondria,bacs,celc,2,DISRUPTS_BACSdrptCELC
+C0162772,C0061622,DISRUPTS,Reactive Oxygen Species,Glycocalyx,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0178645,C0026237,DISRUPTS,oxygen free radical,Mitochondria,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C0600493,C0035553,DISRUPTS,5' Untranslated Regions,Ribosomes,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1099354,C0024369,DISRUPTS,"RNA, Small Interfering",Lysosomes,bacs,celc,2,DISRUPTS_BACSdrptCELC
+C1099354,C0034850,DISRUPTS,"RNA, Small Interfering",Endosomes,bacs,celc,2,DISRUPTS_BACSdrptCELC
+C1099354,C0042760,DISRUPTS,"RNA, Small Interfering",Virion,bacs,celc,3,DISRUPTS_BACSdrptCELC
+C1099354,C0596901,DISRUPTS,"RNA, Small Interfering",Membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1099354,C1167033,DISRUPTS,"RNA, Small Interfering",symbiont-containing vacuole,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1099354,C1179907,DISRUPTS,"RNA, Small Interfering",Wall of endosome,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1099354,C1819995,DISRUPTS,"RNA, Small Interfering",Host Cell,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1099354,C2612910,DISRUPTS,"RNA, Small Interfering",aryl hydrocarbon receptor complex,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1101610,C1819995,DISRUPTS,MicroRNAs,Host Cell,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1136170,C1819995,DISRUPTS,Virulence Factors,Host Cell,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1291185,C0007623,DISRUPTS,Microorganism DNA,Cell Wall,bacs,celc,3,DISRUPTS_BACSdrptCELC
+C1506352,C1819995,DISRUPTS,silvestrol,Host Cell,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1566558,C0025979,DISRUPTS,Natural Products,Microfilaments,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1566558,C1325653,DISRUPTS,Natural Products,Mitochondrial electron transport chain,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1721100,C0007603,DISRUPTS,Hemolytic Agents,Plasma membrane,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1764827,C1179122,DISRUPTS,Isolate - microorganism,Transverse tubule of muscle cell,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1999216,C0035553,DISRUPTS,Inhibitor,Ribosomes,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1999216,C1167110,DISRUPTS,Inhibitor,PML body,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1999216,C1167250,DISRUPTS,Inhibitor,lipid raft,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1999216,C1167519,DISRUPTS,Inhibitor,viral capsid,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1999216,C1179122,DISRUPTS,Inhibitor,Transverse tubule of muscle cell,bacs,celc,1,DISRUPTS_BACSdrptCELC
+C1999216,C3887595,DISRUPTS,Inhibitor,Autophagosome,bacs,celc,1,DISRUPTS_BACSdrptCELC

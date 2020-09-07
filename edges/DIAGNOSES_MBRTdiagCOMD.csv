@@ -1,0 +1,40 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0022526,C0008625,DIAGNOSES,Karyotype determination procedure,Chromosome Aberrations,mbrt,comd,2,DIAGNOSES_MBRTdiagCOMD
+C0032520,C0010827,DIAGNOSES,Polymerase Chain Reaction,"Cytopathogenic Effect, Viral",mbrt,comd,3,DIAGNOSES_MBRTdiagCOMD
+C0032520,C0162735,DIAGNOSES,Polymerase Chain Reaction,Point Mutation,mbrt,comd,2,DIAGNOSES_MBRTdiagCOMD
+C0032520,C0544885,DIAGNOSES,Polymerase Chain Reaction,Nonsense mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0032520,C0948051,DIAGNOSES,Polymerase Chain Reaction,Mitochondrial DNA deletions,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0032520,C1511760,DIAGNOSES,Polymerase Chain Reaction,Deletion Mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0032520,C1705285,DIAGNOSES,Polymerase Chain Reaction,Mutation Abnormality,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0080143,C0162735,DIAGNOSES,Sequence Alignment,Point Mutation,mbrt,comd,3,DIAGNOSES_MBRTdiagCOMD
+C0162789,C0162735,DIAGNOSES,Fluorescent in Situ Hybridization,Point Mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0221902,C0162735,DIAGNOSES,DNA hybridization,Point Mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0599161,C0010827,DIAGNOSES,Reverse Transcriptase Polymerase Chain Reaction,"Cytopathogenic Effect, Viral",mbrt,comd,4,DIAGNOSES_MBRTdiagCOMD
+C0599161,C0596402,DIAGNOSES,Reverse Transcriptase Polymerase Chain Reaction,cytotoxicity,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C0796358,C1705285,DIAGNOSES,comparative genomic analysis,Mutation Abnormality,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1328887,C0010827,DIAGNOSES,genome sequencing,"Cytopathogenic Effect, Viral",mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1328887,C0162735,DIAGNOSES,genome sequencing,Point Mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1328887,C1705285,DIAGNOSES,genome sequencing,Mutation Abnormality,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1513380,C2985438,DIAGNOSES,Molecular Analysis,Novel Mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1513380,C4724181,DIAGNOSES,Molecular Analysis,T-Cell Receptor Gene Rearrangement,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1515232,C0872150,DIAGNOSES,TdT-Mediated dUTP Nick End Labeling Assay,DNA Strand Break,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1516329,C0010827,DIAGNOSES,Cell Culture System,"Cytopathogenic Effect, Viral",mbrt,comd,2,DIAGNOSES_MBRTdiagCOMD
+C1520146,C0596402,DIAGNOSES,Whole Genome Amplification,cytotoxicity,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1709846,C0008628,DIAGNOSES,Real-Time Polymerase Chain Reaction,Chromosome Deletion,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C1709846,C0010827,DIAGNOSES,Real-Time Polymerase Chain Reaction,"Cytopathogenic Effect, Viral",mbrt,comd,4,DIAGNOSES_MBRTdiagCOMD
+C1709846,C2826175,DIAGNOSES,Real-Time Polymerase Chain Reaction,NPM1 Gene Mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C2936621,C1514688,DIAGNOSES,High-Throughput Nucleotide Sequencing,Radiation Induced DNA Damage,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C2936622,C0010827,DIAGNOSES,Massively-Parallel Sequencing,"Cytopathogenic Effect, Viral",mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C2936622,C1705285,DIAGNOSES,Massively-Parallel Sequencing,Mutation Abnormality,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C2936624,C0010827,DIAGNOSES,Deep Sequencing,"Cytopathogenic Effect, Viral",mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3640076,C0544885,DIAGNOSES,Whole Genome Sequencing,Nonsense mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3640076,C1515001,DIAGNOSES,Whole Genome Sequencing,Chromosomal structural abnormalities,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3640077,C0079380,DIAGNOSES,Whole Exome Sequencing,Frameshift Mutation function,mbrt,comd,2,DIAGNOSES_MBRTdiagCOMD
+C3640077,C0544885,DIAGNOSES,Whole Exome Sequencing,Nonsense mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3640077,C2985439,DIAGNOSES,Whole Exome Sequencing,De novo mutation,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3839010,C0010827,DIAGNOSES,Ribonucleic acid extraction technique,"Cytopathogenic Effect, Viral",mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3853647,C1705285,DIAGNOSES,In Situ Hybridization Staining Method,Mutation Abnormality,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3897601,C1516516,DIAGNOSES,Single Nucleotide Polymorphism Array,Chromosomal Duplication,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3899368,C0008628,DIAGNOSES,Direct Sequencing,Chromosome Deletion,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3899368,C0035268,DIAGNOSES,Direct Sequencing,Restriction fragment length polymorphism,mbrt,comd,1,DIAGNOSES_MBRTdiagCOMD
+C3899368,C0162735,DIAGNOSES,Direct Sequencing,Point Mutation,mbrt,comd,2,DIAGNOSES_MBRTdiagCOMD

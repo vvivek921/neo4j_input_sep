@@ -1,0 +1,60 @@
+cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0001551,C0020966,AUGMENTS,Immunologic Adjuvants,Cellular Immunity,imft,orgf,5,AUGMENTS_IMFTaugmORGF
+C0001551,C0020967,AUGMENTS,Immunologic Adjuvants,Humoral Immunity,imft,orgf,6,AUGMENTS_IMFTaugmORGF
+C0001551,C0301875,AUGMENTS,Immunologic Adjuvants,Primary immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0001551,C0678723,AUGMENTS,Immunologic Adjuvants,Biologic Development,imft,orgf,5,AUGMENTS_IMFTaugmORGF
+C0001551,C0678889,AUGMENTS,Immunologic Adjuvants,Immunoregulation,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0001551,C1136180,AUGMENTS,Immunologic Adjuvants,Disease Resistance,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0001551,C1148523,AUGMENTS,Immunologic Adjuvants,Childbirth,imft,orgf,4,AUGMENTS_IMFTaugmORGF
+C0001551,C1155328,AUGMENTS,Immunologic Adjuvants,Antiviral Response,imft,orgf,3,AUGMENTS_IMFTaugmORGF
+C0001551,C1749719,AUGMENTS,Immunologic Adjuvants,Adaptive Immune Response,imft,orgf,2,AUGMENTS_IMFTaugmORGF
+C0001551,C1752856,AUGMENTS,Immunologic Adjuvants,Host-Pathogen Interactions,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0001551,C1817907,AUGMENTS,Immunologic Adjuvants,T cell mediated immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0001551,C3156592,AUGMENTS,Immunologic Adjuvants,T-helper 17 type immune response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0003320,C1749719,AUGMENTS,Antigens,Adaptive Immune Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0003342,C0020966,AUGMENTS,"Antigens, Viral",Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0004886,C0020966,AUGMENTS,BCG Vaccine,Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0004886,C0678889,AUGMENTS,BCG Vaccine,Immunoregulation,imft,orgf,2,AUGMENTS_IMFTaugmORGF
+C0005525,C1749719,AUGMENTS,Biological Response Modifiers,Adaptive Immune Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0019168,C1155328,AUGMENTS,Hepatitis B Surface Antigens,Antiviral Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0021403,C0020966,AUGMENTS,Influenza virus vaccine,Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0025010,C0020966,AUGMENTS,Measles Vaccine,Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0037355,C0020966,AUGMENTS,smallpox vaccine,Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0039620,C1819437,AUGMENTS,Tetanus Vaccine,interleukin-10 production,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042211,C0011065,AUGMENTS,"Vaccines, Attenuated",Cessation of life,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042211,C0020966,AUGMENTS,"Vaccines, Attenuated",Cellular Immunity,imft,orgf,4,AUGMENTS_IMFTaugmORGF
+C0042211,C0020967,AUGMENTS,"Vaccines, Attenuated",Humoral Immunity,imft,orgf,4,AUGMENTS_IMFTaugmORGF
+C0042211,C1749719,AUGMENTS,"Vaccines, Attenuated",Adaptive Immune Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042211,C1817907,AUGMENTS,"Vaccines, Attenuated",T cell mediated immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042212,C0020966,AUGMENTS,"Vaccines, Inactivated",Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042212,C0020967,AUGMENTS,"Vaccines, Inactivated",Humoral Immunity,imft,orgf,9,AUGMENTS_IMFTaugmORGF
+C0042212,C0021080,AUGMENTS,"Vaccines, Inactivated",Natural immunosuppression,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042212,C0678210,AUGMENTS,"Vaccines, Inactivated","Passive immunity, function",imft,orgf,2,AUGMENTS_IMFTaugmORGF
+C0042742,C0020966,AUGMENTS,Viral Vaccines,Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0042742,C1155328,AUGMENTS,Viral Vaccines,Antiviral Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0085408,C1148523,AUGMENTS,ISCOMs,Childbirth,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0086413,C0020966,AUGMENTS,HIV Vaccine,Cellular Immunity,imft,orgf,2,AUGMENTS_IMFTaugmORGF
+C0206255,C0020966,AUGMENTS,Malaria Vaccines,Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0358314,C1516559,AUGMENTS,Pneumococcal vaccine,Circulatory Process,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0376613,C0020966,AUGMENTS,"Vaccines, DNA",Cellular Immunity,imft,orgf,10,AUGMENTS_IMFTaugmORGF
+C0376613,C0020967,AUGMENTS,"Vaccines, DNA",Humoral Immunity,imft,orgf,6,AUGMENTS_IMFTaugmORGF
+C0376613,C0872193,AUGMENTS,"Vaccines, DNA",immunoreaction,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0376613,C1148523,AUGMENTS,"Vaccines, DNA",Childbirth,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0376613,C1817907,AUGMENTS,"Vaccines, DNA",T cell mediated immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0599934,C0020966,AUGMENTS,"Vaccines, Peptide",Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0887892,C0020966,AUGMENTS,"Vaccines, Subunit",Cellular Immunity,imft,orgf,2,AUGMENTS_IMFTaugmORGF
+C0887892,C0020967,AUGMENTS,"Vaccines, Subunit",Humoral Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0887892,C1749719,AUGMENTS,"Vaccines, Subunit",Adaptive Immune Response,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0887902,C0020967,AUGMENTS,"Vaccines, Edible",Humoral Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0887902,C0678210,AUGMENTS,"Vaccines, Edible","Passive immunity, function",imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0887902,C1148523,AUGMENTS,"Vaccines, Edible",Childbirth,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C0887908,C0678210,AUGMENTS,"Vaccines, Marker","Passive immunity, function",imft,orgf,3,AUGMENTS_IMFTaugmORGF
+C1699926,C4505207,AUGMENTS,fingolimod,Immune Reconstitution,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C2825347,C0020966,AUGMENTS,"immunoglobulin A, human",Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C2825347,C0678210,AUGMENTS,"immunoglobulin A, human","Passive immunity, function",imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C3178367,C0020967,AUGMENTS,MVA vaccine,Humoral Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C3178367,C0678889,AUGMENTS,MVA vaccine,Immunoregulation,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C3272757,C0020966,AUGMENTS,Live Attenuated Influenza Vaccine,Cellular Immunity,imft,orgf,2,AUGMENTS_IMFTaugmORGF
+C3526553,C0035150,AUGMENTS,"diphtheria, tetanus toxoids and acellular pertussis vaccine",Reproduction,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C3660155,C0018270,AUGMENTS,AndoSan,Growth,imft,orgf,1,AUGMENTS_IMFTaugmORGF
+C3698577,C0020966,AUGMENTS,Feline immunodeficiency vaccine,Cellular Immunity,imft,orgf,1,AUGMENTS_IMFTaugmORGF
