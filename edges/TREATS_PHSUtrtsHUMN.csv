@@ -1,7 +1,6 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0001645,C0870602,TREATS,Adrenergic beta-Antagonists,geriatric patients,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0002932,C0033011,TREATS,Anesthetics,Pregnant Women,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0002932,C0728836,TREATS,Anesthetics,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0002932,C0741926,TREATS,Anesthetics,cardiac patient,phsu,humn,3,TREATS_PHSUtrtsHUMN
 C0002932,C1710470,TREATS,Anesthetics,Treating Physician,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0003015,C0013018,TREATS,Angiotensin-Converting Enzyme Inhibitors,Donor person,phsu,humn,1,TREATS_PHSUtrtsHUMN
@@ -62,7 +61,6 @@ C0003402,C1999167,TREATS,Antioxidants,Old age,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0003404,C0033011,TREATS,Antiparasitic Agents,Pregnant Women,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0003419,C0031831,TREATS,Antipyretics,Physicians,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0003448,C0015031,TREATS,Antitubercular Agents,Ethnic group,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0003449,C0728836,TREATS,Antitussive Agents,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0003451,C0001792,TREATS,Antiviral Agents,Elderly (population group),phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0003451,C0005795,TREATS,Antiviral Agents,Blood donor,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0003451,C0008098,TREATS,Antiviral Agents,"Child, Hospitalized",phsu,humn,1,TREATS_PHSUtrtsHUMN
@@ -93,7 +91,6 @@ C0003451,C4740649,TREATS,Antiviral Agents,Specific population,phsu,humn,1,TREATS
 C0003451,C4761454,TREATS,Antiviral Agents,Gaoshan Chinese,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0003451,C5205742,TREATS,Antiviral Agents,Treatment Group,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0006280,C0683626,TREATS,Bronchodilator Agents,human group,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0006280,C0728836,TREATS,Bronchodilator Agents,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0006280,C0870668,TREATS,Bronchodilator Agents,hospitalized patients,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C0006657,C0043210,TREATS,calcifediol,Woman,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0006684,C0870602,TREATS,Calcium Channel Blockers,geriatric patients,phsu,humn,2,TREATS_PHSUtrtsHUMN
@@ -120,25 +117,20 @@ C0027866,C0206194,TREATS,Neuromuscular Blocking Agents,Survivors,phsu,humn,1,TRE
 C0033607,C0080105,TREATS,Protease Inhibitors,Research Subject,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0033607,C4761454,TREATS,Protease Inhibitors,Gaoshan Chinese,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0033613,C1999167,TREATS,Protective Agents,Old age,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0040464,C0728836,TREATS,Topical anesthetic,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0040614,C0684030,TREATS,Tranquilizing Agents,high-risk group,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0040615,C0682287,TREATS,Antipsychotic Agents,nursing home resident,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C0040615,C1999167,TREATS,Antipsychotic Agents,Old age,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0040616,C0043210,TREATS,Anti-Anxiety Agents,Woman,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0040616,C0206194,TREATS,Anti-Anxiety Agents,Survivors,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0040616,C0728836,TREATS,Anti-Anxiety Agents,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0040616,C1704292,TREATS,Anti-Anxiety Agents,Ophthalmologist (occupation),phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0041044,C0033011,TREATS,Trimethoprim-Sulfamethoxazole Combination,Pregnant Women,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C0041044,C1709854,TREATS,Trimethoprim-Sulfamethoxazole Combination,Recipient,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C0042397,C0013018,TREATS,Vasoconstrictor Agents,Donor person,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C0042397,C0684030,TREATS,Vasoconstrictor Agents,high-risk group,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0042397,C0728836,TREATS,Vasoconstrictor Agents,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0042397,C1709854,TREATS,Vasoconstrictor Agents,Recipient,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0042397,C5205742,TREATS,Vasoconstrictor Agents,Treatment Group,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0042398,C0728836,TREATS,Nasal Decongestants,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0051821,C0033011,TREATS,andrographolide,Pregnant Women,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0054066,C0175989,TREATS,Amoxicillin / Clavulanate,critically ill children,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0054066,C0728836,TREATS,Amoxicillin / Clavulanate,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0054066,C0870668,TREATS,Amoxicillin / Clavulanate,hospitalized patients,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0054066,C1999167,TREATS,Amoxicillin / Clavulanate,Old age,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0054066,C5205742,TREATS,Amoxicillin / Clavulanate,Treatment Group,phsu,humn,1,TREATS_PHSUtrtsHUMN
@@ -149,23 +141,21 @@ C0085155,C0596070,TREATS,Generic Drugs,Americas Ethnicity,phsu,humn,1,TREATS_PHS
 C0085385,C0206193,TREATS,Lipoxygenase Inhibitors,Long-Term Survivors,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0086440,C1999167,TREATS,Hypolipidemic Agents,Old age,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0086440,C3826770,TREATS,Hypolipidemic Agents,Older people,phsu,humn,1,TREATS_PHSUtrtsHUMN
+C0117541,C0001792,TREATS,ferric pyrophosphate,Elderly (population group),phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0120107,C0043210,TREATS,goserelin,Woman,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0132776,C0043210,TREATS,nonoxynol-9,Woman,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0162714,C2700280,TREATS,HIV Protease Inhibitors,World,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0165237,C0402683,TREATS,AFC16,Cleaners Occupation,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0242896,C0728836,TREATS,Anticholinergic Agents,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0243042,C0001792,TREATS,Inflammation Mediators,Elderly (population group),phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0243042,C1708335,TREATS,Inflammation Mediators,Healthy Volunteers,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0243237,C0870668,TREATS,docusate sodium,hospitalized patients,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0282568,C0949366,TREATS,"Drugs, Essential",Vulnerable Populations,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0282568,C2700280,TREATS,"Drugs, Essential",World,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0282686,C0728836,TREATS,Respiratory System Agents,young child,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C0282686,C1709854,TREATS,Respiratory System Agents,Recipient,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0302837,C0025266,TREATS,Vitamin supplementation,Male population group,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0302837,C0033011,TREATS,Vitamin supplementation,Pregnant Women,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C0302837,C0043210,TREATS,Vitamin supplementation,Woman,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C0302837,C0242444,TREATS,Vitamin supplementation,Population at Risk,phsu,humn,2,TREATS_PHSUtrtsHUMN
-C0302837,C0728836,TREATS,Vitamin supplementation,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0302837,C1999167,TREATS,Vitamin supplementation,Old age,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0302837,C3826770,TREATS,Vitamin supplementation,Older people,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0304227,C0001792,TREATS,Prescription Drugs,Elderly (population group),phsu,humn,1,TREATS_PHSUtrtsHUMN
@@ -200,21 +190,22 @@ C0599685,C0238605,TREATS,Anti-Retroviral Agents,South African,phsu,humn,2,TREATS
 C0599685,C0238607,TREATS,Anti-Retroviral Agents,AIDS patient,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C0599685,C0282122,TREATS,Anti-Retroviral Agents,Respondents,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0599685,C1709854,TREATS,Anti-Retroviral Agents,Recipient,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0645674,C0038492,TREATS,"17-(N,N-diisopropylcarbamoyl)estra-1,3,5(10)-triene-3-sulfonic acid",student,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0663448,C0025266,TREATS,Viagra,Male population group,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0697125,C0040288,TREATS,Inonotus obliquus preparation,Tissue Donors,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0697125,C0085756,TREATS,Inonotus obliquus preparation,African American,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0697125,C2700280,TREATS,Inonotus obliquus preparation,World,phsu,humn,1,TREATS_PHSUtrtsHUMN
+C0700781,C5205743,TREATS,Panavir,Experimental Group,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0719214,C0004643,TREATS,Century (brand of multivitamin),Bacteriologist,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0719214,C0221460,TREATS,Century (brand of multivitamin),Farmers,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0719214,C4522252,TREATS,Century (brand of multivitamin),Foundation for the Accreditation of Cellular Therapy,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0724557,C1708335,TREATS,CLEANSER,Healthy Volunteers,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0725694,C2700280,TREATS,comply,World,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0725694,C3178774,TREATS,comply,Laboratory Personnel,phsu,humn,1,TREATS_PHSUtrtsHUMN
+C0733442,C0025266,TREATS,P-071,Male population group,phsu,humn,1,TREATS_PHSUtrtsHUMN
+C0770715,C0684030,TREATS,tularemia vaccine,high-risk group,phsu,humn,1,TREATS_PHSUtrtsHUMN
+C0772357,C0043210,TREATS,wild yam extract,Woman,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0784478,C1708335,TREATS,Throat Lozenge,Healthy Volunteers,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0873145,C0337806,TREATS,Glycyrrhiza Root,Greeks,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0937858,C0043210,TREATS,perflutren,Woman,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C0937858,C0376326,TREATS,perflutren,Institutionalized Persons,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0939219,C0687759,TREATS,Atovaquone / Proguanil,traveler,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C0939237,C0007457,TREATS,lopinavir / Ritonavir,Caucasoid Race,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C0939237,C0033011,TREATS,lopinavir / Ritonavir,Pregnant Women,phsu,humn,2,TREATS_PHSUtrtsHUMN
@@ -234,7 +225,6 @@ C1136254,C0043210,TREATS,Microbicides,Woman,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1136254,C0221460,TREATS,Microbicides,Farmers,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1136254,C0242856,TREATS,Microbicides,Veterinarian,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C1136254,C0376387,TREATS,Microbicides,Transplant Recipients,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C1136254,C0728836,TREATS,Microbicides,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1136254,C0870602,TREATS,Microbicides,geriatric patients,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1136254,C0870668,TREATS,Microbicides,hospitalized patients,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C1136254,C0871463,TREATS,Microbicides,surgical patients,phsu,humn,1,TREATS_PHSUtrtsHUMN
@@ -247,7 +237,9 @@ C1136312,C0238703,TREATS,"Histamine H1 Antagonists, Non-Sedating",Athletes,phsu,
 C1268551,C1709854,TREATS,Echinocandins,Recipient,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1299007,C0870602,TREATS,alpha-Glucosidase Inhibitors,geriatric patients,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1299007,C1706077,TREATS,alpha-Glucosidase Inhibitors,user - individual,phsu,humn,1,TREATS_PHSUtrtsHUMN
+C1328172,C1519237,TREATS,Cytochlor,Senior Scientist,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1330330,C0042960,TREATS,Hand Sanitizers,Voluntary Workers,phsu,humn,1,TREATS_PHSUtrtsHUMN
+C1364955,C0043210,TREATS,olive leaf extract,Woman,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1443643,C1516213,TREATS,Proteasome inhibitor,Cancer Patient,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1443650,C0025266,TREATS,Neuraminidase inhibitor,Male population group,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1443650,C0043210,TREATS,Neuraminidase inhibitor,Woman,phsu,humn,2,TREATS_PHSUtrtsHUMN
@@ -266,7 +258,6 @@ C1518041,C0043210,TREATS,Luteinizing Hormone-releasing Hormone Agonist,Woman,phs
 C1520007,C0034510,TREATS,Viral Vector,Racial group,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1520007,C0039309,TREATS,Viral Vector,Target Population,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1520007,C0683626,TREATS,Viral Vector,human group,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C1520007,C0728836,TREATS,Viral Vector,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1562036,C0376387,TREATS,Calcineurin inhibitor,Transplant Recipients,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1562036,C1709854,TREATS,Calcineurin inhibitor,Recipient,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1562036,C4304779,TREATS,Calcineurin inhibitor,Kidney Transplant Recipient,phsu,humn,1,TREATS_PHSUtrtsHUMN
@@ -314,7 +305,6 @@ C1874451,C2700280,TREATS,Basis,World,phsu,humn,5,TREATS_PHSUtrtsHUMN
 C1874451,C4522252,TREATS,Basis,Foundation for the Accreditation of Cellular Therapy,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C1875319,C0025266,TREATS,INVESTIGATIONAL AGENTS,Male population group,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1875319,C1709854,TREATS,INVESTIGATIONAL AGENTS,Recipient,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C1875384,C0728836,TREATS,INVESTIGATIONAL VACCINES,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1875384,C3178774,TREATS,INVESTIGATIONAL VACCINES,Laboratory Personnel,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1875784,C0162592,TREATS,STEP 2,Public Domain,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C1964473,C1551706,TREATS,Sojourn,Artic Indian,phsu,humn,1,TREATS_PHSUtrtsHUMN
@@ -327,13 +317,11 @@ C2606556,C0043210,TREATS,macitentan,Woman,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C2825721,C0043210,TREATS,Minodronic acid,Woman,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C2827670,C1708335,TREATS,Recombinant Human Angiotensin Converting Enzyme 2 APN01,Healthy Volunteers,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C2827709,C2700280,TREATS,Gendicine,World,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C2917414,C0728836,TREATS,Recombinant Human Deoxyribonuclease 1 [EPC],young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C2927794,C2700280,TREATS,RFD,World,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3166216,C0870602,TREATS,Prescribed medications,geriatric patients,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3166216,C0870668,TREATS,Prescribed medications,hospitalized patients,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3166216,C2700280,TREATS,Prescribed medications,World,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3241999,C0033011,TREATS,limited use,Pregnant Women,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C3241999,C0728836,TREATS,limited use,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3241999,C1518563,TREATS,limited use,Older Population,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3272847,C0001792,TREATS,Losmapimod,Elderly (population group),phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3272847,C0013018,TREATS,Losmapimod,Donor person,phsu,humn,1,TREATS_PHSUtrtsHUMN
@@ -364,7 +352,6 @@ C3539125,C0402830,TREATS,other medicated shampoos in ATC,Miller,phsu,humn,1,TREA
 C3539125,C0681273,TREATS,other medicated shampoos in ATC,audience,phsu,humn,2,TREATS_PHSUtrtsHUMN
 C3539125,C0683626,TREATS,other medicated shampoos in ATC,human group,phsu,humn,3,TREATS_PHSUtrtsHUMN
 C3539125,C0687744,TREATS,other medicated shampoos in ATC,Social group,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C3539125,C0728836,TREATS,other medicated shampoos in ATC,young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3539125,C0870668,TREATS,other medicated shampoos in ATC,hospitalized patients,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3539125,C1518563,TREATS,other medicated shampoos in ATC,Older Population,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3539125,C1708335,TREATS,other medicated shampoos in ATC,Healthy Volunteers,phsu,humn,1,TREATS_PHSUtrtsHUMN
@@ -381,7 +368,6 @@ C3539957,C2348001,TREATS,opium alkaloids and derivative combination cough suppre
 C3541969,C0008098,TREATS,"Neuraminidase inhibitors, direct acting antivirals","Child, Hospitalized",phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3541969,C0033011,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Pregnant Women,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3541969,C0376387,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Transplant Recipients,phsu,humn,1,TREATS_PHSUtrtsHUMN
-C3541969,C0728836,TREATS,"Neuraminidase inhibitors, direct acting antivirals",young child,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3541969,C0870668,TREATS,"Neuraminidase inhibitors, direct acting antivirals",hospitalized patients,phsu,humn,3,TREATS_PHSUtrtsHUMN
 C3541969,C1709854,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Recipient,phsu,humn,1,TREATS_PHSUtrtsHUMN
 C3541969,C1999167,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Old age,phsu,humn,1,TREATS_PHSUtrtsHUMN

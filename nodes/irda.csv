@@ -19,6 +19,7 @@ C0006353,irda,Buffers
 C0007974,irda,Chelating Agents
 C0008584,irda,Chromogenic Substrates
 C0008996,irda,clofazimine
+C0009185,irda,coccidioidin
 C0009742,irda,Congo Red
 C0009924,irda,Contrast Media
 C0010360,irda,Cross-Linking Reagents
@@ -34,6 +35,7 @@ C0012124,irda,Dicyclohexylcarbodiimide
 C0012256,irda,Digitonin
 C0012456,irda,dimyristoylphosphatidylcholine
 C0012463,irda,Dinitrofluorobenzene
+C0012584,irda,Bipyridyl
 C0012788,irda,Dithionitrobenzoic Acid
 C0012893,irda,DNA Probes
 C0013254,irda,pentetic acid
@@ -43,6 +45,7 @@ C0014824,irda,erythrosine
 C0014839,irda,esculin
 C0015101,irda,Ethylmaleimide
 C0015205,irda,Evans blue
+C0015893,irda,Ferrozine
 C0016071,irda,Ficoll
 C0016184,irda,Fixatives
 C0016312,irda,Fluorescamine
@@ -71,6 +74,7 @@ C0022115,irda,Isatin
 C0022216,irda,Isopaque
 C0024100,irda,Luminol
 C0024574,irda,maleic anhydride
+C0024728,irda,Mannich Bases
 C0025701,irda,Methyl Green
 C0025729,irda,methylcellulose
 C0025746,irda,methylene blue
@@ -97,6 +101,7 @@ C0034423,irda,quinoline
 C0034758,irda,"Reagent Kits, Diagnostic"
 C0034759,irda,Reagent Strips
 C0034760,irda,Reagents
+C0035483,irda,Rhodamines
 C0035486,irda,Rhodanine
 C0035683,irda,RNA Probes
 C0035857,irda,rose bengal
@@ -116,6 +121,7 @@ C0041066,irda,Trinitrobenzenesulfonic Acid
 C0041213,irda,trypan blue
 C0041411,irda,turpentine
 C0043367,irda,xylene
+C0043368,irda,Xylenes
 C0044565,irda,1-palmitoyl-2-(10-(4-((trifluoromethyl)diazirinyl)phenyl)-8-oxadecanoyl)-sn-glycero-3-phosphocholine
 C0045089,irda,1H-tetrazole
 C0045246,irda,"2,2'-azino-di-(3-ethylbenzothiazoline)-6-sulfonic acid"
@@ -127,9 +133,9 @@ C0046880,irda,"3,3',5,5'-tetramethylbenzidine"
 C0047216,irda,3-aminobenzeneboronic acid
 C0047506,irda,3-iodobenzylguanidine
 C0048154,irda,4-carboxyfluorescein
-C0048158,irda,4-chloro-1-naphthol
-C0048433,irda,"4-maleimido-2,2,6,6-tetramethylpiperidinooxyl"
 C0048678,irda,4-phenylenediamine
+C0048719,irda,4-toluenesulfonamide
+C0048740,irda,4-vinylpyridine
 C0049522,irda,6-carboxyfluorescein
 C0049832,irda,7-aminoactinomycin D
 C0050505,irda,acetylcellulose
@@ -138,7 +144,7 @@ C0051704,irda,ammonium acetate
 C0051963,irda,anthrone
 C0052325,irda,arginine 4-methyl-7-coumarylamide
 C0052799,irda,Carmoisine A
-C0053163,irda,benzeneboronic acid
+C0052805,irda,azobis(isobutyronitrile)
 C0053231,irda,benzonitrile
 C0053353,irda,"N,N-bis(2-hydroxyethyl)aminoethanesulfonic acid"
 C0053554,irda,bicinchoninic acid
@@ -150,7 +156,9 @@ C0054697,irda,Carbol-fuchsin stain
 C0056270,irda,brilliant blue G
 C0056484,irda,cresyl violet
 C0056588,irda,cumene hydroperoxide
+C0058163,irda,diisopropylamine
 C0058494,irda,dithiobis(succinimidylpropionate)
+C0058515,irda,divinylbenzene
 C0059792,irda,ethylbenzene
 C0060083,irda,Fast Blue
 C0060264,irda,ferrocene
@@ -183,11 +191,13 @@ C0070066,irda,paraform
 C0070386,irda,Percoll
 C0071109,irda,"piperazine-N,N'-bis(2-ethanesulfonic acid)"
 C0071347,irda,Poly A-Sepharose
+C0071978,irda,primuline
 C0072221,irda,propylene
 C0072683,irda,pyridine N-oxide
 C0073192,irda,Rhodamine 123
 C0073194,irda,rhodamine B
 C0073196,irda,rhodamine dextran
+C0073578,irda,basic fuchsin
 C0074343,irda,sephadex
 C0076150,irda,tert-Butylhydroperoxide
 C0076359,irda,Texas red
@@ -222,13 +232,13 @@ C0162781,irda,Thiobarbituric Acid Reactive Substances
 C0163653,irda,4-methylbenzhydrylamine resin
 C0164836,irda,histopaque
 C0167437,irda,chlorophenol red galactopyranoside
+C0175774,irda,Bipyridine
 C0182638,irda,Radiopharmaceuticals
 C0182783,irda,Anti HCV Reagents
 C0183489,irda,Immunofluorescent stain
 C0205983,irda,Trinitrobenzene Sulfonate
 C0207746,irda,indoxyl phosphate
 C0207919,irda,N-hydroxysuccinimide S-acetylthioacetate
-C0209453,irda,gadobenate dimeglumine
 C0211241,irda,cesium bromide
 C0211492,irda,"technetium Tc 99m 1,2-bis(bis(2-ethoxyethyl)phosphino)ethane"
 C0215706,irda,tris(2-carboxyethyl)phosphine
@@ -254,10 +264,8 @@ C0295541,irda,8-isoprostaglandin F2alpha
 C0300526,irda,Griess reagent
 C0301161,irda,Azo Dyes
 C0303611,irda,technetium 99m
-C0303612,irda,Technetium-99
 C0303866,irda,eriochrome black A
 C0303920,irda,Fluorescent stain
-C0305040,irda,thallous chloride Tl201
 C0358514,irda,Diagnostic agents
 C0376446,irda,Reducing Agents
 C0379078,irda,"3-(2'-(spiro-5-chloroadamantane))-4-methoxy-4-(3''-phosphoryloxy)phenyl-1,2-dioxetane"
@@ -287,18 +295,20 @@ C0598447,irda,fluorophore
 C0599278,irda,radioligand
 C0600322,irda,Rhodamine
 C0600510,irda,Expressed Sequence Tags
+C0606286,irda,LIDA
 C0628021,irda,4-(1'-heptylnonyl)benzenesulfonate
 C0635626,irda,trimethylaminocarboxyldihydroboran
 C0635706,irda,trimethylsilyl cyanide
 C0651007,irda,"4-((1,4,8,11-tetraazacyclotetradec-1-yl)methyl)benzoic acid"
 C0664296,irda,MitoTracker red CMXRos
+C0669498,irda,hydrogel film
 C0670829,irda,"2',7'-dichlorodihydrofluorescein diacetate"
-C0717537,irda,calcium acetate
 C0726398,irda,GLUCOSE CONTROL
 C0729204,irda,Nycodenz
 C0733896,irda,Renografin
 C0740196,irda,Versene
 C0752397,irda,"3,3'-dihexaoxycarbocyanine iodide"
+C0754394,irda,Prostascint
 C0754820,irda,gadoversetamide
 C0755673,irda,azulenyl nitrone
 C0758986,irda,tris-acetate-EDTA buffer
@@ -317,7 +327,7 @@ C0991865,irda,PHOSPHATE BUFFERS
 C1096868,irda,DC Red No. 8
 C1120001,irda,sephadex G 50
 C1121527,irda,PKH67
-C1122695,irda,sephadex G 10
+C1122173,irda,7-amino-4-chloromethylcoumarin
 C1130433,irda,Schiff's reagent
 C1139023,irda,cell culture media
 C1260876,irda,Spirit soluble aniline blue stain
@@ -326,6 +336,7 @@ C1272570,irda,Test control
 C1288291,irda,Organic dye
 C1318719,irda,Peroxidase stain
 C1318876,irda,Silver stain
+C1434426,irda,Alexa fluor 546
 C1443927,irda,Sheep blood agar
 C1509471,irda,Red dye
 C1511881,irda,Diagnostic Reagent

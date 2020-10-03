@@ -228,6 +228,7 @@ C0012683,C0033213,TREATS,Disinfection,Problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0012683,C0150312,TREATS,Disinfection,Present,topp,fndg,5,TREATS_TOPPtrtsFNDG
 C0012683,C0439663,TREATS,Disinfection,Infected,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0012683,C0442797,TREATS,Disinfection,Decreasing,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0012683,C0597680,TREATS,Disinfection,Water Quality,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0012683,C1545588,TREATS,Disinfection,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0012683,C1832072,TREATS,Disinfection,Accommodation,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0012683,C1832073,TREATS,Disinfection,Handling,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -543,6 +544,10 @@ C0021485,C4321351,TREATS,Injection of therapeutic agent,Low Level,topp,fndg,1,TR
 C0021485,C4698719,TREATS,Injection of therapeutic agent,Confirmed case,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0021488,C0574941,TREATS,Intra-Articular Injections,Inflamed joint,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0021490,C0221198,TREATS,"Injections, Intralesional",Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021492,C0277814,TREATS,Intramuscular injection,Sitting position,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021492,C0442757,TREATS,Intramuscular injection,3/4,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021492,C0686750,TREATS,Intramuscular injection,Well adult,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0021492,C4553743,TREATS,Intramuscular injection,"Spasticity, CTCAE",topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0021493,C0150312,TREATS,"Injections, Intraperitoneal",Present,topp,fndg,2,TREATS_TOPPtrtsFNDG
 C0021493,C0221198,TREATS,"Injections, Intraperitoneal",Lesion,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0021493,C0241863,TREATS,"Injections, Intraperitoneal",diabetic,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -702,6 +707,7 @@ C0032042,C1299448,TREATS,Placebos,Patient ventilated,topp,fndg,1,TREATS_TOPPtrts
 C0032042,C1301624,TREATS,Placebos,Medical contraindication,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0032042,C1320716,TREATS,Placebos,Cardiovascular event,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0032042,C1519255,TREATS,Placebos,Serious Adverse Event,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0032042,C1558931,TREATS,Placebos,"Flu-Like Syndrome, CTCAE",topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0032042,C1836348,TREATS,Placebos,Severe disorder,topp,fndg,2,TREATS_TOPPtrtsFNDG
 C0032042,C1836923,TREATS,Placebos,Gastrointestinal dysmotility,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0032042,C1882086,TREATS,Placebos,New York Heart Association Class III,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -986,6 +992,7 @@ C0040808,C0557351,TREATS,Treatment Protocols,Employed,topp,fndg,1,TREATS_TOPPtrt
 C0040808,C0600457,TREATS,Treatment Protocols,Gravidity,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0040808,C0677874,TREATS,Treatment Protocols,In complete remission,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0040808,C0686750,TREATS,Treatment Protocols,Well adult,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0040808,C0870689,TREATS,Treatment Protocols,Income Level,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0040808,C1299586,TREATS,Treatment Protocols,Has difficulty doing (qualifier value),topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0040808,C1444662,TREATS,Treatment Protocols,Discontinued,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0040808,C1545588,TREATS,Treatment Protocols,Protection,topp,fndg,3,TREATS_TOPPtrtsFNDG
@@ -1056,10 +1063,13 @@ C0042196,C0439663,TREATS,Vaccination,Infected,topp,fndg,12,TREATS_TOPPtrtsFNDG
 C0042196,C0442748,TREATS,Vaccination,6/4,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0042196,C0442797,TREATS,Vaccination,Decreasing,topp,fndg,5,TREATS_TOPPtrtsFNDG
 C0042196,C0449381,TREATS,Vaccination,Observation parameter,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0042196,C0475440,TREATS,Vaccination,Tumor size,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0042196,C0518609,TREATS,Vaccination,Consideration,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C0042196,C0520818,TREATS,Vaccination,Increased pressure,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0042196,C0562577,TREATS,Vaccination,Mocking,topp,fndg,2,TREATS_TOPPtrtsFNDG
 C0042196,C0595939,TREATS,Vaccination,Stillbirth,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0042196,C0595998,TREATS,Vaccination,Household composition,topp,fndg,2,TREATS_TOPPtrtsFNDG
+C0042196,C0597680,TREATS,Vaccination,Water Quality,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0042196,C0600116,TREATS,Vaccination,Does speak,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0042196,C0600457,TREATS,Vaccination,Gravidity,topp,fndg,4,TREATS_TOPPtrtsFNDG
 C0042196,C0683314,TREATS,Vaccination,personal health,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -1280,6 +1290,7 @@ C0152054,C0595998,TREATS,Therapeutic tactile stimulation,Household composition,t
 C0152054,C1545588,TREATS,Therapeutic tactile stimulation,Protection,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0152060,C0003126,TREATS,Transection (procedure),Anosmia,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0152060,C0015663,TREATS,Transection (procedure),Fasting,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0152060,C0018748,TREATS,Transection (procedure),Health Services Accessibility,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0152060,C0033213,TREATS,Transection (procedure),Problem,topp,fndg,7,TREATS_TOPPtrtsFNDG
 C0152060,C0038435,TREATS,Transection (procedure),Stress,topp,fndg,2,TREATS_TOPPtrtsFNDG
 C0152060,C0043084,TREATS,Transection (procedure),Weaning,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -1385,6 +1396,7 @@ C0185003,C0700361,TREATS,Reparative closure,Emotional distress,topp,fndg,2,TREAT
 C0185003,C1879646,TREATS,Reparative closure,Affected Area,topp,fndg,3,TREATS_TOPPtrtsFNDG
 C0185003,C4554677,TREATS,Reparative closure,International travel,topp,fndg,3,TREATS_TOPPtrtsFNDG
 C0185023,C0036019,TREATS,Fixation - action,Saccades,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0185026,C0080048,TREATS,Plication,Privacy,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0185026,C0150312,TREATS,Plication,Present,topp,fndg,12,TREATS_TOPPtrtsFNDG
 C0185026,C0240291,TREATS,Plication,mg reduced,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0185026,C0332149,TREATS,Plication,Possible,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -1524,6 +1536,7 @@ C0199176,C0549649,TREATS,Prophylactic treatment,MISUSE,topp,fndg,1,TREATS_TOPPtr
 C0199176,C0557722,TREATS,Prophylactic treatment,High risk environment,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199176,C0576962,TREATS,Prophylactic treatment,Tooth problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199176,C0595998,TREATS,Prophylactic treatment,Household composition,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199176,C0597680,TREATS,Prophylactic treatment,Water Quality,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199176,C0598940,TREATS,Prophylactic treatment,Loss of neurons,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199176,C0600457,TREATS,Prophylactic treatment,Gravidity,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199176,C0701159,TREATS,Prophylactic treatment,Patient in hospital,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -1607,6 +1620,7 @@ C0199470,C0439663,TREATS,Mechanical ventilation,Infected,topp,fndg,2,TREATS_TOPP
 C0199470,C0442751,TREATS,Mechanical ventilation,Distance vision 6/9,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199470,C0442765,TREATS,Mechanical ventilation,20/400,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199470,C0443343,TREATS,Mechanical ventilation,Unstable status,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0199470,C0520818,TREATS,Mechanical ventilation,Increased pressure,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199470,C0581126,TREATS,Mechanical ventilation,Severe asthma,topp,fndg,5,TREATS_TOPPtrtsFNDG
 C0199470,C0600457,TREATS,Mechanical ventilation,Gravidity,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0199470,C0677946,TREATS,Mechanical ventilation,Stable Disease,topp,fndg,2,TREATS_TOPPtrtsFNDG
@@ -2057,6 +2071,7 @@ C0441516,C0041674,TREATS,Demand (clinical),Unemployment,topp,fndg,1,TREATS_TOPPt
 C0441516,C0150312,TREATS,Demand (clinical),Present,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0441516,C0231224,TREATS,Demand (clinical),Crisis,topp,fndg,2,TREATS_TOPPtrtsFNDG
 C0441516,C0231299,TREATS,Demand (clinical),Decreased stress,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0441516,C0233542,TREATS,Demand (clinical),Family conflict,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0441516,C0424589,TREATS,Demand (clinical),Vitality,topp,fndg,5,TREATS_TOPPtrtsFNDG
 C0441516,C0427184,TREATS,Demand (clinical),No incoordination,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0441516,C0439663,TREATS,Demand (clinical),Infected,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -2111,6 +2126,7 @@ C0455142,C3540840,TREATS,Intravenous therapy,Sign or Symptom,topp,fndg,1,TREATS_
 C0455258,C4698386,TREATS,Endotracheal tube suction,Intubated,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0456675,C0151872,TREATS,Massive blood transfusion,Prothrombin time increased (finding),topp,fndg,2,TREATS_TOPPtrtsFNDG
 C0456675,C5141930,TREATS,Massive blood transfusion,Casualties,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C0456979,C0080048,TREATS,Automated endodontic technique,Privacy,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0456979,C0332149,TREATS,Automated endodontic technique,Possible,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C0456979,C4321237,TREATS,Automated endodontic technique,High Level,topp,fndg,2,TREATS_TOPPtrtsFNDG
 C0456980,C3714738,TREATS,Hand endodontic technique,Compliance,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -2605,7 +2621,6 @@ C1136075,C4698386,TREATS,High-Frequency Chest Wall Oscillation,Intubated,topp,fn
 C1136080,C0743630,TREATS,Innovative Therapies,exacerbation acute,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1136214,C2676167,TREATS,Anterior Temporal Lobectomy,"Seizures, refractory",topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1141958,C3816499,TREATS,anti-infective therapy,Pathogenic,topp,fndg,1,TREATS_TOPPtrtsFNDG
-C1161201,C0184511,TREATS,Dialysis care,Improved,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1171177,C0277787,TREATS,Adult care,Social stigmata,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1171257,C1444783,TREATS,Delivery care,Instability,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1257928,C0580545,TREATS,Medical Nutrition Therapy,Blood glucose normal,topp,fndg,1,TREATS_TOPPtrtsFNDG
@@ -2636,6 +2651,7 @@ C1273412,C0237849,TREATS,Chinese herbal medicine,Peeling of skin,topp,fndg,1,TRE
 C1273412,C1517940,TREATS,Chinese herbal medicine,Long Term Survivorship,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1273551,C0679246,TREATS,Postoperative chemotherapy,advanced disease,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1274144,C0033213,TREATS,Giving oral fluid,Problem,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1275602,C0241353,TREATS,Radical orchiectomy,Testicular mass,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1276305,C0231224,TREATS,Curative - procedure intent,Crisis,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1276393,C0582148,TREATS,Group exercise,Pain score,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1276413,C0009488,TREATS,Therapeutic regimen,Comorbidity,topp,fndg,2,TREATS_TOPPtrtsFNDG
@@ -2986,6 +3002,7 @@ C1831738,C0497406,TREATS,Exercise Intervention,Overweight,topp,fndg,1,TREATS_TOP
 C1831742,C0150312,TREATS,Nonmyeloablative Allogeneic Hematopoietic Stem Cell Transplantation,Present,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1868981,C0085393,TREATS,Invasive mechanical ventilation NOS,Immunocompromised Host,topp,fndg,2,TREATS_TOPPtrtsFNDG
 C1868981,C0240807,TREATS,Invasive mechanical ventilation NOS,PROGRESSIVE SYMPTOMS,topp,fndg,1,TREATS_TOPPtrtsFNDG
+C1868981,C0332218,TREATS,Invasive mechanical ventilation NOS,Difficult (qualifier value),topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1868981,C0442749,TREATS,Invasive mechanical ventilation NOS,6/5,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1868981,C0578022,TREATS,Invasive mechanical ventilation NOS,Finding of body mass index,topp,fndg,1,TREATS_TOPPtrtsFNDG
 C1868981,C0700292,TREATS,Invasive mechanical ventilation NOS,Hypoxemia,topp,fndg,3,TREATS_TOPPtrtsFNDG

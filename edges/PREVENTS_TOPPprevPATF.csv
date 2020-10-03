@@ -129,6 +129,8 @@ C0021107,C3714514,PREVENTS,Implantation procedure,Infection,topp,patf,2,PREVENTS
 C0021440,C0019080,PREVENTS,Intravenous infusion procedures,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
 C0021485,C1142480,PREVENTS,Injection of therapeutic agent,Vaccination site reaction,topp,patf,1,PREVENTS_TOPPprevPATF
 C0021485,C3714514,PREVENTS,Injection of therapeutic agent,Infection,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021492,C0018944,PREVENTS,Intramuscular injection,Hematoma,topp,patf,1,PREVENTS_TOPPprevPATF
+C0021492,C0019080,PREVENTS,Intramuscular injection,Hemorrhage,topp,patf,1,PREVENTS_TOPPprevPATF
 C0021493,C0001511,PREVENTS,"Injections, Intraperitoneal",Tissue Adhesions,topp,patf,1,PREVENTS_TOPPprevPATF
 C0021493,C0022116,PREVENTS,"Injections, Intraperitoneal",Ischemia,topp,patf,1,PREVENTS_TOPPprevPATF
 C0021589,C1373218,PREVENTS,"Insemination, Artificial, Homologous",Decreased Immunologic Activity [PE],topp,patf,1,PREVENTS_TOPPprevPATF
@@ -276,6 +278,7 @@ C0152060,C4287874,PREVENTS,Transection (procedure),Droplet transmission,topp,pat
 C0162352,C0020517,PREVENTS,Allergen Immunotherapy,Hypersensitivity,topp,patf,1,PREVENTS_TOPPprevPATF
 C0162563,C0036974,PREVENTS,Cardiac ablation,Shock,topp,patf,1,PREVENTS_TOPPprevPATF
 C0184898,C0043241,PREVENTS,Surgical incisions,Wound Infection,topp,patf,2,PREVENTS_TOPPprevPATF
+C0184898,C0274404,PREVENTS,Surgical incisions,Postoperative intra-abdominal abscess,topp,patf,2,PREVENTS_TOPPprevPATF
 C0184898,C0333257,PREVENTS,Surgical incisions,Air leakage,topp,patf,1,PREVENTS_TOPPprevPATF
 C0184904,C0242656,PREVENTS,Slitting,Disease Progression,topp,patf,1,PREVENTS_TOPPprevPATF
 C0184967,C0015376,PREVENTS,Insertion of pack (procedure),Extravasation,topp,patf,1,PREVENTS_TOPPprevPATF

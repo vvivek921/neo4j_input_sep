@@ -156,6 +156,7 @@ C0003842,C0161816,LOCATION_OF,Arteries,Cardiac complication,bpoc,patf,14,LOCATIO
 C0003842,C0231181,LOCATION_OF,Arteries,Acute insufficiency,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0003842,C0235063,LOCATION_OF,Arteries,Respiratory Depression,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
 C0003842,C0242184,LOCATION_OF,Arteries,Hypoxia,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
+C0003842,C0267412,LOCATION_OF,Arteries,Mesenteric Venous Thrombosis,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
 C0003842,C0302148,LOCATION_OF,Arteries,Blood Clot,bpoc,patf,6,LOCATION_OF_BPOClocfPATF
 C0003842,C0332448,LOCATION_OF,Arteries,Infiltration,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0003842,C0333165,LOCATION_OF,Arteries,Acute obstruction,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
@@ -242,7 +243,6 @@ C0005400,C0332448,LOCATION_OF,Bile duct structure,Infiltration,bpoc,patf,2,LOCAT
 C0005400,C0333641,LOCATION_OF,Bile duct structure,Atrophic,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0005400,C0334094,LOCATION_OF,Bile duct structure,Proliferation (morphologic abnormality),bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0005400,C1261287,LOCATION_OF,Bile duct structure,Stenosis,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
-C0005400,C1265741,LOCATION_OF,Bile duct structure,Multiple calculi,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0005401,C0002940,LOCATION_OF,Intrahepatic bile duct,Aneurysm,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0005401,C0012359,LOCATION_OF,Intrahepatic bile duct,Pathological Dilatation,bpoc,patf,5,LOCATION_OF_BPOClocfPATF
 C0005401,C0028778,LOCATION_OF,Intrahepatic bile duct,Obstruction,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
@@ -730,7 +730,6 @@ C0009758,C0020581,LOCATION_OF,conjunctiva,Hyphema,bpoc,patf,1,LOCATION_OF_BPOClo
 C0009758,C0021368,LOCATION_OF,conjunctiva,Inflammation,bpoc,patf,16,LOCATION_OF_BPOClocfPATF
 C0009758,C0021376,LOCATION_OF,conjunctiva,Chronic inflammation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0009758,C0041582,LOCATION_OF,conjunctiva,Ulcer,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
-C0009758,C0151891,LOCATION_OF,conjunctiva,Retinal depigmentation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0009758,C0162633,LOCATION_OF,conjunctiva,Viral Shedding,bpoc,patf,3,LOCATION_OF_BPOClocfPATF
 C0009758,C0302158,LOCATION_OF,conjunctiva,Leucocytic infiltrate,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0009758,C0333354,LOCATION_OF,conjunctiva,Membranous inflammation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
@@ -765,7 +764,6 @@ C0010040,C0013604,LOCATION_OF,Corneal Stroma,Edema,bpoc,patf,3,LOCATION_OF_BPOCl
 C0010040,C0020522,LOCATION_OF,Corneal Stroma,Delayed Hypersensitivity,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0010040,C0021368,LOCATION_OF,Corneal Stroma,Inflammation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0010040,C0027686,LOCATION_OF,Corneal Stroma,Pathologic Neovascularization,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
-C0010040,C0349702,LOCATION_OF,Corneal Stroma,Corneal Scar,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0010040,C3714514,LOCATION_OF,Corneal Stroma,Infection,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0010075,C0002940,LOCATION_OF,Coronary Vessels,Aneurysm,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0010075,C0021368,LOCATION_OF,Coronary Vessels,Inflammation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
@@ -942,7 +940,6 @@ C0015392,C0041582,LOCATION_OF,Eye,Ulcer,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
 C0015392,C0087086,LOCATION_OF,Eye,Thrombus,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0015392,C0162285,LOCATION_OF,Eye,Edema of eyelid,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
 C0015392,C0162633,LOCATION_OF,Eye,Viral Shedding,bpoc,patf,5,LOCATION_OF_BPOClocfPATF
-C0015392,C0234090,LOCATION_OF,Eye,Abnormal nerve conduction,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0015392,C0240821,LOCATION_OF,Eye,Pseudomembrane,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0015392,C0242420,LOCATION_OF,Eye,Retinal Edema,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0015392,C0242656,LOCATION_OF,Eye,Disease Progression,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
@@ -1493,6 +1490,7 @@ C0022131,C0332448,LOCATION_OF,Islets of Langerhans,Infiltration,bpoc,patf,3,LOCA
 C0022131,C0333641,LOCATION_OF,Islets of Langerhans,Atrophic,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
 C0022131,C5200801,LOCATION_OF,Islets of Langerhans,Innate Inflammatory Response,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0022359,C0029445,LOCATION_OF,Jaw,Bone necrosis,bpoc,patf,14,LOCATION_OF_BPOClocfPATF
+C0022359,C0029461,LOCATION_OF,Jaw,Osteoradionecrosis,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0022359,C3714514,LOCATION_OF,Jaw,Infection,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0022378,C0002940,LOCATION_OF,Jejunum,Aneurysm,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0022378,C0012359,LOCATION_OF,Jejunum,Pathological Dilatation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
@@ -1589,7 +1587,6 @@ C0022646,C0679223,LOCATION_OF,Kidney,functional failure,bpoc,patf,4,LOCATION_OF_
 C0022646,C0700148,LOCATION_OF,Kidney,Congestion,bpoc,patf,19,LOCATION_OF_BPOClocfPATF
 C0022646,C1155266,LOCATION_OF,Kidney,Inflammatory Response,bpoc,patf,6,LOCATION_OF_BPOClocfPATF
 C0022646,C1262018,LOCATION_OF,Kidney,Graft failure,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
-C0022646,C1265741,LOCATION_OF,Kidney,Multiple calculi,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0022646,C1265932,LOCATION_OF,Kidney,Focal hyperplasia,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0022646,C1265971,LOCATION_OF,Kidney,Atypical proliferation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0022646,C1373218,LOCATION_OF,Kidney,Decreased Immunologic Activity [PE],bpoc,patf,1,LOCATION_OF_BPOClocfPATF
@@ -2106,6 +2103,7 @@ C0024687,C0028778,LOCATION_OF,Mandible,Obstruction,bpoc,patf,1,LOCATION_OF_BPOCl
 C0024687,C0029445,LOCATION_OF,Mandible,Bone necrosis,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0024687,C0243069,LOCATION_OF,Mandible,Hypoplasia,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0024687,C0342579,LOCATION_OF,Mandible,Electrolyte imbalance,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
+C0024687,C0399551,LOCATION_OF,Mandible,Impacted third molar tooth,bpoc,patf,8,LOCATION_OF_BPOClocfPATF
 C0024876,C0333641,LOCATION_OF,Masseter muscle structure,Atrophic,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0024890,C0333641,LOCATION_OF,Masticatory muscles,Atrophic,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0024947,C0019080,LOCATION_OF,Maxilla,Hemorrhage,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
@@ -3010,7 +3008,6 @@ C0041951,C0041582,LOCATION_OF,Ureter,Ulcer,bpoc,patf,5,LOCATION_OF_BPOClocfPATF
 C0041951,C0333288,LOCATION_OF,Ureter,Dissecting hemorrhage,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
 C0041951,C0553697,LOCATION_OF,Ureter,Granulomatous inflammation,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
 C0041951,C1261287,LOCATION_OF,Ureter,Stenosis,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
-C0041951,C1265741,LOCATION_OF,Ureter,Multiple calculi,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0041967,C0012359,LOCATION_OF,Urethra,Pathological Dilatation,bpoc,patf,3,LOCATION_OF_BPOClocfPATF
 C0041967,C0015376,LOCATION_OF,Urethra,Extravasation,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
 C0041967,C0021368,LOCATION_OF,Urethra,Inflammation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
@@ -3030,7 +3027,6 @@ C0042027,C0333386,LOCATION_OF,Urinary tract,Chronic lymphocytic inflammation,bpo
 C0042027,C0333418,LOCATION_OF,Urinary tract,Non-necrotizing granulomatous inflammation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0042027,C0349725,LOCATION_OF,Urinary tract,Graft infection,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0042027,C0860239,LOCATION_OF,Urinary tract,Catheter related infection,bpoc,patf,6,LOCATION_OF_BPOClocfPATF
-C0042027,C1265741,LOCATION_OF,Urinary tract,Multiple calculi,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0042027,C3714514,LOCATION_OF,Urinary tract,Infection,bpoc,patf,16,LOCATION_OF_BPOClocfPATF
 C0042149,C0004144,LOCATION_OF,Uterus,Atelectasis,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0042149,C0008767,LOCATION_OF,Uterus,Cicatrization,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
@@ -3809,7 +3805,6 @@ C0227614,C0008767,LOCATION_OF,Left kidney,Cicatrization,bpoc,patf,1,LOCATION_OF_
 C0227614,C0021308,LOCATION_OF,Left kidney,Infarction,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0227614,C0022116,LOCATION_OF,Left kidney,Ischemia,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0227614,C0042487,LOCATION_OF,Left kidney,Venous Thrombosis,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
-C0227614,C1265741,LOCATION_OF,Left kidney,Multiple calculi,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0227628,C0013604,LOCATION_OF,Renal parenchyma,Edema,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0227628,C0016059,LOCATION_OF,Renal parenchyma,Fibrosis,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0227628,C0018188,LOCATION_OF,Renal parenchyma,Granuloma,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
@@ -4257,6 +4252,7 @@ C0489877,C2586211,LOCATION_OF,Vasculature of lung,Thrombosis of blood vessel,bpo
 C0500459,C0012359,LOCATION_OF,Regional tree segment of artery,Pathological Dilatation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0500459,C0028778,LOCATION_OF,Regional tree segment of artery,Obstruction,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0500459,C0264995,LOCATION_OF,Regional tree segment of artery,Occlusion of artery (disorder),bpoc,patf,1,LOCATION_OF_BPOClocfPATF
+C0501123,C0040053,LOCATION_OF,Left internal jugular vein,Thrombosis,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0501385,C0012359,LOCATION_OF,Sensory nerve,Pathological Dilatation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0501385,C0020517,LOCATION_OF,Sensory nerve,Hypersensitivity,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
 C0501385,C0022116,LOCATION_OF,Sensory nerve,Ischemia,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
@@ -4604,6 +4600,7 @@ C0819141,C0015376,LOCATION_OF,Bronchial tree,Extravasation,bpoc,patf,6,LOCATION_
 C0819141,C0019080,LOCATION_OF,Bronchial tree,Hemorrhage,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0819141,C0021376,LOCATION_OF,Bronchial tree,Chronic inflammation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0824028,C0036974,LOCATION_OF,Posterior wall of trachea,Shock,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
+C0824497,C0332448,LOCATION_OF,Neurovascular bundle,Infiltration,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0824571,C0333641,LOCATION_OF,Left supraspinatus,Atrophic,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0835015,C0040053,LOCATION_OF,Right popliteal vein,Thrombosis,bpoc,patf,2,LOCATION_OF_BPOClocfPATF
 C0835016,C0040053,LOCATION_OF,Left popliteal vein,Thrombosis,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
@@ -4646,7 +4643,6 @@ C0927195,C0333513,LOCATION_OF,Stroma,Fibrinoid necrosis,bpoc,patf,3,LOCATION_OF_
 C0927195,C0333606,LOCATION_OF,Stroma,Dystrophy,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0927195,C0333629,LOCATION_OF,Stroma,Hemosiderin pigmentation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0927195,C0334040,LOCATION_OF,Stroma,Osseous metaplasia,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
-C0927195,C0349702,LOCATION_OF,Stroma,Corneal Scar,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0927195,C2004491,LOCATION_OF,Stroma,Cicatrix,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0927222,C0011164,LOCATION_OF,Parenchymatous organ,Abnormal degeneration,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0927222,C0018188,LOCATION_OF,Parenchymatous organ,Granuloma,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
@@ -4737,7 +4733,6 @@ C0933845,C0700148,LOCATION_OF,Parenchyma,Congestion,bpoc,patf,2,LOCATION_OF_BPOC
 C0933845,C0745283,LOCATION_OF,Parenchyma,INFECTIOUS PROCESS,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0933845,C0920711,LOCATION_OF,Parenchyma,lung ischemia,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0933845,C1155266,LOCATION_OF,Parenchyma,Inflammatory Response,bpoc,patf,13,LOCATION_OF_BPOClocfPATF
-C0933845,C1265741,LOCATION_OF,Parenchyma,Multiple calculi,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0933845,C1265821,LOCATION_OF,Parenchyma,Enclosed cavity,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0933845,C1265824,LOCATION_OF,Parenchyma,Persistent inflammation,bpoc,patf,1,LOCATION_OF_BPOClocfPATF
 C0933845,C1265831,LOCATION_OF,Parenchyma,Interstitial inflammation,bpoc,patf,2,LOCATION_OF_BPOClocfPATF

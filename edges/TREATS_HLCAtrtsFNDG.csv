@@ -58,6 +58,7 @@ C0010210,C0425152,TREATS,Counseling,Engaged to be married,hlca,fndg,1,TREATS_HLC
 C0010210,C0429673,TREATS,Counseling,Respiratory measure,hlca,fndg,2,TREATS_HLCAtrtsFNDG
 C0010210,C0549649,TREATS,Counseling,MISUSE,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0010210,C0595998,TREATS,Counseling,Household composition,hlca,fndg,2,TREATS_HLCAtrtsFNDG
+C0010210,C0740719,TREATS,Counseling,abusive relationship,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0010210,C3272283,TREATS,Counseling,American College of Cardiology/American Heart Association Lesion Complexity Score C,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0010337,C0151740,TREATS,Care of intensive care unit patient,Intracranial Hypertension,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0010337,C0231224,TREATS,Care of intensive care unit patient,Crisis,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -97,6 +98,7 @@ C0017313,C5197672,TREATS,patient care,Symptom Exacerbation,hlca,fndg,1,TREATS_HL
 C0017463,C0871754,TREATS,Geriatric Assessment,Frail,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0018570,C3840880,TREATS,Hand Disinfection,Traffic,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0018727,C3242677,TREATS,Health Planning,self insured,hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C0018747,C0018748,TREATS,Health Services,Health Services Accessibility,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0018747,C0035648,TREATS,Health Services,risk factors,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0018747,C0150312,TREATS,Health Services,Present,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0018747,C0231224,TREATS,Health Services,Crisis,hlca,fndg,2,TREATS_HLCAtrtsFNDG
@@ -383,6 +385,7 @@ C0033333,C2945640,TREATS,Program Development,compromise,hlca,fndg,1,TREATS_HLCAt
 C0034024,C1318963,TREATS,Public Health Practice,Readiness,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0034107,C0332575,TREATS,Pulse taking,Redness,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0034107,C0424589,TREATS,Pulse taking,Vitality,hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C0034107,C0444664,TREATS,Pulse taking,Standard meal,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0034107,C1272641,TREATS,Pulse taking,Systemic arterial pressure,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0034379,C0020649,TREATS,Quality of Health Care,Hypotension,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0034379,C4086551,TREATS,Quality of Health Care,Liver Iron Concentration,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -459,6 +462,7 @@ C0086930,C0150312,TREATS,Risk Assessment,Present,hlca,fndg,4,TREATS_HLCAtrtsFNDG
 C0086930,C0241863,TREATS,Risk Assessment,diabetic,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0086930,C0392209,TREATS,Risk Assessment,Nutritional status,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0086930,C0442726,TREATS,Risk Assessment,Detected (finding),hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C0086930,C0597680,TREATS,Risk Assessment,Water Quality,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0086930,C0746619,TREATS,Risk Assessment,monoclonal,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0086930,C1545588,TREATS,Risk Assessment,Protection,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0086930,C1836348,TREATS,Risk Assessment,Severe disorder,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -466,6 +470,7 @@ C0086930,C1879646,TREATS,Risk Assessment,Affected Area,hlca,fndg,1,TREATS_HLCAtr
 C0086930,C3841750,TREATS,Risk Assessment,Mass gathering,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0086930,C4321237,TREATS,Risk Assessment,High Level,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0086969,C0033213,TREATS,Self-Management,Problem,hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C0150181,C0028684,TREATS,Coping support,Nursing Diagnoses,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0150270,C0150312,TREATS,Medication Management,Present,hlca,fndg,2,TREATS_HLCAtrtsFNDG
 C0150270,C0151671,TREATS,Medication Management,Glucose tolerance decreased (finding),hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0150270,C0439663,TREATS,Medication Management,Infected,hlca,fndg,4,TREATS_HLCAtrtsFNDG
@@ -502,9 +507,11 @@ C0150600,C3714738,TREATS,Advice,Compliance,hlca,fndg,2,TREATS_HLCAtrtsFNDG
 C0150600,C4264624,TREATS,Advice,Likely pathogenic,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0150788,C0038435,TREATS,Stress management,Stress,hlca,fndg,3,TREATS_HLCAtrtsFNDG
 C0150788,C0231224,TREATS,Stress management,Crisis,hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C0150788,C0233542,TREATS,Stress management,Family conflict,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0150788,C0476644,TREATS,Stress management,Physical and emotional exhaustion state,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0150788,C1446377,TREATS,Stress management,Mental health problem,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0162648,C0009488,TREATS,Telemedicine,Comorbidity,hlca,fndg,2,TREATS_HLCAtrtsFNDG
+C0162648,C0018748,TREATS,Telemedicine,Health Services Accessibility,hlca,fndg,4,TREATS_HLCAtrtsFNDG
 C0162648,C0023974,TREATS,Telemedicine,Loneliness,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0162648,C0033213,TREATS,Telemedicine,Problem,hlca,fndg,4,TREATS_HLCAtrtsFNDG
 C0162648,C0035648,TREATS,Telemedicine,risk factors,hlca,fndg,2,TREATS_HLCAtrtsFNDG
@@ -605,6 +612,8 @@ C0199171,C4745084,TREATS,medical procedure,Medical Condition,hlca,fndg,1,TREATS_
 C0199174,C0085393,TREATS,General treatment,Immunocompromised Host,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0199175,C0035648,TREATS,Preventive service healthcare,risk factors,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0199182,C1631070,TREATS,History taking,6/4.5,hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C0199219,C1444665,TREATS,Inspection (procedure),Physical examination status,hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C0199219,C3540840,TREATS,Inspection (procedure),Sign or Symptom,hlca,fndg,2,TREATS_HLCAtrtsFNDG
 C0199336,C0439663,TREATS,Interdisciplinary medical team conference,Infected,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0199614,C0517192,TREATS,Monitoring of pulse,Circulation status,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0200345,C0085393,TREATS,Specimen Collection,Immunocompromised Host,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -657,6 +666,7 @@ C0220825,C0231519,TREATS,Evaluation,Gegenhalten,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0220825,C0235195,TREATS,Evaluation,Sedated state,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0220825,C0238646,TREATS,Evaluation,ANIMAL EXPOSURE,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0220825,C0238815,TREATS,Evaluation,brazilian,hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C0220825,C0240953,TREATS,Evaluation,Winged scapula,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0220825,C0241110,TREATS,Evaluation,necrotic skin lesion,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0220825,C0241302,TREATS,Evaluation,summer camp,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0220825,C0241889,TREATS,Evaluation,Family history,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -863,6 +873,7 @@ C0588388,C0033213,TREATS,General observation,Problem,hlca,fndg,1,TREATS_HLCAtrts
 C0588446,C1444662,TREATS,Informing patient,Discontinued,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0589031,C1290905,TREATS,Team meeting,Discrepancy (finding),hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0589121,C0231221,TREATS,Follow-up visit,Asymptomatic,hlca,fndg,2,TREATS_HLCAtrtsFNDG
+C0589121,C0475440,TREATS,Follow-up visit,Tumor size,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0589121,C0683521,TREATS,Follow-up visit,Patient Physiological Condition,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0589121,C3272281,TREATS,Follow-up visit,American College of Cardiology/American Heart Association Lesion Complexity Score A,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0589121,C3272283,TREATS,Follow-up visit,American College of Cardiology/American Heart Association Lesion Complexity Score C,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -893,6 +904,7 @@ C0679898,C0392209,TREATS,public health program,Nutritional status,hlca,fndg,1,TR
 C0679898,C0556025,TREATS,public health program,Injecting drug user,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0683509,C0442726,TREATS,disease detection,Detected (finding),hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0683510,C4086551,TREATS,Identifying problems,Liver Iron Concentration,hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C0699943,C0018748,TREATS,Public health service,Health Services Accessibility,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0699943,C0035648,TREATS,Public health service,risk factors,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0699943,C0231224,TREATS,Public health service,Crisis,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0700325,C0085393,TREATS,Patient observation,Immunocompromised Host,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -914,6 +926,7 @@ C0733511,C1879646,TREATS,Medical Surveillance,Affected Area,hlca,fndg,1,TREATS_H
 C0743217,C4534363,TREATS,Drainage PLACEMENT,At home,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0747306,C4698447,TREATS,patient profile,Patient age,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0805586,C0013658,TREATS,Challenge,Educational Status,hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C0805586,C0018748,TREATS,Challenge,Health Services Accessibility,hlca,fndg,3,TREATS_HLCAtrtsFNDG
 C0805586,C0033213,TREATS,Challenge,Problem,hlca,fndg,5,TREATS_HLCAtrtsFNDG
 C0805586,C0085393,TREATS,Challenge,Immunocompromised Host,hlca,fndg,3,TREATS_HLCAtrtsFNDG
 C0805586,C0085639,TREATS,Challenge,Falls,hlca,fndg,2,TREATS_HLCAtrtsFNDG
@@ -939,6 +952,7 @@ C0805586,C0518609,TREATS,Challenge,Consideration,hlca,fndg,4,TREATS_HLCAtrtsFNDG
 C0805586,C0557351,TREATS,Challenge,Employed,hlca,fndg,3,TREATS_HLCAtrtsFNDG
 C0805586,C0581126,TREATS,Challenge,Severe asthma,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0805586,C0595998,TREATS,Challenge,Household composition,hlca,fndg,7,TREATS_HLCAtrtsFNDG
+C0805586,C0597680,TREATS,Challenge,Water Quality,hlca,fndg,4,TREATS_HLCAtrtsFNDG
 C0805586,C0600457,TREATS,Challenge,Gravidity,hlca,fndg,4,TREATS_HLCAtrtsFNDG
 C0805586,C0683320,TREATS,Challenge,unwellness,hlca,fndg,2,TREATS_HLCAtrtsFNDG
 C0805586,C0746940,TREATS,Challenge,Nonverbal,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -970,6 +984,7 @@ C0849168,C1275743,TREATS,eye medications,Co-morbid conditions,hlca,fndg,1,TREATS
 C0849983,C3840880,TREATS,prenatal examination,Traffic,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0850397,C0033213,TREATS,health information,Problem,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0850397,C0038435,TREATS,health information,Stress,hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C0850397,C0080048,TREATS,health information,Privacy,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0850397,C0231224,TREATS,health information,Crisis,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0850397,C0442797,TREATS,health information,Decreasing,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0850397,C0683836,TREATS,health information,Source of information,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -980,6 +995,7 @@ C0871311,C0231221,TREATS,screening tests,Asymptomatic,hlca,fndg,3,TREATS_HLCAtrt
 C0871311,C1320226,TREATS,screening tests,Incubation period,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0871311,C1560209,TREATS,screening tests,"Hemolysis, CTCAE",hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0871311,C2597943,TREATS,screening tests,Index case,hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C0872283,C0018748,TREATS,Telenursing,Health Services Accessibility,hlca,fndg,2,TREATS_HLCAtrtsFNDG
 C0940824,C0439663,TREATS,Additional procedure,Infected,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0940824,C3840880,TREATS,Additional procedure,Traffic,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C0947323,C0679254,TREATS,Dispensing medication,disease recurrence,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -995,6 +1011,7 @@ C1144866,C0332149,TREATS,Multi-disciplinary team,Possible,hlca,fndg,1,TREATS_HLC
 C1144866,C3843354,TREATS,Multi-disciplinary team,Extremely Difficult,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1160858,C0150312,TREATS,Behavior assessment,Present,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1160858,C1851900,TREATS,Behavior assessment,"EAR PITS, POSTERIOR HELICAL",hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C1161201,C0184511,TREATS,Dialysis care,Improved,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1171181,C0517671,TREATS,Breastfeeding support,Knowledge level: breastfeeding,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1171215,C0497406,TREATS,Renal care,Overweight,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1258068,C0750484,TREATS,Nutrition management,Confirmation,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -1038,6 +1055,7 @@ C1261322,C0559892,TREATS,Evaluation procedure,Normal menstruation - observation,
 C1261322,C0560175,TREATS,Evaluation procedure,Carrier of disorder,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1261322,C0577914,TREATS,Evaluation procedure,Lung finding,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1261322,C0595998,TREATS,Evaluation procedure,Household composition,hlca,fndg,1,TREATS_HLCAtrtsFNDG
+C1261322,C0597680,TREATS,Evaluation procedure,Water Quality,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1261322,C0679246,TREATS,Evaluation procedure,advanced disease,hlca,fndg,2,TREATS_HLCAtrtsFNDG
 C1261322,C0681405,TREATS,Evaluation procedure,Preschool Completion,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1261322,C0683320,TREATS,Evaluation procedure,unwellness,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -1213,6 +1231,7 @@ C1522577,C4264612,TREATS,follow-up,Nonurgent,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1522577,C4531104,TREATS,follow-up,Pulmonary opacity,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1522577,C4699158,TREATS,follow-up,Increased risk,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1522577,C4699604,TREATS,follow-up,<12 months,hlca,fndg,2,TREATS_HLCAtrtsFNDG
+C1532670,C0080048,TREATS,Obtaining consent,Privacy,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1532670,C0150312,TREATS,Obtaining consent,Present,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1533810,C1318963,TREATS,Placement action,Readiness,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C1535528,C4698386,TREATS,Tracheal aspiration,Intubated,hlca,fndg,1,TREATS_HLCAtrtsFNDG
@@ -1403,7 +1422,6 @@ C4684780,C0233481,TREATS,Standard Treatment,Worried,hlca,fndg,1,TREATS_HLCAtrtsF
 C4684780,C0522074,TREATS,Standard Treatment,Acute deficiency state,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C4684780,C0577007,TREATS,Standard Treatment,Lesion of esophagus,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C4684780,C0581126,TREATS,Standard Treatment,Severe asthma,hlca,fndg,1,TREATS_HLCAtrtsFNDG
-C4684780,C0745130,TREATS,Standard Treatment,Resistant hypertensive disorder,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C4684780,C0750484,TREATS,Standard Treatment,Confirmation,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C4684780,C1518965,TREATS,Standard Treatment,Performance Status,hlca,fndg,1,TREATS_HLCAtrtsFNDG
 C4684780,C2826244,TREATS,Standard Treatment,Life Threatening,hlca,fndg,1,TREATS_HLCAtrtsFNDG

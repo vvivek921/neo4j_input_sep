@@ -50,6 +50,7 @@ C0013119,C0241863,TREATS,Medical dressing,diabetic,medd,fndg,1,TREATS_MEDDtrtsFN
 C0013119,C0442797,TREATS,Medical dressing,Decreasing,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0013119,C0679319,TREATS,Medical dressing,Closed wound,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0013119,C3272283,TREATS,Medical dressing,American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C0013194,C0025115,TREATS,Drug Packaging,Medication Error,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0013194,C0150312,TREATS,Drug Packaging,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
 C0013194,C0184511,TREATS,Drug Packaging,Improved,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0013194,C0231303,TREATS,Drug Packaging,Distress,medd,fndg,1,TREATS_MEDDtrtsFNDG
@@ -140,6 +141,7 @@ C0035208,C1545588,TREATS,"Respirators, Air-Purifying",Protection,medd,fndg,2,TRE
 C0035208,C3272283,TREATS,"Respirators, Air-Purifying",American College of Cardiology/American Heart Association Lesion Complexity Score C,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0035208,C4698719,TREATS,"Respirators, Air-Purifying",Confirmed case,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0036405,C0150312,TREATS,Scintillation Counters,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0036605,C0018748,TREATS,Self-Help Devices,Health Services Accessibility,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0038009,C0332149,TREATS,Splint Device,Possible,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0038257,C0150312,TREATS,"Stent, device",Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0038257,C0221198,TREATS,"Stent, device",Lesion,medd,fndg,1,TREATS_MEDDtrtsFNDG
@@ -243,6 +245,7 @@ C0085590,C0419437,TREATS,catheter device,High risk infant,medd,fndg,1,TREATS_MED
 C0085590,C0700292,TREATS,catheter device,Hypoxemia,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0085678,C0425945,TREATS,Nasogastric tube,Prolonged menses,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0085678,C1318963,TREATS,Nasogastric tube,Readiness,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0087153,C0018748,TREATS,Ventilator - respiratory equipment,Health Services Accessibility,medd,fndg,2,TREATS_MEDDtrtsFNDG
 C0087153,C0150312,TREATS,Ventilator - respiratory equipment,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0087153,C0231224,TREATS,Ventilator - respiratory equipment,Crisis,medd,fndg,3,TREATS_MEDDtrtsFNDG
 C0087153,C0436345,TREATS,Ventilator - respiratory equipment,Symptom severe,medd,fndg,1,TREATS_MEDDtrtsFNDG
@@ -317,6 +320,7 @@ C0179129,C0231221,TREATS,Apron,Asymptomatic,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0179129,C4698386,TREATS,Apron,Intubated,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0179199,C1545588,TREATS,"Balance, device",Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0179199,C4036283,TREATS,"Balance, device",Basic knowledge,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C0179226,C0597680,TREATS,Basin,Water Quality,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0179245,C0150312,TREATS,Water Bath,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0179245,C3842089,TREATS,Water Bath,2 mm,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0179302,C3665437,TREATS,"Binder, device",Serum phosphate concentrations above normal (finding),medd,fndg,1,TREATS_MEDDtrtsFNDG
@@ -549,7 +553,6 @@ C0456378,C0332575,TREATS,Type of bridge device,Redness,medd,fndg,1,TREATS_MEDDtr
 C0456378,C3816745,TREATS,Type of bridge device,1+,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0457169,C1545588,TREATS,Respiratory equipment,Protection,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0457177,C0184511,TREATS,Telescopes,Improved,medd,fndg,1,TREATS_MEDDtrtsFNDG
-C0490617,C0745130,TREATS,"CATHETER, PERCUTANEOUS",Resistant hypertensive disorder,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0491931,C0240341,TREATS,Orthopedic Fork,Micrographia,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C0491970,C0150312,TREATS,Light microscope,Present,medd,fndg,2,TREATS_MEDDtrtsFNDG
 C0491970,C0221198,TREATS,Light microscope,Lesion,medd,fndg,1,TREATS_MEDDtrtsFNDG
@@ -696,6 +699,7 @@ C1553647,C1545588,TREATS,Maxillary left second molar abutment,Protection,medd,fn
 C1553661,C0150312,TREATS,Mandibular left lateral incisor abutment,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C1553663,C0150312,TREATS,Mandibular right central incisor abutment,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C1611676,C0150312,TREATS,Thermal Cycler,Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
+C1706912,C0018748,TREATS,BARRIER,Health Services Accessibility,medd,fndg,8,TREATS_MEDDtrtsFNDG
 C1706912,C0085988,TREATS,BARRIER,Cephalopelvic Disproportion,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C1706912,C0150312,TREATS,BARRIER,Present,medd,fndg,6,TREATS_MEDDtrtsFNDG
 C1706912,C0150598,TREATS,BARRIER,Sets goals,medd,fndg,1,TREATS_MEDDtrtsFNDG
@@ -736,6 +740,7 @@ C1968515,C0033774,TREATS,Pack (physical object),Pruritus,medd,fndg,1,TREATS_MEDD
 C1968515,C0150312,TREATS,Pack (physical object),Present,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C1968515,C4699604,TREATS,Pack (physical object),<12 months,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C1995447,C0750484,TREATS,"ORAL,SWAB",Confirmation,medd,fndg,2,TREATS_MEDDtrtsFNDG
+C2363670,C0080048,TREATS,developers,Privacy,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C2363670,C0425946,TREATS,developers,Short menstrual periods,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C2363670,C1318963,TREATS,developers,Readiness,medd,fndg,1,TREATS_MEDDtrtsFNDG
 C2363670,C3714738,TREATS,developers,Compliance,medd,fndg,1,TREATS_MEDDtrtsFNDG

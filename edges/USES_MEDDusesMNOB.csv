@@ -6,6 +6,7 @@ C0002422,C0681595,USES,Ambulances,jeep,medd,mnob,1,USES_MEDDusesMNOB
 C0002422,C1547538,USES,Ambulances,Facility,medd,mnob,1,USES_MEDDusesMNOB
 C0002422,C2350032,USES,Ambulances,Global Positioning Systems,medd,mnob,1,USES_MEDDusesMNOB
 C0003835,C0180860,USES,Arterial Lines,Filters,medd,mnob,1,USES_MEDDusesMNOB
+C0004185,C0183185,USES,Atomizers,Screens (device),medd,mnob,1,USES_MEDDusesMNOB
 C0005971,C0001516,USES,Bone plates,Adhesives,medd,mnob,1,USES_MEDDusesMNOB
 C0005971,C0003103,USES,Bone plates,Anode,medd,mnob,3,USES_MEDDusesMNOB
 C0005971,C0007441,USES,Bone plates,Cathode,medd,mnob,1,USES_MEDDusesMNOB
@@ -15,6 +16,7 @@ C0005971,C0023621,USES,Bone plates,Libraries,medd,mnob,6,USES_MEDDusesMNOB
 C0005971,C0024483,USES,Bone plates,Magnet <device>,medd,mnob,1,USES_MEDDusesMNOB
 C0005971,C0034762,USES,Bone plates,Real-Time Systems,medd,mnob,1,USES_MEDDusesMNOB
 C0005971,C0175738,USES,Bone plates,Freezer,medd,mnob,1,USES_MEDDusesMNOB
+C0005971,C0175739,USES,Bone plates,Electrical outlet,medd,mnob,1,USES_MEDDusesMNOB
 C0005971,C0179038,USES,Bone plates,"Analyzer, device",medd,mnob,3,USES_MEDDusesMNOB
 C0005971,C0180153,USES,Bone plates,Covers (device),medd,mnob,12,USES_MEDDusesMNOB
 C0005971,C0180392,USES,Bone plates,Detectors,medd,mnob,6,USES_MEDDusesMNOB
@@ -52,6 +54,7 @@ C0007963,C0677535,USES,Charts (device),Walls of a building,medd,mnob,1,USES_MEDD
 C0007963,C0681500,USES,Charts (device),billboard,medd,mnob,15,USES_MEDDusesMNOB
 C0007963,C1299950,USES,Charts (device),Litter,medd,mnob,1,USES_MEDDusesMNOB
 C0009653,C0033611,USES,"Condoms, Male",Protective Clothing,medd,mnob,1,USES_MEDDusesMNOB
+C0009653,C0183185,USES,"Condoms, Male",Screens (device),medd,mnob,1,USES_MEDDusesMNOB
 C0009653,C0220913,USES,"Condoms, Male",Manufactured sign,medd,mnob,1,USES_MEDDusesMNOB
 C0009653,C1547538,USES,"Condoms, Male",Facility,medd,mnob,1,USES_MEDDusesMNOB
 C0009836,C0010164,USES,Contact Lenses,Cosmetics,medd,mnob,2,USES_MEDDusesMNOB
@@ -259,6 +262,7 @@ C0042497,C3826373,USES,Mechanical Ventilator,Eye protection,medd,mnob,1,USES_MED
 C0042497,C3849992,USES,Mechanical Ventilator,"Printing, Three-Dimensional",medd,mnob,3,USES_MEDDusesMNOB
 C0043143,C0024763,USES,wheelchair,Manuals as Topic,medd,mnob,5,USES_MEDDusesMNOB
 C0043160,C0183251,USES,Whole-Body Counters,Shield,medd,mnob,1,USES_MEDDusesMNOB
+C0043303,C0183185,USES,X-Ray Film,Screens (device),medd,mnob,4,USES_MEDDusesMNOB
 C0043303,C2697665,USES,X-Ray Film,Imaging System,medd,mnob,1,USES_MEDDusesMNOB
 C0085104,C0001516,USES,Drug Delivery Systems,Adhesives,medd,mnob,2,USES_MEDDusesMNOB
 C0085104,C0001712,USES,Drug Delivery Systems,Aerosols,medd,mnob,3,USES_MEDDusesMNOB
@@ -266,6 +270,8 @@ C0085104,C0004171,USES,Drug Delivery Systems,Atlases,medd,mnob,1,USES_MEDDusesMN
 C0085104,C0004381,USES,Drug Delivery Systems,Automobiles,medd,mnob,1,USES_MEDDusesMNOB
 C0085104,C0004916,USES,Drug Delivery Systems,Beds,medd,mnob,1,USES_MEDDusesMNOB
 C0085104,C0009622,USES,Drug Delivery Systems,Computers,medd,mnob,2,USES_MEDDusesMNOB
+C0085104,C0011005,USES,Drug Delivery Systems,Database Management Systems,medd,mnob,1,USES_MEDDusesMNOB
+C0085104,C0012108,USES,Drug Delivery Systems,Dictionaries as Topic,medd,mnob,1,USES_MEDDusesMNOB
 C0085104,C0013812,USES,Drug Delivery Systems,electrode,medd,mnob,2,USES_MEDDusesMNOB
 C0085104,C0016126,USES,Drug Delivery Systems,Fingerprints,medd,mnob,2,USES_MEDDusesMNOB
 C0085104,C0016249,USES,Drug Delivery Systems,floor (object),medd,mnob,1,USES_MEDDusesMNOB
@@ -286,6 +292,7 @@ C0085104,C0040707,USES,Drug Delivery Systems,Transistors,medd,mnob,1,USES_MEDDus
 C0085104,C0041740,USES,Drug Delivery Systems,Universities,medd,mnob,6,USES_MEDDusesMNOB
 C0085104,C0042655,USES,Drug Delivery Systems,videocassette,medd,mnob,6,USES_MEDDusesMNOB
 C0085104,C0079141,USES,Drug Delivery Systems,Compact discs,medd,mnob,1,USES_MEDDusesMNOB
+C0085104,C0079815,USES,Drug Delivery Systems,"Medical Records Systems, Computerized",medd,mnob,1,USES_MEDDusesMNOB
 C0085104,C0085205,USES,Drug Delivery Systems,Telefacsimile,medd,mnob,1,USES_MEDDusesMNOB
 C0085104,C0086296,USES,Drug Delivery Systems,film (photographic),medd,mnob,1,USES_MEDDusesMNOB
 C0085104,C0179038,USES,Drug Delivery Systems,"Analyzer, device",medd,mnob,1,USES_MEDDusesMNOB
@@ -298,7 +305,9 @@ C0085104,C0180392,USES,Drug Delivery Systems,Detectors,medd,mnob,2,USES_MEDDuses
 C0085104,C0180459,USES,Drug Delivery Systems,Disks (device),medd,mnob,3,USES_MEDDusesMNOB
 C0085104,C0180860,USES,Drug Delivery Systems,Filters,medd,mnob,6,USES_MEDDusesMNOB
 C0085104,C0180861,USES,Drug Delivery Systems,Air Filters,medd,mnob,1,USES_MEDDusesMNOB
+C0085104,C0181232,USES,Drug Delivery Systems,"Household humidifier, device (physical object)",medd,mnob,1,USES_MEDDusesMNOB
 C0085104,C0181496,USES,Drug Delivery Systems,Labels (device),medd,mnob,2,USES_MEDDusesMNOB
+C0085104,C0183185,USES,Drug Delivery Systems,Screens (device),medd,mnob,2,USES_MEDDusesMNOB
 C0085104,C0183941,USES,Drug Delivery Systems,"Timer, device",medd,mnob,2,USES_MEDDusesMNOB
 C0085104,C0220819,USES,Drug Delivery Systems,device aspects,medd,mnob,3,USES_MEDDusesMNOB
 C0085104,C0282111,USES,Drug Delivery Systems,Internet,medd,mnob,228,USES_MEDDusesMNOB
@@ -324,6 +333,7 @@ C0085104,C0683757,USES,Drug Delivery Systems,Company (organization),medd,mnob,1,
 C0085104,C0683901,USES,Drug Delivery Systems,Airplanes,medd,mnob,2,USES_MEDDusesMNOB
 C0085104,C0870287,USES,Drug Delivery Systems,Classroom,medd,mnob,2,USES_MEDDusesMNOB
 C0085104,C0920585,USES,Drug Delivery Systems,microchip,medd,mnob,1,USES_MEDDusesMNOB
+C0085104,C0973138,USES,Drug Delivery Systems,Computerized Physician Order Entry System,medd,mnob,1,USES_MEDDusesMNOB
 C0085104,C1136005,USES,Drug Delivery Systems,"Computers, Handheld",medd,mnob,1,USES_MEDDusesMNOB
 C0085104,C1136359,USES,Drug Delivery Systems,Cellular Phone,medd,mnob,2,USES_MEDDusesMNOB
 C0085104,C1136360,USES,Drug Delivery Systems,Mobile Phone,medd,mnob,2,USES_MEDDusesMNOB
@@ -474,6 +484,7 @@ C0179245,C0021178,USES,Water Bath,Incubators (device),medd,mnob,1,USES_MEDDusesM
 C0179245,C0336757,USES,Water Bath,"Heater, device",medd,mnob,1,USES_MEDDusesMNOB
 C0179245,C0392223,USES,Water Bath,"Lights, manufactured",medd,mnob,1,USES_MEDDusesMNOB
 C0179302,C0179586,USES,"Binder, device",Caps,medd,mnob,2,USES_MEDDusesMNOB
+C0179302,C0183185,USES,"Binder, device",Screens (device),medd,mnob,1,USES_MEDDusesMNOB
 C0179302,C0337143,USES,"Binder, device",Scaffold,medd,mnob,1,USES_MEDDusesMNOB
 C0179302,C0441469,USES,"Binder, device",Picture,medd,mnob,1,USES_MEDDusesMNOB
 C0179323,C0336795,USES,Blades (device),Hand saw,medd,mnob,1,USES_MEDDusesMNOB
@@ -487,6 +498,7 @@ C0179423,C0180860,USES,Breathing circuit (physical object),Filters,medd,mnob,1,U
 C0179432,C0042655,USES,Bronchoscopes,videocassette,medd,mnob,3,USES_MEDDusesMNOB
 C0179432,C0475311,USES,Bronchoscopes,Harbor,medd,mnob,2,USES_MEDDusesMNOB
 C0179433,C0179636,USES,Flexible bronchoscope,"Cart, device",medd,mnob,1,USES_MEDDusesMNOB
+C0179433,C0183185,USES,Flexible bronchoscope,Screens (device),medd,mnob,1,USES_MEDDusesMNOB
 C0179433,C3873695,USES,Flexible bronchoscope,Adaptor/connector,medd,mnob,1,USES_MEDDusesMNOB
 C0179479,C0183628,USES,Butterfly needle,Stopcocks,medd,mnob,1,USES_MEDDusesMNOB
 C0179543,C3204335,USES,Ophthalmic camera,Smartphone,medd,mnob,1,USES_MEDDusesMNOB
@@ -536,6 +548,7 @@ C0180453,C0179196,USES,Laryngoscopes,"Bag, device",medd,mnob,1,USES_MEDDusesMNOB
 C0180453,C0453947,USES,Laryngoscopes,Raincoat,medd,mnob,11,USES_MEDDusesMNOB
 C0180454,C0023089,USES,Culture plate,Lasers,medd,mnob,1,USES_MEDDusesMNOB
 C0180454,C0180860,USES,Culture plate,Filters,medd,mnob,1,USES_MEDDusesMNOB
+C0180454,C0183185,USES,Culture plate,Screens (device),medd,mnob,1,USES_MEDDusesMNOB
 C0180454,C0220819,USES,Culture plate,device aspects,medd,mnob,1,USES_MEDDusesMNOB
 C0180463,C0001712,USES,Dispenser,Aerosols,medd,mnob,1,USES_MEDDusesMNOB
 C0180463,C0017113,USES,Dispenser,Gasoline,medd,mnob,1,USES_MEDDusesMNOB
@@ -608,6 +621,7 @@ C0181209,C0677535,USES,Hook,Walls of a building,medd,mnob,1,USES_MEDDusesMNOB
 C0181222,C0180560,USES,Hoses,dryers,medd,mnob,2,USES_MEDDusesMNOB
 C0181222,C0725704,USES,Hoses,Connector,medd,mnob,2,USES_MEDDusesMNOB
 C0181222,C1883167,USES,Hoses,Station,medd,mnob,1,USES_MEDDusesMNOB
+C0181233,C0181232,USES,Heat and moisture exchanger,"Household humidifier, device (physical object)",medd,mnob,1,USES_MEDDusesMNOB
 C0181264,C0175738,USES,Ice Bags,Freezer,medd,mnob,1,USES_MEDDusesMNOB
 C0181275,C0004381,USES,Immobilizer,Automobiles,medd,mnob,1,USES_MEDDusesMNOB
 C0181278,C0453884,USES,Halo brace,Vest,medd,mnob,8,USES_MEDDusesMNOB
@@ -654,6 +668,7 @@ C0181758,C0040565,USES,Surgical face mask,Toys,medd,mnob,1,USES_MEDDusesMNOB
 C0181758,C0179586,USES,Surgical face mask,Caps,medd,mnob,1,USES_MEDDusesMNOB
 C0181758,C0180153,USES,Surgical face mask,Covers (device),medd,mnob,1,USES_MEDDusesMNOB
 C0181758,C0180860,USES,Surgical face mask,Filters,medd,mnob,2,USES_MEDDusesMNOB
+C0181758,C0183185,USES,Surgical face mask,Screens (device),medd,mnob,2,USES_MEDDusesMNOB
 C0181758,C0183395,USES,Surgical face mask,Spectrometers,medd,mnob,1,USES_MEDDusesMNOB
 C0181758,C1443871,USES,Surgical face mask,Personal protective equipment,medd,mnob,2,USES_MEDDusesMNOB
 C0181758,C1456528,USES,Surgical face mask,Eye Wear,medd,mnob,2,USES_MEDDusesMNOB
@@ -675,6 +690,7 @@ C0181839,C0180112,USES,Microscopes,Controllers,medd,mnob,1,USES_MEDDusesMNOB
 C0181839,C0180392,USES,Microscopes,Detectors,medd,mnob,2,USES_MEDDusesMNOB
 C0181839,C0180459,USES,Microscopes,Disks (device),medd,mnob,1,USES_MEDDusesMNOB
 C0181839,C0180860,USES,Microscopes,Filters,medd,mnob,4,USES_MEDDusesMNOB
+C0181839,C0183185,USES,Microscopes,Screens (device),medd,mnob,3,USES_MEDDusesMNOB
 C0181839,C0441051,USES,Microscopes,Gloves,medd,mnob,1,USES_MEDDusesMNOB
 C0181839,C0598124,USES,Microscopes,charge coupled device camera,medd,mnob,4,USES_MEDDusesMNOB
 C0181839,C0870369,USES,Microscopes,Crafts (art),medd,mnob,1,USES_MEDDusesMNOB
@@ -699,6 +715,7 @@ C0181904,C0042655,USES,Monitor Device,videocassette,medd,mnob,3,USES_MEDDusesMNO
 C0181904,C0179038,USES,Monitor Device,"Analyzer, device",medd,mnob,1,USES_MEDDusesMNOB
 C0181904,C0179533,USES,Monitor Device,"Camera, device",medd,mnob,1,USES_MEDDusesMNOB
 C0181904,C0180392,USES,Monitor Device,Detectors,medd,mnob,1,USES_MEDDusesMNOB
+C0181904,C0183185,USES,Monitor Device,Screens (device),medd,mnob,1,USES_MEDDusesMNOB
 C0181904,C0183251,USES,Monitor Device,Shield,medd,mnob,1,USES_MEDDusesMNOB
 C0181904,C0282111,USES,Monitor Device,Internet,medd,mnob,1,USES_MEDDusesMNOB
 C0181904,C0936091,USES,Monitor Device,Annual Reports,medd,mnob,1,USES_MEDDusesMNOB
@@ -746,6 +763,7 @@ C0182400,C0180153,USES,Probes,Covers (device),medd,mnob,1,USES_MEDDusesMNOB
 C0182400,C0180392,USES,Probes,Detectors,medd,mnob,32,USES_MEDDusesMNOB
 C0182400,C0180860,USES,Probes,Filters,medd,mnob,3,USES_MEDDusesMNOB
 C0182400,C0181496,USES,Probes,Labels (device),medd,mnob,54,USES_MEDDusesMNOB
+C0182400,C0183185,USES,Probes,Screens (device),medd,mnob,1,USES_MEDDusesMNOB
 C0182400,C0183395,USES,Probes,Spectrometers,medd,mnob,2,USES_MEDDusesMNOB
 C0182400,C0237638,USES,Probes,Generators (Apparatus),medd,mnob,3,USES_MEDDusesMNOB
 C0182400,C0336757,USES,Probes,"Heater, device",medd,mnob,1,USES_MEDDusesMNOB
@@ -793,6 +811,7 @@ C0182576,C0336755,USES,Rack,"Oven, device (physical object)",medd,mnob,1,USES_ME
 C0182576,C0453964,USES,Rack,Sandals,medd,mnob,1,USES_MEDDusesMNOB
 C0182650,C0040364,USES,grab bars,Toilet Facilities,medd,mnob,1,USES_MEDDusesMNOB
 C0182913,C0042655,USES,Physiologic monitoring recorder,videocassette,medd,mnob,3,USES_MEDDusesMNOB
+C0182913,C0183185,USES,Physiologic monitoring recorder,Screens (device),medd,mnob,1,USES_MEDDusesMNOB
 C0182998,C0179196,USES,Resuscitator,"Bag, device",medd,mnob,7,USES_MEDDusesMNOB
 C0182998,C0180861,USES,Resuscitator,Air Filters,medd,mnob,1,USES_MEDDusesMNOB
 C0183086,C0037392,USES,sanitizers,Soap,medd,mnob,7,USES_MEDDusesMNOB
@@ -840,6 +859,7 @@ C0183210,C0179400,USES,sensor (device),Box,medd,mnob,1,USES_MEDDusesMNOB
 C0183210,C0179533,USES,sensor (device),"Camera, device",medd,mnob,6,USES_MEDDusesMNOB
 C0183210,C0180392,USES,sensor (device),Detectors,medd,mnob,1,USES_MEDDusesMNOB
 C0183210,C0181909,USES,sensor (device),Mounts,medd,mnob,1,USES_MEDDusesMNOB
+C0183210,C0183185,USES,sensor (device),Screens (device),medd,mnob,2,USES_MEDDusesMNOB
 C0183210,C0183628,USES,sensor (device),Stopcocks,medd,mnob,1,USES_MEDDusesMNOB
 C0183210,C0220819,USES,sensor (device),device aspects,medd,mnob,3,USES_MEDDusesMNOB
 C0183210,C0243112,USES,sensor (device),Appliance,medd,mnob,1,USES_MEDDusesMNOB
@@ -960,6 +980,7 @@ C0184047,C0557698,USES,Trap medical device,Door (physical object),medd,mnob,1,US
 C0184054,C0004914,USES,Tray - device,Bedding,medd,mnob,1,USES_MEDDusesMNOB
 C0184054,C0013812,USES,Tray - device,electrode,medd,mnob,1,USES_MEDDusesMNOB
 C0184054,C0014672,USES,Tray - device,Equipment,medd,mnob,1,USES_MEDDusesMNOB
+C0184054,C0181663,USES,Tray - device,LINER device,medd,mnob,1,USES_MEDDusesMNOB
 C0184054,C0336821,USES,Tray - device,Tank - military vehicle,medd,mnob,1,USES_MEDDusesMNOB
 C0184054,C1299950,USES,Tray - device,Litter,medd,mnob,24,USES_MEDDusesMNOB
 C0184066,C0030351,USES,Microplate,Paper,medd,mnob,1,USES_MEDDusesMNOB
@@ -1054,6 +1075,7 @@ C0441298,C0441107,USES,Single lumen tube,Cuffs device,medd,mnob,1,USES_MEDDusesM
 C0441299,C0441107,USES,Double lumen tube,Cuffs device,medd,mnob,1,USES_MEDDusesMNOB
 C0450042,C0179400,USES,Pinhole,Box,medd,mnob,1,USES_MEDDusesMNOB
 C0450240,C0180860,USES,Cassette (physical object),Filters,medd,mnob,9,USES_MEDDusesMNOB
+C0450240,C0183185,USES,Cassette (physical object),Screens (device),medd,mnob,3,USES_MEDDusesMNOB
 C0450240,C0557702,USES,Cassette (physical object),Window (physical object),medd,mnob,1,USES_MEDDusesMNOB
 C0454147,C0030351,USES,Cutout,Paper,medd,mnob,1,USES_MEDDusesMNOB
 C0454169,C0180392,USES,Collimator devices,Detectors,medd,mnob,6,USES_MEDDusesMNOB
@@ -1114,6 +1136,7 @@ C0727492,C0179586,USES,Plastic Bottle,Caps,medd,mnob,1,USES_MEDDusesMNOB
 C0728475,C1304639,USES,ultra,Radio,medd,mnob,1,USES_MEDDusesMNOB
 C0728990,C0020056,USES,Clinical Use Template,Housing,medd,mnob,1,USES_MEDDusesMNOB
 C0728990,C0179586,USES,Clinical Use Template,Caps,medd,mnob,1,USES_MEDDusesMNOB
+C0728990,C0183185,USES,Clinical Use Template,Screens (device),medd,mnob,1,USES_MEDDusesMNOB
 C0728990,C0220819,USES,Clinical Use Template,device aspects,medd,mnob,2,USES_MEDDusesMNOB
 C0728990,C0392223,USES,Clinical Use Template,"Lights, manufactured",medd,mnob,2,USES_MEDDusesMNOB
 C0728990,C0936091,USES,Clinical Use Template,Annual Reports,medd,mnob,1,USES_MEDDusesMNOB
@@ -1121,6 +1144,7 @@ C0728990,C1450053,USES,Clinical Use Template,Nanostructured Materials,medd,mnob,
 C0728990,C1547538,USES,Clinical Use Template,Facility,medd,mnob,1,USES_MEDDusesMNOB
 C0728990,C1948062,USES,Clinical Use Template,Copy (object),medd,mnob,2,USES_MEDDusesMNOB
 C0740039,C0001712,USES,administration devices,Aerosols,medd,mnob,2,USES_MEDDusesMNOB
+C0740039,C0183185,USES,administration devices,Screens (device),medd,mnob,1,USES_MEDDusesMNOB
 C0740043,C0014672,USES,medical supplies,Equipment,medd,mnob,5,USES_MEDDusesMNOB
 C0740043,C0033611,USES,medical supplies,Protective Clothing,medd,mnob,1,USES_MEDDusesMNOB
 C0740043,C0036971,USES,medical supplies,Ships,medd,mnob,1,USES_MEDDusesMNOB
@@ -1209,6 +1233,7 @@ C1139930,C0039717,USES,Device Plate,Textiles,medd,mnob,2,USES_MEDDusesMNOB
 C1139930,C0179038,USES,Device Plate,"Analyzer, device",medd,mnob,10,USES_MEDDusesMNOB
 C1139930,C0180459,USES,Device Plate,Disks (device),medd,mnob,3,USES_MEDDusesMNOB
 C1139930,C0180860,USES,Device Plate,Filters,medd,mnob,17,USES_MEDDusesMNOB
+C1139930,C0183185,USES,Device Plate,Screens (device),medd,mnob,4,USES_MEDDusesMNOB
 C1139930,C0184370,USES,Device Plate,Washing machines,medd,mnob,9,USES_MEDDusesMNOB
 C1139930,C0336756,USES,Device Plate,Microwave oven,medd,mnob,1,USES_MEDDusesMNOB
 C1139930,C0336779,USES,Device Plate,Machine,medd,mnob,1,USES_MEDDusesMNOB
@@ -1394,6 +1419,7 @@ C2363670,C1519382,USES,developers,Health Smart Cards,medd,mnob,1,USES_MEDDusesMN
 C2363670,C1709016,USES,developers,Microarray,medd,mnob,1,USES_MEDDusesMNOB
 C2699315,C0180860,USES,Smoke Evacuator,Filters,medd,mnob,4,USES_MEDDusesMNOB
 C2700619,C0030351,USES,Test Strip (device),Paper,medd,mnob,1,USES_MEDDusesMNOB
+C2700619,C0183185,USES,Test Strip (device),Screens (device),medd,mnob,1,USES_MEDDusesMNOB
 C2717996,C0336779,USES,Mosquito Nets,Machine,medd,mnob,1,USES_MEDDusesMNOB
 C2717996,C1547538,USES,Mosquito Nets,Facility,medd,mnob,1,USES_MEDDusesMNOB
 C2717999,C0004916,USES,Insecticide-Treated Bednets,Beds,medd,mnob,1,USES_MEDDusesMNOB
@@ -1411,6 +1437,7 @@ C2720748,C0453946,USES,Hoods,Coat (physical object),medd,mnob,1,USES_MEDDusesMNO
 C2720748,C0567365,USES,Hoods,Surgical material,medd,mnob,1,USES_MEDDusesMNOB
 C2720748,C1304639,USES,Hoods,Radio,medd,mnob,1,USES_MEDDusesMNOB
 C2945625,C0013812,USES,Feeding tube,electrode,medd,mnob,1,USES_MEDDusesMNOB
+C3164607,C0183185,USES,Videolaryngoscope,Screens (device),medd,mnob,2,USES_MEDDusesMNOB
 C3164607,C0453962,USES,Videolaryngoscope,Trainers,medd,mnob,1,USES_MEDDusesMNOB
 C3179180,C0179038,USES,Fermentors,"Analyzer, device",medd,mnob,1,USES_MEDDusesMNOB
 C3179180,C0180112,USES,Fermentors,Controllers,medd,mnob,3,USES_MEDDusesMNOB

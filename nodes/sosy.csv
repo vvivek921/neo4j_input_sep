@@ -4,7 +4,6 @@ C0000729,sosy,Abdominal Cramps
 C0000737,sosy,Abdominal Pain
 C0001416,sosy,Adenitis
 C0001726,sosy,Affective Symptoms
-C0002020,sosy,Alexithymia
 C0002962,sosy,Angina Pectoris
 C0003129,sosy,Anoxemia
 C0003564,sosy,Aphonia
@@ -47,16 +46,15 @@ C0015411,sosy,Eye Manifestations
 C0015468,sosy,Facial Pain
 C0015644,sosy,Muscular fasciculation
 C0015672,sosy,Fatigue
-C0015676,sosy,Mental Fatigue
 C0015967,sosy,Fever
 C0015970,sosy,Fever of Unknown Origin
 C0016199,sosy,Flank Pain
 C0016204,sosy,Flatulence
 C0016382,sosy,Flushing
+C0017650,sosy,Globus Sensation
 C0017672,sosy,Glossalgia
 C0018520,sosy,Halitosis
 C0018681,sosy,Headache
-C0018772,sosy,"Hearing Loss, Partial"
 C0018834,sosy,Heartburn
 C0018926,sosy,Hematemesis
 C0018989,sosy,Hemiparesis
@@ -167,6 +165,7 @@ C0184567,sosy,Acute onset pain
 C0221100,sosy,Hangover from any Alcohol or Other Drugs substance
 C0221150,sosy,Swallowing painful
 C0221151,sosy,Projectile vomiting
+C0221161,sosy,Shallow breathing
 C0221166,sosy,Paraparesis
 C0221170,sosy,Muscular stiffness
 C0221200,sosy,Koplik spots
@@ -196,7 +195,6 @@ C0231805,sosy,"Dyspnea, class III"
 C0231807,sosy,Dyspnea on exertion
 C0231813,sosy,Meningitic respiration
 C0231818,sosy,Airway constriction
-C0231829,sosy,Gas clearance
 C0231840,sosy,Apneusis
 C0231852,sosy,Paradoxical respiration
 C0231857,sosy,Vesicular breathing
@@ -213,7 +211,6 @@ C0232285,sosy,Dull chest pain
 C0232286,sosy,Precordial pain
 C0232289,sosy,Radiating chest pain
 C0232292,sosy,Chest tightness
-C0232353,sosy,Acute vascular insufficiency
 C0232462,sosy,Decrease in appetite
 C0232487,sosy,Abdominal discomfort
 C0232491,sosy,Chronic abdominal pain
@@ -221,7 +218,6 @@ C0232492,sosy,Upper abdominal pain
 C0232493,sosy,Epigastric pain
 C0232495,sosy,Lower abdominal pain
 C0232498,sosy,Abdominal tenderness
-C0232503,sosy,Umbilical bleeding
 C0232517,sosy,Gurgling
 C0232597,sosy,Acute vomiting
 C0232598,sosy,Chronic vomiting
@@ -254,7 +250,6 @@ C0234166,sosy,Hyperexplexia
 C0234178,sosy,Kernig's sign
 C0234179,sosy,Brudzinski's sign
 C0234213,sosy,Sensory denervation disorder
-C0234225,sosy,Absence of pain
 C0234228,sosy,Superficial pain
 C0234229,sosy,Deep pain
 C0234230,sosy,"Pain, Burning"
@@ -340,7 +335,6 @@ C0241032,sosy,shin pain
 C0241144,sosy,Petechiae of skin
 C0241235,sosy,Purulent sputum
 C0241237,sosy,Difficulty standing
-C0241353,sosy,Testicular mass
 C0241372,sosy,thigh numbness
 C0241374,sosy,Thigh pain
 C0241705,sosy,Difficulty passing urine
@@ -355,7 +349,6 @@ C0263355,sosy,Erythema scarlatiniforme
 C0264272,sosy,Purulent rhinitis
 C0264274,sosy,Catarrhal nasal discharge
 C0267169,sosy,Gastric tympany
-C0270327,sosy,Bedwetting
 C0270697,sosy,Post-Lumbar Puncture Headache
 C0270790,sosy,Quadriparesis
 C0271188,sosy,Visual halos (disorder)
@@ -381,13 +374,13 @@ C0278234,sosy,Cherry red spot
 C0281856,sosy,Generalized aches and pains
 C0282005,sosy,Swelling of scrotum
 C0282666,sosy,Very Low Birth Weight
+C0302539,sosy,spells (neurological symptom)
 C0302540,sosy,Generalized abdominal tenderness
 C0302851,sosy,CUPULOLITHIASIS
 C0312416,sosy,Morning Sickness
 C0312422,sosy,Blackout - symptom
 C0314719,sosy,Dryness of eye
 C0332566,sosy,Maculopapule
-C0332579,sosy,Lividity
 C0332606,sosy,Elfin facies
 C0333240,sosy,Acute edema
 C0333243,sosy,Pitting edema
@@ -413,7 +406,6 @@ C0392701,sosy,giddy mood
 C0401020,sosy,Intra-abdominal collection
 C0401149,sosy,Chronic constipation
 C0401157,sosy,Intermittent vomiting
-C0410918,sosy,Fetal tachycardia
 C0422833,sosy,ENT symptoms
 C0422879,sosy,CNS symptom
 C0422943,sosy,Visual symptoms
@@ -422,7 +414,6 @@ C0423365,sosy,Vitreous inflammatory infiltrate
 C0423575,sosy,Altered sensation of skin
 C0423622,sosy,Parietal headache
 C0423641,sosy,Left Flank Pain
-C0423684,sosy,Thoracic back pain
 C0423717,sosy,Neurogenic pain
 C0423729,sosy,Chest pain on breathing
 C0423773,sosy,Scaly skin
@@ -455,7 +446,6 @@ C0452143,sosy,"Paraplegia, Flaccid"
 C0455270,sosy,Sharp pain
 C0457950,sosy,Acute low back pain
 C0458118,sosy,Total body pain syndrome
-C0458224,sosy,Piriformis Muscle Syndrome
 C0473235,sosy,Painless hematuria
 C0473240,sosy,Chemical hematuria
 C0474368,sosy,Labor Pain
@@ -492,10 +482,10 @@ C0522046,sosy,Cough suppression
 C0522051,sosy,Acute chest pain
 C0522061,sosy,Localized abdominal pain
 C0522070,sosy,Pancreatic symptom
+C0522179,sosy,Death anxiety
 C0522251,sosy,Sinus pain
 C0522365,sosy,Severe vertigo
 C0525041,sosy,Neurobehavioral Manifestations
-C0541798,sosy,Early Awakening
 C0541828,sosy,Left sided chest pain
 C0541976,sosy,gas in stomach
 C0542346,sosy,Pimples
@@ -504,10 +494,9 @@ C0548823,sosy,gastrointestinal distress
 C0549297,sosy,ear swelling
 C0553668,sosy,Labored breathing
 C0555056,sosy,Bloodstained sputum
-C0558143,sosy,Macerated skin (finding)
 C0559687,sosy,Congestion of throat
+C0560024,sosy,Swelling of eyelid
 C0562483,sosy,Persistent cough
-C0563273,sosy,General health deterioration
 C0563275,sosy,Right sided chest pain
 C0564823,sosy,Pain in right lower limb
 C0574002,sosy,Edema of foot (finding)
@@ -516,7 +505,6 @@ C0574785,sosy,Lower Urinary Tract Symptoms
 C0575090,sosy,Equilibration disorder
 C0577978,sosy,Mucoid sputum
 C0577979,sosy,Frothy sputum
-C0578026,sosy,Body weight problem
 C0578057,sosy,Right hypochondrial pain
 C0578454,sosy,Neck swelling
 C0586407,sosy,Skin symptom
@@ -531,7 +519,6 @@ C0687681,sosy,Feeling feverish
 C0687713,sosy,Gastrointestinal Pain
 C0694551,sosy,Right lower quadrant pain
 C0699896,sosy,Acute back pain
-C0700078,sosy,Decreased tendon reflex
 C0700184,sosy,Throat irritation
 C0700200,sosy,Presyncope
 C0740396,sosy,chest burning
@@ -554,6 +541,7 @@ C0743724,sosy,RETROORBITAL PAIN
 C0744633,sosy,Acute headache
 C0744648,sosy,headache persistent
 C0745417,sosy,ischemic pain
+C0745581,sosy,knee symptoms
 C0746668,sosy,muscle pain chronic
 C0746674,sosy,Generalized muscle weakness
 C0746759,sosy,nasal drainage

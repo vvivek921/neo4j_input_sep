@@ -64,6 +64,7 @@ C0009262,C1320716,INHIBITS,colchicine,Cardiovascular event,orch,fndg,2,INHIBITS_
 C0009262,C3890735,INHIBITS,colchicine,Complete Response with Incomplete Platelet Recovery,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0010583,C1519215,INHIBITS,cyclophosphamide,Secondary Lesion,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0010583,C3540840,INHIBITS,cyclophosphamide,Sign or Symptom,orch,fndg,1,INHIBITS_ORCHinhbFNDG
+C0011501,C0475440,INHIBITS,Deoxyglucose,Tumor size,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0011777,C1560209,INHIBITS,dexamethasone,"Hemolysis, CTCAE",orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0011777,C3687252,INHIBITS,dexamethasone,Eosinophilic inflammation,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0011777,C3842672,INHIBITS,dexamethasone,Day 7,orch,fndg,1,INHIBITS_ORCHinhbFNDG
@@ -252,6 +253,7 @@ C0060197,C1833334,INHIBITS,Fenretinide,Early-onset,orch,fndg,1,INHIBITS_ORCHinhb
 C0060197,C4055506,INHIBITS,Fenretinide,Accumulation,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0060583,C0277610,INHIBITS,flupirtine,Natural death,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0060657,C0349790,INHIBITS,formoterol,Exacerbation of asthma,orch,fndg,1,INHIBITS_ORCHinhbFNDG
+C0060794,C0231298,INHIBITS,fucoidan,Increased stress,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0060794,C0521654,INHIBITS,fucoidan,Neurologic Deficits,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0061751,C0151905,INHIBITS,glycyrrhizic acid,Alanine Aminotransferase Increased,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0061751,C1560209,INHIBITS,glycyrrhizic acid,"Hemolysis, CTCAE",orch,fndg,1,INHIBITS_ORCHinhbFNDG
@@ -285,6 +287,7 @@ C0074089,C0015663,INHIBITS,savlon,Fasting,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0074247,C0033213,INHIBITS,secoisolariciresinol,Problem,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0075193,C4055506,INHIBITS,Staurosporine,Accumulation,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0075857,C0750484,INHIBITS,tauroursodeoxycholic acid,Confirmation,orch,fndg,1,INHIBITS_ORCHinhbFNDG
+C0076080,C0475440,INHIBITS,temozolomide,Tumor size,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0076080,C1844596,INHIBITS,temozolomide,Spheroids,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0076316,C4055506,INHIBITS,tetrandrine,Accumulation,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0076502,C4699623,INHIBITS,thioperamide,High activity,orch,fndg,1,INHIBITS_ORCHinhbFNDG
@@ -308,10 +311,10 @@ C0113293,C1848465,INHIBITS,dexmedetomidine,Agitated delirium,orch,fndg,1,INHIBIT
 C0113293,C3890735,INHIBITS,dexmedetomidine,Complete Response with Incomplete Platelet Recovery,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0115685,C0429208,INHIBITS,elliptinium,Nasal resistance,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0126174,C0456181,INHIBITS,losartan,Right ventricular systolic pressure level,orch,fndg,1,INHIBITS_ORCHinhbFNDG
-C0126347,C0043094,INHIBITS,LY 255582,Weight Gain,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0128513,C0428642,INHIBITS,milrinone,Pulmonary artery pressure,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0128513,C0474395,INHIBITS,milrinone,Behavior showing increased motor activity,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0134258,C0150312,INHIBITS,xylometazoline hydrochloride,Present,orch,fndg,1,INHIBITS_ORCHinhbFNDG
+C0144576,C0475440,INHIBITS,paclitaxel,Tumor size,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0145745,C3840880,INHIBITS,1-phenyl-2-decanoylamino-3-morpholino-1-propanol,Traffic,orch,fndg,4,INHIBITS_ORCHinhbFNDG
 C0146196,C3540840,INHIBITS,toltrazuril,Sign or Symptom,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0162969,C0150312,INHIBITS,chitosan,Present,orch,fndg,1,INHIBITS_ORCHinhbFNDG
@@ -331,6 +334,7 @@ C0216660,C0332149,INHIBITS,zanamivir,Possible,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0216660,C0517627,INHIBITS,zanamivir,Infection status,orch,fndg,2,INHIBITS_ORCHinhbFNDG
 C0216784,C4055506,INHIBITS,valsartan,Accumulation,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0242209,C0424589,INHIBITS,Sugars,Vitality,orch,fndg,1,INHIBITS_ORCHinhbFNDG
+C0246415,C0475440,INHIBITS,docetaxel,Tumor size,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0246904,C0456261,INHIBITS,levosimendan,Pulmonary Vascular Resistance,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0248719,C3275700,INHIBITS,telmisartan,Hepatic inflammation,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C0249458,C4554665,INHIBITS,valacyclovir,"Cytomegalovirus Infection Reactivation, CTCAE",orch,fndg,1,INHIBITS_ORCHinhbFNDG
@@ -416,7 +420,6 @@ C1176309,C0439662,INHIBITS,bortezomib,Immune,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C1257954,C4055506,INHIBITS,Cyclooxygenase 2 Inhibitors,Accumulation,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C1257987,C3890735,INHIBITS,Thiazolidinediones,Complete Response with Incomplete Platelet Recovery,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C1509960,C0205160,INHIBITS,cinnamon bark,Negative,orch,fndg,1,INHIBITS_ORCHinhbFNDG
-C1530412,C0474395,INHIBITS,"4-benzyl-2-methyl-1,2,4-thiadiazolidine-3,5-dione",Behavior showing increased motor activity,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C1565750,C4699604,INHIBITS,sitagliptin,<12 months,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C1566588,C4289767,INHIBITS,SL0101,Colonization,orch,fndg,1,INHIBITS_ORCHinhbFNDG
 C1567769,C0333574,INHIBITS,desmethylicaritin,Fatty deposition,orch,fndg,1,INHIBITS_ORCHinhbFNDG

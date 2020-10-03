@@ -1,4 +1,5 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
+C0000464,C2246761,DISRUPTS,docosahexaenoate,cholesterol efflux,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0000473,C0596144,DISRUPTS,4-aminobenzoic acid,auxotrophy,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0000966,C1159339,DISRUPTS,acetaldehyde,Protein Secretion,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0000970,C0037083,DISRUPTS,acetaminophen,Signal Transduction,orch,celf,1,DISRUPTS_ORCHdrptCELF
@@ -215,7 +216,6 @@ C0023810,C2753904,DISRUPTS,Lipopolysaccharides,bicellular tight junction assembl
 C0023828,C0008018,DISRUPTS,Liposomes,Chemotaxis,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0023828,C0031308,DISRUPTS,Liposomes,Phagocytosis,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0023828,C1523936,DISRUPTS,Liposomes,cellular biosynthetic process,orch,celf,1,DISRUPTS_ORCHdrptCELF
-C0024728,C0032176,DISRUPTS,Mannich Bases,Platelet aggregation,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0024730,C2610947,DISRUPTS,mannitol,mucus secretion,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0025153,C0004391,DISRUPTS,mefloquine,Autophagy,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0025242,C0042774,DISRUPTS,memantine,Virus Replication,orch,celf,1,DISRUPTS_ORCHdrptCELF
@@ -445,6 +445,7 @@ C0068788,C0042774,DISRUPTS,nitazoxanide,Virus Replication,orch,celf,3,DISRUPTS_O
 C0069562,C0008018,DISRUPTS,rebamipide,Chemotaxis,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0069690,C1655807,DISRUPTS,ovalicin,endothelial cell proliferation,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0069963,C1159884,DISRUPTS,palmatine,fat cell differentiation,orch,celf,1,DISRUPTS_ORCHdrptCELF
+C0069971,C4691060,DISRUPTS,palmitoyl glycerol,export across plasma membrane,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0070895,C0042774,DISRUPTS,foscarnet,Virus Replication,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0071095,C1154599,DISRUPTS,pinocembrin,quorum sensing,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0071097,C1155046,DISRUPTS,pioglitazone,T-Cell Proliferation,orch,celf,1,DISRUPTS_ORCHdrptCELF
@@ -650,6 +651,7 @@ C0664962,C0042774,DISRUPTS,rocaglamide,Virus Replication,orch,celf,1,DISRUPTS_OR
 C0666764,C0042774,DISRUPTS,GS 4071,Virus Replication,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0672292,C1157569,DISRUPTS,"2,4,3',5'-tetrahydroxystilbene",viral translation,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0672708,C0162638,DISRUPTS,vorinostat,Apoptosis,orch,celf,1,DISRUPTS_ORCHdrptCELF
+C0673470,C1326169,DISRUPTS,istradefylline,microglial cell activation,orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0674396,C0312860,DISRUPTS,SB 225002,"Neutrophil migration, function",orch,celf,1,DISRUPTS_ORCHdrptCELF
 C0674432,C0010813,DISRUPTS,lopinavir,Cytokinesis,orch,celf,2,DISRUPTS_ORCHdrptCELF
 C0674432,C0042774,DISRUPTS,lopinavir,Virus Replication,orch,celf,4,DISRUPTS_ORCHdrptCELF

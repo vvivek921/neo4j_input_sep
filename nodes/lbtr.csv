@@ -3,11 +3,13 @@ C0015562,lbtr,False Negative Reactions
 C0015563,lbtr,False Positive Reactions
 C0019029,lbtr,Hemoglobin concentration result
 C0019699,lbtr,HIV Seropositivity
+C0032739,lbtr,Mantoux: positive
 C0034917,lbtr,Reduced Glutathione
 C0036810,lbtr,Serum iron level result
 C0042766,lbtr,Viruria
 C0079356,lbtr,DNA Fingerprints
 C0149708,lbtr,Hepatitis B Surface Antibody Positive
+C0149709,lbtr,Hepatitis B surface antigen positive
 C0205558,lbtr,False Negative
 C0231956,lbtr,Minimum volume
 C0231967,lbtr,Regional lung volume
@@ -20,7 +22,6 @@ C0241988,lbtr,Monoclonal Band
 C0242089,lbtr,Serology positive
 C0262506,lbtr,Hepatitis B core antibody positive
 C0279759,lbtr,progesterone receptor positive
-C0312830,lbtr,Normal erythrocyte production
 C0391839,lbtr,Partial pressure CO2 result
 C0427405,lbtr,Ferritin level
 C0427602,lbtr,DDimer level
@@ -28,7 +29,6 @@ C0427713,lbtr,Specimen related microbial interpretation
 C0427728,lbtr,Blood concentration results
 C0427850,lbtr,Presence of cells
 C0427861,lbtr,Human cells
-C0427905,lbtr,Calcium bilirubinate crystal
 C0428094,lbtr,Gross pathology
 C0428196,lbtr,Bicarbonate level - finding
 C0428212,lbtr,Finding of drug level
@@ -40,13 +40,13 @@ C0428536,lbtr,Immunoglobulin level - finding
 C0428548,lbtr,Glucose level - finding
 C0428554,lbtr,Finding of blood glucose level
 C0428575,lbtr,Copper level
-C0428643,lbtr,Pulmonary artery systolic pressure
 C0428760,lbtr,Intensity change
 C0428763,lbtr,Temporal resolution
 C0428876,lbtr,Intracardiac pressure
 C0429243,lbtr,Small intestine permeability
 C0429896,lbtr,Type 4 hypersensitivity response
 C0429899,lbtr,Flare reaction
+C0438215,lbtr,Laboratory test result abnormal
 C0455860,lbtr,Right ventricular mass
 C0456170,lbtr,Left atrial pressure
 C0456984,lbtr,Test Result
@@ -61,6 +61,8 @@ C0728819,lbtr,Factor XII level
 C0741132,lbtr,antibody positive
 C0849535,lbtr,blood test result
 C0849541,lbtr,skin test results
+C0852859,lbtr,blood culture negative
+C0854100,lbtr,nitrogen balance negative
 C0855852,lbtr,antibody (non-specific) negative
 C0855856,lbtr,Negative Skin Test
 C0878602,lbtr,alanine transaminase levels raised (plasma or serum)
@@ -69,9 +71,6 @@ C1254595,lbtr,laboratory results
 C1261430,lbtr,Fasting blood sugar result
 C1271650,lbtr,Antimicrobial activity
 C1275604,lbtr,Serum lactate dehydrogenase level elevated
-C1291747,lbtr,Increased estrogen level
-C1295694,lbtr,Decreased serotonin level
-C1306872,lbtr,Granulocyte count below reference range
 C1318330,lbtr,Urine albumin:creatinine ratio result
 C1335386,lbtr,Peripheral Blood Eosinophilia
 C1441420,lbtr,Serum.total

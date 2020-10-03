@@ -90,6 +90,7 @@ C0018273,patf,Growth Disorders
 C0018924,patf,Hemarthrosis
 C0018944,patf,Hematoma
 C0018946,patf,"Hematoma, Subdural"
+C0019064,patf,Hemopericardium
 C0019065,patf,Hemoperitoneum
 C0019080,patf,Hemorrhage
 C0019086,patf,Hemorrhagic ascites
@@ -155,12 +156,14 @@ C0028949,patf,Oligomenorrhea
 C0029163,patf,Oral Hemorrhage
 C0029396,patf,Heterotopic Ossification
 C0029445,patf,Bone necrosis
+C0029461,patf,Osteoradionecrosis
 C0030660,patf,Pathologic Processes
 C0030922,patf,Peptic Ulcer Hemorrhage
 C0031154,patf,Peritonitis
 C0031526,patf,Philadelphia Chromosome
 C0031542,patf,Phlebitis
 C0031557,patf,Phlegmon
+C0032044,patf,Placenta Accreta
 C0032045,patf,Placenta Disorders
 C0032046,patf,Placenta Previa
 C0032776,patf,Postmenopausal bleeding
@@ -187,6 +190,7 @@ C0035304,patf,Retinal Degeneration
 C0035320,patf,Retinal Neovascularization
 C0035357,patf,Retroperitoneal fibrosis
 C0035410,patf,Rhabdomyolysis
+C0035619,patf,"Ventricular Outflow Obstruction, Right"
 C0035624,patf,Rigor Mortis
 C0035956,patf,"Rupture, Spontaneous"
 C0036429,patf,Sclerosis
@@ -245,11 +249,11 @@ C0149777,patf,Abscess of skin AND/OR subcutaneous tissue
 C0149854,patf,Cerebellar hemorrhage
 C0149863,patf,Sigmoid volvulus
 C0149889,patf,Anorectal fistula
-C0150079,patf,Sleep pattern disturbance
 C0151205,patf,Periorbital edema
 C0151521,patf,Bacterial resistance
 C0151526,patf,Premature Birth
 C0151571,patf,Corneal lesion
+C0151601,patf,Conjunctival edema
 C0151603,patf,Anasarca
 C0151609,patf,Edema of scrotum
 C0151610,patf,Edema of the tongue
@@ -273,13 +277,11 @@ C0151753,patf,male lactation
 C0151763,patf,Liver damage
 C0151799,patf,Skin necrosis
 C0151811,patf,Subcutaneous nodule
-C0151891,patf,Retinal depigmentation
 C0151942,patf,Arterial thrombosis
 C0151946,patf,Pulmonary thrombosis
 C0152154,patf,Prolonged labor
 C0152156,patf,Obstructed labor
 C0152158,patf,Failure of lactation
-C0152173,patf,Ventricular Flutter
 C0152254,patf,Fatty degeneration
 C0152448,patf,whitlow
 C0154828,patf,Traction detachment of retina
@@ -287,7 +289,6 @@ C0155003,patf,"Blindness, Transient"
 C0155268,patf,Orbital hemorrhage
 C0155676,patf,Pulmonary artery aneurysm
 C0155921,patf,Tracheostomy complication
-C0156339,patf,Ulceration of vulva
 C0156395,patf,Hypertrophy of vulva
 C0158931,patf,"Severe birth asphyxia, APGAR 0-3"
 C0161815,patf,Central nervous system complication
@@ -298,6 +299,7 @@ C0161820,patf,Urinary complication
 C0161972,patf,Complication of the puerperium
 C0162154,patf,Atrophic scar
 C0162285,patf,Edema of eyelid
+C0162291,patf,Retinal ischemia
 C0162351,patf,Contact hypersensitivity
 C0162633,patf,Viral Shedding
 C0162834,patf,Hyperpigmentation
@@ -331,13 +333,13 @@ C0232342,patf,Decreased vascular flow
 C0232352,patf,Vascular insufficiency
 C0232355,patf,Hypostasis
 C0232483,patf,Reflux
+C0232503,patf,Umbilical bleeding
 C0232519,patf,Abnormal deglutition
 C0232841,patf,Bladder dysfunction
 C0232910,patf,Teratogenesis
 C0232977,patf,Passive discharge of semen from urethra
 C0232981,patf,Arrest of spermatogenesis
 C0233105,patf,Complete Abortion
-C0234090,patf,Abnormal nerve conduction
 C0235029,patf,neurological complication
 C0235063,patf,Respiratory Depression
 C0235097,patf,withdrawal seizures
@@ -399,26 +401,24 @@ C0243088,patf,sequelae aspects
 C0259768,patf,Wound dehiscence
 C0262431,patf,Compression fracture of vertebral column
 C0262627,patf,Seroma
-C0262662,patf,Ventricular bigeminy
 C0263008,patf,Fibrosis of the skin
 C0263833,patf,Hip joint effusion
 C0264129,patf,Subperiosteal hemorrhage
 C0264306,patf,Laryngeal Obstruction
 C0264897,patf,Accessory Atrioventricular Bundle (disorder)
-C0264913,patf,Left posterior fascicular block
-C0264914,patf,Bifascicular block
 C0264940,patf,Hemorrhage of blood vessel
 C0264956,patf,Atheroma
 C0264978,patf,Embolic infarction
 C0264995,patf,Occlusion of artery (disorder)
 C0265024,patf,Capillary hemorrhage
 C0265076,patf,Meningeal hemorrhage
-C0265116,patf,Chronic cerebral ischemia
 C0266648,patf,Blighted ovum
+C0266762,patf,Placenta previa marginalis
 C0266763,patf,Placenta previa centralis
 C0266766,patf,Placenta Percreta
 C0266811,patf,Acute lower gastrointestinal hemorrhage
 C0267373,patf,Intestinal hemorrhage NOS
+C0267412,patf,Mesenteric Venous Thrombosis
 C0267516,patf,Atony of colon
 C0267716,patf,Incisional hernia
 C0268000,patf,Body fluid retention
@@ -429,6 +429,7 @@ C0268179,patf,"Lactase Deficiency, Congenital"
 C0269221,patf,Edema of vulva
 C0269388,patf,Miscarriage in first trimester
 C0269596,patf,Hemorrhagic complication of pregnancy
+C0269658,patf,Mild pre-eclampsia
 C0269661,patf,Vomiting of pregnancy
 C0269800,patf,Amniotic fluid leaking
 C0269825,patf,Shoulder Dystocia
@@ -442,6 +443,7 @@ C0271413,patf,Hematoma of pinna
 C0272284,patf,Dilutional thrombocytopenia
 C0274312,patf,Graft complications
 C0274317,patf,Complication of catheter
+C0274404,patf,Postoperative intra-abdominal abscess
 C0274408,patf,Septicemia postoperative
 C0274411,patf,Subcutaneous emphysema resulting from a procedure
 C0274435,patf,Transfusion Reaction
@@ -472,6 +474,7 @@ C0312854,patf,Extravascular Hemolysis
 C0332448,patf,Infiltration
 C0332534,patf,Induration
 C0332567,patf,Torus
+C0332743,patf,Delayed union of fracture
 C0333106,patf,Bleeding varices
 C0333119,patf,Inspissation
 C0333138,patf,Stasis
@@ -659,7 +662,6 @@ C0341745,patf,Postoperative retention of urine
 C0341750,patf,Bladder hemorrhage
 C0341934,patf,Transient hypertension of pregnancy
 C0341950,patf,Severe pre-eclampsia
-C0342218,patf,Excessive glucagon secretion
 C0342299,patf,Poor glycemic control
 C0342300,patf,Chronic hyperglycemia
 C0342301,patf,Acute hyperglycemia
@@ -673,13 +675,11 @@ C0342662,patf,Osmotic disturbance
 C0342919,patf,Essential fatty acid deficiency
 C0342924,patf,Trace element deficiency
 C0343067,patf,Delayed pressure urticaria
-C0343166,patf,Knee joint effusion
 C0345468,patf,Transplanted organ rejection
 C0348024,patf,Thyroid dysfunction
 C0348822,patf,Drug-induced interstitial lung disorder
 C0349077,patf,Pericardial effusion - noninflammatory
 C0349506,patf,Photosensitivity of skin
-C0349702,patf,Corneal Scar
 C0349725,patf,Graft infection
 C0349781,patf,Hibernating myocardium
 C0376297,patf,Cardiac Death
@@ -694,9 +694,9 @@ C0392618,patf,Postoperative infection
 C0392676,patf,Hyperpyrexia
 C0392687,patf,Abnormal intestinal absorption
 C0392689,patf,Overhydration
-C0392703,patf,Shakes
 C0392707,patf,Atopy
 C0392708,patf,Ineffective erythropoiesis
+C0393571,patf,Multiple System Atrophy
 C0393595,patf,Drug-induced dystonia
 C0394019,patf,Brainstem death
 C0398353,patf,Hypercapnic respiratory failure
@@ -704,12 +704,12 @@ C0398588,patf,Drug-induced eosinophilia
 C0398648,patf,Posttransfusion purpura
 C0398798,patf,Drug-induced immunodeficiency
 C0399419,patf,Intrinsic staining of tooth
+C0399551,patf,Impacted third molar tooth
 C0400969,patf,Liver transplant failure
 C0400997,patf,Leakage of bile
 C0401084,patf,Patent processus vaginalis
 C0404585,patf,Unexplained infertility
 C0404844,patf,Non-viable pregnancy
-C0410574,patf,Synovial Hypertrophy
 C0413402,patf,Reaction to Antibiotics
 C0413534,patf,Vaccines adverse reaction
 C0424786,patf,Postoperative fever
@@ -735,7 +735,6 @@ C0472388,patf,Cytotoxic Cerebral Edema
 C0473120,patf,Intra-abdominal hematoma
 C0473390,patf,Threatened Preterm Labor
 C0473485,patf,Maternal distress
-C0475714,patf,Tracheobronchial hemorrhage
 C0475737,patf,Perinatal subependymal hemorrhage
 C0475765,patf,Swollen nasal mucosa (finding)
 C0476474,patf,persistent fever
@@ -744,6 +743,7 @@ C0495385,patf,Intrauterine hypoxia
 C0497131,patf,bleeding/hemorrhage nos
 C0520547,patf,Poor peripheral circulation
 C0520561,patf,Small intestinal hemorrhage
+C0520723,patf,Periorbital hematoma
 C0520730,patf,Optic nerve infarction
 C0520817,patf,Physical disability
 C0520863,patf,Diastolic dysfunction
@@ -757,6 +757,7 @@ C0521174,patf,Microcalcification
 C0521195,patf,Focal fibrosis
 C0521481,patf,Mucous membrane edema
 C0521540,patf,Brain stem hemorrhage
+C0521595,patf,Duodenal hemorrhage
 C0521596,patf,Jejunal hemorrhage
 C0521604,patf,Inflammatory diarrhea
 C0521772,patf,Purulent drainage from external ear canal
@@ -780,7 +781,6 @@ C0544794,patf,Perforated diverticulitis
 C0544862,patf,Neurocutaneous melanosis
 C0544864,patf,lead line
 C0546319,patf,Left coronary artery occlusion
-C0546474,patf,Chorangiosis
 C0546817,patf,Fluid overload
 C0549124,patf,Arterial embolism
 C0549152,patf,Nail damage
@@ -801,6 +801,7 @@ C0553697,patf,Granulomatous inflammation
 C0553980,patf,Endomyocardial Fibrosis
 C0553987,patf,Arterial air embolus
 C0554103,patf,Intestinal malabsorption of fat
+C0554393,patf,Placental infarct
 C0558360,patf,Aortic thromboembolism
 C0558429,patf,Postoperative fistula
 C0559477,patf,Perinatal asphyxia
@@ -810,8 +811,8 @@ C0559938,patf,Perforation of ileum
 C0565653,patf,Immunization reaction
 C0566748,patf,Disorder of umbilical cord
 C0574733,patf,Rubelliform eruption
+C0576995,patf,Pharyngeal Hemorrhage
 C0577628,patf,Latex allergy
-C0578437,patf,Ischemic foot
 C0578735,patf,Axillary lymphadenopathy
 C0581385,patf,Calcified lymph nodes
 C0581394,patf,Swelling of lower limb
@@ -884,9 +885,9 @@ C0747264,patf,parenchymal hemorrhage
 C0747772,patf,Postpartum Complication
 C0748128,patf,multiple Pulmonary Embolisms
 C0748137,patf,pulmonary hemorrhage idiopathic
+C0748428,patf,Thrombus of right atrium
 C0749095,patf,"Hematoma, Subdural, Chronic"
 C0749098,patf,"Hematoma, Subdural, Acute"
-C0749155,patf,Supraclavicular lymphadenopathy
 C0749225,patf,Systolic dysfunction
 C0750020,patf,uterine bleeding heavy
 C0751530,patf,"Subarachnoid Hemorrhage, Aneurysmal"
@@ -909,6 +910,7 @@ C0854375,patf,mucosal hemorrhage
 C0854381,patf,Genital hemorrhage
 C0854457,patf,Direct disease transmission
 C0854460,patf,Indirect Transmission
+C0856722,patf,Chronic pulmonary embolism
 C0856757,patf,dilated veins
 C0857331,patf,Acute Hepatic cytolysis
 C0857353,patf,Hypotensive
@@ -926,6 +928,7 @@ C0877382,patf,Delayed renal graft function
 C0877792,patf,"Sleep Disorders, Circadian Rhythm"
 C0878575,patf,Peripheral demyelination
 C0878751,patf,late pregnancy
+C0917798,patf,Cerebral Ischemia
 C0917808,patf,Vegetative State
 C0919560,patf,stent occlusion
 C0919661,patf,alternation
@@ -961,7 +964,6 @@ C1112318,patf,Meconium staining
 C1112480,patf,Mediastinal Hemorrhage
 C1112522,patf,bronchial edema
 C1140716,patf,Hypoxic Brain Damage
-C1142083,patf,Nicolau Syndrome
 C1142173,patf,Tumor swelling
 C1142262,patf,Intestinal edema
 C1142264,patf,critical limb ischemia
@@ -985,7 +987,6 @@ C1264603,patf,Post-infectious disorder
 C1264605,patf,Post-viral disorder
 C1265580,patf,Acute collapse
 C1265583,patf,Secondary collapse
-C1265741,patf,Multiple calculi
 C1265762,patf,Chronic dilatation
 C1265763,patf,Cystic dilatation
 C1265765,patf,Duct ectasia
@@ -1051,6 +1052,7 @@ C1285228,patf,Degenerative disorder of cartilage
 C1285328,patf,Infectious sequelae of disorders
 C1290327,patf,Surgical ciliated cyst
 C1299557,patf,Dynamic obstruction
+C1299564,patf,Posthemorrhagic hydrocephalus
 C1300102,patf,Disseminated hemorrhage
 C1301345,patf,Ferruginous body
 C1306571,patf,Hepatic Insufficiency
@@ -1063,7 +1065,6 @@ C1328314,patf,Thoracic hemorrhage
 C1328540,patf,Peripheral vascular dilation
 C1336083,patf,Squamous Hyperplasia
 C1336895,patf,Urothelial Hyperplasia
-C1372027,patf,Digestive Alteration
 C1373218,patf,Decreased Immunologic Activity [PE]
 C1383860,patf,Cardiac Hypertrophy
 C1386627,patf,Bilateral carotid artery occlusion
@@ -1082,6 +1083,7 @@ C1510411,patf,metaplastic cell transformation
 C1510412,patf,Pseudoaneurysm
 C1511235,patf,Body Fluid Leakage
 C1511605,patf,Cystic Change
+C1512383,patf,Hematopoiesis Inhibition
 C1514893,patf,physiologic resolution
 C1516670,patf,Clonal Expansion
 C1518304,patf,Neurotropism

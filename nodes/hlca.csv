@@ -2,6 +2,7 @@ cui,type,name
 C0001559,hlca,Inhalation Drug Administration
 C0001758,hlca,Aftercare
 C0002423,hlca,ambulatory care services
+C0005824,hlca,Blood pressure determination
 C0006910,hlca,Capital Expenditures
 C0008078,hlca,Child health care
 C0008079,hlca,Child Health Services
@@ -59,6 +60,7 @@ C0024870,hlca,Mass Screening
 C0024913,hlca,"Materials Management, Hospital"
 C0024922,hlca,Maternal Health Services
 C0025355,hlca,Mental Health Services
+C0026168,hlca,Minilaparotomy
 C0026214,hlca,Investigative Techniques
 C0026426,hlca,Blood pressure monitoring
 C0026428,hlca,"Monitoring, Immunologic"
@@ -68,7 +70,6 @@ C0027459,hlca,National Health Programs
 C0027462,hlca,"Health Services, National"
 C0027484,hlca,Natural Childbirth assistance
 C0028680,hlca,Nursing Assessment
-C0028684,hlca,Nursing Diagnoses
 C0028692,hlca,Nursing Process
 C0028704,hlca,"Nursing, Team"
 C0028900,hlca,Office Visits
@@ -112,7 +113,6 @@ C0034927,hlca,Patient referral
 C0035649,hlca,Risk Management
 C0035843,hlca,Rooming-in Care
 C0037943,hlca,Spinal Puncture
-C0038195,hlca,State Medicine
 C0038280,hlca,Sterilization for infection control
 C0039343,hlca,Tattooing
 C0039422,hlca,Technology Assessment
@@ -124,7 +124,6 @@ C0043113,hlca,Wellness Programs
 C0079278,hlca,"Endoscopy, Gastrointestinal"
 C0079990,hlca,"Notification, Partner"
 C0085093,hlca,"Medicine, African Traditional"
-C0085143,hlca,Ergometry
 C0085204,hlca,Universal Precautions
 C0085421,hlca,Drug Monitoring
 C0085555,hlca,Hospice Care
@@ -143,12 +142,14 @@ C0086930,hlca,Risk Assessment
 C0086965,hlca,Selection for Treatment
 C0086969,hlca,Self-Management
 C0087095,hlca,Tissue Banking
+C0150122,hlca,Active listening
 C0150123,hlca,Activity care
 C0150155,hlca,Bowel care procedure
 C0150158,hlca,Cardiac care
 C0150177,hlca,Vision therapy
 C0150181,hlca,Coping support
 C0150185,hlca,Decision making encouragement
+C0150240,hlca,Foot care
 C0150270,hlca,Medication Management
 C0150323,hlca,Risk identification
 C0150355,hlca,Spiritual support
@@ -171,6 +172,7 @@ C0175637,hlca,Health evaluation
 C0175745,hlca,Telephone consultation
 C0178896,hlca,Incident Reporting
 C0178906,hlca,Quality monitoring
+C0184586,hlca,Bereavement support
 C0184624,hlca,feeding technique
 C0184634,hlca,Ventilator care
 C0184635,hlca,Tracheostomy care
@@ -192,6 +194,7 @@ C0199174,hlca,General treatment
 C0199175,hlca,Preventive service healthcare
 C0199178,hlca,Comprehensive consultation
 C0199182,hlca,History taking
+C0199219,hlca,Inspection (procedure)
 C0199336,hlca,Interdisciplinary medical team conference
 C0199358,hlca,Evaluation and management of patient at home
 C0199614,hlca,Monitoring of pulse
@@ -205,7 +208,6 @@ C0204742,hlca,Secluding patient
 C0204792,hlca,Routine care of newborn
 C0204925,hlca,Allergy education
 C0204928,hlca,CPR education
-C0204932,hlca,Diet education
 C0205787,hlca,Health Campaigns
 C0205903,hlca,Postoperative Procedures
 C0205908,hlca,Preoperative Procedure
@@ -242,6 +244,7 @@ C0376583,hlca,Clinical Laboratory Techniques
 C0376708,hlca,Unnecessary Procedures
 C0394885,hlca,Attention to catheter
 C0398523,hlca,Bone marrow aspiration procedure
+C0403349,hlca,Sperm Retrieval
 C0405457,hlca,Breast Milk Expression
 C0419189,hlca,Social care
 C0419342,hlca,Capillary specimen collection (procedure)
@@ -270,6 +273,7 @@ C0449327,hlca,Method of biopsy
 C0455202,hlca,Personal assessment
 C0455242,hlca,Covering eye
 C0456150,hlca,Mechanical assistance
+C0475091,hlca,Musculoskeletal system physical examination
 C0489546,hlca,Hospital consultations
 C0489633,hlca,Review of systems (procedure)
 C0513686,hlca,Pulse oximetry monitoring
@@ -354,6 +358,7 @@ C0683510,hlca,Identifying problems
 C0683518,hlca,patient interview
 C0683540,hlca,needle disposal
 C0686920,hlca,Preparation of medical certificate
+C0695630,hlca,Chiropractic services
 C0699943,hlca,Public health service
 C0700325,hlca,Patient observation
 C0729338,hlca,Care provision regimes
@@ -392,6 +397,7 @@ C0871549,hlca,Withholding Treatment
 C0872283,hlca,Telenursing
 C0872369,hlca,telecare
 C0872387,hlca,Procedures on liver
+C0885924,hlca,Circulatory care
 C0886296,hlca,Nursing interventions
 C0886414,hlca,Body temperature measurement
 C0920556,hlca,hospital organization
@@ -402,10 +408,12 @@ C0947289,hlca,clinical measurements
 C0947323,hlca,Dispensing medication
 C0948564,hlca,Medical observation
 C1113679,hlca,patient safety
+C1134625,hlca,screening intervention
 C1138559,hlca,Voluntary Programs
 C1144866,hlca,Multi-disciplinary team
 C1144889,hlca,Follow-up service
 C1160858,hlca,Behavior assessment
+C1161201,hlca,Dialysis care
 C1171179,hlca,Allergy management
 C1171181,hlca,Breastfeeding support
 C1171215,hlca,Renal care

@@ -2,6 +2,7 @@ cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0000970,C0005516,AFFECTS,acetaminophen,Biological Markers,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0000981,C0007809,AFFECTS,acetazolamide,Cerebrospinal Fluid Pressure,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0001275,C1268822,AFFECTS,activated charcoal,Optical density function,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0001927,C0428719,AFFECTS,albuterol,Airway pressure,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0002026,C0232117,AFFECTS,alfentanil,Pulse Rate,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0002144,C0221743,AFFECTS,allopurinol,Skin reaction,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0002598,C0488414,AFFECTS,amiodarone,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
@@ -64,6 +65,7 @@ C0027358,C0035190,AFFECTS,naloxone,Residual volume,orch,clna,1,AFFECTS_ORCHafctC
 C0028017,C0946292,AFFECTS,niclosamide,polarization,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0028066,C0007165,AFFECTS,nifedipine,Cardiac Output,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0028128,C0007165,AFFECTS,nitric oxide,Cardiac Output,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0028128,C0231829,AFFECTS,nitric oxide,Gas clearance,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0028247,C0080078,AFFECTS,Nocodazole,"Range of Motion, Articular",orch,clna,1,AFFECTS_ORCHafctCLNA
 C0031469,C0007165,AFFECTS,phenylephrine,Cardiac Output,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0032594,C0012655,AFFECTS,Polysaccharides,Disease susceptibility,orch,clna,1,AFFECTS_ORCHafctCLNA
@@ -126,6 +128,7 @@ C0525678,C0007165,AFFECTS,rasagiline,Cardiac Output,orch,clna,1,AFFECTS_ORCHafct
 C0525678,C0232337,AFFECTS,rasagiline,Vascular function,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0525678,C0488645,AFFECTS,rasagiline,Hemodynamic resistance:Resistance:Point in time:Systemic vasculature:Quantitative,orch,clna,3,AFFECTS_ORCHafctCLNA
 C0529793,C0034094,AFFECTS,sildenafil,Pulmonary Wedge Pressure,orch,clna,1,AFFECTS_ORCHafctCLNA
+C0529793,C0086589,AFFECTS,sildenafil,Surrogate Markers,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0556150,C0488414,AFFECTS,docosahexaenoic acid,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0591516,C4265176,AFFECTS,Fleet,IV number:ID:Pt:^Patient:Nom,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0599682,C2713234,AFFECTS,monoamine,Mood:-:Point in time:^Patient:-,orch,clna,1,AFFECTS_ORCHafctCLNA
@@ -135,6 +138,7 @@ C0719519,C0005516,AFFECTS,corrective,Biological Markers,orch,clna,1,AFFECTS_ORCH
 C0723177,C0018810,AFFECTS,SLT,heart rate,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0724139,C2926606,AFFECTS,Urised,Procedure findings:Finding:Point in time:^Patient:Narrative,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0754504,C0080078,AFFECTS,yersiniabactin,"Range of Motion, Articular",orch,clna,1,AFFECTS_ORCHafctCLNA
+C0772501,C0428719,AFFECTS,levalbuterol,Airway pressure,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0949665,C0032930,AFFECTS,Fluoroquinolones,Precipitating Factors,orch,clna,1,AFFECTS_ORCHafctCLNA
 C0949665,C1456627,AFFECTS,Fluoroquinolones,Antimicrobial Resistance,orch,clna,1,AFFECTS_ORCHafctCLNA
 C1138226,C0488414,AFFECTS,favipiravir,QT interval:Time:Point in time:Heart:Quantitative:EKG,orch,clna,1,AFFECTS_ORCHafctCLNA

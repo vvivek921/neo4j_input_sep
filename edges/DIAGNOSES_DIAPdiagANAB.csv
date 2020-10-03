@@ -1,6 +1,7 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0002978,C0151489,DIAGNOSES,angiogram,Arterial malformation,diap,anab,1,DIAGNOSES_DIAPdiagANAB
 C0002978,C0158570,DIAGNOSES,angiogram,Vascular anomaly,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0002978,C0265008,DIAGNOSES,angiogram,Aortocaval fistula,diap,anab,1,DIAGNOSES_DIAPdiagANAB
 C0005558,C0032584,DIAGNOSES,Biopsy,polyps,diap,anab,1,DIAGNOSES_DIAPdiagANAB
 C0005558,C0332482,DIAGNOSES,Biopsy,Abnormal shape,diap,anab,1,DIAGNOSES_DIAPdiagANAB
 C0006290,C1446783,DIAGNOSES,Bronchoscopy,rings tracheal,diap,anab,1,DIAGNOSES_DIAPdiagANAB
@@ -25,6 +26,7 @@ C0039985,C1265601,DIAGNOSES,Plain chest X-ray,Solitary mass,diap,anab,1,DIAGNOSE
 C0039985,C1510420,DIAGNOSES,Plain chest X-ray,Cavitation,diap,anab,1,DIAGNOSES_DIAPdiagANAB
 C0040395,C0457193,DIAGNOSES,tomography,Soft tissue mass,diap,anab,1,DIAGNOSES_DIAPdiagANAB
 C0040398,C0457193,DIAGNOSES,"Tomography, Emission-Computed",Soft tissue mass,diap,anab,1,DIAGNOSES_DIAPdiagANAB
+C0040405,C0019326,DIAGNOSES,X-Ray Computed Tomography,Ventral Hernia,diap,anab,2,DIAGNOSES_DIAPdiagANAB
 C0040405,C0457193,DIAGNOSES,X-Ray Computed Tomography,Soft tissue mass,diap,anab,1,DIAGNOSES_DIAPdiagANAB
 C0040405,C1265602,DIAGNOSES,X-Ray Computed Tomography,Multiple masses,diap,anab,1,DIAGNOSES_DIAPdiagANAB
 C0040405,C1510420,DIAGNOSES,X-Ray Computed Tomography,Cavitation,diap,anab,1,DIAGNOSES_DIAPdiagANAB

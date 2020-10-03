@@ -4,7 +4,6 @@ C0001561,C0013547,USES,"Administration, Intravaginal",econazole,topp,phsu,1,USES
 C0001563,C0003280,USES,"Administration, Oral",Anticoagulants,topp,phsu,1,USES_TOPPusesPHSU
 C0001563,C0003364,USES,"Administration, Oral",Antihypertensive Agents,topp,phsu,1,USES_TOPPusesPHSU
 C0001563,C0033607,USES,"Administration, Oral",Protease Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
-C0001563,C0085217,USES,"Administration, Oral",lithium carbonate,topp,phsu,1,USES_TOPPusesPHSU
 C0001563,C0301299,USES,"Administration, Oral",Iodine solution,topp,phsu,1,USES_TOPPusesPHSU
 C0001563,C0358591,USES,"Administration, Oral",Proton Pump Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
 C0001563,C0939237,USES,"Administration, Oral",lopinavir / Ritonavir,topp,phsu,4,USES_TOPPusesPHSU
@@ -142,7 +141,7 @@ C0019009,C0056562,USES,therapeutic hemodilution,crystalloid solutions,topp,phsu,
 C0019063,C0350056,USES,Hemoperfusion,adsorbents,topp,phsu,1,USES_TOPPusesPHSU
 C0020971,C0083193,USES,Immunization,larifan,topp,phsu,1,USES_TOPPusesPHSU
 C0020971,C0544357,USES,Immunization,human plasma,topp,phsu,1,USES_TOPPusesPHSU
-C0020971,C0937858,USES,Immunization,perflutren,topp,phsu,1,USES_TOPPusesPHSU
+C0020971,C0610217,USES,Immunization,RG-4,topp,phsu,1,USES_TOPPusesPHSU
 C0020971,C1510932,USES,Immunization,Progesterone Antagonist,topp,phsu,1,USES_TOPPusesPHSU
 C0020971,C1520007,USES,Immunization,Viral Vector,topp,phsu,7,USES_TOPPusesPHSU
 C0020971,C1579314,USES,Immunization,Diphtheria Toxoid/Tetanus Toxoid/Acellular Pertussis Vaccine Adsorbed,topp,phsu,1,USES_TOPPusesPHSU
@@ -155,6 +154,7 @@ C0020974,C0544357,USES,passive immunization procedure,human plasma,topp,phsu,1,U
 C0020974,C1520007,USES,passive immunization procedure,Viral Vector,topp,phsu,1,USES_TOPPusesPHSU
 C0020975,C0033607,USES,Secondary Immunization,Protease Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
 C0020975,C1360419,USES,Secondary Immunization,Herbal Drugs,topp,phsu,1,USES_TOPPusesPHSU
+C0020975,C1523982,USES,Secondary Immunization,"TRIad of COstimulatory Molecules (B7-1, ICAM-1, LFA-3)",topp,phsu,1,USES_TOPPusesPHSU
 C0020975,C1579314,USES,Secondary Immunization,Diphtheria Toxoid/Tetanus Toxoid/Acellular Pertussis Vaccine Adsorbed,topp,phsu,3,USES_TOPPusesPHSU
 C0021079,C1562036,USES,Therapeutic immunosuppression,Calcineurin inhibitor,topp,phsu,1,USES_TOPPusesPHSU
 C0021083,C0003204,USES,Immunotherapy,Anti-Infective Agents,topp,phsu,1,USES_TOPPusesPHSU
@@ -170,6 +170,7 @@ C0021459,C0006280,USES,Inhalation Therapy,Bronchodilator Agents,topp,phsu,1,USES
 C0021459,C0717386,USES,Inhalation Therapy,Albuterol / Ipratropium,topp,phsu,1,USES_TOPPusesPHSU
 C0021485,C0033607,USES,Injection of therapeutic agent,Protease Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
 C0021485,C0054452,USES,Injection of therapeutic agent,heparin calcium,topp,phsu,1,USES_TOPPusesPHSU
+C0021485,C0301556,USES,Injection of therapeutic agent,arginine hydrochloride,topp,phsu,2,USES_TOPPusesPHSU
 C0021485,C0444624,USES,Injection of therapeutic agent,Parenteral iron,topp,phsu,1,USES_TOPPusesPHSU
 C0021485,C1520007,USES,Injection of therapeutic agent,Viral Vector,topp,phsu,2,USES_TOPPusesPHSU
 C0021485,C1528398,USES,Injection of therapeutic agent,Shen-Fu,topp,phsu,1,USES_TOPPusesPHSU
@@ -192,7 +193,6 @@ C0029168,C1443923,USES,Oral Rehydration Therapy,Oral rehydration solution,topp,p
 C0029216,C1874451,USES,Organ Transplantation,Basis,topp,phsu,1,USES_TOPPusesPHSU
 C0030231,C0003451,USES,Palliative Care,Antiviral Agents,topp,phsu,1,USES_TOPPusesPHSU
 C0030231,C0013231,USES,Palliative Care,"Drugs, Non-Prescription",topp,phsu,2,USES_TOPPusesPHSU
-C0030231,C0677942,USES,Palliative Care,samarium Sm153,topp,phsu,1,USES_TOPPusesPHSU
 C0030231,C2746076,USES,Palliative Care,Adrenergic alpha-2 Receptor Agonists,topp,phsu,1,USES_TOPPusesPHSU
 C0030547,C3883356,USES,Parenteral Nutrition,Lipid Emulsion,topp,phsu,1,USES_TOPPusesPHSU
 C0030548,C1874451,USES,"Parenteral Nutrition, Total",Basis,topp,phsu,1,USES_TOPPusesPHSU
@@ -282,6 +282,7 @@ C0040808,C0302837,USES,Treatment Protocols,Vitamin supplementation,topp,phsu,1,U
 C0040808,C0304229,USES,Treatment Protocols,Experimental drug,topp,phsu,1,USES_TOPPusesPHSU
 C0040808,C0304604,USES,Treatment Protocols,Topical form corticosteroids,topp,phsu,1,USES_TOPPusesPHSU
 C0040808,C0599685,USES,Treatment Protocols,Anti-Retroviral Agents,topp,phsu,18,USES_TOPPusesPHSU
+C0040808,C0718564,USES,Treatment Protocols,Anti-Diarrhea,topp,phsu,1,USES_TOPPusesPHSU
 C0040808,C0935929,USES,Treatment Protocols,Antidiabetics,topp,phsu,2,USES_TOPPusesPHSU
 C0040808,C0939237,USES,Treatment Protocols,lopinavir / Ritonavir,topp,phsu,1,USES_TOPPusesPHSU
 C0040808,C1134558,USES,Treatment Protocols,Chinese Herbs,topp,phsu,1,USES_TOPPusesPHSU
@@ -300,11 +301,11 @@ C0042196,C0013230,USES,Vaccination,Investigational New Drugs,topp,phsu,1,USES_TO
 C0042196,C0036088,USES,Vaccination,Artificial saliva,topp,phsu,1,USES_TOPPusesPHSU
 C0042196,C0106579,USES,Vaccination,Bivalent Meningococcal Vaccine,topp,phsu,1,USES_TOPPusesPHSU
 C0042196,C0310255,USES,Vaccination,survive,topp,phsu,3,USES_TOPPusesPHSU
-C0042196,C0917859,USES,Vaccination,zolazepam hydrochloride,topp,phsu,1,USES_TOPPusesPHSU
 C0042196,C1134718,USES,Vaccination,G207,topp,phsu,3,USES_TOPPusesPHSU
 C0042196,C1135768,USES,Vaccination,Sustained-Release Preparations,topp,phsu,1,USES_TOPPusesPHSU
 C0042196,C1516158,USES,Vaccination,Canarypox Vector,topp,phsu,2,USES_TOPPusesPHSU
 C0042196,C1520007,USES,Vaccination,Viral Vector,topp,phsu,14,USES_TOPPusesPHSU
+C0042196,C1523982,USES,Vaccination,"TRIad of COstimulatory Molecules (B7-1, ICAM-1, LFA-3)",topp,phsu,1,USES_TOPPusesPHSU
 C0042196,C1874451,USES,Vaccination,Basis,topp,phsu,6,USES_TOPPusesPHSU
 C0042196,C1875384,USES,Vaccination,INVESTIGATIONAL VACCINES,topp,phsu,1,USES_TOPPusesPHSU
 C0042196,C3205287,USES,Vaccination,Terminator,topp,phsu,1,USES_TOPPusesPHSU
@@ -423,6 +424,7 @@ C0199798,C1520007,USES,human vaccination,Viral Vector,topp,phsu,4,USES_TOPPusesP
 C0199848,C1520007,USES,Coronavirus vaccination,Viral Vector,topp,phsu,2,USES_TOPPusesPHSU
 C0204514,C1874451,USES,Structural analysis,Basis,topp,phsu,1,USES_TOPPusesPHSU
 C0204727,C0003205,USES,Isolation procedure,"Anti-Infective Agents, Local",topp,phsu,1,USES_TOPPusesPHSU
+C0204727,C0076366,USES,Isolation procedure,thallous acetate,topp,phsu,1,USES_TOPPusesPHSU
 C0204727,C0120742,USES,Isolation procedure,Hanks Balanced Salt Solution,topp,phsu,1,USES_TOPPusesPHSU
 C0204727,C0350056,USES,Isolation procedure,adsorbents,topp,phsu,1,USES_TOPPusesPHSU
 C0204727,C0719214,USES,Isolation procedure,Century (brand of multivitamin),topp,phsu,1,USES_TOPPusesPHSU
@@ -509,6 +511,7 @@ C0459914,C0003211,USES,Conservative Treatment,"Anti-Inflammatory Agents, Non-Ste
 C0459914,C0282090,USES,Conservative Treatment,Laxatives,topp,phsu,1,USES_TOPPusesPHSU
 C0459914,C0301299,USES,Conservative Treatment,Iodine solution,topp,phsu,1,USES_TOPPusesPHSU
 C0459914,C1136254,USES,Conservative Treatment,Microbicides,topp,phsu,1,USES_TOPPusesPHSU
+C0472473,C0740235,USES,Topical local anesthetic,proparacaine hydrochloride,topp,phsu,1,USES_TOPPusesPHSU
 C0472676,C0011947,USES,Intermittent hemodialysis,Dialysis Solutions,topp,phsu,1,USES_TOPPusesPHSU
 C0472686,C0011947,USES,Continuous hemodiafiltration,Dialysis Solutions,topp,phsu,1,USES_TOPPusesPHSU
 C0508431,C1874451,USES,answer questions,Basis,topp,phsu,1,USES_TOPPusesPHSU
@@ -673,7 +676,7 @@ C1511790,C0071138,USES,Detection,pirimiphos methyl,topp,phsu,1,USES_TOPPusesPHSU
 C1511790,C0309988,USES,Detection,QUANTO,topp,phsu,1,USES_TOPPusesPHSU
 C1511790,C0358591,USES,Detection,Proton Pump Inhibitors,topp,phsu,6,USES_TOPPusesPHSU
 C1511790,C0699540,USES,Detection,Predate,topp,phsu,1,USES_TOPPusesPHSU
-C1511790,C0719335,USES,Detection,chromagen,topp,phsu,1,USES_TOPPusesPHSU
+C1511790,C0717537,USES,Detection,calcium acetate,topp,phsu,1,USES_TOPPusesPHSU
 C1511790,C1874451,USES,Detection,Basis,topp,phsu,15,USES_TOPPusesPHSU
 C1511790,C2954564,USES,Detection,Suppressor,topp,phsu,1,USES_TOPPusesPHSU
 C1511790,C3241999,USES,Detection,limited use,topp,phsu,1,USES_TOPPusesPHSU
@@ -787,6 +790,7 @@ C3858690,C2936609,USES,adjunctive treatment,Phosphodiesterase 4 Inhibitors,topp,
 C4277736,C0456388,USES,Standing Orders,Blood product,topp,phsu,1,USES_TOPPusesPHSU
 C4303340,C0003280,USES,Warfarin therapy,Anticoagulants,topp,phsu,1,USES_TOPPusesPHSU
 C4520447,C1136255,USES,Decolonization,"Microbicides, Topical",topp,phsu,1,USES_TOPPusesPHSU
+C4524538,C0044270,USES,Whole Blood or Product Procurement,"1-amino-1,3-dicarboxycyclopentane",topp,phsu,1,USES_TOPPusesPHSU
 C4554488,C0033607,USES,Retrieval - procedure,Protease Inhibitors,topp,phsu,1,USES_TOPPusesPHSU
 C4554488,C3256468,USES,Retrieval - procedure,citrate buffer,topp,phsu,14,USES_TOPPusesPHSU
 C4554488,C3539957,USES,Retrieval - procedure,opium alkaloids and derivative combination cough suppressants,topp,phsu,1,USES_TOPPusesPHSU

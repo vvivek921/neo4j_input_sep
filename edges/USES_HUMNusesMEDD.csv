@@ -200,7 +200,6 @@ C0038492,C3495449,USES,student,Mobility aid,humn,medd,1,USES_HUMNusesMEDD
 C0038495,C1706912,USES,"Students, Medical",BARRIER,humn,medd,1,USES_HUMNusesMEDD
 C0040288,C0182400,USES,Tissue Donors,Probes,humn,medd,1,USES_HUMNusesMEDD
 C0040288,C0302649,USES,Tissue Donors,"CUP, MENSTRUAL",humn,medd,1,USES_HUMNusesMEDD
-C0041900,C0162589,USES,Untrained Personnel,Implantable defibrillator,humn,medd,1,USES_HUMNusesMEDD
 C0042462,C0005971,USES,Vendors,Bone plates,humn,medd,1,USES_HUMNusesMEDD
 C0042462,C0014243,USES,Vendors,Endoscopes,humn,medd,1,USES_HUMNusesMEDD
 C0042462,C0021102,USES,Vendors,Implants,humn,medd,1,USES_HUMNusesMEDD
@@ -306,6 +305,7 @@ C0260194,C0085104,USES,radiologist,Drug Delivery Systems,humn,medd,3,USES_HUMNus
 C0260194,C0182281,USES,radiologist,Picture Archiving and Communication Systems,humn,medd,1,USES_HUMNusesMEDD
 C0260319,C0181845,USES,Virologists,Electron microscope,humn,medd,1,USES_HUMNusesMEDD
 C0260319,C0728990,USES,Virologists,Clinical Use Template,humn,medd,1,USES_HUMNusesMEDD
+C0278604,C0024861,USES,Radiation therapist,Masks,humn,medd,1,USES_HUMNusesMEDD
 C0282122,C0009653,USES,Respondents,"Condoms, Male",humn,medd,1,USES_HUMNusesMEDD
 C0282122,C0013194,USES,Respondents,Drug Packaging,humn,medd,2,USES_HUMNusesMEDD
 C0282122,C0024861,USES,Respondents,Masks,humn,medd,7,USES_HUMNusesMEDD
@@ -344,7 +344,6 @@ C0335141,C0178987,USES,manager,Artificial Airways,humn,medd,15,USES_HUMNusesMEDD
 C0335141,C0184066,USES,manager,Microplate,humn,medd,1,USES_HUMNusesMEDD
 C0335141,C1314650,USES,manager,"SUPPLY, NOT OTHERWISE SPECIFIED",humn,medd,2,USES_HUMNusesMEDD
 C0335306,C0002422,USES,Service worker,Ambulances,humn,medd,1,USES_HUMNusesMEDD
-C0335342,C1314650,USES,Nursemaid,"SUPPLY, NOT OTHERWISE SPECIFIED",humn,medd,1,USES_HUMNusesMEDD
 C0335467,C0179177,USES,Logger,Autoclave,humn,medd,1,USES_HUMNusesMEDD
 C0338666,C0027551,USES,Drug abuser,Needle device,humn,medd,1,USES_HUMNusesMEDD
 C0341647,C0972401,USES,Secretary,Boards (medical device),humn,medd,1,USES_HUMNusesMEDD
@@ -391,6 +390,7 @@ C0554244,C0183309,USES,Maker (occupation),Simulators,humn,medd,1,USES_HUMNusesME
 C0554244,C5203172,USES,Maker (occupation),FACE SHIELD,humn,medd,1,USES_HUMNusesMEDD
 C0556993,C0183309,USES,Instructor,Simulators,humn,medd,1,USES_HUMNusesMEDD
 C0556993,C0336587,USES,Instructor,"Surgical drill, device (physical object)",humn,medd,1,USES_HUMNusesMEDD
+C0558269,C0024861,USES,Chaplain,Masks,humn,medd,1,USES_HUMNusesMEDD
 C0580214,C0002422,USES,Crewmember,Ambulances,humn,medd,2,USES_HUMNusesMEDD
 C0582175,C0024861,USES,Surgeon,Masks,humn,medd,5,USES_HUMNusesMEDD
 C0582175,C0035208,USES,Surgeon,"Respirators, Air-Purifying",humn,medd,1,USES_HUMNusesMEDD
@@ -463,10 +463,8 @@ C0687759,C0039818,USES,traveler,"Thermometer, device",humn,medd,1,USES_HUMNusesM
 C0687759,C0687607,USES,traveler,"Thermometers, Electronic, Infrared, Ear",humn,medd,2,USES_HUMNusesMEDD
 C0687759,C1140607,USES,traveler,Commodes,humn,medd,1,USES_HUMNusesMEDD
 C0687759,C3824737,USES,traveler,Insecticide-treated mosquito nets,humn,medd,2,USES_HUMNusesMEDD
-C0728836,C0178987,USES,young child,Artificial Airways,humn,medd,1,USES_HUMNusesMEDD
 C0741926,C0810633,USES,cardiac patient,Pacemakers,humn,medd,1,USES_HUMNusesMEDD
 C0809762,C0007963,USES,Abstractor,Charts (device),humn,medd,7,USES_HUMNusesMEDD
-C0815185,C2363670,USES,treatment staff,developers,humn,medd,1,USES_HUMNusesMEDD
 C0851286,C0002422,USES,Staff,Ambulances,humn,medd,14,USES_HUMNusesMEDD
 C0851286,C0005978,USES,Staff,Bone Wires,humn,medd,1,USES_HUMNusesMEDD
 C0851286,C0009653,USES,Staff,"Condoms, Male",humn,medd,1,USES_HUMNusesMEDD

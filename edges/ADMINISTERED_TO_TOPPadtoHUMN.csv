@@ -14,7 +14,6 @@ C0002903,C0031831,ADMINISTERED_TO,Anesthesia procedures,Physicians,topp,humn,1,A
 C0002903,C0037179,ADMINISTERED_TO,Anesthesia procedures,Unmarried person,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0002903,C0043210,ADMINISTERED_TO,Anesthesia procedures,Woman,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
 C0002903,C0334910,ADMINISTERED_TO,Anesthesia procedures,Anesthesiologist,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
-C0002903,C0728836,ADMINISTERED_TO,Anesthesia procedures,young child,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0002903,C0851286,ADMINISTERED_TO,Anesthesia procedures,Staff,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0002903,C0871685,ADMINISTERED_TO,Anesthesia procedures,Clinician,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
 C0002903,C1556020,ADMINISTERED_TO,Anesthesia procedures,Technician,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
@@ -123,7 +122,6 @@ C0013216,C0206194,ADMINISTERED_TO,Pharmacotherapy,Survivors,topp,humn,1,ADMINIST
 C0013216,C0259990,ADMINISTERED_TO,Pharmacotherapy,Oncologists,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0013216,C0282122,ADMINISTERED_TO,Pharmacotherapy,Respondents,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0013216,C0376387,ADMINISTERED_TO,Pharmacotherapy,Transplant Recipients,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
-C0013216,C0728836,ADMINISTERED_TO,Pharmacotherapy,young child,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0013216,C0851286,ADMINISTERED_TO,Pharmacotherapy,Staff,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0013216,C0871685,ADMINISTERED_TO,Pharmacotherapy,Clinician,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
 C0013216,C1516213,ADMINISTERED_TO,Pharmacotherapy,Cancer Patient,topp,humn,14,ADMINISTERED_TO_TOPPadtoHUMN
@@ -233,6 +231,13 @@ C0021485,C0851286,ADMINISTERED_TO,Injection of therapeutic agent,Staff,topp,humn
 C0021485,C3812881,ADMINISTERED_TO,Injection of therapeutic agent,Author,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
 C0021485,C5206758,ADMINISTERED_TO,Injection of therapeutic agent,New Patient,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0021489,C0035173,ADMINISTERED_TO,intradermal injection,Research Personnel,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
+C0021492,C0031831,ADMINISTERED_TO,Intramuscular injection,Physicians,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
+C0021492,C0033011,ADMINISTERED_TO,Intramuscular injection,Pregnant Women,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
+C0021492,C0035173,ADMINISTERED_TO,Intramuscular injection,Research Personnel,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
+C0021492,C0042960,ADMINISTERED_TO,Intramuscular injection,Voluntary Workers,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
+C0021492,C0682341,ADMINISTERED_TO,Intramuscular injection,mistress,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
+C0021492,C1709854,ADMINISTERED_TO,Intramuscular injection,Recipient,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
+C0021492,C5205742,ADMINISTERED_TO,Intramuscular injection,Treatment Group,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0021493,C0035173,ADMINISTERED_TO,"Injections, Intraperitoneal",Research Personnel,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0021587,C0206212,ADMINISTERED_TO,Artificial Insemination,Veterinary technician,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0021777,C2362565,ADMINISTERED_TO,Intermittent Positive-Pressure Breathing,Physical Therapist,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
@@ -326,7 +331,6 @@ C0032042,C3642273,ADMINISTERED_TO,Placebos,Stanford Cancer Institute,topp,humn,4
 C0032042,C3812881,ADMINISTERED_TO,Placebos,Author,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0032042,C5205742,ADMINISTERED_TO,Placebos,Treatment Group,topp,humn,3,ADMINISTERED_TO_TOPPadtoHUMN
 C0032134,C0040288,ADMINISTERED_TO,Plasmapheresis,Tissue Donors,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
-C0032134,C0728836,ADMINISTERED_TO,Plasmapheresis,young child,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0032284,C0582175,ADMINISTERED_TO,Pneumonectomy,Surgeon,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0032740,C0025106,ADMINISTERED_TO,Positive End-Expiratory Pressure,Medical Staff,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0032740,C0871685,ADMINISTERED_TO,Positive End-Expiratory Pressure,Clinician,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
@@ -453,7 +457,6 @@ C0042196,C0682287,ADMINISTERED_TO,Vaccination,nursing home resident,topp,humn,1,
 C0042196,C0682355,ADMINISTERED_TO,Vaccination,tourist,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0042196,C0684017,ADMINISTERED_TO,Vaccination,scholar,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0042196,C0687759,ADMINISTERED_TO,Vaccination,traveler,topp,humn,3,ADMINISTERED_TO_TOPPadtoHUMN
-C0042196,C0728836,ADMINISTERED_TO,Vaccination,young child,topp,humn,4,ADMINISTERED_TO_TOPPadtoHUMN
 C0042196,C0870668,ADMINISTERED_TO,Vaccination,hospitalized patients,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0042196,C0949366,ADMINISTERED_TO,Vaccination,Vulnerable Populations,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0042196,C1274022,ADMINISTERED_TO,Vaccination,Employer,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
@@ -485,7 +488,6 @@ C0042200,C0376387,ADMINISTERED_TO,Influenza vaccination,Transplant Recipients,to
 C0042200,C0586859,ADMINISTERED_TO,Influenza vaccination,Pulmonologists,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0042200,C0684030,ADMINISTERED_TO,Influenza vaccination,high-risk group,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0042200,C0687759,ADMINISTERED_TO,Influenza vaccination,traveler,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
-C0042200,C0728836,ADMINISTERED_TO,Influenza vaccination,young child,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0042200,C0870602,ADMINISTERED_TO,Influenza vaccination,geriatric patients,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0042200,C1516213,ADMINISTERED_TO,Influenza vaccination,Cancer Patient,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0042200,C1527116,ADMINISTERED_TO,Influenza vaccination,Workers,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
@@ -521,7 +523,6 @@ C0149783,C0033011,ADMINISTERED_TO,Steroid therapy,Pregnant Women,topp,humn,1,ADM
 C0149783,C0259990,ADMINISTERED_TO,Steroid therapy,Oncologists,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0149783,C0376387,ADMINISTERED_TO,Steroid therapy,Transplant Recipients,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0149783,C0871685,ADMINISTERED_TO,Steroid therapy,Clinician,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
-C0150122,C0582175,ADMINISTERED_TO,Active listening,Surgeon,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0150126,C0018724,ADMINISTERED_TO,Airway Management,Health Personnel,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0150141,C0851286,ADMINISTERED_TO,Bathing,Staff,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0150269,C0037179,ADMINISTERED_TO,Limit setting,Unmarried person,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
@@ -750,7 +751,6 @@ C0404268,C0851286,ADMINISTERED_TO,Oocyte Retrieval,Staff,topp,humn,1,ADMINISTERE
 C0407564,C0582175,ADMINISTERED_TO,Allogeneic bone graft,Surgeon,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0412767,C0473161,ADMINISTERED_TO,Rapid Sequence Induction,Anesthetist,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0412767,C1709627,ADMINISTERED_TO,Rapid Sequence Induction,Practitioner,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
-C0412768,C0728836,ADMINISTERED_TO,Inhalational induction,young child,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0418947,C0028657,ADMINISTERED_TO,Patient reassurance,nurse practitioner,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0418981,C0334898,ADMINISTERED_TO,Medical therapy,Neonatologists,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0418981,C0586842,ADMINISTERED_TO,Medical therapy,Pediatric cardiologist,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
@@ -769,6 +769,7 @@ C0441516,C0018724,ADMINISTERED_TO,Demand (clinical),Health Personnel,topp,humn,1
 C0441516,C0085537,ADMINISTERED_TO,Demand (clinical),Caregiver,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0441516,C0582175,ADMINISTERED_TO,Demand (clinical),Surgeon,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0441650,C0150775,ADMINISTERED_TO,Closure by wire,Social Networks,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
+C0442775,C0334907,ADMINISTERED_TO,Blind technique,Diagnostic radiologist,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0442968,C0582175,ADMINISTERED_TO,Functional endoscopic sinus surgery,Surgeon,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0444735,C0033011,ADMINISTERED_TO,Intermittent administration,Pregnant Women,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0444735,C0043210,ADMINISTERED_TO,Intermittent administration,Woman,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
@@ -838,6 +839,7 @@ C0543467,C0586894,ADMINISTERED_TO,Operative Surgical Procedures,"Ear, nose and t
 C0543467,C0680681,ADMINISTERED_TO,Operative Surgical Procedures,victim,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
 C0543467,C0851286,ADMINISTERED_TO,Operative Surgical Procedures,Staff,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
 C0543467,C0870602,ADMINISTERED_TO,Operative Surgical Procedures,geriatric patients,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
+C0543467,C1512286,ADMINISTERED_TO,Operative Surgical Procedures,Gynecologic Oncologist,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0543467,C1518577,ADMINISTERED_TO,Operative Surgical Procedures,Surgical Oncologist,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0543467,C1704292,ADMINISTERED_TO,Operative Surgical Procedures,Ophthalmologist (occupation),topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C0543467,C1706077,ADMINISTERED_TO,Operative Surgical Procedures,user - individual,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
@@ -1113,7 +1115,6 @@ C1963724,C0025266,ADMINISTERED_TO,Antiretroviral therapy,Male population group,t
 C1963724,C0043210,ADMINISTERED_TO,Antiretroviral therapy,Woman,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
 C1963724,C3887537,ADMINISTERED_TO,Antiretroviral therapy,Partner,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C1964029,C0031831,ADMINISTERED_TO,early/brief intervention/therapy (treatment),Physicians,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
-C1964029,C0728836,ADMINISTERED_TO,early/brief intervention/therapy (treatment),young child,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN
 C1997883,C0031831,ADMINISTERED_TO,Noninvasive Ventilation,Physicians,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
 C1997883,C0035173,ADMINISTERED_TO,Noninvasive Ventilation,Research Personnel,topp,humn,2,ADMINISTERED_TO_TOPPadtoHUMN
 C1997883,C0043210,ADMINISTERED_TO,Noninvasive Ventilation,Woman,topp,humn,1,ADMINISTERED_TO_TOPPadtoHUMN

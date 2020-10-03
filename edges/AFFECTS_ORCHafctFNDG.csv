@@ -3,7 +3,6 @@ C0000970,C0086565,AFFECTS,acetaminophen,Liver Dysfunction,orch,fndg,1,AFFECTS_OR
 C0001040,C0424589,AFFECTS,acetylcarnitine,Vitality,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0001275,C0728725,AFFECTS,activated charcoal,Low pH,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0001716,C0205160,AFFECTS,beta-Aminoethylisothiuronium Dihydrobromide,Negative,orch,fndg,1,AFFECTS_ORCHafctFNDG
-C0001927,C0428719,AFFECTS,albuterol,Airway pressure,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0001962,C0023974,AFFECTS,ethanol,Loneliness,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0001962,C0038435,AFFECTS,ethanol,Stress,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0001962,C0150312,AFFECTS,ethanol,Present,orch,fndg,2,AFFECTS_ORCHafctFNDG
@@ -36,6 +35,7 @@ C0004057,C2748540,AFFECTS,aspirin,Mucosal bleeding,orch,fndg,1,AFFECTS_ORCHafctF
 C0004057,C3816499,AFFECTS,aspirin,Pathogenic,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0004745,C0428679,AFFECTS,Barbiturates,Minute volume,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0004745,C3650742,AFFECTS,Barbiturates,Effective Inhalation,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0005014,C0475440,AFFECTS,benserazide,Tumor size,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0005064,C0278060,AFFECTS,Benzodiazepines,Mental state,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0005064,C1148454,AFFECTS,Benzodiazepines,seizure activity,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0005117,C1545588,AFFECTS,berberine,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
@@ -203,6 +203,7 @@ C0040096,C0205160,AFFECTS,thymol,Negative,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0040905,C0150312,AFFECTS,Trichloroethylene,Present,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0040905,C0205160,AFFECTS,Trichloroethylene,Negative,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0042679,C1963165,AFFECTS,vincristine,"Malabsorption, CTCAE",orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0042682,C0740319,AFFECTS,vindesine,physical assault,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0042839,C0439662,AFFECTS,vitamin A,Immune,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0042849,C0439662,AFFECTS,vitamin B complex,Immune,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0042874,C0205160,AFFECTS,vitamin E,Negative,orch,fndg,3,AFFECTS_ORCHafctFNDG
@@ -284,6 +285,7 @@ C0113293,C0038435,AFFECTS,dexmedetomidine,Stress,orch,fndg,1,AFFECTS_ORCHafctFND
 C0113293,C0205160,AFFECTS,dexmedetomidine,Negative,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0113293,C0241311,AFFECTS,dexmedetomidine,post operative (finding),orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0119192,C1517940,AFFECTS,ginsenoside Rb1,Long Term Survivorship,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C0123047,C0018748,AFFECTS,ibudilast,Health Services Accessibility,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0123047,C0205161,AFFECTS,ibudilast,Abnormal,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0123047,C0332149,AFFECTS,ibudilast,Possible,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0128513,C0020649,AFFECTS,milrinone,Hypotension,orch,fndg,1,AFFECTS_ORCHafctFNDG
@@ -305,7 +307,6 @@ C0216660,C0332149,AFFECTS,zanamivir,Possible,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0225326,C0205160,AFFECTS,fiber,Negative,orch,fndg,2,AFFECTS_ORCHafctFNDG
 C0225326,C0392209,AFFECTS,fiber,Nutritional status,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0242209,C0332149,AFFECTS,Sugars,Possible,orch,fndg,1,AFFECTS_ORCHafctFNDG
-C0250624,C1545588,AFFECTS,SR 140333,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0254211,C0221198,AFFECTS,arbidol,Lesion,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0281643,C0150312,AFFECTS,incomplete Freund's adjuvant,Present,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0281643,C0205160,AFFECTS,incomplete Freund's adjuvant,Negative,orch,fndg,1,AFFECTS_ORCHafctFNDG
@@ -372,7 +373,6 @@ C0724139,C0349790,AFFECTS,Urised,Exacerbation of asthma,orch,fndg,1,AFFECTS_ORCH
 C0724139,C0857465,AFFECTS,Urised,peak flow,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0724139,C1444783,AFFECTS,Urised,Instability,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0759032,C0349790,AFFECTS,pleconaril,Exacerbation of asthma,orch,fndg,1,AFFECTS_ORCHafctFNDG
-C0772501,C0428719,AFFECTS,levalbuterol,Airway pressure,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0873137,C0439662,AFFECTS,Korean ginseng preparation,Immune,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0874161,C0332149,AFFECTS,oseltamivir,Possible,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C0874161,C0442726,AFFECTS,oseltamivir,Detected (finding),orch,fndg,2,AFFECTS_ORCHafctFNDG
@@ -395,6 +395,7 @@ C1174893,C0027429,AFFECTS,levocetirizine,Nasal obstruction present finding,orch,
 C1176306,C2825972,AFFECTS,aprepitant,Cant,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C1257954,C4050466,AFFECTS,Cyclooxygenase 2 Inhibitors,Borg Category-Ratio 10 Perceived Exertion Score 5,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C1257969,C0205160,AFFECTS,Flavanones,Negative,orch,fndg,1,AFFECTS_ORCHafctFNDG
+C1337242,C1320408,AFFECTS,cinacalcet,Urinary elimination status,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C1434916,C1545588,AFFECTS,dapivirine,Protection,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C1436435,C0205160,AFFECTS,NTZ,Negative,orch,fndg,1,AFFECTS_ORCHafctFNDG
 C1449860,C0150312,AFFECTS,Ketolides,Present,orch,fndg,1,AFFECTS_ORCHafctFNDG

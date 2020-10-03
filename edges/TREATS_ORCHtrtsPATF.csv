@@ -38,7 +38,6 @@ C0004057,C3714514,TREATS,aspirin,Infection,orch,patf,2,TREATS_ORCHtrtsPATF
 C0004259,C4042763,TREATS,atropine,Postoperative Residual Curarization,orch,patf,1,TREATS_ORCHtrtsPATF
 C0004320,C0243083,TREATS,auranofin,associated disease,orch,patf,3,TREATS_ORCHtrtsPATF
 C0004745,C0006114,TREATS,Barbiturates,Cerebral Edema,orch,patf,1,TREATS_ORCHtrtsPATF
-C0005064,C0150079,TREATS,Benzodiazepines,Sleep pattern disturbance,orch,patf,1,TREATS_ORCHtrtsPATF
 C0005117,C0332448,TREATS,berberine,Infiltration,orch,patf,1,TREATS_ORCHtrtsPATF
 C0005117,C0920563,TREATS,berberine,Insulin Sensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
 C0005802,C0920563,TREATS,Blood Glucose,Insulin Sensitivity,orch,patf,2,TREATS_ORCHtrtsPATF
@@ -187,6 +186,7 @@ C0022635,C0013687,TREATS,ketoprofen,effusion,orch,patf,1,TREATS_ORCHtrtsPATF
 C0022924,C0036983,TREATS,Lactates,Septic Shock,orch,patf,1,TREATS_ORCHtrtsPATF
 C0022924,C0220981,TREATS,Lactates,Metabolic acidosis,orch,patf,1,TREATS_ORCHtrtsPATF
 C0022924,C0269899,TREATS,Lactates,Immediate Postpartum Hemorrhage,orch,patf,1,TREATS_ORCHtrtsPATF
+C0023556,C0332743,TREATS,levamisole,Delayed union of fracture,orch,patf,1,TREATS_ORCHtrtsPATF
 C0023556,C0878751,TREATS,levamisole,late pregnancy,orch,patf,1,TREATS_ORCHtrtsPATF
 C0023660,C0028778,TREATS,lidocaine,Obstruction,orch,patf,1,TREATS_ORCHtrtsPATF
 C0023660,C0041582,TREATS,lidocaine,Ulcer,orch,patf,1,TREATS_ORCHtrtsPATF
@@ -322,7 +322,6 @@ C0038317,C1373218,TREATS,Steroids,Decreased Immunologic Activity [PE],orch,patf,
 C0038317,C3645947,TREATS,Steroids,Tissue graft rejection,orch,patf,1,TREATS_ORCHtrtsPATF
 C0038317,C3714514,TREATS,Steroids,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
 C0038633,C0041582,TREATS,sucralfate,Ulcer,orch,patf,1,TREATS_ORCHtrtsPATF
-C0038681,C3714514,TREATS,sulfaguanidine,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
 C0038766,C0085649,TREATS,Sulfonylurea Compounds,Peripheral edema,orch,patf,1,TREATS_ORCHtrtsPATF
 C0038880,C0021368,TREATS,suramin,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
 C0038880,C1510411,TREATS,suramin,metaplastic cell transformation,orch,patf,1,TREATS_ORCHtrtsPATF
@@ -401,6 +400,7 @@ C0061751,C0020517,TREATS,glycyrrhizic acid,Hypersensitivity,orch,patf,1,TREATS_O
 C0061751,C0349725,TREATS,glycyrrhizic acid,Graft infection,orch,patf,1,TREATS_ORCHtrtsPATF
 C0061751,C0700148,TREATS,glycyrrhizic acid,Congestion,orch,patf,1,TREATS_ORCHtrtsPATF
 C0061751,C3714514,TREATS,glycyrrhizic acid,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0062212,C0021368,TREATS,heme arginate,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF
 C0063041,C3714514,TREATS,leflunomide,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
 C0064032,C0024348,TREATS,isopentyl alcohol,Lysis,orch,patf,1,TREATS_ORCHtrtsPATF
 C0064113,C0392707,TREATS,itraconazole,Atopy,orch,patf,1,TREATS_ORCHtrtsPATF
@@ -535,6 +535,7 @@ C0282100,C3714514,TREATS,Paludrine,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
 C0282563,C0020517,TREATS,Macrolides,Hypersensitivity,orch,patf,1,TREATS_ORCHtrtsPATF
 C0282563,C0036983,TREATS,Macrolides,Septic Shock,orch,patf,1,TREATS_ORCHtrtsPATF
 C0282563,C3714514,TREATS,Macrolides,Infection,orch,patf,1,TREATS_ORCHtrtsPATF
+C0287444,C0242184,TREATS,dendrophenol,Hypoxia,orch,patf,1,TREATS_ORCHtrtsPATF
 C0289313,C0920563,TREATS,rosiglitazone,Insulin Sensitivity,orch,patf,2,TREATS_ORCHtrtsPATF
 C0289313,C1155266,TREATS,rosiglitazone,Inflammatory Response,orch,patf,1,TREATS_ORCHtrtsPATF
 C0289969,C0021368,TREATS,2-chloro-N(6)-(3-iodobenzyl)adenosine-5'-N-methyluronamide,Inflammation,orch,patf,1,TREATS_ORCHtrtsPATF

@@ -28,6 +28,7 @@ C0019993,C4049798,USES,Hospitalization,Total Respiratory System Resistance,hlca,
 C0024870,C0039810,USES,Mass Screening,thermography,hlca,diap,2,USES_HLCAusesDIAP
 C0024870,C0043299,USES,Mass Screening,Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
 C0024870,C0220908,USES,Mass Screening,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0024870,C0422392,USES,Mass Screening,Screening Method,hlca,diap,1,USES_HLCAusesDIAP
 C0027459,C0007089,USES,National Health Programs,Carcinogenicity Tests,hlca,diap,1,USES_HLCAusesDIAP
 C0027459,C0220908,USES,National Health Programs,Screening procedure,hlca,diap,3,USES_HLCAusesDIAP
 C0028900,C4725909,USES,Office Visits,Videostroboscopy,hlca,diap,1,USES_HLCAusesDIAP
@@ -169,6 +170,8 @@ C0184666,C4049798,USES,Hospital admission,Total Respiratory System Resistance,hl
 C0184666,C4277740,USES,Hospital admission,Walk Test,hlca,diap,1,USES_HLCAusesDIAP
 C0199174,C0014245,USES,General treatment,Endoscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
 C0199175,C0220908,USES,Preventive service healthcare,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C0199219,C0004398,USES,Inspection (procedure),Autopsy,hlca,diap,2,USES_HLCAusesDIAP
+C0199219,C0043299,USES,Inspection (procedure),Diagnostic radiologic examination,hlca,diap,1,USES_HLCAusesDIAP
 C0200345,C0004398,USES,Specimen Collection,Autopsy,hlca,diap,1,USES_HLCAusesDIAP
 C0200345,C0006290,USES,Specimen Collection,Bronchoscopy,hlca,diap,4,USES_HLCAusesDIAP
 C0200345,C0014245,USES,Specimen Collection,Endoscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
@@ -244,6 +247,7 @@ C0220825,C0376443,USES,Evaluation,Endoscopic Ultrasound,hlca,diap,3,USES_HLCAuse
 C0220825,C0396473,USES,Evaluation,Bronchoscopic irrigation,hlca,diap,2,USES_HLCAusesDIAP
 C0220825,C0412692,USES,Evaluation,Magnetic Resonance Imaging (MRI) of Heart,hlca,diap,1,USES_HLCAusesDIAP
 C0220825,C0419360,USES,Evaluation,Slit lamp biomicroscopy (procedure),hlca,diap,1,USES_HLCAusesDIAP
+C0220825,C0422392,USES,Evaluation,Screening Method,hlca,diap,1,USES_HLCAusesDIAP
 C0220825,C0430022,USES,Evaluation,diagnostic procedure,hlca,diap,5,USES_HLCAusesDIAP
 C0220825,C0430462,USES,Evaluation,Transthoracic echocardiography,hlca,diap,2,USES_HLCAusesDIAP
 C0220825,C0430797,USES,Evaluation,Electrocorticogram,hlca,diap,2,USES_HLCAusesDIAP
@@ -369,6 +373,8 @@ C0871311,C0220908,USES,screening tests,Screening procedure,hlca,diap,1,USES_HLCA
 C0871311,C0430561,USES,screening tests,Skin prick test,hlca,diap,1,USES_HLCAusesDIAP
 C0871311,C0870300,USES,screening tests,Assessment: Cognition,hlca,diap,1,USES_HLCAusesDIAP
 C0940824,C0220908,USES,Additional procedure,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
+C1134625,C0039985,USES,screening intervention,Plain chest X-ray,hlca,diap,1,USES_HLCAusesDIAP
+C1134625,C0497093,USES,screening intervention,Sensitivity test,hlca,diap,1,USES_HLCAusesDIAP
 C1138559,C0220908,USES,Voluntary Programs,Screening procedure,hlca,diap,2,USES_HLCAusesDIAP
 C1160858,C0220908,USES,Behavior assessment,Screening procedure,hlca,diap,1,USES_HLCAusesDIAP
 C1255664,C0004398,USES,standardized assessments,Autopsy,hlca,diap,1,USES_HLCAusesDIAP

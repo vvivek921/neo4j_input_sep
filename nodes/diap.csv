@@ -16,7 +16,6 @@ C0004398,diap,Autopsy
 C0005558,diap,Biopsy
 C0005560,diap,Needle biopsy procedure
 C0005803,diap,Blood Glucose Self-Monitoring
-C0005824,diap,Blood pressure determination
 C0005834,diap,Collection of blood specimen for laboratory procedure
 C0005893,diap,Body mass index procedure
 C0005954,diap,Bone marrow biopsy
@@ -133,6 +132,7 @@ C0034573,diap,"Radiography, Abdominal"
 C0034575,diap,"Radiography, Dental"
 C0034579,diap,Panoramic Radiography
 C0034606,diap,Radionuclide Imaging
+C0036611,diap,Semantic Differential
 C0037296,diap,Hypersensitivity skin testing
 C0037302,diap,Skinfold Thickness
 C0037981,diap,Spirometry
@@ -163,6 +163,7 @@ C0080142,diap,Self-Examination
 C0080264,diap,"Ultrasonography, Mammary"
 C0080265,diap,"Ultrasonography, Prenatal"
 C0085105,diap,Breast Self-Examination
+C0085143,diap,Ergometry
 C0085532,diap,Coronary angiography
 C0085704,diap,Exploratory laparotomy
 C0085814,diap,Anonymous Testing
@@ -383,7 +384,7 @@ C0419360,diap,Slit lamp biomicroscopy (procedure)
 C0420013,diap,Malaria screening
 C0420028,diap,Cystic fibrosis screening
 C0420052,diap,Skin disease screening
-C0428877,diap,Atrial Pressure
+C0422392,diap,Screening Method
 C0429089,diap,Electrocardiogram Q waves test
 C0430022,diap,diagnostic procedure
 C0430170,diap,Vitamin A absorption test
@@ -467,7 +468,6 @@ C0473935,diap,Radiolabeled somatostatin analog study
 C0474237,diap,Hyperlipidemia screening
 C0474781,diap,Color doppler ultrasound
 C0474789,diap,Single fiber EMG
-C0475091,diap,Musculoskeletal system physical examination
 C0475380,diap,Doppler color flow
 C0489835,diap,heart study
 C0497093,diap,Sensitivity test
@@ -492,6 +492,7 @@ C0555351,diap,Brain examination
 C0558035,diap,Skin assessment
 C0558534,diap,Percutaneous liver biopsy
 C0558820,diap,Gait Analysis
+C0559702,diap,Arthroscopic shoulder procedure (procedure)
 C0559963,diap,Retinal photography
 C0560563,diap,Fluoroscopic guidance
 C0560738,diap,VQ - Ventilation perfusion scan
@@ -527,7 +528,6 @@ C0599864,diap,NOESY
 C0599913,diap,X ray visualization
 C0600224,diap,"Testing, Genetic Predisposition"
 C0677490,diap,Pulmonary angiogram
-C0677746,diap,Immunological Diagnostic Method
 C0679557,diap,histological diagnosis
 C0679564,diap,respiratory system diagnosis
 C0679571,diap,visual system diagnosis
@@ -667,6 +667,7 @@ C1301988,diap,Physical activity assessment
 C1302166,diap,B mode ultrasound
 C1302229,diap,"Echography, M-mode"
 C1304836,diap,Mantoux test
+C1304878,diap,Arthroscopy of knee
 C1304881,diap,Myocardial biopsy
 C1305742,diap,Oxygen consumption measurement
 C1305849,diap,Diastolic blood pressure measurement

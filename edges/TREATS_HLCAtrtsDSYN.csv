@@ -10,6 +10,7 @@ C0002423,C0037199,TREATS,ambulatory care services,Sinusitis,hlca,dsyn,1,TREATS_H
 C0002423,C0341439,TREATS,ambulatory care services,Chronic liver disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0002423,C0694549,TREATS,ambulatory care services,Community acquired pneumonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0002423,C5203670,TREATS,ambulatory care services,COVID-19,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0005824,C0020538,TREATS,Blood pressure determination,Hypertensive disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0008078,C0001175,TREATS,Child health care,Acquired Immunodeficiency Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0008078,C0019163,TREATS,Child health care,Hepatitis B,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0008078,C0032285,TREATS,Child health care,Pneumonia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
@@ -697,6 +698,7 @@ C0086969,C0582415,TREATS,Self-Management,Acute asthma,hlca,dsyn,1,TREATS_HLCAtrt
 C0086969,C0877430,TREATS,Self-Management,asthma chronic,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0086969,C4505065,TREATS,Self-Management,Noncommunicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0150123,C5203670,TREATS,Activity care,COVID-19,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0150240,C0020456,TREATS,Foot care,Hyperglycemia,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0150270,C0008679,TREATS,Medication Management,Chronic disease,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
 C0150270,C0009663,TREATS,Medication Management,Condylomata Acuminata,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0150270,C0010278,TREATS,Medication Management,Craniosynostosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
@@ -913,6 +915,7 @@ C0199174,C0080032,TREATS,General treatment,"Pleural Effusion, Malignant",hlca,ds
 C0199174,C0149725,TREATS,General treatment,Lower respiratory tract infection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0199182,C0036916,TREATS,History taking,Sexually Transmitted Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0199182,C0270724,TREATS,History taking,Infantile Neuroaxonal Dystrophy,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0199219,C0043528,TREATS,Inspection (procedure),Zoonoses,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0200345,C0009450,TREATS,Specimen Collection,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0200345,C0021400,TREATS,Specimen Collection,Influenza,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
 C0200345,C0033770,TREATS,Specimen Collection,Prune Belly Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
@@ -1083,7 +1086,6 @@ C0220825,C0234935,TREATS,Evaluation,Acute urticaria,hlca,dsyn,1,TREATS_HLCAtrtsD
 C0220825,C0235575,TREATS,Evaluation,hemolytic reaction,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0220825,C0238106,TREATS,Evaluation,Clostridium difficile colitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0220825,C0238990,TREATS,Evaluation,Acute lower respiratory tract infection,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
-C0220825,C0240953,TREATS,Evaluation,Winged scapula,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0220825,C0241910,TREATS,Evaluation,Autoimmune Chronic Hepatitis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0220825,C0264558,TREATS,Evaluation,Tension Pneumothorax,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0220825,C0265514,TREATS,Evaluation,Dermatofibrosis lenticularis disseminata,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
@@ -1266,6 +1268,7 @@ C0344211,C5139167,TREATS,Supportive care,Severe infection,hlca,dsyn,3,TREATS_HLC
 C0344211,C5203670,TREATS,Supportive care,COVID-19,hlca,dsyn,49,TREATS_HLCAtrtsDSYN
 C0344351,C0007570,TREATS,Gluten-Free Diet,Celiac Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0344351,C1711373,TREATS,Gluten-Free Diet,Latent Celiac Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0403349,C1847540,TREATS,Sperm Retrieval,"Azoospermia, Nonobstructive",hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0422202,C0021400,TREATS,Notifications (procedure),Influenza,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0422202,C0028754,TREATS,Notifications (procedure),Obesity,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0422202,C0028797,TREATS,Notifications (procedure),Occupational Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
@@ -1289,6 +1292,7 @@ C0449327,C0036310,TREATS,Method of biopsy,Scheuermann's Disease,hlca,dsyn,1,TREA
 C0455202,C0206750,TREATS,Personal assessment,Coronavirus Infections,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
 C0455202,C1175175,TREATS,Personal assessment,Severe Acute Respiratory Syndrome,hlca,dsyn,3,TREATS_HLCAtrtsDSYN
 C0455202,C5203670,TREATS,Personal assessment,COVID-19,hlca,dsyn,14,TREATS_HLCAtrtsDSYN
+C0475091,C0026857,TREATS,Musculoskeletal system physical examination,Musculoskeletal Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0541653,C0004096,TREATS,Chart evaluation by healthcare professional,Asthma,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0541653,C0021400,TREATS,Chart evaluation by healthcare professional,Influenza,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0542304,C0021390,TREATS,Medication education,Inflammatory Bowel Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
@@ -1588,6 +1592,7 @@ C0871311,C1719672,TREATS,screening tests,Severe Sepsis,hlca,dsyn,1,TREATS_HLCAtr
 C0871311,C2062441,TREATS,screening tests,Influenza A,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
 C0871311,C5203670,TREATS,screening tests,COVID-19,hlca,dsyn,17,TREATS_HLCAtrtsDSYN
 C0872369,C5203670,TREATS,telecare,COVID-19,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C0885924,C0018790,TREATS,Circulatory care,Cardiac Arrest,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0920556,C0742343,TREATS,hospital organization,Acute Chest Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0920579,C5203670,TREATS,medical outreach,COVID-19,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C0940824,C0000833,TREATS,Additional procedure,Abscess,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
@@ -1600,6 +1605,7 @@ C1113679,C0009450,TREATS,patient safety,Communicable Diseases,hlca,dsyn,1,TREATS
 C1113679,C0010340,TREATS,patient safety,Critical Illness,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C1113679,C0042075,TREATS,patient safety,Urologic Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C1113679,C5203670,TREATS,patient safety,COVID-19,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C1134625,C0679225,TREATS,screening intervention,multiple pathologies,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C1138559,C0277550,TREATS,Voluntary Programs,Endemic Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C1144866,C0009450,TREATS,Multi-disciplinary team,Communicable Diseases,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C1144866,C0018939,TREATS,Multi-disciplinary team,Hematological Disease,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
@@ -2269,6 +2275,7 @@ C4684780,C0524910,TREATS,Standard Treatment,"Hepatitis C, Chronic",hlca,dsyn,4,T
 C4684780,C0553576,TREATS,Standard Treatment,Systemic mycosis,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C4684780,C0578870,TREATS,Standard Treatment,Chronic Spontaneous Urticaria,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C4684780,C0740304,TREATS,Standard Treatment,copd exacerbation,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
+C4684780,C0745130,TREATS,Standard Treatment,Resistant hypertensive disorder,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C4684780,C0850666,TREATS,Standard Treatment,Infection caused by Helicobacter pylori,hlca,dsyn,2,TREATS_HLCAtrtsDSYN
 C4684780,C1096155,TREATS,Standard Treatment,Macrophage Activation Syndrome,hlca,dsyn,1,TREATS_HLCAtrtsDSYN
 C4684780,C1145670,TREATS,Standard Treatment,Respiratory Failure,hlca,dsyn,1,TREATS_HLCAtrtsDSYN

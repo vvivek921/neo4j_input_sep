@@ -2,7 +2,6 @@ cui,type,name
 C0000376,bacs,"3,4-Dihydroxyphenylacetic Acid"
 C0000378,bacs,droxidopa
 C0000407,bacs,3-Hydroxyanthranilic Acid
-C0000464,bacs,docosahexaenoate
 C0000545,bacs,eicosapentaenoic acid
 C0000702,bacs,"DNA, A-Form"
 C0000843,bacs,Abscisic Acid
@@ -76,7 +75,6 @@ C0009235,bacs,Coenzymes
 C0009968,bacs,copper
 C0009988,bacs,Coproporphyrins
 C0010167,bacs,Cosmids
-C0010198,bacs,cottonseed oil
 C0010204,bacs,Coumaric Acids
 C0010294,bacs,creatinine
 C0010658,bacs,Cysteine Proteinase Inhibitors
@@ -99,7 +97,6 @@ C0012282,bacs,Cholestanol
 C0012324,bacs,Dihydroxyacetone Phosphate
 C0012497,bacs,Diosgenin
 C0012854,bacs,DNA
-C0012868,bacs,DNA Transposable Elements
 C0012925,bacs,"DNA, Circular"
 C0012929,bacs,"DNA, Mitochondrial"
 C0012933,bacs,"DNA, Ribosomal"
@@ -164,7 +161,6 @@ C0020332,bacs,Hydroxybutyrates
 C0020349,bacs,Hydroxyeicosatetraenoic Acids
 C0020684,bacs,Hypoxanthine
 C0020737,bacs,Ibogaine
-C0020817,bacs,Iduronic Acid
 C0021021,bacs,Immunoglobulin Switch Region
 C0021210,bacs,Indican
 C0021533,bacs,Inosine Monophosphate
@@ -201,6 +197,7 @@ C0024643,bacs,malondialdehyde
 C0024645,bacs,Malonyl Coenzyme A
 C0024706,bacs,manganese
 C0025196,bacs,Melanins
+C0025562,bacs,Metanephrine
 C0025684,bacs,methoxsalen
 C0025879,bacs,Mevalonic Acid
 C0026163,bacs,Mini-Exon
@@ -322,8 +319,6 @@ C0037912,bacs,Spider Venoms
 C0038179,bacs,starch
 C0038274,bacs,Sterigmatocystin
 C0038419,bacs,Streptolysins
-C0038467,bacs,strontium
-C0038471,bacs,Strophanthin
 C0038636,bacs,sucrose
 C0038727,bacs,Sulfoglycosphingolipids
 C0038774,bacs,sulfur
@@ -392,7 +387,6 @@ C0044800,bacs,"12-Hydroxy-5,8,10,14-eicosatetraenoic Acid"
 C0044880,bacs,"15-hydroperoxy-5,8,11,13-eicosatetraenoic acid"
 C0044887,bacs,"15-hydroxy-5,8,11,13-eicosatetraenoic acid"
 C0046036,bacs,"2-crotonyloxymethyl-(4R,5R,6R)-4,5,6-trihydroxycyclohex- 2-enone"
-C0046188,bacs,2-hydroxybutyric acid
 C0046532,bacs,2-phosphoglycerate
 C0047420,bacs,3-hydroxy-3-methylglutaryl-coenzyme A
 C0047701,bacs,3-phosphoglycerate
@@ -487,8 +481,8 @@ C0068432,bacs,naphthyl phosphate
 C0068527,bacs,Neopterin
 C0068927,bacs,"mRNA, Non-Polyadenylated"
 C0069639,bacs,oridonin
-C0069971,bacs,palmitoyl glycerol
 C0070558,bacs,phenethyl isothiocyanate
+C0070774,bacs,phosphate permease
 C0070798,bacs,"Phosphatidylinositol 4,5-Diphosphate"
 C0070818,bacs,phospho-L-arginine
 C0070939,bacs,phosphoethanolamine
@@ -496,6 +490,7 @@ C0071005,bacs,phytoalexins
 C0071504,bacs,"mRNA, Polyadenylated"
 C0071655,bacs,Phosphatidylinositol Phosphates
 C0071863,bacs,pregnanediol-3 alpha-glucuronide
+C0071899,bacs,prepro-gastrin-releasing peptide
 C0072194,bacs,propionyl-coenzyme A
 C0072287,bacs,prostaglandin G2
 C0072288,bacs,Prostaglandin H2
@@ -521,8 +516,6 @@ C0075301,bacs,streptolysin O
 C0075338,bacs,Struvite
 C0075444,bacs,succinyl-coenzyme A
 C0075574,bacs,sulfolipids
-C0075663,bacs,surugatoxin
-C0075672,bacs,swertiamarin
 C0075770,bacs,docosanol
 C0076129,bacs,terpinenol-4
 C0076238,bacs,tetrachlorophthalic anhydride
@@ -530,7 +523,6 @@ C0076305,bacs,tetramethylpyrazine
 C0076335,bacs,Tetrapyrroles
 C0076374,bacs,Thapsigargin
 C0076582,bacs,thymidine 5'-triphosphate
-C0076607,bacs,thymomodulin
 C0077601,bacs,tyvelose
 C0077829,bacs,ungeremine
 C0078517,bacs,Wortmannin
@@ -544,7 +536,6 @@ C0079249,bacs,"DNA, Antisense"
 C0079925,bacs,Antisense Oligonucleotides
 C0080124,bacs,Antisense RNA
 C0080206,bacs,TATA Box
-C0081653,bacs,artemetin
 C0082180,bacs,cytolethal distending toxin
 C0082428,bacs,endothelium-dependent hyperpolarization factor
 C0082774,bacs,"RNA, Guide"
@@ -597,7 +588,6 @@ C0139706,bacs,Quinolinate
 C0139903,bacs,radixin protein
 C0140515,bacs,ribose-5-phosphate
 C0140570,bacs,Ricinus communis agglutinin
-C0141482,bacs,Sambucus canadensis lectin
 C0142281,bacs,Siderophores
 C0142823,bacs,Sodium Cholate
 C0144255,bacs,synaptotagmin I
@@ -606,6 +596,7 @@ C0162574,bacs,"Glycation End Products, Advanced"
 C0162682,bacs,Glycosylphosphatidylinositol Linkage
 C0162772,bacs,Reactive Oxygen Species
 C0167957,bacs,Transcription Factor RelB
+C0168908,bacs,"VP3 protein, Bluetongue virus"
 C0169309,bacs,seven in absentia proteins
 C0169852,bacs,serglycin
 C0174725,bacs,margatoxin
@@ -652,8 +643,8 @@ C0283803,bacs,solasonine
 C0284778,bacs,"RNA, Small Cytoplasmic"
 C0285555,bacs,"sigma 1 protein, reovirus"
 C0286097,bacs,loganin
-C0287444,bacs,dendrophenol
 C0291755,bacs,sho-seiryu-to
+C0294028,bacs,BRCA2 Protein
 C0301491,bacs,Human white blood cell product
 C0301662,bacs,Hydroxybutyric Acids
 C0301665,bacs,n-Acetyl galactosamine
@@ -686,7 +677,6 @@ C0376566,bacs,DNA Synthesis Inhibitors
 C0376567,bacs,RNA Synthesis Inhibitors
 C0376568,bacs,Nucleic Acid Synthesis Inhibitors
 C0376601,bacs,Integrase Inhibitors
-C0379703,bacs,waglerin
 C0381424,bacs,chan su
 C0384400,bacs,"NS2 protein, Hepatitis C virus"
 C0387198,bacs,bofu-tsusho-san
@@ -716,14 +706,14 @@ C0487773,bacs,Japanese encephalitis virus RNA
 C0522094,bacs,Medium chain fatty acid
 C0522095,bacs,Long chain fatty acid
 C0522259,bacs,Antihormone
-C0522260,bacs,Anti-gonadotropin-releasing hormones
 C0524629,bacs,Firefly Luciferin
 C0525013,bacs,Locus Control Region
+C0527556,bacs,"potassium inwardly-rectifying channel, subfamily J, member 10"
 C0528412,bacs,tmRNA
+C0533363,bacs,fu ling
 C0535219,bacs,"SMC3 protein, human"
 C0536566,bacs,suilysin
 C0537224,bacs,viron
-C0541322,bacs,livzon
 C0543456,bacs,histamine dihydrochloride
 C0563631,bacs,Escherichia coli toxin
 C0566267,bacs,Biologically active chemical
@@ -757,6 +747,7 @@ C0605143,bacs,apiin
 C0609108,bacs,UDP-rhamnose
 C0611671,bacs,naringenin chalcone
 C0618456,bacs,2-methylacetoacetyl-coenzyme A
+C0625030,bacs,colligin-2
 C0629561,bacs,yellow-1
 C0633371,bacs,mgcRacGAP
 C0646179,bacs,muramyl-NAc-(pentapeptide)pyrophosphoryl-undecaprenol
@@ -816,6 +807,7 @@ C0949639,bacs,Transcription Initiation Site
 C0949645,bacs,5' Flanking Region
 C0949648,bacs,3' Flanking Region
 C0949655,bacs,E-Box Elements
+C0949755,bacs,D-Aspartic Acid
 C0949860,bacs,Isoprostanes
 C0949861,bacs,F2-Isoprostanes
 C0950109,bacs,Vitamin D Response Element
@@ -832,7 +824,6 @@ C1099354,bacs,"RNA, Small Interfering"
 C1101534,bacs,Huangqin-Tang
 C1101552,bacs,glabrene
 C1101610,bacs,MicroRNAs
-C1120306,bacs,Clerodane Diterpenes
 C1120516,bacs,2-Methoxystypandrone
 C1120584,bacs,"2,2-dimethyl-3-acetyl-cyclobutyl-ethanal"
 C1130460,bacs,phytoalexin
@@ -848,6 +839,7 @@ C1136224,bacs,5' TOP mRNA
 C1136264,bacs,AAUAAA RNA Sequence
 C1136368,bacs,Class 3 Semaphorins
 C1138413,bacs,"Regulatory Sequences, Ribonucleic Acid"
+C1143837,bacs,rhizocarpic acid
 C1144439,bacs,isopestacin
 C1172779,bacs,Endocannabinoids
 C1173482,bacs,dragmacidin D
@@ -873,19 +865,15 @@ C1292137,bacs,Lactyosylceramide
 C1310768,bacs,EPs 7630
 C1312299,bacs,zingiberene
 C1312446,bacs,"1beta, 3beta, 23-trihydroxyolean-12-en-28-oic acid"
-C1312786,bacs,FIIa
 C1313766,bacs,piplartine
 C1317529,bacs,Free metanephrine
 C1320123,bacs,Bacterial nucleic acid
 C1337053,bacs,pre-miRNA
 C1337054,bacs,Primary MicroRNA
 C1429591,bacs,Sec7 guanine nucleotide exchange factors
-C1436179,bacs,manassantin B
-C1443566,bacs,Free copper
 C1449065,bacs,"NFKBIE protein, human"
 C1449672,bacs,Humic Substances
 C1450008,bacs,"Pheromones, Human"
-C1452252,bacs,aurone
 C1452829,bacs,"ACSM3 protein, human"
 C1454997,bacs,euphopubescene
 C1455201,bacs,"KRT18 protein, human"
@@ -899,9 +887,11 @@ C1481630,bacs,Plasmid RSF1010
 C1481669,bacs,Plasmid pE194
 C1481715,bacs,Plasmid pMV158
 C1481822,bacs,eukaryotic plasmids
+C1504682,bacs,nodulin
 C1505055,bacs,prolifix
 C1505125,bacs,"RRAD protein, human"
 C1506352,bacs,silvestrol
+C1506550,bacs,oxaline
 C1506764,bacs,"tat peptide (49-57), Human immunodeficiency virus 1"
 C1507063,bacs,Methicillin resistant Staphylococcus aureus DNA
 C1507143,bacs,Vitamin D+Metabolites
@@ -921,11 +911,11 @@ C1545733,bacs,Respiratory syncytial virus RNA
 C1562409,bacs,Cholesterol derivative
 C1566558,bacs,Natural Products
 C1566772,bacs,Lysosomal Integral Membrane Proteins
-C1566789,bacs,Smad1 Protein
 C1567439,bacs,prim-O-glucosylcimifugin
 C1567736,bacs,Active Hexose Correlated Compound
 C1567768,bacs,icaritin
 C1568724,bacs,lycium barbarum polysaccharide
+C1568806,bacs,lycoricidine
 C1569428,bacs,3'-hydroxyechinenone
 C1571527,bacs,"Platelet-Derived Growth Factor C, human"
 C1571617,bacs,XIST non-coding RNA

@@ -250,6 +250,7 @@ C0013516,C0232180,DIAGNOSES,Echocardiography,Cardiac shunt,diap,fndg,1,DIAGNOSES
 C0013516,C0232341,DIAGNOSES,Echocardiography,Increased vascular flow,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0013516,C0232605,DIAGNOSES,Echocardiography,Regurgitates after swallowing,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0013516,C0235896,DIAGNOSES,Echocardiography,Pulmonary Infiltrate,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0013516,C0344955,DIAGNOSES,Echocardiography,Ventricular septal hypertrophy,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0013516,C0428642,DIAGNOSES,Echocardiography,Pulmonary artery pressure,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0013516,C0438105,DIAGNOSES,Echocardiography,Examination finding,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0013516,C0489642,DIAGNOSES,Echocardiography,Intrapulmonary shunt,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
@@ -291,6 +292,7 @@ C0013524,C4015487,DIAGNOSES,2D Echocardiography,Left atrial dilation,diap,fndg,1
 C0013798,C0039231,DIAGNOSES,Electrocardiogram,Tachycardia,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
 C0013798,C0232201,DIAGNOSES,Electrocardiogram,Sinus rhythm,diap,fndg,19,DIAGNOSES_DIAPdiagFNDG
 C0013798,C0232202,DIAGNOSES,Electrocardiogram,Normal sinus rhythm,diap,fndg,26,DIAGNOSES_DIAPdiagFNDG
+C0013798,C0262662,DIAGNOSES,Electrocardiogram,Ventricular bigeminy,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0013798,C0429029,DIAGNOSES,Electrocardiogram,ST segment,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
 C0013798,C0429067,DIAGNOSES,Electrocardiogram,PR elevation,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0013798,C0429103,DIAGNOSES,Electrocardiogram,T wave feature,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
@@ -384,6 +386,7 @@ C0021044,C4698330,DIAGNOSES,Immunohistochemistry,Homogenous,diap,fndg,1,DIAGNOSE
 C0021044,C5142919,DIAGNOSES,Immunohistochemistry,Supplemental result,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0021881,C4699566,DIAGNOSES,Intradermal Tests,Past infection,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0023072,C0150312,DIAGNOSES,Laryngoscopy,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024119,C0016528,DIAGNOSES,Pulmonary function tests,Forced Expiratory Flow Rates,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0024119,C0040509,DIAGNOSES,Pulmonary function tests,Total Lung Capacity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0024119,C0085383,DIAGNOSES,Pulmonary function tests,Hypocapnia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0024119,C0150312,DIAGNOSES,Pulmonary function tests,Present,diap,fndg,4,DIAGNOSES_DIAPdiagFNDG
@@ -417,6 +420,7 @@ C0024485,C0221198,DIAGNOSES,Magnetic Resonance Imaging,Lesion,diap,fndg,49,DIAGN
 C0024485,C0241148,DIAGNOSES,Magnetic Resonance Imaging,Cutaneous plaque,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0024485,C0241224,DIAGNOSES,Magnetic Resonance Imaging,Spinal cord lesion,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
 C0024485,C0241277,DIAGNOSES,Magnetic Resonance Imaging,Swelling of subcutaneous tissue,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0024485,C0270614,DIAGNOSES,Magnetic Resonance Imaging,Intracranial mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0024485,C0332516,DIAGNOSES,Magnetic Resonance Imaging,Symmetrical,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0024485,C0332575,DIAGNOSES,Magnetic Resonance Imaging,Redness,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0024485,C0422837,DIAGNOSES,Magnetic Resonance Imaging,Neurological observations,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
@@ -747,6 +751,7 @@ C0040405,C0235896,DIAGNOSES,X-Ray Computed Tomography,Pulmonary Infiltrate,diap,
 C0040405,C0238815,DIAGNOSES,X-Ray Computed Tomography,brazilian,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0040405,C0240873,DIAGNOSES,X-Ray Computed Tomography,Rectal mass,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0040405,C0241158,DIAGNOSES,X-Ray Computed Tomography,Scar Tissue,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0040405,C0271053,DIAGNOSES,X-Ray Computed Tomography,Cotton wool spots,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0040405,C0278060,DIAGNOSES,X-Ray Computed Tomography,Mental state,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0040405,C0302133,DIAGNOSES,X-Ray Computed Tomography,Mottling,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0040405,C0332149,DIAGNOSES,X-Ray Computed Tomography,Possible,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
@@ -1211,6 +1216,7 @@ C0332140,C3540840,DIAGNOSES,"Diagnosis, clinical",Sign or Symptom,diap,fndg,1,DI
 C0332140,C4321237,DIAGNOSES,"Diagnosis, clinical",High Level,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0332140,C4698719,DIAGNOSES,"Diagnosis, clinical",Confirmed case,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
 C0332140,C4699604,DIAGNOSES,"Diagnosis, clinical",<12 months,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0372629,C0410918,DIAGNOSES,Fetal non-stress test,Fetal tachycardia,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0376335,C0439663,DIAGNOSES,fMRI,Infected,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0376529,C0233315,DIAGNOSES,Capnography,Premature birth of newborn,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0376529,C0428679,DIAGNOSES,Capnography,Minute volume,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
@@ -1378,6 +1384,7 @@ C0683454,C0085639,DIAGNOSES,internal-external locus of control scale,Falls,diap,
 C0683454,C0087130,DIAGNOSES,internal-external locus of control scale,Uncertainty,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0683454,C0150312,DIAGNOSES,internal-external locus of control scale,Present,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0683454,C4699368,DIAGNOSES,internal-external locus of control scale,Wild-type strain,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C0683457,C0870689,DIAGNOSES,State-trait anger expression inventory,Income Level,diap,fndg,2,DIAGNOSES_DIAPdiagFNDG
 C0740463,C0337664,DIAGNOSES,Biopsy of bronchus,Smoker,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0740463,C0439663,DIAGNOSES,Biopsy of bronchus,Infected,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C0740463,C0743630,DIAGNOSES,Biopsy of bronchus,exacerbation acute,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
@@ -1654,6 +1661,7 @@ C1964257,C0205161,DIAGNOSES,Observation - diagnostic procedure,Abnormal,diap,fnd
 C1964257,C0205557,DIAGNOSES,Observation - diagnostic procedure,False Positive,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C1964257,C0221198,DIAGNOSES,Observation - diagnostic procedure,Lesion,diap,fndg,3,DIAGNOSES_DIAPdiagFNDG
 C1964257,C0231221,DIAGNOSES,Observation - diagnostic procedure,Asymptomatic,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
+C1964257,C0231298,DIAGNOSES,Observation - diagnostic procedure,Increased stress,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C1964257,C0231337,DIAGNOSES,Observation - diagnostic procedure,Senility,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C1964257,C0235193,DIAGNOSES,Observation - diagnostic procedure,Torpor,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C1964257,C0237677,DIAGNOSES,Observation - diagnostic procedure,insensitivity,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
@@ -1661,7 +1669,6 @@ C1964257,C0240341,DIAGNOSES,Observation - diagnostic procedure,Micrographia,diap
 C1964257,C0241128,DIAGNOSES,Observation - diagnostic procedure,Nikolsky sign,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C1964257,C0241863,DIAGNOSES,Observation - diagnostic procedure,diabetic,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C1964257,C0277814,DIAGNOSES,Observation - diagnostic procedure,Sitting position,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
-C1964257,C0302539,DIAGNOSES,Observation - diagnostic procedure,spells (neurological symptom),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C1964257,C0332149,DIAGNOSES,Observation - diagnostic procedure,Possible,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C1964257,C0332155,DIAGNOSES,Observation - diagnostic procedure,Did not receive therapy or drug for,diap,fndg,1,DIAGNOSES_DIAPdiagFNDG
 C1964257,C0332461,DIAGNOSES,Observation - diagnostic procedure,Plaque (lesion),diap,fndg,1,DIAGNOSES_DIAPdiagFNDG

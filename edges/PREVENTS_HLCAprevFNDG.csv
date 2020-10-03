@@ -1,6 +1,7 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0008078,C0079291,PREVENTS,Child health care,Environmental hazard,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0008079,C0577730,PREVENTS,Child Health Services,Family tension,hlca,fndg,1,PREVENTS_HLCAprevFNDG
+C0009818,C0025115,PREVENTS,Consultation,Medication Error,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0009818,C0038435,PREVENTS,Consultation,Stress,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0009818,C0332149,PREVENTS,Consultation,Possible,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0009818,C0476644,PREVENTS,Consultation,Physical and emotional exhaustion state,hlca,fndg,1,PREVENTS_HLCAprevFNDG
@@ -40,6 +41,7 @@ C0019993,C4055506,PREVENTS,Hospitalization,Accumulation,hlca,fndg,1,PREVENTS_HLC
 C0019993,C4698437,PREVENTS,Hospitalization,Unplanned,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0019993,C4727347,PREVENTS,Hospitalization,Peak Oxygen Consumption,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0020042,C0231224,PREVENTS,Hotlines,Crisis,hlca,fndg,1,PREVENTS_HLCAprevFNDG
+C0021634,C0520818,PREVENTS,Insufflation,Increased pressure,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0023977,C0231224,PREVENTS,long-term care,Crisis,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0023977,C0743630,PREVENTS,long-term care,exacerbation acute,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0023977,C4086268,PREVENTS,long-term care,Exacerbation,hlca,fndg,2,PREVENTS_HLCAprevFNDG
@@ -68,6 +70,7 @@ C0031809,C0231835,PREVENTS,Physical Examination,Tachypnea,hlca,fndg,1,PREVENTS_H
 C0031809,C0332149,PREVENTS,Physical Examination,Possible,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0031809,C1998319,PREVENTS,Physical Examination,Functional capacity,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0033052,C0021294,PREVENTS,Prenatal care,"Infant, Premature",hlca,fndg,1,PREVENTS_HLCAprevFNDG
+C0033080,C0025115,PREVENTS,Prescription procedure,Medication Error,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0033080,C0542058,PREVENTS,Prescription procedure,irrational,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0035649,C0231224,PREVENTS,Risk Management,Crisis,hlca,fndg,2,PREVENTS_HLCAprevFNDG
 C0035649,C0277787,PREVENTS,Risk Management,Social stigmata,hlca,fndg,1,PREVENTS_HLCAprevFNDG
@@ -79,6 +82,7 @@ C0085557,C0848543,PREVENTS,Infectious disease prevention / control,exposure (to)
 C0085557,C4289767,PREVENTS,Infectious disease prevention / control,Colonization,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0085559,C0278252,PREVENTS,intensive care,Prognosis bad,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0086751,C3841939,PREVENTS,"Health Services, Outpatient",Patient access,hlca,fndg,1,PREVENTS_HLCAprevFNDG
+C0086930,C0080048,PREVENTS,Risk Assessment,Privacy,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0086930,C0087130,PREVENTS,Risk Assessment,Uncertainty,hlca,fndg,2,PREVENTS_HLCAprevFNDG
 C0086930,C3840880,PREVENTS,Risk Assessment,Traffic,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0086969,C0038435,PREVENTS,Self-Management,Stress,hlca,fndg,1,PREVENTS_HLCAprevFNDG
@@ -128,6 +132,7 @@ C0220825,C0332149,PREVENTS,Evaluation,Possible,hlca,fndg,2,PREVENTS_HLCAprevFNDG
 C0220825,C0333361,PREVENTS,Evaluation,Acute inflammation,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0220825,C0418624,PREVENTS,Evaluation,Nonadministration of necessary drug or medicine,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0220825,C0439662,PREVENTS,Evaluation,Immune,hlca,fndg,3,PREVENTS_HLCAprevFNDG
+C0220825,C0475440,PREVENTS,Evaluation,Tumor size,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0220825,C1710572,PREVENTS,Evaluation,Unnecessary Therapy,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0220825,C1836348,PREVENTS,Evaluation,Severe disorder,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0220825,C2712170,PREVENTS,Evaluation,Actual Effective Respiratory System Process,hlca,fndg,1,PREVENTS_HLCAprevFNDG
@@ -166,6 +171,7 @@ C0679878,C3693346,PREVENTS,acute care,Delayed Treatment,hlca,fndg,1,PREVENTS_HLC
 C0683509,C0231224,PREVENTS,disease detection,Crisis,hlca,fndg,2,PREVENTS_HLCAprevFNDG
 C0700325,C0332149,PREVENTS,Patient observation,Possible,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0700325,C1836348,PREVENTS,Patient observation,Severe disorder,hlca,fndg,1,PREVENTS_HLCAprevFNDG
+C0805586,C0080048,PREVENTS,Challenge,Privacy,hlca,fndg,4,PREVENTS_HLCAprevFNDG
 C0805586,C0205557,PREVENTS,Challenge,False Positive,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0805586,C0231224,PREVENTS,Challenge,Crisis,hlca,fndg,2,PREVENTS_HLCAprevFNDG
 C0805586,C0277787,PREVENTS,Challenge,Social stigmata,hlca,fndg,2,PREVENTS_HLCAprevFNDG
@@ -181,10 +187,12 @@ C0805586,C4289767,PREVENTS,Challenge,Colonization,hlca,fndg,1,PREVENTS_HLCAprevF
 C0805586,C4738506,PREVENTS,Challenge,Operating,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0812170,C3840880,PREVENTS,telephone triage,Traffic,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0850397,C0038435,PREVENTS,health information,Stress,hlca,fndg,1,PREVENTS_HLCAprevFNDG
+C0850397,C0080048,PREVENTS,health information,Privacy,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0850397,C0277787,PREVENTS,health information,Social stigmata,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0850397,C0442797,PREVENTS,health information,Decreasing,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0850397,C0518904,PREVENTS,health information,health knowledge,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C0850397,C1281905,PREVENTS,health information,At risk of disease,hlca,fndg,2,PREVENTS_HLCAprevFNDG
+C1113679,C0025115,PREVENTS,patient safety,Medication Error,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C1113679,C0038435,PREVENTS,patient safety,Stress,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C1113679,C0085639,PREVENTS,patient safety,Falls,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C1113679,C0332149,PREVENTS,patient safety,Possible,hlca,fndg,1,PREVENTS_HLCAprevFNDG
@@ -193,8 +201,10 @@ C1144866,C1320717,PREVENTS,Multi-disciplinary team,Respiratory event,hlca,fndg,1
 C1144866,C1718157,PREVENTS,Multi-disciplinary team,Oral problems,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C1144866,C4086268,PREVENTS,Multi-disciplinary team,Exacerbation,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C1144866,C4698659,PREVENTS,Multi-disciplinary team,Central line-associated bloodstream infection,hlca,fndg,1,PREVENTS_HLCAprevFNDG
+C1261322,C0025115,PREVENTS,Evaluation procedure,Medication Error,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C1261322,C0035648,PREVENTS,Evaluation procedure,risk factors,hlca,fndg,3,PREVENTS_HLCAprevFNDG
 C1261322,C0038435,PREVENTS,Evaluation procedure,Stress,hlca,fndg,3,PREVENTS_HLCAprevFNDG
+C1261322,C0080048,PREVENTS,Evaluation procedure,Privacy,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C1261322,C0087130,PREVENTS,Evaluation procedure,Uncertainty,hlca,fndg,2,PREVENTS_HLCAprevFNDG
 C1261322,C0205557,PREVENTS,Evaluation procedure,False Positive,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C1261322,C0231224,PREVENTS,Evaluation procedure,Crisis,hlca,fndg,1,PREVENTS_HLCAprevFNDG
@@ -216,6 +226,7 @@ C1441722,C1545588,PREVENTS,Rebreathing,Protection,hlca,fndg,1,PREVENTS_HLCAprevF
 C1444562,C0079291,PREVENTS,Wellness surveillance,Environmental hazard,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C1444562,C0235109,PREVENTS,Wellness surveillance,Mental distress,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C1514232,C0035648,PREVENTS,Population Intervention,risk factors,hlca,fndg,1,PREVENTS_HLCAprevFNDG
+C1514821,C0080048,PREVENTS,Registration,Privacy,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C1514821,C1760428,PREVENTS,Registration,Suicidal behavior,hlca,fndg,2,PREVENTS_HLCAprevFNDG
 C1515089,C0521654,PREVENTS,Surgical Management,Neurologic Deficits,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C1515089,C1883041,PREVENTS,Surgical Management,Device Slipped,hlca,fndg,1,PREVENTS_HLCAprevFNDG
@@ -239,12 +250,14 @@ C1621885,C0337664,PREVENTS,Smoking cessation education,Smoker,hlca,fndg,1,PREVEN
 C2718080,C0023974,PREVENTS,Mobile Health,Loneliness,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C2735310,C0032972,PREVENTS,Care management,Pregnancy Outcome,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C2735310,C0151740,PREVENTS,Care management,Intracranial Hypertension,hlca,fndg,1,PREVENTS_HLCAprevFNDG
+C2919279,C0080048,PREVENTS,Administration of digitalis,Privacy,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C2936643,C0349790,PREVENTS,Standard of Care,Exacerbation of asthma,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C2936643,C1457868,PREVENTS,Standard of Care,Worse,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C2936643,C4086268,PREVENTS,Standard of Care,Exacerbation,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C2958078,C0277787,PREVENTS,Psychosocial care (regime/therapy),Social stigmata,hlca,fndg,2,PREVENTS_HLCAprevFNDG
 C2986593,C0231303,PREVENTS,Tailored Intervention,Distress,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C2986593,C0277787,PREVENTS,Tailored Intervention,Social stigmata,hlca,fndg,1,PREVENTS_HLCAprevFNDG
+C3242284,C0080048,PREVENTS,Population Health,Privacy,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C3494402,C1254481,PREVENTS,Secondary Care,Patient Problem,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C3658272,C2984813,PREVENTS,Hazard Analysis and Critical Control Points,Microbial Contamination,hlca,fndg,1,PREVENTS_HLCAprevFNDG
 C3714362,C4018909,PREVENTS,Social Learning Theory,Overdose,hlca,fndg,1,PREVENTS_HLCAprevFNDG

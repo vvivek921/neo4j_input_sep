@@ -235,7 +235,6 @@ C0007584,C0339510,DIAGNOSES,Cell Count,Vitelliform Macular Dystrophy,lbpr,dsyn,2
 C0007584,C0339968,DIAGNOSES,Cell Count,Neonatal pneumonia,lbpr,dsyn,3,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0376538,DIAGNOSES,Cell Count,Porcine Reproductive and Respiratory Syndrome,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0376618,DIAGNOSES,Cell Count,Endotoxemia,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
-C0007584,C0393571,DIAGNOSES,Cell Count,Multiple System Atrophy,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0393591,DIAGNOSES,Cell Count,AICARDI-GOUTIERES SYNDROME,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0442867,DIAGNOSES,Cell Count,malignant disease,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0007584,C0442874,DIAGNOSES,Cell Count,Neuropathy,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
@@ -1515,6 +1514,7 @@ C0200665,C0011847,DIAGNOSES,Platelet mean volume determination (procedure),Diabe
 C0200665,C0021400,DIAGNOSES,Platelet mean volume determination (procedure),Influenza,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0200665,C0026847,DIAGNOSES,Platelet mean volume determination (procedure),Spinal Muscular Atrophy,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0200665,C0149725,DIAGNOSES,Platelet mean volume determination (procedure),Lower respiratory tract infection,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
+C0200665,C0270960,DIAGNOSES,Platelet mean volume determination (procedure),Congenital myopathy (disorder),lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0200665,C0275524,DIAGNOSES,Platelet mean volume determination (procedure),Coinfection,lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
 C0200665,C0393538,DIAGNOSES,Platelet mean volume determination (procedure),"Muscular Atrophy, Spinal, Type II",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0200665,C0746102,DIAGNOSES,Platelet mean volume determination (procedure),Chronic lung disease,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
@@ -2176,6 +2176,8 @@ C0600324,C0013369,DIAGNOSES,Serodiagnosis,Dysentery,lbpr,dsyn,1,DIAGNOSES_LBPRdi
 C0600324,C0014457,DIAGNOSES,Serodiagnosis,Eosinophilia,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0600324,C1175175,DIAGNOSES,Serodiagnosis,Severe Acute Respiratory Syndrome,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0600324,C5203670,DIAGNOSES,Serodiagnosis,COVID-19,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
+C0677746,C0275518,DIAGNOSES,Immunological Diagnostic Method,Acute infectious disease,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
+C0677746,C5203670,DIAGNOSES,Immunological Diagnostic Method,COVID-19,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0678118,C0017162,DIAGNOSES,Transmission Electron Microscopy,"Gastroenteritis, Transmissible, of Swine",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0678118,C0019247,DIAGNOSES,Transmission Electron Microscopy,Hereditary Diseases,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0678118,C0027341,DIAGNOSES,Transmission Electron Microscopy,Nail-Patella Syndrome,lbpr,dsyn,2,DIAGNOSES_LBPRdiagDSYN
@@ -2437,6 +2439,8 @@ C0947630,C1860224,DIAGNOSES,Scientific Study,ABLEPHARON-MACROSTOMIA SYNDROME,lbp
 C0947630,C3694279,DIAGNOSES,Scientific Study,Middle East Respiratory Syndrome,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0947630,C4551825,DIAGNOSES,Scientific Study,Megaloblastic Anemia 1,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0947630,C5203670,DIAGNOSES,Scientific Study,COVID-19,lbpr,dsyn,7,DIAGNOSES_LBPRdiagDSYN
+C0948712,C0036690,DIAGNOSES,Free plasma haemoglobin,Septicemia,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
+C0948712,C0543829,DIAGNOSES,Free plasma haemoglobin,pneumonia clinical,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0948762,C0001175,DIAGNOSES,Absolute neutrophil count,Acquired Immunodeficiency Syndrome,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0948762,C0004626,DIAGNOSES,Absolute neutrophil count,"Pneumonia, Bacterial",lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN
 C0948762,C0023530,DIAGNOSES,Absolute neutrophil count,Leukopenia,lbpr,dsyn,1,DIAGNOSES_LBPRdiagDSYN

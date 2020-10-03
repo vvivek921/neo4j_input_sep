@@ -1,6 +1,7 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0001551,C0020971,COMPARED_WITH,Immunologic Adjuvants,Immunization,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
 C0001551,C0020972,COMPARED_WITH,Immunologic Adjuvants,Immunization Schedule,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
+C0001551,C0021492,COMPARED_WITH,Immunologic Adjuvants,Intramuscular injection,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
 C0001551,C0032042,COMPARED_WITH,Immunologic Adjuvants,Placebos,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
 C0001551,C0042196,COMPARED_WITH,Immunologic Adjuvants,Vaccination,imft,topp,4,COMPARED_WITH_IMFTcpwtTOPP
 C0002092,C0413381,COMPARED_WITH,Allergens,Subcutaneous immunotherapy,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
@@ -26,6 +27,7 @@ C0005525,C0677881,COMPARED_WITH,Biological Response Modifiers,Cytotoxic Chemothe
 C0005525,C4763675,COMPARED_WITH,Biological Response Modifiers,Single Agent Therapy,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
 C0008015,C0019009,COMPARED_WITH,Macrophage Chemotactic Factors,therapeutic hemodilution,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
 C0019165,C0020971,COMPARED_WITH,Hepatitis B Antigens,Immunization,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
+C0019168,C0021492,COMPARED_WITH,Hepatitis B Surface Antigens,Intramuscular injection,imft,topp,2,COMPARED_WITH_IMFTcpwtTOPP
 C0021403,C0020971,COMPARED_WITH,Influenza virus vaccine,Immunization,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
 C0021403,C0042200,COMPARED_WITH,Influenza virus vaccine,Influenza vaccination,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
 C0021742,C0032042,COMPARED_WITH,Interferon Inducers,Placebos,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
@@ -40,6 +42,7 @@ C0255448,C0013806,COMPARED_WITH,anti-endothelial cell antibody,Electroconvulsive
 C0310663,C0199798,COMPARED_WITH,Animal disease vaccine,human vaccination,imft,topp,4,COMPARED_WITH_IMFTcpwtTOPP
 C0368898,C0280462,COMPARED_WITH,Chlamydia antigen,Cyclophosphamide/Fluorouracil/Tamoxifen,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
 C0376613,C0020971,COMPARED_WITH,"Vaccines, DNA",Immunization,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
+C0376613,C0021492,COMPARED_WITH,"Vaccines, DNA",Intramuscular injection,imft,topp,4,COMPARED_WITH_IMFTcpwtTOPP
 C0376613,C0042196,COMPARED_WITH,"Vaccines, DNA",Vaccination,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
 C0376613,C0199798,COMPARED_WITH,"Vaccines, DNA",human vaccination,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP
 C0376613,C0947647,COMPARED_WITH,"Vaccines, DNA",Manipulation procedure,imft,topp,1,COMPARED_WITH_IMFTcpwtTOPP

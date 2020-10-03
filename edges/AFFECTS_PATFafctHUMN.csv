@@ -2,7 +2,6 @@ cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0001122,C0596227,AFFECTS,Acidosis,british,patf,humn,1,AFFECTS_PATFafctHUMN
 C0002994,C0596227,AFFECTS,Angioedema,british,patf,humn,1,AFFECTS_PATFafctHUMN
 C0002994,C4522252,AFFECTS,Angioedema,Foundation for the Accreditation of Cellular Therapy,patf,humn,1,AFFECTS_PATFafctHUMN
-C0004144,C0728836,AFFECTS,Atelectasis,young child,patf,humn,1,AFFECTS_PATFafctHUMN
 C0004144,C0871685,AFFECTS,Atelectasis,Clinician,patf,humn,1,AFFECTS_PATFafctHUMN
 C0005001,C0043210,AFFECTS,Benign prostatic hypertrophy,Woman,patf,humn,1,AFFECTS_PATFafctHUMN
 C0008767,C0085537,AFFECTS,Cicatrization,Caregiver,patf,humn,1,AFFECTS_PATFafctHUMN
@@ -51,6 +50,7 @@ C0034065,C0001792,AFFECTS,Pulmonary Embolism,Elderly (population group),patf,hum
 C0034065,C0871685,AFFECTS,Pulmonary Embolism,Clinician,patf,humn,1,AFFECTS_PATFafctHUMN
 C0034065,C1516213,AFFECTS,Pulmonary Embolism,Cancer Patient,patf,humn,1,AFFECTS_PATFafctHUMN
 C0035228,C4740649,AFFECTS,Respiratory Hypersensitivity,Specific population,patf,humn,1,AFFECTS_PATFafctHUMN
+C0035619,C1709854,AFFECTS,"Ventricular Outflow Obstruction, Right",Recipient,patf,humn,1,AFFECTS_PATFafctHUMN
 C0036679,C0018724,AFFECTS,Diastasis,Health Personnel,patf,humn,1,AFFECTS_PATFafctHUMN
 C0036679,C0028661,AFFECTS,Diastasis,Nurses,patf,humn,1,AFFECTS_PATFafctHUMN
 C0036679,C0851286,AFFECTS,Diastasis,Staff,patf,humn,1,AFFECTS_PATFafctHUMN
@@ -75,14 +75,12 @@ C0151526,C3812881,AFFECTS,Premature Birth,Author,patf,humn,1,AFFECTS_PATFafctHUM
 C0151763,C0001792,AFFECTS,Liver damage,Elderly (population group),patf,humn,1,AFFECTS_PATFafctHUMN
 C0161816,C0870668,AFFECTS,Cardiac complication,hospitalized patients,patf,humn,1,AFFECTS_PATFafctHUMN
 C0161816,C4522252,AFFECTS,Cardiac complication,Foundation for the Accreditation of Cellular Therapy,patf,humn,2,AFFECTS_PATFafctHUMN
-C0161818,C0728836,AFFECTS,Respiratory complication,young child,patf,humn,1,AFFECTS_PATFafctHUMN
 C0161818,C4288965,AFFECTS,Respiratory complication,Hematopoietic Cell Transplant Recipient,patf,humn,1,AFFECTS_PATFafctHUMN
 C0162633,C0376387,AFFECTS,Viral Shedding,Transplant Recipients,patf,humn,3,AFFECTS_PATFafctHUMN
 C0162633,C0679924,AFFECTS,Viral Shedding,professional occupation status,patf,humn,1,AFFECTS_PATFafctHUMN
 C0162633,C0870668,AFFECTS,Viral Shedding,hospitalized patients,patf,humn,1,AFFECTS_PATFafctHUMN
 C0231339,C0683626,AFFECTS,Problem of aging,human group,patf,humn,1,AFFECTS_PATFafctHUMN
 C0235280,C0206194,AFFECTS,Ototoxicity,Survivors,patf,humn,1,AFFECTS_PATFafctHUMN
-C0236003,C0728836,AFFECTS,Mucous membrane swelling,young child,patf,humn,1,AFFECTS_PATFafctHUMN
 C0242184,C0150775,AFFECTS,Hypoxia,Social Networks,patf,humn,1,AFFECTS_PATFafctHUMN
 C0242184,C1999167,AFFECTS,Hypoxia,Old age,patf,humn,1,AFFECTS_PATFafctHUMN
 C0242184,C2700616,AFFECTS,Hypoxia,Workforce - population group,patf,humn,1,AFFECTS_PATFafctHUMN
@@ -130,7 +128,6 @@ C1373218,C1709854,AFFECTS,Decreased Immunologic Activity [PE],Recipient,patf,hum
 C1373218,C4331301,AFFECTS,Decreased Immunologic Activity [PE],Solid Organ Transplant Recipient,patf,humn,1,AFFECTS_PATFafctHUMN
 C1520005,C0037179,AFFECTS,Viral Pathogenesis,Unmarried person,patf,humn,2,AFFECTS_PATFafctHUMN
 C1520005,C0683626,AFFECTS,Viral Pathogenesis,human group,patf,humn,1,AFFECTS_PATFafctHUMN
-C2717792,C0728836,AFFECTS,Airway Remodeling,young child,patf,humn,1,AFFECTS_PATFafctHUMN
 C3658208,C0684312,AFFECTS,Dysbiosis,Drivers of Vehicles,patf,humn,1,AFFECTS_PATFafctHUMN
 C3658208,C1999167,AFFECTS,Dysbiosis,Old age,patf,humn,1,AFFECTS_PATFafctHUMN
 C3714514,C0001792,AFFECTS,Infection,Elderly (population group),patf,humn,9,AFFECTS_PATFafctHUMN
@@ -155,7 +152,6 @@ C3714514,C0524647,AFFECTS,Infection,Soldiers,patf,humn,1,AFFECTS_PATFafctHUMN
 C3714514,C0679924,AFFECTS,Infection,professional occupation status,patf,humn,2,AFFECTS_PATFafctHUMN
 C3714514,C0682355,AFFECTS,Infection,tourist,patf,humn,1,AFFECTS_PATFafctHUMN
 C3714514,C0687759,AFFECTS,Infection,traveler,patf,humn,2,AFFECTS_PATFafctHUMN
-C3714514,C0728836,AFFECTS,Infection,young child,patf,humn,1,AFFECTS_PATFafctHUMN
 C3714514,C0851286,AFFECTS,Infection,Staff,patf,humn,1,AFFECTS_PATFafctHUMN
 C3714514,C0870602,AFFECTS,Infection,geriatric patients,patf,humn,5,AFFECTS_PATFafctHUMN
 C3714514,C0870668,AFFECTS,Infection,hospitalized patients,patf,humn,2,AFFECTS_PATFafctHUMN
@@ -177,7 +173,6 @@ C3714514,C4331301,AFFECTS,Infection,Solid Organ Transplant Recipient,patf,humn,1
 C3714514,C4505216,AFFECTS,Infection,Electronic cigarette user,patf,humn,1,AFFECTS_PATFafctHUMN
 C3714514,C4740649,AFFECTS,Infection,Specific population,patf,humn,1,AFFECTS_PATFafctHUMN
 C4061114,C0238703,AFFECTS,Acute illness,Athletes,patf,humn,1,AFFECTS_PATFafctHUMN
-C4061114,C0728836,AFFECTS,Acute illness,young child,patf,humn,1,AFFECTS_PATFafctHUMN
 C4289744,C0018724,AFFECTS,Contact Transmission,Health Personnel,patf,humn,1,AFFECTS_PATFafctHUMN
 C4505499,C0679924,AFFECTS,Transfusion-Transmitted Infection,professional occupation status,patf,humn,1,AFFECTS_PATFafctHUMN
 C4505499,C4740649,AFFECTS,Transfusion-Transmitted Infection,Specific population,patf,humn,1,AFFECTS_PATFafctHUMN

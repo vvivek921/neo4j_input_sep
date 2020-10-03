@@ -3,6 +3,7 @@ C0000039,orch,"1,2-dipalmitoylphosphatidylcholine"
 C0000263,orch,2-Aminopurine
 C0000294,orch,mesna
 C0000343,orch,25-Hydroxyvitamin D 2
+C0000464,orch,docosahexaenoate
 C0000473,orch,4-aminobenzoic acid
 C0000477,orch,dalfampridine
 C0000503,orch,gamma hydroxybutyrate
@@ -233,7 +234,6 @@ C0008269,orch,chloroquine
 C0008273,orch,chlorothiazide
 C0008281,orch,chlorpheniramine
 C0008286,orch,chlorpromazine
-C0008296,orch,chlorzoxazone
 C0008318,orch,cholecalciferol
 C0008366,orch,Cholestanes
 C0008395,orch,"Cholesterol, Dietary"
@@ -268,6 +268,7 @@ C0009217,orch,codeine phosphate
 C0009262,orch,colchicine
 C0009574,orch,Compound 48-80
 C0010194,orch,Cotinine
+C0010198,orch,cottonseed oil
 C0010206,orch,coumarin
 C0010207,orch,Coumarins
 C0010209,orch,Coumestrol
@@ -293,7 +294,6 @@ C0011090,orch,Decanoic Acids
 C0011122,orch,decoquinate
 C0011177,orch,Dehydroascorbic Acid
 C0011181,orch,Dehydrocholesterols
-C0011259,orch,Demecolcine
 C0011471,orch,Deoxy Sugars
 C0011501,orch,Deoxyglucose
 C0011685,orch,desipramine
@@ -331,7 +331,6 @@ C0012315,orch,Dihydropyridines
 C0012322,orch,dihydroxyacetone
 C0012328,orch,Dihydroxycholecalciferols
 C0012341,orch,iodoquinol
-C0012367,orch,Dilazep
 C0012373,orch,diltiazem
 C0012381,orch,dimenhydrinate
 C0012383,orch,dimercaprol
@@ -350,7 +349,6 @@ C0012533,orch,Diphenylhexatriene
 C0012544,orch,Diphosphonates
 C0012572,orch,Diprenorphine
 C0012582,orch,dipyridamole
-C0012584,orch,Bipyridyl
 C0012586,orch,dipyrone
 C0012611,orch,Disaccharides
 C0012694,orch,cromolyn sodium
@@ -378,6 +376,7 @@ C0014479,orch,ephedrine
 C0014485,orch,Epicatechin
 C0014582,orch,epirubicin
 C0014630,orch,Epoxy Compounds
+C0014654,orch,Equilin
 C0014695,orch,ergocalciferol
 C0014704,orch,ergonovine
 C0014705,orch,Ergosterol
@@ -419,7 +418,6 @@ C0015827,orch,fenfluramine
 C0015837,orch,fenoprofen
 C0015840,orch,fenoterol
 C0015846,orch,fentanyl
-C0015893,orch,Ferrozine
 C0016157,orch,fish oils
 C0016213,orch,Flavins
 C0016219,orch,Flavones
@@ -533,6 +531,7 @@ C0020404,orch,hydroxyzine
 C0020406,orch,hygromycin B
 C0020740,orch,ibuprofen
 C0020789,orch,idarubicin
+C0020817,orch,Iduronic Acid
 C0020823,orch,ifosfamide
 C0020923,orch,Imidazole
 C0020924,orch,Imidazoles
@@ -599,14 +598,12 @@ C0023992,orch,loperamide
 C0024002,orch,lorazepam
 C0024027,orch,lovastatin
 C0024056,orch,loxapine
-C0024200,orch,lymecycline
 C0024360,orch,Lysophosphatidylcholines
 C0024367,orch,Lysophospholipids
 C0024577,orch,Maleic Anhydrides
 C0024579,orch,Maleimides
 C0024658,orch,maltose
 C0024727,orch,Mannans
-C0024728,orch,Mannich Bases
 C0024730,orch,mannitol
 C0024742,orch,mannose
 C0024747,orch,Mannosides
@@ -629,7 +626,6 @@ C0025381,orch,mephenytoin
 C0025397,orch,merbromin
 C0025402,orch,2-Mercaptoethanol
 C0025541,orch,Metalloporphyrins
-C0025562,orch,Metanephrine
 C0025598,orch,metformin
 C0025601,orch,Methacrylates
 C0025605,orch,methadone
@@ -646,7 +642,6 @@ C0025677,orch,methotrexate
 C0025678,orch,methotrimeprazine
 C0025688,orch,methoxyflurane
 C0025698,orch,methyl chloride
-C0025760,orch,methylergonovine
 C0025779,orch,Methylhistamines
 C0025787,orch,Methylmalonic Acid
 C0025809,orch,Methylphenazonium Methosulfate
@@ -656,7 +651,6 @@ C0025854,orch,metolazone
 C0025859,orch,metoprolol
 C0025872,orch,metronidazole
 C0025887,orch,mexiletine
-C0025912,orch,mianserin
 C0025938,orch,Micelles
 C0025942,orch,miconazole
 C0026056,orch,midazolam
@@ -682,7 +676,6 @@ C0026818,orch,Muscimol
 C0026931,orch,Mycolic Acids
 C0027139,orch,Myristic Acids
 C0027235,orch,ipratropium
-C0027302,orch,nadolol
 C0027328,orch,Nafoxidine
 C0027330,orch,nafronyloxalate
 C0027348,orch,nalbuphine
@@ -703,7 +696,7 @@ C0028066,orch,nifedipine
 C0028067,orch,niflumic acid
 C0028073,orch,nifurtimox
 C0028094,orch,nimodipine
-C0028116,orch,nisoldipine
+C0028095,orch,nimorazole
 C0028127,orch,nitrendipine
 C0028128,orch,nitric oxide
 C0028131,orch,Nitriles
@@ -760,12 +753,14 @@ C0030773,orch,polyethylene glycol 1000
 C0030775,orch,polyethylene glycol 6000
 C0030776,orch,polyethylene glycol 8000
 C0030800,orch,pemoline
+C0030855,orch,Pentachlorophenol
 C0030858,orch,pentaerythritol tetranitrate
 C0030863,orch,pentamidine
 C0030866,orch,pentane
 C0030873,orch,pentazocine
 C0030883,orch,pentobarbital
 C0030894,orch,Pentoses
+C0030895,orch,sodium stibogluconate
 C0030899,orch,pentoxifylline
 C0030903,orch,pentylenetetrazole
 C0031013,orch,perhexiline
@@ -822,7 +817,6 @@ C0031923,orch,pilocarpine
 C0031935,orch,pimozide
 C0031937,orch,pindolol
 C0031952,orch,Pipecolic Acids
-C0031953,orch,pipemidic acid
 C0031957,orch,piperazine
 C0031958,orch,Piperazines
 C0031959,orch,piperidine
@@ -832,7 +826,6 @@ C0032251,orch,Pluronics
 C0032253,orch,Pluronic F-127
 C0032254,orch,Pluronic F68
 C0032433,orch,Polyamines
-C0032441,orch,Polybrominated Biphenyls
 C0032456,orch,Polycyclic Compounds
 C0032457,orch,Polycyclic Hydrocarbons
 C0032458,orch,"Polycyclic Hydrocarbons, Aromatic"
@@ -879,6 +872,7 @@ C0033558,orch,Prostaglandins D
 C0033560,orch,"Prostaglandins E, Synthetic"
 C0033563,orch,Prostaglandins G
 C0033568,orch,"Prostaglandins, Synthetic"
+C0033737,orch,Protoveratrines
 C0033744,orch,Ventolin
 C0033798,orch,pseudoephedrine
 C0033858,orch,Psoralens
@@ -923,7 +917,6 @@ C0034665,orch,ranitidine
 C0034738,orch,razoxane
 C0035179,orch,reserpine
 C0035339,orch,Retinoids
-C0035483,orch,Rhodamines
 C0035527,orch,riboflavin
 C0035549,orch,ribose
 C0035629,orch,rimantadine
@@ -959,6 +952,7 @@ C0037110,orch,Silicone Elastomers
 C0037128,orch,Hexamine Silver
 C0037134,orch,silver sulfadiazine
 C0037135,orch,silymarin
+C0037138,orch,simethicone
 C0037215,orch,sitosterols
 C0037487,orch,carboxymethylcellulose sodium
 C0037500,orch,"deoxycholic acid, monosodium salt"
@@ -972,7 +966,6 @@ C0037556,orch,sodium tetradecyl sulfate
 C0037567,orch,sodium valproate
 C0037688,orch,sorbitol
 C0037707,orch,sotalol
-C0037760,orch,Sparteine
 C0037900,orch,Sphingolipids
 C0037956,orch,Spiperone
 C0037982,orch,spironolactone
@@ -990,7 +983,6 @@ C0038633,orch,sucralfate
 C0038651,orch,Sugar Acids
 C0038654,orch,Sugar Alcohols
 C0038679,orch,sulfadoxine
-C0038681,orch,sulfaguanidine
 C0038722,orch,sulfathiazole
 C0038730,orch,Sulfenic Acids
 C0038734,orch,Sulfhydryl Compounds
@@ -1115,7 +1107,6 @@ C0042890,orch,Vitamins
 C0043331,orch,Xanthurenates
 C0043365,orch,Xylans
 C0043366,orch,xylazine
-C0043368,orch,Xylenes
 C0043369,orch,xylitol
 C0043501,orch,zinc-DTPA
 C0043513,orch,zolazepam
@@ -1128,7 +1119,6 @@ C0043750,orch,"1,2,3,4-tetrahydroisoquinoline"
 C0043775,orch,"1,2-bis(2-aminophenoxy)ethane-N,N,N',N'-tetraacetic acid"
 C0043799,orch,"1,2-diarachidonoyl-glycero-3-phosphocholine"
 C0043813,orch,"1,2-dihexadecyl-sn-glycero-3-phosphocholine"
-C0043822,orch,drospirenone
 C0043832,orch,deferiprone
 C0043843,orch,"1,2-dipalmitoyl-3-phosphatidylethanolamine"
 C0043847,orch,"1,2-dipalmitoylphosphatidylglycerol"
@@ -1143,7 +1133,6 @@ C0044091,orch,tenocyclidine
 C0044155,orch,1-(2-pyridylazo)-2-naphthol
 C0044191,orch,"1-(4-(trimethylamino)phenyl)-6-phenylhexa-1,3,5-triene"
 C0044222,orch,1-(5-Isoquinolinesulfonyl)-2-Methylpiperazine
-C0044270,orch,"1-amino-1,3-dicarboxycyclopentane"
 C0044307,orch,1-benzylpiperazine
 C0044369,orch,1-dodecylpyridoxal
 C0044409,orch,1-hydroxybenzotriazole
@@ -1190,6 +1179,7 @@ C0046088,orch,2-ethoxyethanol
 C0046096,orch,2-ethylhexanol
 C0046118,orch,2-fluoroethanol
 C0046138,orch,2-heptanone
+C0046188,orch,2-hydroxybutyric acid
 C0046306,orch,2-mercaptothiazoline
 C0046319,orch,2-methoxyestradiol
 C0046339,orch,2-methyl-3-hydroxybutyric acid
@@ -1239,6 +1229,7 @@ C0048072,orch,4-anisyltetrazolium blue
 C0048106,orch,"4-benzamido-4'-isothiocyanostilbene-2,2'-disulfonate"
 C0048120,orch,4-bromoacetophenone
 C0048134,orch,4-bromophenacyl bromide
+C0048158,orch,4-chloro-1-naphthol
 C0048197,orch,parachlorophenol
 C0048198,orch,4-chlorophenyl methyl sulfide
 C0048207,orch,4-coumaric acid
@@ -1254,6 +1245,7 @@ C0048328,orch,4-hydroxybenzylcyanide
 C0048363,orch,4-hydroxymercuribenzoate
 C0048385,orch,4-hydroxyphenylacetic acid
 C0048386,orch,4-hydroxyphenylethanol
+C0048433,orch,"4-maleimido-2,2,6,6-tetramethylpiperidinooxyl"
 C0048497,orch,4-methylhistamine
 C0048499,orch,4-methylmorpholine
 C0048553,orch,4-nitroaniline
@@ -1265,11 +1257,9 @@ C0048621,orch,4-nitrophenylgalactoside
 C0048668,orch,4-pentenoic acid
 C0048689,orch,4-propionyloxy-4-phenyl-N-methylpiperidine
 C0048701,orch,4-S-(propionic acid)sulfidocyclophosphamide
-C0048719,orch,4-toluenesulfonamide
 C0048721,orch,4-toluenesulfonic acid
 C0048722,orch,4-toluenesulfonyl chloride
 C0048733,orch,4-trifluoromethylsalicylic acid
-C0048740,orch,4-vinylpyridine
 C0048742,orch,4-xylene
 C0048852,orch,Lometrexol
 C0048876,orch,"5,5'-bis(8-(phenylamino)-1-naphthalenesulfonate)"
@@ -1308,7 +1298,6 @@ C0050322,orch,A(2)C
 C0050323,orch,A-130A
 C0050341,orch,AA 861
 C0050393,orch,acarbose
-C0050395,orch,ACC 30
 C0050423,orch,acetamide
 C0050445,orch,Acetoacetic acid
 C0050451,orch,acetohydroxamic acid
@@ -1330,7 +1319,6 @@ C0050905,orch,aeroplysinin I
 C0050940,orch,lansoprazole
 C0051000,orch,AH 23848
 C0051005,orch,AH 6809
-C0051027,orch,acadesine
 C0051033,orch,ajmalicine
 C0051034,orch,ajoene
 C0051060,orch,alanine-4-nitroanilide
@@ -1359,6 +1347,7 @@ C0051733,orch,amonafide
 C0051761,orch,"amphotericin B, deoxycholate drug combination"
 C0051767,orch,amsonic acid
 C0051771,orch,amyl acetate
+C0051809,orch,anagrelide
 C0051839,orch,anethole
 C0051842,orch,angelicin
 C0051920,orch,anisodamine
@@ -1396,7 +1385,6 @@ C0052708,orch,avicularin
 C0052745,orch,azadirachtin
 C0052762,orch,azelastine
 C0052794,orch,aziridine
-C0052805,orch,azobis(isobutyronitrile)
 C0052815,orch,azomycin
 C0052910,orch,bacterioruberin
 C0052919,orch,bafilomycin A1
@@ -1413,6 +1401,7 @@ C0053098,orch,bendectin
 C0053139,orch,benzamide
 C0053140,orch,benzamidine
 C0053142,orch,benzamil
+C0053163,orch,benzeneboronic acid
 C0053169,orch,benzenesulfonamide
 C0053170,orch,benzenesulfonic acid
 C0053171,orch,benzenesulfonyl chloride
@@ -1448,10 +1437,8 @@ C0053546,orch,bialaphos
 C0053567,orch,bifidus factor
 C0053570,orch,bifonazole
 C0053608,orch,binaltorphimine
-C0053612,orch,binifibrate
 C0053622,orch,biochanin A
 C0053654,orch,biotinyl N-hydroxysuccinimide ester
-C0053669,orch,biphenylylacetic acid
 C0053705,orch,bis(4-hydroxycinnamoyl)methane
 C0053721,orch,"2',7'-bis-(2-carboxyethyl)-5(6)-carboxyfluorescein acetoxymethyl ester"
 C0053755,orch,bis(tert-butoxycarbonyl)oxide
@@ -1460,7 +1447,6 @@ C0053776,orch,bisantrene
 C0053792,orch,bismuth subsalicylate
 C0053799,orch,bisoprolol
 C0053809,orch,Bistris
-C0053881,orch,pemirolast
 C0053963,orch,Bouin's solution
 C0054029,orch,brassinolide
 C0054038,orch,bremazocine
@@ -1567,7 +1553,6 @@ C0056269,orch,Coomassie blue
 C0056320,orch,coptisine
 C0056413,orch,costunolide
 C0056424,orch,coumermycin
-C0056461,orch,CR 39
 C0056471,orch,creatinol phosphate
 C0056476,orch,cremophor EL
 C0056503,orch,crocin
@@ -1659,7 +1644,6 @@ C0058109,orch,dihydrorhodamine 123
 C0058135,orch,dihydroxyaluminum sodium carbonate
 C0058141,orch,dihydroxyfumarate
 C0058160,orch,diisopropyl methylphosphonate
-C0058163,orch,diisopropylamine
 C0058164,orch,diisopropylamine dichloroacetate
 C0058171,orch,Diketopiperazines
 C0058187,orch,dimazine
@@ -1679,6 +1663,7 @@ C0058325,orch,"1,2-oleoylphosphatidylcholine"
 C0058330,orch,dioscin
 C0058353,orch,dipalmitoylphosphatidylserine
 C0058371,orch,diphenidol
+C0058379,orch,diphenylcyclopropenone
 C0058380,orch,diphenyldiselenide
 C0058381,orch,diphenyleneiodonium
 C0058383,orch,diphenylguanidine
@@ -1690,7 +1675,6 @@ C0058453,orch,discoidin-binding polysaccharide
 C0058479,orch,disuccinimidyl suberate
 C0058480,orch,disuccinimidyl tartarate
 C0058496,orch,dithiol
-C0058515,orch,divinylbenzene
 C0058516,orch,divinyl sulfone
 C0058632,orch,dodecyl sulfate
 C0058643,orch,dodecylphosphocholine
@@ -1723,9 +1707,7 @@ C0059460,orch,EPON
 C0059466,orch,epoxyfarnesyl diazoacetate
 C0059497,orch,Equol
 C0059506,orch,erdosteine
-C0059513,orch,ergocryptine
 C0059520,orch,"ergosterol-5,8-peroxide"
-C0059525,orch,Eriochrome Black T
 C0059531,orch,erucic acid
 C0059565,orch,erythromycin propionate-N-acetylcysteinate
 C0059589,orch,esculetin
@@ -1759,8 +1741,10 @@ C0060197,orch,Fenretinide
 C0060228,orch,ferric ammonium citrate
 C0060235,orch,ferric gluconate
 C0060237,orch,ferric maltol
+C0060239,orch,ferric nitrilotriacetate
 C0060276,orch,ferrous fumarate
 C0060291,orch,ferulic acid
+C0060304,orch,fexinidazole
 C0060397,orch,fisetin
 C0060425,orch,flavanone
 C0060427,orch,flavaspidic acid
@@ -1776,11 +1760,9 @@ C0060527,orch,fluorescein isothiocyanate dextran
 C0060583,orch,flupirtine
 C0060636,orch,formal glycol
 C0060657,orch,formoterol
-C0060658,orch,formula F 70
 C0060683,orch,Forssman glycolipid
 C0060696,orch,fotemustine
 C0060699,orch,FOY 251
-C0060754,orch,frentizole
 C0060765,orch,Fructosamine
 C0060794,orch,fucoidan
 C0060825,orch,fumaric acid
@@ -1804,7 +1786,6 @@ C0061103,orch,"ganglioside, GD1b-lactone"
 C0061139,orch,gastrodin
 C0061200,orch,geniposide
 C0061203,orch,genistin
-C0061208,orch,gentamicin B
 C0061213,orch,gentiobiose
 C0061214,orch,gentiopicroside
 C0061220,orch,geosmin
@@ -1847,6 +1828,7 @@ C0062096,orch,halofuginone lactate
 C0062101,orch,halopemide
 C0062124,orch,harman
 C0062175,orch,helichrysetin
+C0062212,orch,heme arginate
 C0062221,orch,hemicellulose
 C0062515,orch,heparin-sepharose
 C0062540,orch,hepsulfam
@@ -1866,7 +1848,6 @@ C0063125,orch,hydroxycotinine
 C0063127,orch,2-hydroxyethyl methacrylate
 C0063142,orch,"1,2,4-trihydroxybenzene"
 C0063175,orch,hydroxymuconic semialdehyde
-C0063186,orch,hydroxypropyl methacrylate
 C0063195,orch,hydroxystilbamidine
 C0063220,orch,hypericin
 C0063223,orch,hyperoside
@@ -1909,6 +1890,7 @@ C0064094,orch,isovaleric acid
 C0064110,orch,itaconic acid
 C0064113,orch,itraconazole
 C0064138,orch,jasmonic acid
+C0064149,orch,jervine
 C0064170,orch,juglone
 C0064216,orch,kahweol
 C0064280,orch,kaempferol
@@ -1987,7 +1969,6 @@ C0065712,orch,manumycin
 C0065724,orch,margaric acid
 C0065751,orch,matrine
 C0065797,orch,MDL 20610
-C0065832,orch,mebeverine
 C0065842,orch,meclonazepam
 C0065844,orch,mecobalamin
 C0065880,orch,Meglitinide
@@ -2011,7 +1992,6 @@ C0066268,orch,methyl methanethiosulfonate
 C0066286,orch,methyl tert-butyl ether
 C0066289,orch,tryptophan methyl ester
 C0066318,orch,methylamine
-C0066324,orch,methylamphotericin B
 C0066333,orch,methylazoxymethanol
 C0066350,orch,methylene dimethanesulfonate
 C0066360,orch,methylenecyclopropylglycine
@@ -2029,7 +2009,6 @@ C0066465,orch,metocurine
 C0066474,orch,metribuzin
 C0066491,orch,mezerein
 C0066535,orch,miglitol
-C0066586,orch,miramistin
 C0066621,orch,mivacurium
 C0066653,orch,ML 9
 C0066677,orch,modafinil
@@ -2088,7 +2067,6 @@ C0068273,orch,N-propionylprocainamide
 C0068285,orch,N-succinimidyl 3-(2-pyridyldithio)propionate
 C0068302,orch,N-sulfo-2-aminotricarballylate
 C0068333,orch,nabilone
-C0068334,orch,nabumetone
 C0068361,orch,Nafion
 C0068381,orch,naloxonazine
 C0068389,orch,naltrindole
@@ -2103,6 +2081,7 @@ C0068484,orch,neem oil
 C0068486,orch,neferine
 C0068515,orch,neodymium pyrocatechin disulfonate
 C0068517,orch,neohesperidin dihydrochalcone
+C0068578,orch,netobimin
 C0068608,orch,neuromelanin
 C0068649,orch,neurotropin
 C0068680,orch,nickel carbonyl
@@ -2135,7 +2114,6 @@ C0069397,orch,oleandrin
 C0069404,orch,oleoresins
 C0069409,orch,oleoylcarnitine
 C0069413,orch,oleuropein
-C0069456,orch,oltipraz
 C0069457,orch,olvanil
 C0069464,orch,omega-(4-iodophenyl)pentadecanoic acid
 C0069482,orch,omeprazole sulfone
@@ -2145,7 +2123,6 @@ C0069562,orch,rebamipide
 C0069592,orch,D&C orange no. 4
 C0069632,orch,rocuronium bromide
 C0069643,orch,origen
-C0069647,orch,ormetoprim
 C0069679,orch,osthol
 C0069690,orch,ovalicin
 C0069717,orch,oxaliplatin
@@ -2161,6 +2138,7 @@ C0069939,orch,paeonol
 C0069963,orch,palmatine
 C0069964,orch,palmidrol
 C0069966,orch,palmitoleic acid
+C0069971,orch,palmitoyl glycerol
 C0069991,orch,pamaquine
 C0070005,orch,pancratistatin
 C0070122,orch,paroxetine
@@ -2219,7 +2197,6 @@ C0071517,orch,Polybed 812
 C0071530,orch,Polychlorodibenzo-4-dioxin
 C0071538,orch,polydatin
 C0071545,orch,polydextrose
-C0071556,orch,polyether sulfone
 C0071577,orch,polyglycerol
 C0071615,orch,polymethacrylic acid
 C0071629,orch,polyol
@@ -2229,6 +2206,7 @@ C0071672,orch,polysaccharide C-substance (Streptococcus)
 C0071677,orch,polysialic acid
 C0071695,orch,polyurea
 C0071696,orch,polyurethane foam
+C0071703,orch,polyvinyl alcohol hydrogel
 C0071707,orch,polyvinylacetate phthalate polymer
 C0071710,orch,polyvinylidene fluoride
 C0071720,orch,Ponceau S
@@ -2238,7 +2216,6 @@ C0071833,orch,precocene I
 C0071839,orch,prednisolone acetate
 C0071956,orch,pretazettine
 C0071965,orch,previtamin D(3)
-C0071978,orch,primuline
 C0071986,orch,pristane
 C0072018,orch,proanthocyanidin
 C0072032,orch,procaterol
@@ -2271,7 +2248,6 @@ C0072538,orch,pseudohypericin
 C0072539,orch,pseudoisocyanine
 C0072552,orch,pseudopterosins
 C0072582,orch,pterosin
-C0072587,orch,PTU 23
 C0072591,orch,puerarin
 C0072594,orch,pulegone
 C0072595,orch,pullulan
@@ -2300,7 +2276,6 @@ C0072902,orch,QX-314
 C0072916,orch,cisapride
 C0072924,orch,R 61837
 C0072936,orch,R 97
-C0072953,orch,Raclopride
 C0072970,orch,ramiprilat
 C0072973,orch,ramipril
 C0072982,orch,Brassica napus oil
@@ -2330,17 +2305,16 @@ C0073415,orch,RMI 15731
 C0073556,orch,roemerine
 C0073561,orch,Rolipram
 C0073571,orch,ropivacaine
-C0073578,orch,basic fuchsin
 C0073590,orch,rosmarinic acid
 C0073603,orch,royal jelly
 C0073631,orch,ketorolac
 C0073715,orch,rutamarin
 C0073738,orch,RX 821002
 C0073749,orch,S 13
-C0073889,orch,S-methylisothiopseudouronium
 C0073903,orch,"S-pentachlorobuta-1,3-dien-yl-cysteine"
 C0073949,orch,Safranine T
 C0073959,orch,saikosaponin
+C0073966,orch,Salazopyrine
 C0073969,orch,salicin
 C0073971,orch,salicylaldehyde
 C0073984,orch,salicylurate
@@ -2385,7 +2359,6 @@ C0074797,orch,solanidine
 C0074903,orch,sophocarpine
 C0074906,orch,sophorose
 C0074917,orch,sorbitan trioleate
-C0074939,orch,Spandex
 C0074987,orch,sphinganine
 C0074992,orch,sphingosine 1-phosphate
 C0075018,orch,spirogermanium
@@ -2413,11 +2386,11 @@ C0075569,orch,sulfoglycolipids
 C0075599,orch,sulfosuccinimidyl 6-(biotinamido)hexanoate
 C0075632,orch,sumatriptan
 C0075660,orch,Surgicel
+C0075672,orch,swertiamarin
 C0075709,orch,syringic acid
 C0075733,orch,t-butyloxycarbonyl group
 C0075758,orch,tabernanthine
 C0075810,orch,tanshinone
-C0075816,orch,taraxerol
 C0075821,orch,tartaric acid
 C0075857,orch,tauroursodeoxycholic acid
 C0075861,orch,taxifolin
@@ -2464,6 +2437,7 @@ C0076686,orch,Timentin
 C0076693,orch,tin mesoporphyrin
 C0076711,orch,tiotidine
 C0076817,orch,tomatidine
+C0076823,orch,atomoxetine
 C0076829,orch,topiramate
 C0076836,orch,toremifene
 C0076891,orch,trandolapril
@@ -2479,6 +2453,7 @@ C0077034,orch,trichloroacetaldehyde
 C0077046,orch,sucralose
 C0077066,orch,Trichrome stain
 C0077067,orch,tricin
+C0077068,orch,tricine
 C0077071,orch,triclabendazole
 C0077072,orch,triclocarban
 C0077089,orch,triethanolamine
@@ -2514,7 +2489,6 @@ C0077537,orch,Tyloses
 C0077608,orch,U 18666A
 C0077634,orch,U 69593
 C0077640,orch,adozelesin
-C0077656,orch,ubiquinol
 C0077659,orch,ubiquinol-10
 C0077681,orch,7-hydroxystaurosporine
 C0077801,orch,ultrafine
@@ -2583,7 +2557,7 @@ C0081260,orch,"6,6'-dicorynomycolyl trehalose"
 C0081408,orch,zileuton
 C0081436,orch,acetone hydrazone
 C0081515,orch,aloenin
-C0081660,orch,asiatic acid
+C0081653,orch,artemetin
 C0081758,orch,beta-cyclodextrin tetradecasulfate
 C0081876,orch,pantoprazole
 C0081915,orch,carboxymethyl starch
@@ -2674,10 +2648,12 @@ C0091914,orch,bisindolylmaleimide I
 C0092548,orch,2-aminoadamantane
 C0092556,orch,2-aminobenzimidazole
 C0092764,orch,2-chloro-4-nitroaniline
+C0093056,orch,2-(beta-(4-hydroxyphenyl)ethylaminomethyl)tetralone
 C0093999,orch,nedaplatin
 C0095548,orch,3-hydroxybenzylhydrazine
 C0096724,orch,4-aminophenylphosphate
 C0097106,orch,4-hydroxyderricin
+C0097150,orch,4-iodobenzenesulfonamide
 C0097258,orch,4-methylmorpholine N-oxide
 C0097797,orch,"5,5',6,6'-tetrachloro-1,1',3,3'-tetraethylbenzimidazolocarbocyanine"
 C0098021,orch,5-(3-methyl-1-triazeno)imidazole-4-carboxamide
@@ -2688,6 +2664,7 @@ C0100724,orch,A 771726
 C0100994,orch,acacetin
 C0101048,orch,acesulfame potassium
 C0101334,orch,acteoside
+C0101782,orch,Affi gel blue
 C0102081,orch,albiflorin
 C0102118,orch,alendronate
 C0102131,orch,Algammulin
@@ -2731,7 +2708,6 @@ C0108160,orch,calcofluor white
 C0108171,orch,Calixarenes
 C0108178,orch,calmidazolium
 C0108225,orch,camostate-mesilate
-C0108263,orch,Cantor
 C0108304,orch,capsazepine
 C0108342,orch,carbamide peroxide
 C0108404,orch,carbohydrazide
@@ -2821,11 +2797,9 @@ C0125946,orch,Lipofectin
 C0125988,orch,cyclobenzaprine hydrochloride
 C0125995,orch,lithium acetate
 C0126002,orch,"dodecyl sulfate, lithium salt"
-C0126125,orch,Loftyl
 C0126169,orch,ciclopirox olamine
 C0126174,orch,losartan
 C0126266,orch,Lucigenin
-C0126347,orch,LY 255582
 C0126884,orch,Malononitrile dimer
 C0127061,orch,matairesinol
 C0127400,orch,Mediator brand of benfluorex hydrochloride
@@ -2843,16 +2817,15 @@ C0130052,orch,"N-(1-(2,3-dioleyloxy)propyl)-N,N,N-trimethylammonium chloride"
 C0130137,orch,sivelestat
 C0131553,orch,N-succinimidyl-5-iodo-3-pyridinecarboxylic acid
 C0131850,orch,naltrindole benzofuran
+C0131969,orch,NB 06
 C0132132,orch,Neolignans
 C0132172,orch,nerolidol
 C0132217,orch,neuraminlactose
 C0132326,orch,nevirapine
-C0132512,orch,nilvadipine
 C0132515,orch,nimesulide
 C0133660,orch,Caprylate
 C0133777,orch,OKY 046
 C0133788,orch,Oleates
-C0133951,orch,ONO 5046
 C0134026,orch,Optochin
 C0134184,orch,ortho-phenanthroline
 C0134223,orch,OSCN-
@@ -2894,7 +2867,6 @@ C0140591,orch,rilmenidine
 C0140725,orch,Ro 09-0179
 C0140858,orch,Roundup
 C0140924,orch,RQ2
-C0141068,orch,RV 144
 C0141113,orch,S 27
 C0141611,orch,Sb 1
 C0141745,orch,scleroglucan
@@ -2956,10 +2928,10 @@ C0147611,orch,UDEL
 C0147760,orch,"UK 14,304"
 C0148139,orch,valtrate
 C0148345,orch,vesnarinone
+C0148584,orch,VP-2
 C0148669,orch,W13 (Calmodulin Antagonist)
 C0148781,orch,Win 51711
 C0148948,orch,xanthoangelol
-C0149256,orch,Z-100
 C0149368,orch,zinc acetate
 C0149381,orch,zinc gluconate
 C0149389,orch,zinc picolinate
@@ -3042,7 +3014,6 @@ C0174492,orch,"pyridoxal phosphate-6-azophenyl-2',4'-disulfonic acid"
 C0174825,orch,asperuloside
 C0174883,orch,cresol
 C0174906,orch,arctiin
-C0175774,orch,Bipyridine
 C0175788,orch,Triacetate
 C0175804,orch,Propanols
 C0175817,orch,Dimethylaniline
@@ -3104,6 +3075,7 @@ C0209210,orch,dolasetron
 C0209227,orch,famciclovir
 C0209337,orch,rocuronium
 C0209368,orch,mycophenolate mofetil
+C0209453,orch,gadobenate dimeglumine
 C0209738,orch,lamivudine
 C0209891,orch,bizelesin
 C0209892,orch,mag-fura-2
@@ -3172,6 +3144,7 @@ C0244977,orch,ginsenoside Re
 C0245032,orch,losoxantrone
 C0245333,orch,IV(4)-galactosyl-N-acetylganglioside GD1a
 C0245514,orch,troglitazone
+C0245560,orch,2-amino-1-methyl-5-propylideneimidazol-4-one
 C0245696,orch,squamocin
 C0245778,orch,7-(N-(3-aminopropyl)amino)heptan-2-one
 C0245792,orch,hippeastrine
@@ -3193,7 +3166,6 @@ C0249445,orch,ethyl acetoxyacrylate
 C0249458,orch,valacyclovir
 C0249529,orch,febuxostat
 C0250438,orch,arabinoxylan
-C0250624,orch,SR 140333
 C0251092,orch,cercosporamide
 C0251223,orch,wogonin
 C0251504,orch,zaleplon
@@ -3215,7 +3187,6 @@ C0254751,orch,orange oil
 C0255203,orch,WIN 64821
 C0255832,orch,F21
 C0256130,orch,2'-hydroxyacetophenone
-C0256172,orch,moguisteine
 C0256185,orch,hypoxoside
 C0256225,orch,safranal
 C0256393,orch,N-benzyloxycarbonylglycine
@@ -3253,11 +3224,11 @@ C0282070,orch,benzydamine hydrochloride
 C0282100,orch,Paludrine
 C0282145,orch,diphenoxylate hydrochloride
 C0282152,orch,doxapram hydrochloride
+C0282162,orch,emetine hydrochloride
 C0282169,orch,M99
 C0282194,orch,Polybrene
 C0282210,orch,isoproterenol hydrochloride
 C0282303,orch,phenobarbital sodium
-C0282321,orch,propranolol hydrochloride
 C0282336,orch,rimantadine hydrochloride
 C0282398,orch,mefloquine hydrochloride
 C0282563,orch,Macrolides
@@ -3269,6 +3240,7 @@ C0282908,orch,morin hydrate
 C0282932,orch,trichloroacetamide
 C0282943,orch,LTA-2
 C0283149,orch,ophiocordin
+C0283159,orch,2-aminoacetaldehyde
 C0283231,orch,melibionic acid
 C0283283,orch,octyl glucoside
 C0283650,orch,H 241
@@ -3286,16 +3258,15 @@ C0286185,orch,mibefradil
 C0286198,orch,lariciresinol
 C0286263,orch,linopirdine
 C0286266,orch,D 174
-C0286402,orch,nadifloxacin
 C0286651,orch,atorvastatin
 C0286738,orch,saquinavir
 C0286746,orch,4-carboxybiphenyl ether
 C0286848,orch,stage-specific embryonic antigen-4
 C0286890,orch,tallimustine
 C0286921,orch,hernandezine
-C0287041,orch,eprosartan
 C0287294,orch,"3-(N-(N',N'-dimethylaminoethane)carbamoyl)cholesterol"
 C0287304,orch,celgosivir
+C0287444,orch,dendrophenol
 C0287573,orch,cefditoren
 C0287816,orch,E 2020
 C0287937,orch,EB 1089
@@ -3304,13 +3275,13 @@ C0288171,orch,irbesartan
 C0288688,orch,clobenpropit
 C0288792,orch,tazarotene
 C0289053,orch,MG 115
+C0289067,orch,GR 138950
 C0289313,orch,rosiglitazone
 C0289327,orch,biotin 1
 C0289779,orch,"2,4-thiazolidinedione"
 C0289969,orch,2-chloro-N(6)-(3-iodobenzyl)adenosine-5'-N-methyluronamide
 C0290883,orch,anastrozole
 C0291457,orch,AS 8
-C0291459,orch,GR 127935
 C0291985,orch,SB 202190
 C0292533,orch,13-hydroxylupanine
 C0292818,orch,ritonavir
@@ -3377,11 +3348,11 @@ C0301421,orch,witch hazel
 C0301429,orch,Animal fat
 C0301532,orch,Multivitamin preparation
 C0301554,orch,terpin hydrate
-C0301556,orch,arginine hydrochloride
 C0301658,orch,Simple organic compound
 C0301702,orch,Vaccenic acid
 C0301704,orch,phosphatidylserine
 C0301706,orch,Lysophosphatide
+C0302586,orch,Neosalvarsan
 C0302609,orch,Xanthine Oxidase Inhibitors
 C0303035,orch,Organic arsenic
 C0303747,orch,Organic dust
@@ -3408,17 +3379,20 @@ C0304376,orch,triflupromazine hydrochloride
 C0304395,orch,marijuana derivative
 C0304417,orch,"Semisynthetic alkaloid, NOS"
 C0304425,orch,ephedrine hydrochloride
+C0304448,orch,methohexital sodium
 C0304483,orch,Fat emulsion
 C0304518,orch,Aglycone
 C0304554,orch,aloe extract
 C0304706,orch,Dexamethasone-containing product in ocular dose form
 C0304721,orch,adrenal cortex extract
 C0305578,orch,centrum
+C0308094,orch,Vicks Vaporub
 C0308205,orch,Phisohex
 C0309049,orch,favor
 C0309312,orch,INTERCEPTOR
 C0309315,orch,INTRAUTERINE BOLUS
 C0309648,orch,NUTRI-CAL
+C0310628,orch,VTD
 C0338094,orch,2-nitro-imidazole derivative
 C0338344,orch,marimastat
 C0348029,orch,terpineol
@@ -3427,7 +3401,6 @@ C0353980,orch,Osmotic laxative
 C0354566,orch,intravenous heparin
 C0354594,orch,epoprostenol sodium
 C0354604,orch,oral anticoagulants
-C0355077,orch,chlorpromazine hydrochloride
 C0356191,orch,sulfonamides and trimethoprim
 C0359916,orch,Substance with phenol structure
 C0360055,orch,5-HT>3< receptor antagonist
@@ -3499,11 +3472,11 @@ C0382876,orch,tetrahydrodiferuloylmethane
 C0383127,orch,3-dehydroshikimic acid
 C0383128,orch,3-dehydroshikimate
 C0383608,orch,MS 444
-C0384232,orch,ABT 761
 C0384938,orch,CNI 1493
 C0384965,orch,ZM 241385
 C0384992,orch,manganese(III)-tetrakis(4-benzoic acid)porphyrin
 C0385079,orch,polymannose
+C0385178,orch,benzquercin
 C0385181,orch,ginsenoside Rg3
 C0385473,orch,FLUOS
 C0386062,orch,N-palmitoylsphingosine
@@ -3533,13 +3506,13 @@ C0392938,orch,zoledronate
 C0393003,orch,potassium oxonate
 C0393004,orch,chlorodihydroxypyridine
 C0393080,orch,voriconazole
+C0427905,orch,Calcium bilirubinate crystal
 C0439949,orch,Tetrazine
 C0440015,orch,dandelion extract
 C0443075,orch,Cerulin
 C0443399,orch,iodoethane
 C0443400,orch,propyl iodide
 C0443441,orch,Valerolactone
-C0444831,orch,Acrylic polymer
 C0452261,orch,tamarind extract
 C0453269,orch,bilberry extract
 C0491962,orch,SIRIUS RED
@@ -3577,7 +3550,6 @@ C0527436,orch,aceto-carmine
 C0527584,orch,spiraeoside
 C0527709,orch,phthalide
 C0528023,orch,cerivastatin
-C0528166,orch,zolmitriptan
 C0528327,orch,HFA 227
 C0528361,orch,Oxazolidin-2-one
 C0529336,orch,benzeneseleninic acid
@@ -3632,7 +3604,6 @@ C0539162,orch,epimedin C
 C0539309,orch,soyasaponin II
 C0539341,orch,6-carboxytetramethylrhodamine
 C0539441,orch,dammarenediol II
-C0539578,orch,AG-1296
 C0539894,orch,ampelopsin
 C0539896,orch,OSW 1
 C0540598,orch,acharan sulfate
@@ -3665,13 +3636,10 @@ C0578117,orch,Carbohydrate derivative
 C0578148,orch,Amine and amine derivative
 C0578399,orch,Quaternary Ammonium Compounds
 C0588989,orch,Organomercury compound and organomercury compound derivative
-C0591114,orch,Artane
 C0591139,orch,Bactrim
 C0591251,orch,Chloromycetin
-C0591468,orch,Dilatrend
 C0591516,orch,Fleet
 C0591635,orch,Imodium
-C0591911,orch,Optimax
 C0591971,orch,Phenergan
 C0592018,orch,prowess
 C0592024,orch,Pylorid
@@ -3679,6 +3647,7 @@ C0592141,orch,Strepsils
 C0592257,orch,Vita-E
 C0592278,orch,Zantac
 C0593906,orch,Lipitor
+C0594040,orch,Nasacort
 C0595490,orch,Malarone
 C0595726,orch,Leukotriene Antagonists
 C0596004,orch,hyoscyamine
@@ -3727,6 +3696,7 @@ C0597522,orch,sterol ester
 C0597572,orch,thioester
 C0597577,orch,thioxanthone
 C0597695,orch,ylide
+C0597778,orch,"Hydroxy Compound - Ephedrine, Hydroxyzine & Theophylline"
 C0597855,orch,diaminobenzene
 C0598439,orch,flavanoid
 C0598450,orch,trifluoromethyl group
@@ -3774,6 +3744,7 @@ C0602396,orch,C 27
 C0602703,orch,actinocin
 C0602735,orch,albonoursin
 C0602970,orch,chrysoeriol
+C0602971,orch,chrysophenine
 C0603200,orch,"1,2-di-(4-sulfamidophenyl)-4-butylpyrazolidine-3,5-dione"
 C0603249,orch,diethyl malonate
 C0603515,orch,mappicine
@@ -3791,7 +3762,6 @@ C0605411,orch,austin
 C0605507,orch,grandisol
 C0606070,orch,tocophersolan
 C0606181,orch,colchicoside
-C0606286,orch,LIDA
 C0606674,orch,polyamide epoxy
 C0606791,orch,acetylurea
 C0607192,orch,quindoline
@@ -3801,7 +3771,6 @@ C0608663,orch,P-2
 C0609066,orch,perimidine
 C0609317,orch,n-butyl n-butyrate
 C0609656,orch,moronic acid
-C0610217,orch,RG-4
 C0610376,orch,olivomycin A
 C0610867,orch,"6-(beta-pyridyl)-3-hydroxy-pyrazol(3,4b)pyridine"
 C0611760,orch,dimethylethylenediamine
@@ -3893,7 +3862,6 @@ C0632138,orch,7-anilinocoumarin-4-acetic acid
 C0632183,orch,N(4)-methoxy-5-methylcytosine
 C0632197,orch,casticin
 C0632212,orch,N-(2-cyanoethyl)-2-phenylethylamine
-C0632213,orch,lipstatin
 C0632225,orch,agelasine B
 C0632490,orch,N 30
 C0632858,orch,V33
@@ -3946,6 +3914,7 @@ C0643808,orch,SDM
 C0644377,orch,lunularic acid
 C0644846,orch,"2-bromo-1,4-benzoquinone"
 C0645045,orch,oxysceptrin
+C0645674,orch,"17-(N,N-diisopropylcarbamoyl)estra-1,3,5(10)-triene-3-sulfonic acid"
 C0645771,orch,20-oxo-20-deoxy-12-myristate 13-acetate
 C0646129,orch,N-acetoacetyl-N-deacetylcolchicine
 C0646149,orch,A-trisaccharide
@@ -4030,7 +3999,6 @@ C0668861,orch,V 70
 C0668916,orch,3-amino-1-propanol
 C0669017,orch,DY 9760e
 C0669247,orch,microcrystalline cellulose
-C0669498,orch,hydrogel film
 C0669612,orch,dihydroisoquinoline
 C0669631,orch,N-(3-oxododecanoyl)homoserine lactone
 C0669960,orch,HA 7
@@ -4047,11 +4015,13 @@ C0672292,orch,"2,4,3',5'-tetrahydroxystilbene"
 C0672708,orch,vorinostat
 C0673297,orch,ginsan
 C0673361,orch,biotinyltyramide
+C0673470,orch,istradefylline
 C0673477,orch,ultra-high molecular weight polyethylene
 C0673716,orch,lithospermic acid B
 C0674396,orch,SB 225002
 C0674428,orch,efavirenz
 C0674432,orch,lopinavir
+C0674540,orch,valine-pyrrolidide
 C0674666,orch,N-nonyl-1-deoxynojirimycin
 C0675175,orch,cysteinyl-leukotriene
 C0675409,orch,ginkgolic acid
@@ -4130,17 +4100,17 @@ C0700583,orch,diclofenac sodium
 C0700661,orch,Depakene
 C0700702,orch,Botox
 C0700776,orch,Lopressor
-C0700781,orch,Panavir
+C0700845,orch,Constant-T
 C0700872,orch,Glucal
 C0700979,orch,Ro 15-1788
 C0701042,orch,Cipro
 C0701063,orch,Cerubidine
 C0701091,orch,Corwin
 C0701187,orch,Campto
+C0701254,orch,Maxidex
 C0701303,orch,R-38486
 C0701339,orch,Proleukin
 C0701391,orch,ICS 205-930
-C0701454,orch,Isuprel
 C0701466,orch,Solu-Medrol
 C0702057,orch,Equipoise
 C0702190,orch,Neo-Synephrine
@@ -4148,16 +4118,17 @@ C0717550,orch,candesartan
 C0718133,orch,a & d
 C0718327,orch,Aldara
 C0718463,orch,Amidate
-C0718564,orch,Anti-Diarrhea
 C0718565,orch,anti-diarrheal
 C0718566,orch,Anti-Fungal
 C0718572,orch,anti-nausea
 C0718606,orch,Anx
 C0718617,orch,Apra
+C0718674,orch,Ascot
 C0718828,orch,Bayer Aspirin
 C0719066,orch,CP-2
 C0719177,orch,CARRINGTON
 C0719198,orch,Celebrex
+C0719335,orch,chromagen
 C0719519,orch,corrective
 C0719634,orch,DOK
 C0719712,orch,Deep Sea
@@ -4172,6 +4143,7 @@ C0720810,orch,Halotestin
 C0720930,orch,Hyrex Brand of Dimenhydrinate
 C0721062,orch,InFed
 C0721205,orch,KIE
+C0721474,orch,M-End
 C0721501,orch,MZM
 C0722001,orch,nausea control
 C0722236,orch,Ogen
@@ -4191,6 +4163,7 @@ C0724441,orch,yohimbine
 C0724556,orch,citric acid monohydrate
 C0724624,orch,medium chain triglycerides
 C0724672,orch,polyethylene glycol 3350
+C0724680,orch,quetiapine fumarate
 C0724693,orch,sildenafil citrate
 C0724695,orch,Sodium carbonate anhydrous
 C0724696,orch,sodium citrate dihydrate
@@ -4207,17 +4180,14 @@ C0731033,orch,leucovorin calcium
 C0731046,orch,capitol
 C0731141,orch,GTN
 C0731450,orch,Hibiscrub
-C0732784,orch,Lidocaine / Phenylephrine
 C0733382,orch,Y-93
 C0733397,orch,masoprocol
 C0733406,orch,ICRF-187
-C0733442,orch,P-071
 C0733466,orch,Orthoclone OKT3
 C0733688,orch,VP-16
 C0733854,orch,Intralipid
 C0740229,orch,Cope brand of aspirin-caffeine
 C0740231,orch,Geon
-C0740235,orch,proparacaine hydrochloride
 C0740247,orch,Genetron
 C0752086,orch,Glucuronides
 C0752091,orch,Glucuronic Acids
@@ -4228,7 +4198,6 @@ C0753951,orch,bicyclam
 C0754011,orch,abiraterone
 C0754188,orch,amprenavir
 C0754267,orch,NC100150
-C0754394,orch,Prostascint
 C0754462,orch,293B cpd
 C0754504,orch,yersiniabactin
 C0754570,orch,perifosine
@@ -4247,7 +4216,6 @@ C0758840,orch,CC 3052
 C0759009,orch,heme 1
 C0759032,orch,pleconaril
 C0759583,orch,SC 560
-C0759718,orch,pomolic acid
 C0759863,orch,single bond
 C0759922,orch,punicalagin
 C0759924,orch,nepetalactone
@@ -4275,6 +4243,7 @@ C0764476,orch,impentamine
 C0765139,orch,7-epiclusianone
 C0765273,orch,bexarotene
 C0765564,orch,betulonic acid
+C0766022,orch,Ruthenium Ben
 C0766266,orch,N-succinyl-chitosan
 C0766326,orch,dronedarone
 C0766510,orch,dihydroxy-vitamin D3
@@ -4324,7 +4293,6 @@ C0772125,orch,Ginkgo biloba extract
 C0772162,orch,AROMATICS
 C0772239,orch,zinc citrate
 C0772257,orch,fruit extracts
-C0772357,orch,wild yam extract
 C0772364,orch,loteprednol
 C0772411,orch,potato starch
 C0772453,orch,grape seed
@@ -4371,13 +4339,13 @@ C0874161,orch,oseltamivir
 C0875945,orch,poractant
 C0876148,orch,Relenza
 C0876173,orch,Tamiflu
-C0876212,orch,Visudyne
 C0876226,orch,Zyvox
 C0876742,orch,Icar
 C0876768,orch,Vioxx
 C0877869,orch,brequinar sodium
 C0878244,orch,Laetrile
 C0878253,orch,Salvarsan
+C0878363,orch,Prolate
 C0879272,orch,PS 341
 C0883242,orch,mycophenolate
 C0885057,orch,garlic preparation
@@ -4412,7 +4380,6 @@ C0897640,orch,tanshinone II A
 C0903411,orch,tafenoquine
 C0905527,orch,gypenoside
 C0906802,orch,STI571
-C0907461,orch,NPS-568
 C0907858,orch,oligofructose
 C0907891,orch,stachyflin
 C0908019,orch,epiafzelechin
@@ -4424,7 +4391,6 @@ C0908957,orch,4-PBA
 C0909264,orch,pifithrin
 C0909381,orch,valganciclovir
 C0909408,orch,"7,3'-dihydroxy-4'-methoxyisoflavone"
-C0909450,orch,polymyxin B(1)
 C0909605,orch,M40403
 C0909851,orch,torososide B
 C0909867,orch,deltoin
@@ -4480,6 +4446,7 @@ C0917591,orch,CTN
 C0917603,orch,euxanthone
 C0917748,orch,Gabexate Methanesulfonate
 C0917834,orch,U-44619
+C0917859,orch,zolazepam hydrochloride
 C0917900,orch,saccharin sodium
 C0917964,orch,Colforsin
 C0917976,orch,polyphenon E
@@ -4495,13 +4462,14 @@ C0936060,orch,Indoleacetic acid
 C0936072,orch,amantadine hydrochloride
 C0936148,orch,posaconazole
 C0937596,orch,anthraquinone glycoside
+C0937598,orch,apple pectin
 C0937599,orch,barley grain
 C0937627,orch,green tea leaf extract
 C0937846,orch,esomeprazole
-C0937941,orch,cider vinegar
-C0938430,orch,sea salt
+C0937858,orch,perflutren
 C0939261,orch,B-Complex
 C0939273,orch,Busulfex
+C0939278,orch,Capex
 C0939357,orch,Kaletra
 C0939510,orch,Trexall
 C0939537,orch,imatinib mesylate
@@ -4573,7 +4541,6 @@ C0963643,orch,TA protocol
 C0963677,orch,DCG 04
 C0963720,orch,hydroxymatairesinol
 C0963817,orch,sanguinine
-C0963839,orch,Lasofoxifene
 C0963910,orch,PD 168368
 C0964287,orch,alpha minimal essential medium
 C0964365,orch,glabrol
@@ -4628,9 +4595,11 @@ C0971579,orch,vardenafil
 C0971592,orch,mono-N-carboxymethylchitosan
 C0971758,orch,sambunigrin
 C0971795,orch,"4-hydroxy-5,5-dimethyl-2-trifluoromethylpyrroline-1-oxide"
+C0972266,orch,glycylcycline
 C0981805,orch,acetic
 C0982027,orch,apiole
 C0982061,orch,"CASTOR OIL,POLYOXYETHYLATED"
+C0982112,orch,D-glucuronic acid
 C0982180,orch,glyceryl monolaurate
 C0982257,orch,LICORICE COMPOUND
 C0982263,orch,LIVER INJECTION
@@ -4642,32 +4611,30 @@ C0991804,orch,CELLULOSE POLYMERS
 C0991850,orch,MILK FAT
 C0993234,orch,STOMACH EXTRACT
 C0994408,orch,elder extract
+C0994438,orch,horse chestnut preparation
+C1004024,orch,Quillaja Saponins
 C1095804,orch,Eucalyptus extract
 C1095890,orch,wormwood extract
 C1095914,orch,reishi mushroom preparation
 C1096766,orch,cisatracurium
 C1096768,orch,meglumine antimoniate
 C1096793,orch,"1,4-benzoquinone"
-C1096855,orch,parylene C
 C1096962,orch,BAY 38-4766
 C1097005,orch,n-butyllithium
 C1097019,orch,chlorofusin
 C1097130,orch,pentagalloylglucose
-C1097357,orch,2-methyl piperazine
 C1097664,orch,phosphorodiamidic acid
 C1097828,orch,denbinobin
 C1097856,orch,chlorfenapyr
 C1097914,orch,alpinetin
 C1098032,orch,poly(tetramethylene succinate-co-tetramethylene adipate)
 C1098051,orch,poly(ethylene glycol)diacrylate
-C1098080,orch,Crestor
 C1098134,orch,N1999-A2
 C1098195,orch,N-4-chlorobenzoyl-N'-benzoyl-N'-tert-butylhydrazine
 C1098209,orch,Cold-Eeze
 C1098320,orch,olmesartan
 C1098510,orch,fondaparinux
 C1098584,orch,8-hydroxycalamenene
-C1098957,orch,AM 1241
 C1099034,orch,alternan
 C1099056,orch,1-phenylpropanol
 C1099456,orch,escitalopram
@@ -4680,6 +4647,7 @@ C1100475,orch,poly(propyleneimine)
 C1100570,orch,methyl-1-formyl-6-oxa-6H-indene-4-carboxylate
 C1100643,orch,4-hydroxy-3-methylbut-2-enyl pyrophosphate
 C1100802,orch,Rotaxanes
+C1101148,orch,bilastine
 C1101294,orch,indigoidine
 C1101322,orch,trans-Resveratrol
 C1101542,orch,prostaglandin E1 methyl ester
@@ -4698,10 +4666,12 @@ C1119956,orch,Ganglioside GA2
 C1120110,orch,aliskiren
 C1120149,orch,thienopyridine
 C1120216,orch,dinitrophenylhydrazine
+C1120306,orch,Clerodane Diterpenes
 C1120972,orch,GW 6471
 C1121362,orch,petrobactin
 C1121424,orch,"1-amino-8-nephthol-2, 2'-disulfonic acid"
 C1121515,orch,FluoZin-3
+C1121525,orch,lidamycin
 C1121593,orch,ethyl cinnamate
 C1121667,orch,PEN 110
 C1121746,orch,BIRB 796
@@ -4712,12 +4682,12 @@ C1121856,orch,bacteriochlorin
 C1121924,orch,yatein
 C1122049,orch,BILS 179 BS
 C1122050,orch,BAY 57-1293
-C1122173,orch,7-amino-4-chloromethylcoumarin
 C1122222,orch,GW 7647
 C1122261,orch,BRACO-19
 C1122495,orch,diethylzinc
 C1122584,orch,lagerstroemin
 C1122623,orch,araguspongine C
+C1122695,orch,sephadex G 10
 C1122761,orch,S124
 C1122805,orch,4-hydroxychalcone
 C1122855,orch,climacostol
@@ -4778,12 +4748,12 @@ C1143418,orch,buflavine
 C1143577,orch,N-hydroxysulfosuccimide
 C1143748,orch,vibsanol B
 C1143759,orch,heptaplatin
-C1143837,orch,rhizocarpic acid
 C1143974,orch,Procion Red MX-5B
 C1144149,orch,lenalidomide
 C1144341,orch,CGP 57380
 C1144433,orch,SB202494
 C1144474,orch,kynapcin-28
+C1145666,orch,piperazine citrate
 C1145713,orch,BiCNU
 C1145759,orch,atazanavir
 C1145760,orch,treprostinil
@@ -4792,14 +4762,15 @@ C1165353,orch,anhydrous dextrose
 C1165603,orch,Dextrose solution
 C1166177,orch,histamine hydrochloride
 C1166209,orch,Viscum album preparation
-C1169987,orch,Acetaminophen / Tramadol
 C1170091,orch,BeneFIX
 C1170231,orch,Dryvax
 C1170232,orch,"Duet, Prenatal Multivitamins"
 C1170317,orch,Hextend
 C1170364,orch,Kineret
+C1170510,orch,pediatric cough
 C1170523,orch,Phenytek
 C1170730,orch,wake ups
+C1170748,orch,fibrinolysis inhibitor
 C1171720,orch,hemiasterlin
 C1171722,orch,jamtine
 C1171947,orch,Commit Lozenge
@@ -4827,6 +4798,7 @@ C1174840,orch,deracoxib
 C1174841,orch,JTE 013
 C1174885,orch,dihydromyricetin
 C1174893,orch,levocetirizine
+C1174930,orch,protoneodioscin
 C1175112,orch,oxidized-L-alpha-1-palmitoyl-2-arachidonoyl-sn-glycero-3-phosphorylcholine
 C1175344,orch,blebbistatin
 C1175348,orch,AEOL 10150
@@ -4943,11 +4915,13 @@ C1328819,orch,Small Molecule
 C1328934,orch,NMSO3
 C1330077,orch,Azasan
 C1337133,orch,dipropylene glycol
+C1337242,orch,cinacalcet
 C1337247,orch,polyethylene glycol 600
 C1337281,orch,bamboo extract
 C1337333,orch,SESTAMIBI
 C1364953,orch,polyethylene glycol 1500
-C1364955,orch,olive leaf extract
+C1365464,orch,Olive extract
+C1366044,orch,medronic acid
 C1370123,orch,eicosapentaenoate
 C1384515,orch,corn starch
 C1433069,orch,bevirimat
@@ -4955,7 +4929,6 @@ C1433070,orch,PA 457
 C1433600,orch,malvidin-3-O-glucoside-4 vinyl
 C1433815,orch,BAY 58-2667
 C1434419,orch,ammonium citrate
-C1434426,orch,Alexa fluor 546
 C1434680,orch,KF33955
 C1434857,orch,styrylquinoline
 C1434911,orch,CFI02
@@ -4965,6 +4938,7 @@ C1435444,orch,darunavir
 C1435604,orch,BMS 433771
 C1435738,orch,tall oil
 C1435950,orch,Acetogenins
+C1436179,orch,manassantin B
 C1436328,orch,eszopiclone
 C1436435,orch,NTZ
 C1440128,orch,Benzene ring
@@ -4995,10 +4969,12 @@ C1451163,orch,Lysosphingolipids
 C1451312,orch,14-hydroxycarminomycin
 C1451361,orch,HES 130-0.4
 C1451631,orch,elatol
+C1451651,orch,Stick resin
 C1451817,orch,4-methylaaptamine
 C1452002,orch,iclaprim
 C1452152,orch,3-ingenyl angelate
 C1452204,orch,vicriviroc
+C1452252,orch,aurone
 C1452673,orch,brevifoliol
 C1452684,orch,PXD101
 C1452890,orch,cepacian
@@ -5025,7 +5001,6 @@ C1506054,orch,GW 5074
 C1506206,orch,phenyl methimazole
 C1506263,orch,"2',3',4',5'-tetrahydroxystilbene-2-O-beta-D-glucoside"
 C1506514,orch,versipelostatin
-C1506550,orch,oxaline
 C1506590,orch,poly(ethylene glycol)silane
 C1506770,orch,lapatinib
 C1508746,orch,egg extract
@@ -5048,7 +5023,6 @@ C1519981,orch,Arkin
 C1520059,orch,Vitamin D Analog
 C1520122,orch,Compound 42
 C1521987,orch,X 27
-C1522505,orch,Recombinant Fibroblast Growth Factor-2
 C1527223,orch,130-nm albumin-bound paclitaxel
 C1527260,orch,CK0238273
 C1527991,orch,Vigil
@@ -5063,14 +5037,14 @@ C1529590,orch,GUT-70
 C1529741,orch,ISCOMATRIX
 C1529966,orch,Epitopic
 C1530151,orch,delphinidin 3-O-glucopyranoside
-C1530412,orch,"4-benzyl-2-methyl-1,2,4-thiadiazolidine-3,5-dione"
 C1530479,orch,AMD-070
 C1530749,orch,4-cyanopyridine
 C1531444,orch,MaxiPost
 C1532143,orch,Liposomal agent
 C1532298,orch,Emtricitabine- and tenofovir-containing product
-C1532485,orch,Ibuprofen / Oxycodone
+C1533312,orch,barley extract
 C1533316,orch,calcium malate
+C1533371,orch,lime oil
 C1533643,orch,glycolic acid
 C1537011,orch,Epoxyeicosatrienoic Acid
 C1537022,orch,homopolymer
@@ -5093,6 +5067,7 @@ C1566067,orch,bimosiamose
 C1566074,orch,salubrinal
 C1566588,orch,SL0101
 C1566614,orch,22-O-angeloylcamelliagenin C-3-O-(beta-D-glucopyranosyl-1-2)(beta-D-glucopyranosyl-1-2-O-L-arabinopyranosyl-1-3-)-beta-D-glucopyranosiduronic acid
+C1567010,orch,"9-benzyl-3-methylene-1,5-di-p-toluenesulfonyl-1,5,9-triazacyclododeane"
 C1567089,orch,Effectene
 C1567096,orch,ertiprotafib
 C1567234,orch,psymberin
@@ -5108,7 +5083,6 @@ C1568042,orch,isoliensinine
 C1568094,orch,"5S,12R,18R-trihydroxy-6Z,8E,10E,14Z,16E-eicosapentaenoic acid"
 C1568197,orch,5-(4-phenylbutoxy)psoralen
 C1568534,orch,lipid II
-C1568806,orch,lycoricidine
 C1569046,orch,metafectene
 C1569219,orch,"3-hydroxy-17-(1H-benzimidazole-1-yl)androsta-5,16-diene"
 C1569323,orch,Lanicor

@@ -45,6 +45,7 @@ C0002723,C3890735,AFFECTS,Serum amyloid A protein,Complete Response with Incompl
 C0003006,C0205160,AFFECTS,Angiotensin I,Negative,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0003006,C0598463,AFFECTS,Angiotensin I,Functional Status,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0003009,C0205160,AFFECTS,angiotensin II,Negative,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0003009,C0312830,AFFECTS,angiotensin II,Normal erythrocyte production,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0003009,C1320408,AFFECTS,angiotensin II,Urinary elimination status,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0003009,C1545588,AFFECTS,angiotensin II,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0003241,C0015663,AFFECTS,Antibodies,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
@@ -325,6 +326,7 @@ C0021027,C1545588,AFFECTS,Immunoglobulins,Protection,aapp,fndg,5,AFFECTS_AAPPafc
 C0021032,C1545588,AFFECTS,Immunoglobulin Fc Fragments,Protection,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0021032,C3816499,AFFECTS,Immunoglobulin Fc Fragments,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0021641,C0184511,AFFECTS,Insulin,Improved,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0021641,C0231298,AFFECTS,Insulin,Increased stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0021641,C0518003,AFFECTS,Insulin,autonomic function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0021641,C0522082,AFFECTS,Insulin,Normal glucose level,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0021641,C3816499,AFFECTS,Insulin,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
@@ -782,6 +784,7 @@ C0052350,C4055506,AFFECTS,arginyl-glycyl-aspartic acid,Accumulation,aapp,fndg,1,
 C0052441,C0439662,AFFECTS,Aryl Hydrocarbon Receptor,Immune,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0053851,C0439662,AFFECTS,blocking factor,Immune,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0053932,C0332149,AFFECTS,Bone Morphogenetic Proteins,Possible,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C0053932,C0597680,AFFECTS,Bone Morphogenetic Proteins,Water Quality,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0053997,C3245470,AFFECTS,bradykinin potentiating factors,GeneticObservationValue <HOMO>,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0054015,C0038435,AFFECTS,nesiritide,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0054594,C3816499,AFFECTS,cannabinoid receptor,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
@@ -1393,6 +1396,7 @@ C0597357,C4699158,AFFECTS,receptor,Increased risk,aapp,fndg,1,AFFECTS_AAPPafctFN
 C0597721,C0439662,AFFECTS,Janus kinase,Immune,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0597721,C1844666,AFFECTS,Janus kinase,Immune dysregulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0597790,C4055506,AFFECTS,Farnesyl-diphosphate farnesyltransferase,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C0597979,C0002682,AFFECTS,beta-Lactamase,Ampicillin Resistance,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0599220,C0033213,AFFECTS,Protein Subunits,Problem,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0599220,C0184512,AFFECTS,Protein Subunits,Stabilized (qualifier value),aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C0599220,C0205160,AFFECTS,Protein Subunits,Negative,aapp,fndg,3,AFFECTS_AAPPafctFNDG
@@ -1874,6 +1878,7 @@ C1412533,C1457868,AFFECTS,ARIH1 gene,Worse,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1412533,C3816499,AFFECTS,ARIH1 gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1412533,C3845288,AFFECTS,ARIH1 gene,Strong positive,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1412537,C0011053,AFFECTS,ARL2 gene,Deafness,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412537,C0475440,AFFECTS,ARL2 gene,Tumor size,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1412544,C4296962,AFFECTS,ARNTL gene,Normal function,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1412547,C0205160,AFFECTS,ARPC2 gene,Negative,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1412554,C4055506,AFFECTS,ARSB gene,Accumulation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
@@ -1903,6 +1908,7 @@ C1412871,C1545588,AFFECTS,VPS51 gene,Protection,aapp,fndg,2,AFFECTS_AAPPafctFNDG
 C1412871,C4321237,AFFECTS,VPS51 gene,High Level,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1412922,C3816499,AFFECTS,SERPING1 gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1412930,C0038435,AFFECTS,SUCO gene,Stress,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1412930,C0080048,AFFECTS,SUCO gene,Privacy,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1412933,C3816499,AFFECTS,C1QBP gene,Pathogenic,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1412995,C0333361,AFFECTS,C3AR1 gene,Acute inflammation,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1413049,C2004062,AFFECTS,CA6 gene,History of previous events,aapp,fndg,1,AFFECTS_AAPPafctFNDG
@@ -2433,6 +2439,7 @@ C1424652,C0332149,AFFECTS,SCGN gene,Possible,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1424704,C0015663,AFFECTS,CASC3 gene,Fasting,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1424707,C0205160,AFFECTS,NKD2 gene,Negative,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1424714,C0205160,AFFECTS,CARD8 gene,Negative,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C1424731,C0080048,AFFECTS,SYNE2 gene,Privacy,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1424731,C0205160,AFFECTS,SYNE2 gene,Negative,aapp,fndg,2,AFFECTS_AAPPafctFNDG
 C1424731,C0231224,AFFECTS,SYNE2 gene,Crisis,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1424743,C0427184,AFFECTS,TNPO3 gene,No incoordination,aapp,fndg,1,AFFECTS_AAPPafctFNDG
@@ -2854,6 +2861,7 @@ C1825598,C0231221,AFFECTS,IMPACT gene,Asymptomatic,aapp,fndg,1,AFFECTS_AAPPafctF
 C1825598,C0231224,AFFECTS,IMPACT gene,Crisis,aapp,fndg,21,AFFECTS_AAPPafctFNDG
 C1825598,C0231303,AFFECTS,IMPACT gene,Distress,aapp,fndg,2,AFFECTS_AAPPafctFNDG
 C1825598,C0233481,AFFECTS,IMPACT gene,Worried,aapp,fndg,2,AFFECTS_AAPPafctFNDG
+C1825598,C0233542,AFFECTS,IMPACT gene,Family conflict,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1825598,C0235195,AFFECTS,IMPACT gene,Sedated state,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C1825598,C0237849,AFFECTS,IMPACT gene,Peeling of skin,aapp,fndg,2,AFFECTS_AAPPafctFNDG
 C1825598,C0240795,AFFECTS,IMPACT gene,positional,aapp,fndg,1,AFFECTS_AAPPafctFNDG
@@ -3047,6 +3055,7 @@ C2744535,C0489642,AFFECTS,"CD69 protein, human",Intrapulmonary shunt,aapp,fndg,1
 C2744535,C0518609,AFFECTS,"CD69 protein, human",Consideration,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C2744535,C0578022,AFFECTS,"CD69 protein, human",Finding of body mass index,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C2744535,C0595998,AFFECTS,"CD69 protein, human",Household composition,aapp,fndg,1,AFFECTS_AAPPafctFNDG
+C2744535,C0597680,AFFECTS,"CD69 protein, human",Water Quality,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C2744535,C0679250,AFFECTS,"CD69 protein, human",Disease Outcome,aapp,fndg,1,AFFECTS_AAPPafctFNDG
 C2744535,C0700292,AFFECTS,"CD69 protein, human",Hypoxemia,aapp,fndg,2,AFFECTS_AAPPafctFNDG
 C2744535,C0743630,AFFECTS,"CD69 protein, human",exacerbation acute,aapp,fndg,1,AFFECTS_AAPPafctFNDG

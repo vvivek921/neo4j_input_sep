@@ -87,6 +87,7 @@ C0007584,C0205160,DIAGNOSES,Cell Count,Negative,lbpr,fndg,5,DIAGNOSES_LBPRdiagFN
 C0007584,C0205557,DIAGNOSES,Cell Count,False Positive,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0007584,C0221198,DIAGNOSES,Cell Count,Lesion,lbpr,fndg,61,DIAGNOSES_LBPRdiagFNDG
 C0007584,C0231162,DIAGNOSES,Cell Count,Normal general body function,lbpr,fndg,5,DIAGNOSES_LBPRdiagFNDG
+C0007584,C0231298,DIAGNOSES,Cell Count,Increased stress,lbpr,fndg,2,DIAGNOSES_LBPRdiagFNDG
 C0007584,C0231303,DIAGNOSES,Cell Count,Distress,lbpr,fndg,2,DIAGNOSES_LBPRdiagFNDG
 C0007584,C0231337,DIAGNOSES,Cell Count,Senility,lbpr,fndg,10,DIAGNOSES_LBPRdiagFNDG
 C0007584,C0231974,DIAGNOSES,Cell Count,Anatomical dead space,lbpr,fndg,6,DIAGNOSES_LBPRdiagFNDG
@@ -799,6 +800,7 @@ C0026019,C0332219,DIAGNOSES,Electron Microscopy,Easy,lbpr,fndg,2,DIAGNOSES_LBPRd
 C0026019,C0439663,DIAGNOSES,Electron Microscopy,Infected,lbpr,fndg,2,DIAGNOSES_LBPRdiagFNDG
 C0026019,C0449411,DIAGNOSES,Electron Microscopy,Causative_agents,lbpr,fndg,3,DIAGNOSES_LBPRdiagFNDG
 C0026019,C0749075,DIAGNOSES,Electron Microscopy,STRUCTURAL Abnormalities,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0026019,C1546905,DIAGNOSES,Electron Microscopy,Tissue diagnosis,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0026019,C1821461,DIAGNOSES,Electron Microscopy,Close Relationship,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0026019,C1832338,DIAGNOSES,Electron Microscopy,Axonal loss,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0026019,C1879646,DIAGNOSES,Electron Microscopy,Affected Area,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
@@ -1168,6 +1170,7 @@ C0201720,C3845876,DIAGNOSES,Serum protein electrophoresis,Consequent,lbpr,fndg,1
 C0201721,C0033687,DIAGNOSES,Urine protein electrophoresis,Proteinuria,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0201783,C1821461,DIAGNOSES,Inhibition test,Close Relationship,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0201784,C0746949,DIAGNOSES,Provocative test,nsaid allergy,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0201811,C0080048,DIAGNOSES,Fecal occult blood test,Privacy,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0201811,C0085393,DIAGNOSES,Fecal occult blood test,Immunocompromised Host,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0201811,C0150312,DIAGNOSES,Fecal occult blood test,Present,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0201927,C0085639,DIAGNOSES,Measurement of serum ionized calcium,Falls,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
@@ -1401,6 +1404,7 @@ C0525032,C0150312,DIAGNOSES,International Normalized Ratio,Present,lbpr,fndg,1,D
 C0525032,C1704258,DIAGNOSES,International Normalized Ratio,Abnormality,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0525032,C3251812,DIAGNOSES,International Normalized Ratio,Bleeding risk,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0545265,C1306857,DIAGNOSES,chemistry profile,Hyperglobulinemia,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0552546,C0221198,DIAGNOSES,microscopic exam,Lesion,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0555903,C0150312,DIAGNOSES,Total protein measurement,Present,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0555903,C0439662,DIAGNOSES,Total protein measurement,Immune,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0580327,C0150312,DIAGNOSES,Antibody studies (procedure),Present,lbpr,fndg,2,DIAGNOSES_LBPRdiagFNDG
@@ -1419,6 +1423,7 @@ C0596495,C1881707,DIAGNOSES,"Spectrometry, Mass, Electrospray Ionization",Materi
 C0596751,C0150312,DIAGNOSES,Immunoaffinity Chromatography,Present,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0596927,C0150312,DIAGNOSES,microcalorimetry,Present,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0596932,C0085393,DIAGNOSES,microorganism culture,Immunocompromised Host,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0597239,C0080048,DIAGNOSES,physical separation,Privacy,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0597239,C0231224,DIAGNOSES,physical separation,Crisis,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0597428,C0150312,DIAGNOSES,Sedimentation procedure,Present,lbpr,fndg,5,DIAGNOSES_LBPRdiagFNDG
 C0597428,C0425946,DIAGNOSES,Sedimentation procedure,Short menstrual periods,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
@@ -1468,6 +1473,7 @@ C0679560,C0262496,DIAGNOSES,Genetic screening method,Molecular Abnormality,lbpr,
 C0679560,C0281825,DIAGNOSES,Genetic screening method,Dysequilibrium,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0679560,C0439662,DIAGNOSES,Genetic screening method,Immune,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0679560,C0456498,DIAGNOSES,Genetic screening method,Fluid level behind tympanic membrane,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
+C0679560,C0558125,DIAGNOSES,Genetic screening method,Monogamous,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0679560,C0595998,DIAGNOSES,Genetic screening method,Household composition,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG
 C0679560,C0750484,DIAGNOSES,Genetic screening method,Confirmation,lbpr,fndg,2,DIAGNOSES_LBPRdiagFNDG
 C0679560,C1821461,DIAGNOSES,Genetic screening method,Close Relationship,lbpr,fndg,1,DIAGNOSES_LBPRdiagFNDG

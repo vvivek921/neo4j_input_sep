@@ -41,6 +41,7 @@ C0008971,C2926602,TREATS,Clinical Protocols,"Discharge, body substance",topp,sos
 C0009244,C0086132,TREATS,Cognitive Therapy,Depressive Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0009244,C0150055,TREATS,Cognitive Therapy,Chronic pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0009244,C0233397,TREATS,Cognitive Therapy,Psychological symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0009244,C0522179,TREATS,Cognitive Therapy,Death anxiety,topp,sosy,2,TREATS_TOPPtrtsSOSY
 C0009244,C0917801,TREATS,Cognitive Therapy,Sleeplessness,topp,sosy,13,TREATS_TOPPtrtsSOSY
 C0009429,C0011991,TREATS,Combined Modality Therapy,Diarrhea,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0009429,C0030193,TREATS,Combined Modality Therapy,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
@@ -109,6 +110,8 @@ C0021107,C0599766,TREATS,Implantation procedure,Recovery of Function,topp,sosy,1
 C0021485,C0002962,TREATS,Injection of therapeutic agent,Angina Pectoris,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0021485,C0030193,TREATS,Injection of therapeutic agent,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0021485,C2364135,TREATS,Injection of therapeutic agent,Discomfort,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C0021492,C0036572,TREATS,Intramuscular injection,Seizures,topp,sosy,2,TREATS_TOPPtrtsSOSY
+C0021492,C0085631,TREATS,Intramuscular injection,Agitation,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0021493,C0030193,TREATS,"Injections, Intraperitoneal",Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0021778,C0015672,TREATS,Intermittent Positive-Pressure Ventilation,Fatigue,topp,sosy,3,TREATS_TOPPtrtsSOSY
 C0021925,C0010200,TREATS,Intubation,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
@@ -262,7 +265,6 @@ C0149783,C0015967,TREATS,Steroid therapy,Fever,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0149783,C0037088,TREATS,Steroid therapy,Signs and Symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0149783,C0037090,TREATS,Steroid therapy,"Signs and Symptoms, Respiratory",topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0149783,C1517205,TREATS,Steroid therapy,Flare,topp,sosy,1,TREATS_TOPPtrtsSOSY
-C0150122,C0030193,TREATS,Active listening,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0150141,C0027769,TREATS,Bathing,Nervousness,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0150169,C2364135,TREATS,Childbirth preparation,Discomfort,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C0150219,C0010200,TREATS,Balance exercises,Coughing,topp,sosy,1,TREATS_TOPPtrtsSOSY
@@ -524,7 +526,6 @@ C1116142,C0015967,TREATS,Transfusion of granulocytes,Fever,topp,sosy,1,TREATS_TO
 C1272654,C0030193,TREATS,Wound care management,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C1273412,C0015967,TREATS,Chinese herbal medicine,Fever,topp,sosy,2,TREATS_TOPPtrtsSOSY
 C1273412,C0392171,TREATS,Chinese herbal medicine,Influenza-like symptoms,topp,sosy,1,TREATS_TOPPtrtsSOSY
-C1275602,C0241353,TREATS,Radical orchiectomy,Testicular mass,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C1280903,C0030193,TREATS,Exploration procedure,Pain,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C1285158,C0013404,TREATS,Palliative procedure,Dyspnea,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C1293338,C0003578,TREATS,Larynx closure,Apnea,topp,sosy,2,TREATS_TOPPtrtsSOSY
@@ -606,6 +607,7 @@ C2363964,C0231218,TREATS,Antiviral Administration,Malaise,topp,sosy,1,TREATS_TOP
 C2718059,C0040460,TREATS,Precision Medicine,Toothache,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C2827774,C0011991,TREATS,Current Therapy,Diarrhea,topp,sosy,2,TREATS_TOPPtrtsSOSY
 C2827774,C0497274,TREATS,Current Therapy,joint symptom,topp,sosy,1,TREATS_TOPPtrtsSOSY
+C2827774,C0522179,TREATS,Current Therapy,Death anxiety,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C2924511,C0039070,TREATS,Permanent pacemaker insertion,Syncope,topp,sosy,1,TREATS_TOPPtrtsSOSY
 C2945704,C0015967,TREATS,Conventional Treatment,Fever,topp,sosy,2,TREATS_TOPPtrtsSOSY
 C2945704,C0349410,TREATS,Conventional Treatment,Single organ dysfunction,topp,sosy,1,TREATS_TOPPtrtsSOSY

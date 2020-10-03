@@ -28,7 +28,6 @@ C0002520,C0038435,CAUSES,Amino Acids,Stress,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0002520,C0150312,CAUSES,Amino Acids,Present,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0002520,C0232370,CAUSES,Amino Acids,Florid red complexion (finding),aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0002520,C0476442,CAUSES,Amino Acids,High antibody titer,aapp,fndg,1,CAUSES_AAPPcausFNDG
-C0002520,C0854100,CAUSES,Amino Acids,nitrogen balance negative,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0002520,C1444783,CAUSES,Amino Acids,Instability,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0002520,C1545588,CAUSES,Amino Acids,Protection,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0002520,C3151529,CAUSES,Amino Acids,Lethal,aapp,fndg,1,CAUSES_AAPPcausFNDG
@@ -48,6 +47,7 @@ C0003006,C4055506,CAUSES,Angiotensin I,Accumulation,aapp,fndg,1,CAUSES_AAPPcausF
 C0003009,C0038435,CAUSES,angiotensin II,Stress,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0003009,C0184511,CAUSES,angiotensin II,Improved,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0003009,C0205400,CAUSES,angiotensin II,Thickened,aapp,fndg,1,CAUSES_AAPPcausFNDG
+C0003009,C0520818,CAUSES,angiotensin II,Increased pressure,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0003009,C0858943,CAUSES,angiotensin II,Impaired lung function,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0003009,C3277906,CAUSES,angiotensin II,Cardiac dysfunction,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0003009,C4021734,CAUSES,angiotensin II,Abnormality of mitochondrial metabolism,aapp,fndg,1,CAUSES_AAPPcausFNDG
@@ -331,6 +331,7 @@ C0017797,C0424589,CAUSES,glutamine,Vitality,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0017797,C4055506,CAUSES,glutamine,Accumulation,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0017797,C5205881,CAUSES,glutamine,Astrocyte Swelling,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0017817,C0038435,CAUSES,glutathione,Stress,aapp,fndg,1,CAUSES_AAPPcausFNDG
+C0017817,C0231298,CAUSES,glutathione,Increased stress,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0017824,C1560209,CAUSES,Glutathione Reductase,"Hemolysis, CTCAE",aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0017890,C0020621,CAUSES,glycine,Hypokalemia,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0017890,C3816499,CAUSES,glycine,Pathogenic,aapp,fndg,1,CAUSES_AAPPcausFNDG
@@ -364,6 +365,7 @@ C0018999,C0439662,CAUSES,Hemocyanin,Immune,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0019019,C0679838,CAUSES,Hemoglobin A2,Misdiagnosis,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0019043,C0038187,CAUSES,Sickle Hemoglobin,Starvation,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0019046,C0151754,CAUSES,Hemoglobin,Lactate Dehydrogenase Increased,aapp,fndg,1,CAUSES_AAPPcausFNDG
+C0019046,C0333912,CAUSES,Hemoglobin,Hypochromatism,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0019046,C0442797,CAUSES,Hemoglobin,Decreasing,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0019046,C0746961,CAUSES,Hemoglobin,Oxygen saturation below reference range,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0019046,C1560209,CAUSES,Hemoglobin,"Hemolysis, CTCAE",aapp,fndg,2,CAUSES_AAPPcausFNDG
@@ -792,6 +794,7 @@ C0042210,C0156543,CAUSES,Vaccines,Unspecified Abortion,aapp,fndg,2,CAUSES_AAPPca
 C0042210,C0184511,CAUSES,Vaccines,Improved,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0042210,C0205557,CAUSES,Vaccines,False Positive,aapp,fndg,2,CAUSES_AAPPcausFNDG
 C0042210,C0221198,CAUSES,Vaccines,Lesion,aapp,fndg,7,CAUSES_AAPPcausFNDG
+C0042210,C0231298,CAUSES,Vaccines,Increased stress,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0042210,C0231394,CAUSES,Vaccines,Decisional conflict,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0042210,C0232370,CAUSES,Vaccines,Florid red complexion (finding),aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0042210,C0235874,CAUSES,Vaccines,Disease Exacerbation,aapp,fndg,4,CAUSES_AAPPcausFNDG
@@ -941,7 +944,6 @@ C0061465,C0424230,CAUSES,Glutamate Receptor,Motor retardation,aapp,fndg,1,CAUSES
 C0061516,C0038435,CAUSES,glutathione disulfide,Stress,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0061878,C0376705,CAUSES,granzyme B,Viral Load result,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0061878,C0439662,CAUSES,granzyme B,Immune,aapp,fndg,1,CAUSES_AAPPcausFNDG
-C0062223,C5142829,CAUSES,hemichrome,Partial recovery,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0062529,C0038435,CAUSES,hepatitis B virus X protein,Stress,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0062529,C0333574,CAUSES,hepatitis B virus X protein,Fatty deposition,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0063344,C4055506,CAUSES,IgA receptor,Accumulation,aapp,fndg,1,CAUSES_AAPPcausFNDG
@@ -1036,6 +1038,7 @@ C0079189,C0231224,CAUSES,cytokine,Crisis,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0079189,C0231337,CAUSES,cytokine,Senility,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0079189,C0232370,CAUSES,cytokine,Florid red complexion (finding),aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0079189,C0235248,CAUSES,cytokine,Peripheral vasoconstriction,aapp,fndg,1,CAUSES_AAPPcausFNDG
+C0079189,C0235577,CAUSES,cytokine,Decreased Hematopoiesis,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0079189,C0278252,CAUSES,cytokine,Prognosis bad,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0079189,C0332509,CAUSES,cytokine,Increased size (finding),aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0079189,C0333361,CAUSES,cytokine,Acute inflammation,aapp,fndg,5,CAUSES_AAPPcausFNDG
@@ -1266,6 +1269,7 @@ C0214743,C1262477,CAUSES,Interleukin-13,Weight decreased,aapp,fndg,1,CAUSES_AAPP
 C0214743,C3687252,CAUSES,Interleukin-13,Eosinophilic inflammation,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0214743,C4321237,CAUSES,Interleukin-13,High Level,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0215508,C1559312,CAUSES,acute myeloid leukemia 1 protein,"Grade 5 Diarrhea, CTCAE",aapp,fndg,1,CAUSES_AAPPcausFNDG
+C0215848,C0231298,CAUSES,Hypoxia-Inducible Factor 1,Increased stress,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0215955,C4321237,CAUSES,"LCN2 protein, human",High Level,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0217532,C4321237,CAUSES,ficolin,High Level,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0218158,C1855067,CAUSES,Agammaglobulinaemia tyrosine kinase,B lymphocytopenia,aapp,fndg,1,CAUSES_AAPPcausFNDG
@@ -1345,6 +1349,7 @@ C0285890,C1853237,CAUSES,alpha-Synuclein,Isolated cases,aapp,fndg,1,CAUSES_AAPPc
 C0287990,C0029053,CAUSES,paired basic amino acid cleaving enzyme,Decreased translucency,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0287990,C0038435,CAUSES,paired basic amino acid cleaving enzyme,Stress,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0287990,C0231224,CAUSES,paired basic amino acid cleaving enzyme,Crisis,aapp,fndg,3,CAUSES_AAPPcausFNDG
+C0287990,C0520818,CAUSES,paired basic amino acid cleaving enzyme,Increased pressure,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0287990,C4321237,CAUSES,paired basic amino acid cleaving enzyme,High Level,aapp,fndg,2,CAUSES_AAPPcausFNDG
 C0287990,C4722602,CAUSES,paired basic amino acid cleaving enzyme,Underlying,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C0287990,C5194866,CAUSES,paired basic amino acid cleaving enzyme,Increased infections,aapp,fndg,1,CAUSES_AAPPcausFNDG
@@ -1736,7 +1741,6 @@ C1144709,C0497247,CAUSES,Natriuretic Peptides,Increase in blood pressure,aapp,fn
 C1172734,C4055506,CAUSES,natalizumab,Accumulation,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C1174937,C0856966,CAUSES,"PCSK9 protein, human",cholesterol levels low,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C1179464,C3272629,CAUSES,Cell-cell adhesion molecule,Epithelial Damage,aapp,fndg,1,CAUSES_AAPPcausFNDG
-C1180002,C4314297,CAUSES,Internexin,Decreased myelination,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C1180347,C2945640,CAUSES,Protein complex,compromise,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C1256770,C3272283,CAUSES,Vascular Endothelial Growth Factors,American College of Cardiology/American Heart Association Lesion Complexity Score C,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C1256770,C3272629,CAUSES,Vascular Endothelial Growth Factors,Epithelial Damage,aapp,fndg,1,CAUSES_AAPPcausFNDG
@@ -1815,6 +1819,7 @@ C1332823,C0043094,CAUSES,CXCR4 gene,Weight Gain,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C1332823,C4699623,CAUSES,CXCR4 gene,High activity,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C1332823,C5203340,CAUSES,CXCR4 gene,Lethality,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C1332826,C0743284,CAUSES,CYP1A2 gene,Drug Exposure,aapp,fndg,1,CAUSES_AAPPcausFNDG
+C1332838,C0520818,CAUSES,Candidate Disease Gene,Increased pressure,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C1333242,C1836407,CAUSES,DNMT3B gene,Early death,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C1333540,C4321237,CAUSES,FGF9 gene,High Level,aapp,fndg,1,CAUSES_AAPPcausFNDG
 C1333567,C4321351,CAUSES,FLT3LG gene,Low Level,aapp,fndg,1,CAUSES_AAPPcausFNDG

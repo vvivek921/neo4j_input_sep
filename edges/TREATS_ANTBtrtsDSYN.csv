@@ -392,7 +392,6 @@ C0003232,C0339952,TREATS,Antibiotics,Secondary bacterial pneumonia,antb,dsyn,8,T
 C0003232,C0339968,TREATS,Antibiotics,Neonatal pneumonia,antb,dsyn,2,TREATS_ANTBtrtsDSYN
 C0003232,C0340044,TREATS,Antibiotics,Acute exacerbation of chronic obstructive airways disease,antb,dsyn,2,TREATS_ANTBtrtsDSYN
 C0003232,C0340154,TREATS,Antibiotics,Acute mediastinitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
-C0003232,C0341270,TREATS,Antibiotics,Chemical colitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0003232,C0341439,TREATS,Antibiotics,Chronic liver disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0003232,C0341558,TREATS,Antibiotics,Intestinal infection due to E. coli,antb,dsyn,3,TREATS_ANTBtrtsDSYN
 C0003232,C0343386,TREATS,Antibiotics,Clostridium difficile infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
@@ -1118,7 +1117,6 @@ C0052796,C1175175,TREATS,azithromycin,Severe Acute Respiratory Syndrome,antb,dsy
 C0052796,C1301752,TREATS,azithromycin,Respiratory morbidity,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0052796,C1412002,TREATS,azithromycin,Atypical pneumonia,antb,dsyn,2,TREATS_ANTBtrtsDSYN
 C0052796,C1443953,TREATS,azithromycin,Acute viral disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
-C0052796,C1558931,TREATS,azithromycin,"Flu-Like Syndrome, CTCAE",antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0052796,C5203670,TREATS,azithromycin,COVID-19,antb,dsyn,186,TREATS_ANTBtrtsDSYN
 C0052918,C0392475,TREATS,bafilomycin A,Roberts-SC phocomelia syndrome,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0054036,C0035436,TREATS,Brefeldin A,Rheumatic Fever,antb,dsyn,1,TREATS_ANTBtrtsDSYN
@@ -1228,6 +1226,7 @@ C0085795,C1565489,TREATS,amphotericin,Renal Insufficiency,antb,dsyn,1,TREATS_ANT
 C0110038,C1827301,TREATS,clavulanate,Extensively Drug-Resistant Tuberculosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0140575,C0010418,TREATS,rifabutin,Cryptosporidiosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0140575,C5203670,TREATS,rifabutin,COVID-19,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0162894,C0036310,TREATS,"trimethoprim, sulfadoxine drug combination",Scheuermann's Disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0205881,C0010418,TREATS,paromomycin sulfate,Cryptosporidiosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0262964,C0206526,TREATS,capreomycin,"Tuberculosis, Multidrug-Resistant",antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0262967,C3539003,TREATS,dihydrostreptomycin,"NEUROPATHY, HEREDITARY SENSORY AND AUTONOMIC, TYPE VI",antb,dsyn,2,TREATS_ANTBtrtsDSYN
@@ -1321,6 +1320,7 @@ C0282386,C0694549,TREATS,levofloxacin,Community acquired pneumonia,antb,dsyn,3,T
 C0282386,C0748159,TREATS,levofloxacin,pulmonary involvement,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0282386,C1175175,TREATS,levofloxacin,Severe Acute Respiratory Syndrome,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0282386,C5203670,TREATS,levofloxacin,COVID-19,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0286402,C0702166,TREATS,nadifloxacin,Acne,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0304317,C0277556,TREATS,First generation cephalosporin,Recurrent disease,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0304320,C0023364,TREATS,Third generation cephalosporin,Leptospirosis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0304320,C0032300,TREATS,Third generation cephalosporin,Lobar Pneumonia,antb,dsyn,2,TREATS_ANTBtrtsDSYN
@@ -1330,6 +1330,7 @@ C0304320,C0694549,TREATS,Third generation cephalosporin,Community acquired pneum
 C0304320,C1868703,TREATS,Third generation cephalosporin,Bacterial tracheitis,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0304324,C0694549,TREATS,Aminopenicillin,Community acquired pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0304324,C0877046,TREATS,Aminopenicillin,Tooth Infection,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0304670,C0155141,TREATS,ophthalmic antibiotic,Acute conjunctivitis,antb,dsyn,3,TREATS_ANTBtrtsDSYN
 C0309728,C0043388,TREATS,LONG ACTING PENICILLIN,Yaws,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0310367,C0001175,TREATS,Today,Acquired Immunodeficiency Syndrome,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0310367,C0003873,TREATS,Today,Rheumatoid Arthritis,antb,dsyn,2,TREATS_ANTBtrtsDSYN
@@ -1400,6 +1401,7 @@ C0753645,C0155804,TREATS,gatifloxacin,Acute maxillary sinusitis,antb,dsyn,2,TREA
 C0887953,C0085426,TREATS,Oxazolidinones,Gram-Positive Bacterial Infections,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0907410,C0004096,TREATS,telithromycin,Asthma,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0907410,C0877430,TREATS,telithromycin,asthma chronic,antb,dsyn,1,TREATS_ANTBtrtsDSYN
+C0909450,C5203670,TREATS,polymyxin B(1),COVID-19,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0947657,C0032302,TREATS,Lincocin,Mycoplasma pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C0994341,C0027765,TREATS,plipastatins,nervous system disorder,antb,dsyn,1,TREATS_ANTBtrtsDSYN
 C1120106,C0032285,TREATS,ertapenem,Pneumonia,antb,dsyn,1,TREATS_ANTBtrtsDSYN

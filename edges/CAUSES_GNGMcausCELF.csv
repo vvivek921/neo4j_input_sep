@@ -1,10 +1,15 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0059984,C1155980,CAUSES,F-actin-binding proteins,actin filament depolymerization,gngm,celf,1,CAUSES_GNGMcausCELF
 C0076620,C1155013,CAUSES,thymosin fraction 5,T cell differentiation,gngm,celf,1,CAUSES_GNGMcausCELF
+C0166759,C0004391,CAUSES,"hemolysin, Vibrio",Autophagy,gngm,celf,1,CAUSES_GNGMcausCELF
+C0166759,C0162638,CAUSES,"hemolysin, Vibrio",Apoptosis,gngm,celf,1,CAUSES_GNGMcausCELF
+C0218798,C0162638,CAUSES,"VP2 protein, infectious bursal disease virus",Apoptosis,gngm,celf,1,CAUSES_GNGMcausCELF
 C0377914,C1155873,CAUSES,Proto-Oncogene Protein c-ets-1,Cell Cycle Arrest,gngm,celf,1,CAUSES_GNGMcausCELF
+C0486951,C2936268,CAUSES,"Human immunodeficiency virus, type I glycoprotein 41 antibody",Cytophagocytosis,gngm,celf,1,CAUSES_GNGMcausCELF
 C0537086,C0162638,CAUSES,glutathione S-transferase pi,Apoptosis,gngm,celf,1,CAUSES_GNGMcausCELF
 C0658161,C0010813,CAUSES,endodeoxyribonuclease BstAPI,Cytokinesis,gngm,celf,1,CAUSES_GNGMcausCELF
 C0663605,C0162638,CAUSES,DFF45 protein,Apoptosis,gngm,celf,1,CAUSES_GNGMcausCELF
+C0755633,C0162638,CAUSES,therin,Apoptosis,gngm,celf,1,CAUSES_GNGMcausCELF
 C0759655,C0162638,CAUSES,accutin,Apoptosis,gngm,celf,1,CAUSES_GNGMcausCELF
 C0812283,C0004391,CAUSES,RALB gene,Autophagy,gngm,celf,1,CAUSES_GNGMcausCELF
 C1333925,C1326207,CAUSES,HRK gene,Autophagic Cell Death,gngm,celf,1,CAUSES_GNGMcausCELF

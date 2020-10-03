@@ -4,6 +4,7 @@ C0003126,C0332149,PREDISPOSES,Anosmia,Possible,fndg,fndg,1,PREDISPOSES_FNDGpredF
 C0003126,C3845876,PREDISPOSES,Anosmia,Consequent,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0005758,C0278252,PREDISPOSES,Bulla,Prognosis bad,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0005758,C4289767,PREDISPOSES,Bulla,Colonization,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0007294,C0080048,PREDISPOSES,Genetic Carriers,Privacy,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0009488,C0087130,PREDISPOSES,Comorbidity,Uncertainty,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0009488,C0231337,PREDISPOSES,Comorbidity,Senility,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0009488,C0277608,PREDISPOSES,Comorbidity,Death in hospital,fndg,fndg,2,PREDISPOSES_FNDGpredFNDG
@@ -38,6 +39,8 @@ C0013658,C1446377,PREDISPOSES,Educational Status,Mental health problem,fndg,fndg
 C0015663,C0020649,PREDISPOSES,Fasting,Hypotension,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0016815,C0020440,PREDISPOSES,Functional Residual Capacity,Hypercapnia,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0016815,C0700292,PREDISPOSES,Functional Residual Capacity,Hypoxemia,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0018748,C0237849,PREDISPOSES,Health Services Accessibility,Peeling of skin,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0018748,C0332149,PREDISPOSES,Health Services Accessibility,Possible,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0020440,C0231848,PREDISPOSES,Hypercapnia,Air hunger,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0020440,C0871269,PREDISPOSES,Hypercapnia,Rhythm,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0020621,C1457868,PREDISPOSES,Hypokalemia,Worse,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -86,9 +89,11 @@ C0033150,C0410916,PREDISPOSES,Primiparity,Neonatal Death,fndg,fndg,1,PREDISPOSES
 C0033213,C0038435,PREDISPOSES,Problem,Stress,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0033213,C0038661,PREDISPOSES,Problem,Suicide,fndg,fndg,3,PREDISPOSES_FNDGpredFNDG
 C0033213,C0043094,PREDISPOSES,Problem,Weight Gain,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0033213,C0080048,PREDISPOSES,Problem,Privacy,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0033213,C0087130,PREDISPOSES,Problem,Uncertainty,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0033213,C0150312,PREDISPOSES,Problem,Present,fndg,fndg,3,PREDISPOSES_FNDGpredFNDG
 C0033213,C0184511,PREDISPOSES,Problem,Improved,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0033213,C0221706,PREDISPOSES,Problem,Traffic accident on public road,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0033213,C0231187,PREDISPOSES,Problem,Decompensation,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0033213,C0231224,PREDISPOSES,Problem,Crisis,fndg,fndg,2,PREDISPOSES_FNDGpredFNDG
 C0033213,C0235874,PREDISPOSES,Problem,Disease Exacerbation,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -184,6 +189,9 @@ C0041674,C3494174,PREDISPOSES,Unemployment,Food Insecurity,fndg,fndg,1,PREDISPOS
 C0043094,C0009488,PREDISPOSES,Weight Gain,Comorbidity,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0043094,C0332149,PREDISPOSES,Weight Gain,Possible,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0043094,C3844729,PREDISPOSES,Weight Gain,Very Important,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0080048,C0549649,PREDISPOSES,Privacy,MISUSE,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0080048,C1709157,PREDISPOSES,Privacy,Negative Surgical Margin,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0080048,C4744958,PREDISPOSES,Privacy,Privacy Breach,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0085393,C1836348,PREDISPOSES,Immunocompromised Host,Severe disorder,fndg,fndg,4,PREDISPOSES_FNDGpredFNDG
 C0085393,C3806166,PREDISPOSES,Immunocompromised Host,Poor outcome,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0085393,C3816499,PREDISPOSES,Immunocompromised Host,Pathogenic,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -198,6 +206,7 @@ C0087130,C0150312,PREDISPOSES,Uncertainty,Present,fndg,fndg,1,PREDISPOSES_FNDGpr
 C0087130,C0205160,PREDISPOSES,Uncertainty,Negative,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0087130,C0231221,PREDISPOSES,Uncertainty,Asymptomatic,fndg,fndg,2,PREDISPOSES_FNDGpredFNDG
 C0087130,C0231224,PREDISPOSES,Uncertainty,Crisis,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0087130,C0231298,PREDISPOSES,Uncertainty,Increased stress,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0087130,C0332149,PREDISPOSES,Uncertainty,Possible,fndg,fndg,2,PREDISPOSES_FNDGpredFNDG
 C0087130,C0332155,PREDISPOSES,Uncertainty,Did not receive therapy or drug for,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0087130,C0344339,PREDISPOSES,Uncertainty,Family illness,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -228,6 +237,7 @@ C0150312,C0035648,PREDISPOSES,Present,risk factors,fndg,fndg,3,PREDISPOSES_FNDGp
 C0150312,C0038435,PREDISPOSES,Present,Stress,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0150312,C0038661,PREDISPOSES,Present,Suicide,fndg,fndg,4,PREDISPOSES_FNDGpredFNDG
 C0150312,C0041667,PREDISPOSES,Present,Underweight,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0150312,C0080048,PREDISPOSES,Present,Privacy,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0150312,C0087130,PREDISPOSES,Present,Uncertainty,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0150312,C0162643,PREDISPOSES,Present,treatment failure,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0150312,C0184511,PREDISPOSES,Present,Improved,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -389,6 +399,7 @@ C0232461,C0043094,PREDISPOSES,Increased appetite (finding),Weight Gain,fndg,fndg
 C0233481,C0038435,PREDISPOSES,Worried,Stress,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0233481,C0439663,PREDISPOSES,Worried,Infected,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0233481,C0558261,PREDISPOSES,Worried,Terrified,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0233542,C0476644,PREDISPOSES,Family conflict,Physical and emotional exhaustion state,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0233849,C0038661,PREDISPOSES,Personality Traits,Suicide,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0233849,C0476644,PREDISPOSES,Personality Traits,Physical and emotional exhaustion state,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0233849,C1829822,PREDISPOSES,Personality Traits,Mental health.status,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -407,6 +418,7 @@ C0237154,C4018909,PREDISPOSES,Homelessness,Overdose,fndg,fndg,1,PREDISPOSES_FNDG
 C0237167,C0682076,PREDISPOSES,Language Barriers,ethnic differences,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0237490,C1836348,PREDISPOSES,Family Background,Severe disorder,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0237827,C4018909,PREDISPOSES,Social Rejection,Overdose,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0237849,C0080048,PREDISPOSES,Peeling of skin,Privacy,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0237849,C3845593,PREDISPOSES,Peeling of skin,Major change,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0238614,C0349790,PREDISPOSES,ALLERGEN EXPOSURE,Exacerbation of asthma,fndg,fndg,3,PREDISPOSES_FNDGpredFNDG
 C0239126,C1836348,PREDISPOSES,corticosteroid use,Severe disorder,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -432,6 +444,7 @@ C0262926,C0332149,PREDISPOSES,Medical History,Possible,fndg,fndg,1,PREDISPOSES_F
 C0262926,C2004062,PREDISPOSES,Medical History,History of previous events,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0277787,C0023974,PREDISPOSES,Social stigmata,Loneliness,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0277787,C0038435,PREDISPOSES,Social stigmata,Stress,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0277787,C0080048,PREDISPOSES,Social stigmata,Privacy,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0277787,C0332149,PREDISPOSES,Social stigmata,Possible,fndg,fndg,3,PREDISPOSES_FNDGpredFNDG
 C0277787,C0425152,PREDISPOSES,Social stigmata,Engaged to be married,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0277787,C0442751,PREDISPOSES,Social stigmata,Distance vision 6/9,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -543,6 +556,7 @@ C0392209,C4722602,PREDISPOSES,Nutritional status,Underlying,fndg,fndg,1,PREDISPO
 C0412771,C0043084,PREDISPOSES,Spontaneous respiration,Weaning,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0422837,C0332149,PREDISPOSES,Neurological observations,Possible,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0424095,C3806166,PREDISPOSES,Social withdrawal,Poor outcome,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0424142,C0080048,PREDISPOSES,Ill-at-ease,Privacy,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0424316,C4050466,PREDISPOSES,Exuberance,Borg Category-Ratio 10 Perceived Exertion Score 5,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0424575,C1545588,PREDISPOSES,General health,Protection,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0424578,C0038661,PREDISPOSES,Psychological Well Being,Suicide,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -686,6 +700,7 @@ C0596013,C1262869,PREDISPOSES,Does stand,Body position,fndg,fndg,1,PREDISPOSES_F
 C0596013,C1630409,PREDISPOSES,Does stand,6/3,fndg,fndg,2,PREDISPOSES_FNDGpredFNDG
 C0598463,C3160731,PREDISPOSES,Functional Status,Pulmonary function (finding),fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0600061,C0277608,PREDISPOSES,Serum creatinine level,Death in hospital,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0600109,C0080048,PREDISPOSES,Willing,Privacy,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0600109,C0566001,PREDISPOSES,Willing,Does communicate,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0600109,C3276616,PREDISPOSES,Willing,Poor communication,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0600116,C3714738,PREDISPOSES,Does speak,Compliance,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -695,6 +710,7 @@ C0677946,C1457868,PREDISPOSES,Stable Disease,Worse,fndg,fndg,1,PREDISPOSES_FNDGp
 C0677946,C4086268,PREDISPOSES,Stable Disease,Exacerbation,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0679246,C0595939,PREDISPOSES,advanced disease,Stillbirth,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0682075,C4699158,PREDISPOSES,racial differences,Increased risk,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C0682132,C0080048,PREDISPOSES,regional difference,Privacy,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0682194,C0682076,PREDISPOSES,socioeconomic differences,ethnic differences,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C0683321,C3806166,PREDISPOSES,Poor Health,Poor outcome,fndg,fndg,2,PREDISPOSES_FNDGpredFNDG
 C0683321,C4055506,PREDISPOSES,Poor Health,Accumulation,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -785,6 +801,7 @@ C1287347,C0151613,PREDISPOSES,Finding of serum electrolyte levels,Electrolytes a
 C1299448,C0043084,PREDISPOSES,Patient ventilated,Weaning,fndg,fndg,2,PREDISPOSES_FNDGpredFNDG
 C1299586,C0038435,PREDISPOSES,Has difficulty doing (qualifier value),Stress,fndg,fndg,2,PREDISPOSES_FNDGpredFNDG
 C1299586,C0038661,PREDISPOSES,Has difficulty doing (qualifier value),Suicide,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C1299586,C0080048,PREDISPOSES,Has difficulty doing (qualifier value),Privacy,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C1299586,C0087130,PREDISPOSES,Has difficulty doing (qualifier value),Uncertainty,fndg,fndg,4,PREDISPOSES_FNDGpredFNDG
 C1299586,C0205557,PREDISPOSES,Has difficulty doing (qualifier value),False Positive,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C1299586,C0231224,PREDISPOSES,Has difficulty doing (qualifier value),Crisis,fndg,fndg,2,PREDISPOSES_FNDGpredFNDG
@@ -796,6 +813,7 @@ C1299586,C0425152,PREDISPOSES,Has difficulty doing (qualifier value),Engaged to 
 C1299586,C0436331,PREDISPOSES,Has difficulty doing (qualifier value),Symptom aggravating factors,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C1299586,C0449411,PREDISPOSES,Has difficulty doing (qualifier value),Causative_agents,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C1299586,C0475806,PREDISPOSES,Has difficulty doing (qualifier value),1/3 meter (distance vision finding),fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C1299586,C0520818,PREDISPOSES,Has difficulty doing (qualifier value),Increased pressure,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C1299586,C0750484,PREDISPOSES,Has difficulty doing (qualifier value),Confirmation,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C1299586,C1279805,PREDISPOSES,Has difficulty doing (qualifier value),At risk of deep vein thrombosis,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C1299586,C1446377,PREDISPOSES,Has difficulty doing (qualifier value),Mental health problem,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -865,6 +883,7 @@ C1532253,C3272283,PREDISPOSES,Sedentary lifestyle,American College of Cardiology
 C1545588,C0033213,PREDISPOSES,Protection,Problem,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C1545588,C0035648,PREDISPOSES,Protection,risk factors,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C1545588,C0041674,PREDISPOSES,Protection,Unemployment,fndg,fndg,2,PREDISPOSES_FNDGpredFNDG
+C1545588,C0080048,PREDISPOSES,Protection,Privacy,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C1545588,C0233481,PREDISPOSES,Protection,Worried,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C1545588,C0332149,PREDISPOSES,Protection,Possible,fndg,fndg,2,PREDISPOSES_FNDGpredFNDG
 C1545588,C0410916,PREDISPOSES,Protection,Neonatal Death,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -1039,6 +1058,7 @@ C3714435,C1457868,PREDISPOSES,Inadequate oral intake,Worse,fndg,fndg,1,PREDISPOS
 C3714738,C0231187,PREDISPOSES,Compliance,Decompensation,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C3714738,C0332149,PREDISPOSES,Compliance,Possible,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C3714738,C0442797,PREDISPOSES,Compliance,Decreasing,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C3714738,C0597680,PREDISPOSES,Compliance,Water Quality,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C3714738,C1444662,PREDISPOSES,Compliance,Discontinued,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C3714738,C1545588,PREDISPOSES,Compliance,Protection,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C3714738,C1706712,PREDISPOSES,Compliance,Additional Therapy,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -1080,6 +1100,7 @@ C3844729,C4086268,PREDISPOSES,Very Important,Exacerbation,fndg,fndg,1,PREDISPOSE
 C3845594,C0424589,PREDISPOSES,Slight change,Vitality,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C3845736,C3840775,PREDISPOSES,Omission,Anticipated,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C3845793,C3806166,PREDISPOSES,Inadequate monitoring,Poor outcome,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C3845876,C0231298,PREDISPOSES,Consequent,Increased stress,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C3845876,C0393009,PREDISPOSES,Consequent,Level of Evidence,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C3845876,C0459425,PREDISPOSES,Consequent,Indeterminate result,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C3845876,C0476644,PREDISPOSES,Consequent,Physical and emotional exhaustion state,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
@@ -1164,6 +1185,7 @@ C4296962,C1262477,PREDISPOSES,Normal function,Weight decreased,fndg,fndg,1,PREDI
 C4313322,C0205161,PREDISPOSES,Alveolar damage,Abnormal,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C4313322,C3639994,PREDISPOSES,Alveolar damage,Discordance,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C4314157,C1963076,PREDISPOSES,Autoantibody production,"Platelets, CTCAE",fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
+C4321237,C0025115,PREDISPOSES,High Level,Medication Error,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C4321237,C0038435,PREDISPOSES,High Level,Stress,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C4321237,C0086565,PREDISPOSES,High Level,Liver Dysfunction,fndg,fndg,1,PREDISPOSES_FNDGpredFNDG
 C4321237,C0087130,PREDISPOSES,High Level,Uncertainty,fndg,fndg,4,PREDISPOSES_FNDGpredFNDG

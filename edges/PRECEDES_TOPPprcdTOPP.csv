@@ -205,6 +205,7 @@ C0020971,C0013216,PRECEDES,Immunization,Pharmacotherapy,topp,topp,1,PRECEDES_TOP
 C0020971,C0020975,PRECEDES,Immunization,Secondary Immunization,topp,topp,23,PRECEDES_TOPPprcdTOPP
 C0020971,C0021107,PRECEDES,Immunization,Implantation procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0020971,C0021485,PRECEDES,Immunization,Injection of therapeutic agent,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020971,C0021492,PRECEDES,Immunization,Intramuscular injection,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0020971,C0021493,PRECEDES,Immunization,"Injections, Intraperitoneal",topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0020971,C0022100,PRECEDES,Immunization,Irrigation,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0020971,C0023038,PRECEDES,Immunization,Laparotomy,topp,topp,1,PRECEDES_TOPPprcdTOPP
@@ -235,6 +236,7 @@ C0020975,C0001563,PRECEDES,Secondary Immunization,"Administration, Oral",topp,to
 C0020975,C0002928,PRECEDES,Secondary Immunization,Spinal Anesthesia,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0020975,C0020971,PRECEDES,Secondary Immunization,Immunization,topp,topp,48,PRECEDES_TOPPprcdTOPP
 C0020975,C0021079,PRECEDES,Secondary Immunization,Therapeutic immunosuppression,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0020975,C0021492,PRECEDES,Secondary Immunization,Intramuscular injection,topp,topp,4,PRECEDES_TOPPprcdTOPP
 C0020975,C0040808,PRECEDES,Secondary Immunization,Treatment Protocols,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0020975,C0042196,PRECEDES,Secondary Immunization,Vaccination,topp,topp,29,PRECEDES_TOPPprcdTOPP
 C0020975,C0052712,PRECEDES,Secondary Immunization,doxorubicin/mitomycin/vinblastine protocol,topp,topp,1,PRECEDES_TOPPprcdTOPP
@@ -293,6 +295,10 @@ C0021485,C0439775,PRECEDES,Injection of therapeutic agent,Elevation procedure,to
 C0021485,C0543467,PRECEDES,Injection of therapeutic agent,Operative Surgical Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0021485,C4722104,PRECEDES,Injection of therapeutic agent,Desensitization,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0021489,C0279772,PRECEDES,intradermal injection,Cisplatin/Cyclophosphamide/Doxorubicin/Misonidazole,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021492,C0020975,PRECEDES,Intramuscular injection,Secondary Immunization,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021492,C0021489,PRECEDES,Intramuscular injection,intradermal injection,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0021492,C0042196,PRECEDES,Intramuscular injection,Vaccination,topp,topp,3,PRECEDES_TOPPprcdTOPP
+C0021492,C1511497,PRECEDES,Intramuscular injection,Continuous Intravenous Infusion,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0021493,C0001563,PRECEDES,"Injections, Intraperitoneal","Administration, Oral",topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0021493,C0022100,PRECEDES,"Injections, Intraperitoneal",Irrigation,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0021493,C0042196,PRECEDES,"Injections, Intraperitoneal",Vaccination,topp,topp,1,PRECEDES_TOPPprcdTOPP
@@ -559,6 +565,7 @@ C0042196,C0020971,PRECEDES,Vaccination,Immunization,topp,topp,27,PRECEDES_TOPPpr
 C0042196,C0020974,PRECEDES,Vaccination,passive immunization procedure,topp,topp,2,PRECEDES_TOPPprcdTOPP
 C0042196,C0020975,PRECEDES,Vaccination,Secondary Immunization,topp,topp,21,PRECEDES_TOPPprcdTOPP
 C0042196,C0021079,PRECEDES,Vaccination,Therapeutic immunosuppression,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0042196,C0021492,PRECEDES,Vaccination,Intramuscular injection,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0042196,C0021493,PRECEDES,Vaccination,"Injections, Intraperitoneal",topp,topp,3,PRECEDES_TOPPprcdTOPP
 C0042196,C0024875,PRECEDES,Vaccination,Massage,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0042196,C0032042,PRECEDES,Vaccination,Placebos,topp,topp,4,PRECEDES_TOPPprcdTOPP
@@ -712,6 +719,7 @@ C0185115,C0011121,PRECEDES,Extraction,Decontamination,topp,topp,4,PRECEDES_TOPPp
 C0185115,C0011331,PRECEDES,Extraction,Dental Procedures,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0185115,C0013103,PRECEDES,Extraction,Drainage procedure,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0185115,C0015357,PRECEDES,Extraction,Extracorporeal Membrane Oxygenation,topp,topp,1,PRECEDES_TOPPprcdTOPP
+C0185115,C0021492,PRECEDES,Extraction,Intramuscular injection,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0185115,C0021925,PRECEDES,Extraction,Intubation,topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0185115,C0021932,PRECEDES,Extraction,"Intubation, Intratracheal",topp,topp,1,PRECEDES_TOPPprcdTOPP
 C0185115,C0023690,PRECEDES,Extraction,Ligation,topp,topp,4,PRECEDES_TOPPprcdTOPP

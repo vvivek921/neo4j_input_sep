@@ -1,15 +1,20 @@
 cui,type,name
 C0000165,gngm,17-Hydroxysteroid Dehydrogenases
+C0001024,gngm,Acetyl-CoA Hydrolase
+C0001452,gngm,Adenosine A2 Receptors
 C0002246,gngm,alpha-Bungarotoxin
 C0002543,gngm,4-Aminobutyrate aminotransferase
 C0004004,gngm,Aspartate Ammonia-Lyase
 C0005651,gngm,Bisphosphoglycerate Mutase
 C0008741,gngm,Chymosin C
 C0009053,gngm,collagenase Clostridium histolyticum
+C0009339,gngm,Collagen Type X
 C0009518,gngm,Complement C4b
 C0010806,gngm,Keratin-19
+C0012515,gngm,Dipeptidyl Peptidases
 C0016953,gngm,UTP-Hexose-1-Phosphate Uridylyltransferase
 C0016957,gngm,GALACTOSYLCERAMIDASE
+C0017033,gngm,gamma-Globins
 C0017338,gngm,"Genes, araC"
 C0017347,gngm,"Genes, Homeobox"
 C0017357,gngm,Nitrogen fixation gene
@@ -17,6 +22,7 @@ C0017361,gngm,"Genes, Recessive"
 C0017365,gngm,"Genes, Spliced"
 C0019722,gngm,HLA Class I Genes
 C0019733,gngm,HLA-A2 Antigen
+C0019751,gngm,HLA-C Antigens
 C0020375,gngm,Hydroxymethylglutaryl-CoA Synthase
 C0020656,gngm,Hypothalamic Hormones
 C0025548,gngm,Metallothionein I
@@ -25,18 +31,22 @@ C0026575,gngm,mos Proto-Oncogenes
 C0026900,gngm,MYB gene
 C0027298,gngm,"NADH, NADPH Oxidoreductases"
 C0028228,gngm,Nicotinamide-Nucleotide Adenylyltransferase
+C0031798,gngm,Physalaemin
 C0032589,gngm,RNA Ligase (ATP)
 C0033503,gngm,Spermidine Synthase
 C0034791,gngm,Cholecystokinin Receptor
 C0035545,gngm,Ribonucleoside-diphosphate reductase
 C0035900,gngm,rRNA Operon
 C0035903,gngm,rrnB Operon
+C0038626,gngm,Succinate-CoA Ligases
+C0038749,gngm,Sulfite reductase
 C0039480,gngm,Genetic Template
 C0042089,gngm,Uroporphyrinogen III Synthetase
 C0042713,gngm,Viral Envelope Proteins E2
 C0044279,gngm,1-aminocyclopropane-1-carboxylic acid
 C0044281,gngm,1-Aminocyclopropane-1-carboxylate synthase
 C0050848,gngm,adipokinetic hormone
+C0052217,gngm,apomucin
 C0052546,gngm,aspartylglycine
 C0053643,gngm,biotin receptor
 C0054320,gngm,butyryl-coenzyme A
@@ -45,34 +55,43 @@ C0054949,gngm,"Antigens, CD27"
 C0055091,gngm,ceramide glycanase
 C0056371,gngm,Corticotropin Receptors
 C0056923,gngm,cytochrome b245
+C0057429,gngm,Deoxyguanosine kinase
 C0059943,gngm,Exodeoxyribonuclease (Lambda-induced)
 C0059984,gngm,F-actin-binding proteins
 C0060261,gngm,ferritin receptor
 C0060996,gngm,galanin receptor
 C0061167,gngm,dolichyl-phosphate beta-D-mannosyltransferase
 C0061241,gngm,germin
+C0062223,gngm,hemichrome
 C0062248,gngm,Hemoglobin B
 C0062480,gngm,hemoglobin-haptoglobin receptor
+C0062754,gngm,histidinoalanine
 C0063389,gngm,Imidazoleglycerol-phosphate dehydratase
 C0063946,gngm,isochorismate synthase
 C0064450,gngm,Kynurenine-oxoglutarate aminotransferase
 C0064533,gngm,Asparagine-tRNA ligase
 C0067084,gngm,myxobacter alpha-lytic proteinase
+C0067655,gngm,N-acetyl-L-arginine
 C0068452,gngm,naringinase
 C0068811,gngm,nitric oxide reductase
+C0069220,gngm,"O-(3,6-di-O-methylglucopyranosyl)-(1-4)-O-(2,3-di-O-methylrhamnopyranosyl)-(1-9)-oxynonanoyl-bovine serum albumin"
+C0069280,gngm,o-succinylbenzoic acid synthase
 C0069406,gngm,Phosphatidylcholine desaturase
 C0069416,gngm,olfactory marker protein
 C0069729,gngm,oxamide
+C0070875,gngm,phosphoketolase
 C0071243,gngm,platelet factor V
 C0071611,gngm,polymeric IgG
 C0071932,gngm,prepromelittin
 C0072010,gngm,pro-phenoloxidase
 C0072366,gngm,protein K
+C0072397,gngm,protein-S-isoprenylcysteine O-methyltransferase
 C0072424,gngm,proteose-peptone
 C0072449,gngm,Proto-Oncogene Proteins c-bcr
 C0072553,gngm,pseudorabies virus glycoproteins
 C0072638,gngm,"coat protein, Potato virus X"
 C0072774,gngm,Diphosphomevalonate decarboxylase
+C0072798,gngm,Pyruvate synthase
 C0073873,gngm,S-Formylglutathione hydrolase
 C0074293,gngm,selenodiglutathione
 C0075326,gngm,Strictosidine synthase
@@ -98,13 +117,18 @@ C0082859,gngm,Hepatocyte Nuclear Factor 3-alpha
 C0083726,gngm,neurofilament protein NF 68
 C0084027,gngm,glycoprotein phospholipase D
 C0084710,gngm,Contactin 2
+C0084827,gngm,transcription factor PEA3
 C0085113,gngm,NF1 gene
 C0085299,gngm,jun Genes
 C0102163,gngm,"alkaline nuclease, herpes simplex virus"
 C0105421,gngm,"BCR protein, human"
 C0107680,gngm,C-5 sterol desaturase
 C0108914,gngm,cecropin P1-LI
+C0119422,gngm,glucose permease
 C0119432,gngm,glucose-regulated protein 94
+C0121449,gngm,heparitinase
+C0121471,gngm,Hepatocyte Nuclear Factor 3-beta
+C0123921,gngm,Iron-Responsive Element Binding Proteins
 C0125260,gngm,lamin B2
 C0125272,gngm,Lysosomal-Associated Membrane Protein 2
 C0125440,gngm,lymphoid enhancer-binding factor 1
@@ -118,20 +142,26 @@ C0138370,gngm,prethrombin 2
 C0162710,gngm,Annexin A8
 C0163743,gngm,connexin 32
 C0164398,gngm,atosiban
+C0166759,gngm,"hemolysin, Vibrio"
 C0168310,gngm,tenascin R
 C0169360,gngm,ribosomal protein L8
 C0171501,gngm,dfurin2
+C0172414,gngm,lacto-N-biosidase
 C0174383,gngm,Matrix Metalloproteinase 11
 C0178474,gngm,aminobutyrate
+C0207262,gngm,HMG coenzyme A reductase (NADPH) kinase
 C0207694,gngm,myosin I heavy chain kinase
 C0207910,gngm,tripalmitoyl cysteine
 C0208449,gngm,glycyl endopeptidase
 C0209089,gngm,elk-1 protein
 C0210353,gngm,GM 6001
+C0210842,gngm,galanin message-associated peptide
 C0211546,gngm,serotonin 5 receptor
 C0212200,gngm,Natural Killer Cell Activating Receptors
 C0213150,gngm,myosin-binding protein C
 C0214153,gngm,"CCR7 protein, human"
+C0214599,gngm,mortalin
+C0218798,gngm,"VP2 protein, infectious bursal disease virus"
 C0220104,gngm,"BALF5 protein, Epstein-barr virus"
 C0221131,gngm,Blood group antigen H
 C0243648,gngm,galactosylceramide sulfotransferase
@@ -141,6 +171,7 @@ C0247969,gngm,Nova antigen
 C0248308,gngm,"Origin Recognition Complex, Subunit 2"
 C0249367,gngm,E2F2 Transcription Factor
 C0249759,gngm,"RBL2 protein, human"
+C0251074,gngm,Dishevelled Proteins
 C0251107,gngm,GC acyltransferase
 C0252524,gngm,"LGALS1 protein, human"
 C0252572,gngm,calmegin
@@ -151,26 +182,32 @@ C0255034,gngm,STAT4 protein
 C0255305,gngm,"Lp antigen, sheep"
 C0256022,gngm,DNA topoisomerase II alpha
 C0258442,gngm,cyclin H
-C0283159,gngm,2-aminoacetaldehyde
+C0278630,gngm,GnRH-III
 C0285000,gngm,CLIP peptide
 C0285969,gngm,omptin
 C0286515,gngm,Iron Regulatory Protein 2
 C0286762,gngm,caseinomacropeptide
 C0286995,gngm,peroxisome assembly factor-1
-C0288194,gngm,RNA-Binding Protein EWS
 C0289130,gngm,plasmepsin II
 C0290928,gngm,Mitogen-Activated Protein Kinase 9
 C0291135,gngm,E2F4 Transcription Factor
 C0292142,gngm,lymphotoxin beta
+C0293742,gngm,Stem bromelain
+C0294169,gngm,autophosphorylation-dependent multifunctional protein kinase
 C0296376,gngm,"DNA polymerase, Thermus thermophilus"
 C0296594,gngm,checkpoint kinase 2
 C0297511,gngm,"PRDM2 protein, human"
+C0298198,gngm,Galactonolactone dehydrogenase
 C0298686,gngm,"lectin L6, Tachypleus tridentatus"
 C0304176,gngm,Conotoxin
 C0310723,gngm,Equine influenza vaccine
+C0310727,gngm,Erysipelothrix rhusiopathiae vaccine
 C0310728,gngm,Feline infectious peritonitis virus vaccine
 C0310739,gngm,Fowl laryngotracheitis vaccine
+C0312307,gngm,Oleate hydratase
+C0312527,gngm,Polypeptide receptor
 C0312656,gngm,"I region, MHC"
+C0312771,gngm,Complement activator
 C0314605,gngm,Animal gene
 C0314614,gngm,Sex-linked gene
 C0369640,gngm,M1 Ab
@@ -182,21 +219,24 @@ C0377914,gngm,Proto-Oncogene Protein c-ets-1
 C0377993,gngm,Cyclic Nucleotide-Gated Cation Channels
 C0378132,gngm,CTX-M-1
 C0379364,gngm,"US11 protein, Human herpesvirus 5"
+C0379506,gngm,STAT5b Transcription Factor
 C0380093,gngm,LMO2 gene
 C0380757,gngm,atrophin-1
 C0381678,gngm,"MUSK protein, human"
 C0381992,gngm,long-wavelength opsin
 C0382144,gngm,taxadiene synthase
+C0382270,gngm,SMRT protein
 C0383507,gngm,arenastatin A
 C0385096,gngm,Gluk2 kainate receptor
-C0390431,gngm,PDGF receptor tyrosine kinase
+C0386614,gngm,purinoceptor P2Y1
+C0386765,gngm,N-acetylvalylleucine
 C0440512,gngm,B*0703
 C0440536,gngm,B*3902
 C0443467,gngm,Polymorphonuclear neutrophil elastase
 C0443789,gngm,Contact factor
 C0443893,gngm,Purkinje cell antibody
 C0443956,gngm,Cluster of differentiation antigen (workshop) 32
-C0483214,gngm,C little e Antibody
+C0486951,gngm,"Human immunodeficiency virus, type I glycoprotein 41 antibody"
 C0524890,gngm,TRA gene
 C0524938,gngm,Mutase
 C0524992,gngm,Hydroxymethyltransferases
@@ -204,16 +244,21 @@ C0525481,gngm,ferric-chelate reductase
 C0525494,gngm,"FEN1 protein, human"
 C0525569,gngm,hepatitis delta virus large antigen
 C0525842,gngm,Dermatophagoides pteronyssinus antigen p 7
+C0526309,gngm,cardiovirus 2A
 C0527841,gngm,Small Inducible Cytokine B6
 C0529155,gngm,somatostatin receptor 1
-C0532623,gngm,Nkx-3.1 protein
+C0529999,gngm,CRF receptor type 2
+C0531296,gngm,CHS protein
+C0531512,gngm,cdc25B Phosphatase
 C0534623,gngm,remorin
 C0537086,gngm,glutathione S-transferase pi
 C0537282,gngm,GB-D polymerase
 C0538963,gngm,interleukin 16 precursor
 C0541232,gngm,proaerolysin
+C0591120,gngm,Arvin
 C0592151,gngm,synacthen
 C0596223,gngm,brca gene
+C0597365,gngm,redoxin
 C0598666,gngm,variable region gene
 C0599104,gngm,mucopeptide
 C0599344,gngm,Cellular Retinoic Acid Binding Protein
@@ -227,12 +272,13 @@ C0650866,gngm,phosphoprotein phosphatase inhibitor 1
 C0652711,gngm,amphiphysin I
 C0658161,gngm,endodeoxyribonuclease BstAPI
 C0660346,gngm,neuromedin U receptor
+C0660991,gngm,asialofibrin
 C0662865,gngm,syntaxin 11
 C0662918,gngm,"bone morphogenetic protein receptor, type IB"
 C0663605,gngm,DFF45 protein
+C0664945,gngm,Mucin-6
 C0665690,gngm,fibroblast growth factor 13
 C0670278,gngm,arcelin-1
-C0673474,gngm,"K1 protein, Human herpesvirus 8"
 C0676389,gngm,lipid phosphate phosphatase
 C0676803,gngm,styrene oxide isomerase
 C0678929,gngm,"Genes, Y-Linked"
@@ -248,10 +294,14 @@ C0750612,gngm,Dornavac
 C0751993,gngm,c-myb Genes
 C0752247,gngm,P-Type Calcium Channels
 C0752689,gngm,Heterogeneous-Nuclear Ribonucleoprotein Group H
+C0754415,gngm,secreted frizzled related protein 1
+C0755633,gngm,therin
 C0755726,gngm,"PON2 protein, human"
+C0756239,gngm,metabotropic glutamate receptor 6
 C0756632,gngm,glutamate-gated chloride channel
 C0759655,gngm,accutin
 C0759781,gngm,"ABCD1 protein, human"
+C0759905,gngm,Caspase 14
 C0763057,gngm,lupeol synthase
 C0796473,gngm,BL22 immunotoxin
 C0807464,gngm,Porcine reproductive and respiratory syndrome virus antibody
@@ -288,11 +338,17 @@ C0879393,gngm,MSH6 gene
 C0887817,gngm,Recombinant Transgenes
 C0887860,gngm,Selfish Genes
 C0893104,gngm,"SLC7A8 protein, human"
+C0895922,gngm,mistletoe lectin II
 C0897757,gngm,superoxide-generating NADPH oxidase
+C0906185,gngm,Procarboxypeptidase U
+C0907649,gngm,"Receptor, EphB4"
+C0910344,gngm,chitin synthase 2
 C0910920,gngm,nuclear factor Y
+C0911628,gngm,pyruvate dehydrogenase kinase 4
 C0912288,gngm,cathepsin Y
 C0913497,gngm,spermatogenesis associated factor
 C0914640,gngm,MHC binding peptide
+C0916204,gngm,ATP Binding Cassette Transporter 1
 C0919429,gngm,SRD5A2 gene
 C0919442,gngm,NBL1 gene
 C0919481,gngm,MAF gene
@@ -307,6 +363,7 @@ C0949487,gngm,"Genes, Amber Suppressor"
 C0961047,gngm,"Fatty Acid Synthase, Type II"
 C0961834,gngm,DNA polymerase iota
 C0963926,gngm,NRH - quinone oxidoreductase2
+C0965915,gngm,sharpin
 C0966561,gngm,connexin 47
 C0967196,gngm,kaouthiagin
 C0968086,gngm,"RBM15 protein, human"
@@ -318,16 +375,20 @@ C1096928,gngm,TA1 amine receptor
 C1096978,gngm,"Receptor, EphB3"
 C1098717,gngm,ST3Gal II
 C1100687,gngm,Xigris
+C1120665,gngm,apoobelin
 C1120861,gngm,mu-calpain
 C1134711,gngm,NQO gene
 C1135159,gngm,COMT gene
+C1136690,gngm,"MAPK15 protein, human"
 C1141648,gngm,Cell Cycle Checkpoint Genes
 C1142673,gngm,"FLNC protein, human"
 C1142901,gngm,"RABEP1 protein, human"
 C1172441,gngm,"FLJ10858 protein, human"
+C1175255,gngm,chondroitin sulfate N-acetylgalactosaminyltransferase-1
 C1176140,gngm,CYP3A4 gene
 C1178976,gngm,Metabotropic receptor
 C1179928,gngm,Ionotropic receptor
+C1180002,gngm,Internexin
 C1260069,gngm,"ABCB4 protein, human"
 C1270909,gngm,Venom specific immunoglobulin E
 C1270912,gngm,Drug specific immunoglobulin E
@@ -337,6 +398,7 @@ C1308121,gngm,"CCR6 protein, human"
 C1310306,gngm,"DCHS1 protein, human"
 C1310515,gngm,"ATP6AP2 protein, human"
 C1312046,gngm,Dystrophin-Associated Glycoprotein 1
+C1312786,gngm,FIIa
 C1313606,gngm,"prostate cancer antigen 3, human"
 C1313661,gngm,"UBB protein, human"
 C1314855,gngm,tumor protein D52-like 1
@@ -2243,6 +2305,7 @@ C1512213,gngm,GPT2 gene
 C1514765,gngm,Recombinant Adenovirus-Cre Recombinase
 C1527134,gngm,Recombinant Interleukin-7
 C1530358,gngm,"EP300 protein, human"
+C1531071,gngm,"DMP1 protein, human"
 C1533699,gngm,gemtuzumab ozogamicin
 C1537388,gngm,HSPB6 gene
 C1537395,gngm,HUWE1 gene
@@ -2492,18 +2555,19 @@ C1540207,gngm,SNRNP200 gene
 C1540234,gngm,HAUS3 gene
 C1540296,gngm,CD302 gene
 C1541208,gngm,ret/PTC
-C1545478,gngm,Cytomegalovirus gene
 C1563687,gngm,"Genome, Insect"
-C1563809,gngm,"Alleles, X-Linked"
 C1564098,gngm,VDJ Exons
+C1565167,gngm,Wiskott-Aldrich Syndrome Protein Family
 C1566493,gngm,Early Growth Response Protein 1
 C1567709,gngm,V(D)J recombination activating protein 2
 C1567723,gngm,"UGT1A1 protein, human"
 C1568861,gngm,"heat-shock protein 65, human"
 C1569839,gngm,"SOX9 protein, human"
 C1570804,gngm,"CDH13 protein, human"
+C1572727,gngm,fanolesomab
 C1611078,gngm,"RASGRF2 protein, human"
 C1612175,gngm,"NS3 protease, dengue virus"
+C1615665,gngm,"hyaluronidase, bovine"
 C1616867,gngm,HRAS1 oncogene
 C1623644,gngm,Human coronavirus Ag
 C1624014,gngm,"RAB27A protein, human"

@@ -40,6 +40,8 @@ C0015663,C0035309,PREDISPOSES,Fasting,Retinal Diseases,fndg,dsyn,1,PREDISPOSES_F
 C0016815,C0242852,PREDISPOSES,Functional Residual Capacity,Proliferative vitreoretinopathy,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0016927,C0032290,PREDISPOSES,Gagging,Aspiration Pneumonia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0017747,C0010340,PREDISPOSES,Increased glucose level,Critical Illness,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0018748,C0001175,PREDISPOSES,Health Services Accessibility,Acquired Immunodeficiency Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0018748,C5203670,PREDISPOSES,Health Services Accessibility,COVID-19,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0018800,C0032227,PREDISPOSES,Cardiomegaly,Pleural effusion disorder,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0018800,C0741922,PREDISPOSES,Cardiomegaly,CARDIAC causes,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0020578,C0520540,PREDISPOSES,Hyperventilation,Rebound hypertension,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
@@ -206,6 +208,7 @@ C0041674,C5203670,PREDISPOSES,Unemployment,COVID-19,fndg,dsyn,1,PREDISPOSES_FNDG
 C0043094,C0011860,PREDISPOSES,Weight Gain,"Diabetes Mellitus, Non-Insulin-Dependent",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0043094,C0028754,PREDISPOSES,Weight Gain,Obesity,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
 C0043352,C0339901,PREDISPOSES,Xerostomia,Acute respiratory infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0080048,C5203670,PREDISPOSES,Privacy,COVID-19,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0085383,C0006287,PREDISPOSES,Hypocapnia,Bronchopulmonary Dysplasia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0085393,C0008049,PREDISPOSES,Immunocompromised Host,Chickenpox,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0085393,C0010356,PREDISPOSES,Immunocompromised Host,Cross Infection,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
@@ -597,6 +600,7 @@ C0337664,C0948008,PREDISPOSES,Smoker,Ischemic stroke,fndg,dsyn,1,PREDISPOSES_FND
 C0337664,C5203670,PREDISPOSES,Smoker,COVID-19,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
 C0337672,C0024117,PREDISPOSES,Non-smoker,Chronic Obstructive Airway Disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0337672,C5203670,PREDISPOSES,Non-smoker,COVID-19,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0342218,C0020456,PREDISPOSES,Excessive glucagon secretion,Hyperglycemia,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0342917,C0021053,PREDISPOSES,Deficiency of micronutrients,Immune System Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0344232,C0037052,PREDISPOSES,Blurred vision,Sick Sinus Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0349790,C0004096,PREDISPOSES,Exacerbation of asthma,Asthma,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
@@ -723,6 +727,7 @@ C0518609,C1175175,PREDISPOSES,Consideration,Severe Acute Respiratory Syndrome,fn
 C0518609,C2350529,PREDISPOSES,Consideration,Pulmonary Aspergillosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0518609,C5203670,PREDISPOSES,Consideration,COVID-19,fndg,dsyn,7,PREDISPOSES_FNDGpredDSYN
 C0518904,C4505065,PREDISPOSES,health knowledge,Noncommunicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0520818,C0018801,PREDISPOSES,Increased pressure,Heart failure,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0520819,C0149871,PREDISPOSES,Decreased pressure,Deep Vein Thrombosis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0521654,C0149871,PREDISPOSES,Neurologic Deficits,Deep Vein Thrombosis,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
 C0521654,C0876973,PREDISPOSES,Neurologic Deficits,Infectious Lung Disorder,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
@@ -795,6 +800,11 @@ C0596013,C0020538,PREDISPOSES,Does stand,Hypertensive disease,fndg,dsyn,1,PREDIS
 C0596013,C0205721,PREDISPOSES,Does stand,"Infections, Hospital",fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
 C0596013,C5203670,PREDISPOSES,Does stand,COVID-19,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0596020,C1175175,PREDISPOSES,Does hit (finding),Severe Acute Respiratory Syndrome,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0597680,C0004623,PREDISPOSES,Water Quality,Bacterial Infections,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0597680,C0009450,PREDISPOSES,Water Quality,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0597680,C0011603,PREDISPOSES,Water Quality,Dermatitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0597680,C0277548,PREDISPOSES,Water Quality,Epidemic disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0597680,C3873487,PREDISPOSES,Water Quality,Waterborne Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0598463,C0011168,PREDISPOSES,Functional Status,Deglutition Disorders,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0598463,C0032285,PREDISPOSES,Functional Status,Pneumonia,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
 C0598463,C5203670,PREDISPOSES,Functional Status,COVID-19,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
@@ -913,6 +923,8 @@ C0860864,C5139167,PREDISPOSES,Decreased albumin,Severe infection,fndg,dsyn,4,PRE
 C0860864,C5203670,PREDISPOSES,Decreased albumin,COVID-19,fndg,dsyn,3,PREDISPOSES_FNDGpredDSYN
 C0868658,C0009450,PREDISPOSES,health advice,Communicable Diseases,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0868658,C0872315,PREDISPOSES,health advice,"Communicable Diseases, Emerging",fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0870689,C0028754,PREDISPOSES,Income Level,Obesity,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
+C0870689,C5203670,PREDISPOSES,Income Level,COVID-19,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0871124,C0006271,PREDISPOSES,prenatal exposure,Bronchiolitis,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN
 C0871754,C5203670,PREDISPOSES,Frail,COVID-19,fndg,dsyn,2,PREDISPOSES_FNDGpredDSYN
 C0872173,C0008679,PREDISPOSES,Functional Disability,Chronic disease,fndg,dsyn,1,PREDISPOSES_FNDGpredDSYN

@@ -35,7 +35,6 @@ C0008014,imft,"Chemotactic Factors, Eosinophil"
 C0008015,imft,Macrophage Chemotactic Factors
 C0008359,imft,cholera vaccine
 C0008897,imft,Human Class I Antigens
-C0009185,imft,coccidioidin
 C0010594,imft,Cyclosporins
 C0012559,imft,Diphtheria-Tetanus-Pertussis Vaccine
 C0016603,imft,Forssman Antigen
@@ -97,12 +96,9 @@ C0058218,imft,dimethyl fumarate
 C0058782,imft,DTPP vaccine
 C0059381,imft,enterobacterial common antigen
 C0059586,imft,Escherichia coli Vaccines
-C0062059,imft,H-Y antibody
 C0062086,imft,Haemophilus influenzae type b polysaccharide vaccine
 C0062200,imft,"Hemagglutinin Glycoproteins, Influenza Virus"
 C0062523,imft,Hepatitis A Antigens
-C0062808,imft,HLA-Aw19 antigen
-C0062855,imft,HLA-C*04 antigen
 C0062883,imft,HLA-Dw14 antigen
 C0063900,imft,islet cell antibody
 C0064848,imft,leukotriene B5
@@ -126,16 +122,19 @@ C0085408,imft,ISCOMs
 C0085432,imft,AIDS Vaccines
 C0086145,imft,Dialyzable Leukocyte Extract
 C0086413,imft,HIV Vaccine
+C0101588,imft,Adenovirus E3 Proteins
 C0103503,imft,anti-Lyt-2
 C0103647,imft,Antineutrophil Cytoplasmic Antibodies
 C0106628,imft,blocking anticoagulant
 C0108783,imft,ectonucleoside triphosphate diphosphohydrolase 1
 C0108796,imft,CD64 Antigen
 C0121459,imft,Hepatitis C Antigens
-C0123745,imft,integrin beta7
+C0122044,imft,HLA-DRB5 antigen
+C0124412,imft,K30 antigen
 C0127526,imft,Meningococcal Polysaccharide Vaccine
 C0138547,imft,Prohibit
 C0147265,imft,Ty21a typhoid vaccine
+C0149256,imft,Z-100
 C0163642,imft,OM-85 BV
 C0170300,imft,Hepatitis A Vaccines
 C0173809,imft,HLA-DRB4 antigen
@@ -197,7 +196,6 @@ C0369095,imft,d antibody
 C0369103,imft,Dengue virus antigen
 C0369342,imft,Simplexvirus antigen
 C0369498,imft,Human immunodeficiency virus 1 antigen
-C0369850,imft,Plasminogen activator inhibitor-1 antigen
 C0369952,imft,Rotavirus antigen
 C0370030,imft,Streptococcus pneumoniae antigen
 C0370148,imft,von Willebrand factor multimer
@@ -266,7 +264,6 @@ C0733468,imft,Neupogen
 C0770688,imft,Herpes Simplex Virus Vaccines
 C0770694,imft,trivalent influenza vaccine
 C0770698,imft,"Poliovirus vaccine, live"
-C0770715,imft,tularemia vaccine
 C0772459,imft,Escherichia coli antigen
 C0795623,imft,"hepatitis A vaccine, inactivated"
 C0795661,imft,"ROTAVIRUS VACCINE, LIVE"
@@ -320,7 +317,6 @@ C1302095,imft,Bordetella vaccine
 C1302682,imft,Entire immunoglobulin
 C1305958,imft,Agglutinating antibody
 C1305959,imft,Complement factor
-C1311738,imft,lintuzumab
 C1311943,imft,FluMist
 C1312593,imft,vaxigrip
 C1320124,imft,Plasmodium antigen
@@ -333,9 +329,7 @@ C1321910,imft,Streptococcus vaccine
 C1327897,imft,Autologous Immunoglobulin Idiotype-KLH Conjugate Vaccine
 C1328238,imft,ING-1
 C1328858,imft,cockroach allergen
-C1370147,imft,Human leukocyte antigen antibody
 C1440044,imft,"A,B"
-C1440079,imft,Alternaria sp.
 C1440094,imft,Asialoganglioside GM2
 C1440117,imft,B variant NOS
 C1440130,imft,Beta lactamase organism
@@ -346,7 +340,6 @@ C1440199,imft,Candida sp
 C1440203,imft,Carageenan
 C1440439,imft,Chicken droppings
 C1440440,imft,Chicken serum
-C1440442,imft,Chinchilla epithelium
 C1440452,imft,Chlamydia trachomatis L1
 C1440504,imft,Coxsackievirus A10
 C1440505,imft,Coxsackievirus A16
@@ -358,6 +351,7 @@ C1440515,imft,Coxsackievirus B4
 C1440524,imft,Curry
 C1440537,imft,Cytomegalovirus early
 C1440545,imft,DBG
+C1440575,imft,Echovirus 18
 C1440582,imft,Echovirus 7
 C1440608,imft,Eucalyptus spp
 C1440661,imft,Haemophilus influenzae D
@@ -397,13 +391,9 @@ C1441153,imft,Ribosomal P
 C1441165,imft,S-100
 C1441252,imft,Streptococcus pneumoniae 3
 C1441259,imft,Streptococcus pneumoniae 6
-C1441300,imft,Trichinella sp
-C1441302,imft,Trichosporon spp
 C1442922,imft,Lamb antigen
 C1443014,imft,Dog antigen
 C1445451,imft,Dermatophagoides pteronyssinus diagnostic allergen extract
-C1446434,imft,Cryptococcus sp.
-C1446669,imft,Mycoplasma hyopneumoniae antigen
 C1446777,imft,Rabbit antigen
 C1446837,imft,Schistosoma mansoni antigen
 C1446880,imft,Taenia saginata antigen
@@ -421,9 +411,8 @@ C1516086,imft,Attenuated Live Virus Vaccine
 C1519887,imft,Vaccine Antigen
 C1519904,imft,Vaccinia Vaccine
 C1520145,imft,Whole Cell Vaccine
+C1522432,imft,Recombinant Interleukin-1-beta
 C1522481,imft,MART-1 Antigen
-C1523982,imft,"TRIad of COstimulatory Molecules (B7-1, ICAM-1, LFA-3)"
-C1526912,imft,Yersinia enterocolitica O:3
 C1528012,imft,Rotarix
 C1528013,imft,RotaTeq
 C1545500,imft,Influenza virus A hemagglutinin

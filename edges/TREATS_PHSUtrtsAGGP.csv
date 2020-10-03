@@ -2,6 +2,7 @@ cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0001637,C0008059,TREATS,Adrenergic Agents,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0001637,C0021270,TREATS,Adrenergic Agents,Infant,phsu,aggp,3,TREATS_PHSUtrtsAGGP
 C0001648,C0001675,TREATS,Adrenergic Agonists,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C0002932,C0728836,TREATS,Anesthetics,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0003015,C0001675,TREATS,Angiotensin-Converting Enzyme Inhibitors,Adult,phsu,aggp,2,TREATS_PHSUtrtsAGGP
 C0003015,C0008059,TREATS,Angiotensin-Converting Enzyme Inhibitors,Child,phsu,aggp,2,TREATS_PHSUtrtsAGGP
 C0003158,C0008059,TREATS,Anthelmintics,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
@@ -29,6 +30,7 @@ C0003402,C0008059,TREATS,Antioxidants,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0003402,C4048294,TREATS,Antioxidants,Preterm Infant,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0003419,C0008059,TREATS,Antipyretics,Child,phsu,aggp,7,TREATS_PHSUtrtsAGGP
 C0003449,C0008059,TREATS,Antitussive Agents,Child,phsu,aggp,3,TREATS_PHSUtrtsAGGP
+C0003449,C0728836,TREATS,Antitussive Agents,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0003451,C0001675,TREATS,Antiviral Agents,Adult,phsu,aggp,16,TREATS_PHSUtrtsAGGP
 C0003451,C0008059,TREATS,Antiviral Agents,Child,phsu,aggp,20,TREATS_PHSUtrtsAGGP
 C0003451,C0021270,TREATS,Antiviral Agents,Infant,phsu,aggp,2,TREATS_PHSUtrtsAGGP
@@ -37,6 +39,7 @@ C0003451,C0205653,TREATS,Antiviral Agents,Adolescent (age group),phsu,aggp,1,TRE
 C0006280,C0001675,TREATS,Bronchodilator Agents,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0006280,C0008059,TREATS,Bronchodilator Agents,Child,phsu,aggp,7,TREATS_PHSUtrtsAGGP
 C0006280,C0021270,TREATS,Bronchodilator Agents,Infant,phsu,aggp,4,TREATS_PHSUtrtsAGGP
+C0006280,C0728836,TREATS,Bronchodilator Agents,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0006657,C0008059,TREATS,calcifediol,Child,phsu,aggp,5,TREATS_PHSUtrtsAGGP
 C0007220,C0001675,TREATS,Cardiovascular Agents,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0012798,C0008059,TREATS,Diuretics,Child,phsu,aggp,2,TREATS_PHSUtrtsAGGP
@@ -57,20 +60,24 @@ C0034998,C0008059,TREATS,Rehydration Solutions,Child,phsu,aggp,1,TREATS_PHSUtrts
 C0036557,C0001675,TREATS,Sedatives,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0036557,C0008059,TREATS,Sedatives,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0039052,C0008059,TREATS,Sympathomimetics,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C0040464,C0728836,TREATS,Topical anesthetic,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0040616,C0021270,TREATS,Anti-Anxiety Agents,Infant,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0040616,C0699810,TREATS,Anti-Anxiety Agents,age differences,phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C0040616,C0728836,TREATS,Anti-Anxiety Agents,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0041044,C0001675,TREATS,Trimethoprim-Sulfamethoxazole Combination,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0041044,C0008059,TREATS,Trimethoprim-Sulfamethoxazole Combination,Child,phsu,aggp,3,TREATS_PHSUtrtsAGGP
 C0042397,C0001675,TREATS,Vasoconstrictor Agents,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0042397,C0008059,TREATS,Vasoconstrictor Agents,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0042397,C0021270,TREATS,Vasoconstrictor Agents,Infant,phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C0042397,C0728836,TREATS,Vasoconstrictor Agents,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0042398,C0008059,TREATS,Nasal Decongestants,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C0042398,C0728836,TREATS,Nasal Decongestants,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0054066,C0001675,TREATS,Amoxicillin / Clavulanate,Adult,phsu,aggp,2,TREATS_PHSUtrtsAGGP
 C0054066,C0008059,TREATS,Amoxicillin / Clavulanate,Child,phsu,aggp,16,TREATS_PHSUtrtsAGGP
 C0054066,C0008100,TREATS,Amoxicillin / Clavulanate,"Child, Preschool",phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C0054066,C0728836,TREATS,Amoxicillin / Clavulanate,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0056562,C0008059,TREATS,crystalloid solutions,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0065829,C0008059,TREATS,"measles, mumps, rubella, varicella vaccine",Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
-C0076823,C0870221,TREATS,atomoxetine,Boys,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0078516,C0008059,TREATS,World Health Organization oral rehydration solution,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0083871,C0008059,TREATS,ORA 5,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0106552,C0001675,TREATS,Bismuth Salicylate,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
@@ -79,6 +86,7 @@ C0162714,C0001675,TREATS,HIV Protease Inhibitors,Adult,phsu,aggp,1,TREATS_PHSUtr
 C0212874,C0008059,TREATS,Lorenzo's oil,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0242708,C0008059,TREATS,"Antirheumatic Drugs, Disease-Modifying",Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0242708,C0205653,TREATS,"Antirheumatic Drugs, Disease-Modifying",Adolescent (age group),phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C0242896,C0728836,TREATS,Anticholinergic Agents,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0242904,C0008059,TREATS,"Anesthetics, Intravenous",Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0242910,C0021270,TREATS,Excitatory Amino Acid Antagonists,Infant,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0243042,C0001675,TREATS,Inflammation Mediators,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
@@ -91,12 +99,14 @@ C0282568,C0001675,TREATS,"Drugs, Essential",Adult,phsu,aggp,1,TREATS_PHSUtrtsAGG
 C0282568,C0008059,TREATS,"Drugs, Essential",Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0282686,C0008059,TREATS,Respiratory System Agents,Child,phsu,aggp,3,TREATS_PHSUtrtsAGGP
 C0282686,C0021270,TREATS,Respiratory System Agents,Infant,phsu,aggp,3,TREATS_PHSUtrtsAGGP
+C0282686,C0728836,TREATS,Respiratory System Agents,young child,phsu,aggp,2,TREATS_PHSUtrtsAGGP
 C0302837,C0001588,TREATS,Vitamin supplementation,"Adolescents, Female",phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0302837,C0001675,TREATS,Vitamin supplementation,Adult,phsu,aggp,2,TREATS_PHSUtrtsAGGP
 C0302837,C0008059,TREATS,Vitamin supplementation,Child,phsu,aggp,12,TREATS_PHSUtrtsAGGP
 C0302837,C0008100,TREATS,Vitamin supplementation,"Child, Preschool",phsu,aggp,4,TREATS_PHSUtrtsAGGP
 C0302837,C0021270,TREATS,Vitamin supplementation,Infant,phsu,aggp,4,TREATS_PHSUtrtsAGGP
 C0302837,C0205653,TREATS,Vitamin supplementation,Adolescent (age group),phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C0302837,C0728836,TREATS,Vitamin supplementation,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0302837,C0870221,TREATS,Vitamin supplementation,Boys,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0304229,C0008059,TREATS,Experimental drug,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0304403,C0008059,TREATS,Psychostimulant (substance),Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
@@ -127,8 +137,6 @@ C0724430,C0008059,TREATS,xylocaine viscous,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0742541,C0008100,TREATS,cold medication,"Child, Preschool",phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0887893,C0008059,TREATS,Parainfluenza Vaccines,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0887893,C0021270,TREATS,Parainfluenza Vaccines,Infant,phsu,aggp,1,TREATS_PHSUtrtsAGGP
-C0937858,C0008059,TREATS,perflutren,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
-C0937858,C0021289,TREATS,perflutren,"Infant, Newborn",phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0939219,C0008059,TREATS,Atovaquone / Proguanil,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C0939237,C0001675,TREATS,lopinavir / Ritonavir,Adult,phsu,aggp,16,TREATS_PHSUtrtsAGGP
 C0939237,C0008059,TREATS,lopinavir / Ritonavir,Child,phsu,aggp,4,TREATS_PHSUtrtsAGGP
@@ -136,6 +144,7 @@ C0939237,C0021289,TREATS,lopinavir / Ritonavir,"Infant, Newborn",phsu,aggp,1,TRE
 C1136254,C0001675,TREATS,Microbicides,Adult,phsu,aggp,2,TREATS_PHSUtrtsAGGP
 C1136254,C0008059,TREATS,Microbicides,Child,phsu,aggp,9,TREATS_PHSUtrtsAGGP
 C1136254,C0021289,TREATS,Microbicides,"Infant, Newborn",phsu,aggp,2,TREATS_PHSUtrtsAGGP
+C1136254,C0728836,TREATS,Microbicides,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C1136312,C0001675,TREATS,"Histamine H1 Antagonists, Non-Sedating",Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C1136312,C0008059,TREATS,"Histamine H1 Antagonists, Non-Sedating",Child,phsu,aggp,2,TREATS_PHSUtrtsAGGP
 C1268567,C0001675,TREATS,Protein-tyrosine kinase inhibitor,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
@@ -147,6 +156,7 @@ C1443650,C0001675,TREATS,Neuraminidase inhibitor,Adult,phsu,aggp,3,TREATS_PHSUtr
 C1443650,C0008059,TREATS,Neuraminidase inhibitor,Child,phsu,aggp,2,TREATS_PHSUtrtsAGGP
 C1519313,C0699810,TREATS,Signal Transduction Inhibitor,age differences,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C1520007,C0008059,TREATS,Viral Vector,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C1520007,C0728836,TREATS,Viral Vector,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C1718097,C0001675,TREATS,New medications,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C1718097,C0008059,TREATS,New medications,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C1720236,C0008059,TREATS,Bacitracin / Polymyxin B,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
@@ -157,14 +167,17 @@ C1874451,C0021289,TREATS,Basis,"Infant, Newborn",phsu,aggp,3,TREATS_PHSUtrtsAGGP
 C1874451,C0699810,TREATS,Basis,age differences,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C1875384,C0008059,TREATS,INVESTIGATIONAL VACCINES,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C1875384,C0021289,TREATS,INVESTIGATIONAL VACCINES,"Infant, Newborn",phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C1875384,C0728836,TREATS,INVESTIGATIONAL VACCINES,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C1998014,C0001675,TREATS,Denufosol,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C2606556,C0008059,TREATS,macitentan,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C2917414,C0021270,TREATS,Recombinant Human Deoxyribonuclease 1 [EPC],Infant,phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C2917414,C0728836,TREATS,Recombinant Human Deoxyribonuclease 1 [EPC],young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C2917446,C0001675,TREATS,Vasopressin Analog,Adult,phsu,aggp,2,TREATS_PHSUtrtsAGGP
 C2933912,C0001675,TREATS,opicapone,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C2949325,C0001675,TREATS,Xgeva,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C3192773,C0021289,TREATS,Dextrose fluid,"Infant, Newborn",phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C3241999,C0008059,TREATS,limited use,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C3241999,C0728836,TREATS,limited use,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C3537183,C0008100,TREATS,Leukotriene Receptor Antagonist [EPC],"Child, Preschool",phsu,aggp,4,TREATS_PHSUtrtsAGGP
 C3537218,C0001675,TREATS,Neuraminidase Inhibitor [EPC],Adult,phsu,aggp,2,TREATS_PHSUtrtsAGGP
 C3539125,C0001675,TREATS,other medicated shampoos in ATC,Adult,phsu,aggp,2,TREATS_PHSUtrtsAGGP
@@ -172,11 +185,13 @@ C3539125,C0008059,TREATS,other medicated shampoos in ATC,Child,phsu,aggp,20,TREA
 C3539125,C0021270,TREATS,other medicated shampoos in ATC,Infant,phsu,aggp,3,TREATS_PHSUtrtsAGGP
 C3539125,C0021289,TREATS,other medicated shampoos in ATC,"Infant, Newborn",phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C3539125,C0205653,TREATS,other medicated shampoos in ATC,Adolescent (age group),phsu,aggp,2,TREATS_PHSUtrtsAGGP
+C3539125,C0728836,TREATS,other medicated shampoos in ATC,young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C3539125,C4048294,TREATS,other medicated shampoos in ATC,Preterm Infant,phsu,aggp,2,TREATS_PHSUtrtsAGGP
 C3539957,C0008059,TREATS,opium alkaloids and derivative combination cough suppressants,Child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C3539957,C0021289,TREATS,opium alkaloids and derivative combination cough suppressants,"Infant, Newborn",phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C3541969,C0001675,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Adult,phsu,aggp,3,TREATS_PHSUtrtsAGGP
 C3541969,C0021270,TREATS,"Neuraminidase inhibitors, direct acting antivirals",Infant,phsu,aggp,1,TREATS_PHSUtrtsAGGP
+C3541969,C0728836,TREATS,"Neuraminidase inhibitors, direct acting antivirals",young child,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C3543842,C0001675,TREATS,TONICS,Adult,phsu,aggp,1,TREATS_PHSUtrtsAGGP
 C3543842,C0021270,TREATS,TONICS,Infant,phsu,aggp,2,TREATS_PHSUtrtsAGGP
 C3543842,C4048294,TREATS,TONICS,Preterm Infant,phsu,aggp,3,TREATS_PHSUtrtsAGGP

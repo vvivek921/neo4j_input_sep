@@ -1,7 +1,6 @@
 cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0000340,C0014695,PRODUCES,Calcidiol 1-Monooxygenase,ergocalciferol,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0000530,C0021547,PRODUCES,5'-NUCLEOTIDASE,inositol,aapp,orch,1,PRODUCES_AAPPprodORCH
-C0001024,C0000975,PRODUCES,Acetyl-CoA Hydrolase,acetate,aapp,orch,2,PRODUCES_AAPPprodORCH
 C0001044,C0301116,PRODUCES,acetylcholinesterase,Mercaptan compound,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0001053,C0000975,PRODUCES,Acetylesterase,acetate,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0001369,C0015684,PRODUCES,Acyl Carrier Protein,Fatty Acids,aapp,orch,1,PRODUCES_AAPPprodORCH
@@ -72,6 +71,7 @@ C0016006,C0009074,PRODUCES,fibrinogen,clotrimazole,aapp,orch,1,PRODUCES_AAPPprod
 C0017135,C0017718,PRODUCES,gastric mucins,glucosamine,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0017237,C0021236,PRODUCES,gelatin,indole,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0017278,C0032594,PRODUCES,"Gene Products, env",Polysaccharides,aapp,orch,1,PRODUCES_AAPPprodORCH
+C0017278,C0148584,PRODUCES,"Gene Products, env",VP-2,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0017278,C0556154,PRODUCES,"Gene Products, env",Complex carbohydrate,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0017649,C0525678,PRODUCES,Globulins,rasagiline,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0017757,C0035549,PRODUCES,Glucosephosphate Dehydrogenase,ribose,aapp,orch,1,PRODUCES_AAPPprodORCH
@@ -141,6 +141,7 @@ C0025241,C4224874,PRODUCES,melphalan,Evomela,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0025250,C0525678,PRODUCES,Neprilysin,rasagiline,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0025252,C0072422,PRODUCES,Membrane Proteins,proteoliposomes,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0025635,C0028128,PRODUCES,Methemoglobin,nitric oxide,aapp,orch,1,PRODUCES_AAPPprodORCH
+C0025646,C0721474,PRODUCES,methionine,M-End,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0026669,C0014898,PRODUCES,MSH Release-Inhibiting Hormone,Esters,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0026682,C0023810,PRODUCES,mucins,Lipopolysaccharides,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0027803,C0037025,PRODUCES,Neuraminidase,Sialic Acids,aapp,orch,1,PRODUCES_AAPPprodORCH
@@ -275,7 +276,6 @@ C0299583,C0028128,PRODUCES,leptin,nitric oxide,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0301713,C0027388,PRODUCES,Aromatic Amino Acids,Naphthoquinones,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0301713,C0178638,PRODUCES,Aromatic Amino Acids,folate,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0304052,C0032594,PRODUCES,Plant Lectins,Polysaccharides,aapp,orch,1,PRODUCES_AAPPprodORCH
-C0312307,C0022947,PRODUCES,Oleate hydratase,Lactones,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0312586,C0028959,PRODUCES,Polyclonal antibody,Oligosaccharides,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0348035,C0013725,PRODUCES,oxidized low density lipoprotein,Eicosanoids,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0360722,C2717894,PRODUCES,Enzyme agent,Biodiesel,aapp,orch,1,PRODUCES_AAPPprodORCH
@@ -296,13 +296,13 @@ C0597094,C0603200,PRODUCES,nuclease,"1,2-di-(4-sulfamidophenyl)-4-butylpyrazolid
 C0597357,C0023779,PRODUCES,receptor,Lipids,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0597357,C0028128,PRODUCES,receptor,nitric oxide,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0597357,C0037025,PRODUCES,receptor,Sialic Acids,aapp,orch,1,PRODUCES_AAPPprodORCH
-C0597365,C0023810,PRODUCES,redoxin,Lipopolysaccharides,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0597551,C0014898,PRODUCES,synthetic peptide,Esters,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0597551,C0014996,PRODUCES,synthetic peptide,Ethers,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0597551,C0041964,PRODUCES,synthetic peptide,urethane,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0597790,C0014705,PRODUCES,Farnesyl-diphosphate farnesyltransferase,Ergosterol,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0597790,C0041113,PRODUCES,Farnesyl-diphosphate farnesyltransferase,Triterpenes,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0599220,C0038734,PRODUCES,Protein Subunits,Sulfhydryl Compounds,aapp,orch,1,PRODUCES_AAPPprodORCH
+C0599874,C0283159,PRODUCES,Dioxygenases,2-aminoacetaldehyde,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0669365,C0028128,PRODUCES,"NOS3 protein, human",nitric oxide,aapp,orch,2,PRODUCES_AAPPprodORCH
 C0669368,C0028128,PRODUCES,Nitric Oxide Synthase Type I,nitric oxide,aapp,orch,1,PRODUCES_AAPPprodORCH
 C0669372,C0028128,PRODUCES,"NOS2A protein, human",nitric oxide,aapp,orch,16,PRODUCES_AAPPprodORCH
@@ -433,6 +433,7 @@ C1706044,C0721062,PRODUCES,PTPN11 wt Allele,InFed,aapp,orch,1,PRODUCES_AAPPprodO
 C1709820,C0007188,PRODUCES,ROS1 wt Allele,Cardiolipins,aapp,orch,1,PRODUCES_AAPPprodORCH
 C1709820,C0023776,PRODUCES,ROS1 wt Allele,Lipid Peroxides,aapp,orch,1,PRODUCES_AAPPprodORCH
 C1709820,C0038617,PRODUCES,ROS1 wt Allele,Succinates,aapp,orch,1,PRODUCES_AAPPprodORCH
+C1709820,C0060239,PRODUCES,ROS1 wt Allele,ferric nitrilotriacetate,aapp,orch,1,PRODUCES_AAPPprodORCH
 C1709820,C4050026,PRODUCES,ROS1 wt Allele,Matrix,aapp,orch,1,PRODUCES_AAPPprodORCH
 C1742862,C0124568,PRODUCES,"CISH protein, human",ketene,aapp,orch,1,PRODUCES_AAPPprodORCH
 C1824356,C0025938,PRODUCES,RESF1 gene,Micelles,aapp,orch,1,PRODUCES_AAPPprodORCH

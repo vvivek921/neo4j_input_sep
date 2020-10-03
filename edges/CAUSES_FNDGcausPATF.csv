@@ -2,7 +2,6 @@ cui1,cui2,relation,name1,name2,type1,type2,weight,predicate
 C0000731,C0013604,CAUSES,Abdomen distended,Edema,fndg,patf,1,CAUSES_FNDGcausPATF
 C0003126,C0028778,CAUSES,Anosmia,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
 C0005758,C0274411,CAUSES,Bulla,Subcutaneous emphysema resulting from a procedure,fndg,patf,1,CAUSES_FNDGcausPATF
-C0006905,C0019080,CAUSES,Capillary Fragility,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
 C0007166,C0022116,CAUSES,Low Cardiac Output,Ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
 C0007166,C0028778,CAUSES,Low Cardiac Output,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
 C0007294,C0019080,CAUSES,Genetic Carriers,Hemorrhage,fndg,patf,1,CAUSES_FNDGcausPATF
@@ -338,6 +337,9 @@ C0231221,C4061114,CAUSES,Asymptomatic,Acute illness,fndg,patf,1,CAUSES_FNDGcausP
 C0231224,C0036974,CAUSES,Crisis,Shock,fndg,patf,18,CAUSES_FNDGcausPATF
 C0231224,C3203358,CAUSES,Crisis,Hypoventilation,fndg,patf,1,CAUSES_FNDGcausPATF
 C0231224,C3714514,CAUSES,Crisis,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231298,C0021655,CAUSES,Increased stress,Insulin Resistance,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231298,C0161816,CAUSES,Increased stress,Cardiac complication,fndg,patf,1,CAUSES_FNDGcausPATF
+C0231298,C0333462,CAUSES,Increased stress,Spongy degeneration,fndg,patf,1,CAUSES_FNDGcausPATF
 C0231337,C0013990,CAUSES,Senility,Pathological accumulation of air in tissues,fndg,patf,1,CAUSES_FNDGcausPATF
 C0231337,C1373218,CAUSES,Senility,Decreased Immunologic Activity [PE],fndg,patf,1,CAUSES_FNDGcausPATF
 C0231353,C0026846,CAUSES,Deficient Food Intake,Muscular Atrophy,fndg,patf,1,CAUSES_FNDGcausPATF
@@ -616,6 +618,16 @@ C0518609,C0011304,CAUSES,Consideration,Demyelination,fndg,patf,1,CAUSES_FNDGcaus
 C0518609,C0020517,CAUSES,Consideration,Hypersensitivity,fndg,patf,1,CAUSES_FNDGcausPATF
 C0518609,C0243083,CAUSES,Consideration,associated disease,fndg,patf,1,CAUSES_FNDGcausPATF
 C0518609,C1720824,CAUSES,Consideration,Sudden Cardiac Arrest,fndg,patf,1,CAUSES_FNDGcausPATF
+C0520818,C0002940,CAUSES,Increased pressure,Aneurysm,fndg,patf,1,CAUSES_FNDGcausPATF
+C0520818,C0004144,CAUSES,Increased pressure,Atelectasis,fndg,patf,1,CAUSES_FNDGcausPATF
+C0520818,C0013604,CAUSES,Increased pressure,Edema,fndg,patf,2,CAUSES_FNDGcausPATF
+C0520818,C0015376,CAUSES,Increased pressure,Extravasation,fndg,patf,4,CAUSES_FNDGcausPATF
+C0520818,C0026766,CAUSES,Increased pressure,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
+C0520818,C0028778,CAUSES,Increased pressure,Obstruction,fndg,patf,1,CAUSES_FNDGcausPATF
+C0520818,C0034063,CAUSES,Increased pressure,Pulmonary Edema,fndg,patf,4,CAUSES_FNDGcausPATF
+C0520818,C0232483,CAUSES,Increased pressure,Reflux,fndg,patf,1,CAUSES_FNDGcausPATF
+C0520818,C0242184,CAUSES,Increased pressure,Hypoxia,fndg,patf,1,CAUSES_FNDGcausPATF
+C0520818,C0333257,CAUSES,Increased pressure,Air leakage,fndg,patf,1,CAUSES_FNDGcausPATF
 C0520849,C0020542,CAUSES,Normal pulmonary arterial wedge pressure,Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
 C0520851,C0034063,CAUSES,Decreased pulmonary arterial wedge pressure,Pulmonary Edema,fndg,patf,1,CAUSES_FNDGcausPATF
 C0520891,C0857353,CAUSES,Decreased vascular resistance,Hypotensive,fndg,patf,1,CAUSES_FNDGcausPATF
@@ -799,6 +811,7 @@ C1277248,C3714514,CAUSES,General health poor,Infection,fndg,patf,1,CAUSES_FNDGca
 C1290905,C0020517,CAUSES,Discrepancy (finding),Hypersensitivity,fndg,patf,2,CAUSES_FNDGcausPATF
 C1290905,C3658220,CAUSES,Discrepancy (finding),Atrial Remodeling,fndg,patf,1,CAUSES_FNDGcausPATF
 C1290922,C0040038,CAUSES,Baseline state,Thromboembolism,fndg,patf,1,CAUSES_FNDGcausPATF
+C1291747,C0024524,CAUSES,Increased estrogen level,Malacia,fndg,patf,1,CAUSES_FNDGcausPATF
 C1295634,C3658208,CAUSES,Increased progesterone level,Dysbiosis,fndg,patf,1,CAUSES_FNDGcausPATF
 C1299448,C0036974,CAUSES,Patient ventilated,Shock,fndg,patf,2,CAUSES_FNDGcausPATF
 C1299586,C0013418,CAUSES,Has difficulty doing (qualifier value),Dystocia,fndg,patf,1,CAUSES_FNDGcausPATF
@@ -915,6 +928,7 @@ C1709157,C0206277,CAUSES,Negative Surgical Margin,Fatal Outcome,fndg,patf,1,CAUS
 C1709770,C0020542,CAUSES,Pulmonary Dysfunction,Pulmonary Hypertension,fndg,patf,1,CAUSES_FNDGcausPATF
 C1709770,C0026766,CAUSES,Pulmonary Dysfunction,Multiple Organ Failure,fndg,patf,1,CAUSES_FNDGcausPATF
 C1821244,C0032962,CAUSES,Normal development,Pregnancy Complications,fndg,patf,1,CAUSES_FNDGcausPATF
+C1821244,C0162291,CAUSES,Normal development,Retinal ischemia,fndg,patf,1,CAUSES_FNDGcausPATF
 C1821461,C3714514,CAUSES,Close Relationship,Infection,fndg,patf,1,CAUSES_FNDGcausPATF
 C1821718,C0021368,CAUSES,Diminished productivity,Inflammation,fndg,patf,4,CAUSES_FNDGcausPATF
 C1821718,C0700148,CAUSES,Diminished productivity,Congestion,fndg,patf,1,CAUSES_FNDGcausPATF

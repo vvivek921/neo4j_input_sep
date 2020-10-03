@@ -12,6 +12,7 @@ C0000970,C0239574,TREATS,acetaminophen,Low grade fever,orch,fndg,1,TREATS_ORCHtr
 C0000970,C0278138,TREATS,acetaminophen,Mild pain,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0000970,C0332155,TREATS,acetaminophen,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0000970,C0686750,TREATS,acetaminophen,Well adult,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0000970,C1558931,TREATS,acetaminophen,"Flu-Like Syndrome, CTCAE",orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0000970,C2712015,TREATS,acetaminophen,Better Pain,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0000970,C3280118,TREATS,acetaminophen,Mild disorder,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0000970,C4018909,TREATS,acetaminophen,Overdose,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -142,6 +143,7 @@ C0004906,C3687252,TREATS,beclomethasone dipropionate,Eosinophilic inflammation,o
 C0005024,C0150312,TREATS,Benzaldehydes,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0005026,C0150312,TREATS,benzalkonium chloride,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0005064,C0038661,TREATS,Benzodiazepines,Suicide,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0005064,C0150079,TREATS,Benzodiazepines,Sleep pattern disturbance,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0005064,C0231303,TREATS,Benzodiazepines,Distress,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0005064,C0231848,TREATS,Benzodiazepines,Air hunger,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0005064,C0235195,TREATS,Benzodiazepines,Sedated state,orch,fndg,8,TREATS_ORCHtrtsFNDG
@@ -226,6 +228,7 @@ C0008269,C3843661,TREATS,chloroquine,Too little,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0008269,C4018909,TREATS,chloroquine,Overdose,orch,fndg,7,TREATS_ORCHtrtsFNDG
 C0008269,C4050466,TREATS,chloroquine,Borg Category-Ratio 10 Perceived Exertion Score 5,orch,fndg,2,TREATS_ORCHtrtsFNDG
 C0008269,C4086268,TREATS,chloroquine,Exacerbation,orch,fndg,2,TREATS_ORCHtrtsFNDG
+C0008281,C1558931,TREATS,chlorpheniramine,"Flu-Like Syndrome, CTCAE",orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0008286,C0332155,TREATS,chlorpromazine,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0008286,C0517627,TREATS,chlorpromazine,Infection status,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0008286,C0871754,TREATS,chlorpromazine,Frail,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -626,7 +629,6 @@ C0025872,C3843156,TREATS,metronidazole,Less often,orch,fndg,1,TREATS_ORCHtrtsFND
 C0025872,C4050466,TREATS,metronidazole,Borg Category-Ratio 10 Perceived Exertion Score 5,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0025872,C4055223,TREATS,metronidazole,Clinical Response,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0025872,C4289767,TREATS,metronidazole,Colonization,orch,fndg,1,TREATS_ORCHtrtsFNDG
-C0025912,C4018909,TREATS,mianserin,Overdose,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0026056,C0235195,TREATS,midazolam,Sedated state,orch,fndg,7,TREATS_ORCHtrtsFNDG
 C0026056,C1545588,TREATS,midazolam,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0026056,C3714738,TREATS,midazolam,Compliance,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -643,7 +645,6 @@ C0026549,C0556025,TREATS,morphine,Injecting drug user,orch,fndg,1,TREATS_ORCHtrt
 C0026549,C0564182,TREATS,morphine,Vocalization (finding),orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0026549,C3843787,TREATS,morphine,10 - 12,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0027235,C4086268,TREATS,ipratropium,Exacerbation,orch,fndg,2,TREATS_ORCHtrtsFNDG
-C0027302,C0745114,TREATS,nadolol,hypertension chronic,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0027358,C0566217,TREATS,naloxone,Does ask questions,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0027358,C4018909,TREATS,naloxone,Overdose,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0027360,C0020505,TREATS,naltrexone,Hyperphagia,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -664,7 +665,6 @@ C0028017,C1444656,TREATS,niclosamide,Indicated,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0028027,C0522569,TREATS,niacinamide,Severe inflammation,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0028027,C1859543,TREATS,niacinamide,Severe colitis,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0028066,C4013784,TREATS,nifedipine,"Hypertension, severe",orch,fndg,1,TREATS_ORCHtrtsFNDG
-C0028116,C0241863,TREATS,nisoldipine,diabetic,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0028128,C0150312,TREATS,nitric oxide,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0028128,C0221198,TREATS,nitric oxide,Lesion,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0028128,C0231287,TREATS,nitric oxide,Postoperative state,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -706,6 +706,7 @@ C0031412,C1148454,TREATS,phenobarbital,seizure activity,orch,fndg,2,TREATS_ORCHt
 C0031428,C0150312,TREATS,Phenols,Present,orch,fndg,6,TREATS_ORCHtrtsFNDG
 C0031428,C3840880,TREATS,Phenols,Traffic,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0031469,C0020649,TREATS,phenylephrine,Hypotension,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0031469,C1558931,TREATS,phenylephrine,"Flu-Like Syndrome, CTCAE",orch,fndg,2,TREATS_ORCHtrtsFNDG
 C0031469,C4554631,TREATS,phenylephrine,"Nasal Congestion, CTCAE",orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0031495,C4554631,TREATS,phenylpropanolamine,"Nasal Congestion, CTCAE",orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0031507,C0221198,TREATS,phenytoin,Lesion,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -942,6 +943,7 @@ C0049019,C0439663,TREATS,"5-(N,N-hexamethylene)amiloride",Infected,orch,fndg,1,T
 C0050218,C2748698,TREATS,9-deoxy-delta-9-prostaglandin D2,Portal inflammation,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0050451,C0150312,TREATS,acetohydroxamic acid,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0050451,C3845593,TREATS,acetohydroxamic acid,Major change,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0050465,C0231298,TREATS,acetovanillone,Increased stress,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0050523,C0150312,TREATS,acetylhydrazine,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0050940,C4699604,TREATS,lansoprazole,<12 months,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0051696,C0745114,TREATS,amlodipine,hypertension chronic,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -993,7 +995,6 @@ C0058903,C0150312,TREATS,ebselen,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0059438,C0150312,TREATS,epigallocatechin gallate,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0059438,C0442797,TREATS,epigallocatechin gallate,Decreasing,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0059438,C3809112,TREATS,epigallocatechin gallate,White skin,orch,fndg,2,TREATS_ORCHtrtsFNDG
-C0059525,C0150312,TREATS,Eriochrome Black T,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0059804,C0150312,TREATS,ethylene diurea,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0059872,C0150312,TREATS,etomoxir,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0060237,C1519255,TREATS,ferric maltol,Serious Adverse Event,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -1093,7 +1094,6 @@ C0073096,C0424575,TREATS,resveratrol,General health,orch,fndg,1,TREATS_ORCHtrtsF
 C0073096,C3842459,TREATS,resveratrol,Energetic,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0073361,C4321351,TREATS,RID,Low Level,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0073393,C1285577,TREATS,risperidone,Acute confusional state,orch,fndg,1,TREATS_ORCHtrtsFNDG
-C0073889,C0150312,TREATS,S-methylisothiopseudouronium,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0073992,C4086268,TREATS,salmeterol,Exacerbation,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0074089,C0150312,TREATS,savlon,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0074554,C0221198,TREATS,simvastatin,Lesion,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -1196,7 +1196,6 @@ C0129975,C1514463,TREATS,camostat,Prior Therapy,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0130137,C1299448,TREATS,sivelestat,Patient ventilated,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0132326,C0439663,TREATS,nevirapine,Infected,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0132326,C1855068,TREATS,nevirapine,Low CD4+ count,orch,fndg,1,TREATS_ORCHtrtsFNDG
-C0132512,C3809218,TREATS,nilvadipine,Retinal dysfunction,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0134258,C0150312,TREATS,xylometazoline hydrochloride,Present,orch,fndg,2,TREATS_ORCHtrtsFNDG
 C0134258,C4554631,TREATS,xylometazoline hydrochloride,"Nasal Congestion, CTCAE",orch,fndg,2,TREATS_ORCHtrtsFNDG
 C0140924,C0231224,TREATS,RQ2,Crisis,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -1237,6 +1236,7 @@ C0169014,C0150312,TREATS,erucylphosphocholine,Present,orch,fndg,2,TREATS_ORCHtrt
 C0171023,C0235195,TREATS,olanzapine,Sedated state,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0172217,C0085393,TREATS,arsenal,Immunocompromised Host,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0172217,C0231224,TREATS,arsenal,Crisis,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0172217,C0332218,TREATS,arsenal,Difficult (qualifier value),orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0172217,C1318963,TREATS,arsenal,Readiness,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0172217,C4699368,TREATS,arsenal,Wild-type strain,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0205758,C4055223,TREATS,racepinephrine,Clinical Response,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -1338,8 +1338,6 @@ C0289969,C0333361,TREATS,2-chloro-N(6)-(3-iodobenzyl)adenosine-5'-N-methyluronam
 C0289969,C0581126,TREATS,2-chloro-N(6)-(3-iodobenzyl)adenosine-5'-N-methyluronamide,Severe asthma,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0289969,C1709770,TREATS,2-chloro-N(6)-(3-iodobenzyl)adenosine-5'-N-methyluronamide,Pulmonary Dysfunction,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0291457,C4699604,TREATS,AS 8,<12 months,orch,fndg,1,TREATS_ORCHtrtsFNDG
-C0291459,C0020649,TREATS,GR 127935,Hypotension,orch,fndg,1,TREATS_ORCHtrtsFNDG
-C0291459,C0080203,TREATS,GR 127935,Tachyarrhythmia,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0291985,C0150312,TREATS,SB 202190,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0292818,C0150312,TREATS,ritonavir,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0292818,C0151878,TREATS,ritonavir,Prolonged QT interval,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -1481,6 +1479,7 @@ C0674432,C4050466,TREATS,lopinavir,Borg Category-Ratio 10 Perceived Exertion Sco
 C0674432,C4055223,TREATS,lopinavir,Clinical Response,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0674432,C4321237,TREATS,lopinavir,High Level,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0678133,C0150312,TREATS,Taxol,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0699680,C0080048,TREATS,Metric (substance),Privacy,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0699680,C0087130,TREATS,Metric (substance),Uncertainty,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0699680,C0150312,TREATS,Metric (substance),Present,orch,fndg,3,TREATS_ORCHtrtsFNDG
 C0699680,C0231224,TREATS,Metric (substance),Crisis,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -1564,6 +1563,7 @@ C0874161,C1262477,TREATS,oseltamivir,Weight decreased,orch,fndg,1,TREATS_ORCHtrt
 C0874161,C1299448,TREATS,oseltamivir,Patient ventilated,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0874161,C1444662,TREATS,oseltamivir,Discontinued,orch,fndg,2,TREATS_ORCHtrtsFNDG
 C0874161,C1545588,TREATS,oseltamivir,Protection,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C0874161,C1558931,TREATS,oseltamivir,"Flu-Like Syndrome, CTCAE",orch,fndg,2,TREATS_ORCHtrtsFNDG
 C0874161,C1836348,TREATS,oseltamivir,Severe disorder,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0874161,C1855575,TREATS,oseltamivir,Very rare,orch,fndg,2,TREATS_ORCHtrtsFNDG
 C0874161,C2597943,TREATS,oseltamivir,Index case,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -1628,7 +1628,6 @@ C0949665,C4699164,TREATS,Fluoroquinolones,Poor function,orch,fndg,1,TREATS_ORCHt
 C0949665,C4740691,TREATS,Fluoroquinolones,Moderate disease,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0950191,C0150312,TREATS,cetrimide,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0961485,C0033687,TREATS,eplerenone,Proteinuria,orch,fndg,1,TREATS_ORCHtrtsFNDG
-C0961485,C0745130,TREATS,eplerenone,Resistant hypertensive disorder,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0961485,C1299586,TREATS,eplerenone,Has difficulty doing (qualifier value),orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0965129,C0456181,TREATS,rosuvastatin,Right ventricular systolic pressure level,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C0965129,C4699604,TREATS,rosuvastatin,<12 months,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -1672,6 +1671,7 @@ C1138226,C3842672,TREATS,favipiravir,Day 7,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C1145759,C0424589,TREATS,atazanavir,Vitality,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C1145759,C3843647,TREATS,atazanavir,> 2 years,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C1176020,C0332155,TREATS,sunitinib,Did not receive therapy or drug for,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C1176020,C0475440,TREATS,sunitinib,Tumor size,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C1176020,C1444662,TREATS,sunitinib,Discontinued,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C1176020,C4321351,TREATS,sunitinib,Low Level,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C1176309,C0184511,TREATS,bortezomib,Improved,orch,fndg,1,TREATS_ORCHtrtsFNDG
@@ -1685,6 +1685,7 @@ C1257987,C0009488,TREATS,Thiazolidinediones,Comorbidity,orch,fndg,1,TREATS_ORCHt
 C1257987,C0232807,TREATS,Thiazolidinediones,Decreased renal function,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C1257987,C2825972,TREATS,Thiazolidinediones,Cant,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C1312124,C1545588,TREATS,bicyclol,Protection,orch,fndg,2,TREATS_ORCHtrtsFNDG
+C1337242,C1444662,TREATS,cinacalcet,Discontinued,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C1435444,C0439663,TREATS,darunavir,Infected,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C1435444,C3845888,TREATS,darunavir,Known allergy,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C1436435,C0150312,TREATS,NTZ,Present,orch,fndg,2,TREATS_ORCHtrtsFNDG
@@ -1770,6 +1771,7 @@ C2825146,C0150312,TREATS,Aversion,Present,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C2825616,C0424000,TREATS,esketamine,Feeling suicidal (finding),orch,fndg,1,TREATS_ORCHtrtsFNDG
 C2828242,C4050466,TREATS,saracatinib,Borg Category-Ratio 10 Perceived Exertion Score 5,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C2830015,C0241863,TREATS,INT 747,diabetic,orch,fndg,1,TREATS_ORCHtrtsFNDG
+C2926735,C0021613,TREATS,Duration,Inspiratory Reserve Volume,orch,fndg,2,TREATS_ORCHtrtsFNDG
 C2926735,C0033687,TREATS,Duration,Proteinuria,orch,fndg,1,TREATS_ORCHtrtsFNDG
 C2926735,C0038435,TREATS,Duration,Stress,orch,fndg,3,TREATS_ORCHtrtsFNDG
 C2926735,C0043084,TREATS,Duration,Weaning,orch,fndg,1,TREATS_ORCHtrtsFNDG

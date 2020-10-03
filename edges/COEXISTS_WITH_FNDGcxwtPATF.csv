@@ -25,6 +25,7 @@ C0015663,C0021368,COEXISTS_WITH,Fasting,Inflammation,fndg,patf,1,COEXISTS_WITH_F
 C0015663,C0021655,COEXISTS_WITH,Fasting,Insulin Resistance,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0015663,C3714514,COEXISTS_WITH,Fasting,Infection,fndg,patf,6,COEXISTS_WITH_FNDGcxwtPATF
 C0016928,C1155266,COEXISTS_WITH,Gait,Inflammatory Response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0018748,C4061114,COEXISTS_WITH,Health Services Accessibility,Acute illness,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0018800,C0034063,COEXISTS_WITH,Cardiomegaly,Pulmonary Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0018800,C0087086,COEXISTS_WITH,Cardiomegaly,Thrombus,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0018800,C0242656,COEXISTS_WITH,Cardiomegaly,Disease Progression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
@@ -160,6 +161,7 @@ C0041667,C0021368,COEXISTS_WITH,Underweight,Inflammation,fndg,patf,1,COEXISTS_WI
 C0043084,C0878751,COEXISTS_WITH,Weaning,late pregnancy,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0043094,C0920563,COEXISTS_WITH,Weight Gain,Insulin Sensitivity,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0043094,C3714514,COEXISTS_WITH,Weight Gain,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0080048,C0036679,COEXISTS_WITH,Privacy,Diastasis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0080203,C0013604,COEXISTS_WITH,Tachyarrhythmia,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0085128,C0036974,COEXISTS_WITH,"Cardiac Output, High",Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0085128,C0036983,COEXISTS_WITH,"Cardiac Output, High",Septic Shock,fndg,patf,2,COEXISTS_WITH_FNDGcxwtPATF
@@ -375,6 +377,8 @@ C0231224,C0684320,COEXISTS_WITH,Crisis,Disease regression,fndg,patf,1,COEXISTS_W
 C0231224,C1155266,COEXISTS_WITH,Crisis,Inflammatory Response,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0231255,C0013990,COEXISTS_WITH,Decreased body mass index,Pathological accumulation of air in tissues,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0231255,C0020542,COEXISTS_WITH,Decreased body mass index,Pulmonary Hypertension,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0231298,C0242184,COEXISTS_WITH,Increased stress,Hypoxia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0231298,C1155266,COEXISTS_WITH,Increased stress,Inflammatory Response,fndg,patf,2,COEXISTS_WITH_FNDGcxwtPATF
 C0231303,C0036679,COEXISTS_WITH,Distress,Diastasis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0231303,C0151526,COEXISTS_WITH,Distress,Premature Birth,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0231303,C4061114,COEXISTS_WITH,Distress,Acute illness,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
@@ -692,6 +696,9 @@ C0518609,C0235029,COEXISTS_WITH,Consideration,neurological complication,fndg,pat
 C0518609,C0333563,COEXISTS_WITH,Consideration,Hyaline membrane,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0518609,C0543419,COEXISTS_WITH,Consideration,Sequela of disorder,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0518609,C3714514,COEXISTS_WITH,Consideration,Infection,fndg,patf,3,COEXISTS_WITH_FNDGcxwtPATF
+C0520818,C0013604,COEXISTS_WITH,Increased pressure,Edema,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0520818,C0232483,COEXISTS_WITH,Increased pressure,Reflux,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0520818,C0242184,COEXISTS_WITH,Increased pressure,Hypoxia,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0520854,C0036974,COEXISTS_WITH,Decreased mean arterial pressure,Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0520890,C0020542,COEXISTS_WITH,Increased vascular resistance,Pulmonary Hypertension,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0520891,C0036974,COEXISTS_WITH,Decreased vascular resistance,Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
@@ -716,6 +723,7 @@ C0541847,C0021376,COEXISTS_WITH,cortisol high,Chronic inflammation,fndg,patf,1,C
 C0544726,C0013687,COEXISTS_WITH,Hole Finding,effusion,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0544726,C0024348,COEXISTS_WITH,Hole Finding,Lysis,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0546259,C0012359,COEXISTS_WITH,Tracheostomy site,Pathological Dilatation,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0546474,C1112318,COEXISTS_WITH,Chorangiosis,Meconium staining,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0546884,C0036983,COEXISTS_WITH,Hypovolemia,Septic Shock,fndg,patf,2,COEXISTS_WITH_FNDGcxwtPATF
 C0549397,C0028778,COEXISTS_WITH,Deviated nasal septum,Obstruction,fndg,patf,2,COEXISTS_WITH_FNDGcxwtPATF
 C0552506,C0242656,COEXISTS_WITH,Immunization status,Disease Progression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
@@ -744,6 +752,7 @@ C0595998,C0028778,COEXISTS_WITH,Household composition,Obstruction,fndg,patf,3,CO
 C0595998,C0036974,COEXISTS_WITH,Household composition,Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0595998,C0449430,COEXISTS_WITH,Household composition,Physiological Stress,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0595998,C3714514,COEXISTS_WITH,Household composition,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C0597680,C0543419,COEXISTS_WITH,Water Quality,Sequela of disorder,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0600138,C0333525,COEXISTS_WITH,Does play,Maceration,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0600140,C0684320,COEXISTS_WITH,Does run (finding),Disease regression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C0600457,C0000821,COEXISTS_WITH,Gravidity,Threatened abortion,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
@@ -882,6 +891,7 @@ C1290916,C0016059,COEXISTS_WITH,Radiologic finding,Fibrosis,fndg,patf,1,COEXISTS
 C1290916,C0036974,COEXISTS_WITH,Radiologic finding,Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C1290916,C0242656,COEXISTS_WITH,Radiologic finding,Disease Progression,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C1290916,C3714514,COEXISTS_WITH,Radiologic finding,Infection,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
+C1291747,C0036974,COEXISTS_WITH,Increased estrogen level,Shock,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
 C1299448,C0036974,COEXISTS_WITH,Patient ventilated,Shock,fndg,patf,2,COEXISTS_WITH_FNDGcxwtPATF
 C1299448,C0036983,COEXISTS_WITH,Patient ventilated,Septic Shock,fndg,patf,2,COEXISTS_WITH_FNDGcxwtPATF
 C1299586,C0002940,COEXISTS_WITH,Has difficulty doing (qualifier value),Aneurysm,fndg,patf,1,COEXISTS_WITH_FNDGcxwtPATF
